@@ -1,0 +1,6007 @@
+{
+  "state": "Missouri",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 600,
+  "zipcodes": [
+    {
+      "zip_code": "63000",
+      "zip_extension": "",
+      "primary_city": "City_63000",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63005",
+      "zip_extension": "",
+      "primary_city": "City_63005",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63010",
+      "zip_extension": "",
+      "primary_city": "City_63010",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63015",
+      "zip_extension": "",
+      "primary_city": "City_63015",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63020",
+      "zip_extension": "",
+      "primary_city": "City_63020",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63025",
+      "zip_extension": "",
+      "primary_city": "City_63025",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63030",
+      "zip_extension": "",
+      "primary_city": "City_63030",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63035",
+      "zip_extension": "",
+      "primary_city": "City_63035",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63040",
+      "zip_extension": "",
+      "primary_city": "City_63040",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63045",
+      "zip_extension": "",
+      "primary_city": "City_63045",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63050",
+      "zip_extension": "",
+      "primary_city": "City_63050",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63055",
+      "zip_extension": "",
+      "primary_city": "City_63055",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63060",
+      "zip_extension": "",
+      "primary_city": "City_63060",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63065",
+      "zip_extension": "",
+      "primary_city": "City_63065",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63070",
+      "zip_extension": "",
+      "primary_city": "City_63070",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63075",
+      "zip_extension": "",
+      "primary_city": "City_63075",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63080",
+      "zip_extension": "",
+      "primary_city": "City_63080",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63085",
+      "zip_extension": "",
+      "primary_city": "City_63085",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63090",
+      "zip_extension": "",
+      "primary_city": "City_63090",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63095",
+      "zip_extension": "",
+      "primary_city": "City_63095",
+      "acceptable_cities": "",
+      "county": "County_630",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63100",
+      "zip_extension": "",
+      "primary_city": "City_63100",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63105",
+      "zip_extension": "",
+      "primary_city": "City_63105",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63110",
+      "zip_extension": "",
+      "primary_city": "City_63110",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63115",
+      "zip_extension": "",
+      "primary_city": "City_63115",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63120",
+      "zip_extension": "",
+      "primary_city": "City_63120",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63125",
+      "zip_extension": "",
+      "primary_city": "City_63125",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63130",
+      "zip_extension": "",
+      "primary_city": "City_63130",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63135",
+      "zip_extension": "",
+      "primary_city": "City_63135",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63140",
+      "zip_extension": "",
+      "primary_city": "City_63140",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63145",
+      "zip_extension": "",
+      "primary_city": "City_63145",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63150",
+      "zip_extension": "",
+      "primary_city": "City_63150",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63155",
+      "zip_extension": "",
+      "primary_city": "City_63155",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63160",
+      "zip_extension": "",
+      "primary_city": "City_63160",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63165",
+      "zip_extension": "",
+      "primary_city": "City_63165",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63170",
+      "zip_extension": "",
+      "primary_city": "City_63170",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63175",
+      "zip_extension": "",
+      "primary_city": "City_63175",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63180",
+      "zip_extension": "",
+      "primary_city": "City_63180",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63185",
+      "zip_extension": "",
+      "primary_city": "City_63185",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63190",
+      "zip_extension": "",
+      "primary_city": "City_63190",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63195",
+      "zip_extension": "",
+      "primary_city": "City_63195",
+      "acceptable_cities": "",
+      "county": "County_631",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63200",
+      "zip_extension": "",
+      "primary_city": "City_63200",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63205",
+      "zip_extension": "",
+      "primary_city": "City_63205",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63210",
+      "zip_extension": "",
+      "primary_city": "City_63210",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63215",
+      "zip_extension": "",
+      "primary_city": "City_63215",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63220",
+      "zip_extension": "",
+      "primary_city": "City_63220",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63225",
+      "zip_extension": "",
+      "primary_city": "City_63225",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63230",
+      "zip_extension": "",
+      "primary_city": "City_63230",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63235",
+      "zip_extension": "",
+      "primary_city": "City_63235",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63240",
+      "zip_extension": "",
+      "primary_city": "City_63240",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63245",
+      "zip_extension": "",
+      "primary_city": "City_63245",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63250",
+      "zip_extension": "",
+      "primary_city": "City_63250",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63255",
+      "zip_extension": "",
+      "primary_city": "City_63255",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63260",
+      "zip_extension": "",
+      "primary_city": "City_63260",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63265",
+      "zip_extension": "",
+      "primary_city": "City_63265",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63270",
+      "zip_extension": "",
+      "primary_city": "City_63270",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63275",
+      "zip_extension": "",
+      "primary_city": "City_63275",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63280",
+      "zip_extension": "",
+      "primary_city": "City_63280",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63285",
+      "zip_extension": "",
+      "primary_city": "City_63285",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63290",
+      "zip_extension": "",
+      "primary_city": "City_63290",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63295",
+      "zip_extension": "",
+      "primary_city": "City_63295",
+      "acceptable_cities": "",
+      "county": "County_632",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63300",
+      "zip_extension": "",
+      "primary_city": "City_63300",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63305",
+      "zip_extension": "",
+      "primary_city": "City_63305",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63310",
+      "zip_extension": "",
+      "primary_city": "City_63310",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63315",
+      "zip_extension": "",
+      "primary_city": "City_63315",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63320",
+      "zip_extension": "",
+      "primary_city": "City_63320",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63325",
+      "zip_extension": "",
+      "primary_city": "City_63325",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63330",
+      "zip_extension": "",
+      "primary_city": "City_63330",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63335",
+      "zip_extension": "",
+      "primary_city": "City_63335",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63340",
+      "zip_extension": "",
+      "primary_city": "City_63340",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63345",
+      "zip_extension": "",
+      "primary_city": "City_63345",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63350",
+      "zip_extension": "",
+      "primary_city": "City_63350",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63355",
+      "zip_extension": "",
+      "primary_city": "City_63355",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63360",
+      "zip_extension": "",
+      "primary_city": "City_63360",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63365",
+      "zip_extension": "",
+      "primary_city": "City_63365",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63370",
+      "zip_extension": "",
+      "primary_city": "City_63370",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63375",
+      "zip_extension": "",
+      "primary_city": "City_63375",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63380",
+      "zip_extension": "",
+      "primary_city": "City_63380",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63385",
+      "zip_extension": "",
+      "primary_city": "City_63385",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63390",
+      "zip_extension": "",
+      "primary_city": "City_63390",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63395",
+      "zip_extension": "",
+      "primary_city": "City_63395",
+      "acceptable_cities": "",
+      "county": "County_633",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63400",
+      "zip_extension": "",
+      "primary_city": "City_63400",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63405",
+      "zip_extension": "",
+      "primary_city": "City_63405",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63410",
+      "zip_extension": "",
+      "primary_city": "City_63410",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63415",
+      "zip_extension": "",
+      "primary_city": "City_63415",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63420",
+      "zip_extension": "",
+      "primary_city": "City_63420",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63425",
+      "zip_extension": "",
+      "primary_city": "City_63425",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63430",
+      "zip_extension": "",
+      "primary_city": "City_63430",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63435",
+      "zip_extension": "",
+      "primary_city": "City_63435",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63440",
+      "zip_extension": "",
+      "primary_city": "City_63440",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63445",
+      "zip_extension": "",
+      "primary_city": "City_63445",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63450",
+      "zip_extension": "",
+      "primary_city": "City_63450",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63455",
+      "zip_extension": "",
+      "primary_city": "City_63455",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63460",
+      "zip_extension": "",
+      "primary_city": "City_63460",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63465",
+      "zip_extension": "",
+      "primary_city": "City_63465",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63470",
+      "zip_extension": "",
+      "primary_city": "City_63470",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63475",
+      "zip_extension": "",
+      "primary_city": "City_63475",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63480",
+      "zip_extension": "",
+      "primary_city": "City_63480",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63485",
+      "zip_extension": "",
+      "primary_city": "City_63485",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63490",
+      "zip_extension": "",
+      "primary_city": "City_63490",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63495",
+      "zip_extension": "",
+      "primary_city": "City_63495",
+      "acceptable_cities": "",
+      "county": "County_634",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63500",
+      "zip_extension": "",
+      "primary_city": "City_63500",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63505",
+      "zip_extension": "",
+      "primary_city": "City_63505",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63510",
+      "zip_extension": "",
+      "primary_city": "City_63510",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63515",
+      "zip_extension": "",
+      "primary_city": "City_63515",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63520",
+      "zip_extension": "",
+      "primary_city": "City_63520",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63525",
+      "zip_extension": "",
+      "primary_city": "City_63525",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63530",
+      "zip_extension": "",
+      "primary_city": "City_63530",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63535",
+      "zip_extension": "",
+      "primary_city": "City_63535",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63540",
+      "zip_extension": "",
+      "primary_city": "City_63540",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63545",
+      "zip_extension": "",
+      "primary_city": "City_63545",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63550",
+      "zip_extension": "",
+      "primary_city": "City_63550",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63555",
+      "zip_extension": "",
+      "primary_city": "City_63555",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63560",
+      "zip_extension": "",
+      "primary_city": "City_63560",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63565",
+      "zip_extension": "",
+      "primary_city": "City_63565",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63570",
+      "zip_extension": "",
+      "primary_city": "City_63570",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63575",
+      "zip_extension": "",
+      "primary_city": "City_63575",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63580",
+      "zip_extension": "",
+      "primary_city": "City_63580",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63585",
+      "zip_extension": "",
+      "primary_city": "City_63585",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63590",
+      "zip_extension": "",
+      "primary_city": "City_63590",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63595",
+      "zip_extension": "",
+      "primary_city": "City_63595",
+      "acceptable_cities": "",
+      "county": "County_635",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63600",
+      "zip_extension": "",
+      "primary_city": "City_63600",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63605",
+      "zip_extension": "",
+      "primary_city": "City_63605",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63610",
+      "zip_extension": "",
+      "primary_city": "City_63610",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63615",
+      "zip_extension": "",
+      "primary_city": "City_63615",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63620",
+      "zip_extension": "",
+      "primary_city": "City_63620",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63625",
+      "zip_extension": "",
+      "primary_city": "City_63625",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63630",
+      "zip_extension": "",
+      "primary_city": "City_63630",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63635",
+      "zip_extension": "",
+      "primary_city": "City_63635",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63640",
+      "zip_extension": "",
+      "primary_city": "City_63640",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63645",
+      "zip_extension": "",
+      "primary_city": "City_63645",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63650",
+      "zip_extension": "",
+      "primary_city": "City_63650",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63655",
+      "zip_extension": "",
+      "primary_city": "City_63655",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63660",
+      "zip_extension": "",
+      "primary_city": "City_63660",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63665",
+      "zip_extension": "",
+      "primary_city": "City_63665",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63670",
+      "zip_extension": "",
+      "primary_city": "City_63670",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63675",
+      "zip_extension": "",
+      "primary_city": "City_63675",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63680",
+      "zip_extension": "",
+      "primary_city": "City_63680",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63685",
+      "zip_extension": "",
+      "primary_city": "City_63685",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63690",
+      "zip_extension": "",
+      "primary_city": "City_63690",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63695",
+      "zip_extension": "",
+      "primary_city": "City_63695",
+      "acceptable_cities": "",
+      "county": "County_636",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63700",
+      "zip_extension": "",
+      "primary_city": "City_63700",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63705",
+      "zip_extension": "",
+      "primary_city": "City_63705",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63710",
+      "zip_extension": "",
+      "primary_city": "City_63710",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63715",
+      "zip_extension": "",
+      "primary_city": "City_63715",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63720",
+      "zip_extension": "",
+      "primary_city": "City_63720",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63725",
+      "zip_extension": "",
+      "primary_city": "City_63725",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63730",
+      "zip_extension": "",
+      "primary_city": "City_63730",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63735",
+      "zip_extension": "",
+      "primary_city": "City_63735",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63740",
+      "zip_extension": "",
+      "primary_city": "City_63740",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63745",
+      "zip_extension": "",
+      "primary_city": "City_63745",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63750",
+      "zip_extension": "",
+      "primary_city": "City_63750",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63755",
+      "zip_extension": "",
+      "primary_city": "City_63755",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63760",
+      "zip_extension": "",
+      "primary_city": "City_63760",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63765",
+      "zip_extension": "",
+      "primary_city": "City_63765",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63770",
+      "zip_extension": "",
+      "primary_city": "City_63770",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63775",
+      "zip_extension": "",
+      "primary_city": "City_63775",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63780",
+      "zip_extension": "",
+      "primary_city": "City_63780",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63785",
+      "zip_extension": "",
+      "primary_city": "City_63785",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63790",
+      "zip_extension": "",
+      "primary_city": "City_63790",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63795",
+      "zip_extension": "",
+      "primary_city": "City_63795",
+      "acceptable_cities": "",
+      "county": "County_637",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63800",
+      "zip_extension": "",
+      "primary_city": "City_63800",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63805",
+      "zip_extension": "",
+      "primary_city": "City_63805",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63810",
+      "zip_extension": "",
+      "primary_city": "City_63810",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63815",
+      "zip_extension": "",
+      "primary_city": "City_63815",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63820",
+      "zip_extension": "",
+      "primary_city": "City_63820",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63825",
+      "zip_extension": "",
+      "primary_city": "City_63825",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63830",
+      "zip_extension": "",
+      "primary_city": "City_63830",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63835",
+      "zip_extension": "",
+      "primary_city": "City_63835",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63840",
+      "zip_extension": "",
+      "primary_city": "City_63840",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63845",
+      "zip_extension": "",
+      "primary_city": "City_63845",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63850",
+      "zip_extension": "",
+      "primary_city": "City_63850",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63855",
+      "zip_extension": "",
+      "primary_city": "City_63855",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63860",
+      "zip_extension": "",
+      "primary_city": "City_63860",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63865",
+      "zip_extension": "",
+      "primary_city": "City_63865",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63870",
+      "zip_extension": "",
+      "primary_city": "City_63870",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63875",
+      "zip_extension": "",
+      "primary_city": "City_63875",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63880",
+      "zip_extension": "",
+      "primary_city": "City_63880",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63885",
+      "zip_extension": "",
+      "primary_city": "City_63885",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63890",
+      "zip_extension": "",
+      "primary_city": "City_63890",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63895",
+      "zip_extension": "",
+      "primary_city": "City_63895",
+      "acceptable_cities": "",
+      "county": "County_638",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63900",
+      "zip_extension": "",
+      "primary_city": "City_63900",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63905",
+      "zip_extension": "",
+      "primary_city": "City_63905",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63910",
+      "zip_extension": "",
+      "primary_city": "City_63910",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63915",
+      "zip_extension": "",
+      "primary_city": "City_63915",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63920",
+      "zip_extension": "",
+      "primary_city": "City_63920",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63925",
+      "zip_extension": "",
+      "primary_city": "City_63925",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63930",
+      "zip_extension": "",
+      "primary_city": "City_63930",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63935",
+      "zip_extension": "",
+      "primary_city": "City_63935",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63940",
+      "zip_extension": "",
+      "primary_city": "City_63940",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63945",
+      "zip_extension": "",
+      "primary_city": "City_63945",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63950",
+      "zip_extension": "",
+      "primary_city": "City_63950",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63955",
+      "zip_extension": "",
+      "primary_city": "City_63955",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63960",
+      "zip_extension": "",
+      "primary_city": "City_63960",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63965",
+      "zip_extension": "",
+      "primary_city": "City_63965",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63970",
+      "zip_extension": "",
+      "primary_city": "City_63970",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63975",
+      "zip_extension": "",
+      "primary_city": "City_63975",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63980",
+      "zip_extension": "",
+      "primary_city": "City_63980",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63985",
+      "zip_extension": "",
+      "primary_city": "City_63985",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63990",
+      "zip_extension": "",
+      "primary_city": "City_63990",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "63995",
+      "zip_extension": "",
+      "primary_city": "City_63995",
+      "acceptable_cities": "",
+      "county": "County_639",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64000",
+      "zip_extension": "",
+      "primary_city": "City_64000",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64005",
+      "zip_extension": "",
+      "primary_city": "City_64005",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64010",
+      "zip_extension": "",
+      "primary_city": "City_64010",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64015",
+      "zip_extension": "",
+      "primary_city": "City_64015",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64020",
+      "zip_extension": "",
+      "primary_city": "City_64020",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64025",
+      "zip_extension": "",
+      "primary_city": "City_64025",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64030",
+      "zip_extension": "",
+      "primary_city": "City_64030",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64035",
+      "zip_extension": "",
+      "primary_city": "City_64035",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64040",
+      "zip_extension": "",
+      "primary_city": "City_64040",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64045",
+      "zip_extension": "",
+      "primary_city": "City_64045",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64050",
+      "zip_extension": "",
+      "primary_city": "City_64050",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64055",
+      "zip_extension": "",
+      "primary_city": "City_64055",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64060",
+      "zip_extension": "",
+      "primary_city": "City_64060",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64065",
+      "zip_extension": "",
+      "primary_city": "City_64065",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64070",
+      "zip_extension": "",
+      "primary_city": "City_64070",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64075",
+      "zip_extension": "",
+      "primary_city": "City_64075",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64080",
+      "zip_extension": "",
+      "primary_city": "City_64080",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64085",
+      "zip_extension": "",
+      "primary_city": "City_64085",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64090",
+      "zip_extension": "",
+      "primary_city": "City_64090",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64095",
+      "zip_extension": "",
+      "primary_city": "City_64095",
+      "acceptable_cities": "",
+      "county": "County_640",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64100",
+      "zip_extension": "",
+      "primary_city": "City_64100",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64105",
+      "zip_extension": "",
+      "primary_city": "City_64105",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64110",
+      "zip_extension": "",
+      "primary_city": "City_64110",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64115",
+      "zip_extension": "",
+      "primary_city": "City_64115",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64120",
+      "zip_extension": "",
+      "primary_city": "City_64120",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64125",
+      "zip_extension": "",
+      "primary_city": "City_64125",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64130",
+      "zip_extension": "",
+      "primary_city": "City_64130",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64135",
+      "zip_extension": "",
+      "primary_city": "City_64135",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64140",
+      "zip_extension": "",
+      "primary_city": "City_64140",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64145",
+      "zip_extension": "",
+      "primary_city": "City_64145",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64150",
+      "zip_extension": "",
+      "primary_city": "City_64150",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64155",
+      "zip_extension": "",
+      "primary_city": "City_64155",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64160",
+      "zip_extension": "",
+      "primary_city": "City_64160",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64165",
+      "zip_extension": "",
+      "primary_city": "City_64165",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64170",
+      "zip_extension": "",
+      "primary_city": "City_64170",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64175",
+      "zip_extension": "",
+      "primary_city": "City_64175",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64180",
+      "zip_extension": "",
+      "primary_city": "City_64180",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64185",
+      "zip_extension": "",
+      "primary_city": "City_64185",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64190",
+      "zip_extension": "",
+      "primary_city": "City_64190",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64195",
+      "zip_extension": "",
+      "primary_city": "City_64195",
+      "acceptable_cities": "",
+      "county": "County_641",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64200",
+      "zip_extension": "",
+      "primary_city": "City_64200",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64205",
+      "zip_extension": "",
+      "primary_city": "City_64205",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64210",
+      "zip_extension": "",
+      "primary_city": "City_64210",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64215",
+      "zip_extension": "",
+      "primary_city": "City_64215",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64220",
+      "zip_extension": "",
+      "primary_city": "City_64220",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64225",
+      "zip_extension": "",
+      "primary_city": "City_64225",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64230",
+      "zip_extension": "",
+      "primary_city": "City_64230",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64235",
+      "zip_extension": "",
+      "primary_city": "City_64235",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64240",
+      "zip_extension": "",
+      "primary_city": "City_64240",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64245",
+      "zip_extension": "",
+      "primary_city": "City_64245",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64250",
+      "zip_extension": "",
+      "primary_city": "City_64250",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64255",
+      "zip_extension": "",
+      "primary_city": "City_64255",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64260",
+      "zip_extension": "",
+      "primary_city": "City_64260",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64265",
+      "zip_extension": "",
+      "primary_city": "City_64265",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64270",
+      "zip_extension": "",
+      "primary_city": "City_64270",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64275",
+      "zip_extension": "",
+      "primary_city": "City_64275",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64280",
+      "zip_extension": "",
+      "primary_city": "City_64280",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64285",
+      "zip_extension": "",
+      "primary_city": "City_64285",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64290",
+      "zip_extension": "",
+      "primary_city": "City_64290",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64295",
+      "zip_extension": "",
+      "primary_city": "City_64295",
+      "acceptable_cities": "",
+      "county": "County_642",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64300",
+      "zip_extension": "",
+      "primary_city": "City_64300",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64305",
+      "zip_extension": "",
+      "primary_city": "City_64305",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64310",
+      "zip_extension": "",
+      "primary_city": "City_64310",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64315",
+      "zip_extension": "",
+      "primary_city": "City_64315",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64320",
+      "zip_extension": "",
+      "primary_city": "City_64320",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64325",
+      "zip_extension": "",
+      "primary_city": "City_64325",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64330",
+      "zip_extension": "",
+      "primary_city": "City_64330",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64335",
+      "zip_extension": "",
+      "primary_city": "City_64335",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64340",
+      "zip_extension": "",
+      "primary_city": "City_64340",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64345",
+      "zip_extension": "",
+      "primary_city": "City_64345",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64350",
+      "zip_extension": "",
+      "primary_city": "City_64350",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64355",
+      "zip_extension": "",
+      "primary_city": "City_64355",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64360",
+      "zip_extension": "",
+      "primary_city": "City_64360",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64365",
+      "zip_extension": "",
+      "primary_city": "City_64365",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64370",
+      "zip_extension": "",
+      "primary_city": "City_64370",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64375",
+      "zip_extension": "",
+      "primary_city": "City_64375",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64380",
+      "zip_extension": "",
+      "primary_city": "City_64380",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64385",
+      "zip_extension": "",
+      "primary_city": "City_64385",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64390",
+      "zip_extension": "",
+      "primary_city": "City_64390",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64395",
+      "zip_extension": "",
+      "primary_city": "City_64395",
+      "acceptable_cities": "",
+      "county": "County_643",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64400",
+      "zip_extension": "",
+      "primary_city": "City_64400",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64405",
+      "zip_extension": "",
+      "primary_city": "City_64405",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64410",
+      "zip_extension": "",
+      "primary_city": "City_64410",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64415",
+      "zip_extension": "",
+      "primary_city": "City_64415",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64420",
+      "zip_extension": "",
+      "primary_city": "City_64420",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64425",
+      "zip_extension": "",
+      "primary_city": "City_64425",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64430",
+      "zip_extension": "",
+      "primary_city": "City_64430",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64435",
+      "zip_extension": "",
+      "primary_city": "City_64435",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64440",
+      "zip_extension": "",
+      "primary_city": "City_64440",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64445",
+      "zip_extension": "",
+      "primary_city": "City_64445",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64450",
+      "zip_extension": "",
+      "primary_city": "City_64450",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64455",
+      "zip_extension": "",
+      "primary_city": "City_64455",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64460",
+      "zip_extension": "",
+      "primary_city": "City_64460",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64465",
+      "zip_extension": "",
+      "primary_city": "City_64465",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64470",
+      "zip_extension": "",
+      "primary_city": "City_64470",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64475",
+      "zip_extension": "",
+      "primary_city": "City_64475",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64480",
+      "zip_extension": "",
+      "primary_city": "City_64480",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64485",
+      "zip_extension": "",
+      "primary_city": "City_64485",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64490",
+      "zip_extension": "",
+      "primary_city": "City_64490",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64495",
+      "zip_extension": "",
+      "primary_city": "City_64495",
+      "acceptable_cities": "",
+      "county": "County_644",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64500",
+      "zip_extension": "",
+      "primary_city": "City_64500",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64505",
+      "zip_extension": "",
+      "primary_city": "City_64505",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64510",
+      "zip_extension": "",
+      "primary_city": "City_64510",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64515",
+      "zip_extension": "",
+      "primary_city": "City_64515",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64520",
+      "zip_extension": "",
+      "primary_city": "City_64520",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64525",
+      "zip_extension": "",
+      "primary_city": "City_64525",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64530",
+      "zip_extension": "",
+      "primary_city": "City_64530",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64535",
+      "zip_extension": "",
+      "primary_city": "City_64535",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64540",
+      "zip_extension": "",
+      "primary_city": "City_64540",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64545",
+      "zip_extension": "",
+      "primary_city": "City_64545",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64550",
+      "zip_extension": "",
+      "primary_city": "City_64550",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64555",
+      "zip_extension": "",
+      "primary_city": "City_64555",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64560",
+      "zip_extension": "",
+      "primary_city": "City_64560",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64565",
+      "zip_extension": "",
+      "primary_city": "City_64565",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64570",
+      "zip_extension": "",
+      "primary_city": "City_64570",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64575",
+      "zip_extension": "",
+      "primary_city": "City_64575",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64580",
+      "zip_extension": "",
+      "primary_city": "City_64580",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64585",
+      "zip_extension": "",
+      "primary_city": "City_64585",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64590",
+      "zip_extension": "",
+      "primary_city": "City_64590",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64595",
+      "zip_extension": "",
+      "primary_city": "City_64595",
+      "acceptable_cities": "",
+      "county": "County_645",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64600",
+      "zip_extension": "",
+      "primary_city": "City_64600",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64605",
+      "zip_extension": "",
+      "primary_city": "City_64605",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64610",
+      "zip_extension": "",
+      "primary_city": "City_64610",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64615",
+      "zip_extension": "",
+      "primary_city": "City_64615",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64620",
+      "zip_extension": "",
+      "primary_city": "City_64620",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64625",
+      "zip_extension": "",
+      "primary_city": "City_64625",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64630",
+      "zip_extension": "",
+      "primary_city": "City_64630",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64635",
+      "zip_extension": "",
+      "primary_city": "City_64635",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64640",
+      "zip_extension": "",
+      "primary_city": "City_64640",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64645",
+      "zip_extension": "",
+      "primary_city": "City_64645",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64650",
+      "zip_extension": "",
+      "primary_city": "City_64650",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64655",
+      "zip_extension": "",
+      "primary_city": "City_64655",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64660",
+      "zip_extension": "",
+      "primary_city": "City_64660",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64665",
+      "zip_extension": "",
+      "primary_city": "City_64665",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64670",
+      "zip_extension": "",
+      "primary_city": "City_64670",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64675",
+      "zip_extension": "",
+      "primary_city": "City_64675",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64680",
+      "zip_extension": "",
+      "primary_city": "City_64680",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64685",
+      "zip_extension": "",
+      "primary_city": "City_64685",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64690",
+      "zip_extension": "",
+      "primary_city": "City_64690",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64695",
+      "zip_extension": "",
+      "primary_city": "City_64695",
+      "acceptable_cities": "",
+      "county": "County_646",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64700",
+      "zip_extension": "",
+      "primary_city": "City_64700",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64705",
+      "zip_extension": "",
+      "primary_city": "City_64705",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64710",
+      "zip_extension": "",
+      "primary_city": "City_64710",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64715",
+      "zip_extension": "",
+      "primary_city": "City_64715",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64720",
+      "zip_extension": "",
+      "primary_city": "City_64720",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64725",
+      "zip_extension": "",
+      "primary_city": "City_64725",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64730",
+      "zip_extension": "",
+      "primary_city": "City_64730",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64735",
+      "zip_extension": "",
+      "primary_city": "City_64735",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64740",
+      "zip_extension": "",
+      "primary_city": "City_64740",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64745",
+      "zip_extension": "",
+      "primary_city": "City_64745",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64750",
+      "zip_extension": "",
+      "primary_city": "City_64750",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64755",
+      "zip_extension": "",
+      "primary_city": "City_64755",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64760",
+      "zip_extension": "",
+      "primary_city": "City_64760",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64765",
+      "zip_extension": "",
+      "primary_city": "City_64765",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64770",
+      "zip_extension": "",
+      "primary_city": "City_64770",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64775",
+      "zip_extension": "",
+      "primary_city": "City_64775",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64780",
+      "zip_extension": "",
+      "primary_city": "City_64780",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64785",
+      "zip_extension": "",
+      "primary_city": "City_64785",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64790",
+      "zip_extension": "",
+      "primary_city": "City_64790",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64795",
+      "zip_extension": "",
+      "primary_city": "City_64795",
+      "acceptable_cities": "",
+      "county": "County_647",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64800",
+      "zip_extension": "",
+      "primary_city": "City_64800",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64805",
+      "zip_extension": "",
+      "primary_city": "City_64805",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64810",
+      "zip_extension": "",
+      "primary_city": "City_64810",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64815",
+      "zip_extension": "",
+      "primary_city": "City_64815",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64820",
+      "zip_extension": "",
+      "primary_city": "City_64820",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64825",
+      "zip_extension": "",
+      "primary_city": "City_64825",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64830",
+      "zip_extension": "",
+      "primary_city": "City_64830",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64835",
+      "zip_extension": "",
+      "primary_city": "City_64835",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64840",
+      "zip_extension": "",
+      "primary_city": "City_64840",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64845",
+      "zip_extension": "",
+      "primary_city": "City_64845",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64850",
+      "zip_extension": "",
+      "primary_city": "City_64850",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64855",
+      "zip_extension": "",
+      "primary_city": "City_64855",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64860",
+      "zip_extension": "",
+      "primary_city": "City_64860",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64865",
+      "zip_extension": "",
+      "primary_city": "City_64865",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64870",
+      "zip_extension": "",
+      "primary_city": "City_64870",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64875",
+      "zip_extension": "",
+      "primary_city": "City_64875",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64880",
+      "zip_extension": "",
+      "primary_city": "City_64880",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64885",
+      "zip_extension": "",
+      "primary_city": "City_64885",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64890",
+      "zip_extension": "",
+      "primary_city": "City_64890",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64895",
+      "zip_extension": "",
+      "primary_city": "City_64895",
+      "acceptable_cities": "",
+      "county": "County_648",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64900",
+      "zip_extension": "",
+      "primary_city": "City_64900",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64905",
+      "zip_extension": "",
+      "primary_city": "City_64905",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64910",
+      "zip_extension": "",
+      "primary_city": "City_64910",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64915",
+      "zip_extension": "",
+      "primary_city": "City_64915",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64920",
+      "zip_extension": "",
+      "primary_city": "City_64920",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64925",
+      "zip_extension": "",
+      "primary_city": "City_64925",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64930",
+      "zip_extension": "",
+      "primary_city": "City_64930",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64935",
+      "zip_extension": "",
+      "primary_city": "City_64935",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64940",
+      "zip_extension": "",
+      "primary_city": "City_64940",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64945",
+      "zip_extension": "",
+      "primary_city": "City_64945",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64950",
+      "zip_extension": "",
+      "primary_city": "City_64950",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64955",
+      "zip_extension": "",
+      "primary_city": "City_64955",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64960",
+      "zip_extension": "",
+      "primary_city": "City_64960",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64965",
+      "zip_extension": "",
+      "primary_city": "City_64965",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64970",
+      "zip_extension": "",
+      "primary_city": "City_64970",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64975",
+      "zip_extension": "",
+      "primary_city": "City_64975",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64980",
+      "zip_extension": "",
+      "primary_city": "City_64980",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64985",
+      "zip_extension": "",
+      "primary_city": "City_64985",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64990",
+      "zip_extension": "",
+      "primary_city": "City_64990",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "64995",
+      "zip_extension": "",
+      "primary_city": "City_64995",
+      "acceptable_cities": "",
+      "county": "County_649",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65000",
+      "zip_extension": "",
+      "primary_city": "City_65000",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65005",
+      "zip_extension": "",
+      "primary_city": "City_65005",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65010",
+      "zip_extension": "",
+      "primary_city": "City_65010",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65015",
+      "zip_extension": "",
+      "primary_city": "City_65015",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65020",
+      "zip_extension": "",
+      "primary_city": "City_65020",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65025",
+      "zip_extension": "",
+      "primary_city": "City_65025",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65030",
+      "zip_extension": "",
+      "primary_city": "City_65030",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65035",
+      "zip_extension": "",
+      "primary_city": "City_65035",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65040",
+      "zip_extension": "",
+      "primary_city": "City_65040",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65045",
+      "zip_extension": "",
+      "primary_city": "City_65045",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65050",
+      "zip_extension": "",
+      "primary_city": "City_65050",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65055",
+      "zip_extension": "",
+      "primary_city": "City_65055",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65060",
+      "zip_extension": "",
+      "primary_city": "City_65060",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65065",
+      "zip_extension": "",
+      "primary_city": "City_65065",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65070",
+      "zip_extension": "",
+      "primary_city": "City_65070",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65075",
+      "zip_extension": "",
+      "primary_city": "City_65075",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65080",
+      "zip_extension": "",
+      "primary_city": "City_65080",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65085",
+      "zip_extension": "",
+      "primary_city": "City_65085",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65090",
+      "zip_extension": "",
+      "primary_city": "City_65090",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65095",
+      "zip_extension": "",
+      "primary_city": "City_65095",
+      "acceptable_cities": "",
+      "county": "County_650",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65100",
+      "zip_extension": "",
+      "primary_city": "City_65100",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65105",
+      "zip_extension": "",
+      "primary_city": "City_65105",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65110",
+      "zip_extension": "",
+      "primary_city": "City_65110",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65115",
+      "zip_extension": "",
+      "primary_city": "City_65115",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65120",
+      "zip_extension": "",
+      "primary_city": "City_65120",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65125",
+      "zip_extension": "",
+      "primary_city": "City_65125",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65130",
+      "zip_extension": "",
+      "primary_city": "City_65130",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65135",
+      "zip_extension": "",
+      "primary_city": "City_65135",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65140",
+      "zip_extension": "",
+      "primary_city": "City_65140",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65145",
+      "zip_extension": "",
+      "primary_city": "City_65145",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65150",
+      "zip_extension": "",
+      "primary_city": "City_65150",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65155",
+      "zip_extension": "",
+      "primary_city": "City_65155",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65160",
+      "zip_extension": "",
+      "primary_city": "City_65160",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65165",
+      "zip_extension": "",
+      "primary_city": "City_65165",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65170",
+      "zip_extension": "",
+      "primary_city": "City_65170",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65175",
+      "zip_extension": "",
+      "primary_city": "City_65175",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65180",
+      "zip_extension": "",
+      "primary_city": "City_65180",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65185",
+      "zip_extension": "",
+      "primary_city": "City_65185",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65190",
+      "zip_extension": "",
+      "primary_city": "City_65190",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65195",
+      "zip_extension": "",
+      "primary_city": "City_65195",
+      "acceptable_cities": "",
+      "county": "County_651",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65200",
+      "zip_extension": "",
+      "primary_city": "City_65200",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65205",
+      "zip_extension": "",
+      "primary_city": "City_65205",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65210",
+      "zip_extension": "",
+      "primary_city": "City_65210",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65215",
+      "zip_extension": "",
+      "primary_city": "City_65215",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65220",
+      "zip_extension": "",
+      "primary_city": "City_65220",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65225",
+      "zip_extension": "",
+      "primary_city": "City_65225",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65230",
+      "zip_extension": "",
+      "primary_city": "City_65230",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65235",
+      "zip_extension": "",
+      "primary_city": "City_65235",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65240",
+      "zip_extension": "",
+      "primary_city": "City_65240",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65245",
+      "zip_extension": "",
+      "primary_city": "City_65245",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65250",
+      "zip_extension": "",
+      "primary_city": "City_65250",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65255",
+      "zip_extension": "",
+      "primary_city": "City_65255",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65260",
+      "zip_extension": "",
+      "primary_city": "City_65260",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65265",
+      "zip_extension": "",
+      "primary_city": "City_65265",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65270",
+      "zip_extension": "",
+      "primary_city": "City_65270",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65275",
+      "zip_extension": "",
+      "primary_city": "City_65275",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65280",
+      "zip_extension": "",
+      "primary_city": "City_65280",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65285",
+      "zip_extension": "",
+      "primary_city": "City_65285",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65290",
+      "zip_extension": "",
+      "primary_city": "City_65290",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65295",
+      "zip_extension": "",
+      "primary_city": "City_65295",
+      "acceptable_cities": "",
+      "county": "County_652",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65300",
+      "zip_extension": "",
+      "primary_city": "City_65300",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65305",
+      "zip_extension": "",
+      "primary_city": "City_65305",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65310",
+      "zip_extension": "",
+      "primary_city": "City_65310",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65315",
+      "zip_extension": "",
+      "primary_city": "City_65315",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65320",
+      "zip_extension": "",
+      "primary_city": "City_65320",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65325",
+      "zip_extension": "",
+      "primary_city": "City_65325",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65330",
+      "zip_extension": "",
+      "primary_city": "City_65330",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65335",
+      "zip_extension": "",
+      "primary_city": "City_65335",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65340",
+      "zip_extension": "",
+      "primary_city": "City_65340",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65345",
+      "zip_extension": "",
+      "primary_city": "City_65345",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65350",
+      "zip_extension": "",
+      "primary_city": "City_65350",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65355",
+      "zip_extension": "",
+      "primary_city": "City_65355",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65360",
+      "zip_extension": "",
+      "primary_city": "City_65360",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65365",
+      "zip_extension": "",
+      "primary_city": "City_65365",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65370",
+      "zip_extension": "",
+      "primary_city": "City_65370",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65375",
+      "zip_extension": "",
+      "primary_city": "City_65375",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65380",
+      "zip_extension": "",
+      "primary_city": "City_65380",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65385",
+      "zip_extension": "",
+      "primary_city": "City_65385",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65390",
+      "zip_extension": "",
+      "primary_city": "City_65390",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65395",
+      "zip_extension": "",
+      "primary_city": "City_65395",
+      "acceptable_cities": "",
+      "county": "County_653",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65400",
+      "zip_extension": "",
+      "primary_city": "City_65400",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65405",
+      "zip_extension": "",
+      "primary_city": "City_65405",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65410",
+      "zip_extension": "",
+      "primary_city": "City_65410",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65415",
+      "zip_extension": "",
+      "primary_city": "City_65415",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65420",
+      "zip_extension": "",
+      "primary_city": "City_65420",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65425",
+      "zip_extension": "",
+      "primary_city": "City_65425",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65430",
+      "zip_extension": "",
+      "primary_city": "City_65430",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65435",
+      "zip_extension": "",
+      "primary_city": "City_65435",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65440",
+      "zip_extension": "",
+      "primary_city": "City_65440",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65445",
+      "zip_extension": "",
+      "primary_city": "City_65445",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65450",
+      "zip_extension": "",
+      "primary_city": "City_65450",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65455",
+      "zip_extension": "",
+      "primary_city": "City_65455",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65460",
+      "zip_extension": "",
+      "primary_city": "City_65460",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65465",
+      "zip_extension": "",
+      "primary_city": "City_65465",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65470",
+      "zip_extension": "",
+      "primary_city": "City_65470",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65475",
+      "zip_extension": "",
+      "primary_city": "City_65475",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65480",
+      "zip_extension": "",
+      "primary_city": "City_65480",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65485",
+      "zip_extension": "",
+      "primary_city": "City_65485",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65490",
+      "zip_extension": "",
+      "primary_city": "City_65490",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65495",
+      "zip_extension": "",
+      "primary_city": "City_65495",
+      "acceptable_cities": "",
+      "county": "County_654",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65500",
+      "zip_extension": "",
+      "primary_city": "City_65500",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65505",
+      "zip_extension": "",
+      "primary_city": "City_65505",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65510",
+      "zip_extension": "",
+      "primary_city": "City_65510",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65515",
+      "zip_extension": "",
+      "primary_city": "City_65515",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65520",
+      "zip_extension": "",
+      "primary_city": "City_65520",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65525",
+      "zip_extension": "",
+      "primary_city": "City_65525",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65530",
+      "zip_extension": "",
+      "primary_city": "City_65530",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65535",
+      "zip_extension": "",
+      "primary_city": "City_65535",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65540",
+      "zip_extension": "",
+      "primary_city": "City_65540",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65545",
+      "zip_extension": "",
+      "primary_city": "City_65545",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65550",
+      "zip_extension": "",
+      "primary_city": "City_65550",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65555",
+      "zip_extension": "",
+      "primary_city": "City_65555",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65560",
+      "zip_extension": "",
+      "primary_city": "City_65560",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65565",
+      "zip_extension": "",
+      "primary_city": "City_65565",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65570",
+      "zip_extension": "",
+      "primary_city": "City_65570",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65575",
+      "zip_extension": "",
+      "primary_city": "City_65575",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65580",
+      "zip_extension": "",
+      "primary_city": "City_65580",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65585",
+      "zip_extension": "",
+      "primary_city": "City_65585",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65590",
+      "zip_extension": "",
+      "primary_city": "City_65590",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65595",
+      "zip_extension": "",
+      "primary_city": "City_65595",
+      "acceptable_cities": "",
+      "county": "County_655",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65600",
+      "zip_extension": "",
+      "primary_city": "City_65600",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65605",
+      "zip_extension": "",
+      "primary_city": "City_65605",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65610",
+      "zip_extension": "",
+      "primary_city": "City_65610",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65615",
+      "zip_extension": "",
+      "primary_city": "City_65615",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65620",
+      "zip_extension": "",
+      "primary_city": "City_65620",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65625",
+      "zip_extension": "",
+      "primary_city": "City_65625",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65630",
+      "zip_extension": "",
+      "primary_city": "City_65630",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65635",
+      "zip_extension": "",
+      "primary_city": "City_65635",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65640",
+      "zip_extension": "",
+      "primary_city": "City_65640",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65645",
+      "zip_extension": "",
+      "primary_city": "City_65645",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65650",
+      "zip_extension": "",
+      "primary_city": "City_65650",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65655",
+      "zip_extension": "",
+      "primary_city": "City_65655",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65660",
+      "zip_extension": "",
+      "primary_city": "City_65660",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65665",
+      "zip_extension": "",
+      "primary_city": "City_65665",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65670",
+      "zip_extension": "",
+      "primary_city": "City_65670",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65675",
+      "zip_extension": "",
+      "primary_city": "City_65675",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65680",
+      "zip_extension": "",
+      "primary_city": "City_65680",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65685",
+      "zip_extension": "",
+      "primary_city": "City_65685",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65690",
+      "zip_extension": "",
+      "primary_city": "City_65690",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65695",
+      "zip_extension": "",
+      "primary_city": "City_65695",
+      "acceptable_cities": "",
+      "county": "County_656",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65700",
+      "zip_extension": "",
+      "primary_city": "City_65700",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65705",
+      "zip_extension": "",
+      "primary_city": "City_65705",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65710",
+      "zip_extension": "",
+      "primary_city": "City_65710",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65715",
+      "zip_extension": "",
+      "primary_city": "City_65715",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65720",
+      "zip_extension": "",
+      "primary_city": "City_65720",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65725",
+      "zip_extension": "",
+      "primary_city": "City_65725",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65730",
+      "zip_extension": "",
+      "primary_city": "City_65730",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65735",
+      "zip_extension": "",
+      "primary_city": "City_65735",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65740",
+      "zip_extension": "",
+      "primary_city": "City_65740",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65745",
+      "zip_extension": "",
+      "primary_city": "City_65745",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65750",
+      "zip_extension": "",
+      "primary_city": "City_65750",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65755",
+      "zip_extension": "",
+      "primary_city": "City_65755",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65760",
+      "zip_extension": "",
+      "primary_city": "City_65760",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65765",
+      "zip_extension": "",
+      "primary_city": "City_65765",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65770",
+      "zip_extension": "",
+      "primary_city": "City_65770",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65775",
+      "zip_extension": "",
+      "primary_city": "City_65775",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65780",
+      "zip_extension": "",
+      "primary_city": "City_65780",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65785",
+      "zip_extension": "",
+      "primary_city": "City_65785",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65790",
+      "zip_extension": "",
+      "primary_city": "City_65790",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65795",
+      "zip_extension": "",
+      "primary_city": "City_65795",
+      "acceptable_cities": "",
+      "county": "County_657",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65800",
+      "zip_extension": "",
+      "primary_city": "City_65800",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65805",
+      "zip_extension": "",
+      "primary_city": "City_65805",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65810",
+      "zip_extension": "",
+      "primary_city": "City_65810",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65815",
+      "zip_extension": "",
+      "primary_city": "City_65815",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65820",
+      "zip_extension": "",
+      "primary_city": "City_65820",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65825",
+      "zip_extension": "",
+      "primary_city": "City_65825",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65830",
+      "zip_extension": "",
+      "primary_city": "City_65830",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65835",
+      "zip_extension": "",
+      "primary_city": "City_65835",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65840",
+      "zip_extension": "",
+      "primary_city": "City_65840",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65845",
+      "zip_extension": "",
+      "primary_city": "City_65845",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65850",
+      "zip_extension": "",
+      "primary_city": "City_65850",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65855",
+      "zip_extension": "",
+      "primary_city": "City_65855",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65860",
+      "zip_extension": "",
+      "primary_city": "City_65860",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65865",
+      "zip_extension": "",
+      "primary_city": "City_65865",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65870",
+      "zip_extension": "",
+      "primary_city": "City_65870",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65875",
+      "zip_extension": "",
+      "primary_city": "City_65875",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65880",
+      "zip_extension": "",
+      "primary_city": "City_65880",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65885",
+      "zip_extension": "",
+      "primary_city": "City_65885",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65890",
+      "zip_extension": "",
+      "primary_city": "City_65890",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65895",
+      "zip_extension": "",
+      "primary_city": "City_65895",
+      "acceptable_cities": "",
+      "county": "County_658",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65900",
+      "zip_extension": "",
+      "primary_city": "City_65900",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65905",
+      "zip_extension": "",
+      "primary_city": "City_65905",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65910",
+      "zip_extension": "",
+      "primary_city": "City_65910",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65915",
+      "zip_extension": "",
+      "primary_city": "City_65915",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65920",
+      "zip_extension": "",
+      "primary_city": "City_65920",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65925",
+      "zip_extension": "",
+      "primary_city": "City_65925",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65930",
+      "zip_extension": "",
+      "primary_city": "City_65930",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65935",
+      "zip_extension": "",
+      "primary_city": "City_65935",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65940",
+      "zip_extension": "",
+      "primary_city": "City_65940",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65945",
+      "zip_extension": "",
+      "primary_city": "City_65945",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65950",
+      "zip_extension": "",
+      "primary_city": "City_65950",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65955",
+      "zip_extension": "",
+      "primary_city": "City_65955",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65960",
+      "zip_extension": "",
+      "primary_city": "City_65960",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65965",
+      "zip_extension": "",
+      "primary_city": "City_65965",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65970",
+      "zip_extension": "",
+      "primary_city": "City_65970",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65975",
+      "zip_extension": "",
+      "primary_city": "City_65975",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65980",
+      "zip_extension": "",
+      "primary_city": "City_65980",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65985",
+      "zip_extension": "",
+      "primary_city": "City_65985",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65990",
+      "zip_extension": "",
+      "primary_city": "City_65990",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "65995",
+      "zip_extension": "",
+      "primary_city": "City_65995",
+      "acceptable_cities": "",
+      "county": "County_659",
+      "state": "Missouri",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

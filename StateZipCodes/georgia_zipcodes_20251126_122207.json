@@ -1,0 +1,4007 @@
+{
+  "state": "Georgia",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 400,
+  "zipcodes": [
+    {
+      "zip_code": "30000",
+      "zip_extension": "",
+      "primary_city": "City_30000",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30005",
+      "zip_extension": "",
+      "primary_city": "City_30005",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30010",
+      "zip_extension": "",
+      "primary_city": "City_30010",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30015",
+      "zip_extension": "",
+      "primary_city": "City_30015",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30020",
+      "zip_extension": "",
+      "primary_city": "City_30020",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30025",
+      "zip_extension": "",
+      "primary_city": "City_30025",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30030",
+      "zip_extension": "",
+      "primary_city": "City_30030",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30035",
+      "zip_extension": "",
+      "primary_city": "City_30035",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30040",
+      "zip_extension": "",
+      "primary_city": "City_30040",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30045",
+      "zip_extension": "",
+      "primary_city": "City_30045",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30050",
+      "zip_extension": "",
+      "primary_city": "City_30050",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30055",
+      "zip_extension": "",
+      "primary_city": "City_30055",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30060",
+      "zip_extension": "",
+      "primary_city": "City_30060",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30065",
+      "zip_extension": "",
+      "primary_city": "City_30065",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30070",
+      "zip_extension": "",
+      "primary_city": "City_30070",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30075",
+      "zip_extension": "",
+      "primary_city": "City_30075",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30080",
+      "zip_extension": "",
+      "primary_city": "City_30080",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30085",
+      "zip_extension": "",
+      "primary_city": "City_30085",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30090",
+      "zip_extension": "",
+      "primary_city": "City_30090",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30095",
+      "zip_extension": "",
+      "primary_city": "City_30095",
+      "acceptable_cities": "",
+      "county": "County_300",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30100",
+      "zip_extension": "",
+      "primary_city": "City_30100",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30105",
+      "zip_extension": "",
+      "primary_city": "City_30105",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30110",
+      "zip_extension": "",
+      "primary_city": "City_30110",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30115",
+      "zip_extension": "",
+      "primary_city": "City_30115",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30120",
+      "zip_extension": "",
+      "primary_city": "City_30120",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30125",
+      "zip_extension": "",
+      "primary_city": "City_30125",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30130",
+      "zip_extension": "",
+      "primary_city": "City_30130",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30135",
+      "zip_extension": "",
+      "primary_city": "City_30135",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30140",
+      "zip_extension": "",
+      "primary_city": "City_30140",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30145",
+      "zip_extension": "",
+      "primary_city": "City_30145",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30150",
+      "zip_extension": "",
+      "primary_city": "City_30150",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30155",
+      "zip_extension": "",
+      "primary_city": "City_30155",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30160",
+      "zip_extension": "",
+      "primary_city": "City_30160",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30165",
+      "zip_extension": "",
+      "primary_city": "City_30165",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30170",
+      "zip_extension": "",
+      "primary_city": "City_30170",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30175",
+      "zip_extension": "",
+      "primary_city": "City_30175",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30180",
+      "zip_extension": "",
+      "primary_city": "City_30180",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30185",
+      "zip_extension": "",
+      "primary_city": "City_30185",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30190",
+      "zip_extension": "",
+      "primary_city": "City_30190",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30195",
+      "zip_extension": "",
+      "primary_city": "City_30195",
+      "acceptable_cities": "",
+      "county": "County_301",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30200",
+      "zip_extension": "",
+      "primary_city": "City_30200",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30205",
+      "zip_extension": "",
+      "primary_city": "City_30205",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30210",
+      "zip_extension": "",
+      "primary_city": "City_30210",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30215",
+      "zip_extension": "",
+      "primary_city": "City_30215",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30220",
+      "zip_extension": "",
+      "primary_city": "City_30220",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30225",
+      "zip_extension": "",
+      "primary_city": "City_30225",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30230",
+      "zip_extension": "",
+      "primary_city": "City_30230",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30235",
+      "zip_extension": "",
+      "primary_city": "City_30235",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30240",
+      "zip_extension": "",
+      "primary_city": "City_30240",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30245",
+      "zip_extension": "",
+      "primary_city": "City_30245",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30250",
+      "zip_extension": "",
+      "primary_city": "City_30250",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30255",
+      "zip_extension": "",
+      "primary_city": "City_30255",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30260",
+      "zip_extension": "",
+      "primary_city": "City_30260",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30265",
+      "zip_extension": "",
+      "primary_city": "City_30265",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30270",
+      "zip_extension": "",
+      "primary_city": "City_30270",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30275",
+      "zip_extension": "",
+      "primary_city": "City_30275",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30280",
+      "zip_extension": "",
+      "primary_city": "City_30280",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30285",
+      "zip_extension": "",
+      "primary_city": "City_30285",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30290",
+      "zip_extension": "",
+      "primary_city": "City_30290",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30295",
+      "zip_extension": "",
+      "primary_city": "City_30295",
+      "acceptable_cities": "",
+      "county": "County_302",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30300",
+      "zip_extension": "",
+      "primary_city": "City_30300",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30305",
+      "zip_extension": "",
+      "primary_city": "City_30305",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30310",
+      "zip_extension": "",
+      "primary_city": "City_30310",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30315",
+      "zip_extension": "",
+      "primary_city": "City_30315",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30320",
+      "zip_extension": "",
+      "primary_city": "City_30320",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30325",
+      "zip_extension": "",
+      "primary_city": "City_30325",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30330",
+      "zip_extension": "",
+      "primary_city": "City_30330",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30335",
+      "zip_extension": "",
+      "primary_city": "City_30335",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30340",
+      "zip_extension": "",
+      "primary_city": "City_30340",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30345",
+      "zip_extension": "",
+      "primary_city": "City_30345",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30350",
+      "zip_extension": "",
+      "primary_city": "City_30350",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30355",
+      "zip_extension": "",
+      "primary_city": "City_30355",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30360",
+      "zip_extension": "",
+      "primary_city": "City_30360",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30365",
+      "zip_extension": "",
+      "primary_city": "City_30365",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30370",
+      "zip_extension": "",
+      "primary_city": "City_30370",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30375",
+      "zip_extension": "",
+      "primary_city": "City_30375",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30380",
+      "zip_extension": "",
+      "primary_city": "City_30380",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30385",
+      "zip_extension": "",
+      "primary_city": "City_30385",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30390",
+      "zip_extension": "",
+      "primary_city": "City_30390",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30395",
+      "zip_extension": "",
+      "primary_city": "City_30395",
+      "acceptable_cities": "",
+      "county": "County_303",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30400",
+      "zip_extension": "",
+      "primary_city": "City_30400",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30405",
+      "zip_extension": "",
+      "primary_city": "City_30405",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30410",
+      "zip_extension": "",
+      "primary_city": "City_30410",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30415",
+      "zip_extension": "",
+      "primary_city": "City_30415",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30420",
+      "zip_extension": "",
+      "primary_city": "City_30420",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30425",
+      "zip_extension": "",
+      "primary_city": "City_30425",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30430",
+      "zip_extension": "",
+      "primary_city": "City_30430",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30435",
+      "zip_extension": "",
+      "primary_city": "City_30435",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30440",
+      "zip_extension": "",
+      "primary_city": "City_30440",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30445",
+      "zip_extension": "",
+      "primary_city": "City_30445",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30450",
+      "zip_extension": "",
+      "primary_city": "City_30450",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30455",
+      "zip_extension": "",
+      "primary_city": "City_30455",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30460",
+      "zip_extension": "",
+      "primary_city": "City_30460",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30465",
+      "zip_extension": "",
+      "primary_city": "City_30465",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30470",
+      "zip_extension": "",
+      "primary_city": "City_30470",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30475",
+      "zip_extension": "",
+      "primary_city": "City_30475",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30480",
+      "zip_extension": "",
+      "primary_city": "City_30480",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30485",
+      "zip_extension": "",
+      "primary_city": "City_30485",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30490",
+      "zip_extension": "",
+      "primary_city": "City_30490",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30495",
+      "zip_extension": "",
+      "primary_city": "City_30495",
+      "acceptable_cities": "",
+      "county": "County_304",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30500",
+      "zip_extension": "",
+      "primary_city": "City_30500",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30505",
+      "zip_extension": "",
+      "primary_city": "City_30505",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30510",
+      "zip_extension": "",
+      "primary_city": "City_30510",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30515",
+      "zip_extension": "",
+      "primary_city": "City_30515",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30520",
+      "zip_extension": "",
+      "primary_city": "City_30520",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30525",
+      "zip_extension": "",
+      "primary_city": "City_30525",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30530",
+      "zip_extension": "",
+      "primary_city": "City_30530",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30535",
+      "zip_extension": "",
+      "primary_city": "City_30535",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30540",
+      "zip_extension": "",
+      "primary_city": "City_30540",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30545",
+      "zip_extension": "",
+      "primary_city": "City_30545",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30550",
+      "zip_extension": "",
+      "primary_city": "City_30550",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30555",
+      "zip_extension": "",
+      "primary_city": "City_30555",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30560",
+      "zip_extension": "",
+      "primary_city": "City_30560",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30565",
+      "zip_extension": "",
+      "primary_city": "City_30565",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30570",
+      "zip_extension": "",
+      "primary_city": "City_30570",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30575",
+      "zip_extension": "",
+      "primary_city": "City_30575",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30580",
+      "zip_extension": "",
+      "primary_city": "City_30580",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30585",
+      "zip_extension": "",
+      "primary_city": "City_30585",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30590",
+      "zip_extension": "",
+      "primary_city": "City_30590",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30595",
+      "zip_extension": "",
+      "primary_city": "City_30595",
+      "acceptable_cities": "",
+      "county": "County_305",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30600",
+      "zip_extension": "",
+      "primary_city": "City_30600",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30605",
+      "zip_extension": "",
+      "primary_city": "City_30605",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30610",
+      "zip_extension": "",
+      "primary_city": "City_30610",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30615",
+      "zip_extension": "",
+      "primary_city": "City_30615",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30620",
+      "zip_extension": "",
+      "primary_city": "City_30620",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30625",
+      "zip_extension": "",
+      "primary_city": "City_30625",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30630",
+      "zip_extension": "",
+      "primary_city": "City_30630",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30635",
+      "zip_extension": "",
+      "primary_city": "City_30635",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30640",
+      "zip_extension": "",
+      "primary_city": "City_30640",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30645",
+      "zip_extension": "",
+      "primary_city": "City_30645",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30650",
+      "zip_extension": "",
+      "primary_city": "City_30650",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30655",
+      "zip_extension": "",
+      "primary_city": "City_30655",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30660",
+      "zip_extension": "",
+      "primary_city": "City_30660",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30665",
+      "zip_extension": "",
+      "primary_city": "City_30665",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30670",
+      "zip_extension": "",
+      "primary_city": "City_30670",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30675",
+      "zip_extension": "",
+      "primary_city": "City_30675",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30680",
+      "zip_extension": "",
+      "primary_city": "City_30680",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30685",
+      "zip_extension": "",
+      "primary_city": "City_30685",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30690",
+      "zip_extension": "",
+      "primary_city": "City_30690",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30695",
+      "zip_extension": "",
+      "primary_city": "City_30695",
+      "acceptable_cities": "",
+      "county": "County_306",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30700",
+      "zip_extension": "",
+      "primary_city": "City_30700",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30705",
+      "zip_extension": "",
+      "primary_city": "City_30705",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30710",
+      "zip_extension": "",
+      "primary_city": "City_30710",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30715",
+      "zip_extension": "",
+      "primary_city": "City_30715",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30720",
+      "zip_extension": "",
+      "primary_city": "City_30720",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30725",
+      "zip_extension": "",
+      "primary_city": "City_30725",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30730",
+      "zip_extension": "",
+      "primary_city": "City_30730",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30735",
+      "zip_extension": "",
+      "primary_city": "City_30735",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30740",
+      "zip_extension": "",
+      "primary_city": "City_30740",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30745",
+      "zip_extension": "",
+      "primary_city": "City_30745",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30750",
+      "zip_extension": "",
+      "primary_city": "City_30750",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30755",
+      "zip_extension": "",
+      "primary_city": "City_30755",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30760",
+      "zip_extension": "",
+      "primary_city": "City_30760",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30765",
+      "zip_extension": "",
+      "primary_city": "City_30765",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30770",
+      "zip_extension": "",
+      "primary_city": "City_30770",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30775",
+      "zip_extension": "",
+      "primary_city": "City_30775",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30780",
+      "zip_extension": "",
+      "primary_city": "City_30780",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30785",
+      "zip_extension": "",
+      "primary_city": "City_30785",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30790",
+      "zip_extension": "",
+      "primary_city": "City_30790",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30795",
+      "zip_extension": "",
+      "primary_city": "City_30795",
+      "acceptable_cities": "",
+      "county": "County_307",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30800",
+      "zip_extension": "",
+      "primary_city": "City_30800",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30805",
+      "zip_extension": "",
+      "primary_city": "City_30805",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30810",
+      "zip_extension": "",
+      "primary_city": "City_30810",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30815",
+      "zip_extension": "",
+      "primary_city": "City_30815",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30820",
+      "zip_extension": "",
+      "primary_city": "City_30820",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30825",
+      "zip_extension": "",
+      "primary_city": "City_30825",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30830",
+      "zip_extension": "",
+      "primary_city": "City_30830",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30835",
+      "zip_extension": "",
+      "primary_city": "City_30835",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30840",
+      "zip_extension": "",
+      "primary_city": "City_30840",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30845",
+      "zip_extension": "",
+      "primary_city": "City_30845",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30850",
+      "zip_extension": "",
+      "primary_city": "City_30850",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30855",
+      "zip_extension": "",
+      "primary_city": "City_30855",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30860",
+      "zip_extension": "",
+      "primary_city": "City_30860",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30865",
+      "zip_extension": "",
+      "primary_city": "City_30865",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30870",
+      "zip_extension": "",
+      "primary_city": "City_30870",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30875",
+      "zip_extension": "",
+      "primary_city": "City_30875",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30880",
+      "zip_extension": "",
+      "primary_city": "City_30880",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30885",
+      "zip_extension": "",
+      "primary_city": "City_30885",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30890",
+      "zip_extension": "",
+      "primary_city": "City_30890",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30895",
+      "zip_extension": "",
+      "primary_city": "City_30895",
+      "acceptable_cities": "",
+      "county": "County_308",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30900",
+      "zip_extension": "",
+      "primary_city": "City_30900",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30905",
+      "zip_extension": "",
+      "primary_city": "City_30905",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30910",
+      "zip_extension": "",
+      "primary_city": "City_30910",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30915",
+      "zip_extension": "",
+      "primary_city": "City_30915",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30920",
+      "zip_extension": "",
+      "primary_city": "City_30920",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30925",
+      "zip_extension": "",
+      "primary_city": "City_30925",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30930",
+      "zip_extension": "",
+      "primary_city": "City_30930",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30935",
+      "zip_extension": "",
+      "primary_city": "City_30935",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30940",
+      "zip_extension": "",
+      "primary_city": "City_30940",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30945",
+      "zip_extension": "",
+      "primary_city": "City_30945",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30950",
+      "zip_extension": "",
+      "primary_city": "City_30950",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30955",
+      "zip_extension": "",
+      "primary_city": "City_30955",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30960",
+      "zip_extension": "",
+      "primary_city": "City_30960",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30965",
+      "zip_extension": "",
+      "primary_city": "City_30965",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30970",
+      "zip_extension": "",
+      "primary_city": "City_30970",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30975",
+      "zip_extension": "",
+      "primary_city": "City_30975",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30980",
+      "zip_extension": "",
+      "primary_city": "City_30980",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30985",
+      "zip_extension": "",
+      "primary_city": "City_30985",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30990",
+      "zip_extension": "",
+      "primary_city": "City_30990",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "30995",
+      "zip_extension": "",
+      "primary_city": "City_30995",
+      "acceptable_cities": "",
+      "county": "County_309",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31000",
+      "zip_extension": "",
+      "primary_city": "City_31000",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31005",
+      "zip_extension": "",
+      "primary_city": "City_31005",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31010",
+      "zip_extension": "",
+      "primary_city": "City_31010",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31015",
+      "zip_extension": "",
+      "primary_city": "City_31015",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31020",
+      "zip_extension": "",
+      "primary_city": "City_31020",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31025",
+      "zip_extension": "",
+      "primary_city": "City_31025",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31030",
+      "zip_extension": "",
+      "primary_city": "City_31030",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31035",
+      "zip_extension": "",
+      "primary_city": "City_31035",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31040",
+      "zip_extension": "",
+      "primary_city": "City_31040",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31045",
+      "zip_extension": "",
+      "primary_city": "City_31045",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31050",
+      "zip_extension": "",
+      "primary_city": "City_31050",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31055",
+      "zip_extension": "",
+      "primary_city": "City_31055",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31060",
+      "zip_extension": "",
+      "primary_city": "City_31060",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31065",
+      "zip_extension": "",
+      "primary_city": "City_31065",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31070",
+      "zip_extension": "",
+      "primary_city": "City_31070",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31075",
+      "zip_extension": "",
+      "primary_city": "City_31075",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31080",
+      "zip_extension": "",
+      "primary_city": "City_31080",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31085",
+      "zip_extension": "",
+      "primary_city": "City_31085",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31090",
+      "zip_extension": "",
+      "primary_city": "City_31090",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31095",
+      "zip_extension": "",
+      "primary_city": "City_31095",
+      "acceptable_cities": "",
+      "county": "County_310",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31100",
+      "zip_extension": "",
+      "primary_city": "City_31100",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31105",
+      "zip_extension": "",
+      "primary_city": "City_31105",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31110",
+      "zip_extension": "",
+      "primary_city": "City_31110",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31115",
+      "zip_extension": "",
+      "primary_city": "City_31115",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31120",
+      "zip_extension": "",
+      "primary_city": "City_31120",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31125",
+      "zip_extension": "",
+      "primary_city": "City_31125",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31130",
+      "zip_extension": "",
+      "primary_city": "City_31130",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31135",
+      "zip_extension": "",
+      "primary_city": "City_31135",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31140",
+      "zip_extension": "",
+      "primary_city": "City_31140",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31145",
+      "zip_extension": "",
+      "primary_city": "City_31145",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31150",
+      "zip_extension": "",
+      "primary_city": "City_31150",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31155",
+      "zip_extension": "",
+      "primary_city": "City_31155",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31160",
+      "zip_extension": "",
+      "primary_city": "City_31160",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31165",
+      "zip_extension": "",
+      "primary_city": "City_31165",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31170",
+      "zip_extension": "",
+      "primary_city": "City_31170",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31175",
+      "zip_extension": "",
+      "primary_city": "City_31175",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31180",
+      "zip_extension": "",
+      "primary_city": "City_31180",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31185",
+      "zip_extension": "",
+      "primary_city": "City_31185",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31190",
+      "zip_extension": "",
+      "primary_city": "City_31190",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31195",
+      "zip_extension": "",
+      "primary_city": "City_31195",
+      "acceptable_cities": "",
+      "county": "County_311",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31200",
+      "zip_extension": "",
+      "primary_city": "City_31200",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31205",
+      "zip_extension": "",
+      "primary_city": "City_31205",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31210",
+      "zip_extension": "",
+      "primary_city": "City_31210",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31215",
+      "zip_extension": "",
+      "primary_city": "City_31215",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31220",
+      "zip_extension": "",
+      "primary_city": "City_31220",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31225",
+      "zip_extension": "",
+      "primary_city": "City_31225",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31230",
+      "zip_extension": "",
+      "primary_city": "City_31230",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31235",
+      "zip_extension": "",
+      "primary_city": "City_31235",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31240",
+      "zip_extension": "",
+      "primary_city": "City_31240",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31245",
+      "zip_extension": "",
+      "primary_city": "City_31245",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31250",
+      "zip_extension": "",
+      "primary_city": "City_31250",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31255",
+      "zip_extension": "",
+      "primary_city": "City_31255",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31260",
+      "zip_extension": "",
+      "primary_city": "City_31260",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31265",
+      "zip_extension": "",
+      "primary_city": "City_31265",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31270",
+      "zip_extension": "",
+      "primary_city": "City_31270",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31275",
+      "zip_extension": "",
+      "primary_city": "City_31275",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31280",
+      "zip_extension": "",
+      "primary_city": "City_31280",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31285",
+      "zip_extension": "",
+      "primary_city": "City_31285",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31290",
+      "zip_extension": "",
+      "primary_city": "City_31290",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31295",
+      "zip_extension": "",
+      "primary_city": "City_31295",
+      "acceptable_cities": "",
+      "county": "County_312",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31300",
+      "zip_extension": "",
+      "primary_city": "City_31300",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31305",
+      "zip_extension": "",
+      "primary_city": "City_31305",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31310",
+      "zip_extension": "",
+      "primary_city": "City_31310",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31315",
+      "zip_extension": "",
+      "primary_city": "City_31315",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31320",
+      "zip_extension": "",
+      "primary_city": "City_31320",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31325",
+      "zip_extension": "",
+      "primary_city": "City_31325",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31330",
+      "zip_extension": "",
+      "primary_city": "City_31330",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31335",
+      "zip_extension": "",
+      "primary_city": "City_31335",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31340",
+      "zip_extension": "",
+      "primary_city": "City_31340",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31345",
+      "zip_extension": "",
+      "primary_city": "City_31345",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31350",
+      "zip_extension": "",
+      "primary_city": "City_31350",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31355",
+      "zip_extension": "",
+      "primary_city": "City_31355",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31360",
+      "zip_extension": "",
+      "primary_city": "City_31360",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31365",
+      "zip_extension": "",
+      "primary_city": "City_31365",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31370",
+      "zip_extension": "",
+      "primary_city": "City_31370",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31375",
+      "zip_extension": "",
+      "primary_city": "City_31375",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31380",
+      "zip_extension": "",
+      "primary_city": "City_31380",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31385",
+      "zip_extension": "",
+      "primary_city": "City_31385",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31390",
+      "zip_extension": "",
+      "primary_city": "City_31390",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31395",
+      "zip_extension": "",
+      "primary_city": "City_31395",
+      "acceptable_cities": "",
+      "county": "County_313",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31400",
+      "zip_extension": "",
+      "primary_city": "City_31400",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31405",
+      "zip_extension": "",
+      "primary_city": "City_31405",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31410",
+      "zip_extension": "",
+      "primary_city": "City_31410",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31415",
+      "zip_extension": "",
+      "primary_city": "City_31415",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31420",
+      "zip_extension": "",
+      "primary_city": "City_31420",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31425",
+      "zip_extension": "",
+      "primary_city": "City_31425",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31430",
+      "zip_extension": "",
+      "primary_city": "City_31430",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31435",
+      "zip_extension": "",
+      "primary_city": "City_31435",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31440",
+      "zip_extension": "",
+      "primary_city": "City_31440",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31445",
+      "zip_extension": "",
+      "primary_city": "City_31445",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31450",
+      "zip_extension": "",
+      "primary_city": "City_31450",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31455",
+      "zip_extension": "",
+      "primary_city": "City_31455",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31460",
+      "zip_extension": "",
+      "primary_city": "City_31460",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31465",
+      "zip_extension": "",
+      "primary_city": "City_31465",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31470",
+      "zip_extension": "",
+      "primary_city": "City_31470",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31475",
+      "zip_extension": "",
+      "primary_city": "City_31475",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31480",
+      "zip_extension": "",
+      "primary_city": "City_31480",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31485",
+      "zip_extension": "",
+      "primary_city": "City_31485",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31490",
+      "zip_extension": "",
+      "primary_city": "City_31490",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31495",
+      "zip_extension": "",
+      "primary_city": "City_31495",
+      "acceptable_cities": "",
+      "county": "County_314",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31500",
+      "zip_extension": "",
+      "primary_city": "City_31500",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31505",
+      "zip_extension": "",
+      "primary_city": "City_31505",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31510",
+      "zip_extension": "",
+      "primary_city": "City_31510",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31515",
+      "zip_extension": "",
+      "primary_city": "City_31515",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31520",
+      "zip_extension": "",
+      "primary_city": "City_31520",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31525",
+      "zip_extension": "",
+      "primary_city": "City_31525",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31530",
+      "zip_extension": "",
+      "primary_city": "City_31530",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31535",
+      "zip_extension": "",
+      "primary_city": "City_31535",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31540",
+      "zip_extension": "",
+      "primary_city": "City_31540",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31545",
+      "zip_extension": "",
+      "primary_city": "City_31545",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31550",
+      "zip_extension": "",
+      "primary_city": "City_31550",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31555",
+      "zip_extension": "",
+      "primary_city": "City_31555",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31560",
+      "zip_extension": "",
+      "primary_city": "City_31560",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31565",
+      "zip_extension": "",
+      "primary_city": "City_31565",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31570",
+      "zip_extension": "",
+      "primary_city": "City_31570",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31575",
+      "zip_extension": "",
+      "primary_city": "City_31575",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31580",
+      "zip_extension": "",
+      "primary_city": "City_31580",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31585",
+      "zip_extension": "",
+      "primary_city": "City_31585",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31590",
+      "zip_extension": "",
+      "primary_city": "City_31590",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31595",
+      "zip_extension": "",
+      "primary_city": "City_31595",
+      "acceptable_cities": "",
+      "county": "County_315",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31600",
+      "zip_extension": "",
+      "primary_city": "City_31600",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31605",
+      "zip_extension": "",
+      "primary_city": "City_31605",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31610",
+      "zip_extension": "",
+      "primary_city": "City_31610",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31615",
+      "zip_extension": "",
+      "primary_city": "City_31615",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31620",
+      "zip_extension": "",
+      "primary_city": "City_31620",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31625",
+      "zip_extension": "",
+      "primary_city": "City_31625",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31630",
+      "zip_extension": "",
+      "primary_city": "City_31630",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31635",
+      "zip_extension": "",
+      "primary_city": "City_31635",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31640",
+      "zip_extension": "",
+      "primary_city": "City_31640",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31645",
+      "zip_extension": "",
+      "primary_city": "City_31645",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31650",
+      "zip_extension": "",
+      "primary_city": "City_31650",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31655",
+      "zip_extension": "",
+      "primary_city": "City_31655",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31660",
+      "zip_extension": "",
+      "primary_city": "City_31660",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31665",
+      "zip_extension": "",
+      "primary_city": "City_31665",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31670",
+      "zip_extension": "",
+      "primary_city": "City_31670",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31675",
+      "zip_extension": "",
+      "primary_city": "City_31675",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31680",
+      "zip_extension": "",
+      "primary_city": "City_31680",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31685",
+      "zip_extension": "",
+      "primary_city": "City_31685",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31690",
+      "zip_extension": "",
+      "primary_city": "City_31690",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31695",
+      "zip_extension": "",
+      "primary_city": "City_31695",
+      "acceptable_cities": "",
+      "county": "County_316",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31700",
+      "zip_extension": "",
+      "primary_city": "City_31700",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31705",
+      "zip_extension": "",
+      "primary_city": "City_31705",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31710",
+      "zip_extension": "",
+      "primary_city": "City_31710",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31715",
+      "zip_extension": "",
+      "primary_city": "City_31715",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31720",
+      "zip_extension": "",
+      "primary_city": "City_31720",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31725",
+      "zip_extension": "",
+      "primary_city": "City_31725",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31730",
+      "zip_extension": "",
+      "primary_city": "City_31730",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31735",
+      "zip_extension": "",
+      "primary_city": "City_31735",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31740",
+      "zip_extension": "",
+      "primary_city": "City_31740",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31745",
+      "zip_extension": "",
+      "primary_city": "City_31745",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31750",
+      "zip_extension": "",
+      "primary_city": "City_31750",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31755",
+      "zip_extension": "",
+      "primary_city": "City_31755",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31760",
+      "zip_extension": "",
+      "primary_city": "City_31760",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31765",
+      "zip_extension": "",
+      "primary_city": "City_31765",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31770",
+      "zip_extension": "",
+      "primary_city": "City_31770",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31775",
+      "zip_extension": "",
+      "primary_city": "City_31775",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31780",
+      "zip_extension": "",
+      "primary_city": "City_31780",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31785",
+      "zip_extension": "",
+      "primary_city": "City_31785",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31790",
+      "zip_extension": "",
+      "primary_city": "City_31790",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31795",
+      "zip_extension": "",
+      "primary_city": "City_31795",
+      "acceptable_cities": "",
+      "county": "County_317",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31800",
+      "zip_extension": "",
+      "primary_city": "City_31800",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31805",
+      "zip_extension": "",
+      "primary_city": "City_31805",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31810",
+      "zip_extension": "",
+      "primary_city": "City_31810",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31815",
+      "zip_extension": "",
+      "primary_city": "City_31815",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31820",
+      "zip_extension": "",
+      "primary_city": "City_31820",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31825",
+      "zip_extension": "",
+      "primary_city": "City_31825",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31830",
+      "zip_extension": "",
+      "primary_city": "City_31830",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31835",
+      "zip_extension": "",
+      "primary_city": "City_31835",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31840",
+      "zip_extension": "",
+      "primary_city": "City_31840",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31845",
+      "zip_extension": "",
+      "primary_city": "City_31845",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31850",
+      "zip_extension": "",
+      "primary_city": "City_31850",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31855",
+      "zip_extension": "",
+      "primary_city": "City_31855",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31860",
+      "zip_extension": "",
+      "primary_city": "City_31860",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31865",
+      "zip_extension": "",
+      "primary_city": "City_31865",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31870",
+      "zip_extension": "",
+      "primary_city": "City_31870",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31875",
+      "zip_extension": "",
+      "primary_city": "City_31875",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31880",
+      "zip_extension": "",
+      "primary_city": "City_31880",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31885",
+      "zip_extension": "",
+      "primary_city": "City_31885",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31890",
+      "zip_extension": "",
+      "primary_city": "City_31890",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31895",
+      "zip_extension": "",
+      "primary_city": "City_31895",
+      "acceptable_cities": "",
+      "county": "County_318",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31900",
+      "zip_extension": "",
+      "primary_city": "City_31900",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31905",
+      "zip_extension": "",
+      "primary_city": "City_31905",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31910",
+      "zip_extension": "",
+      "primary_city": "City_31910",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31915",
+      "zip_extension": "",
+      "primary_city": "City_31915",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31920",
+      "zip_extension": "",
+      "primary_city": "City_31920",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31925",
+      "zip_extension": "",
+      "primary_city": "City_31925",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31930",
+      "zip_extension": "",
+      "primary_city": "City_31930",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31935",
+      "zip_extension": "",
+      "primary_city": "City_31935",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31940",
+      "zip_extension": "",
+      "primary_city": "City_31940",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31945",
+      "zip_extension": "",
+      "primary_city": "City_31945",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31950",
+      "zip_extension": "",
+      "primary_city": "City_31950",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31955",
+      "zip_extension": "",
+      "primary_city": "City_31955",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31960",
+      "zip_extension": "",
+      "primary_city": "City_31960",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31965",
+      "zip_extension": "",
+      "primary_city": "City_31965",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31970",
+      "zip_extension": "",
+      "primary_city": "City_31970",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31975",
+      "zip_extension": "",
+      "primary_city": "City_31975",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31980",
+      "zip_extension": "",
+      "primary_city": "City_31980",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31985",
+      "zip_extension": "",
+      "primary_city": "City_31985",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31990",
+      "zip_extension": "",
+      "primary_city": "City_31990",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "31995",
+      "zip_extension": "",
+      "primary_city": "City_31995",
+      "acceptable_cities": "",
+      "county": "County_319",
+      "state": "Georgia",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

@@ -1,0 +1,1607 @@
+{
+  "state": "South Dakota",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 160,
+  "zipcodes": [
+    {
+      "zip_code": "57000",
+      "zip_extension": "",
+      "primary_city": "City_57000",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57005",
+      "zip_extension": "",
+      "primary_city": "City_57005",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57010",
+      "zip_extension": "",
+      "primary_city": "City_57010",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57015",
+      "zip_extension": "",
+      "primary_city": "City_57015",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57020",
+      "zip_extension": "",
+      "primary_city": "City_57020",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57025",
+      "zip_extension": "",
+      "primary_city": "City_57025",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57030",
+      "zip_extension": "",
+      "primary_city": "City_57030",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57035",
+      "zip_extension": "",
+      "primary_city": "City_57035",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57040",
+      "zip_extension": "",
+      "primary_city": "City_57040",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57045",
+      "zip_extension": "",
+      "primary_city": "City_57045",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57050",
+      "zip_extension": "",
+      "primary_city": "City_57050",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57055",
+      "zip_extension": "",
+      "primary_city": "City_57055",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57060",
+      "zip_extension": "",
+      "primary_city": "City_57060",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57065",
+      "zip_extension": "",
+      "primary_city": "City_57065",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57070",
+      "zip_extension": "",
+      "primary_city": "City_57070",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57075",
+      "zip_extension": "",
+      "primary_city": "City_57075",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57080",
+      "zip_extension": "",
+      "primary_city": "City_57080",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57085",
+      "zip_extension": "",
+      "primary_city": "City_57085",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57090",
+      "zip_extension": "",
+      "primary_city": "City_57090",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57095",
+      "zip_extension": "",
+      "primary_city": "City_57095",
+      "acceptable_cities": "",
+      "county": "County_570",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57100",
+      "zip_extension": "",
+      "primary_city": "City_57100",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57105",
+      "zip_extension": "",
+      "primary_city": "City_57105",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57110",
+      "zip_extension": "",
+      "primary_city": "City_57110",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57115",
+      "zip_extension": "",
+      "primary_city": "City_57115",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57120",
+      "zip_extension": "",
+      "primary_city": "City_57120",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57125",
+      "zip_extension": "",
+      "primary_city": "City_57125",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57130",
+      "zip_extension": "",
+      "primary_city": "City_57130",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57135",
+      "zip_extension": "",
+      "primary_city": "City_57135",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57140",
+      "zip_extension": "",
+      "primary_city": "City_57140",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57145",
+      "zip_extension": "",
+      "primary_city": "City_57145",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57150",
+      "zip_extension": "",
+      "primary_city": "City_57150",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57155",
+      "zip_extension": "",
+      "primary_city": "City_57155",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57160",
+      "zip_extension": "",
+      "primary_city": "City_57160",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57165",
+      "zip_extension": "",
+      "primary_city": "City_57165",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57170",
+      "zip_extension": "",
+      "primary_city": "City_57170",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57175",
+      "zip_extension": "",
+      "primary_city": "City_57175",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57180",
+      "zip_extension": "",
+      "primary_city": "City_57180",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57185",
+      "zip_extension": "",
+      "primary_city": "City_57185",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57190",
+      "zip_extension": "",
+      "primary_city": "City_57190",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57195",
+      "zip_extension": "",
+      "primary_city": "City_57195",
+      "acceptable_cities": "",
+      "county": "County_571",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57200",
+      "zip_extension": "",
+      "primary_city": "City_57200",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57205",
+      "zip_extension": "",
+      "primary_city": "City_57205",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57210",
+      "zip_extension": "",
+      "primary_city": "City_57210",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57215",
+      "zip_extension": "",
+      "primary_city": "City_57215",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57220",
+      "zip_extension": "",
+      "primary_city": "City_57220",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57225",
+      "zip_extension": "",
+      "primary_city": "City_57225",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57230",
+      "zip_extension": "",
+      "primary_city": "City_57230",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57235",
+      "zip_extension": "",
+      "primary_city": "City_57235",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57240",
+      "zip_extension": "",
+      "primary_city": "City_57240",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57245",
+      "zip_extension": "",
+      "primary_city": "City_57245",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57250",
+      "zip_extension": "",
+      "primary_city": "City_57250",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57255",
+      "zip_extension": "",
+      "primary_city": "City_57255",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57260",
+      "zip_extension": "",
+      "primary_city": "City_57260",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57265",
+      "zip_extension": "",
+      "primary_city": "City_57265",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57270",
+      "zip_extension": "",
+      "primary_city": "City_57270",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57275",
+      "zip_extension": "",
+      "primary_city": "City_57275",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57280",
+      "zip_extension": "",
+      "primary_city": "City_57280",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57285",
+      "zip_extension": "",
+      "primary_city": "City_57285",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57290",
+      "zip_extension": "",
+      "primary_city": "City_57290",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57295",
+      "zip_extension": "",
+      "primary_city": "City_57295",
+      "acceptable_cities": "",
+      "county": "County_572",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57300",
+      "zip_extension": "",
+      "primary_city": "City_57300",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57305",
+      "zip_extension": "",
+      "primary_city": "City_57305",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57310",
+      "zip_extension": "",
+      "primary_city": "City_57310",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57315",
+      "zip_extension": "",
+      "primary_city": "City_57315",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57320",
+      "zip_extension": "",
+      "primary_city": "City_57320",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57325",
+      "zip_extension": "",
+      "primary_city": "City_57325",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57330",
+      "zip_extension": "",
+      "primary_city": "City_57330",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57335",
+      "zip_extension": "",
+      "primary_city": "City_57335",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57340",
+      "zip_extension": "",
+      "primary_city": "City_57340",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57345",
+      "zip_extension": "",
+      "primary_city": "City_57345",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57350",
+      "zip_extension": "",
+      "primary_city": "City_57350",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57355",
+      "zip_extension": "",
+      "primary_city": "City_57355",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57360",
+      "zip_extension": "",
+      "primary_city": "City_57360",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57365",
+      "zip_extension": "",
+      "primary_city": "City_57365",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57370",
+      "zip_extension": "",
+      "primary_city": "City_57370",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57375",
+      "zip_extension": "",
+      "primary_city": "City_57375",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57380",
+      "zip_extension": "",
+      "primary_city": "City_57380",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57385",
+      "zip_extension": "",
+      "primary_city": "City_57385",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57390",
+      "zip_extension": "",
+      "primary_city": "City_57390",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57395",
+      "zip_extension": "",
+      "primary_city": "City_57395",
+      "acceptable_cities": "",
+      "county": "County_573",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57400",
+      "zip_extension": "",
+      "primary_city": "City_57400",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57405",
+      "zip_extension": "",
+      "primary_city": "City_57405",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57410",
+      "zip_extension": "",
+      "primary_city": "City_57410",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57415",
+      "zip_extension": "",
+      "primary_city": "City_57415",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57420",
+      "zip_extension": "",
+      "primary_city": "City_57420",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57425",
+      "zip_extension": "",
+      "primary_city": "City_57425",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57430",
+      "zip_extension": "",
+      "primary_city": "City_57430",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57435",
+      "zip_extension": "",
+      "primary_city": "City_57435",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57440",
+      "zip_extension": "",
+      "primary_city": "City_57440",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57445",
+      "zip_extension": "",
+      "primary_city": "City_57445",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57450",
+      "zip_extension": "",
+      "primary_city": "City_57450",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57455",
+      "zip_extension": "",
+      "primary_city": "City_57455",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57460",
+      "zip_extension": "",
+      "primary_city": "City_57460",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57465",
+      "zip_extension": "",
+      "primary_city": "City_57465",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57470",
+      "zip_extension": "",
+      "primary_city": "City_57470",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57475",
+      "zip_extension": "",
+      "primary_city": "City_57475",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57480",
+      "zip_extension": "",
+      "primary_city": "City_57480",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57485",
+      "zip_extension": "",
+      "primary_city": "City_57485",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57490",
+      "zip_extension": "",
+      "primary_city": "City_57490",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57495",
+      "zip_extension": "",
+      "primary_city": "City_57495",
+      "acceptable_cities": "",
+      "county": "County_574",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57500",
+      "zip_extension": "",
+      "primary_city": "City_57500",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57505",
+      "zip_extension": "",
+      "primary_city": "City_57505",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57510",
+      "zip_extension": "",
+      "primary_city": "City_57510",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57515",
+      "zip_extension": "",
+      "primary_city": "City_57515",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57520",
+      "zip_extension": "",
+      "primary_city": "City_57520",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57525",
+      "zip_extension": "",
+      "primary_city": "City_57525",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57530",
+      "zip_extension": "",
+      "primary_city": "City_57530",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57535",
+      "zip_extension": "",
+      "primary_city": "City_57535",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57540",
+      "zip_extension": "",
+      "primary_city": "City_57540",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57545",
+      "zip_extension": "",
+      "primary_city": "City_57545",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57550",
+      "zip_extension": "",
+      "primary_city": "City_57550",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57555",
+      "zip_extension": "",
+      "primary_city": "City_57555",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57560",
+      "zip_extension": "",
+      "primary_city": "City_57560",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57565",
+      "zip_extension": "",
+      "primary_city": "City_57565",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57570",
+      "zip_extension": "",
+      "primary_city": "City_57570",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57575",
+      "zip_extension": "",
+      "primary_city": "City_57575",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57580",
+      "zip_extension": "",
+      "primary_city": "City_57580",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57585",
+      "zip_extension": "",
+      "primary_city": "City_57585",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57590",
+      "zip_extension": "",
+      "primary_city": "City_57590",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57595",
+      "zip_extension": "",
+      "primary_city": "City_57595",
+      "acceptable_cities": "",
+      "county": "County_575",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57600",
+      "zip_extension": "",
+      "primary_city": "City_57600",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57605",
+      "zip_extension": "",
+      "primary_city": "City_57605",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57610",
+      "zip_extension": "",
+      "primary_city": "City_57610",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57615",
+      "zip_extension": "",
+      "primary_city": "City_57615",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57620",
+      "zip_extension": "",
+      "primary_city": "City_57620",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57625",
+      "zip_extension": "",
+      "primary_city": "City_57625",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57630",
+      "zip_extension": "",
+      "primary_city": "City_57630",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57635",
+      "zip_extension": "",
+      "primary_city": "City_57635",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57640",
+      "zip_extension": "",
+      "primary_city": "City_57640",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57645",
+      "zip_extension": "",
+      "primary_city": "City_57645",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57650",
+      "zip_extension": "",
+      "primary_city": "City_57650",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57655",
+      "zip_extension": "",
+      "primary_city": "City_57655",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57660",
+      "zip_extension": "",
+      "primary_city": "City_57660",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57665",
+      "zip_extension": "",
+      "primary_city": "City_57665",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57670",
+      "zip_extension": "",
+      "primary_city": "City_57670",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57675",
+      "zip_extension": "",
+      "primary_city": "City_57675",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57680",
+      "zip_extension": "",
+      "primary_city": "City_57680",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57685",
+      "zip_extension": "",
+      "primary_city": "City_57685",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57690",
+      "zip_extension": "",
+      "primary_city": "City_57690",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57695",
+      "zip_extension": "",
+      "primary_city": "City_57695",
+      "acceptable_cities": "",
+      "county": "County_576",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57700",
+      "zip_extension": "",
+      "primary_city": "City_57700",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57705",
+      "zip_extension": "",
+      "primary_city": "City_57705",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57710",
+      "zip_extension": "",
+      "primary_city": "City_57710",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57715",
+      "zip_extension": "",
+      "primary_city": "City_57715",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57720",
+      "zip_extension": "",
+      "primary_city": "City_57720",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57725",
+      "zip_extension": "",
+      "primary_city": "City_57725",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57730",
+      "zip_extension": "",
+      "primary_city": "City_57730",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57735",
+      "zip_extension": "",
+      "primary_city": "City_57735",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57740",
+      "zip_extension": "",
+      "primary_city": "City_57740",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57745",
+      "zip_extension": "",
+      "primary_city": "City_57745",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57750",
+      "zip_extension": "",
+      "primary_city": "City_57750",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57755",
+      "zip_extension": "",
+      "primary_city": "City_57755",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57760",
+      "zip_extension": "",
+      "primary_city": "City_57760",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57765",
+      "zip_extension": "",
+      "primary_city": "City_57765",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57770",
+      "zip_extension": "",
+      "primary_city": "City_57770",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57775",
+      "zip_extension": "",
+      "primary_city": "City_57775",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57780",
+      "zip_extension": "",
+      "primary_city": "City_57780",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57785",
+      "zip_extension": "",
+      "primary_city": "City_57785",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57790",
+      "zip_extension": "",
+      "primary_city": "City_57790",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "57795",
+      "zip_extension": "",
+      "primary_city": "City_57795",
+      "acceptable_cities": "",
+      "county": "County_577",
+      "state": "South Dakota",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

@@ -1,0 +1,2207 @@
+{
+  "state": "Maine",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 220,
+  "zipcodes": [
+    {
+      "zip_code": "03900",
+      "zip_extension": "",
+      "primary_city": "City_03900",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03905",
+      "zip_extension": "",
+      "primary_city": "City_03905",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03910",
+      "zip_extension": "",
+      "primary_city": "City_03910",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03915",
+      "zip_extension": "",
+      "primary_city": "City_03915",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03920",
+      "zip_extension": "",
+      "primary_city": "City_03920",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03925",
+      "zip_extension": "",
+      "primary_city": "City_03925",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03930",
+      "zip_extension": "",
+      "primary_city": "City_03930",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03935",
+      "zip_extension": "",
+      "primary_city": "City_03935",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03940",
+      "zip_extension": "",
+      "primary_city": "City_03940",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03945",
+      "zip_extension": "",
+      "primary_city": "City_03945",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03950",
+      "zip_extension": "",
+      "primary_city": "City_03950",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03955",
+      "zip_extension": "",
+      "primary_city": "City_03955",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03960",
+      "zip_extension": "",
+      "primary_city": "City_03960",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03965",
+      "zip_extension": "",
+      "primary_city": "City_03965",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03970",
+      "zip_extension": "",
+      "primary_city": "City_03970",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03975",
+      "zip_extension": "",
+      "primary_city": "City_03975",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03980",
+      "zip_extension": "",
+      "primary_city": "City_03980",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03985",
+      "zip_extension": "",
+      "primary_city": "City_03985",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03990",
+      "zip_extension": "",
+      "primary_city": "City_03990",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03995",
+      "zip_extension": "",
+      "primary_city": "City_03995",
+      "acceptable_cities": "",
+      "county": "County_039",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04000",
+      "zip_extension": "",
+      "primary_city": "City_04000",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04005",
+      "zip_extension": "",
+      "primary_city": "City_04005",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04010",
+      "zip_extension": "",
+      "primary_city": "City_04010",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04015",
+      "zip_extension": "",
+      "primary_city": "City_04015",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04020",
+      "zip_extension": "",
+      "primary_city": "City_04020",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04025",
+      "zip_extension": "",
+      "primary_city": "City_04025",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04030",
+      "zip_extension": "",
+      "primary_city": "City_04030",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04035",
+      "zip_extension": "",
+      "primary_city": "City_04035",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04040",
+      "zip_extension": "",
+      "primary_city": "City_04040",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04045",
+      "zip_extension": "",
+      "primary_city": "City_04045",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04050",
+      "zip_extension": "",
+      "primary_city": "City_04050",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04055",
+      "zip_extension": "",
+      "primary_city": "City_04055",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04060",
+      "zip_extension": "",
+      "primary_city": "City_04060",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04065",
+      "zip_extension": "",
+      "primary_city": "City_04065",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04070",
+      "zip_extension": "",
+      "primary_city": "City_04070",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04075",
+      "zip_extension": "",
+      "primary_city": "City_04075",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04080",
+      "zip_extension": "",
+      "primary_city": "City_04080",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04085",
+      "zip_extension": "",
+      "primary_city": "City_04085",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04090",
+      "zip_extension": "",
+      "primary_city": "City_04090",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04095",
+      "zip_extension": "",
+      "primary_city": "City_04095",
+      "acceptable_cities": "",
+      "county": "County_040",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04100",
+      "zip_extension": "",
+      "primary_city": "City_04100",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04105",
+      "zip_extension": "",
+      "primary_city": "City_04105",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04110",
+      "zip_extension": "",
+      "primary_city": "City_04110",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04115",
+      "zip_extension": "",
+      "primary_city": "City_04115",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04120",
+      "zip_extension": "",
+      "primary_city": "City_04120",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04125",
+      "zip_extension": "",
+      "primary_city": "City_04125",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04130",
+      "zip_extension": "",
+      "primary_city": "City_04130",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04135",
+      "zip_extension": "",
+      "primary_city": "City_04135",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04140",
+      "zip_extension": "",
+      "primary_city": "City_04140",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04145",
+      "zip_extension": "",
+      "primary_city": "City_04145",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04150",
+      "zip_extension": "",
+      "primary_city": "City_04150",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04155",
+      "zip_extension": "",
+      "primary_city": "City_04155",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04160",
+      "zip_extension": "",
+      "primary_city": "City_04160",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04165",
+      "zip_extension": "",
+      "primary_city": "City_04165",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04170",
+      "zip_extension": "",
+      "primary_city": "City_04170",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04175",
+      "zip_extension": "",
+      "primary_city": "City_04175",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04180",
+      "zip_extension": "",
+      "primary_city": "City_04180",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04185",
+      "zip_extension": "",
+      "primary_city": "City_04185",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04190",
+      "zip_extension": "",
+      "primary_city": "City_04190",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04195",
+      "zip_extension": "",
+      "primary_city": "City_04195",
+      "acceptable_cities": "",
+      "county": "County_041",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04200",
+      "zip_extension": "",
+      "primary_city": "City_04200",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04205",
+      "zip_extension": "",
+      "primary_city": "City_04205",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04210",
+      "zip_extension": "",
+      "primary_city": "City_04210",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04215",
+      "zip_extension": "",
+      "primary_city": "City_04215",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04220",
+      "zip_extension": "",
+      "primary_city": "City_04220",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04225",
+      "zip_extension": "",
+      "primary_city": "City_04225",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04230",
+      "zip_extension": "",
+      "primary_city": "City_04230",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04235",
+      "zip_extension": "",
+      "primary_city": "City_04235",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04240",
+      "zip_extension": "",
+      "primary_city": "City_04240",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04245",
+      "zip_extension": "",
+      "primary_city": "City_04245",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04250",
+      "zip_extension": "",
+      "primary_city": "City_04250",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04255",
+      "zip_extension": "",
+      "primary_city": "City_04255",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04260",
+      "zip_extension": "",
+      "primary_city": "City_04260",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04265",
+      "zip_extension": "",
+      "primary_city": "City_04265",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04270",
+      "zip_extension": "",
+      "primary_city": "City_04270",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04275",
+      "zip_extension": "",
+      "primary_city": "City_04275",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04280",
+      "zip_extension": "",
+      "primary_city": "City_04280",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04285",
+      "zip_extension": "",
+      "primary_city": "City_04285",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04290",
+      "zip_extension": "",
+      "primary_city": "City_04290",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04295",
+      "zip_extension": "",
+      "primary_city": "City_04295",
+      "acceptable_cities": "",
+      "county": "County_042",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04300",
+      "zip_extension": "",
+      "primary_city": "City_04300",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04305",
+      "zip_extension": "",
+      "primary_city": "City_04305",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04310",
+      "zip_extension": "",
+      "primary_city": "City_04310",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04315",
+      "zip_extension": "",
+      "primary_city": "City_04315",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04320",
+      "zip_extension": "",
+      "primary_city": "City_04320",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04325",
+      "zip_extension": "",
+      "primary_city": "City_04325",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04330",
+      "zip_extension": "",
+      "primary_city": "City_04330",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04335",
+      "zip_extension": "",
+      "primary_city": "City_04335",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04340",
+      "zip_extension": "",
+      "primary_city": "City_04340",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04345",
+      "zip_extension": "",
+      "primary_city": "City_04345",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04350",
+      "zip_extension": "",
+      "primary_city": "City_04350",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04355",
+      "zip_extension": "",
+      "primary_city": "City_04355",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04360",
+      "zip_extension": "",
+      "primary_city": "City_04360",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04365",
+      "zip_extension": "",
+      "primary_city": "City_04365",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04370",
+      "zip_extension": "",
+      "primary_city": "City_04370",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04375",
+      "zip_extension": "",
+      "primary_city": "City_04375",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04380",
+      "zip_extension": "",
+      "primary_city": "City_04380",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04385",
+      "zip_extension": "",
+      "primary_city": "City_04385",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04390",
+      "zip_extension": "",
+      "primary_city": "City_04390",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04395",
+      "zip_extension": "",
+      "primary_city": "City_04395",
+      "acceptable_cities": "",
+      "county": "County_043",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04400",
+      "zip_extension": "",
+      "primary_city": "City_04400",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04405",
+      "zip_extension": "",
+      "primary_city": "City_04405",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04410",
+      "zip_extension": "",
+      "primary_city": "City_04410",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04415",
+      "zip_extension": "",
+      "primary_city": "City_04415",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04420",
+      "zip_extension": "",
+      "primary_city": "City_04420",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04425",
+      "zip_extension": "",
+      "primary_city": "City_04425",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04430",
+      "zip_extension": "",
+      "primary_city": "City_04430",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04435",
+      "zip_extension": "",
+      "primary_city": "City_04435",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04440",
+      "zip_extension": "",
+      "primary_city": "City_04440",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04445",
+      "zip_extension": "",
+      "primary_city": "City_04445",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04450",
+      "zip_extension": "",
+      "primary_city": "City_04450",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04455",
+      "zip_extension": "",
+      "primary_city": "City_04455",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04460",
+      "zip_extension": "",
+      "primary_city": "City_04460",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04465",
+      "zip_extension": "",
+      "primary_city": "City_04465",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04470",
+      "zip_extension": "",
+      "primary_city": "City_04470",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04475",
+      "zip_extension": "",
+      "primary_city": "City_04475",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04480",
+      "zip_extension": "",
+      "primary_city": "City_04480",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04485",
+      "zip_extension": "",
+      "primary_city": "City_04485",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04490",
+      "zip_extension": "",
+      "primary_city": "City_04490",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04495",
+      "zip_extension": "",
+      "primary_city": "City_04495",
+      "acceptable_cities": "",
+      "county": "County_044",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04500",
+      "zip_extension": "",
+      "primary_city": "City_04500",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04505",
+      "zip_extension": "",
+      "primary_city": "City_04505",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04510",
+      "zip_extension": "",
+      "primary_city": "City_04510",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04515",
+      "zip_extension": "",
+      "primary_city": "City_04515",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04520",
+      "zip_extension": "",
+      "primary_city": "City_04520",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04525",
+      "zip_extension": "",
+      "primary_city": "City_04525",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04530",
+      "zip_extension": "",
+      "primary_city": "City_04530",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04535",
+      "zip_extension": "",
+      "primary_city": "City_04535",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04540",
+      "zip_extension": "",
+      "primary_city": "City_04540",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04545",
+      "zip_extension": "",
+      "primary_city": "City_04545",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04550",
+      "zip_extension": "",
+      "primary_city": "City_04550",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04555",
+      "zip_extension": "",
+      "primary_city": "City_04555",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04560",
+      "zip_extension": "",
+      "primary_city": "City_04560",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04565",
+      "zip_extension": "",
+      "primary_city": "City_04565",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04570",
+      "zip_extension": "",
+      "primary_city": "City_04570",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04575",
+      "zip_extension": "",
+      "primary_city": "City_04575",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04580",
+      "zip_extension": "",
+      "primary_city": "City_04580",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04585",
+      "zip_extension": "",
+      "primary_city": "City_04585",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04590",
+      "zip_extension": "",
+      "primary_city": "City_04590",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04595",
+      "zip_extension": "",
+      "primary_city": "City_04595",
+      "acceptable_cities": "",
+      "county": "County_045",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04600",
+      "zip_extension": "",
+      "primary_city": "City_04600",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04605",
+      "zip_extension": "",
+      "primary_city": "City_04605",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04610",
+      "zip_extension": "",
+      "primary_city": "City_04610",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04615",
+      "zip_extension": "",
+      "primary_city": "City_04615",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04620",
+      "zip_extension": "",
+      "primary_city": "City_04620",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04625",
+      "zip_extension": "",
+      "primary_city": "City_04625",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04630",
+      "zip_extension": "",
+      "primary_city": "City_04630",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04635",
+      "zip_extension": "",
+      "primary_city": "City_04635",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04640",
+      "zip_extension": "",
+      "primary_city": "City_04640",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04645",
+      "zip_extension": "",
+      "primary_city": "City_04645",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04650",
+      "zip_extension": "",
+      "primary_city": "City_04650",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04655",
+      "zip_extension": "",
+      "primary_city": "City_04655",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04660",
+      "zip_extension": "",
+      "primary_city": "City_04660",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04665",
+      "zip_extension": "",
+      "primary_city": "City_04665",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04670",
+      "zip_extension": "",
+      "primary_city": "City_04670",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04675",
+      "zip_extension": "",
+      "primary_city": "City_04675",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04680",
+      "zip_extension": "",
+      "primary_city": "City_04680",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04685",
+      "zip_extension": "",
+      "primary_city": "City_04685",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04690",
+      "zip_extension": "",
+      "primary_city": "City_04690",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04695",
+      "zip_extension": "",
+      "primary_city": "City_04695",
+      "acceptable_cities": "",
+      "county": "County_046",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04700",
+      "zip_extension": "",
+      "primary_city": "City_04700",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04705",
+      "zip_extension": "",
+      "primary_city": "City_04705",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04710",
+      "zip_extension": "",
+      "primary_city": "City_04710",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04715",
+      "zip_extension": "",
+      "primary_city": "City_04715",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04720",
+      "zip_extension": "",
+      "primary_city": "City_04720",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04725",
+      "zip_extension": "",
+      "primary_city": "City_04725",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04730",
+      "zip_extension": "",
+      "primary_city": "City_04730",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04735",
+      "zip_extension": "",
+      "primary_city": "City_04735",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04740",
+      "zip_extension": "",
+      "primary_city": "City_04740",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04745",
+      "zip_extension": "",
+      "primary_city": "City_04745",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04750",
+      "zip_extension": "",
+      "primary_city": "City_04750",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04755",
+      "zip_extension": "",
+      "primary_city": "City_04755",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04760",
+      "zip_extension": "",
+      "primary_city": "City_04760",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04765",
+      "zip_extension": "",
+      "primary_city": "City_04765",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04770",
+      "zip_extension": "",
+      "primary_city": "City_04770",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04775",
+      "zip_extension": "",
+      "primary_city": "City_04775",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04780",
+      "zip_extension": "",
+      "primary_city": "City_04780",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04785",
+      "zip_extension": "",
+      "primary_city": "City_04785",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04790",
+      "zip_extension": "",
+      "primary_city": "City_04790",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04795",
+      "zip_extension": "",
+      "primary_city": "City_04795",
+      "acceptable_cities": "",
+      "county": "County_047",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04800",
+      "zip_extension": "",
+      "primary_city": "City_04800",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04805",
+      "zip_extension": "",
+      "primary_city": "City_04805",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04810",
+      "zip_extension": "",
+      "primary_city": "City_04810",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04815",
+      "zip_extension": "",
+      "primary_city": "City_04815",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04820",
+      "zip_extension": "",
+      "primary_city": "City_04820",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04825",
+      "zip_extension": "",
+      "primary_city": "City_04825",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04830",
+      "zip_extension": "",
+      "primary_city": "City_04830",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04835",
+      "zip_extension": "",
+      "primary_city": "City_04835",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04840",
+      "zip_extension": "",
+      "primary_city": "City_04840",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04845",
+      "zip_extension": "",
+      "primary_city": "City_04845",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04850",
+      "zip_extension": "",
+      "primary_city": "City_04850",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04855",
+      "zip_extension": "",
+      "primary_city": "City_04855",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04860",
+      "zip_extension": "",
+      "primary_city": "City_04860",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04865",
+      "zip_extension": "",
+      "primary_city": "City_04865",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04870",
+      "zip_extension": "",
+      "primary_city": "City_04870",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04875",
+      "zip_extension": "",
+      "primary_city": "City_04875",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04880",
+      "zip_extension": "",
+      "primary_city": "City_04880",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04885",
+      "zip_extension": "",
+      "primary_city": "City_04885",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04890",
+      "zip_extension": "",
+      "primary_city": "City_04890",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04895",
+      "zip_extension": "",
+      "primary_city": "City_04895",
+      "acceptable_cities": "",
+      "county": "County_048",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04900",
+      "zip_extension": "",
+      "primary_city": "City_04900",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04905",
+      "zip_extension": "",
+      "primary_city": "City_04905",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04910",
+      "zip_extension": "",
+      "primary_city": "City_04910",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04915",
+      "zip_extension": "",
+      "primary_city": "City_04915",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04920",
+      "zip_extension": "",
+      "primary_city": "City_04920",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04925",
+      "zip_extension": "",
+      "primary_city": "City_04925",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04930",
+      "zip_extension": "",
+      "primary_city": "City_04930",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04935",
+      "zip_extension": "",
+      "primary_city": "City_04935",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04940",
+      "zip_extension": "",
+      "primary_city": "City_04940",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04945",
+      "zip_extension": "",
+      "primary_city": "City_04945",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04950",
+      "zip_extension": "",
+      "primary_city": "City_04950",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04955",
+      "zip_extension": "",
+      "primary_city": "City_04955",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04960",
+      "zip_extension": "",
+      "primary_city": "City_04960",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04965",
+      "zip_extension": "",
+      "primary_city": "City_04965",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04970",
+      "zip_extension": "",
+      "primary_city": "City_04970",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04975",
+      "zip_extension": "",
+      "primary_city": "City_04975",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04980",
+      "zip_extension": "",
+      "primary_city": "City_04980",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04985",
+      "zip_extension": "",
+      "primary_city": "City_04985",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04990",
+      "zip_extension": "",
+      "primary_city": "City_04990",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "04995",
+      "zip_extension": "",
+      "primary_city": "City_04995",
+      "acceptable_cities": "",
+      "county": "County_049",
+      "state": "Maine",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

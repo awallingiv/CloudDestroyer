@@ -1,0 +1,3207 @@
+{
+  "state": "Arizona",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 320,
+  "zipcodes": [
+    {
+      "zip_code": "85000",
+      "zip_extension": "",
+      "primary_city": "City_85000",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85005",
+      "zip_extension": "",
+      "primary_city": "City_85005",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85010",
+      "zip_extension": "",
+      "primary_city": "City_85010",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85015",
+      "zip_extension": "",
+      "primary_city": "City_85015",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85020",
+      "zip_extension": "",
+      "primary_city": "City_85020",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85025",
+      "zip_extension": "",
+      "primary_city": "City_85025",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85030",
+      "zip_extension": "",
+      "primary_city": "City_85030",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85035",
+      "zip_extension": "",
+      "primary_city": "City_85035",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85040",
+      "zip_extension": "",
+      "primary_city": "City_85040",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85045",
+      "zip_extension": "",
+      "primary_city": "City_85045",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85050",
+      "zip_extension": "",
+      "primary_city": "City_85050",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85055",
+      "zip_extension": "",
+      "primary_city": "City_85055",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85060",
+      "zip_extension": "",
+      "primary_city": "City_85060",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85065",
+      "zip_extension": "",
+      "primary_city": "City_85065",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85070",
+      "zip_extension": "",
+      "primary_city": "City_85070",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85075",
+      "zip_extension": "",
+      "primary_city": "City_85075",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85080",
+      "zip_extension": "",
+      "primary_city": "City_85080",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85085",
+      "zip_extension": "",
+      "primary_city": "City_85085",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85090",
+      "zip_extension": "",
+      "primary_city": "City_85090",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85095",
+      "zip_extension": "",
+      "primary_city": "City_85095",
+      "acceptable_cities": "",
+      "county": "County_850",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85100",
+      "zip_extension": "",
+      "primary_city": "City_85100",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85105",
+      "zip_extension": "",
+      "primary_city": "City_85105",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85110",
+      "zip_extension": "",
+      "primary_city": "City_85110",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85115",
+      "zip_extension": "",
+      "primary_city": "City_85115",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85120",
+      "zip_extension": "",
+      "primary_city": "City_85120",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85125",
+      "zip_extension": "",
+      "primary_city": "City_85125",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85130",
+      "zip_extension": "",
+      "primary_city": "City_85130",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85135",
+      "zip_extension": "",
+      "primary_city": "City_85135",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85140",
+      "zip_extension": "",
+      "primary_city": "City_85140",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85145",
+      "zip_extension": "",
+      "primary_city": "City_85145",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85150",
+      "zip_extension": "",
+      "primary_city": "City_85150",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85155",
+      "zip_extension": "",
+      "primary_city": "City_85155",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85160",
+      "zip_extension": "",
+      "primary_city": "City_85160",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85165",
+      "zip_extension": "",
+      "primary_city": "City_85165",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85170",
+      "zip_extension": "",
+      "primary_city": "City_85170",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85175",
+      "zip_extension": "",
+      "primary_city": "City_85175",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85180",
+      "zip_extension": "",
+      "primary_city": "City_85180",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85185",
+      "zip_extension": "",
+      "primary_city": "City_85185",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85190",
+      "zip_extension": "",
+      "primary_city": "City_85190",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85195",
+      "zip_extension": "",
+      "primary_city": "City_85195",
+      "acceptable_cities": "",
+      "county": "County_851",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85200",
+      "zip_extension": "",
+      "primary_city": "City_85200",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85205",
+      "zip_extension": "",
+      "primary_city": "City_85205",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85210",
+      "zip_extension": "",
+      "primary_city": "City_85210",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85215",
+      "zip_extension": "",
+      "primary_city": "City_85215",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85220",
+      "zip_extension": "",
+      "primary_city": "City_85220",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85225",
+      "zip_extension": "",
+      "primary_city": "City_85225",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85230",
+      "zip_extension": "",
+      "primary_city": "City_85230",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85235",
+      "zip_extension": "",
+      "primary_city": "City_85235",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85240",
+      "zip_extension": "",
+      "primary_city": "City_85240",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85245",
+      "zip_extension": "",
+      "primary_city": "City_85245",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85250",
+      "zip_extension": "",
+      "primary_city": "City_85250",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85255",
+      "zip_extension": "",
+      "primary_city": "City_85255",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85260",
+      "zip_extension": "",
+      "primary_city": "City_85260",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85265",
+      "zip_extension": "",
+      "primary_city": "City_85265",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85270",
+      "zip_extension": "",
+      "primary_city": "City_85270",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85275",
+      "zip_extension": "",
+      "primary_city": "City_85275",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85280",
+      "zip_extension": "",
+      "primary_city": "City_85280",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85285",
+      "zip_extension": "",
+      "primary_city": "City_85285",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85290",
+      "zip_extension": "",
+      "primary_city": "City_85290",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85295",
+      "zip_extension": "",
+      "primary_city": "City_85295",
+      "acceptable_cities": "",
+      "county": "County_852",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85300",
+      "zip_extension": "",
+      "primary_city": "City_85300",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85305",
+      "zip_extension": "",
+      "primary_city": "City_85305",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85310",
+      "zip_extension": "",
+      "primary_city": "City_85310",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85315",
+      "zip_extension": "",
+      "primary_city": "City_85315",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85320",
+      "zip_extension": "",
+      "primary_city": "City_85320",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85325",
+      "zip_extension": "",
+      "primary_city": "City_85325",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85330",
+      "zip_extension": "",
+      "primary_city": "City_85330",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85335",
+      "zip_extension": "",
+      "primary_city": "City_85335",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85340",
+      "zip_extension": "",
+      "primary_city": "City_85340",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85345",
+      "zip_extension": "",
+      "primary_city": "City_85345",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85350",
+      "zip_extension": "",
+      "primary_city": "City_85350",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85355",
+      "zip_extension": "",
+      "primary_city": "City_85355",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85360",
+      "zip_extension": "",
+      "primary_city": "City_85360",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85365",
+      "zip_extension": "",
+      "primary_city": "City_85365",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85370",
+      "zip_extension": "",
+      "primary_city": "City_85370",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85375",
+      "zip_extension": "",
+      "primary_city": "City_85375",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85380",
+      "zip_extension": "",
+      "primary_city": "City_85380",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85385",
+      "zip_extension": "",
+      "primary_city": "City_85385",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85390",
+      "zip_extension": "",
+      "primary_city": "City_85390",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85395",
+      "zip_extension": "",
+      "primary_city": "City_85395",
+      "acceptable_cities": "",
+      "county": "County_853",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85400",
+      "zip_extension": "",
+      "primary_city": "City_85400",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85405",
+      "zip_extension": "",
+      "primary_city": "City_85405",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85410",
+      "zip_extension": "",
+      "primary_city": "City_85410",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85415",
+      "zip_extension": "",
+      "primary_city": "City_85415",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85420",
+      "zip_extension": "",
+      "primary_city": "City_85420",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85425",
+      "zip_extension": "",
+      "primary_city": "City_85425",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85430",
+      "zip_extension": "",
+      "primary_city": "City_85430",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85435",
+      "zip_extension": "",
+      "primary_city": "City_85435",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85440",
+      "zip_extension": "",
+      "primary_city": "City_85440",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85445",
+      "zip_extension": "",
+      "primary_city": "City_85445",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85450",
+      "zip_extension": "",
+      "primary_city": "City_85450",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85455",
+      "zip_extension": "",
+      "primary_city": "City_85455",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85460",
+      "zip_extension": "",
+      "primary_city": "City_85460",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85465",
+      "zip_extension": "",
+      "primary_city": "City_85465",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85470",
+      "zip_extension": "",
+      "primary_city": "City_85470",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85475",
+      "zip_extension": "",
+      "primary_city": "City_85475",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85480",
+      "zip_extension": "",
+      "primary_city": "City_85480",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85485",
+      "zip_extension": "",
+      "primary_city": "City_85485",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85490",
+      "zip_extension": "",
+      "primary_city": "City_85490",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85495",
+      "zip_extension": "",
+      "primary_city": "City_85495",
+      "acceptable_cities": "",
+      "county": "County_854",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85500",
+      "zip_extension": "",
+      "primary_city": "City_85500",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85505",
+      "zip_extension": "",
+      "primary_city": "City_85505",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85510",
+      "zip_extension": "",
+      "primary_city": "City_85510",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85515",
+      "zip_extension": "",
+      "primary_city": "City_85515",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85520",
+      "zip_extension": "",
+      "primary_city": "City_85520",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85525",
+      "zip_extension": "",
+      "primary_city": "City_85525",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85530",
+      "zip_extension": "",
+      "primary_city": "City_85530",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85535",
+      "zip_extension": "",
+      "primary_city": "City_85535",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85540",
+      "zip_extension": "",
+      "primary_city": "City_85540",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85545",
+      "zip_extension": "",
+      "primary_city": "City_85545",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85550",
+      "zip_extension": "",
+      "primary_city": "City_85550",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85555",
+      "zip_extension": "",
+      "primary_city": "City_85555",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85560",
+      "zip_extension": "",
+      "primary_city": "City_85560",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85565",
+      "zip_extension": "",
+      "primary_city": "City_85565",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85570",
+      "zip_extension": "",
+      "primary_city": "City_85570",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85575",
+      "zip_extension": "",
+      "primary_city": "City_85575",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85580",
+      "zip_extension": "",
+      "primary_city": "City_85580",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85585",
+      "zip_extension": "",
+      "primary_city": "City_85585",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85590",
+      "zip_extension": "",
+      "primary_city": "City_85590",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85595",
+      "zip_extension": "",
+      "primary_city": "City_85595",
+      "acceptable_cities": "",
+      "county": "County_855",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85600",
+      "zip_extension": "",
+      "primary_city": "City_85600",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85605",
+      "zip_extension": "",
+      "primary_city": "City_85605",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85610",
+      "zip_extension": "",
+      "primary_city": "City_85610",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85615",
+      "zip_extension": "",
+      "primary_city": "City_85615",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85620",
+      "zip_extension": "",
+      "primary_city": "City_85620",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85625",
+      "zip_extension": "",
+      "primary_city": "City_85625",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85630",
+      "zip_extension": "",
+      "primary_city": "City_85630",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85635",
+      "zip_extension": "",
+      "primary_city": "City_85635",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85640",
+      "zip_extension": "",
+      "primary_city": "City_85640",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85645",
+      "zip_extension": "",
+      "primary_city": "City_85645",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85650",
+      "zip_extension": "",
+      "primary_city": "City_85650",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85655",
+      "zip_extension": "",
+      "primary_city": "City_85655",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85660",
+      "zip_extension": "",
+      "primary_city": "City_85660",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85665",
+      "zip_extension": "",
+      "primary_city": "City_85665",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85670",
+      "zip_extension": "",
+      "primary_city": "City_85670",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85675",
+      "zip_extension": "",
+      "primary_city": "City_85675",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85680",
+      "zip_extension": "",
+      "primary_city": "City_85680",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85685",
+      "zip_extension": "",
+      "primary_city": "City_85685",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85690",
+      "zip_extension": "",
+      "primary_city": "City_85690",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85695",
+      "zip_extension": "",
+      "primary_city": "City_85695",
+      "acceptable_cities": "",
+      "county": "County_856",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85700",
+      "zip_extension": "",
+      "primary_city": "City_85700",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85705",
+      "zip_extension": "",
+      "primary_city": "City_85705",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85710",
+      "zip_extension": "",
+      "primary_city": "City_85710",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85715",
+      "zip_extension": "",
+      "primary_city": "City_85715",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85720",
+      "zip_extension": "",
+      "primary_city": "City_85720",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85725",
+      "zip_extension": "",
+      "primary_city": "City_85725",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85730",
+      "zip_extension": "",
+      "primary_city": "City_85730",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85735",
+      "zip_extension": "",
+      "primary_city": "City_85735",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85740",
+      "zip_extension": "",
+      "primary_city": "City_85740",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85745",
+      "zip_extension": "",
+      "primary_city": "City_85745",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85750",
+      "zip_extension": "",
+      "primary_city": "City_85750",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85755",
+      "zip_extension": "",
+      "primary_city": "City_85755",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85760",
+      "zip_extension": "",
+      "primary_city": "City_85760",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85765",
+      "zip_extension": "",
+      "primary_city": "City_85765",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85770",
+      "zip_extension": "",
+      "primary_city": "City_85770",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85775",
+      "zip_extension": "",
+      "primary_city": "City_85775",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85780",
+      "zip_extension": "",
+      "primary_city": "City_85780",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85785",
+      "zip_extension": "",
+      "primary_city": "City_85785",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85790",
+      "zip_extension": "",
+      "primary_city": "City_85790",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85795",
+      "zip_extension": "",
+      "primary_city": "City_85795",
+      "acceptable_cities": "",
+      "county": "County_857",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85800",
+      "zip_extension": "",
+      "primary_city": "City_85800",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85805",
+      "zip_extension": "",
+      "primary_city": "City_85805",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85810",
+      "zip_extension": "",
+      "primary_city": "City_85810",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85815",
+      "zip_extension": "",
+      "primary_city": "City_85815",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85820",
+      "zip_extension": "",
+      "primary_city": "City_85820",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85825",
+      "zip_extension": "",
+      "primary_city": "City_85825",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85830",
+      "zip_extension": "",
+      "primary_city": "City_85830",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85835",
+      "zip_extension": "",
+      "primary_city": "City_85835",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85840",
+      "zip_extension": "",
+      "primary_city": "City_85840",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85845",
+      "zip_extension": "",
+      "primary_city": "City_85845",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85850",
+      "zip_extension": "",
+      "primary_city": "City_85850",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85855",
+      "zip_extension": "",
+      "primary_city": "City_85855",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85860",
+      "zip_extension": "",
+      "primary_city": "City_85860",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85865",
+      "zip_extension": "",
+      "primary_city": "City_85865",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85870",
+      "zip_extension": "",
+      "primary_city": "City_85870",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85875",
+      "zip_extension": "",
+      "primary_city": "City_85875",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85880",
+      "zip_extension": "",
+      "primary_city": "City_85880",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85885",
+      "zip_extension": "",
+      "primary_city": "City_85885",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85890",
+      "zip_extension": "",
+      "primary_city": "City_85890",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85895",
+      "zip_extension": "",
+      "primary_city": "City_85895",
+      "acceptable_cities": "",
+      "county": "County_858",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85900",
+      "zip_extension": "",
+      "primary_city": "City_85900",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85905",
+      "zip_extension": "",
+      "primary_city": "City_85905",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85910",
+      "zip_extension": "",
+      "primary_city": "City_85910",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85915",
+      "zip_extension": "",
+      "primary_city": "City_85915",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85920",
+      "zip_extension": "",
+      "primary_city": "City_85920",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85925",
+      "zip_extension": "",
+      "primary_city": "City_85925",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85930",
+      "zip_extension": "",
+      "primary_city": "City_85930",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85935",
+      "zip_extension": "",
+      "primary_city": "City_85935",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85940",
+      "zip_extension": "",
+      "primary_city": "City_85940",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85945",
+      "zip_extension": "",
+      "primary_city": "City_85945",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85950",
+      "zip_extension": "",
+      "primary_city": "City_85950",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85955",
+      "zip_extension": "",
+      "primary_city": "City_85955",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85960",
+      "zip_extension": "",
+      "primary_city": "City_85960",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85965",
+      "zip_extension": "",
+      "primary_city": "City_85965",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85970",
+      "zip_extension": "",
+      "primary_city": "City_85970",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85975",
+      "zip_extension": "",
+      "primary_city": "City_85975",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85980",
+      "zip_extension": "",
+      "primary_city": "City_85980",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85985",
+      "zip_extension": "",
+      "primary_city": "City_85985",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85990",
+      "zip_extension": "",
+      "primary_city": "City_85990",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "85995",
+      "zip_extension": "",
+      "primary_city": "City_85995",
+      "acceptable_cities": "",
+      "county": "County_859",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86000",
+      "zip_extension": "",
+      "primary_city": "City_86000",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86005",
+      "zip_extension": "",
+      "primary_city": "City_86005",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86010",
+      "zip_extension": "",
+      "primary_city": "City_86010",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86015",
+      "zip_extension": "",
+      "primary_city": "City_86015",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86020",
+      "zip_extension": "",
+      "primary_city": "City_86020",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86025",
+      "zip_extension": "",
+      "primary_city": "City_86025",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86030",
+      "zip_extension": "",
+      "primary_city": "City_86030",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86035",
+      "zip_extension": "",
+      "primary_city": "City_86035",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86040",
+      "zip_extension": "",
+      "primary_city": "City_86040",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86045",
+      "zip_extension": "",
+      "primary_city": "City_86045",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86050",
+      "zip_extension": "",
+      "primary_city": "City_86050",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86055",
+      "zip_extension": "",
+      "primary_city": "City_86055",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86060",
+      "zip_extension": "",
+      "primary_city": "City_86060",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86065",
+      "zip_extension": "",
+      "primary_city": "City_86065",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86070",
+      "zip_extension": "",
+      "primary_city": "City_86070",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86075",
+      "zip_extension": "",
+      "primary_city": "City_86075",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86080",
+      "zip_extension": "",
+      "primary_city": "City_86080",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86085",
+      "zip_extension": "",
+      "primary_city": "City_86085",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86090",
+      "zip_extension": "",
+      "primary_city": "City_86090",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86095",
+      "zip_extension": "",
+      "primary_city": "City_86095",
+      "acceptable_cities": "",
+      "county": "County_860",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86100",
+      "zip_extension": "",
+      "primary_city": "City_86100",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86105",
+      "zip_extension": "",
+      "primary_city": "City_86105",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86110",
+      "zip_extension": "",
+      "primary_city": "City_86110",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86115",
+      "zip_extension": "",
+      "primary_city": "City_86115",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86120",
+      "zip_extension": "",
+      "primary_city": "City_86120",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86125",
+      "zip_extension": "",
+      "primary_city": "City_86125",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86130",
+      "zip_extension": "",
+      "primary_city": "City_86130",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86135",
+      "zip_extension": "",
+      "primary_city": "City_86135",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86140",
+      "zip_extension": "",
+      "primary_city": "City_86140",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86145",
+      "zip_extension": "",
+      "primary_city": "City_86145",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86150",
+      "zip_extension": "",
+      "primary_city": "City_86150",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86155",
+      "zip_extension": "",
+      "primary_city": "City_86155",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86160",
+      "zip_extension": "",
+      "primary_city": "City_86160",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86165",
+      "zip_extension": "",
+      "primary_city": "City_86165",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86170",
+      "zip_extension": "",
+      "primary_city": "City_86170",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86175",
+      "zip_extension": "",
+      "primary_city": "City_86175",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86180",
+      "zip_extension": "",
+      "primary_city": "City_86180",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86185",
+      "zip_extension": "",
+      "primary_city": "City_86185",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86190",
+      "zip_extension": "",
+      "primary_city": "City_86190",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86195",
+      "zip_extension": "",
+      "primary_city": "City_86195",
+      "acceptable_cities": "",
+      "county": "County_861",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86200",
+      "zip_extension": "",
+      "primary_city": "City_86200",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86205",
+      "zip_extension": "",
+      "primary_city": "City_86205",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86210",
+      "zip_extension": "",
+      "primary_city": "City_86210",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86215",
+      "zip_extension": "",
+      "primary_city": "City_86215",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86220",
+      "zip_extension": "",
+      "primary_city": "City_86220",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86225",
+      "zip_extension": "",
+      "primary_city": "City_86225",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86230",
+      "zip_extension": "",
+      "primary_city": "City_86230",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86235",
+      "zip_extension": "",
+      "primary_city": "City_86235",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86240",
+      "zip_extension": "",
+      "primary_city": "City_86240",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86245",
+      "zip_extension": "",
+      "primary_city": "City_86245",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86250",
+      "zip_extension": "",
+      "primary_city": "City_86250",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86255",
+      "zip_extension": "",
+      "primary_city": "City_86255",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86260",
+      "zip_extension": "",
+      "primary_city": "City_86260",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86265",
+      "zip_extension": "",
+      "primary_city": "City_86265",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86270",
+      "zip_extension": "",
+      "primary_city": "City_86270",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86275",
+      "zip_extension": "",
+      "primary_city": "City_86275",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86280",
+      "zip_extension": "",
+      "primary_city": "City_86280",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86285",
+      "zip_extension": "",
+      "primary_city": "City_86285",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86290",
+      "zip_extension": "",
+      "primary_city": "City_86290",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86295",
+      "zip_extension": "",
+      "primary_city": "City_86295",
+      "acceptable_cities": "",
+      "county": "County_862",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86300",
+      "zip_extension": "",
+      "primary_city": "City_86300",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86305",
+      "zip_extension": "",
+      "primary_city": "City_86305",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86310",
+      "zip_extension": "",
+      "primary_city": "City_86310",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86315",
+      "zip_extension": "",
+      "primary_city": "City_86315",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86320",
+      "zip_extension": "",
+      "primary_city": "City_86320",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86325",
+      "zip_extension": "",
+      "primary_city": "City_86325",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86330",
+      "zip_extension": "",
+      "primary_city": "City_86330",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86335",
+      "zip_extension": "",
+      "primary_city": "City_86335",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86340",
+      "zip_extension": "",
+      "primary_city": "City_86340",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86345",
+      "zip_extension": "",
+      "primary_city": "City_86345",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86350",
+      "zip_extension": "",
+      "primary_city": "City_86350",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86355",
+      "zip_extension": "",
+      "primary_city": "City_86355",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86360",
+      "zip_extension": "",
+      "primary_city": "City_86360",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86365",
+      "zip_extension": "",
+      "primary_city": "City_86365",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86370",
+      "zip_extension": "",
+      "primary_city": "City_86370",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86375",
+      "zip_extension": "",
+      "primary_city": "City_86375",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86380",
+      "zip_extension": "",
+      "primary_city": "City_86380",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86385",
+      "zip_extension": "",
+      "primary_city": "City_86385",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86390",
+      "zip_extension": "",
+      "primary_city": "City_86390",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86395",
+      "zip_extension": "",
+      "primary_city": "City_86395",
+      "acceptable_cities": "",
+      "county": "County_863",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86400",
+      "zip_extension": "",
+      "primary_city": "City_86400",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86405",
+      "zip_extension": "",
+      "primary_city": "City_86405",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86410",
+      "zip_extension": "",
+      "primary_city": "City_86410",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86415",
+      "zip_extension": "",
+      "primary_city": "City_86415",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86420",
+      "zip_extension": "",
+      "primary_city": "City_86420",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86425",
+      "zip_extension": "",
+      "primary_city": "City_86425",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86430",
+      "zip_extension": "",
+      "primary_city": "City_86430",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86435",
+      "zip_extension": "",
+      "primary_city": "City_86435",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86440",
+      "zip_extension": "",
+      "primary_city": "City_86440",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86445",
+      "zip_extension": "",
+      "primary_city": "City_86445",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86450",
+      "zip_extension": "",
+      "primary_city": "City_86450",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86455",
+      "zip_extension": "",
+      "primary_city": "City_86455",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86460",
+      "zip_extension": "",
+      "primary_city": "City_86460",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86465",
+      "zip_extension": "",
+      "primary_city": "City_86465",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86470",
+      "zip_extension": "",
+      "primary_city": "City_86470",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86475",
+      "zip_extension": "",
+      "primary_city": "City_86475",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86480",
+      "zip_extension": "",
+      "primary_city": "City_86480",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86485",
+      "zip_extension": "",
+      "primary_city": "City_86485",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86490",
+      "zip_extension": "",
+      "primary_city": "City_86490",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86495",
+      "zip_extension": "",
+      "primary_city": "City_86495",
+      "acceptable_cities": "",
+      "county": "County_864",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86500",
+      "zip_extension": "",
+      "primary_city": "City_86500",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86505",
+      "zip_extension": "",
+      "primary_city": "City_86505",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86510",
+      "zip_extension": "",
+      "primary_city": "City_86510",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86515",
+      "zip_extension": "",
+      "primary_city": "City_86515",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86520",
+      "zip_extension": "",
+      "primary_city": "City_86520",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86525",
+      "zip_extension": "",
+      "primary_city": "City_86525",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86530",
+      "zip_extension": "",
+      "primary_city": "City_86530",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86535",
+      "zip_extension": "",
+      "primary_city": "City_86535",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86540",
+      "zip_extension": "",
+      "primary_city": "City_86540",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86545",
+      "zip_extension": "",
+      "primary_city": "City_86545",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86550",
+      "zip_extension": "",
+      "primary_city": "City_86550",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86555",
+      "zip_extension": "",
+      "primary_city": "City_86555",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86560",
+      "zip_extension": "",
+      "primary_city": "City_86560",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86565",
+      "zip_extension": "",
+      "primary_city": "City_86565",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86570",
+      "zip_extension": "",
+      "primary_city": "City_86570",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86575",
+      "zip_extension": "",
+      "primary_city": "City_86575",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86580",
+      "zip_extension": "",
+      "primary_city": "City_86580",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86585",
+      "zip_extension": "",
+      "primary_city": "City_86585",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86590",
+      "zip_extension": "",
+      "primary_city": "City_86590",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "86595",
+      "zip_extension": "",
+      "primary_city": "City_86595",
+      "acceptable_cities": "",
+      "county": "County_865",
+      "state": "Arizona",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

@@ -1,0 +1,3407 @@
+{
+  "state": "Colorado",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 340,
+  "zipcodes": [
+    {
+      "zip_code": "80000",
+      "zip_extension": "",
+      "primary_city": "City_80000",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80005",
+      "zip_extension": "",
+      "primary_city": "City_80005",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80010",
+      "zip_extension": "",
+      "primary_city": "City_80010",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80015",
+      "zip_extension": "",
+      "primary_city": "City_80015",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80020",
+      "zip_extension": "",
+      "primary_city": "City_80020",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80025",
+      "zip_extension": "",
+      "primary_city": "City_80025",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80030",
+      "zip_extension": "",
+      "primary_city": "City_80030",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80035",
+      "zip_extension": "",
+      "primary_city": "City_80035",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80040",
+      "zip_extension": "",
+      "primary_city": "City_80040",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80045",
+      "zip_extension": "",
+      "primary_city": "City_80045",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80050",
+      "zip_extension": "",
+      "primary_city": "City_80050",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80055",
+      "zip_extension": "",
+      "primary_city": "City_80055",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80060",
+      "zip_extension": "",
+      "primary_city": "City_80060",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80065",
+      "zip_extension": "",
+      "primary_city": "City_80065",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80070",
+      "zip_extension": "",
+      "primary_city": "City_80070",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80075",
+      "zip_extension": "",
+      "primary_city": "City_80075",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80080",
+      "zip_extension": "",
+      "primary_city": "City_80080",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80085",
+      "zip_extension": "",
+      "primary_city": "City_80085",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80090",
+      "zip_extension": "",
+      "primary_city": "City_80090",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80095",
+      "zip_extension": "",
+      "primary_city": "City_80095",
+      "acceptable_cities": "",
+      "county": "County_800",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80100",
+      "zip_extension": "",
+      "primary_city": "City_80100",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80105",
+      "zip_extension": "",
+      "primary_city": "City_80105",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80110",
+      "zip_extension": "",
+      "primary_city": "City_80110",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80115",
+      "zip_extension": "",
+      "primary_city": "City_80115",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80120",
+      "zip_extension": "",
+      "primary_city": "City_80120",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80125",
+      "zip_extension": "",
+      "primary_city": "City_80125",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80130",
+      "zip_extension": "",
+      "primary_city": "City_80130",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80135",
+      "zip_extension": "",
+      "primary_city": "City_80135",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80140",
+      "zip_extension": "",
+      "primary_city": "City_80140",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80145",
+      "zip_extension": "",
+      "primary_city": "City_80145",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80150",
+      "zip_extension": "",
+      "primary_city": "City_80150",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80155",
+      "zip_extension": "",
+      "primary_city": "City_80155",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80160",
+      "zip_extension": "",
+      "primary_city": "City_80160",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80165",
+      "zip_extension": "",
+      "primary_city": "City_80165",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80170",
+      "zip_extension": "",
+      "primary_city": "City_80170",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80175",
+      "zip_extension": "",
+      "primary_city": "City_80175",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80180",
+      "zip_extension": "",
+      "primary_city": "City_80180",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80185",
+      "zip_extension": "",
+      "primary_city": "City_80185",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80190",
+      "zip_extension": "",
+      "primary_city": "City_80190",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80195",
+      "zip_extension": "",
+      "primary_city": "City_80195",
+      "acceptable_cities": "",
+      "county": "County_801",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80200",
+      "zip_extension": "",
+      "primary_city": "City_80200",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80205",
+      "zip_extension": "",
+      "primary_city": "City_80205",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80210",
+      "zip_extension": "",
+      "primary_city": "City_80210",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80215",
+      "zip_extension": "",
+      "primary_city": "City_80215",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80220",
+      "zip_extension": "",
+      "primary_city": "City_80220",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80225",
+      "zip_extension": "",
+      "primary_city": "City_80225",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80230",
+      "zip_extension": "",
+      "primary_city": "City_80230",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80235",
+      "zip_extension": "",
+      "primary_city": "City_80235",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80240",
+      "zip_extension": "",
+      "primary_city": "City_80240",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80245",
+      "zip_extension": "",
+      "primary_city": "City_80245",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80250",
+      "zip_extension": "",
+      "primary_city": "City_80250",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80255",
+      "zip_extension": "",
+      "primary_city": "City_80255",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80260",
+      "zip_extension": "",
+      "primary_city": "City_80260",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80265",
+      "zip_extension": "",
+      "primary_city": "City_80265",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80270",
+      "zip_extension": "",
+      "primary_city": "City_80270",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80275",
+      "zip_extension": "",
+      "primary_city": "City_80275",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80280",
+      "zip_extension": "",
+      "primary_city": "City_80280",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80285",
+      "zip_extension": "",
+      "primary_city": "City_80285",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80290",
+      "zip_extension": "",
+      "primary_city": "City_80290",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80295",
+      "zip_extension": "",
+      "primary_city": "City_80295",
+      "acceptable_cities": "",
+      "county": "County_802",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80300",
+      "zip_extension": "",
+      "primary_city": "City_80300",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80305",
+      "zip_extension": "",
+      "primary_city": "City_80305",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80310",
+      "zip_extension": "",
+      "primary_city": "City_80310",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80315",
+      "zip_extension": "",
+      "primary_city": "City_80315",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80320",
+      "zip_extension": "",
+      "primary_city": "City_80320",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80325",
+      "zip_extension": "",
+      "primary_city": "City_80325",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80330",
+      "zip_extension": "",
+      "primary_city": "City_80330",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80335",
+      "zip_extension": "",
+      "primary_city": "City_80335",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80340",
+      "zip_extension": "",
+      "primary_city": "City_80340",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80345",
+      "zip_extension": "",
+      "primary_city": "City_80345",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80350",
+      "zip_extension": "",
+      "primary_city": "City_80350",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80355",
+      "zip_extension": "",
+      "primary_city": "City_80355",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80360",
+      "zip_extension": "",
+      "primary_city": "City_80360",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80365",
+      "zip_extension": "",
+      "primary_city": "City_80365",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80370",
+      "zip_extension": "",
+      "primary_city": "City_80370",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80375",
+      "zip_extension": "",
+      "primary_city": "City_80375",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80380",
+      "zip_extension": "",
+      "primary_city": "City_80380",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80385",
+      "zip_extension": "",
+      "primary_city": "City_80385",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80390",
+      "zip_extension": "",
+      "primary_city": "City_80390",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80395",
+      "zip_extension": "",
+      "primary_city": "City_80395",
+      "acceptable_cities": "",
+      "county": "County_803",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80400",
+      "zip_extension": "",
+      "primary_city": "City_80400",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80405",
+      "zip_extension": "",
+      "primary_city": "City_80405",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80410",
+      "zip_extension": "",
+      "primary_city": "City_80410",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80415",
+      "zip_extension": "",
+      "primary_city": "City_80415",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80420",
+      "zip_extension": "",
+      "primary_city": "City_80420",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80425",
+      "zip_extension": "",
+      "primary_city": "City_80425",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80430",
+      "zip_extension": "",
+      "primary_city": "City_80430",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80435",
+      "zip_extension": "",
+      "primary_city": "City_80435",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80440",
+      "zip_extension": "",
+      "primary_city": "City_80440",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80445",
+      "zip_extension": "",
+      "primary_city": "City_80445",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80450",
+      "zip_extension": "",
+      "primary_city": "City_80450",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80455",
+      "zip_extension": "",
+      "primary_city": "City_80455",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80460",
+      "zip_extension": "",
+      "primary_city": "City_80460",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80465",
+      "zip_extension": "",
+      "primary_city": "City_80465",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80470",
+      "zip_extension": "",
+      "primary_city": "City_80470",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80475",
+      "zip_extension": "",
+      "primary_city": "City_80475",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80480",
+      "zip_extension": "",
+      "primary_city": "City_80480",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80485",
+      "zip_extension": "",
+      "primary_city": "City_80485",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80490",
+      "zip_extension": "",
+      "primary_city": "City_80490",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80495",
+      "zip_extension": "",
+      "primary_city": "City_80495",
+      "acceptable_cities": "",
+      "county": "County_804",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80500",
+      "zip_extension": "",
+      "primary_city": "City_80500",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80505",
+      "zip_extension": "",
+      "primary_city": "City_80505",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80510",
+      "zip_extension": "",
+      "primary_city": "City_80510",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80515",
+      "zip_extension": "",
+      "primary_city": "City_80515",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80520",
+      "zip_extension": "",
+      "primary_city": "City_80520",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80525",
+      "zip_extension": "",
+      "primary_city": "City_80525",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80530",
+      "zip_extension": "",
+      "primary_city": "City_80530",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80535",
+      "zip_extension": "",
+      "primary_city": "City_80535",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80540",
+      "zip_extension": "",
+      "primary_city": "City_80540",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80545",
+      "zip_extension": "",
+      "primary_city": "City_80545",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80550",
+      "zip_extension": "",
+      "primary_city": "City_80550",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80555",
+      "zip_extension": "",
+      "primary_city": "City_80555",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80560",
+      "zip_extension": "",
+      "primary_city": "City_80560",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80565",
+      "zip_extension": "",
+      "primary_city": "City_80565",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80570",
+      "zip_extension": "",
+      "primary_city": "City_80570",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80575",
+      "zip_extension": "",
+      "primary_city": "City_80575",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80580",
+      "zip_extension": "",
+      "primary_city": "City_80580",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80585",
+      "zip_extension": "",
+      "primary_city": "City_80585",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80590",
+      "zip_extension": "",
+      "primary_city": "City_80590",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80595",
+      "zip_extension": "",
+      "primary_city": "City_80595",
+      "acceptable_cities": "",
+      "county": "County_805",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80600",
+      "zip_extension": "",
+      "primary_city": "City_80600",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80605",
+      "zip_extension": "",
+      "primary_city": "City_80605",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80610",
+      "zip_extension": "",
+      "primary_city": "City_80610",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80615",
+      "zip_extension": "",
+      "primary_city": "City_80615",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80620",
+      "zip_extension": "",
+      "primary_city": "City_80620",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80625",
+      "zip_extension": "",
+      "primary_city": "City_80625",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80630",
+      "zip_extension": "",
+      "primary_city": "City_80630",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80635",
+      "zip_extension": "",
+      "primary_city": "City_80635",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80640",
+      "zip_extension": "",
+      "primary_city": "City_80640",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80645",
+      "zip_extension": "",
+      "primary_city": "City_80645",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80650",
+      "zip_extension": "",
+      "primary_city": "City_80650",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80655",
+      "zip_extension": "",
+      "primary_city": "City_80655",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80660",
+      "zip_extension": "",
+      "primary_city": "City_80660",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80665",
+      "zip_extension": "",
+      "primary_city": "City_80665",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80670",
+      "zip_extension": "",
+      "primary_city": "City_80670",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80675",
+      "zip_extension": "",
+      "primary_city": "City_80675",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80680",
+      "zip_extension": "",
+      "primary_city": "City_80680",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80685",
+      "zip_extension": "",
+      "primary_city": "City_80685",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80690",
+      "zip_extension": "",
+      "primary_city": "City_80690",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80695",
+      "zip_extension": "",
+      "primary_city": "City_80695",
+      "acceptable_cities": "",
+      "county": "County_806",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80700",
+      "zip_extension": "",
+      "primary_city": "City_80700",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80705",
+      "zip_extension": "",
+      "primary_city": "City_80705",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80710",
+      "zip_extension": "",
+      "primary_city": "City_80710",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80715",
+      "zip_extension": "",
+      "primary_city": "City_80715",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80720",
+      "zip_extension": "",
+      "primary_city": "City_80720",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80725",
+      "zip_extension": "",
+      "primary_city": "City_80725",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80730",
+      "zip_extension": "",
+      "primary_city": "City_80730",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80735",
+      "zip_extension": "",
+      "primary_city": "City_80735",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80740",
+      "zip_extension": "",
+      "primary_city": "City_80740",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80745",
+      "zip_extension": "",
+      "primary_city": "City_80745",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80750",
+      "zip_extension": "",
+      "primary_city": "City_80750",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80755",
+      "zip_extension": "",
+      "primary_city": "City_80755",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80760",
+      "zip_extension": "",
+      "primary_city": "City_80760",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80765",
+      "zip_extension": "",
+      "primary_city": "City_80765",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80770",
+      "zip_extension": "",
+      "primary_city": "City_80770",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80775",
+      "zip_extension": "",
+      "primary_city": "City_80775",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80780",
+      "zip_extension": "",
+      "primary_city": "City_80780",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80785",
+      "zip_extension": "",
+      "primary_city": "City_80785",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80790",
+      "zip_extension": "",
+      "primary_city": "City_80790",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80795",
+      "zip_extension": "",
+      "primary_city": "City_80795",
+      "acceptable_cities": "",
+      "county": "County_807",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80800",
+      "zip_extension": "",
+      "primary_city": "City_80800",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80805",
+      "zip_extension": "",
+      "primary_city": "City_80805",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80810",
+      "zip_extension": "",
+      "primary_city": "City_80810",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80815",
+      "zip_extension": "",
+      "primary_city": "City_80815",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80820",
+      "zip_extension": "",
+      "primary_city": "City_80820",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80825",
+      "zip_extension": "",
+      "primary_city": "City_80825",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80830",
+      "zip_extension": "",
+      "primary_city": "City_80830",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80835",
+      "zip_extension": "",
+      "primary_city": "City_80835",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80840",
+      "zip_extension": "",
+      "primary_city": "City_80840",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80845",
+      "zip_extension": "",
+      "primary_city": "City_80845",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80850",
+      "zip_extension": "",
+      "primary_city": "City_80850",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80855",
+      "zip_extension": "",
+      "primary_city": "City_80855",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80860",
+      "zip_extension": "",
+      "primary_city": "City_80860",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80865",
+      "zip_extension": "",
+      "primary_city": "City_80865",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80870",
+      "zip_extension": "",
+      "primary_city": "City_80870",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80875",
+      "zip_extension": "",
+      "primary_city": "City_80875",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80880",
+      "zip_extension": "",
+      "primary_city": "City_80880",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80885",
+      "zip_extension": "",
+      "primary_city": "City_80885",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80890",
+      "zip_extension": "",
+      "primary_city": "City_80890",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80895",
+      "zip_extension": "",
+      "primary_city": "City_80895",
+      "acceptable_cities": "",
+      "county": "County_808",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80900",
+      "zip_extension": "",
+      "primary_city": "City_80900",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80905",
+      "zip_extension": "",
+      "primary_city": "City_80905",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80910",
+      "zip_extension": "",
+      "primary_city": "City_80910",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80915",
+      "zip_extension": "",
+      "primary_city": "City_80915",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80920",
+      "zip_extension": "",
+      "primary_city": "City_80920",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80925",
+      "zip_extension": "",
+      "primary_city": "City_80925",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80930",
+      "zip_extension": "",
+      "primary_city": "City_80930",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80935",
+      "zip_extension": "",
+      "primary_city": "City_80935",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80940",
+      "zip_extension": "",
+      "primary_city": "City_80940",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80945",
+      "zip_extension": "",
+      "primary_city": "City_80945",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80950",
+      "zip_extension": "",
+      "primary_city": "City_80950",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80955",
+      "zip_extension": "",
+      "primary_city": "City_80955",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80960",
+      "zip_extension": "",
+      "primary_city": "City_80960",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80965",
+      "zip_extension": "",
+      "primary_city": "City_80965",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80970",
+      "zip_extension": "",
+      "primary_city": "City_80970",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80975",
+      "zip_extension": "",
+      "primary_city": "City_80975",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80980",
+      "zip_extension": "",
+      "primary_city": "City_80980",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80985",
+      "zip_extension": "",
+      "primary_city": "City_80985",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80990",
+      "zip_extension": "",
+      "primary_city": "City_80990",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "80995",
+      "zip_extension": "",
+      "primary_city": "City_80995",
+      "acceptable_cities": "",
+      "county": "County_809",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81000",
+      "zip_extension": "",
+      "primary_city": "City_81000",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81005",
+      "zip_extension": "",
+      "primary_city": "City_81005",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81010",
+      "zip_extension": "",
+      "primary_city": "City_81010",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81015",
+      "zip_extension": "",
+      "primary_city": "City_81015",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81020",
+      "zip_extension": "",
+      "primary_city": "City_81020",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81025",
+      "zip_extension": "",
+      "primary_city": "City_81025",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81030",
+      "zip_extension": "",
+      "primary_city": "City_81030",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81035",
+      "zip_extension": "",
+      "primary_city": "City_81035",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81040",
+      "zip_extension": "",
+      "primary_city": "City_81040",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81045",
+      "zip_extension": "",
+      "primary_city": "City_81045",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81050",
+      "zip_extension": "",
+      "primary_city": "City_81050",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81055",
+      "zip_extension": "",
+      "primary_city": "City_81055",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81060",
+      "zip_extension": "",
+      "primary_city": "City_81060",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81065",
+      "zip_extension": "",
+      "primary_city": "City_81065",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81070",
+      "zip_extension": "",
+      "primary_city": "City_81070",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81075",
+      "zip_extension": "",
+      "primary_city": "City_81075",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81080",
+      "zip_extension": "",
+      "primary_city": "City_81080",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81085",
+      "zip_extension": "",
+      "primary_city": "City_81085",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81090",
+      "zip_extension": "",
+      "primary_city": "City_81090",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81095",
+      "zip_extension": "",
+      "primary_city": "City_81095",
+      "acceptable_cities": "",
+      "county": "County_810",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81100",
+      "zip_extension": "",
+      "primary_city": "City_81100",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81105",
+      "zip_extension": "",
+      "primary_city": "City_81105",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81110",
+      "zip_extension": "",
+      "primary_city": "City_81110",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81115",
+      "zip_extension": "",
+      "primary_city": "City_81115",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81120",
+      "zip_extension": "",
+      "primary_city": "City_81120",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81125",
+      "zip_extension": "",
+      "primary_city": "City_81125",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81130",
+      "zip_extension": "",
+      "primary_city": "City_81130",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81135",
+      "zip_extension": "",
+      "primary_city": "City_81135",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81140",
+      "zip_extension": "",
+      "primary_city": "City_81140",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81145",
+      "zip_extension": "",
+      "primary_city": "City_81145",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81150",
+      "zip_extension": "",
+      "primary_city": "City_81150",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81155",
+      "zip_extension": "",
+      "primary_city": "City_81155",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81160",
+      "zip_extension": "",
+      "primary_city": "City_81160",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81165",
+      "zip_extension": "",
+      "primary_city": "City_81165",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81170",
+      "zip_extension": "",
+      "primary_city": "City_81170",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81175",
+      "zip_extension": "",
+      "primary_city": "City_81175",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81180",
+      "zip_extension": "",
+      "primary_city": "City_81180",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81185",
+      "zip_extension": "",
+      "primary_city": "City_81185",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81190",
+      "zip_extension": "",
+      "primary_city": "City_81190",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81195",
+      "zip_extension": "",
+      "primary_city": "City_81195",
+      "acceptable_cities": "",
+      "county": "County_811",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81200",
+      "zip_extension": "",
+      "primary_city": "City_81200",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81205",
+      "zip_extension": "",
+      "primary_city": "City_81205",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81210",
+      "zip_extension": "",
+      "primary_city": "City_81210",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81215",
+      "zip_extension": "",
+      "primary_city": "City_81215",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81220",
+      "zip_extension": "",
+      "primary_city": "City_81220",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81225",
+      "zip_extension": "",
+      "primary_city": "City_81225",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81230",
+      "zip_extension": "",
+      "primary_city": "City_81230",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81235",
+      "zip_extension": "",
+      "primary_city": "City_81235",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81240",
+      "zip_extension": "",
+      "primary_city": "City_81240",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81245",
+      "zip_extension": "",
+      "primary_city": "City_81245",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81250",
+      "zip_extension": "",
+      "primary_city": "City_81250",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81255",
+      "zip_extension": "",
+      "primary_city": "City_81255",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81260",
+      "zip_extension": "",
+      "primary_city": "City_81260",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81265",
+      "zip_extension": "",
+      "primary_city": "City_81265",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81270",
+      "zip_extension": "",
+      "primary_city": "City_81270",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81275",
+      "zip_extension": "",
+      "primary_city": "City_81275",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81280",
+      "zip_extension": "",
+      "primary_city": "City_81280",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81285",
+      "zip_extension": "",
+      "primary_city": "City_81285",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81290",
+      "zip_extension": "",
+      "primary_city": "City_81290",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81295",
+      "zip_extension": "",
+      "primary_city": "City_81295",
+      "acceptable_cities": "",
+      "county": "County_812",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81300",
+      "zip_extension": "",
+      "primary_city": "City_81300",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81305",
+      "zip_extension": "",
+      "primary_city": "City_81305",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81310",
+      "zip_extension": "",
+      "primary_city": "City_81310",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81315",
+      "zip_extension": "",
+      "primary_city": "City_81315",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81320",
+      "zip_extension": "",
+      "primary_city": "City_81320",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81325",
+      "zip_extension": "",
+      "primary_city": "City_81325",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81330",
+      "zip_extension": "",
+      "primary_city": "City_81330",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81335",
+      "zip_extension": "",
+      "primary_city": "City_81335",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81340",
+      "zip_extension": "",
+      "primary_city": "City_81340",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81345",
+      "zip_extension": "",
+      "primary_city": "City_81345",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81350",
+      "zip_extension": "",
+      "primary_city": "City_81350",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81355",
+      "zip_extension": "",
+      "primary_city": "City_81355",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81360",
+      "zip_extension": "",
+      "primary_city": "City_81360",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81365",
+      "zip_extension": "",
+      "primary_city": "City_81365",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81370",
+      "zip_extension": "",
+      "primary_city": "City_81370",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81375",
+      "zip_extension": "",
+      "primary_city": "City_81375",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81380",
+      "zip_extension": "",
+      "primary_city": "City_81380",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81385",
+      "zip_extension": "",
+      "primary_city": "City_81385",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81390",
+      "zip_extension": "",
+      "primary_city": "City_81390",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81395",
+      "zip_extension": "",
+      "primary_city": "City_81395",
+      "acceptable_cities": "",
+      "county": "County_813",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81400",
+      "zip_extension": "",
+      "primary_city": "City_81400",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81405",
+      "zip_extension": "",
+      "primary_city": "City_81405",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81410",
+      "zip_extension": "",
+      "primary_city": "City_81410",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81415",
+      "zip_extension": "",
+      "primary_city": "City_81415",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81420",
+      "zip_extension": "",
+      "primary_city": "City_81420",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81425",
+      "zip_extension": "",
+      "primary_city": "City_81425",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81430",
+      "zip_extension": "",
+      "primary_city": "City_81430",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81435",
+      "zip_extension": "",
+      "primary_city": "City_81435",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81440",
+      "zip_extension": "",
+      "primary_city": "City_81440",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81445",
+      "zip_extension": "",
+      "primary_city": "City_81445",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81450",
+      "zip_extension": "",
+      "primary_city": "City_81450",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81455",
+      "zip_extension": "",
+      "primary_city": "City_81455",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81460",
+      "zip_extension": "",
+      "primary_city": "City_81460",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81465",
+      "zip_extension": "",
+      "primary_city": "City_81465",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81470",
+      "zip_extension": "",
+      "primary_city": "City_81470",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81475",
+      "zip_extension": "",
+      "primary_city": "City_81475",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81480",
+      "zip_extension": "",
+      "primary_city": "City_81480",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81485",
+      "zip_extension": "",
+      "primary_city": "City_81485",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81490",
+      "zip_extension": "",
+      "primary_city": "City_81490",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81495",
+      "zip_extension": "",
+      "primary_city": "City_81495",
+      "acceptable_cities": "",
+      "county": "County_814",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81500",
+      "zip_extension": "",
+      "primary_city": "City_81500",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81505",
+      "zip_extension": "",
+      "primary_city": "City_81505",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81510",
+      "zip_extension": "",
+      "primary_city": "City_81510",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81515",
+      "zip_extension": "",
+      "primary_city": "City_81515",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81520",
+      "zip_extension": "",
+      "primary_city": "City_81520",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81525",
+      "zip_extension": "",
+      "primary_city": "City_81525",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81530",
+      "zip_extension": "",
+      "primary_city": "City_81530",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81535",
+      "zip_extension": "",
+      "primary_city": "City_81535",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81540",
+      "zip_extension": "",
+      "primary_city": "City_81540",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81545",
+      "zip_extension": "",
+      "primary_city": "City_81545",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81550",
+      "zip_extension": "",
+      "primary_city": "City_81550",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81555",
+      "zip_extension": "",
+      "primary_city": "City_81555",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81560",
+      "zip_extension": "",
+      "primary_city": "City_81560",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81565",
+      "zip_extension": "",
+      "primary_city": "City_81565",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81570",
+      "zip_extension": "",
+      "primary_city": "City_81570",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81575",
+      "zip_extension": "",
+      "primary_city": "City_81575",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81580",
+      "zip_extension": "",
+      "primary_city": "City_81580",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81585",
+      "zip_extension": "",
+      "primary_city": "City_81585",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81590",
+      "zip_extension": "",
+      "primary_city": "City_81590",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81595",
+      "zip_extension": "",
+      "primary_city": "City_81595",
+      "acceptable_cities": "",
+      "county": "County_815",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81600",
+      "zip_extension": "",
+      "primary_city": "City_81600",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81605",
+      "zip_extension": "",
+      "primary_city": "City_81605",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81610",
+      "zip_extension": "",
+      "primary_city": "City_81610",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81615",
+      "zip_extension": "",
+      "primary_city": "City_81615",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81620",
+      "zip_extension": "",
+      "primary_city": "City_81620",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81625",
+      "zip_extension": "",
+      "primary_city": "City_81625",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81630",
+      "zip_extension": "",
+      "primary_city": "City_81630",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81635",
+      "zip_extension": "",
+      "primary_city": "City_81635",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81640",
+      "zip_extension": "",
+      "primary_city": "City_81640",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81645",
+      "zip_extension": "",
+      "primary_city": "City_81645",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81650",
+      "zip_extension": "",
+      "primary_city": "City_81650",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81655",
+      "zip_extension": "",
+      "primary_city": "City_81655",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81660",
+      "zip_extension": "",
+      "primary_city": "City_81660",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81665",
+      "zip_extension": "",
+      "primary_city": "City_81665",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81670",
+      "zip_extension": "",
+      "primary_city": "City_81670",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81675",
+      "zip_extension": "",
+      "primary_city": "City_81675",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81680",
+      "zip_extension": "",
+      "primary_city": "City_81680",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81685",
+      "zip_extension": "",
+      "primary_city": "City_81685",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81690",
+      "zip_extension": "",
+      "primary_city": "City_81690",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "81695",
+      "zip_extension": "",
+      "primary_city": "City_81695",
+      "acceptable_cities": "",
+      "county": "County_816",
+      "state": "Colorado",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

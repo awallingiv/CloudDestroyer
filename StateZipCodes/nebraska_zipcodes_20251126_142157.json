@@ -1,0 +1,2807 @@
+{
+  "state": "Nebraska",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 280,
+  "zipcodes": [
+    {
+      "zip_code": "68000",
+      "zip_extension": "",
+      "primary_city": "City_68000",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68005",
+      "zip_extension": "",
+      "primary_city": "City_68005",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68010",
+      "zip_extension": "",
+      "primary_city": "City_68010",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68015",
+      "zip_extension": "",
+      "primary_city": "City_68015",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68020",
+      "zip_extension": "",
+      "primary_city": "City_68020",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68025",
+      "zip_extension": "",
+      "primary_city": "City_68025",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68030",
+      "zip_extension": "",
+      "primary_city": "City_68030",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68035",
+      "zip_extension": "",
+      "primary_city": "City_68035",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68040",
+      "zip_extension": "",
+      "primary_city": "City_68040",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68045",
+      "zip_extension": "",
+      "primary_city": "City_68045",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68050",
+      "zip_extension": "",
+      "primary_city": "City_68050",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68055",
+      "zip_extension": "",
+      "primary_city": "City_68055",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68060",
+      "zip_extension": "",
+      "primary_city": "City_68060",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68065",
+      "zip_extension": "",
+      "primary_city": "City_68065",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68070",
+      "zip_extension": "",
+      "primary_city": "City_68070",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68075",
+      "zip_extension": "",
+      "primary_city": "City_68075",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68080",
+      "zip_extension": "",
+      "primary_city": "City_68080",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68085",
+      "zip_extension": "",
+      "primary_city": "City_68085",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68090",
+      "zip_extension": "",
+      "primary_city": "City_68090",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68095",
+      "zip_extension": "",
+      "primary_city": "City_68095",
+      "acceptable_cities": "",
+      "county": "County_680",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68100",
+      "zip_extension": "",
+      "primary_city": "City_68100",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68105",
+      "zip_extension": "",
+      "primary_city": "City_68105",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68110",
+      "zip_extension": "",
+      "primary_city": "City_68110",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68115",
+      "zip_extension": "",
+      "primary_city": "City_68115",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68120",
+      "zip_extension": "",
+      "primary_city": "City_68120",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68125",
+      "zip_extension": "",
+      "primary_city": "City_68125",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68130",
+      "zip_extension": "",
+      "primary_city": "City_68130",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68135",
+      "zip_extension": "",
+      "primary_city": "City_68135",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68140",
+      "zip_extension": "",
+      "primary_city": "City_68140",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68145",
+      "zip_extension": "",
+      "primary_city": "City_68145",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68150",
+      "zip_extension": "",
+      "primary_city": "City_68150",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68155",
+      "zip_extension": "",
+      "primary_city": "City_68155",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68160",
+      "zip_extension": "",
+      "primary_city": "City_68160",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68165",
+      "zip_extension": "",
+      "primary_city": "City_68165",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68170",
+      "zip_extension": "",
+      "primary_city": "City_68170",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68175",
+      "zip_extension": "",
+      "primary_city": "City_68175",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68180",
+      "zip_extension": "",
+      "primary_city": "City_68180",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68185",
+      "zip_extension": "",
+      "primary_city": "City_68185",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68190",
+      "zip_extension": "",
+      "primary_city": "City_68190",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68195",
+      "zip_extension": "",
+      "primary_city": "City_68195",
+      "acceptable_cities": "",
+      "county": "County_681",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68200",
+      "zip_extension": "",
+      "primary_city": "City_68200",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68205",
+      "zip_extension": "",
+      "primary_city": "City_68205",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68210",
+      "zip_extension": "",
+      "primary_city": "City_68210",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68215",
+      "zip_extension": "",
+      "primary_city": "City_68215",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68220",
+      "zip_extension": "",
+      "primary_city": "City_68220",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68225",
+      "zip_extension": "",
+      "primary_city": "City_68225",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68230",
+      "zip_extension": "",
+      "primary_city": "City_68230",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68235",
+      "zip_extension": "",
+      "primary_city": "City_68235",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68240",
+      "zip_extension": "",
+      "primary_city": "City_68240",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68245",
+      "zip_extension": "",
+      "primary_city": "City_68245",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68250",
+      "zip_extension": "",
+      "primary_city": "City_68250",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68255",
+      "zip_extension": "",
+      "primary_city": "City_68255",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68260",
+      "zip_extension": "",
+      "primary_city": "City_68260",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68265",
+      "zip_extension": "",
+      "primary_city": "City_68265",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68270",
+      "zip_extension": "",
+      "primary_city": "City_68270",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68275",
+      "zip_extension": "",
+      "primary_city": "City_68275",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68280",
+      "zip_extension": "",
+      "primary_city": "City_68280",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68285",
+      "zip_extension": "",
+      "primary_city": "City_68285",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68290",
+      "zip_extension": "",
+      "primary_city": "City_68290",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68295",
+      "zip_extension": "",
+      "primary_city": "City_68295",
+      "acceptable_cities": "",
+      "county": "County_682",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68300",
+      "zip_extension": "",
+      "primary_city": "City_68300",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68305",
+      "zip_extension": "",
+      "primary_city": "City_68305",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68310",
+      "zip_extension": "",
+      "primary_city": "City_68310",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68315",
+      "zip_extension": "",
+      "primary_city": "City_68315",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68320",
+      "zip_extension": "",
+      "primary_city": "City_68320",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68325",
+      "zip_extension": "",
+      "primary_city": "City_68325",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68330",
+      "zip_extension": "",
+      "primary_city": "City_68330",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68335",
+      "zip_extension": "",
+      "primary_city": "City_68335",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68340",
+      "zip_extension": "",
+      "primary_city": "City_68340",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68345",
+      "zip_extension": "",
+      "primary_city": "City_68345",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68350",
+      "zip_extension": "",
+      "primary_city": "City_68350",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68355",
+      "zip_extension": "",
+      "primary_city": "City_68355",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68360",
+      "zip_extension": "",
+      "primary_city": "City_68360",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68365",
+      "zip_extension": "",
+      "primary_city": "City_68365",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68370",
+      "zip_extension": "",
+      "primary_city": "City_68370",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68375",
+      "zip_extension": "",
+      "primary_city": "City_68375",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68380",
+      "zip_extension": "",
+      "primary_city": "City_68380",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68385",
+      "zip_extension": "",
+      "primary_city": "City_68385",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68390",
+      "zip_extension": "",
+      "primary_city": "City_68390",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68395",
+      "zip_extension": "",
+      "primary_city": "City_68395",
+      "acceptable_cities": "",
+      "county": "County_683",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68400",
+      "zip_extension": "",
+      "primary_city": "City_68400",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68405",
+      "zip_extension": "",
+      "primary_city": "City_68405",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68410",
+      "zip_extension": "",
+      "primary_city": "City_68410",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68415",
+      "zip_extension": "",
+      "primary_city": "City_68415",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68420",
+      "zip_extension": "",
+      "primary_city": "City_68420",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68425",
+      "zip_extension": "",
+      "primary_city": "City_68425",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68430",
+      "zip_extension": "",
+      "primary_city": "City_68430",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68435",
+      "zip_extension": "",
+      "primary_city": "City_68435",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68440",
+      "zip_extension": "",
+      "primary_city": "City_68440",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68445",
+      "zip_extension": "",
+      "primary_city": "City_68445",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68450",
+      "zip_extension": "",
+      "primary_city": "City_68450",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68455",
+      "zip_extension": "",
+      "primary_city": "City_68455",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68460",
+      "zip_extension": "",
+      "primary_city": "City_68460",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68465",
+      "zip_extension": "",
+      "primary_city": "City_68465",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68470",
+      "zip_extension": "",
+      "primary_city": "City_68470",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68475",
+      "zip_extension": "",
+      "primary_city": "City_68475",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68480",
+      "zip_extension": "",
+      "primary_city": "City_68480",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68485",
+      "zip_extension": "",
+      "primary_city": "City_68485",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68490",
+      "zip_extension": "",
+      "primary_city": "City_68490",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68495",
+      "zip_extension": "",
+      "primary_city": "City_68495",
+      "acceptable_cities": "",
+      "county": "County_684",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68500",
+      "zip_extension": "",
+      "primary_city": "City_68500",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68505",
+      "zip_extension": "",
+      "primary_city": "City_68505",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68510",
+      "zip_extension": "",
+      "primary_city": "City_68510",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68515",
+      "zip_extension": "",
+      "primary_city": "City_68515",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68520",
+      "zip_extension": "",
+      "primary_city": "City_68520",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68525",
+      "zip_extension": "",
+      "primary_city": "City_68525",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68530",
+      "zip_extension": "",
+      "primary_city": "City_68530",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68535",
+      "zip_extension": "",
+      "primary_city": "City_68535",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68540",
+      "zip_extension": "",
+      "primary_city": "City_68540",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68545",
+      "zip_extension": "",
+      "primary_city": "City_68545",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68550",
+      "zip_extension": "",
+      "primary_city": "City_68550",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68555",
+      "zip_extension": "",
+      "primary_city": "City_68555",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68560",
+      "zip_extension": "",
+      "primary_city": "City_68560",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68565",
+      "zip_extension": "",
+      "primary_city": "City_68565",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68570",
+      "zip_extension": "",
+      "primary_city": "City_68570",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68575",
+      "zip_extension": "",
+      "primary_city": "City_68575",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68580",
+      "zip_extension": "",
+      "primary_city": "City_68580",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68585",
+      "zip_extension": "",
+      "primary_city": "City_68585",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68590",
+      "zip_extension": "",
+      "primary_city": "City_68590",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68595",
+      "zip_extension": "",
+      "primary_city": "City_68595",
+      "acceptable_cities": "",
+      "county": "County_685",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68600",
+      "zip_extension": "",
+      "primary_city": "City_68600",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68605",
+      "zip_extension": "",
+      "primary_city": "City_68605",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68610",
+      "zip_extension": "",
+      "primary_city": "City_68610",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68615",
+      "zip_extension": "",
+      "primary_city": "City_68615",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68620",
+      "zip_extension": "",
+      "primary_city": "City_68620",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68625",
+      "zip_extension": "",
+      "primary_city": "City_68625",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68630",
+      "zip_extension": "",
+      "primary_city": "City_68630",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68635",
+      "zip_extension": "",
+      "primary_city": "City_68635",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68640",
+      "zip_extension": "",
+      "primary_city": "City_68640",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68645",
+      "zip_extension": "",
+      "primary_city": "City_68645",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68650",
+      "zip_extension": "",
+      "primary_city": "City_68650",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68655",
+      "zip_extension": "",
+      "primary_city": "City_68655",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68660",
+      "zip_extension": "",
+      "primary_city": "City_68660",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68665",
+      "zip_extension": "",
+      "primary_city": "City_68665",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68670",
+      "zip_extension": "",
+      "primary_city": "City_68670",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68675",
+      "zip_extension": "",
+      "primary_city": "City_68675",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68680",
+      "zip_extension": "",
+      "primary_city": "City_68680",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68685",
+      "zip_extension": "",
+      "primary_city": "City_68685",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68690",
+      "zip_extension": "",
+      "primary_city": "City_68690",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68695",
+      "zip_extension": "",
+      "primary_city": "City_68695",
+      "acceptable_cities": "",
+      "county": "County_686",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68700",
+      "zip_extension": "",
+      "primary_city": "City_68700",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68705",
+      "zip_extension": "",
+      "primary_city": "City_68705",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68710",
+      "zip_extension": "",
+      "primary_city": "City_68710",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68715",
+      "zip_extension": "",
+      "primary_city": "City_68715",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68720",
+      "zip_extension": "",
+      "primary_city": "City_68720",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68725",
+      "zip_extension": "",
+      "primary_city": "City_68725",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68730",
+      "zip_extension": "",
+      "primary_city": "City_68730",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68735",
+      "zip_extension": "",
+      "primary_city": "City_68735",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68740",
+      "zip_extension": "",
+      "primary_city": "City_68740",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68745",
+      "zip_extension": "",
+      "primary_city": "City_68745",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68750",
+      "zip_extension": "",
+      "primary_city": "City_68750",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68755",
+      "zip_extension": "",
+      "primary_city": "City_68755",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68760",
+      "zip_extension": "",
+      "primary_city": "City_68760",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68765",
+      "zip_extension": "",
+      "primary_city": "City_68765",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68770",
+      "zip_extension": "",
+      "primary_city": "City_68770",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68775",
+      "zip_extension": "",
+      "primary_city": "City_68775",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68780",
+      "zip_extension": "",
+      "primary_city": "City_68780",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68785",
+      "zip_extension": "",
+      "primary_city": "City_68785",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68790",
+      "zip_extension": "",
+      "primary_city": "City_68790",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68795",
+      "zip_extension": "",
+      "primary_city": "City_68795",
+      "acceptable_cities": "",
+      "county": "County_687",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68800",
+      "zip_extension": "",
+      "primary_city": "City_68800",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68805",
+      "zip_extension": "",
+      "primary_city": "City_68805",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68810",
+      "zip_extension": "",
+      "primary_city": "City_68810",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68815",
+      "zip_extension": "",
+      "primary_city": "City_68815",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68820",
+      "zip_extension": "",
+      "primary_city": "City_68820",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68825",
+      "zip_extension": "",
+      "primary_city": "City_68825",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68830",
+      "zip_extension": "",
+      "primary_city": "City_68830",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68835",
+      "zip_extension": "",
+      "primary_city": "City_68835",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68840",
+      "zip_extension": "",
+      "primary_city": "City_68840",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68845",
+      "zip_extension": "",
+      "primary_city": "City_68845",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68850",
+      "zip_extension": "",
+      "primary_city": "City_68850",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68855",
+      "zip_extension": "",
+      "primary_city": "City_68855",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68860",
+      "zip_extension": "",
+      "primary_city": "City_68860",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68865",
+      "zip_extension": "",
+      "primary_city": "City_68865",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68870",
+      "zip_extension": "",
+      "primary_city": "City_68870",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68875",
+      "zip_extension": "",
+      "primary_city": "City_68875",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68880",
+      "zip_extension": "",
+      "primary_city": "City_68880",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68885",
+      "zip_extension": "",
+      "primary_city": "City_68885",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68890",
+      "zip_extension": "",
+      "primary_city": "City_68890",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68895",
+      "zip_extension": "",
+      "primary_city": "City_68895",
+      "acceptable_cities": "",
+      "county": "County_688",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68900",
+      "zip_extension": "",
+      "primary_city": "City_68900",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68905",
+      "zip_extension": "",
+      "primary_city": "City_68905",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68910",
+      "zip_extension": "",
+      "primary_city": "City_68910",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68915",
+      "zip_extension": "",
+      "primary_city": "City_68915",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68920",
+      "zip_extension": "",
+      "primary_city": "City_68920",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68925",
+      "zip_extension": "",
+      "primary_city": "City_68925",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68930",
+      "zip_extension": "",
+      "primary_city": "City_68930",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68935",
+      "zip_extension": "",
+      "primary_city": "City_68935",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68940",
+      "zip_extension": "",
+      "primary_city": "City_68940",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68945",
+      "zip_extension": "",
+      "primary_city": "City_68945",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68950",
+      "zip_extension": "",
+      "primary_city": "City_68950",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68955",
+      "zip_extension": "",
+      "primary_city": "City_68955",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68960",
+      "zip_extension": "",
+      "primary_city": "City_68960",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68965",
+      "zip_extension": "",
+      "primary_city": "City_68965",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68970",
+      "zip_extension": "",
+      "primary_city": "City_68970",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68975",
+      "zip_extension": "",
+      "primary_city": "City_68975",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68980",
+      "zip_extension": "",
+      "primary_city": "City_68980",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68985",
+      "zip_extension": "",
+      "primary_city": "City_68985",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68990",
+      "zip_extension": "",
+      "primary_city": "City_68990",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "68995",
+      "zip_extension": "",
+      "primary_city": "City_68995",
+      "acceptable_cities": "",
+      "county": "County_689",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69000",
+      "zip_extension": "",
+      "primary_city": "City_69000",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69005",
+      "zip_extension": "",
+      "primary_city": "City_69005",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69010",
+      "zip_extension": "",
+      "primary_city": "City_69010",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69015",
+      "zip_extension": "",
+      "primary_city": "City_69015",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69020",
+      "zip_extension": "",
+      "primary_city": "City_69020",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69025",
+      "zip_extension": "",
+      "primary_city": "City_69025",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69030",
+      "zip_extension": "",
+      "primary_city": "City_69030",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69035",
+      "zip_extension": "",
+      "primary_city": "City_69035",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69040",
+      "zip_extension": "",
+      "primary_city": "City_69040",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69045",
+      "zip_extension": "",
+      "primary_city": "City_69045",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69050",
+      "zip_extension": "",
+      "primary_city": "City_69050",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69055",
+      "zip_extension": "",
+      "primary_city": "City_69055",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69060",
+      "zip_extension": "",
+      "primary_city": "City_69060",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69065",
+      "zip_extension": "",
+      "primary_city": "City_69065",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69070",
+      "zip_extension": "",
+      "primary_city": "City_69070",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69075",
+      "zip_extension": "",
+      "primary_city": "City_69075",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69080",
+      "zip_extension": "",
+      "primary_city": "City_69080",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69085",
+      "zip_extension": "",
+      "primary_city": "City_69085",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69090",
+      "zip_extension": "",
+      "primary_city": "City_69090",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69095",
+      "zip_extension": "",
+      "primary_city": "City_69095",
+      "acceptable_cities": "",
+      "county": "County_690",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69100",
+      "zip_extension": "",
+      "primary_city": "City_69100",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69105",
+      "zip_extension": "",
+      "primary_city": "City_69105",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69110",
+      "zip_extension": "",
+      "primary_city": "City_69110",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69115",
+      "zip_extension": "",
+      "primary_city": "City_69115",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69120",
+      "zip_extension": "",
+      "primary_city": "City_69120",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69125",
+      "zip_extension": "",
+      "primary_city": "City_69125",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69130",
+      "zip_extension": "",
+      "primary_city": "City_69130",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69135",
+      "zip_extension": "",
+      "primary_city": "City_69135",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69140",
+      "zip_extension": "",
+      "primary_city": "City_69140",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69145",
+      "zip_extension": "",
+      "primary_city": "City_69145",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69150",
+      "zip_extension": "",
+      "primary_city": "City_69150",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69155",
+      "zip_extension": "",
+      "primary_city": "City_69155",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69160",
+      "zip_extension": "",
+      "primary_city": "City_69160",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69165",
+      "zip_extension": "",
+      "primary_city": "City_69165",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69170",
+      "zip_extension": "",
+      "primary_city": "City_69170",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69175",
+      "zip_extension": "",
+      "primary_city": "City_69175",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69180",
+      "zip_extension": "",
+      "primary_city": "City_69180",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69185",
+      "zip_extension": "",
+      "primary_city": "City_69185",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69190",
+      "zip_extension": "",
+      "primary_city": "City_69190",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69195",
+      "zip_extension": "",
+      "primary_city": "City_69195",
+      "acceptable_cities": "",
+      "county": "County_691",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69200",
+      "zip_extension": "",
+      "primary_city": "City_69200",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69205",
+      "zip_extension": "",
+      "primary_city": "City_69205",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69210",
+      "zip_extension": "",
+      "primary_city": "City_69210",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69215",
+      "zip_extension": "",
+      "primary_city": "City_69215",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69220",
+      "zip_extension": "",
+      "primary_city": "City_69220",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69225",
+      "zip_extension": "",
+      "primary_city": "City_69225",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69230",
+      "zip_extension": "",
+      "primary_city": "City_69230",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69235",
+      "zip_extension": "",
+      "primary_city": "City_69235",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69240",
+      "zip_extension": "",
+      "primary_city": "City_69240",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69245",
+      "zip_extension": "",
+      "primary_city": "City_69245",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69250",
+      "zip_extension": "",
+      "primary_city": "City_69250",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69255",
+      "zip_extension": "",
+      "primary_city": "City_69255",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69260",
+      "zip_extension": "",
+      "primary_city": "City_69260",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69265",
+      "zip_extension": "",
+      "primary_city": "City_69265",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69270",
+      "zip_extension": "",
+      "primary_city": "City_69270",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69275",
+      "zip_extension": "",
+      "primary_city": "City_69275",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69280",
+      "zip_extension": "",
+      "primary_city": "City_69280",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69285",
+      "zip_extension": "",
+      "primary_city": "City_69285",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69290",
+      "zip_extension": "",
+      "primary_city": "City_69290",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69295",
+      "zip_extension": "",
+      "primary_city": "City_69295",
+      "acceptable_cities": "",
+      "county": "County_692",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69300",
+      "zip_extension": "",
+      "primary_city": "City_69300",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69305",
+      "zip_extension": "",
+      "primary_city": "City_69305",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69310",
+      "zip_extension": "",
+      "primary_city": "City_69310",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69315",
+      "zip_extension": "",
+      "primary_city": "City_69315",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69320",
+      "zip_extension": "",
+      "primary_city": "City_69320",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69325",
+      "zip_extension": "",
+      "primary_city": "City_69325",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69330",
+      "zip_extension": "",
+      "primary_city": "City_69330",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69335",
+      "zip_extension": "",
+      "primary_city": "City_69335",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69340",
+      "zip_extension": "",
+      "primary_city": "City_69340",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69345",
+      "zip_extension": "",
+      "primary_city": "City_69345",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69350",
+      "zip_extension": "",
+      "primary_city": "City_69350",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69355",
+      "zip_extension": "",
+      "primary_city": "City_69355",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69360",
+      "zip_extension": "",
+      "primary_city": "City_69360",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69365",
+      "zip_extension": "",
+      "primary_city": "City_69365",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69370",
+      "zip_extension": "",
+      "primary_city": "City_69370",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69375",
+      "zip_extension": "",
+      "primary_city": "City_69375",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69380",
+      "zip_extension": "",
+      "primary_city": "City_69380",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69385",
+      "zip_extension": "",
+      "primary_city": "City_69385",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69390",
+      "zip_extension": "",
+      "primary_city": "City_69390",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "69395",
+      "zip_extension": "",
+      "primary_city": "City_69395",
+      "acceptable_cities": "",
+      "county": "County_693",
+      "state": "Nebraska",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

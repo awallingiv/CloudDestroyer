@@ -1,0 +1,163 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Scrape California ZIP codes",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"generic_zipcode_scraper.py",
+				"California",
+				"https://en.wikipedia.org/wiki/List_of_ZIP_codes_in_California"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Test CloudDestroyer Import",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"-c",
+				"import sys; from pathlib import Path; sys.path.insert(0, str(Path('.') / 'src')); from core.cloud_destroyer import CloudDestroyer; print('Import successful')"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Test Import Debug",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"test_import.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Test Fixed Scraper",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"generic_zipcode_scraper.py",
+				"California",
+				"https://en.wikipedia.org/wiki/List_of_ZIP_codes_in_California"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Test Alternative CA ZIP URL",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"generic_zipcode_scraper.py",
+				"California",
+				"https://en.wikipedia.org/wiki/List_of_California_postal_codes"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Test ZIP Code Prefixes Page",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"generic_zipcode_scraper.py",
+				"ZipCodePrefixes",
+				"https://en.wikipedia.org/wiki/List_of_ZIP_Code_prefixes"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Test USPS ZIP Scraper",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"usps_zipcode_scraper.py",
+				"California"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Test ZIP Code Generator",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"zipcode_generator.py",
+				"California"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Import California ZIP Codes",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"import_zipcodes_to_sql.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Import California ZIP Codes",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"import_zipcodes_to_sql.py",
+				"California"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Regenerate California ZIP Codes",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"zipcode_generator.py",
+				"California"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Generate Texas ZIP Codes",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"zipcode_generator.py",
+				"Texas"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Generate New York ZIP Codes",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"zipcode_generator.py",
+				"New York"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

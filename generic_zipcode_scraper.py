@@ -11,13 +11,15 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from pathlib import Path
 
-# Add the src directory to the path to import CloudDestroyer
-sys.path.insert(0, str(Path(__file__).parent / 'src'))
+# Add the current directory to the path to import CloudDestroyer
+current_dir = Path(__file__).parent
+sys.path.insert(0, str(current_dir))
 
 try:
-    from core.cloud_destroyer import CloudDestroyer
-except ImportError:
-    print("❌ Error: CloudDestroyer not found. Make sure the src directory exists.")
+    from src.core.cloud_destroyer import CloudDestroyer
+except ImportError as e:
+    print(f"❌ Error: CloudDestroyer import failed: {e}")
+    print("Make sure you're running from the CloudDestroyer root directory.")
     sys.exit(1)
 
 class StateZipCodeScraper:

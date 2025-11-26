@@ -1,0 +1,4007 @@
+{
+  "state": "New Jersey",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 400,
+  "zipcodes": [
+    {
+      "zip_code": "07000",
+      "zip_extension": "",
+      "primary_city": "City_07000",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07005",
+      "zip_extension": "",
+      "primary_city": "City_07005",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07010",
+      "zip_extension": "",
+      "primary_city": "City_07010",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07015",
+      "zip_extension": "",
+      "primary_city": "City_07015",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07020",
+      "zip_extension": "",
+      "primary_city": "City_07020",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07025",
+      "zip_extension": "",
+      "primary_city": "City_07025",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07030",
+      "zip_extension": "",
+      "primary_city": "City_07030",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07035",
+      "zip_extension": "",
+      "primary_city": "City_07035",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07040",
+      "zip_extension": "",
+      "primary_city": "City_07040",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07045",
+      "zip_extension": "",
+      "primary_city": "City_07045",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07050",
+      "zip_extension": "",
+      "primary_city": "City_07050",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07055",
+      "zip_extension": "",
+      "primary_city": "City_07055",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07060",
+      "zip_extension": "",
+      "primary_city": "City_07060",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07065",
+      "zip_extension": "",
+      "primary_city": "City_07065",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07070",
+      "zip_extension": "",
+      "primary_city": "City_07070",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07075",
+      "zip_extension": "",
+      "primary_city": "City_07075",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07080",
+      "zip_extension": "",
+      "primary_city": "City_07080",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07085",
+      "zip_extension": "",
+      "primary_city": "City_07085",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07090",
+      "zip_extension": "",
+      "primary_city": "City_07090",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07095",
+      "zip_extension": "",
+      "primary_city": "City_07095",
+      "acceptable_cities": "",
+      "county": "County_070",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07100",
+      "zip_extension": "",
+      "primary_city": "City_07100",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07105",
+      "zip_extension": "",
+      "primary_city": "City_07105",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07110",
+      "zip_extension": "",
+      "primary_city": "City_07110",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07115",
+      "zip_extension": "",
+      "primary_city": "City_07115",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07120",
+      "zip_extension": "",
+      "primary_city": "City_07120",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07125",
+      "zip_extension": "",
+      "primary_city": "City_07125",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07130",
+      "zip_extension": "",
+      "primary_city": "City_07130",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07135",
+      "zip_extension": "",
+      "primary_city": "City_07135",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07140",
+      "zip_extension": "",
+      "primary_city": "City_07140",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07145",
+      "zip_extension": "",
+      "primary_city": "City_07145",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07150",
+      "zip_extension": "",
+      "primary_city": "City_07150",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07155",
+      "zip_extension": "",
+      "primary_city": "City_07155",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07160",
+      "zip_extension": "",
+      "primary_city": "City_07160",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07165",
+      "zip_extension": "",
+      "primary_city": "City_07165",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07170",
+      "zip_extension": "",
+      "primary_city": "City_07170",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07175",
+      "zip_extension": "",
+      "primary_city": "City_07175",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07180",
+      "zip_extension": "",
+      "primary_city": "City_07180",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07185",
+      "zip_extension": "",
+      "primary_city": "City_07185",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07190",
+      "zip_extension": "",
+      "primary_city": "City_07190",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07195",
+      "zip_extension": "",
+      "primary_city": "City_07195",
+      "acceptable_cities": "",
+      "county": "County_071",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07200",
+      "zip_extension": "",
+      "primary_city": "City_07200",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07205",
+      "zip_extension": "",
+      "primary_city": "City_07205",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07210",
+      "zip_extension": "",
+      "primary_city": "City_07210",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07215",
+      "zip_extension": "",
+      "primary_city": "City_07215",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07220",
+      "zip_extension": "",
+      "primary_city": "City_07220",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07225",
+      "zip_extension": "",
+      "primary_city": "City_07225",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07230",
+      "zip_extension": "",
+      "primary_city": "City_07230",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07235",
+      "zip_extension": "",
+      "primary_city": "City_07235",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07240",
+      "zip_extension": "",
+      "primary_city": "City_07240",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07245",
+      "zip_extension": "",
+      "primary_city": "City_07245",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07250",
+      "zip_extension": "",
+      "primary_city": "City_07250",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07255",
+      "zip_extension": "",
+      "primary_city": "City_07255",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07260",
+      "zip_extension": "",
+      "primary_city": "City_07260",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07265",
+      "zip_extension": "",
+      "primary_city": "City_07265",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07270",
+      "zip_extension": "",
+      "primary_city": "City_07270",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07275",
+      "zip_extension": "",
+      "primary_city": "City_07275",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07280",
+      "zip_extension": "",
+      "primary_city": "City_07280",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07285",
+      "zip_extension": "",
+      "primary_city": "City_07285",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07290",
+      "zip_extension": "",
+      "primary_city": "City_07290",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07295",
+      "zip_extension": "",
+      "primary_city": "City_07295",
+      "acceptable_cities": "",
+      "county": "County_072",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07300",
+      "zip_extension": "",
+      "primary_city": "City_07300",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07305",
+      "zip_extension": "",
+      "primary_city": "City_07305",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07310",
+      "zip_extension": "",
+      "primary_city": "City_07310",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07315",
+      "zip_extension": "",
+      "primary_city": "City_07315",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07320",
+      "zip_extension": "",
+      "primary_city": "City_07320",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07325",
+      "zip_extension": "",
+      "primary_city": "City_07325",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07330",
+      "zip_extension": "",
+      "primary_city": "City_07330",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07335",
+      "zip_extension": "",
+      "primary_city": "City_07335",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07340",
+      "zip_extension": "",
+      "primary_city": "City_07340",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07345",
+      "zip_extension": "",
+      "primary_city": "City_07345",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07350",
+      "zip_extension": "",
+      "primary_city": "City_07350",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07355",
+      "zip_extension": "",
+      "primary_city": "City_07355",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07360",
+      "zip_extension": "",
+      "primary_city": "City_07360",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07365",
+      "zip_extension": "",
+      "primary_city": "City_07365",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07370",
+      "zip_extension": "",
+      "primary_city": "City_07370",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07375",
+      "zip_extension": "",
+      "primary_city": "City_07375",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07380",
+      "zip_extension": "",
+      "primary_city": "City_07380",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07385",
+      "zip_extension": "",
+      "primary_city": "City_07385",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07390",
+      "zip_extension": "",
+      "primary_city": "City_07390",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07395",
+      "zip_extension": "",
+      "primary_city": "City_07395",
+      "acceptable_cities": "",
+      "county": "County_073",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07400",
+      "zip_extension": "",
+      "primary_city": "City_07400",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07405",
+      "zip_extension": "",
+      "primary_city": "City_07405",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07410",
+      "zip_extension": "",
+      "primary_city": "City_07410",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07415",
+      "zip_extension": "",
+      "primary_city": "City_07415",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07420",
+      "zip_extension": "",
+      "primary_city": "City_07420",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07425",
+      "zip_extension": "",
+      "primary_city": "City_07425",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07430",
+      "zip_extension": "",
+      "primary_city": "City_07430",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07435",
+      "zip_extension": "",
+      "primary_city": "City_07435",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07440",
+      "zip_extension": "",
+      "primary_city": "City_07440",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07445",
+      "zip_extension": "",
+      "primary_city": "City_07445",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07450",
+      "zip_extension": "",
+      "primary_city": "City_07450",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07455",
+      "zip_extension": "",
+      "primary_city": "City_07455",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07460",
+      "zip_extension": "",
+      "primary_city": "City_07460",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07465",
+      "zip_extension": "",
+      "primary_city": "City_07465",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07470",
+      "zip_extension": "",
+      "primary_city": "City_07470",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07475",
+      "zip_extension": "",
+      "primary_city": "City_07475",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07480",
+      "zip_extension": "",
+      "primary_city": "City_07480",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07485",
+      "zip_extension": "",
+      "primary_city": "City_07485",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07490",
+      "zip_extension": "",
+      "primary_city": "City_07490",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07495",
+      "zip_extension": "",
+      "primary_city": "City_07495",
+      "acceptable_cities": "",
+      "county": "County_074",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07500",
+      "zip_extension": "",
+      "primary_city": "City_07500",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07505",
+      "zip_extension": "",
+      "primary_city": "City_07505",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07510",
+      "zip_extension": "",
+      "primary_city": "City_07510",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07515",
+      "zip_extension": "",
+      "primary_city": "City_07515",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07520",
+      "zip_extension": "",
+      "primary_city": "City_07520",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07525",
+      "zip_extension": "",
+      "primary_city": "City_07525",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07530",
+      "zip_extension": "",
+      "primary_city": "City_07530",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07535",
+      "zip_extension": "",
+      "primary_city": "City_07535",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07540",
+      "zip_extension": "",
+      "primary_city": "City_07540",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07545",
+      "zip_extension": "",
+      "primary_city": "City_07545",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07550",
+      "zip_extension": "",
+      "primary_city": "City_07550",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07555",
+      "zip_extension": "",
+      "primary_city": "City_07555",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07560",
+      "zip_extension": "",
+      "primary_city": "City_07560",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07565",
+      "zip_extension": "",
+      "primary_city": "City_07565",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07570",
+      "zip_extension": "",
+      "primary_city": "City_07570",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07575",
+      "zip_extension": "",
+      "primary_city": "City_07575",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07580",
+      "zip_extension": "",
+      "primary_city": "City_07580",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07585",
+      "zip_extension": "",
+      "primary_city": "City_07585",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07590",
+      "zip_extension": "",
+      "primary_city": "City_07590",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07595",
+      "zip_extension": "",
+      "primary_city": "City_07595",
+      "acceptable_cities": "",
+      "county": "County_075",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07600",
+      "zip_extension": "",
+      "primary_city": "City_07600",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07605",
+      "zip_extension": "",
+      "primary_city": "City_07605",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07610",
+      "zip_extension": "",
+      "primary_city": "City_07610",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07615",
+      "zip_extension": "",
+      "primary_city": "City_07615",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07620",
+      "zip_extension": "",
+      "primary_city": "City_07620",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07625",
+      "zip_extension": "",
+      "primary_city": "City_07625",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07630",
+      "zip_extension": "",
+      "primary_city": "City_07630",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07635",
+      "zip_extension": "",
+      "primary_city": "City_07635",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07640",
+      "zip_extension": "",
+      "primary_city": "City_07640",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07645",
+      "zip_extension": "",
+      "primary_city": "City_07645",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07650",
+      "zip_extension": "",
+      "primary_city": "City_07650",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07655",
+      "zip_extension": "",
+      "primary_city": "City_07655",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07660",
+      "zip_extension": "",
+      "primary_city": "City_07660",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07665",
+      "zip_extension": "",
+      "primary_city": "City_07665",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07670",
+      "zip_extension": "",
+      "primary_city": "City_07670",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07675",
+      "zip_extension": "",
+      "primary_city": "City_07675",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07680",
+      "zip_extension": "",
+      "primary_city": "City_07680",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07685",
+      "zip_extension": "",
+      "primary_city": "City_07685",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07690",
+      "zip_extension": "",
+      "primary_city": "City_07690",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07695",
+      "zip_extension": "",
+      "primary_city": "City_07695",
+      "acceptable_cities": "",
+      "county": "County_076",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07700",
+      "zip_extension": "",
+      "primary_city": "City_07700",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07705",
+      "zip_extension": "",
+      "primary_city": "City_07705",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07710",
+      "zip_extension": "",
+      "primary_city": "City_07710",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07715",
+      "zip_extension": "",
+      "primary_city": "City_07715",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07720",
+      "zip_extension": "",
+      "primary_city": "City_07720",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07725",
+      "zip_extension": "",
+      "primary_city": "City_07725",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07730",
+      "zip_extension": "",
+      "primary_city": "City_07730",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07735",
+      "zip_extension": "",
+      "primary_city": "City_07735",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07740",
+      "zip_extension": "",
+      "primary_city": "City_07740",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07745",
+      "zip_extension": "",
+      "primary_city": "City_07745",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07750",
+      "zip_extension": "",
+      "primary_city": "City_07750",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07755",
+      "zip_extension": "",
+      "primary_city": "City_07755",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07760",
+      "zip_extension": "",
+      "primary_city": "City_07760",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07765",
+      "zip_extension": "",
+      "primary_city": "City_07765",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07770",
+      "zip_extension": "",
+      "primary_city": "City_07770",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07775",
+      "zip_extension": "",
+      "primary_city": "City_07775",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07780",
+      "zip_extension": "",
+      "primary_city": "City_07780",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07785",
+      "zip_extension": "",
+      "primary_city": "City_07785",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07790",
+      "zip_extension": "",
+      "primary_city": "City_07790",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07795",
+      "zip_extension": "",
+      "primary_city": "City_07795",
+      "acceptable_cities": "",
+      "county": "County_077",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07800",
+      "zip_extension": "",
+      "primary_city": "City_07800",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07805",
+      "zip_extension": "",
+      "primary_city": "City_07805",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07810",
+      "zip_extension": "",
+      "primary_city": "City_07810",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07815",
+      "zip_extension": "",
+      "primary_city": "City_07815",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07820",
+      "zip_extension": "",
+      "primary_city": "City_07820",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07825",
+      "zip_extension": "",
+      "primary_city": "City_07825",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07830",
+      "zip_extension": "",
+      "primary_city": "City_07830",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07835",
+      "zip_extension": "",
+      "primary_city": "City_07835",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07840",
+      "zip_extension": "",
+      "primary_city": "City_07840",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07845",
+      "zip_extension": "",
+      "primary_city": "City_07845",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07850",
+      "zip_extension": "",
+      "primary_city": "City_07850",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07855",
+      "zip_extension": "",
+      "primary_city": "City_07855",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07860",
+      "zip_extension": "",
+      "primary_city": "City_07860",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07865",
+      "zip_extension": "",
+      "primary_city": "City_07865",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07870",
+      "zip_extension": "",
+      "primary_city": "City_07870",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07875",
+      "zip_extension": "",
+      "primary_city": "City_07875",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07880",
+      "zip_extension": "",
+      "primary_city": "City_07880",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07885",
+      "zip_extension": "",
+      "primary_city": "City_07885",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07890",
+      "zip_extension": "",
+      "primary_city": "City_07890",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07895",
+      "zip_extension": "",
+      "primary_city": "City_07895",
+      "acceptable_cities": "",
+      "county": "County_078",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07900",
+      "zip_extension": "",
+      "primary_city": "City_07900",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07905",
+      "zip_extension": "",
+      "primary_city": "City_07905",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07910",
+      "zip_extension": "",
+      "primary_city": "City_07910",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07915",
+      "zip_extension": "",
+      "primary_city": "City_07915",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07920",
+      "zip_extension": "",
+      "primary_city": "City_07920",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07925",
+      "zip_extension": "",
+      "primary_city": "City_07925",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07930",
+      "zip_extension": "",
+      "primary_city": "City_07930",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07935",
+      "zip_extension": "",
+      "primary_city": "City_07935",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07940",
+      "zip_extension": "",
+      "primary_city": "City_07940",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07945",
+      "zip_extension": "",
+      "primary_city": "City_07945",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07950",
+      "zip_extension": "",
+      "primary_city": "City_07950",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07955",
+      "zip_extension": "",
+      "primary_city": "City_07955",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07960",
+      "zip_extension": "",
+      "primary_city": "City_07960",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07965",
+      "zip_extension": "",
+      "primary_city": "City_07965",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07970",
+      "zip_extension": "",
+      "primary_city": "City_07970",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07975",
+      "zip_extension": "",
+      "primary_city": "City_07975",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07980",
+      "zip_extension": "",
+      "primary_city": "City_07980",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07985",
+      "zip_extension": "",
+      "primary_city": "City_07985",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07990",
+      "zip_extension": "",
+      "primary_city": "City_07990",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "07995",
+      "zip_extension": "",
+      "primary_city": "City_07995",
+      "acceptable_cities": "",
+      "county": "County_079",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08000",
+      "zip_extension": "",
+      "primary_city": "City_08000",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08005",
+      "zip_extension": "",
+      "primary_city": "City_08005",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08010",
+      "zip_extension": "",
+      "primary_city": "City_08010",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08015",
+      "zip_extension": "",
+      "primary_city": "City_08015",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08020",
+      "zip_extension": "",
+      "primary_city": "City_08020",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08025",
+      "zip_extension": "",
+      "primary_city": "City_08025",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08030",
+      "zip_extension": "",
+      "primary_city": "City_08030",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08035",
+      "zip_extension": "",
+      "primary_city": "City_08035",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08040",
+      "zip_extension": "",
+      "primary_city": "City_08040",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08045",
+      "zip_extension": "",
+      "primary_city": "City_08045",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08050",
+      "zip_extension": "",
+      "primary_city": "City_08050",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08055",
+      "zip_extension": "",
+      "primary_city": "City_08055",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08060",
+      "zip_extension": "",
+      "primary_city": "City_08060",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08065",
+      "zip_extension": "",
+      "primary_city": "City_08065",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08070",
+      "zip_extension": "",
+      "primary_city": "City_08070",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08075",
+      "zip_extension": "",
+      "primary_city": "City_08075",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08080",
+      "zip_extension": "",
+      "primary_city": "City_08080",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08085",
+      "zip_extension": "",
+      "primary_city": "City_08085",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08090",
+      "zip_extension": "",
+      "primary_city": "City_08090",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08095",
+      "zip_extension": "",
+      "primary_city": "City_08095",
+      "acceptable_cities": "",
+      "county": "County_080",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08100",
+      "zip_extension": "",
+      "primary_city": "City_08100",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08105",
+      "zip_extension": "",
+      "primary_city": "City_08105",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08110",
+      "zip_extension": "",
+      "primary_city": "City_08110",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08115",
+      "zip_extension": "",
+      "primary_city": "City_08115",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08120",
+      "zip_extension": "",
+      "primary_city": "City_08120",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08125",
+      "zip_extension": "",
+      "primary_city": "City_08125",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08130",
+      "zip_extension": "",
+      "primary_city": "City_08130",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08135",
+      "zip_extension": "",
+      "primary_city": "City_08135",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08140",
+      "zip_extension": "",
+      "primary_city": "City_08140",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08145",
+      "zip_extension": "",
+      "primary_city": "City_08145",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08150",
+      "zip_extension": "",
+      "primary_city": "City_08150",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08155",
+      "zip_extension": "",
+      "primary_city": "City_08155",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08160",
+      "zip_extension": "",
+      "primary_city": "City_08160",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08165",
+      "zip_extension": "",
+      "primary_city": "City_08165",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08170",
+      "zip_extension": "",
+      "primary_city": "City_08170",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08175",
+      "zip_extension": "",
+      "primary_city": "City_08175",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08180",
+      "zip_extension": "",
+      "primary_city": "City_08180",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08185",
+      "zip_extension": "",
+      "primary_city": "City_08185",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08190",
+      "zip_extension": "",
+      "primary_city": "City_08190",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08195",
+      "zip_extension": "",
+      "primary_city": "City_08195",
+      "acceptable_cities": "",
+      "county": "County_081",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08200",
+      "zip_extension": "",
+      "primary_city": "City_08200",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08205",
+      "zip_extension": "",
+      "primary_city": "City_08205",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08210",
+      "zip_extension": "",
+      "primary_city": "City_08210",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08215",
+      "zip_extension": "",
+      "primary_city": "City_08215",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08220",
+      "zip_extension": "",
+      "primary_city": "City_08220",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08225",
+      "zip_extension": "",
+      "primary_city": "City_08225",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08230",
+      "zip_extension": "",
+      "primary_city": "City_08230",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08235",
+      "zip_extension": "",
+      "primary_city": "City_08235",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08240",
+      "zip_extension": "",
+      "primary_city": "City_08240",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08245",
+      "zip_extension": "",
+      "primary_city": "City_08245",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08250",
+      "zip_extension": "",
+      "primary_city": "City_08250",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08255",
+      "zip_extension": "",
+      "primary_city": "City_08255",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08260",
+      "zip_extension": "",
+      "primary_city": "City_08260",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08265",
+      "zip_extension": "",
+      "primary_city": "City_08265",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08270",
+      "zip_extension": "",
+      "primary_city": "City_08270",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08275",
+      "zip_extension": "",
+      "primary_city": "City_08275",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08280",
+      "zip_extension": "",
+      "primary_city": "City_08280",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08285",
+      "zip_extension": "",
+      "primary_city": "City_08285",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08290",
+      "zip_extension": "",
+      "primary_city": "City_08290",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08295",
+      "zip_extension": "",
+      "primary_city": "City_08295",
+      "acceptable_cities": "",
+      "county": "County_082",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08300",
+      "zip_extension": "",
+      "primary_city": "City_08300",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08305",
+      "zip_extension": "",
+      "primary_city": "City_08305",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08310",
+      "zip_extension": "",
+      "primary_city": "City_08310",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08315",
+      "zip_extension": "",
+      "primary_city": "City_08315",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08320",
+      "zip_extension": "",
+      "primary_city": "City_08320",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08325",
+      "zip_extension": "",
+      "primary_city": "City_08325",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08330",
+      "zip_extension": "",
+      "primary_city": "City_08330",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08335",
+      "zip_extension": "",
+      "primary_city": "City_08335",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08340",
+      "zip_extension": "",
+      "primary_city": "City_08340",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08345",
+      "zip_extension": "",
+      "primary_city": "City_08345",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08350",
+      "zip_extension": "",
+      "primary_city": "City_08350",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08355",
+      "zip_extension": "",
+      "primary_city": "City_08355",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08360",
+      "zip_extension": "",
+      "primary_city": "City_08360",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08365",
+      "zip_extension": "",
+      "primary_city": "City_08365",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08370",
+      "zip_extension": "",
+      "primary_city": "City_08370",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08375",
+      "zip_extension": "",
+      "primary_city": "City_08375",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08380",
+      "zip_extension": "",
+      "primary_city": "City_08380",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08385",
+      "zip_extension": "",
+      "primary_city": "City_08385",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08390",
+      "zip_extension": "",
+      "primary_city": "City_08390",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08395",
+      "zip_extension": "",
+      "primary_city": "City_08395",
+      "acceptable_cities": "",
+      "county": "County_083",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08400",
+      "zip_extension": "",
+      "primary_city": "City_08400",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08405",
+      "zip_extension": "",
+      "primary_city": "City_08405",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08410",
+      "zip_extension": "",
+      "primary_city": "City_08410",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08415",
+      "zip_extension": "",
+      "primary_city": "City_08415",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08420",
+      "zip_extension": "",
+      "primary_city": "City_08420",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08425",
+      "zip_extension": "",
+      "primary_city": "City_08425",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08430",
+      "zip_extension": "",
+      "primary_city": "City_08430",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08435",
+      "zip_extension": "",
+      "primary_city": "City_08435",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08440",
+      "zip_extension": "",
+      "primary_city": "City_08440",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08445",
+      "zip_extension": "",
+      "primary_city": "City_08445",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08450",
+      "zip_extension": "",
+      "primary_city": "City_08450",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08455",
+      "zip_extension": "",
+      "primary_city": "City_08455",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08460",
+      "zip_extension": "",
+      "primary_city": "City_08460",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08465",
+      "zip_extension": "",
+      "primary_city": "City_08465",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08470",
+      "zip_extension": "",
+      "primary_city": "City_08470",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08475",
+      "zip_extension": "",
+      "primary_city": "City_08475",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08480",
+      "zip_extension": "",
+      "primary_city": "City_08480",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08485",
+      "zip_extension": "",
+      "primary_city": "City_08485",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08490",
+      "zip_extension": "",
+      "primary_city": "City_08490",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08495",
+      "zip_extension": "",
+      "primary_city": "City_08495",
+      "acceptable_cities": "",
+      "county": "County_084",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08500",
+      "zip_extension": "",
+      "primary_city": "City_08500",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08505",
+      "zip_extension": "",
+      "primary_city": "City_08505",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08510",
+      "zip_extension": "",
+      "primary_city": "City_08510",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08515",
+      "zip_extension": "",
+      "primary_city": "City_08515",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08520",
+      "zip_extension": "",
+      "primary_city": "City_08520",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08525",
+      "zip_extension": "",
+      "primary_city": "City_08525",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08530",
+      "zip_extension": "",
+      "primary_city": "City_08530",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08535",
+      "zip_extension": "",
+      "primary_city": "City_08535",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08540",
+      "zip_extension": "",
+      "primary_city": "City_08540",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08545",
+      "zip_extension": "",
+      "primary_city": "City_08545",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08550",
+      "zip_extension": "",
+      "primary_city": "City_08550",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08555",
+      "zip_extension": "",
+      "primary_city": "City_08555",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08560",
+      "zip_extension": "",
+      "primary_city": "City_08560",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08565",
+      "zip_extension": "",
+      "primary_city": "City_08565",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08570",
+      "zip_extension": "",
+      "primary_city": "City_08570",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08575",
+      "zip_extension": "",
+      "primary_city": "City_08575",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08580",
+      "zip_extension": "",
+      "primary_city": "City_08580",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08585",
+      "zip_extension": "",
+      "primary_city": "City_08585",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08590",
+      "zip_extension": "",
+      "primary_city": "City_08590",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08595",
+      "zip_extension": "",
+      "primary_city": "City_08595",
+      "acceptable_cities": "",
+      "county": "County_085",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08600",
+      "zip_extension": "",
+      "primary_city": "City_08600",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08605",
+      "zip_extension": "",
+      "primary_city": "City_08605",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08610",
+      "zip_extension": "",
+      "primary_city": "City_08610",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08615",
+      "zip_extension": "",
+      "primary_city": "City_08615",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08620",
+      "zip_extension": "",
+      "primary_city": "City_08620",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08625",
+      "zip_extension": "",
+      "primary_city": "City_08625",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08630",
+      "zip_extension": "",
+      "primary_city": "City_08630",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08635",
+      "zip_extension": "",
+      "primary_city": "City_08635",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08640",
+      "zip_extension": "",
+      "primary_city": "City_08640",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08645",
+      "zip_extension": "",
+      "primary_city": "City_08645",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08650",
+      "zip_extension": "",
+      "primary_city": "City_08650",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08655",
+      "zip_extension": "",
+      "primary_city": "City_08655",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08660",
+      "zip_extension": "",
+      "primary_city": "City_08660",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08665",
+      "zip_extension": "",
+      "primary_city": "City_08665",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08670",
+      "zip_extension": "",
+      "primary_city": "City_08670",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08675",
+      "zip_extension": "",
+      "primary_city": "City_08675",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08680",
+      "zip_extension": "",
+      "primary_city": "City_08680",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08685",
+      "zip_extension": "",
+      "primary_city": "City_08685",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08690",
+      "zip_extension": "",
+      "primary_city": "City_08690",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08695",
+      "zip_extension": "",
+      "primary_city": "City_08695",
+      "acceptable_cities": "",
+      "county": "County_086",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08700",
+      "zip_extension": "",
+      "primary_city": "City_08700",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08705",
+      "zip_extension": "",
+      "primary_city": "City_08705",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08710",
+      "zip_extension": "",
+      "primary_city": "City_08710",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08715",
+      "zip_extension": "",
+      "primary_city": "City_08715",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08720",
+      "zip_extension": "",
+      "primary_city": "City_08720",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08725",
+      "zip_extension": "",
+      "primary_city": "City_08725",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08730",
+      "zip_extension": "",
+      "primary_city": "City_08730",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08735",
+      "zip_extension": "",
+      "primary_city": "City_08735",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08740",
+      "zip_extension": "",
+      "primary_city": "City_08740",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08745",
+      "zip_extension": "",
+      "primary_city": "City_08745",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08750",
+      "zip_extension": "",
+      "primary_city": "City_08750",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08755",
+      "zip_extension": "",
+      "primary_city": "City_08755",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08760",
+      "zip_extension": "",
+      "primary_city": "City_08760",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08765",
+      "zip_extension": "",
+      "primary_city": "City_08765",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08770",
+      "zip_extension": "",
+      "primary_city": "City_08770",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08775",
+      "zip_extension": "",
+      "primary_city": "City_08775",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08780",
+      "zip_extension": "",
+      "primary_city": "City_08780",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08785",
+      "zip_extension": "",
+      "primary_city": "City_08785",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08790",
+      "zip_extension": "",
+      "primary_city": "City_08790",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08795",
+      "zip_extension": "",
+      "primary_city": "City_08795",
+      "acceptable_cities": "",
+      "county": "County_087",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08800",
+      "zip_extension": "",
+      "primary_city": "City_08800",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08805",
+      "zip_extension": "",
+      "primary_city": "City_08805",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08810",
+      "zip_extension": "",
+      "primary_city": "City_08810",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08815",
+      "zip_extension": "",
+      "primary_city": "City_08815",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08820",
+      "zip_extension": "",
+      "primary_city": "City_08820",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08825",
+      "zip_extension": "",
+      "primary_city": "City_08825",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08830",
+      "zip_extension": "",
+      "primary_city": "City_08830",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08835",
+      "zip_extension": "",
+      "primary_city": "City_08835",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08840",
+      "zip_extension": "",
+      "primary_city": "City_08840",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08845",
+      "zip_extension": "",
+      "primary_city": "City_08845",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08850",
+      "zip_extension": "",
+      "primary_city": "City_08850",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08855",
+      "zip_extension": "",
+      "primary_city": "City_08855",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08860",
+      "zip_extension": "",
+      "primary_city": "City_08860",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08865",
+      "zip_extension": "",
+      "primary_city": "City_08865",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08870",
+      "zip_extension": "",
+      "primary_city": "City_08870",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08875",
+      "zip_extension": "",
+      "primary_city": "City_08875",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08880",
+      "zip_extension": "",
+      "primary_city": "City_08880",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08885",
+      "zip_extension": "",
+      "primary_city": "City_08885",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08890",
+      "zip_extension": "",
+      "primary_city": "City_08890",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08895",
+      "zip_extension": "",
+      "primary_city": "City_08895",
+      "acceptable_cities": "",
+      "county": "County_088",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08900",
+      "zip_extension": "",
+      "primary_city": "City_08900",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08905",
+      "zip_extension": "",
+      "primary_city": "City_08905",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08910",
+      "zip_extension": "",
+      "primary_city": "City_08910",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08915",
+      "zip_extension": "",
+      "primary_city": "City_08915",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08920",
+      "zip_extension": "",
+      "primary_city": "City_08920",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08925",
+      "zip_extension": "",
+      "primary_city": "City_08925",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08930",
+      "zip_extension": "",
+      "primary_city": "City_08930",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08935",
+      "zip_extension": "",
+      "primary_city": "City_08935",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08940",
+      "zip_extension": "",
+      "primary_city": "City_08940",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08945",
+      "zip_extension": "",
+      "primary_city": "City_08945",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08950",
+      "zip_extension": "",
+      "primary_city": "City_08950",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08955",
+      "zip_extension": "",
+      "primary_city": "City_08955",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08960",
+      "zip_extension": "",
+      "primary_city": "City_08960",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08965",
+      "zip_extension": "",
+      "primary_city": "City_08965",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08970",
+      "zip_extension": "",
+      "primary_city": "City_08970",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08975",
+      "zip_extension": "",
+      "primary_city": "City_08975",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08980",
+      "zip_extension": "",
+      "primary_city": "City_08980",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08985",
+      "zip_extension": "",
+      "primary_city": "City_08985",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08990",
+      "zip_extension": "",
+      "primary_city": "City_08990",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "08995",
+      "zip_extension": "",
+      "primary_city": "City_08995",
+      "acceptable_cities": "",
+      "county": "County_089",
+      "state": "New Jersey",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

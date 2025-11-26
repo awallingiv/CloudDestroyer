@@ -1,0 +1,2007 @@
+{
+  "state": "Vermont",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 200,
+  "zipcodes": [
+    {
+      "zip_code": "05000",
+      "zip_extension": "",
+      "primary_city": "City_05000",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05005",
+      "zip_extension": "",
+      "primary_city": "City_05005",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05010",
+      "zip_extension": "",
+      "primary_city": "City_05010",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05015",
+      "zip_extension": "",
+      "primary_city": "City_05015",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05020",
+      "zip_extension": "",
+      "primary_city": "City_05020",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05025",
+      "zip_extension": "",
+      "primary_city": "City_05025",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05030",
+      "zip_extension": "",
+      "primary_city": "City_05030",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05035",
+      "zip_extension": "",
+      "primary_city": "City_05035",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05040",
+      "zip_extension": "",
+      "primary_city": "City_05040",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05045",
+      "zip_extension": "",
+      "primary_city": "City_05045",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05050",
+      "zip_extension": "",
+      "primary_city": "City_05050",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05055",
+      "zip_extension": "",
+      "primary_city": "City_05055",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05060",
+      "zip_extension": "",
+      "primary_city": "City_05060",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05065",
+      "zip_extension": "",
+      "primary_city": "City_05065",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05070",
+      "zip_extension": "",
+      "primary_city": "City_05070",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05075",
+      "zip_extension": "",
+      "primary_city": "City_05075",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05080",
+      "zip_extension": "",
+      "primary_city": "City_05080",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05085",
+      "zip_extension": "",
+      "primary_city": "City_05085",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05090",
+      "zip_extension": "",
+      "primary_city": "City_05090",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05095",
+      "zip_extension": "",
+      "primary_city": "City_05095",
+      "acceptable_cities": "",
+      "county": "County_050",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05100",
+      "zip_extension": "",
+      "primary_city": "City_05100",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05105",
+      "zip_extension": "",
+      "primary_city": "City_05105",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05110",
+      "zip_extension": "",
+      "primary_city": "City_05110",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05115",
+      "zip_extension": "",
+      "primary_city": "City_05115",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05120",
+      "zip_extension": "",
+      "primary_city": "City_05120",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05125",
+      "zip_extension": "",
+      "primary_city": "City_05125",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05130",
+      "zip_extension": "",
+      "primary_city": "City_05130",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05135",
+      "zip_extension": "",
+      "primary_city": "City_05135",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05140",
+      "zip_extension": "",
+      "primary_city": "City_05140",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05145",
+      "zip_extension": "",
+      "primary_city": "City_05145",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05150",
+      "zip_extension": "",
+      "primary_city": "City_05150",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05155",
+      "zip_extension": "",
+      "primary_city": "City_05155",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05160",
+      "zip_extension": "",
+      "primary_city": "City_05160",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05165",
+      "zip_extension": "",
+      "primary_city": "City_05165",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05170",
+      "zip_extension": "",
+      "primary_city": "City_05170",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05175",
+      "zip_extension": "",
+      "primary_city": "City_05175",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05180",
+      "zip_extension": "",
+      "primary_city": "City_05180",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05185",
+      "zip_extension": "",
+      "primary_city": "City_05185",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05190",
+      "zip_extension": "",
+      "primary_city": "City_05190",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05195",
+      "zip_extension": "",
+      "primary_city": "City_05195",
+      "acceptable_cities": "",
+      "county": "County_051",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05200",
+      "zip_extension": "",
+      "primary_city": "City_05200",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05205",
+      "zip_extension": "",
+      "primary_city": "City_05205",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05210",
+      "zip_extension": "",
+      "primary_city": "City_05210",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05215",
+      "zip_extension": "",
+      "primary_city": "City_05215",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05220",
+      "zip_extension": "",
+      "primary_city": "City_05220",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05225",
+      "zip_extension": "",
+      "primary_city": "City_05225",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05230",
+      "zip_extension": "",
+      "primary_city": "City_05230",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05235",
+      "zip_extension": "",
+      "primary_city": "City_05235",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05240",
+      "zip_extension": "",
+      "primary_city": "City_05240",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05245",
+      "zip_extension": "",
+      "primary_city": "City_05245",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05250",
+      "zip_extension": "",
+      "primary_city": "City_05250",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05255",
+      "zip_extension": "",
+      "primary_city": "City_05255",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05260",
+      "zip_extension": "",
+      "primary_city": "City_05260",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05265",
+      "zip_extension": "",
+      "primary_city": "City_05265",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05270",
+      "zip_extension": "",
+      "primary_city": "City_05270",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05275",
+      "zip_extension": "",
+      "primary_city": "City_05275",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05280",
+      "zip_extension": "",
+      "primary_city": "City_05280",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05285",
+      "zip_extension": "",
+      "primary_city": "City_05285",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05290",
+      "zip_extension": "",
+      "primary_city": "City_05290",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05295",
+      "zip_extension": "",
+      "primary_city": "City_05295",
+      "acceptable_cities": "",
+      "county": "County_052",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05300",
+      "zip_extension": "",
+      "primary_city": "City_05300",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05305",
+      "zip_extension": "",
+      "primary_city": "City_05305",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05310",
+      "zip_extension": "",
+      "primary_city": "City_05310",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05315",
+      "zip_extension": "",
+      "primary_city": "City_05315",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05320",
+      "zip_extension": "",
+      "primary_city": "City_05320",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05325",
+      "zip_extension": "",
+      "primary_city": "City_05325",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05330",
+      "zip_extension": "",
+      "primary_city": "City_05330",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05335",
+      "zip_extension": "",
+      "primary_city": "City_05335",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05340",
+      "zip_extension": "",
+      "primary_city": "City_05340",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05345",
+      "zip_extension": "",
+      "primary_city": "City_05345",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05350",
+      "zip_extension": "",
+      "primary_city": "City_05350",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05355",
+      "zip_extension": "",
+      "primary_city": "City_05355",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05360",
+      "zip_extension": "",
+      "primary_city": "City_05360",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05365",
+      "zip_extension": "",
+      "primary_city": "City_05365",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05370",
+      "zip_extension": "",
+      "primary_city": "City_05370",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05375",
+      "zip_extension": "",
+      "primary_city": "City_05375",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05380",
+      "zip_extension": "",
+      "primary_city": "City_05380",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05385",
+      "zip_extension": "",
+      "primary_city": "City_05385",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05390",
+      "zip_extension": "",
+      "primary_city": "City_05390",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05395",
+      "zip_extension": "",
+      "primary_city": "City_05395",
+      "acceptable_cities": "",
+      "county": "County_053",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05400",
+      "zip_extension": "",
+      "primary_city": "City_05400",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05405",
+      "zip_extension": "",
+      "primary_city": "City_05405",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05410",
+      "zip_extension": "",
+      "primary_city": "City_05410",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05415",
+      "zip_extension": "",
+      "primary_city": "City_05415",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05420",
+      "zip_extension": "",
+      "primary_city": "City_05420",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05425",
+      "zip_extension": "",
+      "primary_city": "City_05425",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05430",
+      "zip_extension": "",
+      "primary_city": "City_05430",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05435",
+      "zip_extension": "",
+      "primary_city": "City_05435",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05440",
+      "zip_extension": "",
+      "primary_city": "City_05440",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05445",
+      "zip_extension": "",
+      "primary_city": "City_05445",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05450",
+      "zip_extension": "",
+      "primary_city": "City_05450",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05455",
+      "zip_extension": "",
+      "primary_city": "City_05455",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05460",
+      "zip_extension": "",
+      "primary_city": "City_05460",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05465",
+      "zip_extension": "",
+      "primary_city": "City_05465",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05470",
+      "zip_extension": "",
+      "primary_city": "City_05470",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05475",
+      "zip_extension": "",
+      "primary_city": "City_05475",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05480",
+      "zip_extension": "",
+      "primary_city": "City_05480",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05485",
+      "zip_extension": "",
+      "primary_city": "City_05485",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05490",
+      "zip_extension": "",
+      "primary_city": "City_05490",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05495",
+      "zip_extension": "",
+      "primary_city": "City_05495",
+      "acceptable_cities": "",
+      "county": "County_054",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05500",
+      "zip_extension": "",
+      "primary_city": "City_05500",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05505",
+      "zip_extension": "",
+      "primary_city": "City_05505",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05510",
+      "zip_extension": "",
+      "primary_city": "City_05510",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05515",
+      "zip_extension": "",
+      "primary_city": "City_05515",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05520",
+      "zip_extension": "",
+      "primary_city": "City_05520",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05525",
+      "zip_extension": "",
+      "primary_city": "City_05525",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05530",
+      "zip_extension": "",
+      "primary_city": "City_05530",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05535",
+      "zip_extension": "",
+      "primary_city": "City_05535",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05540",
+      "zip_extension": "",
+      "primary_city": "City_05540",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05545",
+      "zip_extension": "",
+      "primary_city": "City_05545",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05550",
+      "zip_extension": "",
+      "primary_city": "City_05550",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05555",
+      "zip_extension": "",
+      "primary_city": "City_05555",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05560",
+      "zip_extension": "",
+      "primary_city": "City_05560",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05565",
+      "zip_extension": "",
+      "primary_city": "City_05565",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05570",
+      "zip_extension": "",
+      "primary_city": "City_05570",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05575",
+      "zip_extension": "",
+      "primary_city": "City_05575",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05580",
+      "zip_extension": "",
+      "primary_city": "City_05580",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05585",
+      "zip_extension": "",
+      "primary_city": "City_05585",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05590",
+      "zip_extension": "",
+      "primary_city": "City_05590",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05595",
+      "zip_extension": "",
+      "primary_city": "City_05595",
+      "acceptable_cities": "",
+      "county": "County_055",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05600",
+      "zip_extension": "",
+      "primary_city": "City_05600",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05605",
+      "zip_extension": "",
+      "primary_city": "City_05605",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05610",
+      "zip_extension": "",
+      "primary_city": "City_05610",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05615",
+      "zip_extension": "",
+      "primary_city": "City_05615",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05620",
+      "zip_extension": "",
+      "primary_city": "City_05620",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05625",
+      "zip_extension": "",
+      "primary_city": "City_05625",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05630",
+      "zip_extension": "",
+      "primary_city": "City_05630",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05635",
+      "zip_extension": "",
+      "primary_city": "City_05635",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05640",
+      "zip_extension": "",
+      "primary_city": "City_05640",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05645",
+      "zip_extension": "",
+      "primary_city": "City_05645",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05650",
+      "zip_extension": "",
+      "primary_city": "City_05650",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05655",
+      "zip_extension": "",
+      "primary_city": "City_05655",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05660",
+      "zip_extension": "",
+      "primary_city": "City_05660",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05665",
+      "zip_extension": "",
+      "primary_city": "City_05665",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05670",
+      "zip_extension": "",
+      "primary_city": "City_05670",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05675",
+      "zip_extension": "",
+      "primary_city": "City_05675",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05680",
+      "zip_extension": "",
+      "primary_city": "City_05680",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05685",
+      "zip_extension": "",
+      "primary_city": "City_05685",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05690",
+      "zip_extension": "",
+      "primary_city": "City_05690",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05695",
+      "zip_extension": "",
+      "primary_city": "City_05695",
+      "acceptable_cities": "",
+      "county": "County_056",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05700",
+      "zip_extension": "",
+      "primary_city": "City_05700",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05705",
+      "zip_extension": "",
+      "primary_city": "City_05705",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05710",
+      "zip_extension": "",
+      "primary_city": "City_05710",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05715",
+      "zip_extension": "",
+      "primary_city": "City_05715",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05720",
+      "zip_extension": "",
+      "primary_city": "City_05720",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05725",
+      "zip_extension": "",
+      "primary_city": "City_05725",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05730",
+      "zip_extension": "",
+      "primary_city": "City_05730",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05735",
+      "zip_extension": "",
+      "primary_city": "City_05735",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05740",
+      "zip_extension": "",
+      "primary_city": "City_05740",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05745",
+      "zip_extension": "",
+      "primary_city": "City_05745",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05750",
+      "zip_extension": "",
+      "primary_city": "City_05750",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05755",
+      "zip_extension": "",
+      "primary_city": "City_05755",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05760",
+      "zip_extension": "",
+      "primary_city": "City_05760",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05765",
+      "zip_extension": "",
+      "primary_city": "City_05765",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05770",
+      "zip_extension": "",
+      "primary_city": "City_05770",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05775",
+      "zip_extension": "",
+      "primary_city": "City_05775",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05780",
+      "zip_extension": "",
+      "primary_city": "City_05780",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05785",
+      "zip_extension": "",
+      "primary_city": "City_05785",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05790",
+      "zip_extension": "",
+      "primary_city": "City_05790",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05795",
+      "zip_extension": "",
+      "primary_city": "City_05795",
+      "acceptable_cities": "",
+      "county": "County_057",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05800",
+      "zip_extension": "",
+      "primary_city": "City_05800",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05805",
+      "zip_extension": "",
+      "primary_city": "City_05805",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05810",
+      "zip_extension": "",
+      "primary_city": "City_05810",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05815",
+      "zip_extension": "",
+      "primary_city": "City_05815",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05820",
+      "zip_extension": "",
+      "primary_city": "City_05820",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05825",
+      "zip_extension": "",
+      "primary_city": "City_05825",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05830",
+      "zip_extension": "",
+      "primary_city": "City_05830",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05835",
+      "zip_extension": "",
+      "primary_city": "City_05835",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05840",
+      "zip_extension": "",
+      "primary_city": "City_05840",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05845",
+      "zip_extension": "",
+      "primary_city": "City_05845",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05850",
+      "zip_extension": "",
+      "primary_city": "City_05850",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05855",
+      "zip_extension": "",
+      "primary_city": "City_05855",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05860",
+      "zip_extension": "",
+      "primary_city": "City_05860",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05865",
+      "zip_extension": "",
+      "primary_city": "City_05865",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05870",
+      "zip_extension": "",
+      "primary_city": "City_05870",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05875",
+      "zip_extension": "",
+      "primary_city": "City_05875",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05880",
+      "zip_extension": "",
+      "primary_city": "City_05880",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05885",
+      "zip_extension": "",
+      "primary_city": "City_05885",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05890",
+      "zip_extension": "",
+      "primary_city": "City_05890",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05895",
+      "zip_extension": "",
+      "primary_city": "City_05895",
+      "acceptable_cities": "",
+      "county": "County_058",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05900",
+      "zip_extension": "",
+      "primary_city": "City_05900",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05905",
+      "zip_extension": "",
+      "primary_city": "City_05905",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05910",
+      "zip_extension": "",
+      "primary_city": "City_05910",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05915",
+      "zip_extension": "",
+      "primary_city": "City_05915",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05920",
+      "zip_extension": "",
+      "primary_city": "City_05920",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05925",
+      "zip_extension": "",
+      "primary_city": "City_05925",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05930",
+      "zip_extension": "",
+      "primary_city": "City_05930",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05935",
+      "zip_extension": "",
+      "primary_city": "City_05935",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05940",
+      "zip_extension": "",
+      "primary_city": "City_05940",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05945",
+      "zip_extension": "",
+      "primary_city": "City_05945",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05950",
+      "zip_extension": "",
+      "primary_city": "City_05950",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05955",
+      "zip_extension": "",
+      "primary_city": "City_05955",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05960",
+      "zip_extension": "",
+      "primary_city": "City_05960",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05965",
+      "zip_extension": "",
+      "primary_city": "City_05965",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05970",
+      "zip_extension": "",
+      "primary_city": "City_05970",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05975",
+      "zip_extension": "",
+      "primary_city": "City_05975",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05980",
+      "zip_extension": "",
+      "primary_city": "City_05980",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05985",
+      "zip_extension": "",
+      "primary_city": "City_05985",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05990",
+      "zip_extension": "",
+      "primary_city": "City_05990",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "05995",
+      "zip_extension": "",
+      "primary_city": "City_05995",
+      "acceptable_cities": "",
+      "county": "County_059",
+      "state": "Vermont",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

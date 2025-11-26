@@ -1,0 +1,1407 @@
+{
+  "state": "Idaho",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 140,
+  "zipcodes": [
+    {
+      "zip_code": "83200",
+      "zip_extension": "",
+      "primary_city": "City_83200",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83205",
+      "zip_extension": "",
+      "primary_city": "City_83205",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83210",
+      "zip_extension": "",
+      "primary_city": "City_83210",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83215",
+      "zip_extension": "",
+      "primary_city": "City_83215",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83220",
+      "zip_extension": "",
+      "primary_city": "City_83220",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83225",
+      "zip_extension": "",
+      "primary_city": "City_83225",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83230",
+      "zip_extension": "",
+      "primary_city": "City_83230",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83235",
+      "zip_extension": "",
+      "primary_city": "City_83235",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83240",
+      "zip_extension": "",
+      "primary_city": "City_83240",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83245",
+      "zip_extension": "",
+      "primary_city": "City_83245",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83250",
+      "zip_extension": "",
+      "primary_city": "City_83250",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83255",
+      "zip_extension": "",
+      "primary_city": "City_83255",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83260",
+      "zip_extension": "",
+      "primary_city": "City_83260",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83265",
+      "zip_extension": "",
+      "primary_city": "City_83265",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83270",
+      "zip_extension": "",
+      "primary_city": "City_83270",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83275",
+      "zip_extension": "",
+      "primary_city": "City_83275",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83280",
+      "zip_extension": "",
+      "primary_city": "City_83280",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83285",
+      "zip_extension": "",
+      "primary_city": "City_83285",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83290",
+      "zip_extension": "",
+      "primary_city": "City_83290",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83295",
+      "zip_extension": "",
+      "primary_city": "City_83295",
+      "acceptable_cities": "",
+      "county": "County_832",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83300",
+      "zip_extension": "",
+      "primary_city": "City_83300",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83305",
+      "zip_extension": "",
+      "primary_city": "City_83305",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83310",
+      "zip_extension": "",
+      "primary_city": "City_83310",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83315",
+      "zip_extension": "",
+      "primary_city": "City_83315",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83320",
+      "zip_extension": "",
+      "primary_city": "City_83320",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83325",
+      "zip_extension": "",
+      "primary_city": "City_83325",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83330",
+      "zip_extension": "",
+      "primary_city": "City_83330",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83335",
+      "zip_extension": "",
+      "primary_city": "City_83335",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83340",
+      "zip_extension": "",
+      "primary_city": "City_83340",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83345",
+      "zip_extension": "",
+      "primary_city": "City_83345",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83350",
+      "zip_extension": "",
+      "primary_city": "City_83350",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83355",
+      "zip_extension": "",
+      "primary_city": "City_83355",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83360",
+      "zip_extension": "",
+      "primary_city": "City_83360",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83365",
+      "zip_extension": "",
+      "primary_city": "City_83365",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83370",
+      "zip_extension": "",
+      "primary_city": "City_83370",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83375",
+      "zip_extension": "",
+      "primary_city": "City_83375",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83380",
+      "zip_extension": "",
+      "primary_city": "City_83380",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83385",
+      "zip_extension": "",
+      "primary_city": "City_83385",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83390",
+      "zip_extension": "",
+      "primary_city": "City_83390",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83395",
+      "zip_extension": "",
+      "primary_city": "City_83395",
+      "acceptable_cities": "",
+      "county": "County_833",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83400",
+      "zip_extension": "",
+      "primary_city": "City_83400",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83405",
+      "zip_extension": "",
+      "primary_city": "City_83405",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83410",
+      "zip_extension": "",
+      "primary_city": "City_83410",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83415",
+      "zip_extension": "",
+      "primary_city": "City_83415",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83420",
+      "zip_extension": "",
+      "primary_city": "City_83420",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83425",
+      "zip_extension": "",
+      "primary_city": "City_83425",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83430",
+      "zip_extension": "",
+      "primary_city": "City_83430",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83435",
+      "zip_extension": "",
+      "primary_city": "City_83435",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83440",
+      "zip_extension": "",
+      "primary_city": "City_83440",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83445",
+      "zip_extension": "",
+      "primary_city": "City_83445",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83450",
+      "zip_extension": "",
+      "primary_city": "City_83450",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83455",
+      "zip_extension": "",
+      "primary_city": "City_83455",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83460",
+      "zip_extension": "",
+      "primary_city": "City_83460",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83465",
+      "zip_extension": "",
+      "primary_city": "City_83465",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83470",
+      "zip_extension": "",
+      "primary_city": "City_83470",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83475",
+      "zip_extension": "",
+      "primary_city": "City_83475",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83480",
+      "zip_extension": "",
+      "primary_city": "City_83480",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83485",
+      "zip_extension": "",
+      "primary_city": "City_83485",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83490",
+      "zip_extension": "",
+      "primary_city": "City_83490",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83495",
+      "zip_extension": "",
+      "primary_city": "City_83495",
+      "acceptable_cities": "",
+      "county": "County_834",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83500",
+      "zip_extension": "",
+      "primary_city": "City_83500",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83505",
+      "zip_extension": "",
+      "primary_city": "City_83505",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83510",
+      "zip_extension": "",
+      "primary_city": "City_83510",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83515",
+      "zip_extension": "",
+      "primary_city": "City_83515",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83520",
+      "zip_extension": "",
+      "primary_city": "City_83520",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83525",
+      "zip_extension": "",
+      "primary_city": "City_83525",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83530",
+      "zip_extension": "",
+      "primary_city": "City_83530",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83535",
+      "zip_extension": "",
+      "primary_city": "City_83535",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83540",
+      "zip_extension": "",
+      "primary_city": "City_83540",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83545",
+      "zip_extension": "",
+      "primary_city": "City_83545",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83550",
+      "zip_extension": "",
+      "primary_city": "City_83550",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83555",
+      "zip_extension": "",
+      "primary_city": "City_83555",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83560",
+      "zip_extension": "",
+      "primary_city": "City_83560",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83565",
+      "zip_extension": "",
+      "primary_city": "City_83565",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83570",
+      "zip_extension": "",
+      "primary_city": "City_83570",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83575",
+      "zip_extension": "",
+      "primary_city": "City_83575",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83580",
+      "zip_extension": "",
+      "primary_city": "City_83580",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83585",
+      "zip_extension": "",
+      "primary_city": "City_83585",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83590",
+      "zip_extension": "",
+      "primary_city": "City_83590",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83595",
+      "zip_extension": "",
+      "primary_city": "City_83595",
+      "acceptable_cities": "",
+      "county": "County_835",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83600",
+      "zip_extension": "",
+      "primary_city": "City_83600",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83605",
+      "zip_extension": "",
+      "primary_city": "City_83605",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83610",
+      "zip_extension": "",
+      "primary_city": "City_83610",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83615",
+      "zip_extension": "",
+      "primary_city": "City_83615",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83620",
+      "zip_extension": "",
+      "primary_city": "City_83620",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83625",
+      "zip_extension": "",
+      "primary_city": "City_83625",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83630",
+      "zip_extension": "",
+      "primary_city": "City_83630",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83635",
+      "zip_extension": "",
+      "primary_city": "City_83635",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83640",
+      "zip_extension": "",
+      "primary_city": "City_83640",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83645",
+      "zip_extension": "",
+      "primary_city": "City_83645",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83650",
+      "zip_extension": "",
+      "primary_city": "City_83650",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83655",
+      "zip_extension": "",
+      "primary_city": "City_83655",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83660",
+      "zip_extension": "",
+      "primary_city": "City_83660",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83665",
+      "zip_extension": "",
+      "primary_city": "City_83665",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83670",
+      "zip_extension": "",
+      "primary_city": "City_83670",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83675",
+      "zip_extension": "",
+      "primary_city": "City_83675",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83680",
+      "zip_extension": "",
+      "primary_city": "City_83680",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83685",
+      "zip_extension": "",
+      "primary_city": "City_83685",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83690",
+      "zip_extension": "",
+      "primary_city": "City_83690",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83695",
+      "zip_extension": "",
+      "primary_city": "City_83695",
+      "acceptable_cities": "",
+      "county": "County_836",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83700",
+      "zip_extension": "",
+      "primary_city": "City_83700",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83705",
+      "zip_extension": "",
+      "primary_city": "City_83705",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83710",
+      "zip_extension": "",
+      "primary_city": "City_83710",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83715",
+      "zip_extension": "",
+      "primary_city": "City_83715",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83720",
+      "zip_extension": "",
+      "primary_city": "City_83720",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83725",
+      "zip_extension": "",
+      "primary_city": "City_83725",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83730",
+      "zip_extension": "",
+      "primary_city": "City_83730",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83735",
+      "zip_extension": "",
+      "primary_city": "City_83735",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83740",
+      "zip_extension": "",
+      "primary_city": "City_83740",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83745",
+      "zip_extension": "",
+      "primary_city": "City_83745",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83750",
+      "zip_extension": "",
+      "primary_city": "City_83750",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83755",
+      "zip_extension": "",
+      "primary_city": "City_83755",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83760",
+      "zip_extension": "",
+      "primary_city": "City_83760",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83765",
+      "zip_extension": "",
+      "primary_city": "City_83765",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83770",
+      "zip_extension": "",
+      "primary_city": "City_83770",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83775",
+      "zip_extension": "",
+      "primary_city": "City_83775",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83780",
+      "zip_extension": "",
+      "primary_city": "City_83780",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83785",
+      "zip_extension": "",
+      "primary_city": "City_83785",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83790",
+      "zip_extension": "",
+      "primary_city": "City_83790",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83795",
+      "zip_extension": "",
+      "primary_city": "City_83795",
+      "acceptable_cities": "",
+      "county": "County_837",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83800",
+      "zip_extension": "",
+      "primary_city": "City_83800",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83805",
+      "zip_extension": "",
+      "primary_city": "City_83805",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83810",
+      "zip_extension": "",
+      "primary_city": "City_83810",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83815",
+      "zip_extension": "",
+      "primary_city": "City_83815",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83820",
+      "zip_extension": "",
+      "primary_city": "City_83820",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83825",
+      "zip_extension": "",
+      "primary_city": "City_83825",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83830",
+      "zip_extension": "",
+      "primary_city": "City_83830",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83835",
+      "zip_extension": "",
+      "primary_city": "City_83835",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83840",
+      "zip_extension": "",
+      "primary_city": "City_83840",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83845",
+      "zip_extension": "",
+      "primary_city": "City_83845",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83850",
+      "zip_extension": "",
+      "primary_city": "City_83850",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83855",
+      "zip_extension": "",
+      "primary_city": "City_83855",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83860",
+      "zip_extension": "",
+      "primary_city": "City_83860",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83865",
+      "zip_extension": "",
+      "primary_city": "City_83865",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83870",
+      "zip_extension": "",
+      "primary_city": "City_83870",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83875",
+      "zip_extension": "",
+      "primary_city": "City_83875",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83880",
+      "zip_extension": "",
+      "primary_city": "City_83880",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83885",
+      "zip_extension": "",
+      "primary_city": "City_83885",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83890",
+      "zip_extension": "",
+      "primary_city": "City_83890",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83895",
+      "zip_extension": "",
+      "primary_city": "City_83895",
+      "acceptable_cities": "",
+      "county": "County_838",
+      "state": "Idaho",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

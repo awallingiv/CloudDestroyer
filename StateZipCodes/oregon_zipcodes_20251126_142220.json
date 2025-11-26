@@ -1,0 +1,2007 @@
+{
+  "state": "Oregon",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 200,
+  "zipcodes": [
+    {
+      "zip_code": "97000",
+      "zip_extension": "",
+      "primary_city": "City_97000",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97005",
+      "zip_extension": "",
+      "primary_city": "City_97005",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97010",
+      "zip_extension": "",
+      "primary_city": "City_97010",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97015",
+      "zip_extension": "",
+      "primary_city": "City_97015",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97020",
+      "zip_extension": "",
+      "primary_city": "City_97020",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97025",
+      "zip_extension": "",
+      "primary_city": "City_97025",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97030",
+      "zip_extension": "",
+      "primary_city": "City_97030",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97035",
+      "zip_extension": "",
+      "primary_city": "City_97035",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97040",
+      "zip_extension": "",
+      "primary_city": "City_97040",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97045",
+      "zip_extension": "",
+      "primary_city": "City_97045",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97050",
+      "zip_extension": "",
+      "primary_city": "City_97050",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97055",
+      "zip_extension": "",
+      "primary_city": "City_97055",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97060",
+      "zip_extension": "",
+      "primary_city": "City_97060",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97065",
+      "zip_extension": "",
+      "primary_city": "City_97065",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97070",
+      "zip_extension": "",
+      "primary_city": "City_97070",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97075",
+      "zip_extension": "",
+      "primary_city": "City_97075",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97080",
+      "zip_extension": "",
+      "primary_city": "City_97080",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97085",
+      "zip_extension": "",
+      "primary_city": "City_97085",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97090",
+      "zip_extension": "",
+      "primary_city": "City_97090",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97095",
+      "zip_extension": "",
+      "primary_city": "City_97095",
+      "acceptable_cities": "",
+      "county": "County_970",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97100",
+      "zip_extension": "",
+      "primary_city": "City_97100",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97105",
+      "zip_extension": "",
+      "primary_city": "City_97105",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97110",
+      "zip_extension": "",
+      "primary_city": "City_97110",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97115",
+      "zip_extension": "",
+      "primary_city": "City_97115",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97120",
+      "zip_extension": "",
+      "primary_city": "City_97120",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97125",
+      "zip_extension": "",
+      "primary_city": "City_97125",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97130",
+      "zip_extension": "",
+      "primary_city": "City_97130",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97135",
+      "zip_extension": "",
+      "primary_city": "City_97135",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97140",
+      "zip_extension": "",
+      "primary_city": "City_97140",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97145",
+      "zip_extension": "",
+      "primary_city": "City_97145",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97150",
+      "zip_extension": "",
+      "primary_city": "City_97150",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97155",
+      "zip_extension": "",
+      "primary_city": "City_97155",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97160",
+      "zip_extension": "",
+      "primary_city": "City_97160",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97165",
+      "zip_extension": "",
+      "primary_city": "City_97165",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97170",
+      "zip_extension": "",
+      "primary_city": "City_97170",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97175",
+      "zip_extension": "",
+      "primary_city": "City_97175",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97180",
+      "zip_extension": "",
+      "primary_city": "City_97180",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97185",
+      "zip_extension": "",
+      "primary_city": "City_97185",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97190",
+      "zip_extension": "",
+      "primary_city": "City_97190",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97195",
+      "zip_extension": "",
+      "primary_city": "City_97195",
+      "acceptable_cities": "",
+      "county": "County_971",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97200",
+      "zip_extension": "",
+      "primary_city": "City_97200",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97205",
+      "zip_extension": "",
+      "primary_city": "City_97205",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97210",
+      "zip_extension": "",
+      "primary_city": "City_97210",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97215",
+      "zip_extension": "",
+      "primary_city": "City_97215",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97220",
+      "zip_extension": "",
+      "primary_city": "City_97220",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97225",
+      "zip_extension": "",
+      "primary_city": "City_97225",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97230",
+      "zip_extension": "",
+      "primary_city": "City_97230",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97235",
+      "zip_extension": "",
+      "primary_city": "City_97235",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97240",
+      "zip_extension": "",
+      "primary_city": "City_97240",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97245",
+      "zip_extension": "",
+      "primary_city": "City_97245",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97250",
+      "zip_extension": "",
+      "primary_city": "City_97250",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97255",
+      "zip_extension": "",
+      "primary_city": "City_97255",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97260",
+      "zip_extension": "",
+      "primary_city": "City_97260",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97265",
+      "zip_extension": "",
+      "primary_city": "City_97265",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97270",
+      "zip_extension": "",
+      "primary_city": "City_97270",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97275",
+      "zip_extension": "",
+      "primary_city": "City_97275",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97280",
+      "zip_extension": "",
+      "primary_city": "City_97280",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97285",
+      "zip_extension": "",
+      "primary_city": "City_97285",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97290",
+      "zip_extension": "",
+      "primary_city": "City_97290",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97295",
+      "zip_extension": "",
+      "primary_city": "City_97295",
+      "acceptable_cities": "",
+      "county": "County_972",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97300",
+      "zip_extension": "",
+      "primary_city": "City_97300",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97305",
+      "zip_extension": "",
+      "primary_city": "City_97305",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97310",
+      "zip_extension": "",
+      "primary_city": "City_97310",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97315",
+      "zip_extension": "",
+      "primary_city": "City_97315",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97320",
+      "zip_extension": "",
+      "primary_city": "City_97320",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97325",
+      "zip_extension": "",
+      "primary_city": "City_97325",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97330",
+      "zip_extension": "",
+      "primary_city": "City_97330",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97335",
+      "zip_extension": "",
+      "primary_city": "City_97335",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97340",
+      "zip_extension": "",
+      "primary_city": "City_97340",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97345",
+      "zip_extension": "",
+      "primary_city": "City_97345",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97350",
+      "zip_extension": "",
+      "primary_city": "City_97350",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97355",
+      "zip_extension": "",
+      "primary_city": "City_97355",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97360",
+      "zip_extension": "",
+      "primary_city": "City_97360",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97365",
+      "zip_extension": "",
+      "primary_city": "City_97365",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97370",
+      "zip_extension": "",
+      "primary_city": "City_97370",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97375",
+      "zip_extension": "",
+      "primary_city": "City_97375",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97380",
+      "zip_extension": "",
+      "primary_city": "City_97380",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97385",
+      "zip_extension": "",
+      "primary_city": "City_97385",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97390",
+      "zip_extension": "",
+      "primary_city": "City_97390",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97395",
+      "zip_extension": "",
+      "primary_city": "City_97395",
+      "acceptable_cities": "",
+      "county": "County_973",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97400",
+      "zip_extension": "",
+      "primary_city": "City_97400",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97405",
+      "zip_extension": "",
+      "primary_city": "City_97405",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97410",
+      "zip_extension": "",
+      "primary_city": "City_97410",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97415",
+      "zip_extension": "",
+      "primary_city": "City_97415",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97420",
+      "zip_extension": "",
+      "primary_city": "City_97420",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97425",
+      "zip_extension": "",
+      "primary_city": "City_97425",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97430",
+      "zip_extension": "",
+      "primary_city": "City_97430",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97435",
+      "zip_extension": "",
+      "primary_city": "City_97435",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97440",
+      "zip_extension": "",
+      "primary_city": "City_97440",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97445",
+      "zip_extension": "",
+      "primary_city": "City_97445",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97450",
+      "zip_extension": "",
+      "primary_city": "City_97450",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97455",
+      "zip_extension": "",
+      "primary_city": "City_97455",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97460",
+      "zip_extension": "",
+      "primary_city": "City_97460",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97465",
+      "zip_extension": "",
+      "primary_city": "City_97465",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97470",
+      "zip_extension": "",
+      "primary_city": "City_97470",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97475",
+      "zip_extension": "",
+      "primary_city": "City_97475",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97480",
+      "zip_extension": "",
+      "primary_city": "City_97480",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97485",
+      "zip_extension": "",
+      "primary_city": "City_97485",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97490",
+      "zip_extension": "",
+      "primary_city": "City_97490",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97495",
+      "zip_extension": "",
+      "primary_city": "City_97495",
+      "acceptable_cities": "",
+      "county": "County_974",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97500",
+      "zip_extension": "",
+      "primary_city": "City_97500",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97505",
+      "zip_extension": "",
+      "primary_city": "City_97505",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97510",
+      "zip_extension": "",
+      "primary_city": "City_97510",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97515",
+      "zip_extension": "",
+      "primary_city": "City_97515",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97520",
+      "zip_extension": "",
+      "primary_city": "City_97520",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97525",
+      "zip_extension": "",
+      "primary_city": "City_97525",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97530",
+      "zip_extension": "",
+      "primary_city": "City_97530",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97535",
+      "zip_extension": "",
+      "primary_city": "City_97535",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97540",
+      "zip_extension": "",
+      "primary_city": "City_97540",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97545",
+      "zip_extension": "",
+      "primary_city": "City_97545",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97550",
+      "zip_extension": "",
+      "primary_city": "City_97550",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97555",
+      "zip_extension": "",
+      "primary_city": "City_97555",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97560",
+      "zip_extension": "",
+      "primary_city": "City_97560",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97565",
+      "zip_extension": "",
+      "primary_city": "City_97565",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97570",
+      "zip_extension": "",
+      "primary_city": "City_97570",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97575",
+      "zip_extension": "",
+      "primary_city": "City_97575",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97580",
+      "zip_extension": "",
+      "primary_city": "City_97580",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97585",
+      "zip_extension": "",
+      "primary_city": "City_97585",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97590",
+      "zip_extension": "",
+      "primary_city": "City_97590",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97595",
+      "zip_extension": "",
+      "primary_city": "City_97595",
+      "acceptable_cities": "",
+      "county": "County_975",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97600",
+      "zip_extension": "",
+      "primary_city": "City_97600",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97605",
+      "zip_extension": "",
+      "primary_city": "City_97605",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97610",
+      "zip_extension": "",
+      "primary_city": "City_97610",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97615",
+      "zip_extension": "",
+      "primary_city": "City_97615",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97620",
+      "zip_extension": "",
+      "primary_city": "City_97620",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97625",
+      "zip_extension": "",
+      "primary_city": "City_97625",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97630",
+      "zip_extension": "",
+      "primary_city": "City_97630",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97635",
+      "zip_extension": "",
+      "primary_city": "City_97635",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97640",
+      "zip_extension": "",
+      "primary_city": "City_97640",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97645",
+      "zip_extension": "",
+      "primary_city": "City_97645",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97650",
+      "zip_extension": "",
+      "primary_city": "City_97650",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97655",
+      "zip_extension": "",
+      "primary_city": "City_97655",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97660",
+      "zip_extension": "",
+      "primary_city": "City_97660",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97665",
+      "zip_extension": "",
+      "primary_city": "City_97665",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97670",
+      "zip_extension": "",
+      "primary_city": "City_97670",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97675",
+      "zip_extension": "",
+      "primary_city": "City_97675",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97680",
+      "zip_extension": "",
+      "primary_city": "City_97680",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97685",
+      "zip_extension": "",
+      "primary_city": "City_97685",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97690",
+      "zip_extension": "",
+      "primary_city": "City_97690",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97695",
+      "zip_extension": "",
+      "primary_city": "City_97695",
+      "acceptable_cities": "",
+      "county": "County_976",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97700",
+      "zip_extension": "",
+      "primary_city": "City_97700",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97705",
+      "zip_extension": "",
+      "primary_city": "City_97705",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97710",
+      "zip_extension": "",
+      "primary_city": "City_97710",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97715",
+      "zip_extension": "",
+      "primary_city": "City_97715",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97720",
+      "zip_extension": "",
+      "primary_city": "City_97720",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97725",
+      "zip_extension": "",
+      "primary_city": "City_97725",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97730",
+      "zip_extension": "",
+      "primary_city": "City_97730",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97735",
+      "zip_extension": "",
+      "primary_city": "City_97735",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97740",
+      "zip_extension": "",
+      "primary_city": "City_97740",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97745",
+      "zip_extension": "",
+      "primary_city": "City_97745",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97750",
+      "zip_extension": "",
+      "primary_city": "City_97750",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97755",
+      "zip_extension": "",
+      "primary_city": "City_97755",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97760",
+      "zip_extension": "",
+      "primary_city": "City_97760",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97765",
+      "zip_extension": "",
+      "primary_city": "City_97765",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97770",
+      "zip_extension": "",
+      "primary_city": "City_97770",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97775",
+      "zip_extension": "",
+      "primary_city": "City_97775",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97780",
+      "zip_extension": "",
+      "primary_city": "City_97780",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97785",
+      "zip_extension": "",
+      "primary_city": "City_97785",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97790",
+      "zip_extension": "",
+      "primary_city": "City_97790",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97795",
+      "zip_extension": "",
+      "primary_city": "City_97795",
+      "acceptable_cities": "",
+      "county": "County_977",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97800",
+      "zip_extension": "",
+      "primary_city": "City_97800",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97805",
+      "zip_extension": "",
+      "primary_city": "City_97805",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97810",
+      "zip_extension": "",
+      "primary_city": "City_97810",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97815",
+      "zip_extension": "",
+      "primary_city": "City_97815",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97820",
+      "zip_extension": "",
+      "primary_city": "City_97820",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97825",
+      "zip_extension": "",
+      "primary_city": "City_97825",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97830",
+      "zip_extension": "",
+      "primary_city": "City_97830",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97835",
+      "zip_extension": "",
+      "primary_city": "City_97835",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97840",
+      "zip_extension": "",
+      "primary_city": "City_97840",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97845",
+      "zip_extension": "",
+      "primary_city": "City_97845",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97850",
+      "zip_extension": "",
+      "primary_city": "City_97850",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97855",
+      "zip_extension": "",
+      "primary_city": "City_97855",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97860",
+      "zip_extension": "",
+      "primary_city": "City_97860",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97865",
+      "zip_extension": "",
+      "primary_city": "City_97865",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97870",
+      "zip_extension": "",
+      "primary_city": "City_97870",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97875",
+      "zip_extension": "",
+      "primary_city": "City_97875",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97880",
+      "zip_extension": "",
+      "primary_city": "City_97880",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97885",
+      "zip_extension": "",
+      "primary_city": "City_97885",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97890",
+      "zip_extension": "",
+      "primary_city": "City_97890",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97895",
+      "zip_extension": "",
+      "primary_city": "City_97895",
+      "acceptable_cities": "",
+      "county": "County_978",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97900",
+      "zip_extension": "",
+      "primary_city": "City_97900",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97905",
+      "zip_extension": "",
+      "primary_city": "City_97905",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97910",
+      "zip_extension": "",
+      "primary_city": "City_97910",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97915",
+      "zip_extension": "",
+      "primary_city": "City_97915",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97920",
+      "zip_extension": "",
+      "primary_city": "City_97920",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97925",
+      "zip_extension": "",
+      "primary_city": "City_97925",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97930",
+      "zip_extension": "",
+      "primary_city": "City_97930",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97935",
+      "zip_extension": "",
+      "primary_city": "City_97935",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97940",
+      "zip_extension": "",
+      "primary_city": "City_97940",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97945",
+      "zip_extension": "",
+      "primary_city": "City_97945",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97950",
+      "zip_extension": "",
+      "primary_city": "City_97950",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97955",
+      "zip_extension": "",
+      "primary_city": "City_97955",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97960",
+      "zip_extension": "",
+      "primary_city": "City_97960",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97965",
+      "zip_extension": "",
+      "primary_city": "City_97965",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97970",
+      "zip_extension": "",
+      "primary_city": "City_97970",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97975",
+      "zip_extension": "",
+      "primary_city": "City_97975",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97980",
+      "zip_extension": "",
+      "primary_city": "City_97980",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97985",
+      "zip_extension": "",
+      "primary_city": "City_97985",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97990",
+      "zip_extension": "",
+      "primary_city": "City_97990",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "97995",
+      "zip_extension": "",
+      "primary_city": "City_97995",
+      "acceptable_cities": "",
+      "county": "County_979",
+      "state": "Oregon",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

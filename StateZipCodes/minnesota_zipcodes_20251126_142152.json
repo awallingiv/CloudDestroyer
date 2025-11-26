@@ -1,0 +1,3607 @@
+{
+  "state": "Minnesota",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 360,
+  "zipcodes": [
+    {
+      "zip_code": "55000",
+      "zip_extension": "",
+      "primary_city": "City_55000",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55005",
+      "zip_extension": "",
+      "primary_city": "City_55005",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55010",
+      "zip_extension": "",
+      "primary_city": "City_55010",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55015",
+      "zip_extension": "",
+      "primary_city": "City_55015",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55020",
+      "zip_extension": "",
+      "primary_city": "City_55020",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55025",
+      "zip_extension": "",
+      "primary_city": "City_55025",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55030",
+      "zip_extension": "",
+      "primary_city": "City_55030",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55035",
+      "zip_extension": "",
+      "primary_city": "City_55035",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55040",
+      "zip_extension": "",
+      "primary_city": "City_55040",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55045",
+      "zip_extension": "",
+      "primary_city": "City_55045",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55050",
+      "zip_extension": "",
+      "primary_city": "City_55050",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55055",
+      "zip_extension": "",
+      "primary_city": "City_55055",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55060",
+      "zip_extension": "",
+      "primary_city": "City_55060",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55065",
+      "zip_extension": "",
+      "primary_city": "City_55065",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55070",
+      "zip_extension": "",
+      "primary_city": "City_55070",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55075",
+      "zip_extension": "",
+      "primary_city": "City_55075",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55080",
+      "zip_extension": "",
+      "primary_city": "City_55080",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55085",
+      "zip_extension": "",
+      "primary_city": "City_55085",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55090",
+      "zip_extension": "",
+      "primary_city": "City_55090",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55095",
+      "zip_extension": "",
+      "primary_city": "City_55095",
+      "acceptable_cities": "",
+      "county": "County_550",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55100",
+      "zip_extension": "",
+      "primary_city": "City_55100",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55105",
+      "zip_extension": "",
+      "primary_city": "City_55105",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55110",
+      "zip_extension": "",
+      "primary_city": "City_55110",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55115",
+      "zip_extension": "",
+      "primary_city": "City_55115",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55120",
+      "zip_extension": "",
+      "primary_city": "City_55120",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55125",
+      "zip_extension": "",
+      "primary_city": "City_55125",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55130",
+      "zip_extension": "",
+      "primary_city": "City_55130",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55135",
+      "zip_extension": "",
+      "primary_city": "City_55135",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55140",
+      "zip_extension": "",
+      "primary_city": "City_55140",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55145",
+      "zip_extension": "",
+      "primary_city": "City_55145",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55150",
+      "zip_extension": "",
+      "primary_city": "City_55150",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55155",
+      "zip_extension": "",
+      "primary_city": "City_55155",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55160",
+      "zip_extension": "",
+      "primary_city": "City_55160",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55165",
+      "zip_extension": "",
+      "primary_city": "City_55165",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55170",
+      "zip_extension": "",
+      "primary_city": "City_55170",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55175",
+      "zip_extension": "",
+      "primary_city": "City_55175",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55180",
+      "zip_extension": "",
+      "primary_city": "City_55180",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55185",
+      "zip_extension": "",
+      "primary_city": "City_55185",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55190",
+      "zip_extension": "",
+      "primary_city": "City_55190",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55195",
+      "zip_extension": "",
+      "primary_city": "City_55195",
+      "acceptable_cities": "",
+      "county": "County_551",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55200",
+      "zip_extension": "",
+      "primary_city": "City_55200",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55205",
+      "zip_extension": "",
+      "primary_city": "City_55205",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55210",
+      "zip_extension": "",
+      "primary_city": "City_55210",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55215",
+      "zip_extension": "",
+      "primary_city": "City_55215",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55220",
+      "zip_extension": "",
+      "primary_city": "City_55220",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55225",
+      "zip_extension": "",
+      "primary_city": "City_55225",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55230",
+      "zip_extension": "",
+      "primary_city": "City_55230",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55235",
+      "zip_extension": "",
+      "primary_city": "City_55235",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55240",
+      "zip_extension": "",
+      "primary_city": "City_55240",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55245",
+      "zip_extension": "",
+      "primary_city": "City_55245",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55250",
+      "zip_extension": "",
+      "primary_city": "City_55250",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55255",
+      "zip_extension": "",
+      "primary_city": "City_55255",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55260",
+      "zip_extension": "",
+      "primary_city": "City_55260",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55265",
+      "zip_extension": "",
+      "primary_city": "City_55265",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55270",
+      "zip_extension": "",
+      "primary_city": "City_55270",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55275",
+      "zip_extension": "",
+      "primary_city": "City_55275",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55280",
+      "zip_extension": "",
+      "primary_city": "City_55280",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55285",
+      "zip_extension": "",
+      "primary_city": "City_55285",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55290",
+      "zip_extension": "",
+      "primary_city": "City_55290",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55295",
+      "zip_extension": "",
+      "primary_city": "City_55295",
+      "acceptable_cities": "",
+      "county": "County_552",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55300",
+      "zip_extension": "",
+      "primary_city": "City_55300",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55305",
+      "zip_extension": "",
+      "primary_city": "City_55305",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55310",
+      "zip_extension": "",
+      "primary_city": "City_55310",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55315",
+      "zip_extension": "",
+      "primary_city": "City_55315",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55320",
+      "zip_extension": "",
+      "primary_city": "City_55320",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55325",
+      "zip_extension": "",
+      "primary_city": "City_55325",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55330",
+      "zip_extension": "",
+      "primary_city": "City_55330",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55335",
+      "zip_extension": "",
+      "primary_city": "City_55335",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55340",
+      "zip_extension": "",
+      "primary_city": "City_55340",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55345",
+      "zip_extension": "",
+      "primary_city": "City_55345",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55350",
+      "zip_extension": "",
+      "primary_city": "City_55350",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55355",
+      "zip_extension": "",
+      "primary_city": "City_55355",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55360",
+      "zip_extension": "",
+      "primary_city": "City_55360",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55365",
+      "zip_extension": "",
+      "primary_city": "City_55365",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55370",
+      "zip_extension": "",
+      "primary_city": "City_55370",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55375",
+      "zip_extension": "",
+      "primary_city": "City_55375",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55380",
+      "zip_extension": "",
+      "primary_city": "City_55380",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55385",
+      "zip_extension": "",
+      "primary_city": "City_55385",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55390",
+      "zip_extension": "",
+      "primary_city": "City_55390",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55395",
+      "zip_extension": "",
+      "primary_city": "City_55395",
+      "acceptable_cities": "",
+      "county": "County_553",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55400",
+      "zip_extension": "",
+      "primary_city": "City_55400",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55405",
+      "zip_extension": "",
+      "primary_city": "City_55405",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55410",
+      "zip_extension": "",
+      "primary_city": "City_55410",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55415",
+      "zip_extension": "",
+      "primary_city": "City_55415",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55420",
+      "zip_extension": "",
+      "primary_city": "City_55420",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55425",
+      "zip_extension": "",
+      "primary_city": "City_55425",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55430",
+      "zip_extension": "",
+      "primary_city": "City_55430",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55435",
+      "zip_extension": "",
+      "primary_city": "City_55435",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55440",
+      "zip_extension": "",
+      "primary_city": "City_55440",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55445",
+      "zip_extension": "",
+      "primary_city": "City_55445",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55450",
+      "zip_extension": "",
+      "primary_city": "City_55450",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55455",
+      "zip_extension": "",
+      "primary_city": "City_55455",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55460",
+      "zip_extension": "",
+      "primary_city": "City_55460",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55465",
+      "zip_extension": "",
+      "primary_city": "City_55465",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55470",
+      "zip_extension": "",
+      "primary_city": "City_55470",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55475",
+      "zip_extension": "",
+      "primary_city": "City_55475",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55480",
+      "zip_extension": "",
+      "primary_city": "City_55480",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55485",
+      "zip_extension": "",
+      "primary_city": "City_55485",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55490",
+      "zip_extension": "",
+      "primary_city": "City_55490",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55495",
+      "zip_extension": "",
+      "primary_city": "City_55495",
+      "acceptable_cities": "",
+      "county": "County_554",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55500",
+      "zip_extension": "",
+      "primary_city": "City_55500",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55505",
+      "zip_extension": "",
+      "primary_city": "City_55505",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55510",
+      "zip_extension": "",
+      "primary_city": "City_55510",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55515",
+      "zip_extension": "",
+      "primary_city": "City_55515",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55520",
+      "zip_extension": "",
+      "primary_city": "City_55520",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55525",
+      "zip_extension": "",
+      "primary_city": "City_55525",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55530",
+      "zip_extension": "",
+      "primary_city": "City_55530",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55535",
+      "zip_extension": "",
+      "primary_city": "City_55535",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55540",
+      "zip_extension": "",
+      "primary_city": "City_55540",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55545",
+      "zip_extension": "",
+      "primary_city": "City_55545",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55550",
+      "zip_extension": "",
+      "primary_city": "City_55550",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55555",
+      "zip_extension": "",
+      "primary_city": "City_55555",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55560",
+      "zip_extension": "",
+      "primary_city": "City_55560",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55565",
+      "zip_extension": "",
+      "primary_city": "City_55565",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55570",
+      "zip_extension": "",
+      "primary_city": "City_55570",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55575",
+      "zip_extension": "",
+      "primary_city": "City_55575",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55580",
+      "zip_extension": "",
+      "primary_city": "City_55580",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55585",
+      "zip_extension": "",
+      "primary_city": "City_55585",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55590",
+      "zip_extension": "",
+      "primary_city": "City_55590",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55595",
+      "zip_extension": "",
+      "primary_city": "City_55595",
+      "acceptable_cities": "",
+      "county": "County_555",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55600",
+      "zip_extension": "",
+      "primary_city": "City_55600",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55605",
+      "zip_extension": "",
+      "primary_city": "City_55605",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55610",
+      "zip_extension": "",
+      "primary_city": "City_55610",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55615",
+      "zip_extension": "",
+      "primary_city": "City_55615",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55620",
+      "zip_extension": "",
+      "primary_city": "City_55620",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55625",
+      "zip_extension": "",
+      "primary_city": "City_55625",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55630",
+      "zip_extension": "",
+      "primary_city": "City_55630",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55635",
+      "zip_extension": "",
+      "primary_city": "City_55635",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55640",
+      "zip_extension": "",
+      "primary_city": "City_55640",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55645",
+      "zip_extension": "",
+      "primary_city": "City_55645",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55650",
+      "zip_extension": "",
+      "primary_city": "City_55650",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55655",
+      "zip_extension": "",
+      "primary_city": "City_55655",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55660",
+      "zip_extension": "",
+      "primary_city": "City_55660",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55665",
+      "zip_extension": "",
+      "primary_city": "City_55665",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55670",
+      "zip_extension": "",
+      "primary_city": "City_55670",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55675",
+      "zip_extension": "",
+      "primary_city": "City_55675",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55680",
+      "zip_extension": "",
+      "primary_city": "City_55680",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55685",
+      "zip_extension": "",
+      "primary_city": "City_55685",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55690",
+      "zip_extension": "",
+      "primary_city": "City_55690",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55695",
+      "zip_extension": "",
+      "primary_city": "City_55695",
+      "acceptable_cities": "",
+      "county": "County_556",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55700",
+      "zip_extension": "",
+      "primary_city": "City_55700",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55705",
+      "zip_extension": "",
+      "primary_city": "City_55705",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55710",
+      "zip_extension": "",
+      "primary_city": "City_55710",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55715",
+      "zip_extension": "",
+      "primary_city": "City_55715",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55720",
+      "zip_extension": "",
+      "primary_city": "City_55720",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55725",
+      "zip_extension": "",
+      "primary_city": "City_55725",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55730",
+      "zip_extension": "",
+      "primary_city": "City_55730",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55735",
+      "zip_extension": "",
+      "primary_city": "City_55735",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55740",
+      "zip_extension": "",
+      "primary_city": "City_55740",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55745",
+      "zip_extension": "",
+      "primary_city": "City_55745",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55750",
+      "zip_extension": "",
+      "primary_city": "City_55750",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55755",
+      "zip_extension": "",
+      "primary_city": "City_55755",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55760",
+      "zip_extension": "",
+      "primary_city": "City_55760",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55765",
+      "zip_extension": "",
+      "primary_city": "City_55765",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55770",
+      "zip_extension": "",
+      "primary_city": "City_55770",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55775",
+      "zip_extension": "",
+      "primary_city": "City_55775",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55780",
+      "zip_extension": "",
+      "primary_city": "City_55780",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55785",
+      "zip_extension": "",
+      "primary_city": "City_55785",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55790",
+      "zip_extension": "",
+      "primary_city": "City_55790",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55795",
+      "zip_extension": "",
+      "primary_city": "City_55795",
+      "acceptable_cities": "",
+      "county": "County_557",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55800",
+      "zip_extension": "",
+      "primary_city": "City_55800",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55805",
+      "zip_extension": "",
+      "primary_city": "City_55805",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55810",
+      "zip_extension": "",
+      "primary_city": "City_55810",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55815",
+      "zip_extension": "",
+      "primary_city": "City_55815",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55820",
+      "zip_extension": "",
+      "primary_city": "City_55820",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55825",
+      "zip_extension": "",
+      "primary_city": "City_55825",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55830",
+      "zip_extension": "",
+      "primary_city": "City_55830",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55835",
+      "zip_extension": "",
+      "primary_city": "City_55835",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55840",
+      "zip_extension": "",
+      "primary_city": "City_55840",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55845",
+      "zip_extension": "",
+      "primary_city": "City_55845",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55850",
+      "zip_extension": "",
+      "primary_city": "City_55850",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55855",
+      "zip_extension": "",
+      "primary_city": "City_55855",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55860",
+      "zip_extension": "",
+      "primary_city": "City_55860",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55865",
+      "zip_extension": "",
+      "primary_city": "City_55865",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55870",
+      "zip_extension": "",
+      "primary_city": "City_55870",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55875",
+      "zip_extension": "",
+      "primary_city": "City_55875",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55880",
+      "zip_extension": "",
+      "primary_city": "City_55880",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55885",
+      "zip_extension": "",
+      "primary_city": "City_55885",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55890",
+      "zip_extension": "",
+      "primary_city": "City_55890",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55895",
+      "zip_extension": "",
+      "primary_city": "City_55895",
+      "acceptable_cities": "",
+      "county": "County_558",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55900",
+      "zip_extension": "",
+      "primary_city": "City_55900",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55905",
+      "zip_extension": "",
+      "primary_city": "City_55905",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55910",
+      "zip_extension": "",
+      "primary_city": "City_55910",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55915",
+      "zip_extension": "",
+      "primary_city": "City_55915",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55920",
+      "zip_extension": "",
+      "primary_city": "City_55920",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55925",
+      "zip_extension": "",
+      "primary_city": "City_55925",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55930",
+      "zip_extension": "",
+      "primary_city": "City_55930",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55935",
+      "zip_extension": "",
+      "primary_city": "City_55935",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55940",
+      "zip_extension": "",
+      "primary_city": "City_55940",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55945",
+      "zip_extension": "",
+      "primary_city": "City_55945",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55950",
+      "zip_extension": "",
+      "primary_city": "City_55950",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55955",
+      "zip_extension": "",
+      "primary_city": "City_55955",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55960",
+      "zip_extension": "",
+      "primary_city": "City_55960",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55965",
+      "zip_extension": "",
+      "primary_city": "City_55965",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55970",
+      "zip_extension": "",
+      "primary_city": "City_55970",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55975",
+      "zip_extension": "",
+      "primary_city": "City_55975",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55980",
+      "zip_extension": "",
+      "primary_city": "City_55980",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55985",
+      "zip_extension": "",
+      "primary_city": "City_55985",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55990",
+      "zip_extension": "",
+      "primary_city": "City_55990",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "55995",
+      "zip_extension": "",
+      "primary_city": "City_55995",
+      "acceptable_cities": "",
+      "county": "County_559",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56000",
+      "zip_extension": "",
+      "primary_city": "City_56000",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56005",
+      "zip_extension": "",
+      "primary_city": "City_56005",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56010",
+      "zip_extension": "",
+      "primary_city": "City_56010",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56015",
+      "zip_extension": "",
+      "primary_city": "City_56015",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56020",
+      "zip_extension": "",
+      "primary_city": "City_56020",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56025",
+      "zip_extension": "",
+      "primary_city": "City_56025",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56030",
+      "zip_extension": "",
+      "primary_city": "City_56030",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56035",
+      "zip_extension": "",
+      "primary_city": "City_56035",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56040",
+      "zip_extension": "",
+      "primary_city": "City_56040",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56045",
+      "zip_extension": "",
+      "primary_city": "City_56045",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56050",
+      "zip_extension": "",
+      "primary_city": "City_56050",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56055",
+      "zip_extension": "",
+      "primary_city": "City_56055",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56060",
+      "zip_extension": "",
+      "primary_city": "City_56060",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56065",
+      "zip_extension": "",
+      "primary_city": "City_56065",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56070",
+      "zip_extension": "",
+      "primary_city": "City_56070",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56075",
+      "zip_extension": "",
+      "primary_city": "City_56075",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56080",
+      "zip_extension": "",
+      "primary_city": "City_56080",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56085",
+      "zip_extension": "",
+      "primary_city": "City_56085",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56090",
+      "zip_extension": "",
+      "primary_city": "City_56090",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56095",
+      "zip_extension": "",
+      "primary_city": "City_56095",
+      "acceptable_cities": "",
+      "county": "County_560",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56100",
+      "zip_extension": "",
+      "primary_city": "City_56100",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56105",
+      "zip_extension": "",
+      "primary_city": "City_56105",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56110",
+      "zip_extension": "",
+      "primary_city": "City_56110",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56115",
+      "zip_extension": "",
+      "primary_city": "City_56115",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56120",
+      "zip_extension": "",
+      "primary_city": "City_56120",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56125",
+      "zip_extension": "",
+      "primary_city": "City_56125",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56130",
+      "zip_extension": "",
+      "primary_city": "City_56130",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56135",
+      "zip_extension": "",
+      "primary_city": "City_56135",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56140",
+      "zip_extension": "",
+      "primary_city": "City_56140",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56145",
+      "zip_extension": "",
+      "primary_city": "City_56145",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56150",
+      "zip_extension": "",
+      "primary_city": "City_56150",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56155",
+      "zip_extension": "",
+      "primary_city": "City_56155",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56160",
+      "zip_extension": "",
+      "primary_city": "City_56160",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56165",
+      "zip_extension": "",
+      "primary_city": "City_56165",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56170",
+      "zip_extension": "",
+      "primary_city": "City_56170",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56175",
+      "zip_extension": "",
+      "primary_city": "City_56175",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56180",
+      "zip_extension": "",
+      "primary_city": "City_56180",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56185",
+      "zip_extension": "",
+      "primary_city": "City_56185",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56190",
+      "zip_extension": "",
+      "primary_city": "City_56190",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56195",
+      "zip_extension": "",
+      "primary_city": "City_56195",
+      "acceptable_cities": "",
+      "county": "County_561",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56200",
+      "zip_extension": "",
+      "primary_city": "City_56200",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56205",
+      "zip_extension": "",
+      "primary_city": "City_56205",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56210",
+      "zip_extension": "",
+      "primary_city": "City_56210",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56215",
+      "zip_extension": "",
+      "primary_city": "City_56215",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56220",
+      "zip_extension": "",
+      "primary_city": "City_56220",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56225",
+      "zip_extension": "",
+      "primary_city": "City_56225",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56230",
+      "zip_extension": "",
+      "primary_city": "City_56230",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56235",
+      "zip_extension": "",
+      "primary_city": "City_56235",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56240",
+      "zip_extension": "",
+      "primary_city": "City_56240",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56245",
+      "zip_extension": "",
+      "primary_city": "City_56245",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56250",
+      "zip_extension": "",
+      "primary_city": "City_56250",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56255",
+      "zip_extension": "",
+      "primary_city": "City_56255",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56260",
+      "zip_extension": "",
+      "primary_city": "City_56260",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56265",
+      "zip_extension": "",
+      "primary_city": "City_56265",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56270",
+      "zip_extension": "",
+      "primary_city": "City_56270",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56275",
+      "zip_extension": "",
+      "primary_city": "City_56275",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56280",
+      "zip_extension": "",
+      "primary_city": "City_56280",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56285",
+      "zip_extension": "",
+      "primary_city": "City_56285",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56290",
+      "zip_extension": "",
+      "primary_city": "City_56290",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56295",
+      "zip_extension": "",
+      "primary_city": "City_56295",
+      "acceptable_cities": "",
+      "county": "County_562",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56300",
+      "zip_extension": "",
+      "primary_city": "City_56300",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56305",
+      "zip_extension": "",
+      "primary_city": "City_56305",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56310",
+      "zip_extension": "",
+      "primary_city": "City_56310",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56315",
+      "zip_extension": "",
+      "primary_city": "City_56315",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56320",
+      "zip_extension": "",
+      "primary_city": "City_56320",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56325",
+      "zip_extension": "",
+      "primary_city": "City_56325",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56330",
+      "zip_extension": "",
+      "primary_city": "City_56330",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56335",
+      "zip_extension": "",
+      "primary_city": "City_56335",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56340",
+      "zip_extension": "",
+      "primary_city": "City_56340",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56345",
+      "zip_extension": "",
+      "primary_city": "City_56345",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56350",
+      "zip_extension": "",
+      "primary_city": "City_56350",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56355",
+      "zip_extension": "",
+      "primary_city": "City_56355",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56360",
+      "zip_extension": "",
+      "primary_city": "City_56360",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56365",
+      "zip_extension": "",
+      "primary_city": "City_56365",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56370",
+      "zip_extension": "",
+      "primary_city": "City_56370",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56375",
+      "zip_extension": "",
+      "primary_city": "City_56375",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56380",
+      "zip_extension": "",
+      "primary_city": "City_56380",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56385",
+      "zip_extension": "",
+      "primary_city": "City_56385",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56390",
+      "zip_extension": "",
+      "primary_city": "City_56390",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56395",
+      "zip_extension": "",
+      "primary_city": "City_56395",
+      "acceptable_cities": "",
+      "county": "County_563",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56400",
+      "zip_extension": "",
+      "primary_city": "City_56400",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56405",
+      "zip_extension": "",
+      "primary_city": "City_56405",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56410",
+      "zip_extension": "",
+      "primary_city": "City_56410",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56415",
+      "zip_extension": "",
+      "primary_city": "City_56415",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56420",
+      "zip_extension": "",
+      "primary_city": "City_56420",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56425",
+      "zip_extension": "",
+      "primary_city": "City_56425",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56430",
+      "zip_extension": "",
+      "primary_city": "City_56430",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56435",
+      "zip_extension": "",
+      "primary_city": "City_56435",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56440",
+      "zip_extension": "",
+      "primary_city": "City_56440",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56445",
+      "zip_extension": "",
+      "primary_city": "City_56445",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56450",
+      "zip_extension": "",
+      "primary_city": "City_56450",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56455",
+      "zip_extension": "",
+      "primary_city": "City_56455",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56460",
+      "zip_extension": "",
+      "primary_city": "City_56460",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56465",
+      "zip_extension": "",
+      "primary_city": "City_56465",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56470",
+      "zip_extension": "",
+      "primary_city": "City_56470",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56475",
+      "zip_extension": "",
+      "primary_city": "City_56475",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56480",
+      "zip_extension": "",
+      "primary_city": "City_56480",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56485",
+      "zip_extension": "",
+      "primary_city": "City_56485",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56490",
+      "zip_extension": "",
+      "primary_city": "City_56490",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56495",
+      "zip_extension": "",
+      "primary_city": "City_56495",
+      "acceptable_cities": "",
+      "county": "County_564",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56500",
+      "zip_extension": "",
+      "primary_city": "City_56500",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56505",
+      "zip_extension": "",
+      "primary_city": "City_56505",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56510",
+      "zip_extension": "",
+      "primary_city": "City_56510",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56515",
+      "zip_extension": "",
+      "primary_city": "City_56515",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56520",
+      "zip_extension": "",
+      "primary_city": "City_56520",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56525",
+      "zip_extension": "",
+      "primary_city": "City_56525",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56530",
+      "zip_extension": "",
+      "primary_city": "City_56530",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56535",
+      "zip_extension": "",
+      "primary_city": "City_56535",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56540",
+      "zip_extension": "",
+      "primary_city": "City_56540",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56545",
+      "zip_extension": "",
+      "primary_city": "City_56545",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56550",
+      "zip_extension": "",
+      "primary_city": "City_56550",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56555",
+      "zip_extension": "",
+      "primary_city": "City_56555",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56560",
+      "zip_extension": "",
+      "primary_city": "City_56560",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56565",
+      "zip_extension": "",
+      "primary_city": "City_56565",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56570",
+      "zip_extension": "",
+      "primary_city": "City_56570",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56575",
+      "zip_extension": "",
+      "primary_city": "City_56575",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56580",
+      "zip_extension": "",
+      "primary_city": "City_56580",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56585",
+      "zip_extension": "",
+      "primary_city": "City_56585",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56590",
+      "zip_extension": "",
+      "primary_city": "City_56590",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56595",
+      "zip_extension": "",
+      "primary_city": "City_56595",
+      "acceptable_cities": "",
+      "county": "County_565",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56600",
+      "zip_extension": "",
+      "primary_city": "City_56600",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56605",
+      "zip_extension": "",
+      "primary_city": "City_56605",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56610",
+      "zip_extension": "",
+      "primary_city": "City_56610",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56615",
+      "zip_extension": "",
+      "primary_city": "City_56615",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56620",
+      "zip_extension": "",
+      "primary_city": "City_56620",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56625",
+      "zip_extension": "",
+      "primary_city": "City_56625",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56630",
+      "zip_extension": "",
+      "primary_city": "City_56630",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56635",
+      "zip_extension": "",
+      "primary_city": "City_56635",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56640",
+      "zip_extension": "",
+      "primary_city": "City_56640",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56645",
+      "zip_extension": "",
+      "primary_city": "City_56645",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56650",
+      "zip_extension": "",
+      "primary_city": "City_56650",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56655",
+      "zip_extension": "",
+      "primary_city": "City_56655",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56660",
+      "zip_extension": "",
+      "primary_city": "City_56660",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56665",
+      "zip_extension": "",
+      "primary_city": "City_56665",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56670",
+      "zip_extension": "",
+      "primary_city": "City_56670",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56675",
+      "zip_extension": "",
+      "primary_city": "City_56675",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56680",
+      "zip_extension": "",
+      "primary_city": "City_56680",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56685",
+      "zip_extension": "",
+      "primary_city": "City_56685",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56690",
+      "zip_extension": "",
+      "primary_city": "City_56690",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56695",
+      "zip_extension": "",
+      "primary_city": "City_56695",
+      "acceptable_cities": "",
+      "county": "County_566",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56700",
+      "zip_extension": "",
+      "primary_city": "City_56700",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56705",
+      "zip_extension": "",
+      "primary_city": "City_56705",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56710",
+      "zip_extension": "",
+      "primary_city": "City_56710",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56715",
+      "zip_extension": "",
+      "primary_city": "City_56715",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56720",
+      "zip_extension": "",
+      "primary_city": "City_56720",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56725",
+      "zip_extension": "",
+      "primary_city": "City_56725",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56730",
+      "zip_extension": "",
+      "primary_city": "City_56730",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56735",
+      "zip_extension": "",
+      "primary_city": "City_56735",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56740",
+      "zip_extension": "",
+      "primary_city": "City_56740",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56745",
+      "zip_extension": "",
+      "primary_city": "City_56745",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56750",
+      "zip_extension": "",
+      "primary_city": "City_56750",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56755",
+      "zip_extension": "",
+      "primary_city": "City_56755",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56760",
+      "zip_extension": "",
+      "primary_city": "City_56760",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56765",
+      "zip_extension": "",
+      "primary_city": "City_56765",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56770",
+      "zip_extension": "",
+      "primary_city": "City_56770",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56775",
+      "zip_extension": "",
+      "primary_city": "City_56775",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56780",
+      "zip_extension": "",
+      "primary_city": "City_56780",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56785",
+      "zip_extension": "",
+      "primary_city": "City_56785",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56790",
+      "zip_extension": "",
+      "primary_city": "City_56790",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "56795",
+      "zip_extension": "",
+      "primary_city": "City_56795",
+      "acceptable_cities": "",
+      "county": "County_567",
+      "state": "Minnesota",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

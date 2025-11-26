@@ -1,0 +1,3207 @@
+{
+  "state": "Arkansas",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 320,
+  "zipcodes": [
+    {
+      "zip_code": "71600",
+      "zip_extension": "",
+      "primary_city": "City_71600",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71605",
+      "zip_extension": "",
+      "primary_city": "City_71605",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71610",
+      "zip_extension": "",
+      "primary_city": "City_71610",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71615",
+      "zip_extension": "",
+      "primary_city": "City_71615",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71620",
+      "zip_extension": "",
+      "primary_city": "City_71620",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71625",
+      "zip_extension": "",
+      "primary_city": "City_71625",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71630",
+      "zip_extension": "",
+      "primary_city": "City_71630",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71635",
+      "zip_extension": "",
+      "primary_city": "City_71635",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71640",
+      "zip_extension": "",
+      "primary_city": "City_71640",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71645",
+      "zip_extension": "",
+      "primary_city": "City_71645",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71650",
+      "zip_extension": "",
+      "primary_city": "City_71650",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71655",
+      "zip_extension": "",
+      "primary_city": "City_71655",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71660",
+      "zip_extension": "",
+      "primary_city": "City_71660",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71665",
+      "zip_extension": "",
+      "primary_city": "City_71665",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71670",
+      "zip_extension": "",
+      "primary_city": "City_71670",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71675",
+      "zip_extension": "",
+      "primary_city": "City_71675",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71680",
+      "zip_extension": "",
+      "primary_city": "City_71680",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71685",
+      "zip_extension": "",
+      "primary_city": "City_71685",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71690",
+      "zip_extension": "",
+      "primary_city": "City_71690",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71695",
+      "zip_extension": "",
+      "primary_city": "City_71695",
+      "acceptable_cities": "",
+      "county": "County_716",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71700",
+      "zip_extension": "",
+      "primary_city": "City_71700",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71705",
+      "zip_extension": "",
+      "primary_city": "City_71705",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71710",
+      "zip_extension": "",
+      "primary_city": "City_71710",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71715",
+      "zip_extension": "",
+      "primary_city": "City_71715",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71720",
+      "zip_extension": "",
+      "primary_city": "City_71720",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71725",
+      "zip_extension": "",
+      "primary_city": "City_71725",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71730",
+      "zip_extension": "",
+      "primary_city": "City_71730",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71735",
+      "zip_extension": "",
+      "primary_city": "City_71735",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71740",
+      "zip_extension": "",
+      "primary_city": "City_71740",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71745",
+      "zip_extension": "",
+      "primary_city": "City_71745",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71750",
+      "zip_extension": "",
+      "primary_city": "City_71750",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71755",
+      "zip_extension": "",
+      "primary_city": "City_71755",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71760",
+      "zip_extension": "",
+      "primary_city": "City_71760",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71765",
+      "zip_extension": "",
+      "primary_city": "City_71765",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71770",
+      "zip_extension": "",
+      "primary_city": "City_71770",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71775",
+      "zip_extension": "",
+      "primary_city": "City_71775",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71780",
+      "zip_extension": "",
+      "primary_city": "City_71780",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71785",
+      "zip_extension": "",
+      "primary_city": "City_71785",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71790",
+      "zip_extension": "",
+      "primary_city": "City_71790",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71795",
+      "zip_extension": "",
+      "primary_city": "City_71795",
+      "acceptable_cities": "",
+      "county": "County_717",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71800",
+      "zip_extension": "",
+      "primary_city": "City_71800",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71805",
+      "zip_extension": "",
+      "primary_city": "City_71805",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71810",
+      "zip_extension": "",
+      "primary_city": "City_71810",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71815",
+      "zip_extension": "",
+      "primary_city": "City_71815",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71820",
+      "zip_extension": "",
+      "primary_city": "City_71820",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71825",
+      "zip_extension": "",
+      "primary_city": "City_71825",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71830",
+      "zip_extension": "",
+      "primary_city": "City_71830",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71835",
+      "zip_extension": "",
+      "primary_city": "City_71835",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71840",
+      "zip_extension": "",
+      "primary_city": "City_71840",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71845",
+      "zip_extension": "",
+      "primary_city": "City_71845",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71850",
+      "zip_extension": "",
+      "primary_city": "City_71850",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71855",
+      "zip_extension": "",
+      "primary_city": "City_71855",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71860",
+      "zip_extension": "",
+      "primary_city": "City_71860",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71865",
+      "zip_extension": "",
+      "primary_city": "City_71865",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71870",
+      "zip_extension": "",
+      "primary_city": "City_71870",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71875",
+      "zip_extension": "",
+      "primary_city": "City_71875",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71880",
+      "zip_extension": "",
+      "primary_city": "City_71880",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71885",
+      "zip_extension": "",
+      "primary_city": "City_71885",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71890",
+      "zip_extension": "",
+      "primary_city": "City_71890",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71895",
+      "zip_extension": "",
+      "primary_city": "City_71895",
+      "acceptable_cities": "",
+      "county": "County_718",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71900",
+      "zip_extension": "",
+      "primary_city": "City_71900",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71905",
+      "zip_extension": "",
+      "primary_city": "City_71905",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71910",
+      "zip_extension": "",
+      "primary_city": "City_71910",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71915",
+      "zip_extension": "",
+      "primary_city": "City_71915",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71920",
+      "zip_extension": "",
+      "primary_city": "City_71920",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71925",
+      "zip_extension": "",
+      "primary_city": "City_71925",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71930",
+      "zip_extension": "",
+      "primary_city": "City_71930",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71935",
+      "zip_extension": "",
+      "primary_city": "City_71935",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71940",
+      "zip_extension": "",
+      "primary_city": "City_71940",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71945",
+      "zip_extension": "",
+      "primary_city": "City_71945",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71950",
+      "zip_extension": "",
+      "primary_city": "City_71950",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71955",
+      "zip_extension": "",
+      "primary_city": "City_71955",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71960",
+      "zip_extension": "",
+      "primary_city": "City_71960",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71965",
+      "zip_extension": "",
+      "primary_city": "City_71965",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71970",
+      "zip_extension": "",
+      "primary_city": "City_71970",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71975",
+      "zip_extension": "",
+      "primary_city": "City_71975",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71980",
+      "zip_extension": "",
+      "primary_city": "City_71980",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71985",
+      "zip_extension": "",
+      "primary_city": "City_71985",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71990",
+      "zip_extension": "",
+      "primary_city": "City_71990",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71995",
+      "zip_extension": "",
+      "primary_city": "City_71995",
+      "acceptable_cities": "",
+      "county": "County_719",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72000",
+      "zip_extension": "",
+      "primary_city": "City_72000",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72005",
+      "zip_extension": "",
+      "primary_city": "City_72005",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72010",
+      "zip_extension": "",
+      "primary_city": "City_72010",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72015",
+      "zip_extension": "",
+      "primary_city": "City_72015",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72020",
+      "zip_extension": "",
+      "primary_city": "City_72020",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72025",
+      "zip_extension": "",
+      "primary_city": "City_72025",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72030",
+      "zip_extension": "",
+      "primary_city": "City_72030",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72035",
+      "zip_extension": "",
+      "primary_city": "City_72035",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72040",
+      "zip_extension": "",
+      "primary_city": "City_72040",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72045",
+      "zip_extension": "",
+      "primary_city": "City_72045",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72050",
+      "zip_extension": "",
+      "primary_city": "City_72050",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72055",
+      "zip_extension": "",
+      "primary_city": "City_72055",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72060",
+      "zip_extension": "",
+      "primary_city": "City_72060",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72065",
+      "zip_extension": "",
+      "primary_city": "City_72065",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72070",
+      "zip_extension": "",
+      "primary_city": "City_72070",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72075",
+      "zip_extension": "",
+      "primary_city": "City_72075",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72080",
+      "zip_extension": "",
+      "primary_city": "City_72080",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72085",
+      "zip_extension": "",
+      "primary_city": "City_72085",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72090",
+      "zip_extension": "",
+      "primary_city": "City_72090",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72095",
+      "zip_extension": "",
+      "primary_city": "City_72095",
+      "acceptable_cities": "",
+      "county": "County_720",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72100",
+      "zip_extension": "",
+      "primary_city": "City_72100",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72105",
+      "zip_extension": "",
+      "primary_city": "City_72105",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72110",
+      "zip_extension": "",
+      "primary_city": "City_72110",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72115",
+      "zip_extension": "",
+      "primary_city": "City_72115",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72120",
+      "zip_extension": "",
+      "primary_city": "City_72120",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72125",
+      "zip_extension": "",
+      "primary_city": "City_72125",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72130",
+      "zip_extension": "",
+      "primary_city": "City_72130",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72135",
+      "zip_extension": "",
+      "primary_city": "City_72135",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72140",
+      "zip_extension": "",
+      "primary_city": "City_72140",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72145",
+      "zip_extension": "",
+      "primary_city": "City_72145",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72150",
+      "zip_extension": "",
+      "primary_city": "City_72150",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72155",
+      "zip_extension": "",
+      "primary_city": "City_72155",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72160",
+      "zip_extension": "",
+      "primary_city": "City_72160",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72165",
+      "zip_extension": "",
+      "primary_city": "City_72165",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72170",
+      "zip_extension": "",
+      "primary_city": "City_72170",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72175",
+      "zip_extension": "",
+      "primary_city": "City_72175",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72180",
+      "zip_extension": "",
+      "primary_city": "City_72180",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72185",
+      "zip_extension": "",
+      "primary_city": "City_72185",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72190",
+      "zip_extension": "",
+      "primary_city": "City_72190",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72195",
+      "zip_extension": "",
+      "primary_city": "City_72195",
+      "acceptable_cities": "",
+      "county": "County_721",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72200",
+      "zip_extension": "",
+      "primary_city": "City_72200",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72205",
+      "zip_extension": "",
+      "primary_city": "City_72205",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72210",
+      "zip_extension": "",
+      "primary_city": "City_72210",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72215",
+      "zip_extension": "",
+      "primary_city": "City_72215",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72220",
+      "zip_extension": "",
+      "primary_city": "City_72220",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72225",
+      "zip_extension": "",
+      "primary_city": "City_72225",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72230",
+      "zip_extension": "",
+      "primary_city": "City_72230",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72235",
+      "zip_extension": "",
+      "primary_city": "City_72235",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72240",
+      "zip_extension": "",
+      "primary_city": "City_72240",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72245",
+      "zip_extension": "",
+      "primary_city": "City_72245",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72250",
+      "zip_extension": "",
+      "primary_city": "City_72250",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72255",
+      "zip_extension": "",
+      "primary_city": "City_72255",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72260",
+      "zip_extension": "",
+      "primary_city": "City_72260",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72265",
+      "zip_extension": "",
+      "primary_city": "City_72265",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72270",
+      "zip_extension": "",
+      "primary_city": "City_72270",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72275",
+      "zip_extension": "",
+      "primary_city": "City_72275",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72280",
+      "zip_extension": "",
+      "primary_city": "City_72280",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72285",
+      "zip_extension": "",
+      "primary_city": "City_72285",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72290",
+      "zip_extension": "",
+      "primary_city": "City_72290",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72295",
+      "zip_extension": "",
+      "primary_city": "City_72295",
+      "acceptable_cities": "",
+      "county": "County_722",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72300",
+      "zip_extension": "",
+      "primary_city": "City_72300",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72305",
+      "zip_extension": "",
+      "primary_city": "City_72305",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72310",
+      "zip_extension": "",
+      "primary_city": "City_72310",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72315",
+      "zip_extension": "",
+      "primary_city": "City_72315",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72320",
+      "zip_extension": "",
+      "primary_city": "City_72320",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72325",
+      "zip_extension": "",
+      "primary_city": "City_72325",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72330",
+      "zip_extension": "",
+      "primary_city": "City_72330",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72335",
+      "zip_extension": "",
+      "primary_city": "City_72335",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72340",
+      "zip_extension": "",
+      "primary_city": "City_72340",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72345",
+      "zip_extension": "",
+      "primary_city": "City_72345",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72350",
+      "zip_extension": "",
+      "primary_city": "City_72350",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72355",
+      "zip_extension": "",
+      "primary_city": "City_72355",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72360",
+      "zip_extension": "",
+      "primary_city": "City_72360",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72365",
+      "zip_extension": "",
+      "primary_city": "City_72365",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72370",
+      "zip_extension": "",
+      "primary_city": "City_72370",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72375",
+      "zip_extension": "",
+      "primary_city": "City_72375",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72380",
+      "zip_extension": "",
+      "primary_city": "City_72380",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72385",
+      "zip_extension": "",
+      "primary_city": "City_72385",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72390",
+      "zip_extension": "",
+      "primary_city": "City_72390",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72395",
+      "zip_extension": "",
+      "primary_city": "City_72395",
+      "acceptable_cities": "",
+      "county": "County_723",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72400",
+      "zip_extension": "",
+      "primary_city": "City_72400",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72405",
+      "zip_extension": "",
+      "primary_city": "City_72405",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72410",
+      "zip_extension": "",
+      "primary_city": "City_72410",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72415",
+      "zip_extension": "",
+      "primary_city": "City_72415",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72420",
+      "zip_extension": "",
+      "primary_city": "City_72420",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72425",
+      "zip_extension": "",
+      "primary_city": "City_72425",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72430",
+      "zip_extension": "",
+      "primary_city": "City_72430",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72435",
+      "zip_extension": "",
+      "primary_city": "City_72435",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72440",
+      "zip_extension": "",
+      "primary_city": "City_72440",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72445",
+      "zip_extension": "",
+      "primary_city": "City_72445",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72450",
+      "zip_extension": "",
+      "primary_city": "City_72450",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72455",
+      "zip_extension": "",
+      "primary_city": "City_72455",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72460",
+      "zip_extension": "",
+      "primary_city": "City_72460",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72465",
+      "zip_extension": "",
+      "primary_city": "City_72465",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72470",
+      "zip_extension": "",
+      "primary_city": "City_72470",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72475",
+      "zip_extension": "",
+      "primary_city": "City_72475",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72480",
+      "zip_extension": "",
+      "primary_city": "City_72480",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72485",
+      "zip_extension": "",
+      "primary_city": "City_72485",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72490",
+      "zip_extension": "",
+      "primary_city": "City_72490",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72495",
+      "zip_extension": "",
+      "primary_city": "City_72495",
+      "acceptable_cities": "",
+      "county": "County_724",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72500",
+      "zip_extension": "",
+      "primary_city": "City_72500",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72505",
+      "zip_extension": "",
+      "primary_city": "City_72505",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72510",
+      "zip_extension": "",
+      "primary_city": "City_72510",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72515",
+      "zip_extension": "",
+      "primary_city": "City_72515",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72520",
+      "zip_extension": "",
+      "primary_city": "City_72520",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72525",
+      "zip_extension": "",
+      "primary_city": "City_72525",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72530",
+      "zip_extension": "",
+      "primary_city": "City_72530",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72535",
+      "zip_extension": "",
+      "primary_city": "City_72535",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72540",
+      "zip_extension": "",
+      "primary_city": "City_72540",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72545",
+      "zip_extension": "",
+      "primary_city": "City_72545",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72550",
+      "zip_extension": "",
+      "primary_city": "City_72550",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72555",
+      "zip_extension": "",
+      "primary_city": "City_72555",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72560",
+      "zip_extension": "",
+      "primary_city": "City_72560",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72565",
+      "zip_extension": "",
+      "primary_city": "City_72565",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72570",
+      "zip_extension": "",
+      "primary_city": "City_72570",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72575",
+      "zip_extension": "",
+      "primary_city": "City_72575",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72580",
+      "zip_extension": "",
+      "primary_city": "City_72580",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72585",
+      "zip_extension": "",
+      "primary_city": "City_72585",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72590",
+      "zip_extension": "",
+      "primary_city": "City_72590",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72595",
+      "zip_extension": "",
+      "primary_city": "City_72595",
+      "acceptable_cities": "",
+      "county": "County_725",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72600",
+      "zip_extension": "",
+      "primary_city": "City_72600",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72605",
+      "zip_extension": "",
+      "primary_city": "City_72605",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72610",
+      "zip_extension": "",
+      "primary_city": "City_72610",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72615",
+      "zip_extension": "",
+      "primary_city": "City_72615",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72620",
+      "zip_extension": "",
+      "primary_city": "City_72620",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72625",
+      "zip_extension": "",
+      "primary_city": "City_72625",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72630",
+      "zip_extension": "",
+      "primary_city": "City_72630",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72635",
+      "zip_extension": "",
+      "primary_city": "City_72635",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72640",
+      "zip_extension": "",
+      "primary_city": "City_72640",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72645",
+      "zip_extension": "",
+      "primary_city": "City_72645",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72650",
+      "zip_extension": "",
+      "primary_city": "City_72650",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72655",
+      "zip_extension": "",
+      "primary_city": "City_72655",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72660",
+      "zip_extension": "",
+      "primary_city": "City_72660",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72665",
+      "zip_extension": "",
+      "primary_city": "City_72665",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72670",
+      "zip_extension": "",
+      "primary_city": "City_72670",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72675",
+      "zip_extension": "",
+      "primary_city": "City_72675",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72680",
+      "zip_extension": "",
+      "primary_city": "City_72680",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72685",
+      "zip_extension": "",
+      "primary_city": "City_72685",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72690",
+      "zip_extension": "",
+      "primary_city": "City_72690",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72695",
+      "zip_extension": "",
+      "primary_city": "City_72695",
+      "acceptable_cities": "",
+      "county": "County_726",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72700",
+      "zip_extension": "",
+      "primary_city": "City_72700",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72705",
+      "zip_extension": "",
+      "primary_city": "City_72705",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72710",
+      "zip_extension": "",
+      "primary_city": "City_72710",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72715",
+      "zip_extension": "",
+      "primary_city": "City_72715",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72720",
+      "zip_extension": "",
+      "primary_city": "City_72720",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72725",
+      "zip_extension": "",
+      "primary_city": "City_72725",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72730",
+      "zip_extension": "",
+      "primary_city": "City_72730",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72735",
+      "zip_extension": "",
+      "primary_city": "City_72735",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72740",
+      "zip_extension": "",
+      "primary_city": "City_72740",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72745",
+      "zip_extension": "",
+      "primary_city": "City_72745",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72750",
+      "zip_extension": "",
+      "primary_city": "City_72750",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72755",
+      "zip_extension": "",
+      "primary_city": "City_72755",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72760",
+      "zip_extension": "",
+      "primary_city": "City_72760",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72765",
+      "zip_extension": "",
+      "primary_city": "City_72765",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72770",
+      "zip_extension": "",
+      "primary_city": "City_72770",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72775",
+      "zip_extension": "",
+      "primary_city": "City_72775",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72780",
+      "zip_extension": "",
+      "primary_city": "City_72780",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72785",
+      "zip_extension": "",
+      "primary_city": "City_72785",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72790",
+      "zip_extension": "",
+      "primary_city": "City_72790",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72795",
+      "zip_extension": "",
+      "primary_city": "City_72795",
+      "acceptable_cities": "",
+      "county": "County_727",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72800",
+      "zip_extension": "",
+      "primary_city": "City_72800",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72805",
+      "zip_extension": "",
+      "primary_city": "City_72805",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72810",
+      "zip_extension": "",
+      "primary_city": "City_72810",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72815",
+      "zip_extension": "",
+      "primary_city": "City_72815",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72820",
+      "zip_extension": "",
+      "primary_city": "City_72820",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72825",
+      "zip_extension": "",
+      "primary_city": "City_72825",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72830",
+      "zip_extension": "",
+      "primary_city": "City_72830",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72835",
+      "zip_extension": "",
+      "primary_city": "City_72835",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72840",
+      "zip_extension": "",
+      "primary_city": "City_72840",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72845",
+      "zip_extension": "",
+      "primary_city": "City_72845",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72850",
+      "zip_extension": "",
+      "primary_city": "City_72850",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72855",
+      "zip_extension": "",
+      "primary_city": "City_72855",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72860",
+      "zip_extension": "",
+      "primary_city": "City_72860",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72865",
+      "zip_extension": "",
+      "primary_city": "City_72865",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72870",
+      "zip_extension": "",
+      "primary_city": "City_72870",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72875",
+      "zip_extension": "",
+      "primary_city": "City_72875",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72880",
+      "zip_extension": "",
+      "primary_city": "City_72880",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72885",
+      "zip_extension": "",
+      "primary_city": "City_72885",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72890",
+      "zip_extension": "",
+      "primary_city": "City_72890",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72895",
+      "zip_extension": "",
+      "primary_city": "City_72895",
+      "acceptable_cities": "",
+      "county": "County_728",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72900",
+      "zip_extension": "",
+      "primary_city": "City_72900",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72905",
+      "zip_extension": "",
+      "primary_city": "City_72905",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72910",
+      "zip_extension": "",
+      "primary_city": "City_72910",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72915",
+      "zip_extension": "",
+      "primary_city": "City_72915",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72920",
+      "zip_extension": "",
+      "primary_city": "City_72920",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72925",
+      "zip_extension": "",
+      "primary_city": "City_72925",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72930",
+      "zip_extension": "",
+      "primary_city": "City_72930",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72935",
+      "zip_extension": "",
+      "primary_city": "City_72935",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72940",
+      "zip_extension": "",
+      "primary_city": "City_72940",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72945",
+      "zip_extension": "",
+      "primary_city": "City_72945",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72950",
+      "zip_extension": "",
+      "primary_city": "City_72950",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72955",
+      "zip_extension": "",
+      "primary_city": "City_72955",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72960",
+      "zip_extension": "",
+      "primary_city": "City_72960",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72965",
+      "zip_extension": "",
+      "primary_city": "City_72965",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72970",
+      "zip_extension": "",
+      "primary_city": "City_72970",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72975",
+      "zip_extension": "",
+      "primary_city": "City_72975",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72980",
+      "zip_extension": "",
+      "primary_city": "City_72980",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72985",
+      "zip_extension": "",
+      "primary_city": "City_72985",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72990",
+      "zip_extension": "",
+      "primary_city": "City_72990",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "72995",
+      "zip_extension": "",
+      "primary_city": "City_72995",
+      "acceptable_cities": "",
+      "county": "County_729",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75400",
+      "zip_extension": "",
+      "primary_city": "City_75400",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75405",
+      "zip_extension": "",
+      "primary_city": "City_75405",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75410",
+      "zip_extension": "",
+      "primary_city": "City_75410",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75415",
+      "zip_extension": "",
+      "primary_city": "City_75415",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75420",
+      "zip_extension": "",
+      "primary_city": "City_75420",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75425",
+      "zip_extension": "",
+      "primary_city": "City_75425",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75430",
+      "zip_extension": "",
+      "primary_city": "City_75430",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75435",
+      "zip_extension": "",
+      "primary_city": "City_75435",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75440",
+      "zip_extension": "",
+      "primary_city": "City_75440",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75445",
+      "zip_extension": "",
+      "primary_city": "City_75445",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75450",
+      "zip_extension": "",
+      "primary_city": "City_75450",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75455",
+      "zip_extension": "",
+      "primary_city": "City_75455",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75460",
+      "zip_extension": "",
+      "primary_city": "City_75460",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75465",
+      "zip_extension": "",
+      "primary_city": "City_75465",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75470",
+      "zip_extension": "",
+      "primary_city": "City_75470",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75475",
+      "zip_extension": "",
+      "primary_city": "City_75475",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75480",
+      "zip_extension": "",
+      "primary_city": "City_75480",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75485",
+      "zip_extension": "",
+      "primary_city": "City_75485",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75490",
+      "zip_extension": "",
+      "primary_city": "City_75490",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75495",
+      "zip_extension": "",
+      "primary_city": "City_75495",
+      "acceptable_cities": "",
+      "county": "County_754",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75500",
+      "zip_extension": "",
+      "primary_city": "City_75500",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75505",
+      "zip_extension": "",
+      "primary_city": "City_75505",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75510",
+      "zip_extension": "",
+      "primary_city": "City_75510",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75515",
+      "zip_extension": "",
+      "primary_city": "City_75515",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75520",
+      "zip_extension": "",
+      "primary_city": "City_75520",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75525",
+      "zip_extension": "",
+      "primary_city": "City_75525",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75530",
+      "zip_extension": "",
+      "primary_city": "City_75530",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75535",
+      "zip_extension": "",
+      "primary_city": "City_75535",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75540",
+      "zip_extension": "",
+      "primary_city": "City_75540",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75545",
+      "zip_extension": "",
+      "primary_city": "City_75545",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75550",
+      "zip_extension": "",
+      "primary_city": "City_75550",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75555",
+      "zip_extension": "",
+      "primary_city": "City_75555",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75560",
+      "zip_extension": "",
+      "primary_city": "City_75560",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75565",
+      "zip_extension": "",
+      "primary_city": "City_75565",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75570",
+      "zip_extension": "",
+      "primary_city": "City_75570",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75575",
+      "zip_extension": "",
+      "primary_city": "City_75575",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75580",
+      "zip_extension": "",
+      "primary_city": "City_75580",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75585",
+      "zip_extension": "",
+      "primary_city": "City_75585",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75590",
+      "zip_extension": "",
+      "primary_city": "City_75590",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "75595",
+      "zip_extension": "",
+      "primary_city": "City_75595",
+      "acceptable_cities": "",
+      "county": "County_755",
+      "state": "Arkansas",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

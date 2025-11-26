@@ -1,0 +1,3207 @@
+{
+  "state": "Louisiana",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 320,
+  "zipcodes": [
+    {
+      "zip_code": "70000",
+      "zip_extension": "",
+      "primary_city": "City_70000",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70005",
+      "zip_extension": "",
+      "primary_city": "City_70005",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70010",
+      "zip_extension": "",
+      "primary_city": "City_70010",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70015",
+      "zip_extension": "",
+      "primary_city": "City_70015",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70020",
+      "zip_extension": "",
+      "primary_city": "City_70020",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70025",
+      "zip_extension": "",
+      "primary_city": "City_70025",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70030",
+      "zip_extension": "",
+      "primary_city": "City_70030",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70035",
+      "zip_extension": "",
+      "primary_city": "City_70035",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70040",
+      "zip_extension": "",
+      "primary_city": "City_70040",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70045",
+      "zip_extension": "",
+      "primary_city": "City_70045",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70050",
+      "zip_extension": "",
+      "primary_city": "City_70050",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70055",
+      "zip_extension": "",
+      "primary_city": "City_70055",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70060",
+      "zip_extension": "",
+      "primary_city": "City_70060",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70065",
+      "zip_extension": "",
+      "primary_city": "City_70065",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70070",
+      "zip_extension": "",
+      "primary_city": "City_70070",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70075",
+      "zip_extension": "",
+      "primary_city": "City_70075",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70080",
+      "zip_extension": "",
+      "primary_city": "City_70080",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70085",
+      "zip_extension": "",
+      "primary_city": "City_70085",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70090",
+      "zip_extension": "",
+      "primary_city": "City_70090",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70095",
+      "zip_extension": "",
+      "primary_city": "City_70095",
+      "acceptable_cities": "",
+      "county": "County_700",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70100",
+      "zip_extension": "",
+      "primary_city": "City_70100",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70105",
+      "zip_extension": "",
+      "primary_city": "City_70105",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70110",
+      "zip_extension": "",
+      "primary_city": "City_70110",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70115",
+      "zip_extension": "",
+      "primary_city": "City_70115",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70120",
+      "zip_extension": "",
+      "primary_city": "City_70120",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70125",
+      "zip_extension": "",
+      "primary_city": "City_70125",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70130",
+      "zip_extension": "",
+      "primary_city": "City_70130",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70135",
+      "zip_extension": "",
+      "primary_city": "City_70135",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70140",
+      "zip_extension": "",
+      "primary_city": "City_70140",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70145",
+      "zip_extension": "",
+      "primary_city": "City_70145",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70150",
+      "zip_extension": "",
+      "primary_city": "City_70150",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70155",
+      "zip_extension": "",
+      "primary_city": "City_70155",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70160",
+      "zip_extension": "",
+      "primary_city": "City_70160",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70165",
+      "zip_extension": "",
+      "primary_city": "City_70165",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70170",
+      "zip_extension": "",
+      "primary_city": "City_70170",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70175",
+      "zip_extension": "",
+      "primary_city": "City_70175",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70180",
+      "zip_extension": "",
+      "primary_city": "City_70180",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70185",
+      "zip_extension": "",
+      "primary_city": "City_70185",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70190",
+      "zip_extension": "",
+      "primary_city": "City_70190",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70195",
+      "zip_extension": "",
+      "primary_city": "City_70195",
+      "acceptable_cities": "",
+      "county": "County_701",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70200",
+      "zip_extension": "",
+      "primary_city": "City_70200",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70205",
+      "zip_extension": "",
+      "primary_city": "City_70205",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70210",
+      "zip_extension": "",
+      "primary_city": "City_70210",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70215",
+      "zip_extension": "",
+      "primary_city": "City_70215",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70220",
+      "zip_extension": "",
+      "primary_city": "City_70220",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70225",
+      "zip_extension": "",
+      "primary_city": "City_70225",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70230",
+      "zip_extension": "",
+      "primary_city": "City_70230",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70235",
+      "zip_extension": "",
+      "primary_city": "City_70235",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70240",
+      "zip_extension": "",
+      "primary_city": "City_70240",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70245",
+      "zip_extension": "",
+      "primary_city": "City_70245",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70250",
+      "zip_extension": "",
+      "primary_city": "City_70250",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70255",
+      "zip_extension": "",
+      "primary_city": "City_70255",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70260",
+      "zip_extension": "",
+      "primary_city": "City_70260",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70265",
+      "zip_extension": "",
+      "primary_city": "City_70265",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70270",
+      "zip_extension": "",
+      "primary_city": "City_70270",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70275",
+      "zip_extension": "",
+      "primary_city": "City_70275",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70280",
+      "zip_extension": "",
+      "primary_city": "City_70280",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70285",
+      "zip_extension": "",
+      "primary_city": "City_70285",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70290",
+      "zip_extension": "",
+      "primary_city": "City_70290",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70295",
+      "zip_extension": "",
+      "primary_city": "City_70295",
+      "acceptable_cities": "",
+      "county": "County_702",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70300",
+      "zip_extension": "",
+      "primary_city": "City_70300",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70305",
+      "zip_extension": "",
+      "primary_city": "City_70305",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70310",
+      "zip_extension": "",
+      "primary_city": "City_70310",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70315",
+      "zip_extension": "",
+      "primary_city": "City_70315",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70320",
+      "zip_extension": "",
+      "primary_city": "City_70320",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70325",
+      "zip_extension": "",
+      "primary_city": "City_70325",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70330",
+      "zip_extension": "",
+      "primary_city": "City_70330",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70335",
+      "zip_extension": "",
+      "primary_city": "City_70335",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70340",
+      "zip_extension": "",
+      "primary_city": "City_70340",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70345",
+      "zip_extension": "",
+      "primary_city": "City_70345",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70350",
+      "zip_extension": "",
+      "primary_city": "City_70350",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70355",
+      "zip_extension": "",
+      "primary_city": "City_70355",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70360",
+      "zip_extension": "",
+      "primary_city": "City_70360",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70365",
+      "zip_extension": "",
+      "primary_city": "City_70365",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70370",
+      "zip_extension": "",
+      "primary_city": "City_70370",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70375",
+      "zip_extension": "",
+      "primary_city": "City_70375",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70380",
+      "zip_extension": "",
+      "primary_city": "City_70380",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70385",
+      "zip_extension": "",
+      "primary_city": "City_70385",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70390",
+      "zip_extension": "",
+      "primary_city": "City_70390",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70395",
+      "zip_extension": "",
+      "primary_city": "City_70395",
+      "acceptable_cities": "",
+      "county": "County_703",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70400",
+      "zip_extension": "",
+      "primary_city": "City_70400",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70405",
+      "zip_extension": "",
+      "primary_city": "City_70405",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70410",
+      "zip_extension": "",
+      "primary_city": "City_70410",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70415",
+      "zip_extension": "",
+      "primary_city": "City_70415",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70420",
+      "zip_extension": "",
+      "primary_city": "City_70420",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70425",
+      "zip_extension": "",
+      "primary_city": "City_70425",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70430",
+      "zip_extension": "",
+      "primary_city": "City_70430",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70435",
+      "zip_extension": "",
+      "primary_city": "City_70435",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70440",
+      "zip_extension": "",
+      "primary_city": "City_70440",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70445",
+      "zip_extension": "",
+      "primary_city": "City_70445",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70450",
+      "zip_extension": "",
+      "primary_city": "City_70450",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70455",
+      "zip_extension": "",
+      "primary_city": "City_70455",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70460",
+      "zip_extension": "",
+      "primary_city": "City_70460",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70465",
+      "zip_extension": "",
+      "primary_city": "City_70465",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70470",
+      "zip_extension": "",
+      "primary_city": "City_70470",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70475",
+      "zip_extension": "",
+      "primary_city": "City_70475",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70480",
+      "zip_extension": "",
+      "primary_city": "City_70480",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70485",
+      "zip_extension": "",
+      "primary_city": "City_70485",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70490",
+      "zip_extension": "",
+      "primary_city": "City_70490",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70495",
+      "zip_extension": "",
+      "primary_city": "City_70495",
+      "acceptable_cities": "",
+      "county": "County_704",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70500",
+      "zip_extension": "",
+      "primary_city": "City_70500",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70505",
+      "zip_extension": "",
+      "primary_city": "City_70505",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70510",
+      "zip_extension": "",
+      "primary_city": "City_70510",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70515",
+      "zip_extension": "",
+      "primary_city": "City_70515",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70520",
+      "zip_extension": "",
+      "primary_city": "City_70520",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70525",
+      "zip_extension": "",
+      "primary_city": "City_70525",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70530",
+      "zip_extension": "",
+      "primary_city": "City_70530",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70535",
+      "zip_extension": "",
+      "primary_city": "City_70535",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70540",
+      "zip_extension": "",
+      "primary_city": "City_70540",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70545",
+      "zip_extension": "",
+      "primary_city": "City_70545",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70550",
+      "zip_extension": "",
+      "primary_city": "City_70550",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70555",
+      "zip_extension": "",
+      "primary_city": "City_70555",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70560",
+      "zip_extension": "",
+      "primary_city": "City_70560",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70565",
+      "zip_extension": "",
+      "primary_city": "City_70565",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70570",
+      "zip_extension": "",
+      "primary_city": "City_70570",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70575",
+      "zip_extension": "",
+      "primary_city": "City_70575",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70580",
+      "zip_extension": "",
+      "primary_city": "City_70580",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70585",
+      "zip_extension": "",
+      "primary_city": "City_70585",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70590",
+      "zip_extension": "",
+      "primary_city": "City_70590",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70595",
+      "zip_extension": "",
+      "primary_city": "City_70595",
+      "acceptable_cities": "",
+      "county": "County_705",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70600",
+      "zip_extension": "",
+      "primary_city": "City_70600",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70605",
+      "zip_extension": "",
+      "primary_city": "City_70605",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70610",
+      "zip_extension": "",
+      "primary_city": "City_70610",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70615",
+      "zip_extension": "",
+      "primary_city": "City_70615",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70620",
+      "zip_extension": "",
+      "primary_city": "City_70620",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70625",
+      "zip_extension": "",
+      "primary_city": "City_70625",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70630",
+      "zip_extension": "",
+      "primary_city": "City_70630",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70635",
+      "zip_extension": "",
+      "primary_city": "City_70635",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70640",
+      "zip_extension": "",
+      "primary_city": "City_70640",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70645",
+      "zip_extension": "",
+      "primary_city": "City_70645",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70650",
+      "zip_extension": "",
+      "primary_city": "City_70650",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70655",
+      "zip_extension": "",
+      "primary_city": "City_70655",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70660",
+      "zip_extension": "",
+      "primary_city": "City_70660",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70665",
+      "zip_extension": "",
+      "primary_city": "City_70665",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70670",
+      "zip_extension": "",
+      "primary_city": "City_70670",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70675",
+      "zip_extension": "",
+      "primary_city": "City_70675",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70680",
+      "zip_extension": "",
+      "primary_city": "City_70680",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70685",
+      "zip_extension": "",
+      "primary_city": "City_70685",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70690",
+      "zip_extension": "",
+      "primary_city": "City_70690",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70695",
+      "zip_extension": "",
+      "primary_city": "City_70695",
+      "acceptable_cities": "",
+      "county": "County_706",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70700",
+      "zip_extension": "",
+      "primary_city": "City_70700",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70705",
+      "zip_extension": "",
+      "primary_city": "City_70705",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70710",
+      "zip_extension": "",
+      "primary_city": "City_70710",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70715",
+      "zip_extension": "",
+      "primary_city": "City_70715",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70720",
+      "zip_extension": "",
+      "primary_city": "City_70720",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70725",
+      "zip_extension": "",
+      "primary_city": "City_70725",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70730",
+      "zip_extension": "",
+      "primary_city": "City_70730",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70735",
+      "zip_extension": "",
+      "primary_city": "City_70735",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70740",
+      "zip_extension": "",
+      "primary_city": "City_70740",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70745",
+      "zip_extension": "",
+      "primary_city": "City_70745",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70750",
+      "zip_extension": "",
+      "primary_city": "City_70750",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70755",
+      "zip_extension": "",
+      "primary_city": "City_70755",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70760",
+      "zip_extension": "",
+      "primary_city": "City_70760",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70765",
+      "zip_extension": "",
+      "primary_city": "City_70765",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70770",
+      "zip_extension": "",
+      "primary_city": "City_70770",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70775",
+      "zip_extension": "",
+      "primary_city": "City_70775",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70780",
+      "zip_extension": "",
+      "primary_city": "City_70780",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70785",
+      "zip_extension": "",
+      "primary_city": "City_70785",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70790",
+      "zip_extension": "",
+      "primary_city": "City_70790",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70795",
+      "zip_extension": "",
+      "primary_city": "City_70795",
+      "acceptable_cities": "",
+      "county": "County_707",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70800",
+      "zip_extension": "",
+      "primary_city": "City_70800",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70805",
+      "zip_extension": "",
+      "primary_city": "City_70805",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70810",
+      "zip_extension": "",
+      "primary_city": "City_70810",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70815",
+      "zip_extension": "",
+      "primary_city": "City_70815",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70820",
+      "zip_extension": "",
+      "primary_city": "City_70820",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70825",
+      "zip_extension": "",
+      "primary_city": "City_70825",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70830",
+      "zip_extension": "",
+      "primary_city": "City_70830",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70835",
+      "zip_extension": "",
+      "primary_city": "City_70835",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70840",
+      "zip_extension": "",
+      "primary_city": "City_70840",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70845",
+      "zip_extension": "",
+      "primary_city": "City_70845",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70850",
+      "zip_extension": "",
+      "primary_city": "City_70850",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70855",
+      "zip_extension": "",
+      "primary_city": "City_70855",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70860",
+      "zip_extension": "",
+      "primary_city": "City_70860",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70865",
+      "zip_extension": "",
+      "primary_city": "City_70865",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70870",
+      "zip_extension": "",
+      "primary_city": "City_70870",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70875",
+      "zip_extension": "",
+      "primary_city": "City_70875",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70880",
+      "zip_extension": "",
+      "primary_city": "City_70880",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70885",
+      "zip_extension": "",
+      "primary_city": "City_70885",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70890",
+      "zip_extension": "",
+      "primary_city": "City_70890",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70895",
+      "zip_extension": "",
+      "primary_city": "City_70895",
+      "acceptable_cities": "",
+      "county": "County_708",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70900",
+      "zip_extension": "",
+      "primary_city": "City_70900",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70905",
+      "zip_extension": "",
+      "primary_city": "City_70905",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70910",
+      "zip_extension": "",
+      "primary_city": "City_70910",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70915",
+      "zip_extension": "",
+      "primary_city": "City_70915",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70920",
+      "zip_extension": "",
+      "primary_city": "City_70920",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70925",
+      "zip_extension": "",
+      "primary_city": "City_70925",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70930",
+      "zip_extension": "",
+      "primary_city": "City_70930",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70935",
+      "zip_extension": "",
+      "primary_city": "City_70935",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70940",
+      "zip_extension": "",
+      "primary_city": "City_70940",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70945",
+      "zip_extension": "",
+      "primary_city": "City_70945",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70950",
+      "zip_extension": "",
+      "primary_city": "City_70950",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70955",
+      "zip_extension": "",
+      "primary_city": "City_70955",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70960",
+      "zip_extension": "",
+      "primary_city": "City_70960",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70965",
+      "zip_extension": "",
+      "primary_city": "City_70965",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70970",
+      "zip_extension": "",
+      "primary_city": "City_70970",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70975",
+      "zip_extension": "",
+      "primary_city": "City_70975",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70980",
+      "zip_extension": "",
+      "primary_city": "City_70980",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70985",
+      "zip_extension": "",
+      "primary_city": "City_70985",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70990",
+      "zip_extension": "",
+      "primary_city": "City_70990",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "70995",
+      "zip_extension": "",
+      "primary_city": "City_70995",
+      "acceptable_cities": "",
+      "county": "County_709",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71000",
+      "zip_extension": "",
+      "primary_city": "City_71000",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71005",
+      "zip_extension": "",
+      "primary_city": "City_71005",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71010",
+      "zip_extension": "",
+      "primary_city": "City_71010",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71015",
+      "zip_extension": "",
+      "primary_city": "City_71015",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71020",
+      "zip_extension": "",
+      "primary_city": "City_71020",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71025",
+      "zip_extension": "",
+      "primary_city": "City_71025",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71030",
+      "zip_extension": "",
+      "primary_city": "City_71030",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71035",
+      "zip_extension": "",
+      "primary_city": "City_71035",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71040",
+      "zip_extension": "",
+      "primary_city": "City_71040",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71045",
+      "zip_extension": "",
+      "primary_city": "City_71045",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71050",
+      "zip_extension": "",
+      "primary_city": "City_71050",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71055",
+      "zip_extension": "",
+      "primary_city": "City_71055",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71060",
+      "zip_extension": "",
+      "primary_city": "City_71060",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71065",
+      "zip_extension": "",
+      "primary_city": "City_71065",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71070",
+      "zip_extension": "",
+      "primary_city": "City_71070",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71075",
+      "zip_extension": "",
+      "primary_city": "City_71075",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71080",
+      "zip_extension": "",
+      "primary_city": "City_71080",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71085",
+      "zip_extension": "",
+      "primary_city": "City_71085",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71090",
+      "zip_extension": "",
+      "primary_city": "City_71090",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71095",
+      "zip_extension": "",
+      "primary_city": "City_71095",
+      "acceptable_cities": "",
+      "county": "County_710",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71100",
+      "zip_extension": "",
+      "primary_city": "City_71100",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71105",
+      "zip_extension": "",
+      "primary_city": "City_71105",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71110",
+      "zip_extension": "",
+      "primary_city": "City_71110",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71115",
+      "zip_extension": "",
+      "primary_city": "City_71115",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71120",
+      "zip_extension": "",
+      "primary_city": "City_71120",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71125",
+      "zip_extension": "",
+      "primary_city": "City_71125",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71130",
+      "zip_extension": "",
+      "primary_city": "City_71130",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71135",
+      "zip_extension": "",
+      "primary_city": "City_71135",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71140",
+      "zip_extension": "",
+      "primary_city": "City_71140",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71145",
+      "zip_extension": "",
+      "primary_city": "City_71145",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71150",
+      "zip_extension": "",
+      "primary_city": "City_71150",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71155",
+      "zip_extension": "",
+      "primary_city": "City_71155",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71160",
+      "zip_extension": "",
+      "primary_city": "City_71160",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71165",
+      "zip_extension": "",
+      "primary_city": "City_71165",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71170",
+      "zip_extension": "",
+      "primary_city": "City_71170",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71175",
+      "zip_extension": "",
+      "primary_city": "City_71175",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71180",
+      "zip_extension": "",
+      "primary_city": "City_71180",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71185",
+      "zip_extension": "",
+      "primary_city": "City_71185",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71190",
+      "zip_extension": "",
+      "primary_city": "City_71190",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71195",
+      "zip_extension": "",
+      "primary_city": "City_71195",
+      "acceptable_cities": "",
+      "county": "County_711",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71200",
+      "zip_extension": "",
+      "primary_city": "City_71200",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71205",
+      "zip_extension": "",
+      "primary_city": "City_71205",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71210",
+      "zip_extension": "",
+      "primary_city": "City_71210",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71215",
+      "zip_extension": "",
+      "primary_city": "City_71215",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71220",
+      "zip_extension": "",
+      "primary_city": "City_71220",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71225",
+      "zip_extension": "",
+      "primary_city": "City_71225",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71230",
+      "zip_extension": "",
+      "primary_city": "City_71230",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71235",
+      "zip_extension": "",
+      "primary_city": "City_71235",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71240",
+      "zip_extension": "",
+      "primary_city": "City_71240",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71245",
+      "zip_extension": "",
+      "primary_city": "City_71245",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71250",
+      "zip_extension": "",
+      "primary_city": "City_71250",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71255",
+      "zip_extension": "",
+      "primary_city": "City_71255",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71260",
+      "zip_extension": "",
+      "primary_city": "City_71260",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71265",
+      "zip_extension": "",
+      "primary_city": "City_71265",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71270",
+      "zip_extension": "",
+      "primary_city": "City_71270",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71275",
+      "zip_extension": "",
+      "primary_city": "City_71275",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71280",
+      "zip_extension": "",
+      "primary_city": "City_71280",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71285",
+      "zip_extension": "",
+      "primary_city": "City_71285",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71290",
+      "zip_extension": "",
+      "primary_city": "City_71290",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71295",
+      "zip_extension": "",
+      "primary_city": "City_71295",
+      "acceptable_cities": "",
+      "county": "County_712",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71300",
+      "zip_extension": "",
+      "primary_city": "City_71300",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71305",
+      "zip_extension": "",
+      "primary_city": "City_71305",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71310",
+      "zip_extension": "",
+      "primary_city": "City_71310",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71315",
+      "zip_extension": "",
+      "primary_city": "City_71315",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71320",
+      "zip_extension": "",
+      "primary_city": "City_71320",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71325",
+      "zip_extension": "",
+      "primary_city": "City_71325",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71330",
+      "zip_extension": "",
+      "primary_city": "City_71330",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71335",
+      "zip_extension": "",
+      "primary_city": "City_71335",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71340",
+      "zip_extension": "",
+      "primary_city": "City_71340",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71345",
+      "zip_extension": "",
+      "primary_city": "City_71345",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71350",
+      "zip_extension": "",
+      "primary_city": "City_71350",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71355",
+      "zip_extension": "",
+      "primary_city": "City_71355",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71360",
+      "zip_extension": "",
+      "primary_city": "City_71360",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71365",
+      "zip_extension": "",
+      "primary_city": "City_71365",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71370",
+      "zip_extension": "",
+      "primary_city": "City_71370",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71375",
+      "zip_extension": "",
+      "primary_city": "City_71375",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71380",
+      "zip_extension": "",
+      "primary_city": "City_71380",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71385",
+      "zip_extension": "",
+      "primary_city": "City_71385",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71390",
+      "zip_extension": "",
+      "primary_city": "City_71390",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71395",
+      "zip_extension": "",
+      "primary_city": "City_71395",
+      "acceptable_cities": "",
+      "county": "County_713",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71400",
+      "zip_extension": "",
+      "primary_city": "City_71400",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71405",
+      "zip_extension": "",
+      "primary_city": "City_71405",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71410",
+      "zip_extension": "",
+      "primary_city": "City_71410",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71415",
+      "zip_extension": "",
+      "primary_city": "City_71415",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71420",
+      "zip_extension": "",
+      "primary_city": "City_71420",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71425",
+      "zip_extension": "",
+      "primary_city": "City_71425",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71430",
+      "zip_extension": "",
+      "primary_city": "City_71430",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71435",
+      "zip_extension": "",
+      "primary_city": "City_71435",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71440",
+      "zip_extension": "",
+      "primary_city": "City_71440",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71445",
+      "zip_extension": "",
+      "primary_city": "City_71445",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71450",
+      "zip_extension": "",
+      "primary_city": "City_71450",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71455",
+      "zip_extension": "",
+      "primary_city": "City_71455",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71460",
+      "zip_extension": "",
+      "primary_city": "City_71460",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71465",
+      "zip_extension": "",
+      "primary_city": "City_71465",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71470",
+      "zip_extension": "",
+      "primary_city": "City_71470",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71475",
+      "zip_extension": "",
+      "primary_city": "City_71475",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71480",
+      "zip_extension": "",
+      "primary_city": "City_71480",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71485",
+      "zip_extension": "",
+      "primary_city": "City_71485",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71490",
+      "zip_extension": "",
+      "primary_city": "City_71490",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71495",
+      "zip_extension": "",
+      "primary_city": "City_71495",
+      "acceptable_cities": "",
+      "county": "County_714",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71500",
+      "zip_extension": "",
+      "primary_city": "City_71500",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71505",
+      "zip_extension": "",
+      "primary_city": "City_71505",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71510",
+      "zip_extension": "",
+      "primary_city": "City_71510",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71515",
+      "zip_extension": "",
+      "primary_city": "City_71515",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71520",
+      "zip_extension": "",
+      "primary_city": "City_71520",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71525",
+      "zip_extension": "",
+      "primary_city": "City_71525",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71530",
+      "zip_extension": "",
+      "primary_city": "City_71530",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71535",
+      "zip_extension": "",
+      "primary_city": "City_71535",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71540",
+      "zip_extension": "",
+      "primary_city": "City_71540",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71545",
+      "zip_extension": "",
+      "primary_city": "City_71545",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71550",
+      "zip_extension": "",
+      "primary_city": "City_71550",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71555",
+      "zip_extension": "",
+      "primary_city": "City_71555",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71560",
+      "zip_extension": "",
+      "primary_city": "City_71560",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71565",
+      "zip_extension": "",
+      "primary_city": "City_71565",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71570",
+      "zip_extension": "",
+      "primary_city": "City_71570",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71575",
+      "zip_extension": "",
+      "primary_city": "City_71575",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71580",
+      "zip_extension": "",
+      "primary_city": "City_71580",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71585",
+      "zip_extension": "",
+      "primary_city": "City_71585",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71590",
+      "zip_extension": "",
+      "primary_city": "City_71590",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "71595",
+      "zip_extension": "",
+      "primary_city": "City_71595",
+      "acceptable_cities": "",
+      "county": "County_715",
+      "state": "Louisiana",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

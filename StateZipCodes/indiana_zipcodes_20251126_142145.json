@@ -1,0 +1,4007 @@
+{
+  "state": "Indiana",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 400,
+  "zipcodes": [
+    {
+      "zip_code": "46000",
+      "zip_extension": "",
+      "primary_city": "City_46000",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46005",
+      "zip_extension": "",
+      "primary_city": "City_46005",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46010",
+      "zip_extension": "",
+      "primary_city": "City_46010",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46015",
+      "zip_extension": "",
+      "primary_city": "City_46015",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46020",
+      "zip_extension": "",
+      "primary_city": "City_46020",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46025",
+      "zip_extension": "",
+      "primary_city": "City_46025",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46030",
+      "zip_extension": "",
+      "primary_city": "City_46030",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46035",
+      "zip_extension": "",
+      "primary_city": "City_46035",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46040",
+      "zip_extension": "",
+      "primary_city": "City_46040",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46045",
+      "zip_extension": "",
+      "primary_city": "City_46045",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46050",
+      "zip_extension": "",
+      "primary_city": "City_46050",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46055",
+      "zip_extension": "",
+      "primary_city": "City_46055",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46060",
+      "zip_extension": "",
+      "primary_city": "City_46060",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46065",
+      "zip_extension": "",
+      "primary_city": "City_46065",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46070",
+      "zip_extension": "",
+      "primary_city": "City_46070",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46075",
+      "zip_extension": "",
+      "primary_city": "City_46075",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46080",
+      "zip_extension": "",
+      "primary_city": "City_46080",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46085",
+      "zip_extension": "",
+      "primary_city": "City_46085",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46090",
+      "zip_extension": "",
+      "primary_city": "City_46090",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46095",
+      "zip_extension": "",
+      "primary_city": "City_46095",
+      "acceptable_cities": "",
+      "county": "County_460",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46100",
+      "zip_extension": "",
+      "primary_city": "City_46100",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46105",
+      "zip_extension": "",
+      "primary_city": "City_46105",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46110",
+      "zip_extension": "",
+      "primary_city": "City_46110",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46115",
+      "zip_extension": "",
+      "primary_city": "City_46115",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46120",
+      "zip_extension": "",
+      "primary_city": "City_46120",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46125",
+      "zip_extension": "",
+      "primary_city": "City_46125",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46130",
+      "zip_extension": "",
+      "primary_city": "City_46130",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46135",
+      "zip_extension": "",
+      "primary_city": "City_46135",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46140",
+      "zip_extension": "",
+      "primary_city": "City_46140",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46145",
+      "zip_extension": "",
+      "primary_city": "City_46145",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46150",
+      "zip_extension": "",
+      "primary_city": "City_46150",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46155",
+      "zip_extension": "",
+      "primary_city": "City_46155",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46160",
+      "zip_extension": "",
+      "primary_city": "City_46160",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46165",
+      "zip_extension": "",
+      "primary_city": "City_46165",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46170",
+      "zip_extension": "",
+      "primary_city": "City_46170",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46175",
+      "zip_extension": "",
+      "primary_city": "City_46175",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46180",
+      "zip_extension": "",
+      "primary_city": "City_46180",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46185",
+      "zip_extension": "",
+      "primary_city": "City_46185",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46190",
+      "zip_extension": "",
+      "primary_city": "City_46190",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46195",
+      "zip_extension": "",
+      "primary_city": "City_46195",
+      "acceptable_cities": "",
+      "county": "County_461",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46200",
+      "zip_extension": "",
+      "primary_city": "City_46200",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46205",
+      "zip_extension": "",
+      "primary_city": "City_46205",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46210",
+      "zip_extension": "",
+      "primary_city": "City_46210",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46215",
+      "zip_extension": "",
+      "primary_city": "City_46215",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46220",
+      "zip_extension": "",
+      "primary_city": "City_46220",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46225",
+      "zip_extension": "",
+      "primary_city": "City_46225",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46230",
+      "zip_extension": "",
+      "primary_city": "City_46230",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46235",
+      "zip_extension": "",
+      "primary_city": "City_46235",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46240",
+      "zip_extension": "",
+      "primary_city": "City_46240",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46245",
+      "zip_extension": "",
+      "primary_city": "City_46245",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46250",
+      "zip_extension": "",
+      "primary_city": "City_46250",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46255",
+      "zip_extension": "",
+      "primary_city": "City_46255",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46260",
+      "zip_extension": "",
+      "primary_city": "City_46260",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46265",
+      "zip_extension": "",
+      "primary_city": "City_46265",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46270",
+      "zip_extension": "",
+      "primary_city": "City_46270",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46275",
+      "zip_extension": "",
+      "primary_city": "City_46275",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46280",
+      "zip_extension": "",
+      "primary_city": "City_46280",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46285",
+      "zip_extension": "",
+      "primary_city": "City_46285",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46290",
+      "zip_extension": "",
+      "primary_city": "City_46290",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46295",
+      "zip_extension": "",
+      "primary_city": "City_46295",
+      "acceptable_cities": "",
+      "county": "County_462",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46300",
+      "zip_extension": "",
+      "primary_city": "City_46300",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46305",
+      "zip_extension": "",
+      "primary_city": "City_46305",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46310",
+      "zip_extension": "",
+      "primary_city": "City_46310",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46315",
+      "zip_extension": "",
+      "primary_city": "City_46315",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46320",
+      "zip_extension": "",
+      "primary_city": "City_46320",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46325",
+      "zip_extension": "",
+      "primary_city": "City_46325",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46330",
+      "zip_extension": "",
+      "primary_city": "City_46330",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46335",
+      "zip_extension": "",
+      "primary_city": "City_46335",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46340",
+      "zip_extension": "",
+      "primary_city": "City_46340",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46345",
+      "zip_extension": "",
+      "primary_city": "City_46345",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46350",
+      "zip_extension": "",
+      "primary_city": "City_46350",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46355",
+      "zip_extension": "",
+      "primary_city": "City_46355",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46360",
+      "zip_extension": "",
+      "primary_city": "City_46360",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46365",
+      "zip_extension": "",
+      "primary_city": "City_46365",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46370",
+      "zip_extension": "",
+      "primary_city": "City_46370",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46375",
+      "zip_extension": "",
+      "primary_city": "City_46375",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46380",
+      "zip_extension": "",
+      "primary_city": "City_46380",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46385",
+      "zip_extension": "",
+      "primary_city": "City_46385",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46390",
+      "zip_extension": "",
+      "primary_city": "City_46390",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46395",
+      "zip_extension": "",
+      "primary_city": "City_46395",
+      "acceptable_cities": "",
+      "county": "County_463",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46400",
+      "zip_extension": "",
+      "primary_city": "City_46400",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46405",
+      "zip_extension": "",
+      "primary_city": "City_46405",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46410",
+      "zip_extension": "",
+      "primary_city": "City_46410",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46415",
+      "zip_extension": "",
+      "primary_city": "City_46415",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46420",
+      "zip_extension": "",
+      "primary_city": "City_46420",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46425",
+      "zip_extension": "",
+      "primary_city": "City_46425",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46430",
+      "zip_extension": "",
+      "primary_city": "City_46430",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46435",
+      "zip_extension": "",
+      "primary_city": "City_46435",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46440",
+      "zip_extension": "",
+      "primary_city": "City_46440",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46445",
+      "zip_extension": "",
+      "primary_city": "City_46445",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46450",
+      "zip_extension": "",
+      "primary_city": "City_46450",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46455",
+      "zip_extension": "",
+      "primary_city": "City_46455",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46460",
+      "zip_extension": "",
+      "primary_city": "City_46460",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46465",
+      "zip_extension": "",
+      "primary_city": "City_46465",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46470",
+      "zip_extension": "",
+      "primary_city": "City_46470",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46475",
+      "zip_extension": "",
+      "primary_city": "City_46475",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46480",
+      "zip_extension": "",
+      "primary_city": "City_46480",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46485",
+      "zip_extension": "",
+      "primary_city": "City_46485",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46490",
+      "zip_extension": "",
+      "primary_city": "City_46490",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46495",
+      "zip_extension": "",
+      "primary_city": "City_46495",
+      "acceptable_cities": "",
+      "county": "County_464",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46500",
+      "zip_extension": "",
+      "primary_city": "City_46500",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46505",
+      "zip_extension": "",
+      "primary_city": "City_46505",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46510",
+      "zip_extension": "",
+      "primary_city": "City_46510",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46515",
+      "zip_extension": "",
+      "primary_city": "City_46515",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46520",
+      "zip_extension": "",
+      "primary_city": "City_46520",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46525",
+      "zip_extension": "",
+      "primary_city": "City_46525",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46530",
+      "zip_extension": "",
+      "primary_city": "City_46530",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46535",
+      "zip_extension": "",
+      "primary_city": "City_46535",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46540",
+      "zip_extension": "",
+      "primary_city": "City_46540",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46545",
+      "zip_extension": "",
+      "primary_city": "City_46545",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46550",
+      "zip_extension": "",
+      "primary_city": "City_46550",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46555",
+      "zip_extension": "",
+      "primary_city": "City_46555",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46560",
+      "zip_extension": "",
+      "primary_city": "City_46560",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46565",
+      "zip_extension": "",
+      "primary_city": "City_46565",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46570",
+      "zip_extension": "",
+      "primary_city": "City_46570",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46575",
+      "zip_extension": "",
+      "primary_city": "City_46575",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46580",
+      "zip_extension": "",
+      "primary_city": "City_46580",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46585",
+      "zip_extension": "",
+      "primary_city": "City_46585",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46590",
+      "zip_extension": "",
+      "primary_city": "City_46590",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46595",
+      "zip_extension": "",
+      "primary_city": "City_46595",
+      "acceptable_cities": "",
+      "county": "County_465",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46600",
+      "zip_extension": "",
+      "primary_city": "City_46600",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46605",
+      "zip_extension": "",
+      "primary_city": "City_46605",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46610",
+      "zip_extension": "",
+      "primary_city": "City_46610",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46615",
+      "zip_extension": "",
+      "primary_city": "City_46615",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46620",
+      "zip_extension": "",
+      "primary_city": "City_46620",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46625",
+      "zip_extension": "",
+      "primary_city": "City_46625",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46630",
+      "zip_extension": "",
+      "primary_city": "City_46630",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46635",
+      "zip_extension": "",
+      "primary_city": "City_46635",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46640",
+      "zip_extension": "",
+      "primary_city": "City_46640",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46645",
+      "zip_extension": "",
+      "primary_city": "City_46645",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46650",
+      "zip_extension": "",
+      "primary_city": "City_46650",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46655",
+      "zip_extension": "",
+      "primary_city": "City_46655",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46660",
+      "zip_extension": "",
+      "primary_city": "City_46660",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46665",
+      "zip_extension": "",
+      "primary_city": "City_46665",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46670",
+      "zip_extension": "",
+      "primary_city": "City_46670",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46675",
+      "zip_extension": "",
+      "primary_city": "City_46675",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46680",
+      "zip_extension": "",
+      "primary_city": "City_46680",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46685",
+      "zip_extension": "",
+      "primary_city": "City_46685",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46690",
+      "zip_extension": "",
+      "primary_city": "City_46690",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46695",
+      "zip_extension": "",
+      "primary_city": "City_46695",
+      "acceptable_cities": "",
+      "county": "County_466",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46700",
+      "zip_extension": "",
+      "primary_city": "City_46700",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46705",
+      "zip_extension": "",
+      "primary_city": "City_46705",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46710",
+      "zip_extension": "",
+      "primary_city": "City_46710",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46715",
+      "zip_extension": "",
+      "primary_city": "City_46715",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46720",
+      "zip_extension": "",
+      "primary_city": "City_46720",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46725",
+      "zip_extension": "",
+      "primary_city": "City_46725",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46730",
+      "zip_extension": "",
+      "primary_city": "City_46730",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46735",
+      "zip_extension": "",
+      "primary_city": "City_46735",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46740",
+      "zip_extension": "",
+      "primary_city": "City_46740",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46745",
+      "zip_extension": "",
+      "primary_city": "City_46745",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46750",
+      "zip_extension": "",
+      "primary_city": "City_46750",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46755",
+      "zip_extension": "",
+      "primary_city": "City_46755",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46760",
+      "zip_extension": "",
+      "primary_city": "City_46760",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46765",
+      "zip_extension": "",
+      "primary_city": "City_46765",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46770",
+      "zip_extension": "",
+      "primary_city": "City_46770",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46775",
+      "zip_extension": "",
+      "primary_city": "City_46775",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46780",
+      "zip_extension": "",
+      "primary_city": "City_46780",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46785",
+      "zip_extension": "",
+      "primary_city": "City_46785",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46790",
+      "zip_extension": "",
+      "primary_city": "City_46790",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46795",
+      "zip_extension": "",
+      "primary_city": "City_46795",
+      "acceptable_cities": "",
+      "county": "County_467",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46800",
+      "zip_extension": "",
+      "primary_city": "City_46800",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46805",
+      "zip_extension": "",
+      "primary_city": "City_46805",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46810",
+      "zip_extension": "",
+      "primary_city": "City_46810",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46815",
+      "zip_extension": "",
+      "primary_city": "City_46815",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46820",
+      "zip_extension": "",
+      "primary_city": "City_46820",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46825",
+      "zip_extension": "",
+      "primary_city": "City_46825",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46830",
+      "zip_extension": "",
+      "primary_city": "City_46830",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46835",
+      "zip_extension": "",
+      "primary_city": "City_46835",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46840",
+      "zip_extension": "",
+      "primary_city": "City_46840",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46845",
+      "zip_extension": "",
+      "primary_city": "City_46845",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46850",
+      "zip_extension": "",
+      "primary_city": "City_46850",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46855",
+      "zip_extension": "",
+      "primary_city": "City_46855",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46860",
+      "zip_extension": "",
+      "primary_city": "City_46860",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46865",
+      "zip_extension": "",
+      "primary_city": "City_46865",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46870",
+      "zip_extension": "",
+      "primary_city": "City_46870",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46875",
+      "zip_extension": "",
+      "primary_city": "City_46875",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46880",
+      "zip_extension": "",
+      "primary_city": "City_46880",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46885",
+      "zip_extension": "",
+      "primary_city": "City_46885",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46890",
+      "zip_extension": "",
+      "primary_city": "City_46890",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46895",
+      "zip_extension": "",
+      "primary_city": "City_46895",
+      "acceptable_cities": "",
+      "county": "County_468",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46900",
+      "zip_extension": "",
+      "primary_city": "City_46900",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46905",
+      "zip_extension": "",
+      "primary_city": "City_46905",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46910",
+      "zip_extension": "",
+      "primary_city": "City_46910",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46915",
+      "zip_extension": "",
+      "primary_city": "City_46915",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46920",
+      "zip_extension": "",
+      "primary_city": "City_46920",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46925",
+      "zip_extension": "",
+      "primary_city": "City_46925",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46930",
+      "zip_extension": "",
+      "primary_city": "City_46930",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46935",
+      "zip_extension": "",
+      "primary_city": "City_46935",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46940",
+      "zip_extension": "",
+      "primary_city": "City_46940",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46945",
+      "zip_extension": "",
+      "primary_city": "City_46945",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46950",
+      "zip_extension": "",
+      "primary_city": "City_46950",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46955",
+      "zip_extension": "",
+      "primary_city": "City_46955",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46960",
+      "zip_extension": "",
+      "primary_city": "City_46960",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46965",
+      "zip_extension": "",
+      "primary_city": "City_46965",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46970",
+      "zip_extension": "",
+      "primary_city": "City_46970",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46975",
+      "zip_extension": "",
+      "primary_city": "City_46975",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46980",
+      "zip_extension": "",
+      "primary_city": "City_46980",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46985",
+      "zip_extension": "",
+      "primary_city": "City_46985",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46990",
+      "zip_extension": "",
+      "primary_city": "City_46990",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "46995",
+      "zip_extension": "",
+      "primary_city": "City_46995",
+      "acceptable_cities": "",
+      "county": "County_469",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47000",
+      "zip_extension": "",
+      "primary_city": "City_47000",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47005",
+      "zip_extension": "",
+      "primary_city": "City_47005",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47010",
+      "zip_extension": "",
+      "primary_city": "City_47010",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47015",
+      "zip_extension": "",
+      "primary_city": "City_47015",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47020",
+      "zip_extension": "",
+      "primary_city": "City_47020",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47025",
+      "zip_extension": "",
+      "primary_city": "City_47025",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47030",
+      "zip_extension": "",
+      "primary_city": "City_47030",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47035",
+      "zip_extension": "",
+      "primary_city": "City_47035",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47040",
+      "zip_extension": "",
+      "primary_city": "City_47040",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47045",
+      "zip_extension": "",
+      "primary_city": "City_47045",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47050",
+      "zip_extension": "",
+      "primary_city": "City_47050",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47055",
+      "zip_extension": "",
+      "primary_city": "City_47055",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47060",
+      "zip_extension": "",
+      "primary_city": "City_47060",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47065",
+      "zip_extension": "",
+      "primary_city": "City_47065",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47070",
+      "zip_extension": "",
+      "primary_city": "City_47070",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47075",
+      "zip_extension": "",
+      "primary_city": "City_47075",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47080",
+      "zip_extension": "",
+      "primary_city": "City_47080",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47085",
+      "zip_extension": "",
+      "primary_city": "City_47085",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47090",
+      "zip_extension": "",
+      "primary_city": "City_47090",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47095",
+      "zip_extension": "",
+      "primary_city": "City_47095",
+      "acceptable_cities": "",
+      "county": "County_470",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47100",
+      "zip_extension": "",
+      "primary_city": "City_47100",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47105",
+      "zip_extension": "",
+      "primary_city": "City_47105",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47110",
+      "zip_extension": "",
+      "primary_city": "City_47110",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47115",
+      "zip_extension": "",
+      "primary_city": "City_47115",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47120",
+      "zip_extension": "",
+      "primary_city": "City_47120",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47125",
+      "zip_extension": "",
+      "primary_city": "City_47125",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47130",
+      "zip_extension": "",
+      "primary_city": "City_47130",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47135",
+      "zip_extension": "",
+      "primary_city": "City_47135",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47140",
+      "zip_extension": "",
+      "primary_city": "City_47140",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47145",
+      "zip_extension": "",
+      "primary_city": "City_47145",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47150",
+      "zip_extension": "",
+      "primary_city": "City_47150",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47155",
+      "zip_extension": "",
+      "primary_city": "City_47155",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47160",
+      "zip_extension": "",
+      "primary_city": "City_47160",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47165",
+      "zip_extension": "",
+      "primary_city": "City_47165",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47170",
+      "zip_extension": "",
+      "primary_city": "City_47170",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47175",
+      "zip_extension": "",
+      "primary_city": "City_47175",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47180",
+      "zip_extension": "",
+      "primary_city": "City_47180",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47185",
+      "zip_extension": "",
+      "primary_city": "City_47185",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47190",
+      "zip_extension": "",
+      "primary_city": "City_47190",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47195",
+      "zip_extension": "",
+      "primary_city": "City_47195",
+      "acceptable_cities": "",
+      "county": "County_471",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47200",
+      "zip_extension": "",
+      "primary_city": "City_47200",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47205",
+      "zip_extension": "",
+      "primary_city": "City_47205",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47210",
+      "zip_extension": "",
+      "primary_city": "City_47210",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47215",
+      "zip_extension": "",
+      "primary_city": "City_47215",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47220",
+      "zip_extension": "",
+      "primary_city": "City_47220",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47225",
+      "zip_extension": "",
+      "primary_city": "City_47225",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47230",
+      "zip_extension": "",
+      "primary_city": "City_47230",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47235",
+      "zip_extension": "",
+      "primary_city": "City_47235",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47240",
+      "zip_extension": "",
+      "primary_city": "City_47240",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47245",
+      "zip_extension": "",
+      "primary_city": "City_47245",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47250",
+      "zip_extension": "",
+      "primary_city": "City_47250",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47255",
+      "zip_extension": "",
+      "primary_city": "City_47255",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47260",
+      "zip_extension": "",
+      "primary_city": "City_47260",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47265",
+      "zip_extension": "",
+      "primary_city": "City_47265",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47270",
+      "zip_extension": "",
+      "primary_city": "City_47270",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47275",
+      "zip_extension": "",
+      "primary_city": "City_47275",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47280",
+      "zip_extension": "",
+      "primary_city": "City_47280",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47285",
+      "zip_extension": "",
+      "primary_city": "City_47285",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47290",
+      "zip_extension": "",
+      "primary_city": "City_47290",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47295",
+      "zip_extension": "",
+      "primary_city": "City_47295",
+      "acceptable_cities": "",
+      "county": "County_472",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47300",
+      "zip_extension": "",
+      "primary_city": "City_47300",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47305",
+      "zip_extension": "",
+      "primary_city": "City_47305",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47310",
+      "zip_extension": "",
+      "primary_city": "City_47310",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47315",
+      "zip_extension": "",
+      "primary_city": "City_47315",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47320",
+      "zip_extension": "",
+      "primary_city": "City_47320",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47325",
+      "zip_extension": "",
+      "primary_city": "City_47325",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47330",
+      "zip_extension": "",
+      "primary_city": "City_47330",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47335",
+      "zip_extension": "",
+      "primary_city": "City_47335",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47340",
+      "zip_extension": "",
+      "primary_city": "City_47340",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47345",
+      "zip_extension": "",
+      "primary_city": "City_47345",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47350",
+      "zip_extension": "",
+      "primary_city": "City_47350",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47355",
+      "zip_extension": "",
+      "primary_city": "City_47355",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47360",
+      "zip_extension": "",
+      "primary_city": "City_47360",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47365",
+      "zip_extension": "",
+      "primary_city": "City_47365",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47370",
+      "zip_extension": "",
+      "primary_city": "City_47370",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47375",
+      "zip_extension": "",
+      "primary_city": "City_47375",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47380",
+      "zip_extension": "",
+      "primary_city": "City_47380",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47385",
+      "zip_extension": "",
+      "primary_city": "City_47385",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47390",
+      "zip_extension": "",
+      "primary_city": "City_47390",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47395",
+      "zip_extension": "",
+      "primary_city": "City_47395",
+      "acceptable_cities": "",
+      "county": "County_473",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47400",
+      "zip_extension": "",
+      "primary_city": "City_47400",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47405",
+      "zip_extension": "",
+      "primary_city": "City_47405",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47410",
+      "zip_extension": "",
+      "primary_city": "City_47410",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47415",
+      "zip_extension": "",
+      "primary_city": "City_47415",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47420",
+      "zip_extension": "",
+      "primary_city": "City_47420",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47425",
+      "zip_extension": "",
+      "primary_city": "City_47425",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47430",
+      "zip_extension": "",
+      "primary_city": "City_47430",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47435",
+      "zip_extension": "",
+      "primary_city": "City_47435",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47440",
+      "zip_extension": "",
+      "primary_city": "City_47440",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47445",
+      "zip_extension": "",
+      "primary_city": "City_47445",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47450",
+      "zip_extension": "",
+      "primary_city": "City_47450",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47455",
+      "zip_extension": "",
+      "primary_city": "City_47455",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47460",
+      "zip_extension": "",
+      "primary_city": "City_47460",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47465",
+      "zip_extension": "",
+      "primary_city": "City_47465",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47470",
+      "zip_extension": "",
+      "primary_city": "City_47470",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47475",
+      "zip_extension": "",
+      "primary_city": "City_47475",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47480",
+      "zip_extension": "",
+      "primary_city": "City_47480",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47485",
+      "zip_extension": "",
+      "primary_city": "City_47485",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47490",
+      "zip_extension": "",
+      "primary_city": "City_47490",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47495",
+      "zip_extension": "",
+      "primary_city": "City_47495",
+      "acceptable_cities": "",
+      "county": "County_474",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47500",
+      "zip_extension": "",
+      "primary_city": "City_47500",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47505",
+      "zip_extension": "",
+      "primary_city": "City_47505",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47510",
+      "zip_extension": "",
+      "primary_city": "City_47510",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47515",
+      "zip_extension": "",
+      "primary_city": "City_47515",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47520",
+      "zip_extension": "",
+      "primary_city": "City_47520",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47525",
+      "zip_extension": "",
+      "primary_city": "City_47525",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47530",
+      "zip_extension": "",
+      "primary_city": "City_47530",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47535",
+      "zip_extension": "",
+      "primary_city": "City_47535",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47540",
+      "zip_extension": "",
+      "primary_city": "City_47540",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47545",
+      "zip_extension": "",
+      "primary_city": "City_47545",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47550",
+      "zip_extension": "",
+      "primary_city": "City_47550",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47555",
+      "zip_extension": "",
+      "primary_city": "City_47555",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47560",
+      "zip_extension": "",
+      "primary_city": "City_47560",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47565",
+      "zip_extension": "",
+      "primary_city": "City_47565",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47570",
+      "zip_extension": "",
+      "primary_city": "City_47570",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47575",
+      "zip_extension": "",
+      "primary_city": "City_47575",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47580",
+      "zip_extension": "",
+      "primary_city": "City_47580",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47585",
+      "zip_extension": "",
+      "primary_city": "City_47585",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47590",
+      "zip_extension": "",
+      "primary_city": "City_47590",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47595",
+      "zip_extension": "",
+      "primary_city": "City_47595",
+      "acceptable_cities": "",
+      "county": "County_475",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47600",
+      "zip_extension": "",
+      "primary_city": "City_47600",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47605",
+      "zip_extension": "",
+      "primary_city": "City_47605",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47610",
+      "zip_extension": "",
+      "primary_city": "City_47610",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47615",
+      "zip_extension": "",
+      "primary_city": "City_47615",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47620",
+      "zip_extension": "",
+      "primary_city": "City_47620",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47625",
+      "zip_extension": "",
+      "primary_city": "City_47625",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47630",
+      "zip_extension": "",
+      "primary_city": "City_47630",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47635",
+      "zip_extension": "",
+      "primary_city": "City_47635",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47640",
+      "zip_extension": "",
+      "primary_city": "City_47640",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47645",
+      "zip_extension": "",
+      "primary_city": "City_47645",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47650",
+      "zip_extension": "",
+      "primary_city": "City_47650",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47655",
+      "zip_extension": "",
+      "primary_city": "City_47655",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47660",
+      "zip_extension": "",
+      "primary_city": "City_47660",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47665",
+      "zip_extension": "",
+      "primary_city": "City_47665",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47670",
+      "zip_extension": "",
+      "primary_city": "City_47670",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47675",
+      "zip_extension": "",
+      "primary_city": "City_47675",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47680",
+      "zip_extension": "",
+      "primary_city": "City_47680",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47685",
+      "zip_extension": "",
+      "primary_city": "City_47685",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47690",
+      "zip_extension": "",
+      "primary_city": "City_47690",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47695",
+      "zip_extension": "",
+      "primary_city": "City_47695",
+      "acceptable_cities": "",
+      "county": "County_476",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47700",
+      "zip_extension": "",
+      "primary_city": "City_47700",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47705",
+      "zip_extension": "",
+      "primary_city": "City_47705",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47710",
+      "zip_extension": "",
+      "primary_city": "City_47710",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47715",
+      "zip_extension": "",
+      "primary_city": "City_47715",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47720",
+      "zip_extension": "",
+      "primary_city": "City_47720",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47725",
+      "zip_extension": "",
+      "primary_city": "City_47725",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47730",
+      "zip_extension": "",
+      "primary_city": "City_47730",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47735",
+      "zip_extension": "",
+      "primary_city": "City_47735",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47740",
+      "zip_extension": "",
+      "primary_city": "City_47740",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47745",
+      "zip_extension": "",
+      "primary_city": "City_47745",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47750",
+      "zip_extension": "",
+      "primary_city": "City_47750",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47755",
+      "zip_extension": "",
+      "primary_city": "City_47755",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47760",
+      "zip_extension": "",
+      "primary_city": "City_47760",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47765",
+      "zip_extension": "",
+      "primary_city": "City_47765",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47770",
+      "zip_extension": "",
+      "primary_city": "City_47770",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47775",
+      "zip_extension": "",
+      "primary_city": "City_47775",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47780",
+      "zip_extension": "",
+      "primary_city": "City_47780",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47785",
+      "zip_extension": "",
+      "primary_city": "City_47785",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47790",
+      "zip_extension": "",
+      "primary_city": "City_47790",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47795",
+      "zip_extension": "",
+      "primary_city": "City_47795",
+      "acceptable_cities": "",
+      "county": "County_477",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47800",
+      "zip_extension": "",
+      "primary_city": "City_47800",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47805",
+      "zip_extension": "",
+      "primary_city": "City_47805",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47810",
+      "zip_extension": "",
+      "primary_city": "City_47810",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47815",
+      "zip_extension": "",
+      "primary_city": "City_47815",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47820",
+      "zip_extension": "",
+      "primary_city": "City_47820",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47825",
+      "zip_extension": "",
+      "primary_city": "City_47825",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47830",
+      "zip_extension": "",
+      "primary_city": "City_47830",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47835",
+      "zip_extension": "",
+      "primary_city": "City_47835",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47840",
+      "zip_extension": "",
+      "primary_city": "City_47840",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47845",
+      "zip_extension": "",
+      "primary_city": "City_47845",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47850",
+      "zip_extension": "",
+      "primary_city": "City_47850",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47855",
+      "zip_extension": "",
+      "primary_city": "City_47855",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47860",
+      "zip_extension": "",
+      "primary_city": "City_47860",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47865",
+      "zip_extension": "",
+      "primary_city": "City_47865",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47870",
+      "zip_extension": "",
+      "primary_city": "City_47870",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47875",
+      "zip_extension": "",
+      "primary_city": "City_47875",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47880",
+      "zip_extension": "",
+      "primary_city": "City_47880",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47885",
+      "zip_extension": "",
+      "primary_city": "City_47885",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47890",
+      "zip_extension": "",
+      "primary_city": "City_47890",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47895",
+      "zip_extension": "",
+      "primary_city": "City_47895",
+      "acceptable_cities": "",
+      "county": "County_478",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47900",
+      "zip_extension": "",
+      "primary_city": "City_47900",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47905",
+      "zip_extension": "",
+      "primary_city": "City_47905",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47910",
+      "zip_extension": "",
+      "primary_city": "City_47910",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47915",
+      "zip_extension": "",
+      "primary_city": "City_47915",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47920",
+      "zip_extension": "",
+      "primary_city": "City_47920",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47925",
+      "zip_extension": "",
+      "primary_city": "City_47925",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47930",
+      "zip_extension": "",
+      "primary_city": "City_47930",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47935",
+      "zip_extension": "",
+      "primary_city": "City_47935",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47940",
+      "zip_extension": "",
+      "primary_city": "City_47940",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47945",
+      "zip_extension": "",
+      "primary_city": "City_47945",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47950",
+      "zip_extension": "",
+      "primary_city": "City_47950",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47955",
+      "zip_extension": "",
+      "primary_city": "City_47955",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47960",
+      "zip_extension": "",
+      "primary_city": "City_47960",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47965",
+      "zip_extension": "",
+      "primary_city": "City_47965",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47970",
+      "zip_extension": "",
+      "primary_city": "City_47970",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47975",
+      "zip_extension": "",
+      "primary_city": "City_47975",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47980",
+      "zip_extension": "",
+      "primary_city": "City_47980",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47985",
+      "zip_extension": "",
+      "primary_city": "City_47985",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47990",
+      "zip_extension": "",
+      "primary_city": "City_47990",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "47995",
+      "zip_extension": "",
+      "primary_city": "City_47995",
+      "acceptable_cities": "",
+      "county": "County_479",
+      "state": "Indiana",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

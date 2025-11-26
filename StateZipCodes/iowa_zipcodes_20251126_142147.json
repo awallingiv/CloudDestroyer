@@ -1,0 +1,5807 @@
+{
+  "state": "Iowa",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 580,
+  "zipcodes": [
+    {
+      "zip_code": "50000",
+      "zip_extension": "",
+      "primary_city": "City_50000",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50005",
+      "zip_extension": "",
+      "primary_city": "City_50005",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50010",
+      "zip_extension": "",
+      "primary_city": "City_50010",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50015",
+      "zip_extension": "",
+      "primary_city": "City_50015",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50020",
+      "zip_extension": "",
+      "primary_city": "City_50020",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50025",
+      "zip_extension": "",
+      "primary_city": "City_50025",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50030",
+      "zip_extension": "",
+      "primary_city": "City_50030",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50035",
+      "zip_extension": "",
+      "primary_city": "City_50035",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50040",
+      "zip_extension": "",
+      "primary_city": "City_50040",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50045",
+      "zip_extension": "",
+      "primary_city": "City_50045",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50050",
+      "zip_extension": "",
+      "primary_city": "City_50050",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50055",
+      "zip_extension": "",
+      "primary_city": "City_50055",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50060",
+      "zip_extension": "",
+      "primary_city": "City_50060",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50065",
+      "zip_extension": "",
+      "primary_city": "City_50065",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50070",
+      "zip_extension": "",
+      "primary_city": "City_50070",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50075",
+      "zip_extension": "",
+      "primary_city": "City_50075",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50080",
+      "zip_extension": "",
+      "primary_city": "City_50080",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50085",
+      "zip_extension": "",
+      "primary_city": "City_50085",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50090",
+      "zip_extension": "",
+      "primary_city": "City_50090",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50095",
+      "zip_extension": "",
+      "primary_city": "City_50095",
+      "acceptable_cities": "",
+      "county": "County_500",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50100",
+      "zip_extension": "",
+      "primary_city": "City_50100",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50105",
+      "zip_extension": "",
+      "primary_city": "City_50105",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50110",
+      "zip_extension": "",
+      "primary_city": "City_50110",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50115",
+      "zip_extension": "",
+      "primary_city": "City_50115",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50120",
+      "zip_extension": "",
+      "primary_city": "City_50120",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50125",
+      "zip_extension": "",
+      "primary_city": "City_50125",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50130",
+      "zip_extension": "",
+      "primary_city": "City_50130",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50135",
+      "zip_extension": "",
+      "primary_city": "City_50135",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50140",
+      "zip_extension": "",
+      "primary_city": "City_50140",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50145",
+      "zip_extension": "",
+      "primary_city": "City_50145",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50150",
+      "zip_extension": "",
+      "primary_city": "City_50150",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50155",
+      "zip_extension": "",
+      "primary_city": "City_50155",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50160",
+      "zip_extension": "",
+      "primary_city": "City_50160",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50165",
+      "zip_extension": "",
+      "primary_city": "City_50165",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50170",
+      "zip_extension": "",
+      "primary_city": "City_50170",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50175",
+      "zip_extension": "",
+      "primary_city": "City_50175",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50180",
+      "zip_extension": "",
+      "primary_city": "City_50180",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50185",
+      "zip_extension": "",
+      "primary_city": "City_50185",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50190",
+      "zip_extension": "",
+      "primary_city": "City_50190",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50195",
+      "zip_extension": "",
+      "primary_city": "City_50195",
+      "acceptable_cities": "",
+      "county": "County_501",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50200",
+      "zip_extension": "",
+      "primary_city": "City_50200",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50205",
+      "zip_extension": "",
+      "primary_city": "City_50205",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50210",
+      "zip_extension": "",
+      "primary_city": "City_50210",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50215",
+      "zip_extension": "",
+      "primary_city": "City_50215",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50220",
+      "zip_extension": "",
+      "primary_city": "City_50220",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50225",
+      "zip_extension": "",
+      "primary_city": "City_50225",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50230",
+      "zip_extension": "",
+      "primary_city": "City_50230",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50235",
+      "zip_extension": "",
+      "primary_city": "City_50235",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50240",
+      "zip_extension": "",
+      "primary_city": "City_50240",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50245",
+      "zip_extension": "",
+      "primary_city": "City_50245",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50250",
+      "zip_extension": "",
+      "primary_city": "City_50250",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50255",
+      "zip_extension": "",
+      "primary_city": "City_50255",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50260",
+      "zip_extension": "",
+      "primary_city": "City_50260",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50265",
+      "zip_extension": "",
+      "primary_city": "City_50265",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50270",
+      "zip_extension": "",
+      "primary_city": "City_50270",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50275",
+      "zip_extension": "",
+      "primary_city": "City_50275",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50280",
+      "zip_extension": "",
+      "primary_city": "City_50280",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50285",
+      "zip_extension": "",
+      "primary_city": "City_50285",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50290",
+      "zip_extension": "",
+      "primary_city": "City_50290",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50295",
+      "zip_extension": "",
+      "primary_city": "City_50295",
+      "acceptable_cities": "",
+      "county": "County_502",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50300",
+      "zip_extension": "",
+      "primary_city": "City_50300",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50305",
+      "zip_extension": "",
+      "primary_city": "City_50305",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50310",
+      "zip_extension": "",
+      "primary_city": "City_50310",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50315",
+      "zip_extension": "",
+      "primary_city": "City_50315",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50320",
+      "zip_extension": "",
+      "primary_city": "City_50320",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50325",
+      "zip_extension": "",
+      "primary_city": "City_50325",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50330",
+      "zip_extension": "",
+      "primary_city": "City_50330",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50335",
+      "zip_extension": "",
+      "primary_city": "City_50335",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50340",
+      "zip_extension": "",
+      "primary_city": "City_50340",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50345",
+      "zip_extension": "",
+      "primary_city": "City_50345",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50350",
+      "zip_extension": "",
+      "primary_city": "City_50350",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50355",
+      "zip_extension": "",
+      "primary_city": "City_50355",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50360",
+      "zip_extension": "",
+      "primary_city": "City_50360",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50365",
+      "zip_extension": "",
+      "primary_city": "City_50365",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50370",
+      "zip_extension": "",
+      "primary_city": "City_50370",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50375",
+      "zip_extension": "",
+      "primary_city": "City_50375",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50380",
+      "zip_extension": "",
+      "primary_city": "City_50380",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50385",
+      "zip_extension": "",
+      "primary_city": "City_50385",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50390",
+      "zip_extension": "",
+      "primary_city": "City_50390",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50395",
+      "zip_extension": "",
+      "primary_city": "City_50395",
+      "acceptable_cities": "",
+      "county": "County_503",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50400",
+      "zip_extension": "",
+      "primary_city": "City_50400",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50405",
+      "zip_extension": "",
+      "primary_city": "City_50405",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50410",
+      "zip_extension": "",
+      "primary_city": "City_50410",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50415",
+      "zip_extension": "",
+      "primary_city": "City_50415",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50420",
+      "zip_extension": "",
+      "primary_city": "City_50420",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50425",
+      "zip_extension": "",
+      "primary_city": "City_50425",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50430",
+      "zip_extension": "",
+      "primary_city": "City_50430",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50435",
+      "zip_extension": "",
+      "primary_city": "City_50435",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50440",
+      "zip_extension": "",
+      "primary_city": "City_50440",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50445",
+      "zip_extension": "",
+      "primary_city": "City_50445",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50450",
+      "zip_extension": "",
+      "primary_city": "City_50450",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50455",
+      "zip_extension": "",
+      "primary_city": "City_50455",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50460",
+      "zip_extension": "",
+      "primary_city": "City_50460",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50465",
+      "zip_extension": "",
+      "primary_city": "City_50465",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50470",
+      "zip_extension": "",
+      "primary_city": "City_50470",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50475",
+      "zip_extension": "",
+      "primary_city": "City_50475",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50480",
+      "zip_extension": "",
+      "primary_city": "City_50480",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50485",
+      "zip_extension": "",
+      "primary_city": "City_50485",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50490",
+      "zip_extension": "",
+      "primary_city": "City_50490",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50495",
+      "zip_extension": "",
+      "primary_city": "City_50495",
+      "acceptable_cities": "",
+      "county": "County_504",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50500",
+      "zip_extension": "",
+      "primary_city": "City_50500",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50505",
+      "zip_extension": "",
+      "primary_city": "City_50505",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50510",
+      "zip_extension": "",
+      "primary_city": "City_50510",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50515",
+      "zip_extension": "",
+      "primary_city": "City_50515",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50520",
+      "zip_extension": "",
+      "primary_city": "City_50520",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50525",
+      "zip_extension": "",
+      "primary_city": "City_50525",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50530",
+      "zip_extension": "",
+      "primary_city": "City_50530",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50535",
+      "zip_extension": "",
+      "primary_city": "City_50535",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50540",
+      "zip_extension": "",
+      "primary_city": "City_50540",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50545",
+      "zip_extension": "",
+      "primary_city": "City_50545",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50550",
+      "zip_extension": "",
+      "primary_city": "City_50550",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50555",
+      "zip_extension": "",
+      "primary_city": "City_50555",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50560",
+      "zip_extension": "",
+      "primary_city": "City_50560",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50565",
+      "zip_extension": "",
+      "primary_city": "City_50565",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50570",
+      "zip_extension": "",
+      "primary_city": "City_50570",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50575",
+      "zip_extension": "",
+      "primary_city": "City_50575",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50580",
+      "zip_extension": "",
+      "primary_city": "City_50580",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50585",
+      "zip_extension": "",
+      "primary_city": "City_50585",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50590",
+      "zip_extension": "",
+      "primary_city": "City_50590",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50595",
+      "zip_extension": "",
+      "primary_city": "City_50595",
+      "acceptable_cities": "",
+      "county": "County_505",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50600",
+      "zip_extension": "",
+      "primary_city": "City_50600",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50605",
+      "zip_extension": "",
+      "primary_city": "City_50605",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50610",
+      "zip_extension": "",
+      "primary_city": "City_50610",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50615",
+      "zip_extension": "",
+      "primary_city": "City_50615",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50620",
+      "zip_extension": "",
+      "primary_city": "City_50620",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50625",
+      "zip_extension": "",
+      "primary_city": "City_50625",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50630",
+      "zip_extension": "",
+      "primary_city": "City_50630",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50635",
+      "zip_extension": "",
+      "primary_city": "City_50635",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50640",
+      "zip_extension": "",
+      "primary_city": "City_50640",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50645",
+      "zip_extension": "",
+      "primary_city": "City_50645",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50650",
+      "zip_extension": "",
+      "primary_city": "City_50650",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50655",
+      "zip_extension": "",
+      "primary_city": "City_50655",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50660",
+      "zip_extension": "",
+      "primary_city": "City_50660",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50665",
+      "zip_extension": "",
+      "primary_city": "City_50665",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50670",
+      "zip_extension": "",
+      "primary_city": "City_50670",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50675",
+      "zip_extension": "",
+      "primary_city": "City_50675",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50680",
+      "zip_extension": "",
+      "primary_city": "City_50680",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50685",
+      "zip_extension": "",
+      "primary_city": "City_50685",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50690",
+      "zip_extension": "",
+      "primary_city": "City_50690",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50695",
+      "zip_extension": "",
+      "primary_city": "City_50695",
+      "acceptable_cities": "",
+      "county": "County_506",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50700",
+      "zip_extension": "",
+      "primary_city": "City_50700",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50705",
+      "zip_extension": "",
+      "primary_city": "City_50705",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50710",
+      "zip_extension": "",
+      "primary_city": "City_50710",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50715",
+      "zip_extension": "",
+      "primary_city": "City_50715",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50720",
+      "zip_extension": "",
+      "primary_city": "City_50720",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50725",
+      "zip_extension": "",
+      "primary_city": "City_50725",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50730",
+      "zip_extension": "",
+      "primary_city": "City_50730",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50735",
+      "zip_extension": "",
+      "primary_city": "City_50735",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50740",
+      "zip_extension": "",
+      "primary_city": "City_50740",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50745",
+      "zip_extension": "",
+      "primary_city": "City_50745",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50750",
+      "zip_extension": "",
+      "primary_city": "City_50750",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50755",
+      "zip_extension": "",
+      "primary_city": "City_50755",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50760",
+      "zip_extension": "",
+      "primary_city": "City_50760",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50765",
+      "zip_extension": "",
+      "primary_city": "City_50765",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50770",
+      "zip_extension": "",
+      "primary_city": "City_50770",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50775",
+      "zip_extension": "",
+      "primary_city": "City_50775",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50780",
+      "zip_extension": "",
+      "primary_city": "City_50780",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50785",
+      "zip_extension": "",
+      "primary_city": "City_50785",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50790",
+      "zip_extension": "",
+      "primary_city": "City_50790",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50795",
+      "zip_extension": "",
+      "primary_city": "City_50795",
+      "acceptable_cities": "",
+      "county": "County_507",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50800",
+      "zip_extension": "",
+      "primary_city": "City_50800",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50805",
+      "zip_extension": "",
+      "primary_city": "City_50805",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50810",
+      "zip_extension": "",
+      "primary_city": "City_50810",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50815",
+      "zip_extension": "",
+      "primary_city": "City_50815",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50820",
+      "zip_extension": "",
+      "primary_city": "City_50820",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50825",
+      "zip_extension": "",
+      "primary_city": "City_50825",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50830",
+      "zip_extension": "",
+      "primary_city": "City_50830",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50835",
+      "zip_extension": "",
+      "primary_city": "City_50835",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50840",
+      "zip_extension": "",
+      "primary_city": "City_50840",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50845",
+      "zip_extension": "",
+      "primary_city": "City_50845",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50850",
+      "zip_extension": "",
+      "primary_city": "City_50850",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50855",
+      "zip_extension": "",
+      "primary_city": "City_50855",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50860",
+      "zip_extension": "",
+      "primary_city": "City_50860",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50865",
+      "zip_extension": "",
+      "primary_city": "City_50865",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50870",
+      "zip_extension": "",
+      "primary_city": "City_50870",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50875",
+      "zip_extension": "",
+      "primary_city": "City_50875",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50880",
+      "zip_extension": "",
+      "primary_city": "City_50880",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50885",
+      "zip_extension": "",
+      "primary_city": "City_50885",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50890",
+      "zip_extension": "",
+      "primary_city": "City_50890",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50895",
+      "zip_extension": "",
+      "primary_city": "City_50895",
+      "acceptable_cities": "",
+      "county": "County_508",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50900",
+      "zip_extension": "",
+      "primary_city": "City_50900",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50905",
+      "zip_extension": "",
+      "primary_city": "City_50905",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50910",
+      "zip_extension": "",
+      "primary_city": "City_50910",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50915",
+      "zip_extension": "",
+      "primary_city": "City_50915",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50920",
+      "zip_extension": "",
+      "primary_city": "City_50920",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50925",
+      "zip_extension": "",
+      "primary_city": "City_50925",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50930",
+      "zip_extension": "",
+      "primary_city": "City_50930",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50935",
+      "zip_extension": "",
+      "primary_city": "City_50935",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50940",
+      "zip_extension": "",
+      "primary_city": "City_50940",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50945",
+      "zip_extension": "",
+      "primary_city": "City_50945",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50950",
+      "zip_extension": "",
+      "primary_city": "City_50950",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50955",
+      "zip_extension": "",
+      "primary_city": "City_50955",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50960",
+      "zip_extension": "",
+      "primary_city": "City_50960",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50965",
+      "zip_extension": "",
+      "primary_city": "City_50965",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50970",
+      "zip_extension": "",
+      "primary_city": "City_50970",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50975",
+      "zip_extension": "",
+      "primary_city": "City_50975",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50980",
+      "zip_extension": "",
+      "primary_city": "City_50980",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50985",
+      "zip_extension": "",
+      "primary_city": "City_50985",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50990",
+      "zip_extension": "",
+      "primary_city": "City_50990",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "50995",
+      "zip_extension": "",
+      "primary_city": "City_50995",
+      "acceptable_cities": "",
+      "county": "County_509",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51000",
+      "zip_extension": "",
+      "primary_city": "City_51000",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51005",
+      "zip_extension": "",
+      "primary_city": "City_51005",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51010",
+      "zip_extension": "",
+      "primary_city": "City_51010",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51015",
+      "zip_extension": "",
+      "primary_city": "City_51015",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51020",
+      "zip_extension": "",
+      "primary_city": "City_51020",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51025",
+      "zip_extension": "",
+      "primary_city": "City_51025",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51030",
+      "zip_extension": "",
+      "primary_city": "City_51030",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51035",
+      "zip_extension": "",
+      "primary_city": "City_51035",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51040",
+      "zip_extension": "",
+      "primary_city": "City_51040",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51045",
+      "zip_extension": "",
+      "primary_city": "City_51045",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51050",
+      "zip_extension": "",
+      "primary_city": "City_51050",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51055",
+      "zip_extension": "",
+      "primary_city": "City_51055",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51060",
+      "zip_extension": "",
+      "primary_city": "City_51060",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51065",
+      "zip_extension": "",
+      "primary_city": "City_51065",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51070",
+      "zip_extension": "",
+      "primary_city": "City_51070",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51075",
+      "zip_extension": "",
+      "primary_city": "City_51075",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51080",
+      "zip_extension": "",
+      "primary_city": "City_51080",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51085",
+      "zip_extension": "",
+      "primary_city": "City_51085",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51090",
+      "zip_extension": "",
+      "primary_city": "City_51090",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51095",
+      "zip_extension": "",
+      "primary_city": "City_51095",
+      "acceptable_cities": "",
+      "county": "County_510",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51100",
+      "zip_extension": "",
+      "primary_city": "City_51100",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51105",
+      "zip_extension": "",
+      "primary_city": "City_51105",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51110",
+      "zip_extension": "",
+      "primary_city": "City_51110",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51115",
+      "zip_extension": "",
+      "primary_city": "City_51115",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51120",
+      "zip_extension": "",
+      "primary_city": "City_51120",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51125",
+      "zip_extension": "",
+      "primary_city": "City_51125",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51130",
+      "zip_extension": "",
+      "primary_city": "City_51130",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51135",
+      "zip_extension": "",
+      "primary_city": "City_51135",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51140",
+      "zip_extension": "",
+      "primary_city": "City_51140",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51145",
+      "zip_extension": "",
+      "primary_city": "City_51145",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51150",
+      "zip_extension": "",
+      "primary_city": "City_51150",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51155",
+      "zip_extension": "",
+      "primary_city": "City_51155",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51160",
+      "zip_extension": "",
+      "primary_city": "City_51160",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51165",
+      "zip_extension": "",
+      "primary_city": "City_51165",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51170",
+      "zip_extension": "",
+      "primary_city": "City_51170",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51175",
+      "zip_extension": "",
+      "primary_city": "City_51175",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51180",
+      "zip_extension": "",
+      "primary_city": "City_51180",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51185",
+      "zip_extension": "",
+      "primary_city": "City_51185",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51190",
+      "zip_extension": "",
+      "primary_city": "City_51190",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51195",
+      "zip_extension": "",
+      "primary_city": "City_51195",
+      "acceptable_cities": "",
+      "county": "County_511",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51200",
+      "zip_extension": "",
+      "primary_city": "City_51200",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51205",
+      "zip_extension": "",
+      "primary_city": "City_51205",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51210",
+      "zip_extension": "",
+      "primary_city": "City_51210",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51215",
+      "zip_extension": "",
+      "primary_city": "City_51215",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51220",
+      "zip_extension": "",
+      "primary_city": "City_51220",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51225",
+      "zip_extension": "",
+      "primary_city": "City_51225",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51230",
+      "zip_extension": "",
+      "primary_city": "City_51230",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51235",
+      "zip_extension": "",
+      "primary_city": "City_51235",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51240",
+      "zip_extension": "",
+      "primary_city": "City_51240",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51245",
+      "zip_extension": "",
+      "primary_city": "City_51245",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51250",
+      "zip_extension": "",
+      "primary_city": "City_51250",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51255",
+      "zip_extension": "",
+      "primary_city": "City_51255",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51260",
+      "zip_extension": "",
+      "primary_city": "City_51260",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51265",
+      "zip_extension": "",
+      "primary_city": "City_51265",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51270",
+      "zip_extension": "",
+      "primary_city": "City_51270",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51275",
+      "zip_extension": "",
+      "primary_city": "City_51275",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51280",
+      "zip_extension": "",
+      "primary_city": "City_51280",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51285",
+      "zip_extension": "",
+      "primary_city": "City_51285",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51290",
+      "zip_extension": "",
+      "primary_city": "City_51290",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51295",
+      "zip_extension": "",
+      "primary_city": "City_51295",
+      "acceptable_cities": "",
+      "county": "County_512",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51300",
+      "zip_extension": "",
+      "primary_city": "City_51300",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51305",
+      "zip_extension": "",
+      "primary_city": "City_51305",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51310",
+      "zip_extension": "",
+      "primary_city": "City_51310",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51315",
+      "zip_extension": "",
+      "primary_city": "City_51315",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51320",
+      "zip_extension": "",
+      "primary_city": "City_51320",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51325",
+      "zip_extension": "",
+      "primary_city": "City_51325",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51330",
+      "zip_extension": "",
+      "primary_city": "City_51330",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51335",
+      "zip_extension": "",
+      "primary_city": "City_51335",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51340",
+      "zip_extension": "",
+      "primary_city": "City_51340",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51345",
+      "zip_extension": "",
+      "primary_city": "City_51345",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51350",
+      "zip_extension": "",
+      "primary_city": "City_51350",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51355",
+      "zip_extension": "",
+      "primary_city": "City_51355",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51360",
+      "zip_extension": "",
+      "primary_city": "City_51360",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51365",
+      "zip_extension": "",
+      "primary_city": "City_51365",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51370",
+      "zip_extension": "",
+      "primary_city": "City_51370",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51375",
+      "zip_extension": "",
+      "primary_city": "City_51375",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51380",
+      "zip_extension": "",
+      "primary_city": "City_51380",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51385",
+      "zip_extension": "",
+      "primary_city": "City_51385",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51390",
+      "zip_extension": "",
+      "primary_city": "City_51390",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51395",
+      "zip_extension": "",
+      "primary_city": "City_51395",
+      "acceptable_cities": "",
+      "county": "County_513",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51400",
+      "zip_extension": "",
+      "primary_city": "City_51400",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51405",
+      "zip_extension": "",
+      "primary_city": "City_51405",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51410",
+      "zip_extension": "",
+      "primary_city": "City_51410",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51415",
+      "zip_extension": "",
+      "primary_city": "City_51415",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51420",
+      "zip_extension": "",
+      "primary_city": "City_51420",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51425",
+      "zip_extension": "",
+      "primary_city": "City_51425",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51430",
+      "zip_extension": "",
+      "primary_city": "City_51430",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51435",
+      "zip_extension": "",
+      "primary_city": "City_51435",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51440",
+      "zip_extension": "",
+      "primary_city": "City_51440",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51445",
+      "zip_extension": "",
+      "primary_city": "City_51445",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51450",
+      "zip_extension": "",
+      "primary_city": "City_51450",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51455",
+      "zip_extension": "",
+      "primary_city": "City_51455",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51460",
+      "zip_extension": "",
+      "primary_city": "City_51460",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51465",
+      "zip_extension": "",
+      "primary_city": "City_51465",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51470",
+      "zip_extension": "",
+      "primary_city": "City_51470",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51475",
+      "zip_extension": "",
+      "primary_city": "City_51475",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51480",
+      "zip_extension": "",
+      "primary_city": "City_51480",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51485",
+      "zip_extension": "",
+      "primary_city": "City_51485",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51490",
+      "zip_extension": "",
+      "primary_city": "City_51490",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51495",
+      "zip_extension": "",
+      "primary_city": "City_51495",
+      "acceptable_cities": "",
+      "county": "County_514",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51500",
+      "zip_extension": "",
+      "primary_city": "City_51500",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51505",
+      "zip_extension": "",
+      "primary_city": "City_51505",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51510",
+      "zip_extension": "",
+      "primary_city": "City_51510",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51515",
+      "zip_extension": "",
+      "primary_city": "City_51515",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51520",
+      "zip_extension": "",
+      "primary_city": "City_51520",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51525",
+      "zip_extension": "",
+      "primary_city": "City_51525",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51530",
+      "zip_extension": "",
+      "primary_city": "City_51530",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51535",
+      "zip_extension": "",
+      "primary_city": "City_51535",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51540",
+      "zip_extension": "",
+      "primary_city": "City_51540",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51545",
+      "zip_extension": "",
+      "primary_city": "City_51545",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51550",
+      "zip_extension": "",
+      "primary_city": "City_51550",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51555",
+      "zip_extension": "",
+      "primary_city": "City_51555",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51560",
+      "zip_extension": "",
+      "primary_city": "City_51560",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51565",
+      "zip_extension": "",
+      "primary_city": "City_51565",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51570",
+      "zip_extension": "",
+      "primary_city": "City_51570",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51575",
+      "zip_extension": "",
+      "primary_city": "City_51575",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51580",
+      "zip_extension": "",
+      "primary_city": "City_51580",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51585",
+      "zip_extension": "",
+      "primary_city": "City_51585",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51590",
+      "zip_extension": "",
+      "primary_city": "City_51590",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51595",
+      "zip_extension": "",
+      "primary_city": "City_51595",
+      "acceptable_cities": "",
+      "county": "County_515",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51600",
+      "zip_extension": "",
+      "primary_city": "City_51600",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51605",
+      "zip_extension": "",
+      "primary_city": "City_51605",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51610",
+      "zip_extension": "",
+      "primary_city": "City_51610",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51615",
+      "zip_extension": "",
+      "primary_city": "City_51615",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51620",
+      "zip_extension": "",
+      "primary_city": "City_51620",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51625",
+      "zip_extension": "",
+      "primary_city": "City_51625",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51630",
+      "zip_extension": "",
+      "primary_city": "City_51630",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51635",
+      "zip_extension": "",
+      "primary_city": "City_51635",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51640",
+      "zip_extension": "",
+      "primary_city": "City_51640",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51645",
+      "zip_extension": "",
+      "primary_city": "City_51645",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51650",
+      "zip_extension": "",
+      "primary_city": "City_51650",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51655",
+      "zip_extension": "",
+      "primary_city": "City_51655",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51660",
+      "zip_extension": "",
+      "primary_city": "City_51660",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51665",
+      "zip_extension": "",
+      "primary_city": "City_51665",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51670",
+      "zip_extension": "",
+      "primary_city": "City_51670",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51675",
+      "zip_extension": "",
+      "primary_city": "City_51675",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51680",
+      "zip_extension": "",
+      "primary_city": "City_51680",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51685",
+      "zip_extension": "",
+      "primary_city": "City_51685",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51690",
+      "zip_extension": "",
+      "primary_city": "City_51690",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51695",
+      "zip_extension": "",
+      "primary_city": "City_51695",
+      "acceptable_cities": "",
+      "county": "County_516",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51700",
+      "zip_extension": "",
+      "primary_city": "City_51700",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51705",
+      "zip_extension": "",
+      "primary_city": "City_51705",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51710",
+      "zip_extension": "",
+      "primary_city": "City_51710",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51715",
+      "zip_extension": "",
+      "primary_city": "City_51715",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51720",
+      "zip_extension": "",
+      "primary_city": "City_51720",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51725",
+      "zip_extension": "",
+      "primary_city": "City_51725",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51730",
+      "zip_extension": "",
+      "primary_city": "City_51730",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51735",
+      "zip_extension": "",
+      "primary_city": "City_51735",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51740",
+      "zip_extension": "",
+      "primary_city": "City_51740",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51745",
+      "zip_extension": "",
+      "primary_city": "City_51745",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51750",
+      "zip_extension": "",
+      "primary_city": "City_51750",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51755",
+      "zip_extension": "",
+      "primary_city": "City_51755",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51760",
+      "zip_extension": "",
+      "primary_city": "City_51760",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51765",
+      "zip_extension": "",
+      "primary_city": "City_51765",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51770",
+      "zip_extension": "",
+      "primary_city": "City_51770",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51775",
+      "zip_extension": "",
+      "primary_city": "City_51775",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51780",
+      "zip_extension": "",
+      "primary_city": "City_51780",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51785",
+      "zip_extension": "",
+      "primary_city": "City_51785",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51790",
+      "zip_extension": "",
+      "primary_city": "City_51790",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51795",
+      "zip_extension": "",
+      "primary_city": "City_51795",
+      "acceptable_cities": "",
+      "county": "County_517",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51800",
+      "zip_extension": "",
+      "primary_city": "City_51800",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51805",
+      "zip_extension": "",
+      "primary_city": "City_51805",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51810",
+      "zip_extension": "",
+      "primary_city": "City_51810",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51815",
+      "zip_extension": "",
+      "primary_city": "City_51815",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51820",
+      "zip_extension": "",
+      "primary_city": "City_51820",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51825",
+      "zip_extension": "",
+      "primary_city": "City_51825",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51830",
+      "zip_extension": "",
+      "primary_city": "City_51830",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51835",
+      "zip_extension": "",
+      "primary_city": "City_51835",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51840",
+      "zip_extension": "",
+      "primary_city": "City_51840",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51845",
+      "zip_extension": "",
+      "primary_city": "City_51845",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51850",
+      "zip_extension": "",
+      "primary_city": "City_51850",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51855",
+      "zip_extension": "",
+      "primary_city": "City_51855",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51860",
+      "zip_extension": "",
+      "primary_city": "City_51860",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51865",
+      "zip_extension": "",
+      "primary_city": "City_51865",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51870",
+      "zip_extension": "",
+      "primary_city": "City_51870",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51875",
+      "zip_extension": "",
+      "primary_city": "City_51875",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51880",
+      "zip_extension": "",
+      "primary_city": "City_51880",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51885",
+      "zip_extension": "",
+      "primary_city": "City_51885",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51890",
+      "zip_extension": "",
+      "primary_city": "City_51890",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51895",
+      "zip_extension": "",
+      "primary_city": "City_51895",
+      "acceptable_cities": "",
+      "county": "County_518",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51900",
+      "zip_extension": "",
+      "primary_city": "City_51900",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51905",
+      "zip_extension": "",
+      "primary_city": "City_51905",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51910",
+      "zip_extension": "",
+      "primary_city": "City_51910",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51915",
+      "zip_extension": "",
+      "primary_city": "City_51915",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51920",
+      "zip_extension": "",
+      "primary_city": "City_51920",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51925",
+      "zip_extension": "",
+      "primary_city": "City_51925",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51930",
+      "zip_extension": "",
+      "primary_city": "City_51930",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51935",
+      "zip_extension": "",
+      "primary_city": "City_51935",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51940",
+      "zip_extension": "",
+      "primary_city": "City_51940",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51945",
+      "zip_extension": "",
+      "primary_city": "City_51945",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51950",
+      "zip_extension": "",
+      "primary_city": "City_51950",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51955",
+      "zip_extension": "",
+      "primary_city": "City_51955",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51960",
+      "zip_extension": "",
+      "primary_city": "City_51960",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51965",
+      "zip_extension": "",
+      "primary_city": "City_51965",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51970",
+      "zip_extension": "",
+      "primary_city": "City_51970",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51975",
+      "zip_extension": "",
+      "primary_city": "City_51975",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51980",
+      "zip_extension": "",
+      "primary_city": "City_51980",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51985",
+      "zip_extension": "",
+      "primary_city": "City_51985",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51990",
+      "zip_extension": "",
+      "primary_city": "City_51990",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "51995",
+      "zip_extension": "",
+      "primary_city": "City_51995",
+      "acceptable_cities": "",
+      "county": "County_519",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52000",
+      "zip_extension": "",
+      "primary_city": "City_52000",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52005",
+      "zip_extension": "",
+      "primary_city": "City_52005",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52010",
+      "zip_extension": "",
+      "primary_city": "City_52010",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52015",
+      "zip_extension": "",
+      "primary_city": "City_52015",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52020",
+      "zip_extension": "",
+      "primary_city": "City_52020",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52025",
+      "zip_extension": "",
+      "primary_city": "City_52025",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52030",
+      "zip_extension": "",
+      "primary_city": "City_52030",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52035",
+      "zip_extension": "",
+      "primary_city": "City_52035",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52040",
+      "zip_extension": "",
+      "primary_city": "City_52040",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52045",
+      "zip_extension": "",
+      "primary_city": "City_52045",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52050",
+      "zip_extension": "",
+      "primary_city": "City_52050",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52055",
+      "zip_extension": "",
+      "primary_city": "City_52055",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52060",
+      "zip_extension": "",
+      "primary_city": "City_52060",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52065",
+      "zip_extension": "",
+      "primary_city": "City_52065",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52070",
+      "zip_extension": "",
+      "primary_city": "City_52070",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52075",
+      "zip_extension": "",
+      "primary_city": "City_52075",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52080",
+      "zip_extension": "",
+      "primary_city": "City_52080",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52085",
+      "zip_extension": "",
+      "primary_city": "City_52085",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52090",
+      "zip_extension": "",
+      "primary_city": "City_52090",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52095",
+      "zip_extension": "",
+      "primary_city": "City_52095",
+      "acceptable_cities": "",
+      "county": "County_520",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52100",
+      "zip_extension": "",
+      "primary_city": "City_52100",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52105",
+      "zip_extension": "",
+      "primary_city": "City_52105",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52110",
+      "zip_extension": "",
+      "primary_city": "City_52110",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52115",
+      "zip_extension": "",
+      "primary_city": "City_52115",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52120",
+      "zip_extension": "",
+      "primary_city": "City_52120",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52125",
+      "zip_extension": "",
+      "primary_city": "City_52125",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52130",
+      "zip_extension": "",
+      "primary_city": "City_52130",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52135",
+      "zip_extension": "",
+      "primary_city": "City_52135",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52140",
+      "zip_extension": "",
+      "primary_city": "City_52140",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52145",
+      "zip_extension": "",
+      "primary_city": "City_52145",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52150",
+      "zip_extension": "",
+      "primary_city": "City_52150",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52155",
+      "zip_extension": "",
+      "primary_city": "City_52155",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52160",
+      "zip_extension": "",
+      "primary_city": "City_52160",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52165",
+      "zip_extension": "",
+      "primary_city": "City_52165",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52170",
+      "zip_extension": "",
+      "primary_city": "City_52170",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52175",
+      "zip_extension": "",
+      "primary_city": "City_52175",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52180",
+      "zip_extension": "",
+      "primary_city": "City_52180",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52185",
+      "zip_extension": "",
+      "primary_city": "City_52185",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52190",
+      "zip_extension": "",
+      "primary_city": "City_52190",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52195",
+      "zip_extension": "",
+      "primary_city": "City_52195",
+      "acceptable_cities": "",
+      "county": "County_521",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52200",
+      "zip_extension": "",
+      "primary_city": "City_52200",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52205",
+      "zip_extension": "",
+      "primary_city": "City_52205",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52210",
+      "zip_extension": "",
+      "primary_city": "City_52210",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52215",
+      "zip_extension": "",
+      "primary_city": "City_52215",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52220",
+      "zip_extension": "",
+      "primary_city": "City_52220",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52225",
+      "zip_extension": "",
+      "primary_city": "City_52225",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52230",
+      "zip_extension": "",
+      "primary_city": "City_52230",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52235",
+      "zip_extension": "",
+      "primary_city": "City_52235",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52240",
+      "zip_extension": "",
+      "primary_city": "City_52240",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52245",
+      "zip_extension": "",
+      "primary_city": "City_52245",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52250",
+      "zip_extension": "",
+      "primary_city": "City_52250",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52255",
+      "zip_extension": "",
+      "primary_city": "City_52255",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52260",
+      "zip_extension": "",
+      "primary_city": "City_52260",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52265",
+      "zip_extension": "",
+      "primary_city": "City_52265",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52270",
+      "zip_extension": "",
+      "primary_city": "City_52270",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52275",
+      "zip_extension": "",
+      "primary_city": "City_52275",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52280",
+      "zip_extension": "",
+      "primary_city": "City_52280",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52285",
+      "zip_extension": "",
+      "primary_city": "City_52285",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52290",
+      "zip_extension": "",
+      "primary_city": "City_52290",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52295",
+      "zip_extension": "",
+      "primary_city": "City_52295",
+      "acceptable_cities": "",
+      "county": "County_522",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52300",
+      "zip_extension": "",
+      "primary_city": "City_52300",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52305",
+      "zip_extension": "",
+      "primary_city": "City_52305",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52310",
+      "zip_extension": "",
+      "primary_city": "City_52310",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52315",
+      "zip_extension": "",
+      "primary_city": "City_52315",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52320",
+      "zip_extension": "",
+      "primary_city": "City_52320",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52325",
+      "zip_extension": "",
+      "primary_city": "City_52325",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52330",
+      "zip_extension": "",
+      "primary_city": "City_52330",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52335",
+      "zip_extension": "",
+      "primary_city": "City_52335",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52340",
+      "zip_extension": "",
+      "primary_city": "City_52340",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52345",
+      "zip_extension": "",
+      "primary_city": "City_52345",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52350",
+      "zip_extension": "",
+      "primary_city": "City_52350",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52355",
+      "zip_extension": "",
+      "primary_city": "City_52355",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52360",
+      "zip_extension": "",
+      "primary_city": "City_52360",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52365",
+      "zip_extension": "",
+      "primary_city": "City_52365",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52370",
+      "zip_extension": "",
+      "primary_city": "City_52370",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52375",
+      "zip_extension": "",
+      "primary_city": "City_52375",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52380",
+      "zip_extension": "",
+      "primary_city": "City_52380",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52385",
+      "zip_extension": "",
+      "primary_city": "City_52385",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52390",
+      "zip_extension": "",
+      "primary_city": "City_52390",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52395",
+      "zip_extension": "",
+      "primary_city": "City_52395",
+      "acceptable_cities": "",
+      "county": "County_523",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52400",
+      "zip_extension": "",
+      "primary_city": "City_52400",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52405",
+      "zip_extension": "",
+      "primary_city": "City_52405",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52410",
+      "zip_extension": "",
+      "primary_city": "City_52410",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52415",
+      "zip_extension": "",
+      "primary_city": "City_52415",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52420",
+      "zip_extension": "",
+      "primary_city": "City_52420",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52425",
+      "zip_extension": "",
+      "primary_city": "City_52425",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52430",
+      "zip_extension": "",
+      "primary_city": "City_52430",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52435",
+      "zip_extension": "",
+      "primary_city": "City_52435",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52440",
+      "zip_extension": "",
+      "primary_city": "City_52440",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52445",
+      "zip_extension": "",
+      "primary_city": "City_52445",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52450",
+      "zip_extension": "",
+      "primary_city": "City_52450",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52455",
+      "zip_extension": "",
+      "primary_city": "City_52455",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52460",
+      "zip_extension": "",
+      "primary_city": "City_52460",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52465",
+      "zip_extension": "",
+      "primary_city": "City_52465",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52470",
+      "zip_extension": "",
+      "primary_city": "City_52470",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52475",
+      "zip_extension": "",
+      "primary_city": "City_52475",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52480",
+      "zip_extension": "",
+      "primary_city": "City_52480",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52485",
+      "zip_extension": "",
+      "primary_city": "City_52485",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52490",
+      "zip_extension": "",
+      "primary_city": "City_52490",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52495",
+      "zip_extension": "",
+      "primary_city": "City_52495",
+      "acceptable_cities": "",
+      "county": "County_524",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52500",
+      "zip_extension": "",
+      "primary_city": "City_52500",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52505",
+      "zip_extension": "",
+      "primary_city": "City_52505",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52510",
+      "zip_extension": "",
+      "primary_city": "City_52510",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52515",
+      "zip_extension": "",
+      "primary_city": "City_52515",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52520",
+      "zip_extension": "",
+      "primary_city": "City_52520",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52525",
+      "zip_extension": "",
+      "primary_city": "City_52525",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52530",
+      "zip_extension": "",
+      "primary_city": "City_52530",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52535",
+      "zip_extension": "",
+      "primary_city": "City_52535",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52540",
+      "zip_extension": "",
+      "primary_city": "City_52540",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52545",
+      "zip_extension": "",
+      "primary_city": "City_52545",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52550",
+      "zip_extension": "",
+      "primary_city": "City_52550",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52555",
+      "zip_extension": "",
+      "primary_city": "City_52555",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52560",
+      "zip_extension": "",
+      "primary_city": "City_52560",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52565",
+      "zip_extension": "",
+      "primary_city": "City_52565",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52570",
+      "zip_extension": "",
+      "primary_city": "City_52570",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52575",
+      "zip_extension": "",
+      "primary_city": "City_52575",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52580",
+      "zip_extension": "",
+      "primary_city": "City_52580",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52585",
+      "zip_extension": "",
+      "primary_city": "City_52585",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52590",
+      "zip_extension": "",
+      "primary_city": "City_52590",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52595",
+      "zip_extension": "",
+      "primary_city": "City_52595",
+      "acceptable_cities": "",
+      "county": "County_525",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52600",
+      "zip_extension": "",
+      "primary_city": "City_52600",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52605",
+      "zip_extension": "",
+      "primary_city": "City_52605",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52610",
+      "zip_extension": "",
+      "primary_city": "City_52610",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52615",
+      "zip_extension": "",
+      "primary_city": "City_52615",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52620",
+      "zip_extension": "",
+      "primary_city": "City_52620",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52625",
+      "zip_extension": "",
+      "primary_city": "City_52625",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52630",
+      "zip_extension": "",
+      "primary_city": "City_52630",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52635",
+      "zip_extension": "",
+      "primary_city": "City_52635",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52640",
+      "zip_extension": "",
+      "primary_city": "City_52640",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52645",
+      "zip_extension": "",
+      "primary_city": "City_52645",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52650",
+      "zip_extension": "",
+      "primary_city": "City_52650",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52655",
+      "zip_extension": "",
+      "primary_city": "City_52655",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52660",
+      "zip_extension": "",
+      "primary_city": "City_52660",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52665",
+      "zip_extension": "",
+      "primary_city": "City_52665",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52670",
+      "zip_extension": "",
+      "primary_city": "City_52670",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52675",
+      "zip_extension": "",
+      "primary_city": "City_52675",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52680",
+      "zip_extension": "",
+      "primary_city": "City_52680",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52685",
+      "zip_extension": "",
+      "primary_city": "City_52685",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52690",
+      "zip_extension": "",
+      "primary_city": "City_52690",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52695",
+      "zip_extension": "",
+      "primary_city": "City_52695",
+      "acceptable_cities": "",
+      "county": "County_526",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52700",
+      "zip_extension": "",
+      "primary_city": "City_52700",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52705",
+      "zip_extension": "",
+      "primary_city": "City_52705",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52710",
+      "zip_extension": "",
+      "primary_city": "City_52710",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52715",
+      "zip_extension": "",
+      "primary_city": "City_52715",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52720",
+      "zip_extension": "",
+      "primary_city": "City_52720",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52725",
+      "zip_extension": "",
+      "primary_city": "City_52725",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52730",
+      "zip_extension": "",
+      "primary_city": "City_52730",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52735",
+      "zip_extension": "",
+      "primary_city": "City_52735",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52740",
+      "zip_extension": "",
+      "primary_city": "City_52740",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52745",
+      "zip_extension": "",
+      "primary_city": "City_52745",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52750",
+      "zip_extension": "",
+      "primary_city": "City_52750",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52755",
+      "zip_extension": "",
+      "primary_city": "City_52755",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52760",
+      "zip_extension": "",
+      "primary_city": "City_52760",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52765",
+      "zip_extension": "",
+      "primary_city": "City_52765",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52770",
+      "zip_extension": "",
+      "primary_city": "City_52770",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52775",
+      "zip_extension": "",
+      "primary_city": "City_52775",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52780",
+      "zip_extension": "",
+      "primary_city": "City_52780",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52785",
+      "zip_extension": "",
+      "primary_city": "City_52785",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52790",
+      "zip_extension": "",
+      "primary_city": "City_52790",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52795",
+      "zip_extension": "",
+      "primary_city": "City_52795",
+      "acceptable_cities": "",
+      "county": "County_527",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52800",
+      "zip_extension": "",
+      "primary_city": "City_52800",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52805",
+      "zip_extension": "",
+      "primary_city": "City_52805",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52810",
+      "zip_extension": "",
+      "primary_city": "City_52810",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52815",
+      "zip_extension": "",
+      "primary_city": "City_52815",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52820",
+      "zip_extension": "",
+      "primary_city": "City_52820",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52825",
+      "zip_extension": "",
+      "primary_city": "City_52825",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52830",
+      "zip_extension": "",
+      "primary_city": "City_52830",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52835",
+      "zip_extension": "",
+      "primary_city": "City_52835",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52840",
+      "zip_extension": "",
+      "primary_city": "City_52840",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52845",
+      "zip_extension": "",
+      "primary_city": "City_52845",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52850",
+      "zip_extension": "",
+      "primary_city": "City_52850",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52855",
+      "zip_extension": "",
+      "primary_city": "City_52855",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52860",
+      "zip_extension": "",
+      "primary_city": "City_52860",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52865",
+      "zip_extension": "",
+      "primary_city": "City_52865",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52870",
+      "zip_extension": "",
+      "primary_city": "City_52870",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52875",
+      "zip_extension": "",
+      "primary_city": "City_52875",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52880",
+      "zip_extension": "",
+      "primary_city": "City_52880",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52885",
+      "zip_extension": "",
+      "primary_city": "City_52885",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52890",
+      "zip_extension": "",
+      "primary_city": "City_52890",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "52895",
+      "zip_extension": "",
+      "primary_city": "City_52895",
+      "acceptable_cities": "",
+      "county": "County_528",
+      "state": "Iowa",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

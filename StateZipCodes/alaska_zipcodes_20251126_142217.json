@@ -1,0 +1,1007 @@
+{
+  "state": "Alaska",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 100,
+  "zipcodes": [
+    {
+      "zip_code": "99500",
+      "zip_extension": "",
+      "primary_city": "City_99500",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99505",
+      "zip_extension": "",
+      "primary_city": "City_99505",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99510",
+      "zip_extension": "",
+      "primary_city": "City_99510",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99515",
+      "zip_extension": "",
+      "primary_city": "City_99515",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99520",
+      "zip_extension": "",
+      "primary_city": "City_99520",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99525",
+      "zip_extension": "",
+      "primary_city": "City_99525",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99530",
+      "zip_extension": "",
+      "primary_city": "City_99530",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99535",
+      "zip_extension": "",
+      "primary_city": "City_99535",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99540",
+      "zip_extension": "",
+      "primary_city": "City_99540",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99545",
+      "zip_extension": "",
+      "primary_city": "City_99545",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99550",
+      "zip_extension": "",
+      "primary_city": "City_99550",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99555",
+      "zip_extension": "",
+      "primary_city": "City_99555",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99560",
+      "zip_extension": "",
+      "primary_city": "City_99560",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99565",
+      "zip_extension": "",
+      "primary_city": "City_99565",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99570",
+      "zip_extension": "",
+      "primary_city": "City_99570",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99575",
+      "zip_extension": "",
+      "primary_city": "City_99575",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99580",
+      "zip_extension": "",
+      "primary_city": "City_99580",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99585",
+      "zip_extension": "",
+      "primary_city": "City_99585",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99590",
+      "zip_extension": "",
+      "primary_city": "City_99590",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99595",
+      "zip_extension": "",
+      "primary_city": "City_99595",
+      "acceptable_cities": "",
+      "county": "County_995",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99600",
+      "zip_extension": "",
+      "primary_city": "City_99600",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99605",
+      "zip_extension": "",
+      "primary_city": "City_99605",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99610",
+      "zip_extension": "",
+      "primary_city": "City_99610",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99615",
+      "zip_extension": "",
+      "primary_city": "City_99615",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99620",
+      "zip_extension": "",
+      "primary_city": "City_99620",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99625",
+      "zip_extension": "",
+      "primary_city": "City_99625",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99630",
+      "zip_extension": "",
+      "primary_city": "City_99630",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99635",
+      "zip_extension": "",
+      "primary_city": "City_99635",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99640",
+      "zip_extension": "",
+      "primary_city": "City_99640",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99645",
+      "zip_extension": "",
+      "primary_city": "City_99645",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99650",
+      "zip_extension": "",
+      "primary_city": "City_99650",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99655",
+      "zip_extension": "",
+      "primary_city": "City_99655",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99660",
+      "zip_extension": "",
+      "primary_city": "City_99660",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99665",
+      "zip_extension": "",
+      "primary_city": "City_99665",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99670",
+      "zip_extension": "",
+      "primary_city": "City_99670",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99675",
+      "zip_extension": "",
+      "primary_city": "City_99675",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99680",
+      "zip_extension": "",
+      "primary_city": "City_99680",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99685",
+      "zip_extension": "",
+      "primary_city": "City_99685",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99690",
+      "zip_extension": "",
+      "primary_city": "City_99690",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99695",
+      "zip_extension": "",
+      "primary_city": "City_99695",
+      "acceptable_cities": "",
+      "county": "County_996",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99700",
+      "zip_extension": "",
+      "primary_city": "City_99700",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99705",
+      "zip_extension": "",
+      "primary_city": "City_99705",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99710",
+      "zip_extension": "",
+      "primary_city": "City_99710",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99715",
+      "zip_extension": "",
+      "primary_city": "City_99715",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99720",
+      "zip_extension": "",
+      "primary_city": "City_99720",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99725",
+      "zip_extension": "",
+      "primary_city": "City_99725",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99730",
+      "zip_extension": "",
+      "primary_city": "City_99730",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99735",
+      "zip_extension": "",
+      "primary_city": "City_99735",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99740",
+      "zip_extension": "",
+      "primary_city": "City_99740",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99745",
+      "zip_extension": "",
+      "primary_city": "City_99745",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99750",
+      "zip_extension": "",
+      "primary_city": "City_99750",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99755",
+      "zip_extension": "",
+      "primary_city": "City_99755",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99760",
+      "zip_extension": "",
+      "primary_city": "City_99760",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99765",
+      "zip_extension": "",
+      "primary_city": "City_99765",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99770",
+      "zip_extension": "",
+      "primary_city": "City_99770",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99775",
+      "zip_extension": "",
+      "primary_city": "City_99775",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99780",
+      "zip_extension": "",
+      "primary_city": "City_99780",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99785",
+      "zip_extension": "",
+      "primary_city": "City_99785",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99790",
+      "zip_extension": "",
+      "primary_city": "City_99790",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99795",
+      "zip_extension": "",
+      "primary_city": "City_99795",
+      "acceptable_cities": "",
+      "county": "County_997",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99800",
+      "zip_extension": "",
+      "primary_city": "City_99800",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99805",
+      "zip_extension": "",
+      "primary_city": "City_99805",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99810",
+      "zip_extension": "",
+      "primary_city": "City_99810",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99815",
+      "zip_extension": "",
+      "primary_city": "City_99815",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99820",
+      "zip_extension": "",
+      "primary_city": "City_99820",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99825",
+      "zip_extension": "",
+      "primary_city": "City_99825",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99830",
+      "zip_extension": "",
+      "primary_city": "City_99830",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99835",
+      "zip_extension": "",
+      "primary_city": "City_99835",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99840",
+      "zip_extension": "",
+      "primary_city": "City_99840",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99845",
+      "zip_extension": "",
+      "primary_city": "City_99845",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99850",
+      "zip_extension": "",
+      "primary_city": "City_99850",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99855",
+      "zip_extension": "",
+      "primary_city": "City_99855",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99860",
+      "zip_extension": "",
+      "primary_city": "City_99860",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99865",
+      "zip_extension": "",
+      "primary_city": "City_99865",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99870",
+      "zip_extension": "",
+      "primary_city": "City_99870",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99875",
+      "zip_extension": "",
+      "primary_city": "City_99875",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99880",
+      "zip_extension": "",
+      "primary_city": "City_99880",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99885",
+      "zip_extension": "",
+      "primary_city": "City_99885",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99890",
+      "zip_extension": "",
+      "primary_city": "City_99890",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99895",
+      "zip_extension": "",
+      "primary_city": "City_99895",
+      "acceptable_cities": "",
+      "county": "County_998",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99900",
+      "zip_extension": "",
+      "primary_city": "City_99900",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99905",
+      "zip_extension": "",
+      "primary_city": "City_99905",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99910",
+      "zip_extension": "",
+      "primary_city": "City_99910",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99915",
+      "zip_extension": "",
+      "primary_city": "City_99915",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99920",
+      "zip_extension": "",
+      "primary_city": "City_99920",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99925",
+      "zip_extension": "",
+      "primary_city": "City_99925",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99930",
+      "zip_extension": "",
+      "primary_city": "City_99930",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99935",
+      "zip_extension": "",
+      "primary_city": "City_99935",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99940",
+      "zip_extension": "",
+      "primary_city": "City_99940",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99945",
+      "zip_extension": "",
+      "primary_city": "City_99945",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99950",
+      "zip_extension": "",
+      "primary_city": "City_99950",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99955",
+      "zip_extension": "",
+      "primary_city": "City_99955",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99960",
+      "zip_extension": "",
+      "primary_city": "City_99960",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99965",
+      "zip_extension": "",
+      "primary_city": "City_99965",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99970",
+      "zip_extension": "",
+      "primary_city": "City_99970",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99975",
+      "zip_extension": "",
+      "primary_city": "City_99975",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99980",
+      "zip_extension": "",
+      "primary_city": "City_99980",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99985",
+      "zip_extension": "",
+      "primary_city": "City_99985",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99990",
+      "zip_extension": "",
+      "primary_city": "City_99990",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99995",
+      "zip_extension": "",
+      "primary_city": "City_99995",
+      "acceptable_cities": "",
+      "county": "County_999",
+      "state": "Alaska",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

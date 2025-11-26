@@ -1,0 +1,4007 @@
+{
+  "state": "Wisconsin",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 400,
+  "zipcodes": [
+    {
+      "zip_code": "53000",
+      "zip_extension": "",
+      "primary_city": "City_53000",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53005",
+      "zip_extension": "",
+      "primary_city": "City_53005",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53010",
+      "zip_extension": "",
+      "primary_city": "City_53010",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53015",
+      "zip_extension": "",
+      "primary_city": "City_53015",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53020",
+      "zip_extension": "",
+      "primary_city": "City_53020",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53025",
+      "zip_extension": "",
+      "primary_city": "City_53025",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53030",
+      "zip_extension": "",
+      "primary_city": "City_53030",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53035",
+      "zip_extension": "",
+      "primary_city": "City_53035",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53040",
+      "zip_extension": "",
+      "primary_city": "City_53040",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53045",
+      "zip_extension": "",
+      "primary_city": "City_53045",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53050",
+      "zip_extension": "",
+      "primary_city": "City_53050",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53055",
+      "zip_extension": "",
+      "primary_city": "City_53055",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53060",
+      "zip_extension": "",
+      "primary_city": "City_53060",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53065",
+      "zip_extension": "",
+      "primary_city": "City_53065",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53070",
+      "zip_extension": "",
+      "primary_city": "City_53070",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53075",
+      "zip_extension": "",
+      "primary_city": "City_53075",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53080",
+      "zip_extension": "",
+      "primary_city": "City_53080",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53085",
+      "zip_extension": "",
+      "primary_city": "City_53085",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53090",
+      "zip_extension": "",
+      "primary_city": "City_53090",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53095",
+      "zip_extension": "",
+      "primary_city": "City_53095",
+      "acceptable_cities": "",
+      "county": "County_530",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53100",
+      "zip_extension": "",
+      "primary_city": "City_53100",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53105",
+      "zip_extension": "",
+      "primary_city": "City_53105",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53110",
+      "zip_extension": "",
+      "primary_city": "City_53110",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53115",
+      "zip_extension": "",
+      "primary_city": "City_53115",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53120",
+      "zip_extension": "",
+      "primary_city": "City_53120",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53125",
+      "zip_extension": "",
+      "primary_city": "City_53125",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53130",
+      "zip_extension": "",
+      "primary_city": "City_53130",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53135",
+      "zip_extension": "",
+      "primary_city": "City_53135",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53140",
+      "zip_extension": "",
+      "primary_city": "City_53140",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53145",
+      "zip_extension": "",
+      "primary_city": "City_53145",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53150",
+      "zip_extension": "",
+      "primary_city": "City_53150",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53155",
+      "zip_extension": "",
+      "primary_city": "City_53155",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53160",
+      "zip_extension": "",
+      "primary_city": "City_53160",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53165",
+      "zip_extension": "",
+      "primary_city": "City_53165",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53170",
+      "zip_extension": "",
+      "primary_city": "City_53170",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53175",
+      "zip_extension": "",
+      "primary_city": "City_53175",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53180",
+      "zip_extension": "",
+      "primary_city": "City_53180",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53185",
+      "zip_extension": "",
+      "primary_city": "City_53185",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53190",
+      "zip_extension": "",
+      "primary_city": "City_53190",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53195",
+      "zip_extension": "",
+      "primary_city": "City_53195",
+      "acceptable_cities": "",
+      "county": "County_531",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53200",
+      "zip_extension": "",
+      "primary_city": "City_53200",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53205",
+      "zip_extension": "",
+      "primary_city": "City_53205",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53210",
+      "zip_extension": "",
+      "primary_city": "City_53210",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53215",
+      "zip_extension": "",
+      "primary_city": "City_53215",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53220",
+      "zip_extension": "",
+      "primary_city": "City_53220",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53225",
+      "zip_extension": "",
+      "primary_city": "City_53225",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53230",
+      "zip_extension": "",
+      "primary_city": "City_53230",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53235",
+      "zip_extension": "",
+      "primary_city": "City_53235",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53240",
+      "zip_extension": "",
+      "primary_city": "City_53240",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53245",
+      "zip_extension": "",
+      "primary_city": "City_53245",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53250",
+      "zip_extension": "",
+      "primary_city": "City_53250",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53255",
+      "zip_extension": "",
+      "primary_city": "City_53255",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53260",
+      "zip_extension": "",
+      "primary_city": "City_53260",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53265",
+      "zip_extension": "",
+      "primary_city": "City_53265",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53270",
+      "zip_extension": "",
+      "primary_city": "City_53270",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53275",
+      "zip_extension": "",
+      "primary_city": "City_53275",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53280",
+      "zip_extension": "",
+      "primary_city": "City_53280",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53285",
+      "zip_extension": "",
+      "primary_city": "City_53285",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53290",
+      "zip_extension": "",
+      "primary_city": "City_53290",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53295",
+      "zip_extension": "",
+      "primary_city": "City_53295",
+      "acceptable_cities": "",
+      "county": "County_532",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53300",
+      "zip_extension": "",
+      "primary_city": "City_53300",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53305",
+      "zip_extension": "",
+      "primary_city": "City_53305",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53310",
+      "zip_extension": "",
+      "primary_city": "City_53310",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53315",
+      "zip_extension": "",
+      "primary_city": "City_53315",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53320",
+      "zip_extension": "",
+      "primary_city": "City_53320",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53325",
+      "zip_extension": "",
+      "primary_city": "City_53325",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53330",
+      "zip_extension": "",
+      "primary_city": "City_53330",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53335",
+      "zip_extension": "",
+      "primary_city": "City_53335",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53340",
+      "zip_extension": "",
+      "primary_city": "City_53340",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53345",
+      "zip_extension": "",
+      "primary_city": "City_53345",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53350",
+      "zip_extension": "",
+      "primary_city": "City_53350",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53355",
+      "zip_extension": "",
+      "primary_city": "City_53355",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53360",
+      "zip_extension": "",
+      "primary_city": "City_53360",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53365",
+      "zip_extension": "",
+      "primary_city": "City_53365",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53370",
+      "zip_extension": "",
+      "primary_city": "City_53370",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53375",
+      "zip_extension": "",
+      "primary_city": "City_53375",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53380",
+      "zip_extension": "",
+      "primary_city": "City_53380",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53385",
+      "zip_extension": "",
+      "primary_city": "City_53385",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53390",
+      "zip_extension": "",
+      "primary_city": "City_53390",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53395",
+      "zip_extension": "",
+      "primary_city": "City_53395",
+      "acceptable_cities": "",
+      "county": "County_533",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53400",
+      "zip_extension": "",
+      "primary_city": "City_53400",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53405",
+      "zip_extension": "",
+      "primary_city": "City_53405",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53410",
+      "zip_extension": "",
+      "primary_city": "City_53410",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53415",
+      "zip_extension": "",
+      "primary_city": "City_53415",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53420",
+      "zip_extension": "",
+      "primary_city": "City_53420",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53425",
+      "zip_extension": "",
+      "primary_city": "City_53425",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53430",
+      "zip_extension": "",
+      "primary_city": "City_53430",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53435",
+      "zip_extension": "",
+      "primary_city": "City_53435",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53440",
+      "zip_extension": "",
+      "primary_city": "City_53440",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53445",
+      "zip_extension": "",
+      "primary_city": "City_53445",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53450",
+      "zip_extension": "",
+      "primary_city": "City_53450",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53455",
+      "zip_extension": "",
+      "primary_city": "City_53455",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53460",
+      "zip_extension": "",
+      "primary_city": "City_53460",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53465",
+      "zip_extension": "",
+      "primary_city": "City_53465",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53470",
+      "zip_extension": "",
+      "primary_city": "City_53470",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53475",
+      "zip_extension": "",
+      "primary_city": "City_53475",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53480",
+      "zip_extension": "",
+      "primary_city": "City_53480",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53485",
+      "zip_extension": "",
+      "primary_city": "City_53485",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53490",
+      "zip_extension": "",
+      "primary_city": "City_53490",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53495",
+      "zip_extension": "",
+      "primary_city": "City_53495",
+      "acceptable_cities": "",
+      "county": "County_534",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53500",
+      "zip_extension": "",
+      "primary_city": "City_53500",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53505",
+      "zip_extension": "",
+      "primary_city": "City_53505",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53510",
+      "zip_extension": "",
+      "primary_city": "City_53510",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53515",
+      "zip_extension": "",
+      "primary_city": "City_53515",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53520",
+      "zip_extension": "",
+      "primary_city": "City_53520",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53525",
+      "zip_extension": "",
+      "primary_city": "City_53525",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53530",
+      "zip_extension": "",
+      "primary_city": "City_53530",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53535",
+      "zip_extension": "",
+      "primary_city": "City_53535",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53540",
+      "zip_extension": "",
+      "primary_city": "City_53540",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53545",
+      "zip_extension": "",
+      "primary_city": "City_53545",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53550",
+      "zip_extension": "",
+      "primary_city": "City_53550",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53555",
+      "zip_extension": "",
+      "primary_city": "City_53555",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53560",
+      "zip_extension": "",
+      "primary_city": "City_53560",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53565",
+      "zip_extension": "",
+      "primary_city": "City_53565",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53570",
+      "zip_extension": "",
+      "primary_city": "City_53570",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53575",
+      "zip_extension": "",
+      "primary_city": "City_53575",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53580",
+      "zip_extension": "",
+      "primary_city": "City_53580",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53585",
+      "zip_extension": "",
+      "primary_city": "City_53585",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53590",
+      "zip_extension": "",
+      "primary_city": "City_53590",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53595",
+      "zip_extension": "",
+      "primary_city": "City_53595",
+      "acceptable_cities": "",
+      "county": "County_535",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53600",
+      "zip_extension": "",
+      "primary_city": "City_53600",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53605",
+      "zip_extension": "",
+      "primary_city": "City_53605",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53610",
+      "zip_extension": "",
+      "primary_city": "City_53610",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53615",
+      "zip_extension": "",
+      "primary_city": "City_53615",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53620",
+      "zip_extension": "",
+      "primary_city": "City_53620",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53625",
+      "zip_extension": "",
+      "primary_city": "City_53625",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53630",
+      "zip_extension": "",
+      "primary_city": "City_53630",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53635",
+      "zip_extension": "",
+      "primary_city": "City_53635",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53640",
+      "zip_extension": "",
+      "primary_city": "City_53640",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53645",
+      "zip_extension": "",
+      "primary_city": "City_53645",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53650",
+      "zip_extension": "",
+      "primary_city": "City_53650",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53655",
+      "zip_extension": "",
+      "primary_city": "City_53655",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53660",
+      "zip_extension": "",
+      "primary_city": "City_53660",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53665",
+      "zip_extension": "",
+      "primary_city": "City_53665",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53670",
+      "zip_extension": "",
+      "primary_city": "City_53670",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53675",
+      "zip_extension": "",
+      "primary_city": "City_53675",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53680",
+      "zip_extension": "",
+      "primary_city": "City_53680",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53685",
+      "zip_extension": "",
+      "primary_city": "City_53685",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53690",
+      "zip_extension": "",
+      "primary_city": "City_53690",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53695",
+      "zip_extension": "",
+      "primary_city": "City_53695",
+      "acceptable_cities": "",
+      "county": "County_536",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53700",
+      "zip_extension": "",
+      "primary_city": "City_53700",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53705",
+      "zip_extension": "",
+      "primary_city": "City_53705",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53710",
+      "zip_extension": "",
+      "primary_city": "City_53710",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53715",
+      "zip_extension": "",
+      "primary_city": "City_53715",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53720",
+      "zip_extension": "",
+      "primary_city": "City_53720",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53725",
+      "zip_extension": "",
+      "primary_city": "City_53725",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53730",
+      "zip_extension": "",
+      "primary_city": "City_53730",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53735",
+      "zip_extension": "",
+      "primary_city": "City_53735",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53740",
+      "zip_extension": "",
+      "primary_city": "City_53740",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53745",
+      "zip_extension": "",
+      "primary_city": "City_53745",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53750",
+      "zip_extension": "",
+      "primary_city": "City_53750",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53755",
+      "zip_extension": "",
+      "primary_city": "City_53755",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53760",
+      "zip_extension": "",
+      "primary_city": "City_53760",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53765",
+      "zip_extension": "",
+      "primary_city": "City_53765",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53770",
+      "zip_extension": "",
+      "primary_city": "City_53770",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53775",
+      "zip_extension": "",
+      "primary_city": "City_53775",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53780",
+      "zip_extension": "",
+      "primary_city": "City_53780",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53785",
+      "zip_extension": "",
+      "primary_city": "City_53785",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53790",
+      "zip_extension": "",
+      "primary_city": "City_53790",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53795",
+      "zip_extension": "",
+      "primary_city": "City_53795",
+      "acceptable_cities": "",
+      "county": "County_537",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53800",
+      "zip_extension": "",
+      "primary_city": "City_53800",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53805",
+      "zip_extension": "",
+      "primary_city": "City_53805",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53810",
+      "zip_extension": "",
+      "primary_city": "City_53810",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53815",
+      "zip_extension": "",
+      "primary_city": "City_53815",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53820",
+      "zip_extension": "",
+      "primary_city": "City_53820",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53825",
+      "zip_extension": "",
+      "primary_city": "City_53825",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53830",
+      "zip_extension": "",
+      "primary_city": "City_53830",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53835",
+      "zip_extension": "",
+      "primary_city": "City_53835",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53840",
+      "zip_extension": "",
+      "primary_city": "City_53840",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53845",
+      "zip_extension": "",
+      "primary_city": "City_53845",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53850",
+      "zip_extension": "",
+      "primary_city": "City_53850",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53855",
+      "zip_extension": "",
+      "primary_city": "City_53855",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53860",
+      "zip_extension": "",
+      "primary_city": "City_53860",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53865",
+      "zip_extension": "",
+      "primary_city": "City_53865",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53870",
+      "zip_extension": "",
+      "primary_city": "City_53870",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53875",
+      "zip_extension": "",
+      "primary_city": "City_53875",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53880",
+      "zip_extension": "",
+      "primary_city": "City_53880",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53885",
+      "zip_extension": "",
+      "primary_city": "City_53885",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53890",
+      "zip_extension": "",
+      "primary_city": "City_53890",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53895",
+      "zip_extension": "",
+      "primary_city": "City_53895",
+      "acceptable_cities": "",
+      "county": "County_538",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53900",
+      "zip_extension": "",
+      "primary_city": "City_53900",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53905",
+      "zip_extension": "",
+      "primary_city": "City_53905",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53910",
+      "zip_extension": "",
+      "primary_city": "City_53910",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53915",
+      "zip_extension": "",
+      "primary_city": "City_53915",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53920",
+      "zip_extension": "",
+      "primary_city": "City_53920",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53925",
+      "zip_extension": "",
+      "primary_city": "City_53925",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53930",
+      "zip_extension": "",
+      "primary_city": "City_53930",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53935",
+      "zip_extension": "",
+      "primary_city": "City_53935",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53940",
+      "zip_extension": "",
+      "primary_city": "City_53940",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53945",
+      "zip_extension": "",
+      "primary_city": "City_53945",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53950",
+      "zip_extension": "",
+      "primary_city": "City_53950",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53955",
+      "zip_extension": "",
+      "primary_city": "City_53955",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53960",
+      "zip_extension": "",
+      "primary_city": "City_53960",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53965",
+      "zip_extension": "",
+      "primary_city": "City_53965",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53970",
+      "zip_extension": "",
+      "primary_city": "City_53970",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53975",
+      "zip_extension": "",
+      "primary_city": "City_53975",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53980",
+      "zip_extension": "",
+      "primary_city": "City_53980",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53985",
+      "zip_extension": "",
+      "primary_city": "City_53985",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53990",
+      "zip_extension": "",
+      "primary_city": "City_53990",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "53995",
+      "zip_extension": "",
+      "primary_city": "City_53995",
+      "acceptable_cities": "",
+      "county": "County_539",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54000",
+      "zip_extension": "",
+      "primary_city": "City_54000",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54005",
+      "zip_extension": "",
+      "primary_city": "City_54005",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54010",
+      "zip_extension": "",
+      "primary_city": "City_54010",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54015",
+      "zip_extension": "",
+      "primary_city": "City_54015",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54020",
+      "zip_extension": "",
+      "primary_city": "City_54020",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54025",
+      "zip_extension": "",
+      "primary_city": "City_54025",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54030",
+      "zip_extension": "",
+      "primary_city": "City_54030",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54035",
+      "zip_extension": "",
+      "primary_city": "City_54035",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54040",
+      "zip_extension": "",
+      "primary_city": "City_54040",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54045",
+      "zip_extension": "",
+      "primary_city": "City_54045",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54050",
+      "zip_extension": "",
+      "primary_city": "City_54050",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54055",
+      "zip_extension": "",
+      "primary_city": "City_54055",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54060",
+      "zip_extension": "",
+      "primary_city": "City_54060",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54065",
+      "zip_extension": "",
+      "primary_city": "City_54065",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54070",
+      "zip_extension": "",
+      "primary_city": "City_54070",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54075",
+      "zip_extension": "",
+      "primary_city": "City_54075",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54080",
+      "zip_extension": "",
+      "primary_city": "City_54080",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54085",
+      "zip_extension": "",
+      "primary_city": "City_54085",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54090",
+      "zip_extension": "",
+      "primary_city": "City_54090",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54095",
+      "zip_extension": "",
+      "primary_city": "City_54095",
+      "acceptable_cities": "",
+      "county": "County_540",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54100",
+      "zip_extension": "",
+      "primary_city": "City_54100",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54105",
+      "zip_extension": "",
+      "primary_city": "City_54105",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54110",
+      "zip_extension": "",
+      "primary_city": "City_54110",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54115",
+      "zip_extension": "",
+      "primary_city": "City_54115",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54120",
+      "zip_extension": "",
+      "primary_city": "City_54120",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54125",
+      "zip_extension": "",
+      "primary_city": "City_54125",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54130",
+      "zip_extension": "",
+      "primary_city": "City_54130",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54135",
+      "zip_extension": "",
+      "primary_city": "City_54135",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54140",
+      "zip_extension": "",
+      "primary_city": "City_54140",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54145",
+      "zip_extension": "",
+      "primary_city": "City_54145",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54150",
+      "zip_extension": "",
+      "primary_city": "City_54150",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54155",
+      "zip_extension": "",
+      "primary_city": "City_54155",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54160",
+      "zip_extension": "",
+      "primary_city": "City_54160",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54165",
+      "zip_extension": "",
+      "primary_city": "City_54165",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54170",
+      "zip_extension": "",
+      "primary_city": "City_54170",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54175",
+      "zip_extension": "",
+      "primary_city": "City_54175",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54180",
+      "zip_extension": "",
+      "primary_city": "City_54180",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54185",
+      "zip_extension": "",
+      "primary_city": "City_54185",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54190",
+      "zip_extension": "",
+      "primary_city": "City_54190",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54195",
+      "zip_extension": "",
+      "primary_city": "City_54195",
+      "acceptable_cities": "",
+      "county": "County_541",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54200",
+      "zip_extension": "",
+      "primary_city": "City_54200",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54205",
+      "zip_extension": "",
+      "primary_city": "City_54205",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54210",
+      "zip_extension": "",
+      "primary_city": "City_54210",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54215",
+      "zip_extension": "",
+      "primary_city": "City_54215",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54220",
+      "zip_extension": "",
+      "primary_city": "City_54220",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54225",
+      "zip_extension": "",
+      "primary_city": "City_54225",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54230",
+      "zip_extension": "",
+      "primary_city": "City_54230",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54235",
+      "zip_extension": "",
+      "primary_city": "City_54235",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54240",
+      "zip_extension": "",
+      "primary_city": "City_54240",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54245",
+      "zip_extension": "",
+      "primary_city": "City_54245",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54250",
+      "zip_extension": "",
+      "primary_city": "City_54250",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54255",
+      "zip_extension": "",
+      "primary_city": "City_54255",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54260",
+      "zip_extension": "",
+      "primary_city": "City_54260",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54265",
+      "zip_extension": "",
+      "primary_city": "City_54265",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54270",
+      "zip_extension": "",
+      "primary_city": "City_54270",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54275",
+      "zip_extension": "",
+      "primary_city": "City_54275",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54280",
+      "zip_extension": "",
+      "primary_city": "City_54280",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54285",
+      "zip_extension": "",
+      "primary_city": "City_54285",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54290",
+      "zip_extension": "",
+      "primary_city": "City_54290",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54295",
+      "zip_extension": "",
+      "primary_city": "City_54295",
+      "acceptable_cities": "",
+      "county": "County_542",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54300",
+      "zip_extension": "",
+      "primary_city": "City_54300",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54305",
+      "zip_extension": "",
+      "primary_city": "City_54305",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54310",
+      "zip_extension": "",
+      "primary_city": "City_54310",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54315",
+      "zip_extension": "",
+      "primary_city": "City_54315",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54320",
+      "zip_extension": "",
+      "primary_city": "City_54320",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54325",
+      "zip_extension": "",
+      "primary_city": "City_54325",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54330",
+      "zip_extension": "",
+      "primary_city": "City_54330",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54335",
+      "zip_extension": "",
+      "primary_city": "City_54335",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54340",
+      "zip_extension": "",
+      "primary_city": "City_54340",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54345",
+      "zip_extension": "",
+      "primary_city": "City_54345",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54350",
+      "zip_extension": "",
+      "primary_city": "City_54350",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54355",
+      "zip_extension": "",
+      "primary_city": "City_54355",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54360",
+      "zip_extension": "",
+      "primary_city": "City_54360",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54365",
+      "zip_extension": "",
+      "primary_city": "City_54365",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54370",
+      "zip_extension": "",
+      "primary_city": "City_54370",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54375",
+      "zip_extension": "",
+      "primary_city": "City_54375",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54380",
+      "zip_extension": "",
+      "primary_city": "City_54380",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54385",
+      "zip_extension": "",
+      "primary_city": "City_54385",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54390",
+      "zip_extension": "",
+      "primary_city": "City_54390",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54395",
+      "zip_extension": "",
+      "primary_city": "City_54395",
+      "acceptable_cities": "",
+      "county": "County_543",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54400",
+      "zip_extension": "",
+      "primary_city": "City_54400",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54405",
+      "zip_extension": "",
+      "primary_city": "City_54405",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54410",
+      "zip_extension": "",
+      "primary_city": "City_54410",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54415",
+      "zip_extension": "",
+      "primary_city": "City_54415",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54420",
+      "zip_extension": "",
+      "primary_city": "City_54420",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54425",
+      "zip_extension": "",
+      "primary_city": "City_54425",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54430",
+      "zip_extension": "",
+      "primary_city": "City_54430",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54435",
+      "zip_extension": "",
+      "primary_city": "City_54435",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54440",
+      "zip_extension": "",
+      "primary_city": "City_54440",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54445",
+      "zip_extension": "",
+      "primary_city": "City_54445",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54450",
+      "zip_extension": "",
+      "primary_city": "City_54450",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54455",
+      "zip_extension": "",
+      "primary_city": "City_54455",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54460",
+      "zip_extension": "",
+      "primary_city": "City_54460",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54465",
+      "zip_extension": "",
+      "primary_city": "City_54465",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54470",
+      "zip_extension": "",
+      "primary_city": "City_54470",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54475",
+      "zip_extension": "",
+      "primary_city": "City_54475",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54480",
+      "zip_extension": "",
+      "primary_city": "City_54480",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54485",
+      "zip_extension": "",
+      "primary_city": "City_54485",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54490",
+      "zip_extension": "",
+      "primary_city": "City_54490",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54495",
+      "zip_extension": "",
+      "primary_city": "City_54495",
+      "acceptable_cities": "",
+      "county": "County_544",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54500",
+      "zip_extension": "",
+      "primary_city": "City_54500",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54505",
+      "zip_extension": "",
+      "primary_city": "City_54505",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54510",
+      "zip_extension": "",
+      "primary_city": "City_54510",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54515",
+      "zip_extension": "",
+      "primary_city": "City_54515",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54520",
+      "zip_extension": "",
+      "primary_city": "City_54520",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54525",
+      "zip_extension": "",
+      "primary_city": "City_54525",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54530",
+      "zip_extension": "",
+      "primary_city": "City_54530",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54535",
+      "zip_extension": "",
+      "primary_city": "City_54535",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54540",
+      "zip_extension": "",
+      "primary_city": "City_54540",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54545",
+      "zip_extension": "",
+      "primary_city": "City_54545",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54550",
+      "zip_extension": "",
+      "primary_city": "City_54550",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54555",
+      "zip_extension": "",
+      "primary_city": "City_54555",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54560",
+      "zip_extension": "",
+      "primary_city": "City_54560",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54565",
+      "zip_extension": "",
+      "primary_city": "City_54565",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54570",
+      "zip_extension": "",
+      "primary_city": "City_54570",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54575",
+      "zip_extension": "",
+      "primary_city": "City_54575",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54580",
+      "zip_extension": "",
+      "primary_city": "City_54580",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54585",
+      "zip_extension": "",
+      "primary_city": "City_54585",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54590",
+      "zip_extension": "",
+      "primary_city": "City_54590",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54595",
+      "zip_extension": "",
+      "primary_city": "City_54595",
+      "acceptable_cities": "",
+      "county": "County_545",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54600",
+      "zip_extension": "",
+      "primary_city": "City_54600",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54605",
+      "zip_extension": "",
+      "primary_city": "City_54605",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54610",
+      "zip_extension": "",
+      "primary_city": "City_54610",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54615",
+      "zip_extension": "",
+      "primary_city": "City_54615",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54620",
+      "zip_extension": "",
+      "primary_city": "City_54620",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54625",
+      "zip_extension": "",
+      "primary_city": "City_54625",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54630",
+      "zip_extension": "",
+      "primary_city": "City_54630",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54635",
+      "zip_extension": "",
+      "primary_city": "City_54635",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54640",
+      "zip_extension": "",
+      "primary_city": "City_54640",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54645",
+      "zip_extension": "",
+      "primary_city": "City_54645",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54650",
+      "zip_extension": "",
+      "primary_city": "City_54650",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54655",
+      "zip_extension": "",
+      "primary_city": "City_54655",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54660",
+      "zip_extension": "",
+      "primary_city": "City_54660",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54665",
+      "zip_extension": "",
+      "primary_city": "City_54665",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54670",
+      "zip_extension": "",
+      "primary_city": "City_54670",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54675",
+      "zip_extension": "",
+      "primary_city": "City_54675",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54680",
+      "zip_extension": "",
+      "primary_city": "City_54680",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54685",
+      "zip_extension": "",
+      "primary_city": "City_54685",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54690",
+      "zip_extension": "",
+      "primary_city": "City_54690",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54695",
+      "zip_extension": "",
+      "primary_city": "City_54695",
+      "acceptable_cities": "",
+      "county": "County_546",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54700",
+      "zip_extension": "",
+      "primary_city": "City_54700",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54705",
+      "zip_extension": "",
+      "primary_city": "City_54705",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54710",
+      "zip_extension": "",
+      "primary_city": "City_54710",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54715",
+      "zip_extension": "",
+      "primary_city": "City_54715",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54720",
+      "zip_extension": "",
+      "primary_city": "City_54720",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54725",
+      "zip_extension": "",
+      "primary_city": "City_54725",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54730",
+      "zip_extension": "",
+      "primary_city": "City_54730",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54735",
+      "zip_extension": "",
+      "primary_city": "City_54735",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54740",
+      "zip_extension": "",
+      "primary_city": "City_54740",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54745",
+      "zip_extension": "",
+      "primary_city": "City_54745",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54750",
+      "zip_extension": "",
+      "primary_city": "City_54750",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54755",
+      "zip_extension": "",
+      "primary_city": "City_54755",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54760",
+      "zip_extension": "",
+      "primary_city": "City_54760",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54765",
+      "zip_extension": "",
+      "primary_city": "City_54765",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54770",
+      "zip_extension": "",
+      "primary_city": "City_54770",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54775",
+      "zip_extension": "",
+      "primary_city": "City_54775",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54780",
+      "zip_extension": "",
+      "primary_city": "City_54780",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54785",
+      "zip_extension": "",
+      "primary_city": "City_54785",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54790",
+      "zip_extension": "",
+      "primary_city": "City_54790",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54795",
+      "zip_extension": "",
+      "primary_city": "City_54795",
+      "acceptable_cities": "",
+      "county": "County_547",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54800",
+      "zip_extension": "",
+      "primary_city": "City_54800",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54805",
+      "zip_extension": "",
+      "primary_city": "City_54805",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54810",
+      "zip_extension": "",
+      "primary_city": "City_54810",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54815",
+      "zip_extension": "",
+      "primary_city": "City_54815",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54820",
+      "zip_extension": "",
+      "primary_city": "City_54820",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54825",
+      "zip_extension": "",
+      "primary_city": "City_54825",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54830",
+      "zip_extension": "",
+      "primary_city": "City_54830",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54835",
+      "zip_extension": "",
+      "primary_city": "City_54835",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54840",
+      "zip_extension": "",
+      "primary_city": "City_54840",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54845",
+      "zip_extension": "",
+      "primary_city": "City_54845",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54850",
+      "zip_extension": "",
+      "primary_city": "City_54850",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54855",
+      "zip_extension": "",
+      "primary_city": "City_54855",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54860",
+      "zip_extension": "",
+      "primary_city": "City_54860",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54865",
+      "zip_extension": "",
+      "primary_city": "City_54865",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54870",
+      "zip_extension": "",
+      "primary_city": "City_54870",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54875",
+      "zip_extension": "",
+      "primary_city": "City_54875",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54880",
+      "zip_extension": "",
+      "primary_city": "City_54880",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54885",
+      "zip_extension": "",
+      "primary_city": "City_54885",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54890",
+      "zip_extension": "",
+      "primary_city": "City_54890",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54895",
+      "zip_extension": "",
+      "primary_city": "City_54895",
+      "acceptable_cities": "",
+      "county": "County_548",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54900",
+      "zip_extension": "",
+      "primary_city": "City_54900",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54905",
+      "zip_extension": "",
+      "primary_city": "City_54905",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54910",
+      "zip_extension": "",
+      "primary_city": "City_54910",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54915",
+      "zip_extension": "",
+      "primary_city": "City_54915",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54920",
+      "zip_extension": "",
+      "primary_city": "City_54920",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54925",
+      "zip_extension": "",
+      "primary_city": "City_54925",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54930",
+      "zip_extension": "",
+      "primary_city": "City_54930",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54935",
+      "zip_extension": "",
+      "primary_city": "City_54935",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54940",
+      "zip_extension": "",
+      "primary_city": "City_54940",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54945",
+      "zip_extension": "",
+      "primary_city": "City_54945",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54950",
+      "zip_extension": "",
+      "primary_city": "City_54950",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54955",
+      "zip_extension": "",
+      "primary_city": "City_54955",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54960",
+      "zip_extension": "",
+      "primary_city": "City_54960",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54965",
+      "zip_extension": "",
+      "primary_city": "City_54965",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54970",
+      "zip_extension": "",
+      "primary_city": "City_54970",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54975",
+      "zip_extension": "",
+      "primary_city": "City_54975",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54980",
+      "zip_extension": "",
+      "primary_city": "City_54980",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54985",
+      "zip_extension": "",
+      "primary_city": "City_54985",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54990",
+      "zip_extension": "",
+      "primary_city": "City_54990",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "54995",
+      "zip_extension": "",
+      "primary_city": "City_54995",
+      "acceptable_cities": "",
+      "county": "County_549",
+      "state": "Wisconsin",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

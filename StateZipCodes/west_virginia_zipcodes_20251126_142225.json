@@ -1,0 +1,4407 @@
+{
+  "state": "West Virginia",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 440,
+  "zipcodes": [
+    {
+      "zip_code": "24700",
+      "zip_extension": "",
+      "primary_city": "City_24700",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24705",
+      "zip_extension": "",
+      "primary_city": "City_24705",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24710",
+      "zip_extension": "",
+      "primary_city": "City_24710",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24715",
+      "zip_extension": "",
+      "primary_city": "City_24715",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24720",
+      "zip_extension": "",
+      "primary_city": "City_24720",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24725",
+      "zip_extension": "",
+      "primary_city": "City_24725",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24730",
+      "zip_extension": "",
+      "primary_city": "City_24730",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24735",
+      "zip_extension": "",
+      "primary_city": "City_24735",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24740",
+      "zip_extension": "",
+      "primary_city": "City_24740",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24745",
+      "zip_extension": "",
+      "primary_city": "City_24745",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24750",
+      "zip_extension": "",
+      "primary_city": "City_24750",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24755",
+      "zip_extension": "",
+      "primary_city": "City_24755",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24760",
+      "zip_extension": "",
+      "primary_city": "City_24760",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24765",
+      "zip_extension": "",
+      "primary_city": "City_24765",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24770",
+      "zip_extension": "",
+      "primary_city": "City_24770",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24775",
+      "zip_extension": "",
+      "primary_city": "City_24775",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24780",
+      "zip_extension": "",
+      "primary_city": "City_24780",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24785",
+      "zip_extension": "",
+      "primary_city": "City_24785",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24790",
+      "zip_extension": "",
+      "primary_city": "City_24790",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24795",
+      "zip_extension": "",
+      "primary_city": "City_24795",
+      "acceptable_cities": "",
+      "county": "County_247",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24800",
+      "zip_extension": "",
+      "primary_city": "City_24800",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24805",
+      "zip_extension": "",
+      "primary_city": "City_24805",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24810",
+      "zip_extension": "",
+      "primary_city": "City_24810",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24815",
+      "zip_extension": "",
+      "primary_city": "City_24815",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24820",
+      "zip_extension": "",
+      "primary_city": "City_24820",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24825",
+      "zip_extension": "",
+      "primary_city": "City_24825",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24830",
+      "zip_extension": "",
+      "primary_city": "City_24830",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24835",
+      "zip_extension": "",
+      "primary_city": "City_24835",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24840",
+      "zip_extension": "",
+      "primary_city": "City_24840",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24845",
+      "zip_extension": "",
+      "primary_city": "City_24845",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24850",
+      "zip_extension": "",
+      "primary_city": "City_24850",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24855",
+      "zip_extension": "",
+      "primary_city": "City_24855",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24860",
+      "zip_extension": "",
+      "primary_city": "City_24860",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24865",
+      "zip_extension": "",
+      "primary_city": "City_24865",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24870",
+      "zip_extension": "",
+      "primary_city": "City_24870",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24875",
+      "zip_extension": "",
+      "primary_city": "City_24875",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24880",
+      "zip_extension": "",
+      "primary_city": "City_24880",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24885",
+      "zip_extension": "",
+      "primary_city": "City_24885",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24890",
+      "zip_extension": "",
+      "primary_city": "City_24890",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24895",
+      "zip_extension": "",
+      "primary_city": "City_24895",
+      "acceptable_cities": "",
+      "county": "County_248",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24900",
+      "zip_extension": "",
+      "primary_city": "City_24900",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24905",
+      "zip_extension": "",
+      "primary_city": "City_24905",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24910",
+      "zip_extension": "",
+      "primary_city": "City_24910",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24915",
+      "zip_extension": "",
+      "primary_city": "City_24915",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24920",
+      "zip_extension": "",
+      "primary_city": "City_24920",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24925",
+      "zip_extension": "",
+      "primary_city": "City_24925",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24930",
+      "zip_extension": "",
+      "primary_city": "City_24930",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24935",
+      "zip_extension": "",
+      "primary_city": "City_24935",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24940",
+      "zip_extension": "",
+      "primary_city": "City_24940",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24945",
+      "zip_extension": "",
+      "primary_city": "City_24945",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24950",
+      "zip_extension": "",
+      "primary_city": "City_24950",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24955",
+      "zip_extension": "",
+      "primary_city": "City_24955",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24960",
+      "zip_extension": "",
+      "primary_city": "City_24960",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24965",
+      "zip_extension": "",
+      "primary_city": "City_24965",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24970",
+      "zip_extension": "",
+      "primary_city": "City_24970",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24975",
+      "zip_extension": "",
+      "primary_city": "City_24975",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24980",
+      "zip_extension": "",
+      "primary_city": "City_24980",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24985",
+      "zip_extension": "",
+      "primary_city": "City_24985",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24990",
+      "zip_extension": "",
+      "primary_city": "City_24990",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24995",
+      "zip_extension": "",
+      "primary_city": "City_24995",
+      "acceptable_cities": "",
+      "county": "County_249",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25000",
+      "zip_extension": "",
+      "primary_city": "City_25000",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25005",
+      "zip_extension": "",
+      "primary_city": "City_25005",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25010",
+      "zip_extension": "",
+      "primary_city": "City_25010",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25015",
+      "zip_extension": "",
+      "primary_city": "City_25015",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25020",
+      "zip_extension": "",
+      "primary_city": "City_25020",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25025",
+      "zip_extension": "",
+      "primary_city": "City_25025",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25030",
+      "zip_extension": "",
+      "primary_city": "City_25030",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25035",
+      "zip_extension": "",
+      "primary_city": "City_25035",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25040",
+      "zip_extension": "",
+      "primary_city": "City_25040",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25045",
+      "zip_extension": "",
+      "primary_city": "City_25045",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25050",
+      "zip_extension": "",
+      "primary_city": "City_25050",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25055",
+      "zip_extension": "",
+      "primary_city": "City_25055",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25060",
+      "zip_extension": "",
+      "primary_city": "City_25060",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25065",
+      "zip_extension": "",
+      "primary_city": "City_25065",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25070",
+      "zip_extension": "",
+      "primary_city": "City_25070",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25075",
+      "zip_extension": "",
+      "primary_city": "City_25075",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25080",
+      "zip_extension": "",
+      "primary_city": "City_25080",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25085",
+      "zip_extension": "",
+      "primary_city": "City_25085",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25090",
+      "zip_extension": "",
+      "primary_city": "City_25090",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25095",
+      "zip_extension": "",
+      "primary_city": "City_25095",
+      "acceptable_cities": "",
+      "county": "County_250",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25100",
+      "zip_extension": "",
+      "primary_city": "City_25100",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25105",
+      "zip_extension": "",
+      "primary_city": "City_25105",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25110",
+      "zip_extension": "",
+      "primary_city": "City_25110",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25115",
+      "zip_extension": "",
+      "primary_city": "City_25115",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25120",
+      "zip_extension": "",
+      "primary_city": "City_25120",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25125",
+      "zip_extension": "",
+      "primary_city": "City_25125",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25130",
+      "zip_extension": "",
+      "primary_city": "City_25130",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25135",
+      "zip_extension": "",
+      "primary_city": "City_25135",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25140",
+      "zip_extension": "",
+      "primary_city": "City_25140",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25145",
+      "zip_extension": "",
+      "primary_city": "City_25145",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25150",
+      "zip_extension": "",
+      "primary_city": "City_25150",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25155",
+      "zip_extension": "",
+      "primary_city": "City_25155",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25160",
+      "zip_extension": "",
+      "primary_city": "City_25160",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25165",
+      "zip_extension": "",
+      "primary_city": "City_25165",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25170",
+      "zip_extension": "",
+      "primary_city": "City_25170",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25175",
+      "zip_extension": "",
+      "primary_city": "City_25175",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25180",
+      "zip_extension": "",
+      "primary_city": "City_25180",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25185",
+      "zip_extension": "",
+      "primary_city": "City_25185",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25190",
+      "zip_extension": "",
+      "primary_city": "City_25190",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25195",
+      "zip_extension": "",
+      "primary_city": "City_25195",
+      "acceptable_cities": "",
+      "county": "County_251",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25200",
+      "zip_extension": "",
+      "primary_city": "City_25200",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25205",
+      "zip_extension": "",
+      "primary_city": "City_25205",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25210",
+      "zip_extension": "",
+      "primary_city": "City_25210",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25215",
+      "zip_extension": "",
+      "primary_city": "City_25215",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25220",
+      "zip_extension": "",
+      "primary_city": "City_25220",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25225",
+      "zip_extension": "",
+      "primary_city": "City_25225",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25230",
+      "zip_extension": "",
+      "primary_city": "City_25230",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25235",
+      "zip_extension": "",
+      "primary_city": "City_25235",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25240",
+      "zip_extension": "",
+      "primary_city": "City_25240",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25245",
+      "zip_extension": "",
+      "primary_city": "City_25245",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25250",
+      "zip_extension": "",
+      "primary_city": "City_25250",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25255",
+      "zip_extension": "",
+      "primary_city": "City_25255",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25260",
+      "zip_extension": "",
+      "primary_city": "City_25260",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25265",
+      "zip_extension": "",
+      "primary_city": "City_25265",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25270",
+      "zip_extension": "",
+      "primary_city": "City_25270",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25275",
+      "zip_extension": "",
+      "primary_city": "City_25275",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25280",
+      "zip_extension": "",
+      "primary_city": "City_25280",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25285",
+      "zip_extension": "",
+      "primary_city": "City_25285",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25290",
+      "zip_extension": "",
+      "primary_city": "City_25290",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25295",
+      "zip_extension": "",
+      "primary_city": "City_25295",
+      "acceptable_cities": "",
+      "county": "County_252",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25300",
+      "zip_extension": "",
+      "primary_city": "City_25300",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25305",
+      "zip_extension": "",
+      "primary_city": "City_25305",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25310",
+      "zip_extension": "",
+      "primary_city": "City_25310",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25315",
+      "zip_extension": "",
+      "primary_city": "City_25315",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25320",
+      "zip_extension": "",
+      "primary_city": "City_25320",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25325",
+      "zip_extension": "",
+      "primary_city": "City_25325",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25330",
+      "zip_extension": "",
+      "primary_city": "City_25330",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25335",
+      "zip_extension": "",
+      "primary_city": "City_25335",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25340",
+      "zip_extension": "",
+      "primary_city": "City_25340",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25345",
+      "zip_extension": "",
+      "primary_city": "City_25345",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25350",
+      "zip_extension": "",
+      "primary_city": "City_25350",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25355",
+      "zip_extension": "",
+      "primary_city": "City_25355",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25360",
+      "zip_extension": "",
+      "primary_city": "City_25360",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25365",
+      "zip_extension": "",
+      "primary_city": "City_25365",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25370",
+      "zip_extension": "",
+      "primary_city": "City_25370",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25375",
+      "zip_extension": "",
+      "primary_city": "City_25375",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25380",
+      "zip_extension": "",
+      "primary_city": "City_25380",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25385",
+      "zip_extension": "",
+      "primary_city": "City_25385",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25390",
+      "zip_extension": "",
+      "primary_city": "City_25390",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25395",
+      "zip_extension": "",
+      "primary_city": "City_25395",
+      "acceptable_cities": "",
+      "county": "County_253",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25400",
+      "zip_extension": "",
+      "primary_city": "City_25400",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25405",
+      "zip_extension": "",
+      "primary_city": "City_25405",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25410",
+      "zip_extension": "",
+      "primary_city": "City_25410",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25415",
+      "zip_extension": "",
+      "primary_city": "City_25415",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25420",
+      "zip_extension": "",
+      "primary_city": "City_25420",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25425",
+      "zip_extension": "",
+      "primary_city": "City_25425",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25430",
+      "zip_extension": "",
+      "primary_city": "City_25430",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25435",
+      "zip_extension": "",
+      "primary_city": "City_25435",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25440",
+      "zip_extension": "",
+      "primary_city": "City_25440",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25445",
+      "zip_extension": "",
+      "primary_city": "City_25445",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25450",
+      "zip_extension": "",
+      "primary_city": "City_25450",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25455",
+      "zip_extension": "",
+      "primary_city": "City_25455",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25460",
+      "zip_extension": "",
+      "primary_city": "City_25460",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25465",
+      "zip_extension": "",
+      "primary_city": "City_25465",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25470",
+      "zip_extension": "",
+      "primary_city": "City_25470",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25475",
+      "zip_extension": "",
+      "primary_city": "City_25475",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25480",
+      "zip_extension": "",
+      "primary_city": "City_25480",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25485",
+      "zip_extension": "",
+      "primary_city": "City_25485",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25490",
+      "zip_extension": "",
+      "primary_city": "City_25490",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25495",
+      "zip_extension": "",
+      "primary_city": "City_25495",
+      "acceptable_cities": "",
+      "county": "County_254",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25500",
+      "zip_extension": "",
+      "primary_city": "City_25500",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25505",
+      "zip_extension": "",
+      "primary_city": "City_25505",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25510",
+      "zip_extension": "",
+      "primary_city": "City_25510",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25515",
+      "zip_extension": "",
+      "primary_city": "City_25515",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25520",
+      "zip_extension": "",
+      "primary_city": "City_25520",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25525",
+      "zip_extension": "",
+      "primary_city": "City_25525",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25530",
+      "zip_extension": "",
+      "primary_city": "City_25530",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25535",
+      "zip_extension": "",
+      "primary_city": "City_25535",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25540",
+      "zip_extension": "",
+      "primary_city": "City_25540",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25545",
+      "zip_extension": "",
+      "primary_city": "City_25545",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25550",
+      "zip_extension": "",
+      "primary_city": "City_25550",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25555",
+      "zip_extension": "",
+      "primary_city": "City_25555",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25560",
+      "zip_extension": "",
+      "primary_city": "City_25560",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25565",
+      "zip_extension": "",
+      "primary_city": "City_25565",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25570",
+      "zip_extension": "",
+      "primary_city": "City_25570",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25575",
+      "zip_extension": "",
+      "primary_city": "City_25575",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25580",
+      "zip_extension": "",
+      "primary_city": "City_25580",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25585",
+      "zip_extension": "",
+      "primary_city": "City_25585",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25590",
+      "zip_extension": "",
+      "primary_city": "City_25590",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25595",
+      "zip_extension": "",
+      "primary_city": "City_25595",
+      "acceptable_cities": "",
+      "county": "County_255",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25600",
+      "zip_extension": "",
+      "primary_city": "City_25600",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25605",
+      "zip_extension": "",
+      "primary_city": "City_25605",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25610",
+      "zip_extension": "",
+      "primary_city": "City_25610",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25615",
+      "zip_extension": "",
+      "primary_city": "City_25615",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25620",
+      "zip_extension": "",
+      "primary_city": "City_25620",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25625",
+      "zip_extension": "",
+      "primary_city": "City_25625",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25630",
+      "zip_extension": "",
+      "primary_city": "City_25630",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25635",
+      "zip_extension": "",
+      "primary_city": "City_25635",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25640",
+      "zip_extension": "",
+      "primary_city": "City_25640",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25645",
+      "zip_extension": "",
+      "primary_city": "City_25645",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25650",
+      "zip_extension": "",
+      "primary_city": "City_25650",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25655",
+      "zip_extension": "",
+      "primary_city": "City_25655",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25660",
+      "zip_extension": "",
+      "primary_city": "City_25660",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25665",
+      "zip_extension": "",
+      "primary_city": "City_25665",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25670",
+      "zip_extension": "",
+      "primary_city": "City_25670",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25675",
+      "zip_extension": "",
+      "primary_city": "City_25675",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25680",
+      "zip_extension": "",
+      "primary_city": "City_25680",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25685",
+      "zip_extension": "",
+      "primary_city": "City_25685",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25690",
+      "zip_extension": "",
+      "primary_city": "City_25690",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25695",
+      "zip_extension": "",
+      "primary_city": "City_25695",
+      "acceptable_cities": "",
+      "county": "County_256",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25700",
+      "zip_extension": "",
+      "primary_city": "City_25700",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25705",
+      "zip_extension": "",
+      "primary_city": "City_25705",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25710",
+      "zip_extension": "",
+      "primary_city": "City_25710",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25715",
+      "zip_extension": "",
+      "primary_city": "City_25715",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25720",
+      "zip_extension": "",
+      "primary_city": "City_25720",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25725",
+      "zip_extension": "",
+      "primary_city": "City_25725",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25730",
+      "zip_extension": "",
+      "primary_city": "City_25730",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25735",
+      "zip_extension": "",
+      "primary_city": "City_25735",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25740",
+      "zip_extension": "",
+      "primary_city": "City_25740",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25745",
+      "zip_extension": "",
+      "primary_city": "City_25745",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25750",
+      "zip_extension": "",
+      "primary_city": "City_25750",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25755",
+      "zip_extension": "",
+      "primary_city": "City_25755",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25760",
+      "zip_extension": "",
+      "primary_city": "City_25760",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25765",
+      "zip_extension": "",
+      "primary_city": "City_25765",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25770",
+      "zip_extension": "",
+      "primary_city": "City_25770",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25775",
+      "zip_extension": "",
+      "primary_city": "City_25775",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25780",
+      "zip_extension": "",
+      "primary_city": "City_25780",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25785",
+      "zip_extension": "",
+      "primary_city": "City_25785",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25790",
+      "zip_extension": "",
+      "primary_city": "City_25790",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25795",
+      "zip_extension": "",
+      "primary_city": "City_25795",
+      "acceptable_cities": "",
+      "county": "County_257",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25800",
+      "zip_extension": "",
+      "primary_city": "City_25800",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25805",
+      "zip_extension": "",
+      "primary_city": "City_25805",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25810",
+      "zip_extension": "",
+      "primary_city": "City_25810",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25815",
+      "zip_extension": "",
+      "primary_city": "City_25815",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25820",
+      "zip_extension": "",
+      "primary_city": "City_25820",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25825",
+      "zip_extension": "",
+      "primary_city": "City_25825",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25830",
+      "zip_extension": "",
+      "primary_city": "City_25830",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25835",
+      "zip_extension": "",
+      "primary_city": "City_25835",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25840",
+      "zip_extension": "",
+      "primary_city": "City_25840",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25845",
+      "zip_extension": "",
+      "primary_city": "City_25845",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25850",
+      "zip_extension": "",
+      "primary_city": "City_25850",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25855",
+      "zip_extension": "",
+      "primary_city": "City_25855",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25860",
+      "zip_extension": "",
+      "primary_city": "City_25860",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25865",
+      "zip_extension": "",
+      "primary_city": "City_25865",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25870",
+      "zip_extension": "",
+      "primary_city": "City_25870",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25875",
+      "zip_extension": "",
+      "primary_city": "City_25875",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25880",
+      "zip_extension": "",
+      "primary_city": "City_25880",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25885",
+      "zip_extension": "",
+      "primary_city": "City_25885",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25890",
+      "zip_extension": "",
+      "primary_city": "City_25890",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25895",
+      "zip_extension": "",
+      "primary_city": "City_25895",
+      "acceptable_cities": "",
+      "county": "County_258",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25900",
+      "zip_extension": "",
+      "primary_city": "City_25900",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25905",
+      "zip_extension": "",
+      "primary_city": "City_25905",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25910",
+      "zip_extension": "",
+      "primary_city": "City_25910",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25915",
+      "zip_extension": "",
+      "primary_city": "City_25915",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25920",
+      "zip_extension": "",
+      "primary_city": "City_25920",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25925",
+      "zip_extension": "",
+      "primary_city": "City_25925",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25930",
+      "zip_extension": "",
+      "primary_city": "City_25930",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25935",
+      "zip_extension": "",
+      "primary_city": "City_25935",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25940",
+      "zip_extension": "",
+      "primary_city": "City_25940",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25945",
+      "zip_extension": "",
+      "primary_city": "City_25945",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25950",
+      "zip_extension": "",
+      "primary_city": "City_25950",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25955",
+      "zip_extension": "",
+      "primary_city": "City_25955",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25960",
+      "zip_extension": "",
+      "primary_city": "City_25960",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25965",
+      "zip_extension": "",
+      "primary_city": "City_25965",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25970",
+      "zip_extension": "",
+      "primary_city": "City_25970",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25975",
+      "zip_extension": "",
+      "primary_city": "City_25975",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25980",
+      "zip_extension": "",
+      "primary_city": "City_25980",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25985",
+      "zip_extension": "",
+      "primary_city": "City_25985",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25990",
+      "zip_extension": "",
+      "primary_city": "City_25990",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "25995",
+      "zip_extension": "",
+      "primary_city": "City_25995",
+      "acceptable_cities": "",
+      "county": "County_259",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26000",
+      "zip_extension": "",
+      "primary_city": "City_26000",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26005",
+      "zip_extension": "",
+      "primary_city": "City_26005",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26010",
+      "zip_extension": "",
+      "primary_city": "City_26010",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26015",
+      "zip_extension": "",
+      "primary_city": "City_26015",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26020",
+      "zip_extension": "",
+      "primary_city": "City_26020",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26025",
+      "zip_extension": "",
+      "primary_city": "City_26025",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26030",
+      "zip_extension": "",
+      "primary_city": "City_26030",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26035",
+      "zip_extension": "",
+      "primary_city": "City_26035",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26040",
+      "zip_extension": "",
+      "primary_city": "City_26040",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26045",
+      "zip_extension": "",
+      "primary_city": "City_26045",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26050",
+      "zip_extension": "",
+      "primary_city": "City_26050",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26055",
+      "zip_extension": "",
+      "primary_city": "City_26055",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26060",
+      "zip_extension": "",
+      "primary_city": "City_26060",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26065",
+      "zip_extension": "",
+      "primary_city": "City_26065",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26070",
+      "zip_extension": "",
+      "primary_city": "City_26070",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26075",
+      "zip_extension": "",
+      "primary_city": "City_26075",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26080",
+      "zip_extension": "",
+      "primary_city": "City_26080",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26085",
+      "zip_extension": "",
+      "primary_city": "City_26085",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26090",
+      "zip_extension": "",
+      "primary_city": "City_26090",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26095",
+      "zip_extension": "",
+      "primary_city": "City_26095",
+      "acceptable_cities": "",
+      "county": "County_260",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26100",
+      "zip_extension": "",
+      "primary_city": "City_26100",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26105",
+      "zip_extension": "",
+      "primary_city": "City_26105",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26110",
+      "zip_extension": "",
+      "primary_city": "City_26110",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26115",
+      "zip_extension": "",
+      "primary_city": "City_26115",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26120",
+      "zip_extension": "",
+      "primary_city": "City_26120",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26125",
+      "zip_extension": "",
+      "primary_city": "City_26125",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26130",
+      "zip_extension": "",
+      "primary_city": "City_26130",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26135",
+      "zip_extension": "",
+      "primary_city": "City_26135",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26140",
+      "zip_extension": "",
+      "primary_city": "City_26140",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26145",
+      "zip_extension": "",
+      "primary_city": "City_26145",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26150",
+      "zip_extension": "",
+      "primary_city": "City_26150",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26155",
+      "zip_extension": "",
+      "primary_city": "City_26155",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26160",
+      "zip_extension": "",
+      "primary_city": "City_26160",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26165",
+      "zip_extension": "",
+      "primary_city": "City_26165",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26170",
+      "zip_extension": "",
+      "primary_city": "City_26170",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26175",
+      "zip_extension": "",
+      "primary_city": "City_26175",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26180",
+      "zip_extension": "",
+      "primary_city": "City_26180",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26185",
+      "zip_extension": "",
+      "primary_city": "City_26185",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26190",
+      "zip_extension": "",
+      "primary_city": "City_26190",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26195",
+      "zip_extension": "",
+      "primary_city": "City_26195",
+      "acceptable_cities": "",
+      "county": "County_261",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26200",
+      "zip_extension": "",
+      "primary_city": "City_26200",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26205",
+      "zip_extension": "",
+      "primary_city": "City_26205",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26210",
+      "zip_extension": "",
+      "primary_city": "City_26210",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26215",
+      "zip_extension": "",
+      "primary_city": "City_26215",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26220",
+      "zip_extension": "",
+      "primary_city": "City_26220",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26225",
+      "zip_extension": "",
+      "primary_city": "City_26225",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26230",
+      "zip_extension": "",
+      "primary_city": "City_26230",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26235",
+      "zip_extension": "",
+      "primary_city": "City_26235",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26240",
+      "zip_extension": "",
+      "primary_city": "City_26240",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26245",
+      "zip_extension": "",
+      "primary_city": "City_26245",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26250",
+      "zip_extension": "",
+      "primary_city": "City_26250",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26255",
+      "zip_extension": "",
+      "primary_city": "City_26255",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26260",
+      "zip_extension": "",
+      "primary_city": "City_26260",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26265",
+      "zip_extension": "",
+      "primary_city": "City_26265",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26270",
+      "zip_extension": "",
+      "primary_city": "City_26270",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26275",
+      "zip_extension": "",
+      "primary_city": "City_26275",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26280",
+      "zip_extension": "",
+      "primary_city": "City_26280",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26285",
+      "zip_extension": "",
+      "primary_city": "City_26285",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26290",
+      "zip_extension": "",
+      "primary_city": "City_26290",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26295",
+      "zip_extension": "",
+      "primary_city": "City_26295",
+      "acceptable_cities": "",
+      "county": "County_262",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26300",
+      "zip_extension": "",
+      "primary_city": "City_26300",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26305",
+      "zip_extension": "",
+      "primary_city": "City_26305",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26310",
+      "zip_extension": "",
+      "primary_city": "City_26310",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26315",
+      "zip_extension": "",
+      "primary_city": "City_26315",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26320",
+      "zip_extension": "",
+      "primary_city": "City_26320",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26325",
+      "zip_extension": "",
+      "primary_city": "City_26325",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26330",
+      "zip_extension": "",
+      "primary_city": "City_26330",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26335",
+      "zip_extension": "",
+      "primary_city": "City_26335",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26340",
+      "zip_extension": "",
+      "primary_city": "City_26340",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26345",
+      "zip_extension": "",
+      "primary_city": "City_26345",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26350",
+      "zip_extension": "",
+      "primary_city": "City_26350",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26355",
+      "zip_extension": "",
+      "primary_city": "City_26355",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26360",
+      "zip_extension": "",
+      "primary_city": "City_26360",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26365",
+      "zip_extension": "",
+      "primary_city": "City_26365",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26370",
+      "zip_extension": "",
+      "primary_city": "City_26370",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26375",
+      "zip_extension": "",
+      "primary_city": "City_26375",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26380",
+      "zip_extension": "",
+      "primary_city": "City_26380",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26385",
+      "zip_extension": "",
+      "primary_city": "City_26385",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26390",
+      "zip_extension": "",
+      "primary_city": "City_26390",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26395",
+      "zip_extension": "",
+      "primary_city": "City_26395",
+      "acceptable_cities": "",
+      "county": "County_263",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26400",
+      "zip_extension": "",
+      "primary_city": "City_26400",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26405",
+      "zip_extension": "",
+      "primary_city": "City_26405",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26410",
+      "zip_extension": "",
+      "primary_city": "City_26410",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26415",
+      "zip_extension": "",
+      "primary_city": "City_26415",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26420",
+      "zip_extension": "",
+      "primary_city": "City_26420",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26425",
+      "zip_extension": "",
+      "primary_city": "City_26425",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26430",
+      "zip_extension": "",
+      "primary_city": "City_26430",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26435",
+      "zip_extension": "",
+      "primary_city": "City_26435",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26440",
+      "zip_extension": "",
+      "primary_city": "City_26440",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26445",
+      "zip_extension": "",
+      "primary_city": "City_26445",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26450",
+      "zip_extension": "",
+      "primary_city": "City_26450",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26455",
+      "zip_extension": "",
+      "primary_city": "City_26455",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26460",
+      "zip_extension": "",
+      "primary_city": "City_26460",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26465",
+      "zip_extension": "",
+      "primary_city": "City_26465",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26470",
+      "zip_extension": "",
+      "primary_city": "City_26470",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26475",
+      "zip_extension": "",
+      "primary_city": "City_26475",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26480",
+      "zip_extension": "",
+      "primary_city": "City_26480",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26485",
+      "zip_extension": "",
+      "primary_city": "City_26485",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26490",
+      "zip_extension": "",
+      "primary_city": "City_26490",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26495",
+      "zip_extension": "",
+      "primary_city": "City_26495",
+      "acceptable_cities": "",
+      "county": "County_264",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26500",
+      "zip_extension": "",
+      "primary_city": "City_26500",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26505",
+      "zip_extension": "",
+      "primary_city": "City_26505",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26510",
+      "zip_extension": "",
+      "primary_city": "City_26510",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26515",
+      "zip_extension": "",
+      "primary_city": "City_26515",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26520",
+      "zip_extension": "",
+      "primary_city": "City_26520",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26525",
+      "zip_extension": "",
+      "primary_city": "City_26525",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26530",
+      "zip_extension": "",
+      "primary_city": "City_26530",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26535",
+      "zip_extension": "",
+      "primary_city": "City_26535",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26540",
+      "zip_extension": "",
+      "primary_city": "City_26540",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26545",
+      "zip_extension": "",
+      "primary_city": "City_26545",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26550",
+      "zip_extension": "",
+      "primary_city": "City_26550",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26555",
+      "zip_extension": "",
+      "primary_city": "City_26555",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26560",
+      "zip_extension": "",
+      "primary_city": "City_26560",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26565",
+      "zip_extension": "",
+      "primary_city": "City_26565",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26570",
+      "zip_extension": "",
+      "primary_city": "City_26570",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26575",
+      "zip_extension": "",
+      "primary_city": "City_26575",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26580",
+      "zip_extension": "",
+      "primary_city": "City_26580",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26585",
+      "zip_extension": "",
+      "primary_city": "City_26585",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26590",
+      "zip_extension": "",
+      "primary_city": "City_26590",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26595",
+      "zip_extension": "",
+      "primary_city": "City_26595",
+      "acceptable_cities": "",
+      "county": "County_265",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26600",
+      "zip_extension": "",
+      "primary_city": "City_26600",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26605",
+      "zip_extension": "",
+      "primary_city": "City_26605",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26610",
+      "zip_extension": "",
+      "primary_city": "City_26610",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26615",
+      "zip_extension": "",
+      "primary_city": "City_26615",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26620",
+      "zip_extension": "",
+      "primary_city": "City_26620",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26625",
+      "zip_extension": "",
+      "primary_city": "City_26625",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26630",
+      "zip_extension": "",
+      "primary_city": "City_26630",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26635",
+      "zip_extension": "",
+      "primary_city": "City_26635",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26640",
+      "zip_extension": "",
+      "primary_city": "City_26640",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26645",
+      "zip_extension": "",
+      "primary_city": "City_26645",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26650",
+      "zip_extension": "",
+      "primary_city": "City_26650",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26655",
+      "zip_extension": "",
+      "primary_city": "City_26655",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26660",
+      "zip_extension": "",
+      "primary_city": "City_26660",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26665",
+      "zip_extension": "",
+      "primary_city": "City_26665",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26670",
+      "zip_extension": "",
+      "primary_city": "City_26670",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26675",
+      "zip_extension": "",
+      "primary_city": "City_26675",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26680",
+      "zip_extension": "",
+      "primary_city": "City_26680",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26685",
+      "zip_extension": "",
+      "primary_city": "City_26685",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26690",
+      "zip_extension": "",
+      "primary_city": "City_26690",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26695",
+      "zip_extension": "",
+      "primary_city": "City_26695",
+      "acceptable_cities": "",
+      "county": "County_266",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26700",
+      "zip_extension": "",
+      "primary_city": "City_26700",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26705",
+      "zip_extension": "",
+      "primary_city": "City_26705",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26710",
+      "zip_extension": "",
+      "primary_city": "City_26710",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26715",
+      "zip_extension": "",
+      "primary_city": "City_26715",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26720",
+      "zip_extension": "",
+      "primary_city": "City_26720",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26725",
+      "zip_extension": "",
+      "primary_city": "City_26725",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26730",
+      "zip_extension": "",
+      "primary_city": "City_26730",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26735",
+      "zip_extension": "",
+      "primary_city": "City_26735",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26740",
+      "zip_extension": "",
+      "primary_city": "City_26740",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26745",
+      "zip_extension": "",
+      "primary_city": "City_26745",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26750",
+      "zip_extension": "",
+      "primary_city": "City_26750",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26755",
+      "zip_extension": "",
+      "primary_city": "City_26755",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26760",
+      "zip_extension": "",
+      "primary_city": "City_26760",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26765",
+      "zip_extension": "",
+      "primary_city": "City_26765",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26770",
+      "zip_extension": "",
+      "primary_city": "City_26770",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26775",
+      "zip_extension": "",
+      "primary_city": "City_26775",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26780",
+      "zip_extension": "",
+      "primary_city": "City_26780",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26785",
+      "zip_extension": "",
+      "primary_city": "City_26785",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26790",
+      "zip_extension": "",
+      "primary_city": "City_26790",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26795",
+      "zip_extension": "",
+      "primary_city": "City_26795",
+      "acceptable_cities": "",
+      "county": "County_267",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26800",
+      "zip_extension": "",
+      "primary_city": "City_26800",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26805",
+      "zip_extension": "",
+      "primary_city": "City_26805",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26810",
+      "zip_extension": "",
+      "primary_city": "City_26810",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26815",
+      "zip_extension": "",
+      "primary_city": "City_26815",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26820",
+      "zip_extension": "",
+      "primary_city": "City_26820",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26825",
+      "zip_extension": "",
+      "primary_city": "City_26825",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26830",
+      "zip_extension": "",
+      "primary_city": "City_26830",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26835",
+      "zip_extension": "",
+      "primary_city": "City_26835",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26840",
+      "zip_extension": "",
+      "primary_city": "City_26840",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26845",
+      "zip_extension": "",
+      "primary_city": "City_26845",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26850",
+      "zip_extension": "",
+      "primary_city": "City_26850",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26855",
+      "zip_extension": "",
+      "primary_city": "City_26855",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26860",
+      "zip_extension": "",
+      "primary_city": "City_26860",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26865",
+      "zip_extension": "",
+      "primary_city": "City_26865",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26870",
+      "zip_extension": "",
+      "primary_city": "City_26870",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26875",
+      "zip_extension": "",
+      "primary_city": "City_26875",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26880",
+      "zip_extension": "",
+      "primary_city": "City_26880",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26885",
+      "zip_extension": "",
+      "primary_city": "City_26885",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26890",
+      "zip_extension": "",
+      "primary_city": "City_26890",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "26895",
+      "zip_extension": "",
+      "primary_city": "City_26895",
+      "acceptable_cities": "",
+      "county": "County_268",
+      "state": "West Virginia",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

@@ -1,0 +1,3607 @@
+{
+  "state": "Massachusetts",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 360,
+  "zipcodes": [
+    {
+      "zip_code": "01000",
+      "zip_extension": "",
+      "primary_city": "City_01000",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01005",
+      "zip_extension": "",
+      "primary_city": "City_01005",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01010",
+      "zip_extension": "",
+      "primary_city": "City_01010",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01015",
+      "zip_extension": "",
+      "primary_city": "City_01015",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01020",
+      "zip_extension": "",
+      "primary_city": "City_01020",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01025",
+      "zip_extension": "",
+      "primary_city": "City_01025",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01030",
+      "zip_extension": "",
+      "primary_city": "City_01030",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01035",
+      "zip_extension": "",
+      "primary_city": "City_01035",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01040",
+      "zip_extension": "",
+      "primary_city": "City_01040",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01045",
+      "zip_extension": "",
+      "primary_city": "City_01045",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01050",
+      "zip_extension": "",
+      "primary_city": "City_01050",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01055",
+      "zip_extension": "",
+      "primary_city": "City_01055",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01060",
+      "zip_extension": "",
+      "primary_city": "City_01060",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01065",
+      "zip_extension": "",
+      "primary_city": "City_01065",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01070",
+      "zip_extension": "",
+      "primary_city": "City_01070",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01075",
+      "zip_extension": "",
+      "primary_city": "City_01075",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01080",
+      "zip_extension": "",
+      "primary_city": "City_01080",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01085",
+      "zip_extension": "",
+      "primary_city": "City_01085",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01090",
+      "zip_extension": "",
+      "primary_city": "City_01090",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01095",
+      "zip_extension": "",
+      "primary_city": "City_01095",
+      "acceptable_cities": "",
+      "county": "County_010",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01100",
+      "zip_extension": "",
+      "primary_city": "City_01100",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01105",
+      "zip_extension": "",
+      "primary_city": "City_01105",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01110",
+      "zip_extension": "",
+      "primary_city": "City_01110",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01115",
+      "zip_extension": "",
+      "primary_city": "City_01115",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01120",
+      "zip_extension": "",
+      "primary_city": "City_01120",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01125",
+      "zip_extension": "",
+      "primary_city": "City_01125",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01130",
+      "zip_extension": "",
+      "primary_city": "City_01130",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01135",
+      "zip_extension": "",
+      "primary_city": "City_01135",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01140",
+      "zip_extension": "",
+      "primary_city": "City_01140",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01145",
+      "zip_extension": "",
+      "primary_city": "City_01145",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01150",
+      "zip_extension": "",
+      "primary_city": "City_01150",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01155",
+      "zip_extension": "",
+      "primary_city": "City_01155",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01160",
+      "zip_extension": "",
+      "primary_city": "City_01160",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01165",
+      "zip_extension": "",
+      "primary_city": "City_01165",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01170",
+      "zip_extension": "",
+      "primary_city": "City_01170",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01175",
+      "zip_extension": "",
+      "primary_city": "City_01175",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01180",
+      "zip_extension": "",
+      "primary_city": "City_01180",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01185",
+      "zip_extension": "",
+      "primary_city": "City_01185",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01190",
+      "zip_extension": "",
+      "primary_city": "City_01190",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01195",
+      "zip_extension": "",
+      "primary_city": "City_01195",
+      "acceptable_cities": "",
+      "county": "County_011",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01200",
+      "zip_extension": "",
+      "primary_city": "City_01200",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01205",
+      "zip_extension": "",
+      "primary_city": "City_01205",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01210",
+      "zip_extension": "",
+      "primary_city": "City_01210",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01215",
+      "zip_extension": "",
+      "primary_city": "City_01215",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01220",
+      "zip_extension": "",
+      "primary_city": "City_01220",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01225",
+      "zip_extension": "",
+      "primary_city": "City_01225",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01230",
+      "zip_extension": "",
+      "primary_city": "City_01230",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01235",
+      "zip_extension": "",
+      "primary_city": "City_01235",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01240",
+      "zip_extension": "",
+      "primary_city": "City_01240",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01245",
+      "zip_extension": "",
+      "primary_city": "City_01245",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01250",
+      "zip_extension": "",
+      "primary_city": "City_01250",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01255",
+      "zip_extension": "",
+      "primary_city": "City_01255",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01260",
+      "zip_extension": "",
+      "primary_city": "City_01260",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01265",
+      "zip_extension": "",
+      "primary_city": "City_01265",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01270",
+      "zip_extension": "",
+      "primary_city": "City_01270",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01275",
+      "zip_extension": "",
+      "primary_city": "City_01275",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01280",
+      "zip_extension": "",
+      "primary_city": "City_01280",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01285",
+      "zip_extension": "",
+      "primary_city": "City_01285",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01290",
+      "zip_extension": "",
+      "primary_city": "City_01290",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01295",
+      "zip_extension": "",
+      "primary_city": "City_01295",
+      "acceptable_cities": "",
+      "county": "County_012",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01300",
+      "zip_extension": "",
+      "primary_city": "City_01300",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01305",
+      "zip_extension": "",
+      "primary_city": "City_01305",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01310",
+      "zip_extension": "",
+      "primary_city": "City_01310",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01315",
+      "zip_extension": "",
+      "primary_city": "City_01315",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01320",
+      "zip_extension": "",
+      "primary_city": "City_01320",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01325",
+      "zip_extension": "",
+      "primary_city": "City_01325",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01330",
+      "zip_extension": "",
+      "primary_city": "City_01330",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01335",
+      "zip_extension": "",
+      "primary_city": "City_01335",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01340",
+      "zip_extension": "",
+      "primary_city": "City_01340",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01345",
+      "zip_extension": "",
+      "primary_city": "City_01345",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01350",
+      "zip_extension": "",
+      "primary_city": "City_01350",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01355",
+      "zip_extension": "",
+      "primary_city": "City_01355",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01360",
+      "zip_extension": "",
+      "primary_city": "City_01360",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01365",
+      "zip_extension": "",
+      "primary_city": "City_01365",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01370",
+      "zip_extension": "",
+      "primary_city": "City_01370",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01375",
+      "zip_extension": "",
+      "primary_city": "City_01375",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01380",
+      "zip_extension": "",
+      "primary_city": "City_01380",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01385",
+      "zip_extension": "",
+      "primary_city": "City_01385",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01390",
+      "zip_extension": "",
+      "primary_city": "City_01390",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01395",
+      "zip_extension": "",
+      "primary_city": "City_01395",
+      "acceptable_cities": "",
+      "county": "County_013",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01400",
+      "zip_extension": "",
+      "primary_city": "City_01400",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01405",
+      "zip_extension": "",
+      "primary_city": "City_01405",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01410",
+      "zip_extension": "",
+      "primary_city": "City_01410",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01415",
+      "zip_extension": "",
+      "primary_city": "City_01415",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01420",
+      "zip_extension": "",
+      "primary_city": "City_01420",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01425",
+      "zip_extension": "",
+      "primary_city": "City_01425",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01430",
+      "zip_extension": "",
+      "primary_city": "City_01430",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01435",
+      "zip_extension": "",
+      "primary_city": "City_01435",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01440",
+      "zip_extension": "",
+      "primary_city": "City_01440",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01445",
+      "zip_extension": "",
+      "primary_city": "City_01445",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01450",
+      "zip_extension": "",
+      "primary_city": "City_01450",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01455",
+      "zip_extension": "",
+      "primary_city": "City_01455",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01460",
+      "zip_extension": "",
+      "primary_city": "City_01460",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01465",
+      "zip_extension": "",
+      "primary_city": "City_01465",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01470",
+      "zip_extension": "",
+      "primary_city": "City_01470",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01475",
+      "zip_extension": "",
+      "primary_city": "City_01475",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01480",
+      "zip_extension": "",
+      "primary_city": "City_01480",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01485",
+      "zip_extension": "",
+      "primary_city": "City_01485",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01490",
+      "zip_extension": "",
+      "primary_city": "City_01490",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01495",
+      "zip_extension": "",
+      "primary_city": "City_01495",
+      "acceptable_cities": "",
+      "county": "County_014",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01500",
+      "zip_extension": "",
+      "primary_city": "City_01500",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01505",
+      "zip_extension": "",
+      "primary_city": "City_01505",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01510",
+      "zip_extension": "",
+      "primary_city": "City_01510",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01515",
+      "zip_extension": "",
+      "primary_city": "City_01515",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01520",
+      "zip_extension": "",
+      "primary_city": "City_01520",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01525",
+      "zip_extension": "",
+      "primary_city": "City_01525",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01530",
+      "zip_extension": "",
+      "primary_city": "City_01530",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01535",
+      "zip_extension": "",
+      "primary_city": "City_01535",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01540",
+      "zip_extension": "",
+      "primary_city": "City_01540",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01545",
+      "zip_extension": "",
+      "primary_city": "City_01545",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01550",
+      "zip_extension": "",
+      "primary_city": "City_01550",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01555",
+      "zip_extension": "",
+      "primary_city": "City_01555",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01560",
+      "zip_extension": "",
+      "primary_city": "City_01560",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01565",
+      "zip_extension": "",
+      "primary_city": "City_01565",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01570",
+      "zip_extension": "",
+      "primary_city": "City_01570",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01575",
+      "zip_extension": "",
+      "primary_city": "City_01575",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01580",
+      "zip_extension": "",
+      "primary_city": "City_01580",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01585",
+      "zip_extension": "",
+      "primary_city": "City_01585",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01590",
+      "zip_extension": "",
+      "primary_city": "City_01590",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01595",
+      "zip_extension": "",
+      "primary_city": "City_01595",
+      "acceptable_cities": "",
+      "county": "County_015",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01600",
+      "zip_extension": "",
+      "primary_city": "City_01600",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01605",
+      "zip_extension": "",
+      "primary_city": "City_01605",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01610",
+      "zip_extension": "",
+      "primary_city": "City_01610",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01615",
+      "zip_extension": "",
+      "primary_city": "City_01615",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01620",
+      "zip_extension": "",
+      "primary_city": "City_01620",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01625",
+      "zip_extension": "",
+      "primary_city": "City_01625",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01630",
+      "zip_extension": "",
+      "primary_city": "City_01630",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01635",
+      "zip_extension": "",
+      "primary_city": "City_01635",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01640",
+      "zip_extension": "",
+      "primary_city": "City_01640",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01645",
+      "zip_extension": "",
+      "primary_city": "City_01645",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01650",
+      "zip_extension": "",
+      "primary_city": "City_01650",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01655",
+      "zip_extension": "",
+      "primary_city": "City_01655",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01660",
+      "zip_extension": "",
+      "primary_city": "City_01660",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01665",
+      "zip_extension": "",
+      "primary_city": "City_01665",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01670",
+      "zip_extension": "",
+      "primary_city": "City_01670",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01675",
+      "zip_extension": "",
+      "primary_city": "City_01675",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01680",
+      "zip_extension": "",
+      "primary_city": "City_01680",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01685",
+      "zip_extension": "",
+      "primary_city": "City_01685",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01690",
+      "zip_extension": "",
+      "primary_city": "City_01690",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01695",
+      "zip_extension": "",
+      "primary_city": "City_01695",
+      "acceptable_cities": "",
+      "county": "County_016",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01700",
+      "zip_extension": "",
+      "primary_city": "City_01700",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01705",
+      "zip_extension": "",
+      "primary_city": "City_01705",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01710",
+      "zip_extension": "",
+      "primary_city": "City_01710",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01715",
+      "zip_extension": "",
+      "primary_city": "City_01715",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01720",
+      "zip_extension": "",
+      "primary_city": "City_01720",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01725",
+      "zip_extension": "",
+      "primary_city": "City_01725",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01730",
+      "zip_extension": "",
+      "primary_city": "City_01730",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01735",
+      "zip_extension": "",
+      "primary_city": "City_01735",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01740",
+      "zip_extension": "",
+      "primary_city": "City_01740",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01745",
+      "zip_extension": "",
+      "primary_city": "City_01745",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01750",
+      "zip_extension": "",
+      "primary_city": "City_01750",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01755",
+      "zip_extension": "",
+      "primary_city": "City_01755",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01760",
+      "zip_extension": "",
+      "primary_city": "City_01760",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01765",
+      "zip_extension": "",
+      "primary_city": "City_01765",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01770",
+      "zip_extension": "",
+      "primary_city": "City_01770",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01775",
+      "zip_extension": "",
+      "primary_city": "City_01775",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01780",
+      "zip_extension": "",
+      "primary_city": "City_01780",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01785",
+      "zip_extension": "",
+      "primary_city": "City_01785",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01790",
+      "zip_extension": "",
+      "primary_city": "City_01790",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01795",
+      "zip_extension": "",
+      "primary_city": "City_01795",
+      "acceptable_cities": "",
+      "county": "County_017",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01800",
+      "zip_extension": "",
+      "primary_city": "City_01800",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01805",
+      "zip_extension": "",
+      "primary_city": "City_01805",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01810",
+      "zip_extension": "",
+      "primary_city": "City_01810",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01815",
+      "zip_extension": "",
+      "primary_city": "City_01815",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01820",
+      "zip_extension": "",
+      "primary_city": "City_01820",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01825",
+      "zip_extension": "",
+      "primary_city": "City_01825",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01830",
+      "zip_extension": "",
+      "primary_city": "City_01830",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01835",
+      "zip_extension": "",
+      "primary_city": "City_01835",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01840",
+      "zip_extension": "",
+      "primary_city": "City_01840",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01845",
+      "zip_extension": "",
+      "primary_city": "City_01845",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01850",
+      "zip_extension": "",
+      "primary_city": "City_01850",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01855",
+      "zip_extension": "",
+      "primary_city": "City_01855",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01860",
+      "zip_extension": "",
+      "primary_city": "City_01860",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01865",
+      "zip_extension": "",
+      "primary_city": "City_01865",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01870",
+      "zip_extension": "",
+      "primary_city": "City_01870",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01875",
+      "zip_extension": "",
+      "primary_city": "City_01875",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01880",
+      "zip_extension": "",
+      "primary_city": "City_01880",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01885",
+      "zip_extension": "",
+      "primary_city": "City_01885",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01890",
+      "zip_extension": "",
+      "primary_city": "City_01890",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01895",
+      "zip_extension": "",
+      "primary_city": "City_01895",
+      "acceptable_cities": "",
+      "county": "County_018",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01900",
+      "zip_extension": "",
+      "primary_city": "City_01900",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01905",
+      "zip_extension": "",
+      "primary_city": "City_01905",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01910",
+      "zip_extension": "",
+      "primary_city": "City_01910",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01915",
+      "zip_extension": "",
+      "primary_city": "City_01915",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01920",
+      "zip_extension": "",
+      "primary_city": "City_01920",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01925",
+      "zip_extension": "",
+      "primary_city": "City_01925",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01930",
+      "zip_extension": "",
+      "primary_city": "City_01930",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01935",
+      "zip_extension": "",
+      "primary_city": "City_01935",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01940",
+      "zip_extension": "",
+      "primary_city": "City_01940",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01945",
+      "zip_extension": "",
+      "primary_city": "City_01945",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01950",
+      "zip_extension": "",
+      "primary_city": "City_01950",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01955",
+      "zip_extension": "",
+      "primary_city": "City_01955",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01960",
+      "zip_extension": "",
+      "primary_city": "City_01960",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01965",
+      "zip_extension": "",
+      "primary_city": "City_01965",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01970",
+      "zip_extension": "",
+      "primary_city": "City_01970",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01975",
+      "zip_extension": "",
+      "primary_city": "City_01975",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01980",
+      "zip_extension": "",
+      "primary_city": "City_01980",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01985",
+      "zip_extension": "",
+      "primary_city": "City_01985",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01990",
+      "zip_extension": "",
+      "primary_city": "City_01990",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "01995",
+      "zip_extension": "",
+      "primary_city": "City_01995",
+      "acceptable_cities": "",
+      "county": "County_019",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02000",
+      "zip_extension": "",
+      "primary_city": "City_02000",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02005",
+      "zip_extension": "",
+      "primary_city": "City_02005",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02010",
+      "zip_extension": "",
+      "primary_city": "City_02010",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02015",
+      "zip_extension": "",
+      "primary_city": "City_02015",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02020",
+      "zip_extension": "",
+      "primary_city": "City_02020",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02025",
+      "zip_extension": "",
+      "primary_city": "City_02025",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02030",
+      "zip_extension": "",
+      "primary_city": "City_02030",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02035",
+      "zip_extension": "",
+      "primary_city": "City_02035",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02040",
+      "zip_extension": "",
+      "primary_city": "City_02040",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02045",
+      "zip_extension": "",
+      "primary_city": "City_02045",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02050",
+      "zip_extension": "",
+      "primary_city": "City_02050",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02055",
+      "zip_extension": "",
+      "primary_city": "City_02055",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02060",
+      "zip_extension": "",
+      "primary_city": "City_02060",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02065",
+      "zip_extension": "",
+      "primary_city": "City_02065",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02070",
+      "zip_extension": "",
+      "primary_city": "City_02070",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02075",
+      "zip_extension": "",
+      "primary_city": "City_02075",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02080",
+      "zip_extension": "",
+      "primary_city": "City_02080",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02085",
+      "zip_extension": "",
+      "primary_city": "City_02085",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02090",
+      "zip_extension": "",
+      "primary_city": "City_02090",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02095",
+      "zip_extension": "",
+      "primary_city": "City_02095",
+      "acceptable_cities": "",
+      "county": "County_020",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02100",
+      "zip_extension": "",
+      "primary_city": "City_02100",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02105",
+      "zip_extension": "",
+      "primary_city": "City_02105",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02110",
+      "zip_extension": "",
+      "primary_city": "City_02110",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02115",
+      "zip_extension": "",
+      "primary_city": "City_02115",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02120",
+      "zip_extension": "",
+      "primary_city": "City_02120",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02125",
+      "zip_extension": "",
+      "primary_city": "City_02125",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02130",
+      "zip_extension": "",
+      "primary_city": "City_02130",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02135",
+      "zip_extension": "",
+      "primary_city": "City_02135",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02140",
+      "zip_extension": "",
+      "primary_city": "City_02140",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02145",
+      "zip_extension": "",
+      "primary_city": "City_02145",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02150",
+      "zip_extension": "",
+      "primary_city": "City_02150",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02155",
+      "zip_extension": "",
+      "primary_city": "City_02155",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02160",
+      "zip_extension": "",
+      "primary_city": "City_02160",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02165",
+      "zip_extension": "",
+      "primary_city": "City_02165",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02170",
+      "zip_extension": "",
+      "primary_city": "City_02170",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02175",
+      "zip_extension": "",
+      "primary_city": "City_02175",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02180",
+      "zip_extension": "",
+      "primary_city": "City_02180",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02185",
+      "zip_extension": "",
+      "primary_city": "City_02185",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02190",
+      "zip_extension": "",
+      "primary_city": "City_02190",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02195",
+      "zip_extension": "",
+      "primary_city": "City_02195",
+      "acceptable_cities": "",
+      "county": "County_021",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02200",
+      "zip_extension": "",
+      "primary_city": "City_02200",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02205",
+      "zip_extension": "",
+      "primary_city": "City_02205",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02210",
+      "zip_extension": "",
+      "primary_city": "City_02210",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02215",
+      "zip_extension": "",
+      "primary_city": "City_02215",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02220",
+      "zip_extension": "",
+      "primary_city": "City_02220",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02225",
+      "zip_extension": "",
+      "primary_city": "City_02225",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02230",
+      "zip_extension": "",
+      "primary_city": "City_02230",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02235",
+      "zip_extension": "",
+      "primary_city": "City_02235",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02240",
+      "zip_extension": "",
+      "primary_city": "City_02240",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02245",
+      "zip_extension": "",
+      "primary_city": "City_02245",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02250",
+      "zip_extension": "",
+      "primary_city": "City_02250",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02255",
+      "zip_extension": "",
+      "primary_city": "City_02255",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02260",
+      "zip_extension": "",
+      "primary_city": "City_02260",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02265",
+      "zip_extension": "",
+      "primary_city": "City_02265",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02270",
+      "zip_extension": "",
+      "primary_city": "City_02270",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02275",
+      "zip_extension": "",
+      "primary_city": "City_02275",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02280",
+      "zip_extension": "",
+      "primary_city": "City_02280",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02285",
+      "zip_extension": "",
+      "primary_city": "City_02285",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02290",
+      "zip_extension": "",
+      "primary_city": "City_02290",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02295",
+      "zip_extension": "",
+      "primary_city": "City_02295",
+      "acceptable_cities": "",
+      "county": "County_022",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02300",
+      "zip_extension": "",
+      "primary_city": "City_02300",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02305",
+      "zip_extension": "",
+      "primary_city": "City_02305",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02310",
+      "zip_extension": "",
+      "primary_city": "City_02310",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02315",
+      "zip_extension": "",
+      "primary_city": "City_02315",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02320",
+      "zip_extension": "",
+      "primary_city": "City_02320",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02325",
+      "zip_extension": "",
+      "primary_city": "City_02325",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02330",
+      "zip_extension": "",
+      "primary_city": "City_02330",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02335",
+      "zip_extension": "",
+      "primary_city": "City_02335",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02340",
+      "zip_extension": "",
+      "primary_city": "City_02340",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02345",
+      "zip_extension": "",
+      "primary_city": "City_02345",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02350",
+      "zip_extension": "",
+      "primary_city": "City_02350",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02355",
+      "zip_extension": "",
+      "primary_city": "City_02355",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02360",
+      "zip_extension": "",
+      "primary_city": "City_02360",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02365",
+      "zip_extension": "",
+      "primary_city": "City_02365",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02370",
+      "zip_extension": "",
+      "primary_city": "City_02370",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02375",
+      "zip_extension": "",
+      "primary_city": "City_02375",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02380",
+      "zip_extension": "",
+      "primary_city": "City_02380",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02385",
+      "zip_extension": "",
+      "primary_city": "City_02385",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02390",
+      "zip_extension": "",
+      "primary_city": "City_02390",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02395",
+      "zip_extension": "",
+      "primary_city": "City_02395",
+      "acceptable_cities": "",
+      "county": "County_023",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02400",
+      "zip_extension": "",
+      "primary_city": "City_02400",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02405",
+      "zip_extension": "",
+      "primary_city": "City_02405",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02410",
+      "zip_extension": "",
+      "primary_city": "City_02410",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02415",
+      "zip_extension": "",
+      "primary_city": "City_02415",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02420",
+      "zip_extension": "",
+      "primary_city": "City_02420",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02425",
+      "zip_extension": "",
+      "primary_city": "City_02425",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02430",
+      "zip_extension": "",
+      "primary_city": "City_02430",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02435",
+      "zip_extension": "",
+      "primary_city": "City_02435",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02440",
+      "zip_extension": "",
+      "primary_city": "City_02440",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02445",
+      "zip_extension": "",
+      "primary_city": "City_02445",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02450",
+      "zip_extension": "",
+      "primary_city": "City_02450",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02455",
+      "zip_extension": "",
+      "primary_city": "City_02455",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02460",
+      "zip_extension": "",
+      "primary_city": "City_02460",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02465",
+      "zip_extension": "",
+      "primary_city": "City_02465",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02470",
+      "zip_extension": "",
+      "primary_city": "City_02470",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02475",
+      "zip_extension": "",
+      "primary_city": "City_02475",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02480",
+      "zip_extension": "",
+      "primary_city": "City_02480",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02485",
+      "zip_extension": "",
+      "primary_city": "City_02485",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02490",
+      "zip_extension": "",
+      "primary_city": "City_02490",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02495",
+      "zip_extension": "",
+      "primary_city": "City_02495",
+      "acceptable_cities": "",
+      "county": "County_024",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02500",
+      "zip_extension": "",
+      "primary_city": "City_02500",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02505",
+      "zip_extension": "",
+      "primary_city": "City_02505",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02510",
+      "zip_extension": "",
+      "primary_city": "City_02510",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02515",
+      "zip_extension": "",
+      "primary_city": "City_02515",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02520",
+      "zip_extension": "",
+      "primary_city": "City_02520",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02525",
+      "zip_extension": "",
+      "primary_city": "City_02525",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02530",
+      "zip_extension": "",
+      "primary_city": "City_02530",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02535",
+      "zip_extension": "",
+      "primary_city": "City_02535",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02540",
+      "zip_extension": "",
+      "primary_city": "City_02540",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02545",
+      "zip_extension": "",
+      "primary_city": "City_02545",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02550",
+      "zip_extension": "",
+      "primary_city": "City_02550",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02555",
+      "zip_extension": "",
+      "primary_city": "City_02555",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02560",
+      "zip_extension": "",
+      "primary_city": "City_02560",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02565",
+      "zip_extension": "",
+      "primary_city": "City_02565",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02570",
+      "zip_extension": "",
+      "primary_city": "City_02570",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02575",
+      "zip_extension": "",
+      "primary_city": "City_02575",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02580",
+      "zip_extension": "",
+      "primary_city": "City_02580",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02585",
+      "zip_extension": "",
+      "primary_city": "City_02585",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02590",
+      "zip_extension": "",
+      "primary_city": "City_02590",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02595",
+      "zip_extension": "",
+      "primary_city": "City_02595",
+      "acceptable_cities": "",
+      "county": "County_025",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02600",
+      "zip_extension": "",
+      "primary_city": "City_02600",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02605",
+      "zip_extension": "",
+      "primary_city": "City_02605",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02610",
+      "zip_extension": "",
+      "primary_city": "City_02610",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02615",
+      "zip_extension": "",
+      "primary_city": "City_02615",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02620",
+      "zip_extension": "",
+      "primary_city": "City_02620",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02625",
+      "zip_extension": "",
+      "primary_city": "City_02625",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02630",
+      "zip_extension": "",
+      "primary_city": "City_02630",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02635",
+      "zip_extension": "",
+      "primary_city": "City_02635",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02640",
+      "zip_extension": "",
+      "primary_city": "City_02640",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02645",
+      "zip_extension": "",
+      "primary_city": "City_02645",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02650",
+      "zip_extension": "",
+      "primary_city": "City_02650",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02655",
+      "zip_extension": "",
+      "primary_city": "City_02655",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02660",
+      "zip_extension": "",
+      "primary_city": "City_02660",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02665",
+      "zip_extension": "",
+      "primary_city": "City_02665",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02670",
+      "zip_extension": "",
+      "primary_city": "City_02670",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02675",
+      "zip_extension": "",
+      "primary_city": "City_02675",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02680",
+      "zip_extension": "",
+      "primary_city": "City_02680",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02685",
+      "zip_extension": "",
+      "primary_city": "City_02685",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02690",
+      "zip_extension": "",
+      "primary_city": "City_02690",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02695",
+      "zip_extension": "",
+      "primary_city": "City_02695",
+      "acceptable_cities": "",
+      "county": "County_026",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02700",
+      "zip_extension": "",
+      "primary_city": "City_02700",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02705",
+      "zip_extension": "",
+      "primary_city": "City_02705",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02710",
+      "zip_extension": "",
+      "primary_city": "City_02710",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02715",
+      "zip_extension": "",
+      "primary_city": "City_02715",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02720",
+      "zip_extension": "",
+      "primary_city": "City_02720",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02725",
+      "zip_extension": "",
+      "primary_city": "City_02725",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02730",
+      "zip_extension": "",
+      "primary_city": "City_02730",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02735",
+      "zip_extension": "",
+      "primary_city": "City_02735",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02740",
+      "zip_extension": "",
+      "primary_city": "City_02740",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02745",
+      "zip_extension": "",
+      "primary_city": "City_02745",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02750",
+      "zip_extension": "",
+      "primary_city": "City_02750",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02755",
+      "zip_extension": "",
+      "primary_city": "City_02755",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02760",
+      "zip_extension": "",
+      "primary_city": "City_02760",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02765",
+      "zip_extension": "",
+      "primary_city": "City_02765",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02770",
+      "zip_extension": "",
+      "primary_city": "City_02770",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02775",
+      "zip_extension": "",
+      "primary_city": "City_02775",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02780",
+      "zip_extension": "",
+      "primary_city": "City_02780",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02785",
+      "zip_extension": "",
+      "primary_city": "City_02785",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02790",
+      "zip_extension": "",
+      "primary_city": "City_02790",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02795",
+      "zip_extension": "",
+      "primary_city": "City_02795",
+      "acceptable_cities": "",
+      "county": "County_027",
+      "state": "Massachusetts",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

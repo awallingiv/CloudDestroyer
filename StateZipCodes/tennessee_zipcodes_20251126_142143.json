@@ -1,0 +1,3207 @@
+{
+  "state": "Tennessee",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 320,
+  "zipcodes": [
+    {
+      "zip_code": "37000",
+      "zip_extension": "",
+      "primary_city": "City_37000",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37005",
+      "zip_extension": "",
+      "primary_city": "City_37005",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37010",
+      "zip_extension": "",
+      "primary_city": "City_37010",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37015",
+      "zip_extension": "",
+      "primary_city": "City_37015",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37020",
+      "zip_extension": "",
+      "primary_city": "City_37020",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37025",
+      "zip_extension": "",
+      "primary_city": "City_37025",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37030",
+      "zip_extension": "",
+      "primary_city": "City_37030",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37035",
+      "zip_extension": "",
+      "primary_city": "City_37035",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37040",
+      "zip_extension": "",
+      "primary_city": "City_37040",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37045",
+      "zip_extension": "",
+      "primary_city": "City_37045",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37050",
+      "zip_extension": "",
+      "primary_city": "City_37050",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37055",
+      "zip_extension": "",
+      "primary_city": "City_37055",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37060",
+      "zip_extension": "",
+      "primary_city": "City_37060",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37065",
+      "zip_extension": "",
+      "primary_city": "City_37065",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37070",
+      "zip_extension": "",
+      "primary_city": "City_37070",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37075",
+      "zip_extension": "",
+      "primary_city": "City_37075",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37080",
+      "zip_extension": "",
+      "primary_city": "City_37080",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37085",
+      "zip_extension": "",
+      "primary_city": "City_37085",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37090",
+      "zip_extension": "",
+      "primary_city": "City_37090",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37095",
+      "zip_extension": "",
+      "primary_city": "City_37095",
+      "acceptable_cities": "",
+      "county": "County_370",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37100",
+      "zip_extension": "",
+      "primary_city": "City_37100",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37105",
+      "zip_extension": "",
+      "primary_city": "City_37105",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37110",
+      "zip_extension": "",
+      "primary_city": "City_37110",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37115",
+      "zip_extension": "",
+      "primary_city": "City_37115",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37120",
+      "zip_extension": "",
+      "primary_city": "City_37120",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37125",
+      "zip_extension": "",
+      "primary_city": "City_37125",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37130",
+      "zip_extension": "",
+      "primary_city": "City_37130",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37135",
+      "zip_extension": "",
+      "primary_city": "City_37135",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37140",
+      "zip_extension": "",
+      "primary_city": "City_37140",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37145",
+      "zip_extension": "",
+      "primary_city": "City_37145",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37150",
+      "zip_extension": "",
+      "primary_city": "City_37150",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37155",
+      "zip_extension": "",
+      "primary_city": "City_37155",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37160",
+      "zip_extension": "",
+      "primary_city": "City_37160",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37165",
+      "zip_extension": "",
+      "primary_city": "City_37165",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37170",
+      "zip_extension": "",
+      "primary_city": "City_37170",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37175",
+      "zip_extension": "",
+      "primary_city": "City_37175",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37180",
+      "zip_extension": "",
+      "primary_city": "City_37180",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37185",
+      "zip_extension": "",
+      "primary_city": "City_37185",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37190",
+      "zip_extension": "",
+      "primary_city": "City_37190",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37195",
+      "zip_extension": "",
+      "primary_city": "City_37195",
+      "acceptable_cities": "",
+      "county": "County_371",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37200",
+      "zip_extension": "",
+      "primary_city": "City_37200",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37205",
+      "zip_extension": "",
+      "primary_city": "City_37205",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37210",
+      "zip_extension": "",
+      "primary_city": "City_37210",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37215",
+      "zip_extension": "",
+      "primary_city": "City_37215",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37220",
+      "zip_extension": "",
+      "primary_city": "City_37220",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37225",
+      "zip_extension": "",
+      "primary_city": "City_37225",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37230",
+      "zip_extension": "",
+      "primary_city": "City_37230",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37235",
+      "zip_extension": "",
+      "primary_city": "City_37235",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37240",
+      "zip_extension": "",
+      "primary_city": "City_37240",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37245",
+      "zip_extension": "",
+      "primary_city": "City_37245",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37250",
+      "zip_extension": "",
+      "primary_city": "City_37250",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37255",
+      "zip_extension": "",
+      "primary_city": "City_37255",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37260",
+      "zip_extension": "",
+      "primary_city": "City_37260",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37265",
+      "zip_extension": "",
+      "primary_city": "City_37265",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37270",
+      "zip_extension": "",
+      "primary_city": "City_37270",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37275",
+      "zip_extension": "",
+      "primary_city": "City_37275",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37280",
+      "zip_extension": "",
+      "primary_city": "City_37280",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37285",
+      "zip_extension": "",
+      "primary_city": "City_37285",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37290",
+      "zip_extension": "",
+      "primary_city": "City_37290",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37295",
+      "zip_extension": "",
+      "primary_city": "City_37295",
+      "acceptable_cities": "",
+      "county": "County_372",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37300",
+      "zip_extension": "",
+      "primary_city": "City_37300",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37305",
+      "zip_extension": "",
+      "primary_city": "City_37305",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37310",
+      "zip_extension": "",
+      "primary_city": "City_37310",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37315",
+      "zip_extension": "",
+      "primary_city": "City_37315",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37320",
+      "zip_extension": "",
+      "primary_city": "City_37320",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37325",
+      "zip_extension": "",
+      "primary_city": "City_37325",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37330",
+      "zip_extension": "",
+      "primary_city": "City_37330",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37335",
+      "zip_extension": "",
+      "primary_city": "City_37335",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37340",
+      "zip_extension": "",
+      "primary_city": "City_37340",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37345",
+      "zip_extension": "",
+      "primary_city": "City_37345",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37350",
+      "zip_extension": "",
+      "primary_city": "City_37350",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37355",
+      "zip_extension": "",
+      "primary_city": "City_37355",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37360",
+      "zip_extension": "",
+      "primary_city": "City_37360",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37365",
+      "zip_extension": "",
+      "primary_city": "City_37365",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37370",
+      "zip_extension": "",
+      "primary_city": "City_37370",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37375",
+      "zip_extension": "",
+      "primary_city": "City_37375",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37380",
+      "zip_extension": "",
+      "primary_city": "City_37380",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37385",
+      "zip_extension": "",
+      "primary_city": "City_37385",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37390",
+      "zip_extension": "",
+      "primary_city": "City_37390",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37395",
+      "zip_extension": "",
+      "primary_city": "City_37395",
+      "acceptable_cities": "",
+      "county": "County_373",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37400",
+      "zip_extension": "",
+      "primary_city": "City_37400",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37405",
+      "zip_extension": "",
+      "primary_city": "City_37405",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37410",
+      "zip_extension": "",
+      "primary_city": "City_37410",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37415",
+      "zip_extension": "",
+      "primary_city": "City_37415",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37420",
+      "zip_extension": "",
+      "primary_city": "City_37420",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37425",
+      "zip_extension": "",
+      "primary_city": "City_37425",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37430",
+      "zip_extension": "",
+      "primary_city": "City_37430",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37435",
+      "zip_extension": "",
+      "primary_city": "City_37435",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37440",
+      "zip_extension": "",
+      "primary_city": "City_37440",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37445",
+      "zip_extension": "",
+      "primary_city": "City_37445",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37450",
+      "zip_extension": "",
+      "primary_city": "City_37450",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37455",
+      "zip_extension": "",
+      "primary_city": "City_37455",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37460",
+      "zip_extension": "",
+      "primary_city": "City_37460",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37465",
+      "zip_extension": "",
+      "primary_city": "City_37465",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37470",
+      "zip_extension": "",
+      "primary_city": "City_37470",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37475",
+      "zip_extension": "",
+      "primary_city": "City_37475",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37480",
+      "zip_extension": "",
+      "primary_city": "City_37480",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37485",
+      "zip_extension": "",
+      "primary_city": "City_37485",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37490",
+      "zip_extension": "",
+      "primary_city": "City_37490",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37495",
+      "zip_extension": "",
+      "primary_city": "City_37495",
+      "acceptable_cities": "",
+      "county": "County_374",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37500",
+      "zip_extension": "",
+      "primary_city": "City_37500",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37505",
+      "zip_extension": "",
+      "primary_city": "City_37505",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37510",
+      "zip_extension": "",
+      "primary_city": "City_37510",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37515",
+      "zip_extension": "",
+      "primary_city": "City_37515",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37520",
+      "zip_extension": "",
+      "primary_city": "City_37520",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37525",
+      "zip_extension": "",
+      "primary_city": "City_37525",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37530",
+      "zip_extension": "",
+      "primary_city": "City_37530",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37535",
+      "zip_extension": "",
+      "primary_city": "City_37535",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37540",
+      "zip_extension": "",
+      "primary_city": "City_37540",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37545",
+      "zip_extension": "",
+      "primary_city": "City_37545",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37550",
+      "zip_extension": "",
+      "primary_city": "City_37550",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37555",
+      "zip_extension": "",
+      "primary_city": "City_37555",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37560",
+      "zip_extension": "",
+      "primary_city": "City_37560",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37565",
+      "zip_extension": "",
+      "primary_city": "City_37565",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37570",
+      "zip_extension": "",
+      "primary_city": "City_37570",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37575",
+      "zip_extension": "",
+      "primary_city": "City_37575",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37580",
+      "zip_extension": "",
+      "primary_city": "City_37580",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37585",
+      "zip_extension": "",
+      "primary_city": "City_37585",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37590",
+      "zip_extension": "",
+      "primary_city": "City_37590",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37595",
+      "zip_extension": "",
+      "primary_city": "City_37595",
+      "acceptable_cities": "",
+      "county": "County_375",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37600",
+      "zip_extension": "",
+      "primary_city": "City_37600",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37605",
+      "zip_extension": "",
+      "primary_city": "City_37605",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37610",
+      "zip_extension": "",
+      "primary_city": "City_37610",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37615",
+      "zip_extension": "",
+      "primary_city": "City_37615",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37620",
+      "zip_extension": "",
+      "primary_city": "City_37620",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37625",
+      "zip_extension": "",
+      "primary_city": "City_37625",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37630",
+      "zip_extension": "",
+      "primary_city": "City_37630",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37635",
+      "zip_extension": "",
+      "primary_city": "City_37635",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37640",
+      "zip_extension": "",
+      "primary_city": "City_37640",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37645",
+      "zip_extension": "",
+      "primary_city": "City_37645",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37650",
+      "zip_extension": "",
+      "primary_city": "City_37650",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37655",
+      "zip_extension": "",
+      "primary_city": "City_37655",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37660",
+      "zip_extension": "",
+      "primary_city": "City_37660",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37665",
+      "zip_extension": "",
+      "primary_city": "City_37665",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37670",
+      "zip_extension": "",
+      "primary_city": "City_37670",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37675",
+      "zip_extension": "",
+      "primary_city": "City_37675",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37680",
+      "zip_extension": "",
+      "primary_city": "City_37680",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37685",
+      "zip_extension": "",
+      "primary_city": "City_37685",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37690",
+      "zip_extension": "",
+      "primary_city": "City_37690",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37695",
+      "zip_extension": "",
+      "primary_city": "City_37695",
+      "acceptable_cities": "",
+      "county": "County_376",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37700",
+      "zip_extension": "",
+      "primary_city": "City_37700",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37705",
+      "zip_extension": "",
+      "primary_city": "City_37705",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37710",
+      "zip_extension": "",
+      "primary_city": "City_37710",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37715",
+      "zip_extension": "",
+      "primary_city": "City_37715",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37720",
+      "zip_extension": "",
+      "primary_city": "City_37720",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37725",
+      "zip_extension": "",
+      "primary_city": "City_37725",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37730",
+      "zip_extension": "",
+      "primary_city": "City_37730",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37735",
+      "zip_extension": "",
+      "primary_city": "City_37735",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37740",
+      "zip_extension": "",
+      "primary_city": "City_37740",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37745",
+      "zip_extension": "",
+      "primary_city": "City_37745",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37750",
+      "zip_extension": "",
+      "primary_city": "City_37750",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37755",
+      "zip_extension": "",
+      "primary_city": "City_37755",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37760",
+      "zip_extension": "",
+      "primary_city": "City_37760",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37765",
+      "zip_extension": "",
+      "primary_city": "City_37765",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37770",
+      "zip_extension": "",
+      "primary_city": "City_37770",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37775",
+      "zip_extension": "",
+      "primary_city": "City_37775",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37780",
+      "zip_extension": "",
+      "primary_city": "City_37780",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37785",
+      "zip_extension": "",
+      "primary_city": "City_37785",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37790",
+      "zip_extension": "",
+      "primary_city": "City_37790",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37795",
+      "zip_extension": "",
+      "primary_city": "City_37795",
+      "acceptable_cities": "",
+      "county": "County_377",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37800",
+      "zip_extension": "",
+      "primary_city": "City_37800",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37805",
+      "zip_extension": "",
+      "primary_city": "City_37805",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37810",
+      "zip_extension": "",
+      "primary_city": "City_37810",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37815",
+      "zip_extension": "",
+      "primary_city": "City_37815",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37820",
+      "zip_extension": "",
+      "primary_city": "City_37820",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37825",
+      "zip_extension": "",
+      "primary_city": "City_37825",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37830",
+      "zip_extension": "",
+      "primary_city": "City_37830",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37835",
+      "zip_extension": "",
+      "primary_city": "City_37835",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37840",
+      "zip_extension": "",
+      "primary_city": "City_37840",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37845",
+      "zip_extension": "",
+      "primary_city": "City_37845",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37850",
+      "zip_extension": "",
+      "primary_city": "City_37850",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37855",
+      "zip_extension": "",
+      "primary_city": "City_37855",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37860",
+      "zip_extension": "",
+      "primary_city": "City_37860",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37865",
+      "zip_extension": "",
+      "primary_city": "City_37865",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37870",
+      "zip_extension": "",
+      "primary_city": "City_37870",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37875",
+      "zip_extension": "",
+      "primary_city": "City_37875",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37880",
+      "zip_extension": "",
+      "primary_city": "City_37880",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37885",
+      "zip_extension": "",
+      "primary_city": "City_37885",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37890",
+      "zip_extension": "",
+      "primary_city": "City_37890",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37895",
+      "zip_extension": "",
+      "primary_city": "City_37895",
+      "acceptable_cities": "",
+      "county": "County_378",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37900",
+      "zip_extension": "",
+      "primary_city": "City_37900",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37905",
+      "zip_extension": "",
+      "primary_city": "City_37905",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37910",
+      "zip_extension": "",
+      "primary_city": "City_37910",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37915",
+      "zip_extension": "",
+      "primary_city": "City_37915",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37920",
+      "zip_extension": "",
+      "primary_city": "City_37920",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37925",
+      "zip_extension": "",
+      "primary_city": "City_37925",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37930",
+      "zip_extension": "",
+      "primary_city": "City_37930",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37935",
+      "zip_extension": "",
+      "primary_city": "City_37935",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37940",
+      "zip_extension": "",
+      "primary_city": "City_37940",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37945",
+      "zip_extension": "",
+      "primary_city": "City_37945",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37950",
+      "zip_extension": "",
+      "primary_city": "City_37950",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37955",
+      "zip_extension": "",
+      "primary_city": "City_37955",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37960",
+      "zip_extension": "",
+      "primary_city": "City_37960",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37965",
+      "zip_extension": "",
+      "primary_city": "City_37965",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37970",
+      "zip_extension": "",
+      "primary_city": "City_37970",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37975",
+      "zip_extension": "",
+      "primary_city": "City_37975",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37980",
+      "zip_extension": "",
+      "primary_city": "City_37980",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37985",
+      "zip_extension": "",
+      "primary_city": "City_37985",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37990",
+      "zip_extension": "",
+      "primary_city": "City_37990",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "37995",
+      "zip_extension": "",
+      "primary_city": "City_37995",
+      "acceptable_cities": "",
+      "county": "County_379",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38000",
+      "zip_extension": "",
+      "primary_city": "City_38000",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38005",
+      "zip_extension": "",
+      "primary_city": "City_38005",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38010",
+      "zip_extension": "",
+      "primary_city": "City_38010",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38015",
+      "zip_extension": "",
+      "primary_city": "City_38015",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38020",
+      "zip_extension": "",
+      "primary_city": "City_38020",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38025",
+      "zip_extension": "",
+      "primary_city": "City_38025",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38030",
+      "zip_extension": "",
+      "primary_city": "City_38030",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38035",
+      "zip_extension": "",
+      "primary_city": "City_38035",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38040",
+      "zip_extension": "",
+      "primary_city": "City_38040",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38045",
+      "zip_extension": "",
+      "primary_city": "City_38045",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38050",
+      "zip_extension": "",
+      "primary_city": "City_38050",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38055",
+      "zip_extension": "",
+      "primary_city": "City_38055",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38060",
+      "zip_extension": "",
+      "primary_city": "City_38060",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38065",
+      "zip_extension": "",
+      "primary_city": "City_38065",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38070",
+      "zip_extension": "",
+      "primary_city": "City_38070",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38075",
+      "zip_extension": "",
+      "primary_city": "City_38075",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38080",
+      "zip_extension": "",
+      "primary_city": "City_38080",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38085",
+      "zip_extension": "",
+      "primary_city": "City_38085",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38090",
+      "zip_extension": "",
+      "primary_city": "City_38090",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38095",
+      "zip_extension": "",
+      "primary_city": "City_38095",
+      "acceptable_cities": "",
+      "county": "County_380",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38100",
+      "zip_extension": "",
+      "primary_city": "City_38100",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38105",
+      "zip_extension": "",
+      "primary_city": "City_38105",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38110",
+      "zip_extension": "",
+      "primary_city": "City_38110",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38115",
+      "zip_extension": "",
+      "primary_city": "City_38115",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38120",
+      "zip_extension": "",
+      "primary_city": "City_38120",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38125",
+      "zip_extension": "",
+      "primary_city": "City_38125",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38130",
+      "zip_extension": "",
+      "primary_city": "City_38130",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38135",
+      "zip_extension": "",
+      "primary_city": "City_38135",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38140",
+      "zip_extension": "",
+      "primary_city": "City_38140",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38145",
+      "zip_extension": "",
+      "primary_city": "City_38145",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38150",
+      "zip_extension": "",
+      "primary_city": "City_38150",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38155",
+      "zip_extension": "",
+      "primary_city": "City_38155",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38160",
+      "zip_extension": "",
+      "primary_city": "City_38160",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38165",
+      "zip_extension": "",
+      "primary_city": "City_38165",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38170",
+      "zip_extension": "",
+      "primary_city": "City_38170",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38175",
+      "zip_extension": "",
+      "primary_city": "City_38175",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38180",
+      "zip_extension": "",
+      "primary_city": "City_38180",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38185",
+      "zip_extension": "",
+      "primary_city": "City_38185",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38190",
+      "zip_extension": "",
+      "primary_city": "City_38190",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38195",
+      "zip_extension": "",
+      "primary_city": "City_38195",
+      "acceptable_cities": "",
+      "county": "County_381",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38200",
+      "zip_extension": "",
+      "primary_city": "City_38200",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38205",
+      "zip_extension": "",
+      "primary_city": "City_38205",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38210",
+      "zip_extension": "",
+      "primary_city": "City_38210",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38215",
+      "zip_extension": "",
+      "primary_city": "City_38215",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38220",
+      "zip_extension": "",
+      "primary_city": "City_38220",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38225",
+      "zip_extension": "",
+      "primary_city": "City_38225",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38230",
+      "zip_extension": "",
+      "primary_city": "City_38230",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38235",
+      "zip_extension": "",
+      "primary_city": "City_38235",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38240",
+      "zip_extension": "",
+      "primary_city": "City_38240",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38245",
+      "zip_extension": "",
+      "primary_city": "City_38245",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38250",
+      "zip_extension": "",
+      "primary_city": "City_38250",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38255",
+      "zip_extension": "",
+      "primary_city": "City_38255",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38260",
+      "zip_extension": "",
+      "primary_city": "City_38260",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38265",
+      "zip_extension": "",
+      "primary_city": "City_38265",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38270",
+      "zip_extension": "",
+      "primary_city": "City_38270",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38275",
+      "zip_extension": "",
+      "primary_city": "City_38275",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38280",
+      "zip_extension": "",
+      "primary_city": "City_38280",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38285",
+      "zip_extension": "",
+      "primary_city": "City_38285",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38290",
+      "zip_extension": "",
+      "primary_city": "City_38290",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38295",
+      "zip_extension": "",
+      "primary_city": "City_38295",
+      "acceptable_cities": "",
+      "county": "County_382",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38300",
+      "zip_extension": "",
+      "primary_city": "City_38300",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38305",
+      "zip_extension": "",
+      "primary_city": "City_38305",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38310",
+      "zip_extension": "",
+      "primary_city": "City_38310",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38315",
+      "zip_extension": "",
+      "primary_city": "City_38315",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38320",
+      "zip_extension": "",
+      "primary_city": "City_38320",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38325",
+      "zip_extension": "",
+      "primary_city": "City_38325",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38330",
+      "zip_extension": "",
+      "primary_city": "City_38330",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38335",
+      "zip_extension": "",
+      "primary_city": "City_38335",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38340",
+      "zip_extension": "",
+      "primary_city": "City_38340",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38345",
+      "zip_extension": "",
+      "primary_city": "City_38345",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38350",
+      "zip_extension": "",
+      "primary_city": "City_38350",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38355",
+      "zip_extension": "",
+      "primary_city": "City_38355",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38360",
+      "zip_extension": "",
+      "primary_city": "City_38360",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38365",
+      "zip_extension": "",
+      "primary_city": "City_38365",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38370",
+      "zip_extension": "",
+      "primary_city": "City_38370",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38375",
+      "zip_extension": "",
+      "primary_city": "City_38375",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38380",
+      "zip_extension": "",
+      "primary_city": "City_38380",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38385",
+      "zip_extension": "",
+      "primary_city": "City_38385",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38390",
+      "zip_extension": "",
+      "primary_city": "City_38390",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38395",
+      "zip_extension": "",
+      "primary_city": "City_38395",
+      "acceptable_cities": "",
+      "county": "County_383",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38400",
+      "zip_extension": "",
+      "primary_city": "City_38400",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38405",
+      "zip_extension": "",
+      "primary_city": "City_38405",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38410",
+      "zip_extension": "",
+      "primary_city": "City_38410",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38415",
+      "zip_extension": "",
+      "primary_city": "City_38415",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38420",
+      "zip_extension": "",
+      "primary_city": "City_38420",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38425",
+      "zip_extension": "",
+      "primary_city": "City_38425",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38430",
+      "zip_extension": "",
+      "primary_city": "City_38430",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38435",
+      "zip_extension": "",
+      "primary_city": "City_38435",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38440",
+      "zip_extension": "",
+      "primary_city": "City_38440",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38445",
+      "zip_extension": "",
+      "primary_city": "City_38445",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38450",
+      "zip_extension": "",
+      "primary_city": "City_38450",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38455",
+      "zip_extension": "",
+      "primary_city": "City_38455",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38460",
+      "zip_extension": "",
+      "primary_city": "City_38460",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38465",
+      "zip_extension": "",
+      "primary_city": "City_38465",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38470",
+      "zip_extension": "",
+      "primary_city": "City_38470",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38475",
+      "zip_extension": "",
+      "primary_city": "City_38475",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38480",
+      "zip_extension": "",
+      "primary_city": "City_38480",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38485",
+      "zip_extension": "",
+      "primary_city": "City_38485",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38490",
+      "zip_extension": "",
+      "primary_city": "City_38490",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38495",
+      "zip_extension": "",
+      "primary_city": "City_38495",
+      "acceptable_cities": "",
+      "county": "County_384",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38500",
+      "zip_extension": "",
+      "primary_city": "City_38500",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38505",
+      "zip_extension": "",
+      "primary_city": "City_38505",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38510",
+      "zip_extension": "",
+      "primary_city": "City_38510",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38515",
+      "zip_extension": "",
+      "primary_city": "City_38515",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38520",
+      "zip_extension": "",
+      "primary_city": "City_38520",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38525",
+      "zip_extension": "",
+      "primary_city": "City_38525",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38530",
+      "zip_extension": "",
+      "primary_city": "City_38530",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38535",
+      "zip_extension": "",
+      "primary_city": "City_38535",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38540",
+      "zip_extension": "",
+      "primary_city": "City_38540",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38545",
+      "zip_extension": "",
+      "primary_city": "City_38545",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38550",
+      "zip_extension": "",
+      "primary_city": "City_38550",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38555",
+      "zip_extension": "",
+      "primary_city": "City_38555",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38560",
+      "zip_extension": "",
+      "primary_city": "City_38560",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38565",
+      "zip_extension": "",
+      "primary_city": "City_38565",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38570",
+      "zip_extension": "",
+      "primary_city": "City_38570",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38575",
+      "zip_extension": "",
+      "primary_city": "City_38575",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38580",
+      "zip_extension": "",
+      "primary_city": "City_38580",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38585",
+      "zip_extension": "",
+      "primary_city": "City_38585",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38590",
+      "zip_extension": "",
+      "primary_city": "City_38590",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "38595",
+      "zip_extension": "",
+      "primary_city": "City_38595",
+      "acceptable_cities": "",
+      "county": "County_385",
+      "state": "Tennessee",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

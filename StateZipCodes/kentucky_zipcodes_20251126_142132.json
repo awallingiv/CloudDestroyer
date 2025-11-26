@@ -1,0 +1,5607 @@
+{
+  "state": "Kentucky",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 560,
+  "zipcodes": [
+    {
+      "zip_code": "40000",
+      "zip_extension": "",
+      "primary_city": "City_40000",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40005",
+      "zip_extension": "",
+      "primary_city": "City_40005",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40010",
+      "zip_extension": "",
+      "primary_city": "City_40010",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40015",
+      "zip_extension": "",
+      "primary_city": "City_40015",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40020",
+      "zip_extension": "",
+      "primary_city": "City_40020",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40025",
+      "zip_extension": "",
+      "primary_city": "City_40025",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40030",
+      "zip_extension": "",
+      "primary_city": "City_40030",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40035",
+      "zip_extension": "",
+      "primary_city": "City_40035",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40040",
+      "zip_extension": "",
+      "primary_city": "City_40040",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40045",
+      "zip_extension": "",
+      "primary_city": "City_40045",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40050",
+      "zip_extension": "",
+      "primary_city": "City_40050",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40055",
+      "zip_extension": "",
+      "primary_city": "City_40055",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40060",
+      "zip_extension": "",
+      "primary_city": "City_40060",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40065",
+      "zip_extension": "",
+      "primary_city": "City_40065",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40070",
+      "zip_extension": "",
+      "primary_city": "City_40070",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40075",
+      "zip_extension": "",
+      "primary_city": "City_40075",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40080",
+      "zip_extension": "",
+      "primary_city": "City_40080",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40085",
+      "zip_extension": "",
+      "primary_city": "City_40085",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40090",
+      "zip_extension": "",
+      "primary_city": "City_40090",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40095",
+      "zip_extension": "",
+      "primary_city": "City_40095",
+      "acceptable_cities": "",
+      "county": "County_400",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40100",
+      "zip_extension": "",
+      "primary_city": "City_40100",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40105",
+      "zip_extension": "",
+      "primary_city": "City_40105",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40110",
+      "zip_extension": "",
+      "primary_city": "City_40110",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40115",
+      "zip_extension": "",
+      "primary_city": "City_40115",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40120",
+      "zip_extension": "",
+      "primary_city": "City_40120",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40125",
+      "zip_extension": "",
+      "primary_city": "City_40125",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40130",
+      "zip_extension": "",
+      "primary_city": "City_40130",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40135",
+      "zip_extension": "",
+      "primary_city": "City_40135",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40140",
+      "zip_extension": "",
+      "primary_city": "City_40140",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40145",
+      "zip_extension": "",
+      "primary_city": "City_40145",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40150",
+      "zip_extension": "",
+      "primary_city": "City_40150",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40155",
+      "zip_extension": "",
+      "primary_city": "City_40155",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40160",
+      "zip_extension": "",
+      "primary_city": "City_40160",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40165",
+      "zip_extension": "",
+      "primary_city": "City_40165",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40170",
+      "zip_extension": "",
+      "primary_city": "City_40170",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40175",
+      "zip_extension": "",
+      "primary_city": "City_40175",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40180",
+      "zip_extension": "",
+      "primary_city": "City_40180",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40185",
+      "zip_extension": "",
+      "primary_city": "City_40185",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40190",
+      "zip_extension": "",
+      "primary_city": "City_40190",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40195",
+      "zip_extension": "",
+      "primary_city": "City_40195",
+      "acceptable_cities": "",
+      "county": "County_401",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40200",
+      "zip_extension": "",
+      "primary_city": "City_40200",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40205",
+      "zip_extension": "",
+      "primary_city": "City_40205",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40210",
+      "zip_extension": "",
+      "primary_city": "City_40210",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40215",
+      "zip_extension": "",
+      "primary_city": "City_40215",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40220",
+      "zip_extension": "",
+      "primary_city": "City_40220",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40225",
+      "zip_extension": "",
+      "primary_city": "City_40225",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40230",
+      "zip_extension": "",
+      "primary_city": "City_40230",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40235",
+      "zip_extension": "",
+      "primary_city": "City_40235",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40240",
+      "zip_extension": "",
+      "primary_city": "City_40240",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40245",
+      "zip_extension": "",
+      "primary_city": "City_40245",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40250",
+      "zip_extension": "",
+      "primary_city": "City_40250",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40255",
+      "zip_extension": "",
+      "primary_city": "City_40255",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40260",
+      "zip_extension": "",
+      "primary_city": "City_40260",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40265",
+      "zip_extension": "",
+      "primary_city": "City_40265",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40270",
+      "zip_extension": "",
+      "primary_city": "City_40270",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40275",
+      "zip_extension": "",
+      "primary_city": "City_40275",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40280",
+      "zip_extension": "",
+      "primary_city": "City_40280",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40285",
+      "zip_extension": "",
+      "primary_city": "City_40285",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40290",
+      "zip_extension": "",
+      "primary_city": "City_40290",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40295",
+      "zip_extension": "",
+      "primary_city": "City_40295",
+      "acceptable_cities": "",
+      "county": "County_402",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40300",
+      "zip_extension": "",
+      "primary_city": "City_40300",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40305",
+      "zip_extension": "",
+      "primary_city": "City_40305",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40310",
+      "zip_extension": "",
+      "primary_city": "City_40310",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40315",
+      "zip_extension": "",
+      "primary_city": "City_40315",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40320",
+      "zip_extension": "",
+      "primary_city": "City_40320",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40325",
+      "zip_extension": "",
+      "primary_city": "City_40325",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40330",
+      "zip_extension": "",
+      "primary_city": "City_40330",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40335",
+      "zip_extension": "",
+      "primary_city": "City_40335",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40340",
+      "zip_extension": "",
+      "primary_city": "City_40340",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40345",
+      "zip_extension": "",
+      "primary_city": "City_40345",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40350",
+      "zip_extension": "",
+      "primary_city": "City_40350",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40355",
+      "zip_extension": "",
+      "primary_city": "City_40355",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40360",
+      "zip_extension": "",
+      "primary_city": "City_40360",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40365",
+      "zip_extension": "",
+      "primary_city": "City_40365",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40370",
+      "zip_extension": "",
+      "primary_city": "City_40370",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40375",
+      "zip_extension": "",
+      "primary_city": "City_40375",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40380",
+      "zip_extension": "",
+      "primary_city": "City_40380",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40385",
+      "zip_extension": "",
+      "primary_city": "City_40385",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40390",
+      "zip_extension": "",
+      "primary_city": "City_40390",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40395",
+      "zip_extension": "",
+      "primary_city": "City_40395",
+      "acceptable_cities": "",
+      "county": "County_403",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40400",
+      "zip_extension": "",
+      "primary_city": "City_40400",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40405",
+      "zip_extension": "",
+      "primary_city": "City_40405",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40410",
+      "zip_extension": "",
+      "primary_city": "City_40410",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40415",
+      "zip_extension": "",
+      "primary_city": "City_40415",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40420",
+      "zip_extension": "",
+      "primary_city": "City_40420",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40425",
+      "zip_extension": "",
+      "primary_city": "City_40425",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40430",
+      "zip_extension": "",
+      "primary_city": "City_40430",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40435",
+      "zip_extension": "",
+      "primary_city": "City_40435",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40440",
+      "zip_extension": "",
+      "primary_city": "City_40440",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40445",
+      "zip_extension": "",
+      "primary_city": "City_40445",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40450",
+      "zip_extension": "",
+      "primary_city": "City_40450",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40455",
+      "zip_extension": "",
+      "primary_city": "City_40455",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40460",
+      "zip_extension": "",
+      "primary_city": "City_40460",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40465",
+      "zip_extension": "",
+      "primary_city": "City_40465",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40470",
+      "zip_extension": "",
+      "primary_city": "City_40470",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40475",
+      "zip_extension": "",
+      "primary_city": "City_40475",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40480",
+      "zip_extension": "",
+      "primary_city": "City_40480",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40485",
+      "zip_extension": "",
+      "primary_city": "City_40485",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40490",
+      "zip_extension": "",
+      "primary_city": "City_40490",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40495",
+      "zip_extension": "",
+      "primary_city": "City_40495",
+      "acceptable_cities": "",
+      "county": "County_404",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40500",
+      "zip_extension": "",
+      "primary_city": "City_40500",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40505",
+      "zip_extension": "",
+      "primary_city": "City_40505",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40510",
+      "zip_extension": "",
+      "primary_city": "City_40510",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40515",
+      "zip_extension": "",
+      "primary_city": "City_40515",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40520",
+      "zip_extension": "",
+      "primary_city": "City_40520",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40525",
+      "zip_extension": "",
+      "primary_city": "City_40525",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40530",
+      "zip_extension": "",
+      "primary_city": "City_40530",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40535",
+      "zip_extension": "",
+      "primary_city": "City_40535",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40540",
+      "zip_extension": "",
+      "primary_city": "City_40540",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40545",
+      "zip_extension": "",
+      "primary_city": "City_40545",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40550",
+      "zip_extension": "",
+      "primary_city": "City_40550",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40555",
+      "zip_extension": "",
+      "primary_city": "City_40555",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40560",
+      "zip_extension": "",
+      "primary_city": "City_40560",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40565",
+      "zip_extension": "",
+      "primary_city": "City_40565",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40570",
+      "zip_extension": "",
+      "primary_city": "City_40570",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40575",
+      "zip_extension": "",
+      "primary_city": "City_40575",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40580",
+      "zip_extension": "",
+      "primary_city": "City_40580",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40585",
+      "zip_extension": "",
+      "primary_city": "City_40585",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40590",
+      "zip_extension": "",
+      "primary_city": "City_40590",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40595",
+      "zip_extension": "",
+      "primary_city": "City_40595",
+      "acceptable_cities": "",
+      "county": "County_405",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40600",
+      "zip_extension": "",
+      "primary_city": "City_40600",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40605",
+      "zip_extension": "",
+      "primary_city": "City_40605",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40610",
+      "zip_extension": "",
+      "primary_city": "City_40610",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40615",
+      "zip_extension": "",
+      "primary_city": "City_40615",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40620",
+      "zip_extension": "",
+      "primary_city": "City_40620",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40625",
+      "zip_extension": "",
+      "primary_city": "City_40625",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40630",
+      "zip_extension": "",
+      "primary_city": "City_40630",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40635",
+      "zip_extension": "",
+      "primary_city": "City_40635",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40640",
+      "zip_extension": "",
+      "primary_city": "City_40640",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40645",
+      "zip_extension": "",
+      "primary_city": "City_40645",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40650",
+      "zip_extension": "",
+      "primary_city": "City_40650",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40655",
+      "zip_extension": "",
+      "primary_city": "City_40655",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40660",
+      "zip_extension": "",
+      "primary_city": "City_40660",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40665",
+      "zip_extension": "",
+      "primary_city": "City_40665",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40670",
+      "zip_extension": "",
+      "primary_city": "City_40670",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40675",
+      "zip_extension": "",
+      "primary_city": "City_40675",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40680",
+      "zip_extension": "",
+      "primary_city": "City_40680",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40685",
+      "zip_extension": "",
+      "primary_city": "City_40685",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40690",
+      "zip_extension": "",
+      "primary_city": "City_40690",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40695",
+      "zip_extension": "",
+      "primary_city": "City_40695",
+      "acceptable_cities": "",
+      "county": "County_406",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40700",
+      "zip_extension": "",
+      "primary_city": "City_40700",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40705",
+      "zip_extension": "",
+      "primary_city": "City_40705",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40710",
+      "zip_extension": "",
+      "primary_city": "City_40710",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40715",
+      "zip_extension": "",
+      "primary_city": "City_40715",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40720",
+      "zip_extension": "",
+      "primary_city": "City_40720",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40725",
+      "zip_extension": "",
+      "primary_city": "City_40725",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40730",
+      "zip_extension": "",
+      "primary_city": "City_40730",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40735",
+      "zip_extension": "",
+      "primary_city": "City_40735",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40740",
+      "zip_extension": "",
+      "primary_city": "City_40740",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40745",
+      "zip_extension": "",
+      "primary_city": "City_40745",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40750",
+      "zip_extension": "",
+      "primary_city": "City_40750",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40755",
+      "zip_extension": "",
+      "primary_city": "City_40755",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40760",
+      "zip_extension": "",
+      "primary_city": "City_40760",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40765",
+      "zip_extension": "",
+      "primary_city": "City_40765",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40770",
+      "zip_extension": "",
+      "primary_city": "City_40770",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40775",
+      "zip_extension": "",
+      "primary_city": "City_40775",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40780",
+      "zip_extension": "",
+      "primary_city": "City_40780",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40785",
+      "zip_extension": "",
+      "primary_city": "City_40785",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40790",
+      "zip_extension": "",
+      "primary_city": "City_40790",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40795",
+      "zip_extension": "",
+      "primary_city": "City_40795",
+      "acceptable_cities": "",
+      "county": "County_407",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40800",
+      "zip_extension": "",
+      "primary_city": "City_40800",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40805",
+      "zip_extension": "",
+      "primary_city": "City_40805",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40810",
+      "zip_extension": "",
+      "primary_city": "City_40810",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40815",
+      "zip_extension": "",
+      "primary_city": "City_40815",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40820",
+      "zip_extension": "",
+      "primary_city": "City_40820",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40825",
+      "zip_extension": "",
+      "primary_city": "City_40825",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40830",
+      "zip_extension": "",
+      "primary_city": "City_40830",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40835",
+      "zip_extension": "",
+      "primary_city": "City_40835",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40840",
+      "zip_extension": "",
+      "primary_city": "City_40840",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40845",
+      "zip_extension": "",
+      "primary_city": "City_40845",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40850",
+      "zip_extension": "",
+      "primary_city": "City_40850",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40855",
+      "zip_extension": "",
+      "primary_city": "City_40855",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40860",
+      "zip_extension": "",
+      "primary_city": "City_40860",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40865",
+      "zip_extension": "",
+      "primary_city": "City_40865",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40870",
+      "zip_extension": "",
+      "primary_city": "City_40870",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40875",
+      "zip_extension": "",
+      "primary_city": "City_40875",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40880",
+      "zip_extension": "",
+      "primary_city": "City_40880",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40885",
+      "zip_extension": "",
+      "primary_city": "City_40885",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40890",
+      "zip_extension": "",
+      "primary_city": "City_40890",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40895",
+      "zip_extension": "",
+      "primary_city": "City_40895",
+      "acceptable_cities": "",
+      "county": "County_408",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40900",
+      "zip_extension": "",
+      "primary_city": "City_40900",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40905",
+      "zip_extension": "",
+      "primary_city": "City_40905",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40910",
+      "zip_extension": "",
+      "primary_city": "City_40910",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40915",
+      "zip_extension": "",
+      "primary_city": "City_40915",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40920",
+      "zip_extension": "",
+      "primary_city": "City_40920",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40925",
+      "zip_extension": "",
+      "primary_city": "City_40925",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40930",
+      "zip_extension": "",
+      "primary_city": "City_40930",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40935",
+      "zip_extension": "",
+      "primary_city": "City_40935",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40940",
+      "zip_extension": "",
+      "primary_city": "City_40940",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40945",
+      "zip_extension": "",
+      "primary_city": "City_40945",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40950",
+      "zip_extension": "",
+      "primary_city": "City_40950",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40955",
+      "zip_extension": "",
+      "primary_city": "City_40955",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40960",
+      "zip_extension": "",
+      "primary_city": "City_40960",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40965",
+      "zip_extension": "",
+      "primary_city": "City_40965",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40970",
+      "zip_extension": "",
+      "primary_city": "City_40970",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40975",
+      "zip_extension": "",
+      "primary_city": "City_40975",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40980",
+      "zip_extension": "",
+      "primary_city": "City_40980",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40985",
+      "zip_extension": "",
+      "primary_city": "City_40985",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40990",
+      "zip_extension": "",
+      "primary_city": "City_40990",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "40995",
+      "zip_extension": "",
+      "primary_city": "City_40995",
+      "acceptable_cities": "",
+      "county": "County_409",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41000",
+      "zip_extension": "",
+      "primary_city": "City_41000",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41005",
+      "zip_extension": "",
+      "primary_city": "City_41005",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41010",
+      "zip_extension": "",
+      "primary_city": "City_41010",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41015",
+      "zip_extension": "",
+      "primary_city": "City_41015",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41020",
+      "zip_extension": "",
+      "primary_city": "City_41020",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41025",
+      "zip_extension": "",
+      "primary_city": "City_41025",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41030",
+      "zip_extension": "",
+      "primary_city": "City_41030",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41035",
+      "zip_extension": "",
+      "primary_city": "City_41035",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41040",
+      "zip_extension": "",
+      "primary_city": "City_41040",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41045",
+      "zip_extension": "",
+      "primary_city": "City_41045",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41050",
+      "zip_extension": "",
+      "primary_city": "City_41050",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41055",
+      "zip_extension": "",
+      "primary_city": "City_41055",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41060",
+      "zip_extension": "",
+      "primary_city": "City_41060",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41065",
+      "zip_extension": "",
+      "primary_city": "City_41065",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41070",
+      "zip_extension": "",
+      "primary_city": "City_41070",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41075",
+      "zip_extension": "",
+      "primary_city": "City_41075",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41080",
+      "zip_extension": "",
+      "primary_city": "City_41080",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41085",
+      "zip_extension": "",
+      "primary_city": "City_41085",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41090",
+      "zip_extension": "",
+      "primary_city": "City_41090",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41095",
+      "zip_extension": "",
+      "primary_city": "City_41095",
+      "acceptable_cities": "",
+      "county": "County_410",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41100",
+      "zip_extension": "",
+      "primary_city": "City_41100",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41105",
+      "zip_extension": "",
+      "primary_city": "City_41105",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41110",
+      "zip_extension": "",
+      "primary_city": "City_41110",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41115",
+      "zip_extension": "",
+      "primary_city": "City_41115",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41120",
+      "zip_extension": "",
+      "primary_city": "City_41120",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41125",
+      "zip_extension": "",
+      "primary_city": "City_41125",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41130",
+      "zip_extension": "",
+      "primary_city": "City_41130",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41135",
+      "zip_extension": "",
+      "primary_city": "City_41135",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41140",
+      "zip_extension": "",
+      "primary_city": "City_41140",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41145",
+      "zip_extension": "",
+      "primary_city": "City_41145",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41150",
+      "zip_extension": "",
+      "primary_city": "City_41150",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41155",
+      "zip_extension": "",
+      "primary_city": "City_41155",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41160",
+      "zip_extension": "",
+      "primary_city": "City_41160",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41165",
+      "zip_extension": "",
+      "primary_city": "City_41165",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41170",
+      "zip_extension": "",
+      "primary_city": "City_41170",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41175",
+      "zip_extension": "",
+      "primary_city": "City_41175",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41180",
+      "zip_extension": "",
+      "primary_city": "City_41180",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41185",
+      "zip_extension": "",
+      "primary_city": "City_41185",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41190",
+      "zip_extension": "",
+      "primary_city": "City_41190",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41195",
+      "zip_extension": "",
+      "primary_city": "City_41195",
+      "acceptable_cities": "",
+      "county": "County_411",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41200",
+      "zip_extension": "",
+      "primary_city": "City_41200",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41205",
+      "zip_extension": "",
+      "primary_city": "City_41205",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41210",
+      "zip_extension": "",
+      "primary_city": "City_41210",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41215",
+      "zip_extension": "",
+      "primary_city": "City_41215",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41220",
+      "zip_extension": "",
+      "primary_city": "City_41220",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41225",
+      "zip_extension": "",
+      "primary_city": "City_41225",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41230",
+      "zip_extension": "",
+      "primary_city": "City_41230",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41235",
+      "zip_extension": "",
+      "primary_city": "City_41235",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41240",
+      "zip_extension": "",
+      "primary_city": "City_41240",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41245",
+      "zip_extension": "",
+      "primary_city": "City_41245",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41250",
+      "zip_extension": "",
+      "primary_city": "City_41250",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41255",
+      "zip_extension": "",
+      "primary_city": "City_41255",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41260",
+      "zip_extension": "",
+      "primary_city": "City_41260",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41265",
+      "zip_extension": "",
+      "primary_city": "City_41265",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41270",
+      "zip_extension": "",
+      "primary_city": "City_41270",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41275",
+      "zip_extension": "",
+      "primary_city": "City_41275",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41280",
+      "zip_extension": "",
+      "primary_city": "City_41280",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41285",
+      "zip_extension": "",
+      "primary_city": "City_41285",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41290",
+      "zip_extension": "",
+      "primary_city": "City_41290",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41295",
+      "zip_extension": "",
+      "primary_city": "City_41295",
+      "acceptable_cities": "",
+      "county": "County_412",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41300",
+      "zip_extension": "",
+      "primary_city": "City_41300",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41305",
+      "zip_extension": "",
+      "primary_city": "City_41305",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41310",
+      "zip_extension": "",
+      "primary_city": "City_41310",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41315",
+      "zip_extension": "",
+      "primary_city": "City_41315",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41320",
+      "zip_extension": "",
+      "primary_city": "City_41320",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41325",
+      "zip_extension": "",
+      "primary_city": "City_41325",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41330",
+      "zip_extension": "",
+      "primary_city": "City_41330",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41335",
+      "zip_extension": "",
+      "primary_city": "City_41335",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41340",
+      "zip_extension": "",
+      "primary_city": "City_41340",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41345",
+      "zip_extension": "",
+      "primary_city": "City_41345",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41350",
+      "zip_extension": "",
+      "primary_city": "City_41350",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41355",
+      "zip_extension": "",
+      "primary_city": "City_41355",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41360",
+      "zip_extension": "",
+      "primary_city": "City_41360",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41365",
+      "zip_extension": "",
+      "primary_city": "City_41365",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41370",
+      "zip_extension": "",
+      "primary_city": "City_41370",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41375",
+      "zip_extension": "",
+      "primary_city": "City_41375",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41380",
+      "zip_extension": "",
+      "primary_city": "City_41380",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41385",
+      "zip_extension": "",
+      "primary_city": "City_41385",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41390",
+      "zip_extension": "",
+      "primary_city": "City_41390",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41395",
+      "zip_extension": "",
+      "primary_city": "City_41395",
+      "acceptable_cities": "",
+      "county": "County_413",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41400",
+      "zip_extension": "",
+      "primary_city": "City_41400",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41405",
+      "zip_extension": "",
+      "primary_city": "City_41405",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41410",
+      "zip_extension": "",
+      "primary_city": "City_41410",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41415",
+      "zip_extension": "",
+      "primary_city": "City_41415",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41420",
+      "zip_extension": "",
+      "primary_city": "City_41420",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41425",
+      "zip_extension": "",
+      "primary_city": "City_41425",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41430",
+      "zip_extension": "",
+      "primary_city": "City_41430",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41435",
+      "zip_extension": "",
+      "primary_city": "City_41435",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41440",
+      "zip_extension": "",
+      "primary_city": "City_41440",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41445",
+      "zip_extension": "",
+      "primary_city": "City_41445",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41450",
+      "zip_extension": "",
+      "primary_city": "City_41450",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41455",
+      "zip_extension": "",
+      "primary_city": "City_41455",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41460",
+      "zip_extension": "",
+      "primary_city": "City_41460",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41465",
+      "zip_extension": "",
+      "primary_city": "City_41465",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41470",
+      "zip_extension": "",
+      "primary_city": "City_41470",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41475",
+      "zip_extension": "",
+      "primary_city": "City_41475",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41480",
+      "zip_extension": "",
+      "primary_city": "City_41480",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41485",
+      "zip_extension": "",
+      "primary_city": "City_41485",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41490",
+      "zip_extension": "",
+      "primary_city": "City_41490",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41495",
+      "zip_extension": "",
+      "primary_city": "City_41495",
+      "acceptable_cities": "",
+      "county": "County_414",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41500",
+      "zip_extension": "",
+      "primary_city": "City_41500",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41505",
+      "zip_extension": "",
+      "primary_city": "City_41505",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41510",
+      "zip_extension": "",
+      "primary_city": "City_41510",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41515",
+      "zip_extension": "",
+      "primary_city": "City_41515",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41520",
+      "zip_extension": "",
+      "primary_city": "City_41520",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41525",
+      "zip_extension": "",
+      "primary_city": "City_41525",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41530",
+      "zip_extension": "",
+      "primary_city": "City_41530",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41535",
+      "zip_extension": "",
+      "primary_city": "City_41535",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41540",
+      "zip_extension": "",
+      "primary_city": "City_41540",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41545",
+      "zip_extension": "",
+      "primary_city": "City_41545",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41550",
+      "zip_extension": "",
+      "primary_city": "City_41550",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41555",
+      "zip_extension": "",
+      "primary_city": "City_41555",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41560",
+      "zip_extension": "",
+      "primary_city": "City_41560",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41565",
+      "zip_extension": "",
+      "primary_city": "City_41565",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41570",
+      "zip_extension": "",
+      "primary_city": "City_41570",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41575",
+      "zip_extension": "",
+      "primary_city": "City_41575",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41580",
+      "zip_extension": "",
+      "primary_city": "City_41580",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41585",
+      "zip_extension": "",
+      "primary_city": "City_41585",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41590",
+      "zip_extension": "",
+      "primary_city": "City_41590",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41595",
+      "zip_extension": "",
+      "primary_city": "City_41595",
+      "acceptable_cities": "",
+      "county": "County_415",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41600",
+      "zip_extension": "",
+      "primary_city": "City_41600",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41605",
+      "zip_extension": "",
+      "primary_city": "City_41605",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41610",
+      "zip_extension": "",
+      "primary_city": "City_41610",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41615",
+      "zip_extension": "",
+      "primary_city": "City_41615",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41620",
+      "zip_extension": "",
+      "primary_city": "City_41620",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41625",
+      "zip_extension": "",
+      "primary_city": "City_41625",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41630",
+      "zip_extension": "",
+      "primary_city": "City_41630",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41635",
+      "zip_extension": "",
+      "primary_city": "City_41635",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41640",
+      "zip_extension": "",
+      "primary_city": "City_41640",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41645",
+      "zip_extension": "",
+      "primary_city": "City_41645",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41650",
+      "zip_extension": "",
+      "primary_city": "City_41650",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41655",
+      "zip_extension": "",
+      "primary_city": "City_41655",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41660",
+      "zip_extension": "",
+      "primary_city": "City_41660",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41665",
+      "zip_extension": "",
+      "primary_city": "City_41665",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41670",
+      "zip_extension": "",
+      "primary_city": "City_41670",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41675",
+      "zip_extension": "",
+      "primary_city": "City_41675",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41680",
+      "zip_extension": "",
+      "primary_city": "City_41680",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41685",
+      "zip_extension": "",
+      "primary_city": "City_41685",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41690",
+      "zip_extension": "",
+      "primary_city": "City_41690",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41695",
+      "zip_extension": "",
+      "primary_city": "City_41695",
+      "acceptable_cities": "",
+      "county": "County_416",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41700",
+      "zip_extension": "",
+      "primary_city": "City_41700",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41705",
+      "zip_extension": "",
+      "primary_city": "City_41705",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41710",
+      "zip_extension": "",
+      "primary_city": "City_41710",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41715",
+      "zip_extension": "",
+      "primary_city": "City_41715",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41720",
+      "zip_extension": "",
+      "primary_city": "City_41720",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41725",
+      "zip_extension": "",
+      "primary_city": "City_41725",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41730",
+      "zip_extension": "",
+      "primary_city": "City_41730",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41735",
+      "zip_extension": "",
+      "primary_city": "City_41735",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41740",
+      "zip_extension": "",
+      "primary_city": "City_41740",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41745",
+      "zip_extension": "",
+      "primary_city": "City_41745",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41750",
+      "zip_extension": "",
+      "primary_city": "City_41750",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41755",
+      "zip_extension": "",
+      "primary_city": "City_41755",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41760",
+      "zip_extension": "",
+      "primary_city": "City_41760",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41765",
+      "zip_extension": "",
+      "primary_city": "City_41765",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41770",
+      "zip_extension": "",
+      "primary_city": "City_41770",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41775",
+      "zip_extension": "",
+      "primary_city": "City_41775",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41780",
+      "zip_extension": "",
+      "primary_city": "City_41780",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41785",
+      "zip_extension": "",
+      "primary_city": "City_41785",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41790",
+      "zip_extension": "",
+      "primary_city": "City_41790",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41795",
+      "zip_extension": "",
+      "primary_city": "City_41795",
+      "acceptable_cities": "",
+      "county": "County_417",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41800",
+      "zip_extension": "",
+      "primary_city": "City_41800",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41805",
+      "zip_extension": "",
+      "primary_city": "City_41805",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41810",
+      "zip_extension": "",
+      "primary_city": "City_41810",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41815",
+      "zip_extension": "",
+      "primary_city": "City_41815",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41820",
+      "zip_extension": "",
+      "primary_city": "City_41820",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41825",
+      "zip_extension": "",
+      "primary_city": "City_41825",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41830",
+      "zip_extension": "",
+      "primary_city": "City_41830",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41835",
+      "zip_extension": "",
+      "primary_city": "City_41835",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41840",
+      "zip_extension": "",
+      "primary_city": "City_41840",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41845",
+      "zip_extension": "",
+      "primary_city": "City_41845",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41850",
+      "zip_extension": "",
+      "primary_city": "City_41850",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41855",
+      "zip_extension": "",
+      "primary_city": "City_41855",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41860",
+      "zip_extension": "",
+      "primary_city": "City_41860",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41865",
+      "zip_extension": "",
+      "primary_city": "City_41865",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41870",
+      "zip_extension": "",
+      "primary_city": "City_41870",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41875",
+      "zip_extension": "",
+      "primary_city": "City_41875",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41880",
+      "zip_extension": "",
+      "primary_city": "City_41880",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41885",
+      "zip_extension": "",
+      "primary_city": "City_41885",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41890",
+      "zip_extension": "",
+      "primary_city": "City_41890",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41895",
+      "zip_extension": "",
+      "primary_city": "City_41895",
+      "acceptable_cities": "",
+      "county": "County_418",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41900",
+      "zip_extension": "",
+      "primary_city": "City_41900",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41905",
+      "zip_extension": "",
+      "primary_city": "City_41905",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41910",
+      "zip_extension": "",
+      "primary_city": "City_41910",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41915",
+      "zip_extension": "",
+      "primary_city": "City_41915",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41920",
+      "zip_extension": "",
+      "primary_city": "City_41920",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41925",
+      "zip_extension": "",
+      "primary_city": "City_41925",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41930",
+      "zip_extension": "",
+      "primary_city": "City_41930",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41935",
+      "zip_extension": "",
+      "primary_city": "City_41935",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41940",
+      "zip_extension": "",
+      "primary_city": "City_41940",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41945",
+      "zip_extension": "",
+      "primary_city": "City_41945",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41950",
+      "zip_extension": "",
+      "primary_city": "City_41950",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41955",
+      "zip_extension": "",
+      "primary_city": "City_41955",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41960",
+      "zip_extension": "",
+      "primary_city": "City_41960",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41965",
+      "zip_extension": "",
+      "primary_city": "City_41965",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41970",
+      "zip_extension": "",
+      "primary_city": "City_41970",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41975",
+      "zip_extension": "",
+      "primary_city": "City_41975",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41980",
+      "zip_extension": "",
+      "primary_city": "City_41980",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41985",
+      "zip_extension": "",
+      "primary_city": "City_41985",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41990",
+      "zip_extension": "",
+      "primary_city": "City_41990",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "41995",
+      "zip_extension": "",
+      "primary_city": "City_41995",
+      "acceptable_cities": "",
+      "county": "County_419",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42000",
+      "zip_extension": "",
+      "primary_city": "City_42000",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42005",
+      "zip_extension": "",
+      "primary_city": "City_42005",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42010",
+      "zip_extension": "",
+      "primary_city": "City_42010",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42015",
+      "zip_extension": "",
+      "primary_city": "City_42015",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42020",
+      "zip_extension": "",
+      "primary_city": "City_42020",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42025",
+      "zip_extension": "",
+      "primary_city": "City_42025",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42030",
+      "zip_extension": "",
+      "primary_city": "City_42030",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42035",
+      "zip_extension": "",
+      "primary_city": "City_42035",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42040",
+      "zip_extension": "",
+      "primary_city": "City_42040",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42045",
+      "zip_extension": "",
+      "primary_city": "City_42045",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42050",
+      "zip_extension": "",
+      "primary_city": "City_42050",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42055",
+      "zip_extension": "",
+      "primary_city": "City_42055",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42060",
+      "zip_extension": "",
+      "primary_city": "City_42060",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42065",
+      "zip_extension": "",
+      "primary_city": "City_42065",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42070",
+      "zip_extension": "",
+      "primary_city": "City_42070",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42075",
+      "zip_extension": "",
+      "primary_city": "City_42075",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42080",
+      "zip_extension": "",
+      "primary_city": "City_42080",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42085",
+      "zip_extension": "",
+      "primary_city": "City_42085",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42090",
+      "zip_extension": "",
+      "primary_city": "City_42090",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42095",
+      "zip_extension": "",
+      "primary_city": "City_42095",
+      "acceptable_cities": "",
+      "county": "County_420",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42100",
+      "zip_extension": "",
+      "primary_city": "City_42100",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42105",
+      "zip_extension": "",
+      "primary_city": "City_42105",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42110",
+      "zip_extension": "",
+      "primary_city": "City_42110",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42115",
+      "zip_extension": "",
+      "primary_city": "City_42115",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42120",
+      "zip_extension": "",
+      "primary_city": "City_42120",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42125",
+      "zip_extension": "",
+      "primary_city": "City_42125",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42130",
+      "zip_extension": "",
+      "primary_city": "City_42130",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42135",
+      "zip_extension": "",
+      "primary_city": "City_42135",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42140",
+      "zip_extension": "",
+      "primary_city": "City_42140",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42145",
+      "zip_extension": "",
+      "primary_city": "City_42145",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42150",
+      "zip_extension": "",
+      "primary_city": "City_42150",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42155",
+      "zip_extension": "",
+      "primary_city": "City_42155",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42160",
+      "zip_extension": "",
+      "primary_city": "City_42160",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42165",
+      "zip_extension": "",
+      "primary_city": "City_42165",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42170",
+      "zip_extension": "",
+      "primary_city": "City_42170",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42175",
+      "zip_extension": "",
+      "primary_city": "City_42175",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42180",
+      "zip_extension": "",
+      "primary_city": "City_42180",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42185",
+      "zip_extension": "",
+      "primary_city": "City_42185",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42190",
+      "zip_extension": "",
+      "primary_city": "City_42190",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42195",
+      "zip_extension": "",
+      "primary_city": "City_42195",
+      "acceptable_cities": "",
+      "county": "County_421",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42200",
+      "zip_extension": "",
+      "primary_city": "City_42200",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42205",
+      "zip_extension": "",
+      "primary_city": "City_42205",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42210",
+      "zip_extension": "",
+      "primary_city": "City_42210",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42215",
+      "zip_extension": "",
+      "primary_city": "City_42215",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42220",
+      "zip_extension": "",
+      "primary_city": "City_42220",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42225",
+      "zip_extension": "",
+      "primary_city": "City_42225",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42230",
+      "zip_extension": "",
+      "primary_city": "City_42230",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42235",
+      "zip_extension": "",
+      "primary_city": "City_42235",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42240",
+      "zip_extension": "",
+      "primary_city": "City_42240",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42245",
+      "zip_extension": "",
+      "primary_city": "City_42245",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42250",
+      "zip_extension": "",
+      "primary_city": "City_42250",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42255",
+      "zip_extension": "",
+      "primary_city": "City_42255",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42260",
+      "zip_extension": "",
+      "primary_city": "City_42260",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42265",
+      "zip_extension": "",
+      "primary_city": "City_42265",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42270",
+      "zip_extension": "",
+      "primary_city": "City_42270",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42275",
+      "zip_extension": "",
+      "primary_city": "City_42275",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42280",
+      "zip_extension": "",
+      "primary_city": "City_42280",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42285",
+      "zip_extension": "",
+      "primary_city": "City_42285",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42290",
+      "zip_extension": "",
+      "primary_city": "City_42290",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42295",
+      "zip_extension": "",
+      "primary_city": "City_42295",
+      "acceptable_cities": "",
+      "county": "County_422",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42300",
+      "zip_extension": "",
+      "primary_city": "City_42300",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42305",
+      "zip_extension": "",
+      "primary_city": "City_42305",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42310",
+      "zip_extension": "",
+      "primary_city": "City_42310",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42315",
+      "zip_extension": "",
+      "primary_city": "City_42315",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42320",
+      "zip_extension": "",
+      "primary_city": "City_42320",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42325",
+      "zip_extension": "",
+      "primary_city": "City_42325",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42330",
+      "zip_extension": "",
+      "primary_city": "City_42330",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42335",
+      "zip_extension": "",
+      "primary_city": "City_42335",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42340",
+      "zip_extension": "",
+      "primary_city": "City_42340",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42345",
+      "zip_extension": "",
+      "primary_city": "City_42345",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42350",
+      "zip_extension": "",
+      "primary_city": "City_42350",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42355",
+      "zip_extension": "",
+      "primary_city": "City_42355",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42360",
+      "zip_extension": "",
+      "primary_city": "City_42360",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42365",
+      "zip_extension": "",
+      "primary_city": "City_42365",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42370",
+      "zip_extension": "",
+      "primary_city": "City_42370",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42375",
+      "zip_extension": "",
+      "primary_city": "City_42375",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42380",
+      "zip_extension": "",
+      "primary_city": "City_42380",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42385",
+      "zip_extension": "",
+      "primary_city": "City_42385",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42390",
+      "zip_extension": "",
+      "primary_city": "City_42390",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42395",
+      "zip_extension": "",
+      "primary_city": "City_42395",
+      "acceptable_cities": "",
+      "county": "County_423",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42400",
+      "zip_extension": "",
+      "primary_city": "City_42400",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42405",
+      "zip_extension": "",
+      "primary_city": "City_42405",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42410",
+      "zip_extension": "",
+      "primary_city": "City_42410",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42415",
+      "zip_extension": "",
+      "primary_city": "City_42415",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42420",
+      "zip_extension": "",
+      "primary_city": "City_42420",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42425",
+      "zip_extension": "",
+      "primary_city": "City_42425",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42430",
+      "zip_extension": "",
+      "primary_city": "City_42430",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42435",
+      "zip_extension": "",
+      "primary_city": "City_42435",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42440",
+      "zip_extension": "",
+      "primary_city": "City_42440",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42445",
+      "zip_extension": "",
+      "primary_city": "City_42445",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42450",
+      "zip_extension": "",
+      "primary_city": "City_42450",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42455",
+      "zip_extension": "",
+      "primary_city": "City_42455",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42460",
+      "zip_extension": "",
+      "primary_city": "City_42460",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42465",
+      "zip_extension": "",
+      "primary_city": "City_42465",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42470",
+      "zip_extension": "",
+      "primary_city": "City_42470",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42475",
+      "zip_extension": "",
+      "primary_city": "City_42475",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42480",
+      "zip_extension": "",
+      "primary_city": "City_42480",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42485",
+      "zip_extension": "",
+      "primary_city": "City_42485",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42490",
+      "zip_extension": "",
+      "primary_city": "City_42490",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42495",
+      "zip_extension": "",
+      "primary_city": "City_42495",
+      "acceptable_cities": "",
+      "county": "County_424",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42500",
+      "zip_extension": "",
+      "primary_city": "City_42500",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42505",
+      "zip_extension": "",
+      "primary_city": "City_42505",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42510",
+      "zip_extension": "",
+      "primary_city": "City_42510",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42515",
+      "zip_extension": "",
+      "primary_city": "City_42515",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42520",
+      "zip_extension": "",
+      "primary_city": "City_42520",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42525",
+      "zip_extension": "",
+      "primary_city": "City_42525",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42530",
+      "zip_extension": "",
+      "primary_city": "City_42530",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42535",
+      "zip_extension": "",
+      "primary_city": "City_42535",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42540",
+      "zip_extension": "",
+      "primary_city": "City_42540",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42545",
+      "zip_extension": "",
+      "primary_city": "City_42545",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42550",
+      "zip_extension": "",
+      "primary_city": "City_42550",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42555",
+      "zip_extension": "",
+      "primary_city": "City_42555",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42560",
+      "zip_extension": "",
+      "primary_city": "City_42560",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42565",
+      "zip_extension": "",
+      "primary_city": "City_42565",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42570",
+      "zip_extension": "",
+      "primary_city": "City_42570",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42575",
+      "zip_extension": "",
+      "primary_city": "City_42575",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42580",
+      "zip_extension": "",
+      "primary_city": "City_42580",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42585",
+      "zip_extension": "",
+      "primary_city": "City_42585",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42590",
+      "zip_extension": "",
+      "primary_city": "City_42590",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42595",
+      "zip_extension": "",
+      "primary_city": "City_42595",
+      "acceptable_cities": "",
+      "county": "County_425",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42600",
+      "zip_extension": "",
+      "primary_city": "City_42600",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42605",
+      "zip_extension": "",
+      "primary_city": "City_42605",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42610",
+      "zip_extension": "",
+      "primary_city": "City_42610",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42615",
+      "zip_extension": "",
+      "primary_city": "City_42615",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42620",
+      "zip_extension": "",
+      "primary_city": "City_42620",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42625",
+      "zip_extension": "",
+      "primary_city": "City_42625",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42630",
+      "zip_extension": "",
+      "primary_city": "City_42630",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42635",
+      "zip_extension": "",
+      "primary_city": "City_42635",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42640",
+      "zip_extension": "",
+      "primary_city": "City_42640",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42645",
+      "zip_extension": "",
+      "primary_city": "City_42645",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42650",
+      "zip_extension": "",
+      "primary_city": "City_42650",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42655",
+      "zip_extension": "",
+      "primary_city": "City_42655",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42660",
+      "zip_extension": "",
+      "primary_city": "City_42660",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42665",
+      "zip_extension": "",
+      "primary_city": "City_42665",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42670",
+      "zip_extension": "",
+      "primary_city": "City_42670",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42675",
+      "zip_extension": "",
+      "primary_city": "City_42675",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42680",
+      "zip_extension": "",
+      "primary_city": "City_42680",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42685",
+      "zip_extension": "",
+      "primary_city": "City_42685",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42690",
+      "zip_extension": "",
+      "primary_city": "City_42690",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42695",
+      "zip_extension": "",
+      "primary_city": "City_42695",
+      "acceptable_cities": "",
+      "county": "County_426",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42700",
+      "zip_extension": "",
+      "primary_city": "City_42700",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42705",
+      "zip_extension": "",
+      "primary_city": "City_42705",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42710",
+      "zip_extension": "",
+      "primary_city": "City_42710",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42715",
+      "zip_extension": "",
+      "primary_city": "City_42715",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42720",
+      "zip_extension": "",
+      "primary_city": "City_42720",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42725",
+      "zip_extension": "",
+      "primary_city": "City_42725",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42730",
+      "zip_extension": "",
+      "primary_city": "City_42730",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42735",
+      "zip_extension": "",
+      "primary_city": "City_42735",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42740",
+      "zip_extension": "",
+      "primary_city": "City_42740",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42745",
+      "zip_extension": "",
+      "primary_city": "City_42745",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42750",
+      "zip_extension": "",
+      "primary_city": "City_42750",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42755",
+      "zip_extension": "",
+      "primary_city": "City_42755",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42760",
+      "zip_extension": "",
+      "primary_city": "City_42760",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42765",
+      "zip_extension": "",
+      "primary_city": "City_42765",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42770",
+      "zip_extension": "",
+      "primary_city": "City_42770",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42775",
+      "zip_extension": "",
+      "primary_city": "City_42775",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42780",
+      "zip_extension": "",
+      "primary_city": "City_42780",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42785",
+      "zip_extension": "",
+      "primary_city": "City_42785",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42790",
+      "zip_extension": "",
+      "primary_city": "City_42790",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "42795",
+      "zip_extension": "",
+      "primary_city": "City_42795",
+      "acceptable_cities": "",
+      "county": "County_427",
+      "state": "Kentucky",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

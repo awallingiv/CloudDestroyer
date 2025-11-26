@@ -1,0 +1,407 @@
+{
+  "state": "Hawaii",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 40,
+  "zipcodes": [
+    {
+      "zip_code": "96700",
+      "zip_extension": "",
+      "primary_city": "City_96700",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96705",
+      "zip_extension": "",
+      "primary_city": "City_96705",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96710",
+      "zip_extension": "",
+      "primary_city": "City_96710",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96715",
+      "zip_extension": "",
+      "primary_city": "City_96715",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96720",
+      "zip_extension": "",
+      "primary_city": "City_96720",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96725",
+      "zip_extension": "",
+      "primary_city": "City_96725",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96730",
+      "zip_extension": "",
+      "primary_city": "City_96730",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96735",
+      "zip_extension": "",
+      "primary_city": "City_96735",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96740",
+      "zip_extension": "",
+      "primary_city": "City_96740",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96745",
+      "zip_extension": "",
+      "primary_city": "City_96745",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96750",
+      "zip_extension": "",
+      "primary_city": "City_96750",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96755",
+      "zip_extension": "",
+      "primary_city": "City_96755",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96760",
+      "zip_extension": "",
+      "primary_city": "City_96760",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96765",
+      "zip_extension": "",
+      "primary_city": "City_96765",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96770",
+      "zip_extension": "",
+      "primary_city": "City_96770",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96775",
+      "zip_extension": "",
+      "primary_city": "City_96775",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96780",
+      "zip_extension": "",
+      "primary_city": "City_96780",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96785",
+      "zip_extension": "",
+      "primary_city": "City_96785",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96790",
+      "zip_extension": "",
+      "primary_city": "City_96790",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96795",
+      "zip_extension": "",
+      "primary_city": "City_96795",
+      "acceptable_cities": "",
+      "county": "County_967",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96800",
+      "zip_extension": "",
+      "primary_city": "City_96800",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96805",
+      "zip_extension": "",
+      "primary_city": "City_96805",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96810",
+      "zip_extension": "",
+      "primary_city": "City_96810",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96815",
+      "zip_extension": "",
+      "primary_city": "City_96815",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96820",
+      "zip_extension": "",
+      "primary_city": "City_96820",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96825",
+      "zip_extension": "",
+      "primary_city": "City_96825",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96830",
+      "zip_extension": "",
+      "primary_city": "City_96830",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96835",
+      "zip_extension": "",
+      "primary_city": "City_96835",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96840",
+      "zip_extension": "",
+      "primary_city": "City_96840",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96845",
+      "zip_extension": "",
+      "primary_city": "City_96845",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96850",
+      "zip_extension": "",
+      "primary_city": "City_96850",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96855",
+      "zip_extension": "",
+      "primary_city": "City_96855",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96860",
+      "zip_extension": "",
+      "primary_city": "City_96860",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96865",
+      "zip_extension": "",
+      "primary_city": "City_96865",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96870",
+      "zip_extension": "",
+      "primary_city": "City_96870",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96875",
+      "zip_extension": "",
+      "primary_city": "City_96875",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96880",
+      "zip_extension": "",
+      "primary_city": "City_96880",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96885",
+      "zip_extension": "",
+      "primary_city": "City_96885",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96890",
+      "zip_extension": "",
+      "primary_city": "City_96890",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "96895",
+      "zip_extension": "",
+      "primary_city": "City_96895",
+      "acceptable_cities": "",
+      "county": "County_968",
+      "state": "Hawaii",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

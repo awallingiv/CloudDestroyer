@@ -1,0 +1,2007 @@
+{
+  "state": "Connecticut",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 200,
+  "zipcodes": [
+    {
+      "zip_code": "06000",
+      "zip_extension": "",
+      "primary_city": "City_06000",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06005",
+      "zip_extension": "",
+      "primary_city": "City_06005",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06010",
+      "zip_extension": "",
+      "primary_city": "City_06010",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06015",
+      "zip_extension": "",
+      "primary_city": "City_06015",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06020",
+      "zip_extension": "",
+      "primary_city": "City_06020",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06025",
+      "zip_extension": "",
+      "primary_city": "City_06025",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06030",
+      "zip_extension": "",
+      "primary_city": "City_06030",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06035",
+      "zip_extension": "",
+      "primary_city": "City_06035",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06040",
+      "zip_extension": "",
+      "primary_city": "City_06040",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06045",
+      "zip_extension": "",
+      "primary_city": "City_06045",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06050",
+      "zip_extension": "",
+      "primary_city": "City_06050",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06055",
+      "zip_extension": "",
+      "primary_city": "City_06055",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06060",
+      "zip_extension": "",
+      "primary_city": "City_06060",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06065",
+      "zip_extension": "",
+      "primary_city": "City_06065",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06070",
+      "zip_extension": "",
+      "primary_city": "City_06070",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06075",
+      "zip_extension": "",
+      "primary_city": "City_06075",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06080",
+      "zip_extension": "",
+      "primary_city": "City_06080",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06085",
+      "zip_extension": "",
+      "primary_city": "City_06085",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06090",
+      "zip_extension": "",
+      "primary_city": "City_06090",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06095",
+      "zip_extension": "",
+      "primary_city": "City_06095",
+      "acceptable_cities": "",
+      "county": "County_060",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06100",
+      "zip_extension": "",
+      "primary_city": "City_06100",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06105",
+      "zip_extension": "",
+      "primary_city": "City_06105",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06110",
+      "zip_extension": "",
+      "primary_city": "City_06110",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06115",
+      "zip_extension": "",
+      "primary_city": "City_06115",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06120",
+      "zip_extension": "",
+      "primary_city": "City_06120",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06125",
+      "zip_extension": "",
+      "primary_city": "City_06125",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06130",
+      "zip_extension": "",
+      "primary_city": "City_06130",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06135",
+      "zip_extension": "",
+      "primary_city": "City_06135",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06140",
+      "zip_extension": "",
+      "primary_city": "City_06140",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06145",
+      "zip_extension": "",
+      "primary_city": "City_06145",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06150",
+      "zip_extension": "",
+      "primary_city": "City_06150",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06155",
+      "zip_extension": "",
+      "primary_city": "City_06155",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06160",
+      "zip_extension": "",
+      "primary_city": "City_06160",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06165",
+      "zip_extension": "",
+      "primary_city": "City_06165",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06170",
+      "zip_extension": "",
+      "primary_city": "City_06170",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06175",
+      "zip_extension": "",
+      "primary_city": "City_06175",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06180",
+      "zip_extension": "",
+      "primary_city": "City_06180",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06185",
+      "zip_extension": "",
+      "primary_city": "City_06185",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06190",
+      "zip_extension": "",
+      "primary_city": "City_06190",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06195",
+      "zip_extension": "",
+      "primary_city": "City_06195",
+      "acceptable_cities": "",
+      "county": "County_061",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06200",
+      "zip_extension": "",
+      "primary_city": "City_06200",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06205",
+      "zip_extension": "",
+      "primary_city": "City_06205",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06210",
+      "zip_extension": "",
+      "primary_city": "City_06210",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06215",
+      "zip_extension": "",
+      "primary_city": "City_06215",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06220",
+      "zip_extension": "",
+      "primary_city": "City_06220",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06225",
+      "zip_extension": "",
+      "primary_city": "City_06225",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06230",
+      "zip_extension": "",
+      "primary_city": "City_06230",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06235",
+      "zip_extension": "",
+      "primary_city": "City_06235",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06240",
+      "zip_extension": "",
+      "primary_city": "City_06240",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06245",
+      "zip_extension": "",
+      "primary_city": "City_06245",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06250",
+      "zip_extension": "",
+      "primary_city": "City_06250",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06255",
+      "zip_extension": "",
+      "primary_city": "City_06255",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06260",
+      "zip_extension": "",
+      "primary_city": "City_06260",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06265",
+      "zip_extension": "",
+      "primary_city": "City_06265",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06270",
+      "zip_extension": "",
+      "primary_city": "City_06270",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06275",
+      "zip_extension": "",
+      "primary_city": "City_06275",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06280",
+      "zip_extension": "",
+      "primary_city": "City_06280",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06285",
+      "zip_extension": "",
+      "primary_city": "City_06285",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06290",
+      "zip_extension": "",
+      "primary_city": "City_06290",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06295",
+      "zip_extension": "",
+      "primary_city": "City_06295",
+      "acceptable_cities": "",
+      "county": "County_062",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06300",
+      "zip_extension": "",
+      "primary_city": "City_06300",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06305",
+      "zip_extension": "",
+      "primary_city": "City_06305",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06310",
+      "zip_extension": "",
+      "primary_city": "City_06310",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06315",
+      "zip_extension": "",
+      "primary_city": "City_06315",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06320",
+      "zip_extension": "",
+      "primary_city": "City_06320",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06325",
+      "zip_extension": "",
+      "primary_city": "City_06325",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06330",
+      "zip_extension": "",
+      "primary_city": "City_06330",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06335",
+      "zip_extension": "",
+      "primary_city": "City_06335",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06340",
+      "zip_extension": "",
+      "primary_city": "City_06340",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06345",
+      "zip_extension": "",
+      "primary_city": "City_06345",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06350",
+      "zip_extension": "",
+      "primary_city": "City_06350",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06355",
+      "zip_extension": "",
+      "primary_city": "City_06355",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06360",
+      "zip_extension": "",
+      "primary_city": "City_06360",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06365",
+      "zip_extension": "",
+      "primary_city": "City_06365",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06370",
+      "zip_extension": "",
+      "primary_city": "City_06370",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06375",
+      "zip_extension": "",
+      "primary_city": "City_06375",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06380",
+      "zip_extension": "",
+      "primary_city": "City_06380",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06385",
+      "zip_extension": "",
+      "primary_city": "City_06385",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06390",
+      "zip_extension": "",
+      "primary_city": "City_06390",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06395",
+      "zip_extension": "",
+      "primary_city": "City_06395",
+      "acceptable_cities": "",
+      "county": "County_063",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06400",
+      "zip_extension": "",
+      "primary_city": "City_06400",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06405",
+      "zip_extension": "",
+      "primary_city": "City_06405",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06410",
+      "zip_extension": "",
+      "primary_city": "City_06410",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06415",
+      "zip_extension": "",
+      "primary_city": "City_06415",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06420",
+      "zip_extension": "",
+      "primary_city": "City_06420",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06425",
+      "zip_extension": "",
+      "primary_city": "City_06425",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06430",
+      "zip_extension": "",
+      "primary_city": "City_06430",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06435",
+      "zip_extension": "",
+      "primary_city": "City_06435",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06440",
+      "zip_extension": "",
+      "primary_city": "City_06440",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06445",
+      "zip_extension": "",
+      "primary_city": "City_06445",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06450",
+      "zip_extension": "",
+      "primary_city": "City_06450",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06455",
+      "zip_extension": "",
+      "primary_city": "City_06455",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06460",
+      "zip_extension": "",
+      "primary_city": "City_06460",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06465",
+      "zip_extension": "",
+      "primary_city": "City_06465",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06470",
+      "zip_extension": "",
+      "primary_city": "City_06470",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06475",
+      "zip_extension": "",
+      "primary_city": "City_06475",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06480",
+      "zip_extension": "",
+      "primary_city": "City_06480",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06485",
+      "zip_extension": "",
+      "primary_city": "City_06485",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06490",
+      "zip_extension": "",
+      "primary_city": "City_06490",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06495",
+      "zip_extension": "",
+      "primary_city": "City_06495",
+      "acceptable_cities": "",
+      "county": "County_064",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06500",
+      "zip_extension": "",
+      "primary_city": "City_06500",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06505",
+      "zip_extension": "",
+      "primary_city": "City_06505",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06510",
+      "zip_extension": "",
+      "primary_city": "City_06510",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06515",
+      "zip_extension": "",
+      "primary_city": "City_06515",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06520",
+      "zip_extension": "",
+      "primary_city": "City_06520",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06525",
+      "zip_extension": "",
+      "primary_city": "City_06525",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06530",
+      "zip_extension": "",
+      "primary_city": "City_06530",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06535",
+      "zip_extension": "",
+      "primary_city": "City_06535",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06540",
+      "zip_extension": "",
+      "primary_city": "City_06540",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06545",
+      "zip_extension": "",
+      "primary_city": "City_06545",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06550",
+      "zip_extension": "",
+      "primary_city": "City_06550",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06555",
+      "zip_extension": "",
+      "primary_city": "City_06555",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06560",
+      "zip_extension": "",
+      "primary_city": "City_06560",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06565",
+      "zip_extension": "",
+      "primary_city": "City_06565",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06570",
+      "zip_extension": "",
+      "primary_city": "City_06570",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06575",
+      "zip_extension": "",
+      "primary_city": "City_06575",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06580",
+      "zip_extension": "",
+      "primary_city": "City_06580",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06585",
+      "zip_extension": "",
+      "primary_city": "City_06585",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06590",
+      "zip_extension": "",
+      "primary_city": "City_06590",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06595",
+      "zip_extension": "",
+      "primary_city": "City_06595",
+      "acceptable_cities": "",
+      "county": "County_065",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06600",
+      "zip_extension": "",
+      "primary_city": "City_06600",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06605",
+      "zip_extension": "",
+      "primary_city": "City_06605",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06610",
+      "zip_extension": "",
+      "primary_city": "City_06610",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06615",
+      "zip_extension": "",
+      "primary_city": "City_06615",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06620",
+      "zip_extension": "",
+      "primary_city": "City_06620",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06625",
+      "zip_extension": "",
+      "primary_city": "City_06625",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06630",
+      "zip_extension": "",
+      "primary_city": "City_06630",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06635",
+      "zip_extension": "",
+      "primary_city": "City_06635",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06640",
+      "zip_extension": "",
+      "primary_city": "City_06640",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06645",
+      "zip_extension": "",
+      "primary_city": "City_06645",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06650",
+      "zip_extension": "",
+      "primary_city": "City_06650",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06655",
+      "zip_extension": "",
+      "primary_city": "City_06655",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06660",
+      "zip_extension": "",
+      "primary_city": "City_06660",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06665",
+      "zip_extension": "",
+      "primary_city": "City_06665",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06670",
+      "zip_extension": "",
+      "primary_city": "City_06670",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06675",
+      "zip_extension": "",
+      "primary_city": "City_06675",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06680",
+      "zip_extension": "",
+      "primary_city": "City_06680",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06685",
+      "zip_extension": "",
+      "primary_city": "City_06685",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06690",
+      "zip_extension": "",
+      "primary_city": "City_06690",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06695",
+      "zip_extension": "",
+      "primary_city": "City_06695",
+      "acceptable_cities": "",
+      "county": "County_066",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06700",
+      "zip_extension": "",
+      "primary_city": "City_06700",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06705",
+      "zip_extension": "",
+      "primary_city": "City_06705",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06710",
+      "zip_extension": "",
+      "primary_city": "City_06710",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06715",
+      "zip_extension": "",
+      "primary_city": "City_06715",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06720",
+      "zip_extension": "",
+      "primary_city": "City_06720",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06725",
+      "zip_extension": "",
+      "primary_city": "City_06725",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06730",
+      "zip_extension": "",
+      "primary_city": "City_06730",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06735",
+      "zip_extension": "",
+      "primary_city": "City_06735",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06740",
+      "zip_extension": "",
+      "primary_city": "City_06740",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06745",
+      "zip_extension": "",
+      "primary_city": "City_06745",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06750",
+      "zip_extension": "",
+      "primary_city": "City_06750",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06755",
+      "zip_extension": "",
+      "primary_city": "City_06755",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06760",
+      "zip_extension": "",
+      "primary_city": "City_06760",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06765",
+      "zip_extension": "",
+      "primary_city": "City_06765",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06770",
+      "zip_extension": "",
+      "primary_city": "City_06770",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06775",
+      "zip_extension": "",
+      "primary_city": "City_06775",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06780",
+      "zip_extension": "",
+      "primary_city": "City_06780",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06785",
+      "zip_extension": "",
+      "primary_city": "City_06785",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06790",
+      "zip_extension": "",
+      "primary_city": "City_06790",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06795",
+      "zip_extension": "",
+      "primary_city": "City_06795",
+      "acceptable_cities": "",
+      "county": "County_067",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06800",
+      "zip_extension": "",
+      "primary_city": "City_06800",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06805",
+      "zip_extension": "",
+      "primary_city": "City_06805",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06810",
+      "zip_extension": "",
+      "primary_city": "City_06810",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06815",
+      "zip_extension": "",
+      "primary_city": "City_06815",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06820",
+      "zip_extension": "",
+      "primary_city": "City_06820",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06825",
+      "zip_extension": "",
+      "primary_city": "City_06825",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06830",
+      "zip_extension": "",
+      "primary_city": "City_06830",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06835",
+      "zip_extension": "",
+      "primary_city": "City_06835",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06840",
+      "zip_extension": "",
+      "primary_city": "City_06840",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06845",
+      "zip_extension": "",
+      "primary_city": "City_06845",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06850",
+      "zip_extension": "",
+      "primary_city": "City_06850",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06855",
+      "zip_extension": "",
+      "primary_city": "City_06855",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06860",
+      "zip_extension": "",
+      "primary_city": "City_06860",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06865",
+      "zip_extension": "",
+      "primary_city": "City_06865",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06870",
+      "zip_extension": "",
+      "primary_city": "City_06870",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06875",
+      "zip_extension": "",
+      "primary_city": "City_06875",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06880",
+      "zip_extension": "",
+      "primary_city": "City_06880",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06885",
+      "zip_extension": "",
+      "primary_city": "City_06885",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06890",
+      "zip_extension": "",
+      "primary_city": "City_06890",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06895",
+      "zip_extension": "",
+      "primary_city": "City_06895",
+      "acceptable_cities": "",
+      "county": "County_068",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06900",
+      "zip_extension": "",
+      "primary_city": "City_06900",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06905",
+      "zip_extension": "",
+      "primary_city": "City_06905",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06910",
+      "zip_extension": "",
+      "primary_city": "City_06910",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06915",
+      "zip_extension": "",
+      "primary_city": "City_06915",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06920",
+      "zip_extension": "",
+      "primary_city": "City_06920",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06925",
+      "zip_extension": "",
+      "primary_city": "City_06925",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06930",
+      "zip_extension": "",
+      "primary_city": "City_06930",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06935",
+      "zip_extension": "",
+      "primary_city": "City_06935",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06940",
+      "zip_extension": "",
+      "primary_city": "City_06940",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06945",
+      "zip_extension": "",
+      "primary_city": "City_06945",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06950",
+      "zip_extension": "",
+      "primary_city": "City_06950",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06955",
+      "zip_extension": "",
+      "primary_city": "City_06955",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06960",
+      "zip_extension": "",
+      "primary_city": "City_06960",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06965",
+      "zip_extension": "",
+      "primary_city": "City_06965",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06970",
+      "zip_extension": "",
+      "primary_city": "City_06970",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06975",
+      "zip_extension": "",
+      "primary_city": "City_06975",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06980",
+      "zip_extension": "",
+      "primary_city": "City_06980",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06985",
+      "zip_extension": "",
+      "primary_city": "City_06985",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06990",
+      "zip_extension": "",
+      "primary_city": "City_06990",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "06995",
+      "zip_extension": "",
+      "primary_city": "City_06995",
+      "acceptable_cities": "",
+      "county": "County_069",
+      "state": "Connecticut",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

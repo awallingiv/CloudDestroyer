@@ -1,0 +1,2007 @@
+{
+  "state": "South Carolina",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 200,
+  "zipcodes": [
+    {
+      "zip_code": "29000",
+      "zip_extension": "",
+      "primary_city": "City_29000",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29005",
+      "zip_extension": "",
+      "primary_city": "City_29005",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29010",
+      "zip_extension": "",
+      "primary_city": "City_29010",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29015",
+      "zip_extension": "",
+      "primary_city": "City_29015",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29020",
+      "zip_extension": "",
+      "primary_city": "City_29020",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29025",
+      "zip_extension": "",
+      "primary_city": "City_29025",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29030",
+      "zip_extension": "",
+      "primary_city": "City_29030",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29035",
+      "zip_extension": "",
+      "primary_city": "City_29035",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29040",
+      "zip_extension": "",
+      "primary_city": "City_29040",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29045",
+      "zip_extension": "",
+      "primary_city": "City_29045",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29050",
+      "zip_extension": "",
+      "primary_city": "City_29050",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29055",
+      "zip_extension": "",
+      "primary_city": "City_29055",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29060",
+      "zip_extension": "",
+      "primary_city": "City_29060",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29065",
+      "zip_extension": "",
+      "primary_city": "City_29065",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29070",
+      "zip_extension": "",
+      "primary_city": "City_29070",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29075",
+      "zip_extension": "",
+      "primary_city": "City_29075",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29080",
+      "zip_extension": "",
+      "primary_city": "City_29080",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29085",
+      "zip_extension": "",
+      "primary_city": "City_29085",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29090",
+      "zip_extension": "",
+      "primary_city": "City_29090",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29095",
+      "zip_extension": "",
+      "primary_city": "City_29095",
+      "acceptable_cities": "",
+      "county": "County_290",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29100",
+      "zip_extension": "",
+      "primary_city": "City_29100",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29105",
+      "zip_extension": "",
+      "primary_city": "City_29105",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29110",
+      "zip_extension": "",
+      "primary_city": "City_29110",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29115",
+      "zip_extension": "",
+      "primary_city": "City_29115",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29120",
+      "zip_extension": "",
+      "primary_city": "City_29120",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29125",
+      "zip_extension": "",
+      "primary_city": "City_29125",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29130",
+      "zip_extension": "",
+      "primary_city": "City_29130",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29135",
+      "zip_extension": "",
+      "primary_city": "City_29135",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29140",
+      "zip_extension": "",
+      "primary_city": "City_29140",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29145",
+      "zip_extension": "",
+      "primary_city": "City_29145",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29150",
+      "zip_extension": "",
+      "primary_city": "City_29150",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29155",
+      "zip_extension": "",
+      "primary_city": "City_29155",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29160",
+      "zip_extension": "",
+      "primary_city": "City_29160",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29165",
+      "zip_extension": "",
+      "primary_city": "City_29165",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29170",
+      "zip_extension": "",
+      "primary_city": "City_29170",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29175",
+      "zip_extension": "",
+      "primary_city": "City_29175",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29180",
+      "zip_extension": "",
+      "primary_city": "City_29180",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29185",
+      "zip_extension": "",
+      "primary_city": "City_29185",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29190",
+      "zip_extension": "",
+      "primary_city": "City_29190",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29195",
+      "zip_extension": "",
+      "primary_city": "City_29195",
+      "acceptable_cities": "",
+      "county": "County_291",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29200",
+      "zip_extension": "",
+      "primary_city": "City_29200",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29205",
+      "zip_extension": "",
+      "primary_city": "City_29205",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29210",
+      "zip_extension": "",
+      "primary_city": "City_29210",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29215",
+      "zip_extension": "",
+      "primary_city": "City_29215",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29220",
+      "zip_extension": "",
+      "primary_city": "City_29220",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29225",
+      "zip_extension": "",
+      "primary_city": "City_29225",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29230",
+      "zip_extension": "",
+      "primary_city": "City_29230",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29235",
+      "zip_extension": "",
+      "primary_city": "City_29235",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29240",
+      "zip_extension": "",
+      "primary_city": "City_29240",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29245",
+      "zip_extension": "",
+      "primary_city": "City_29245",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29250",
+      "zip_extension": "",
+      "primary_city": "City_29250",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29255",
+      "zip_extension": "",
+      "primary_city": "City_29255",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29260",
+      "zip_extension": "",
+      "primary_city": "City_29260",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29265",
+      "zip_extension": "",
+      "primary_city": "City_29265",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29270",
+      "zip_extension": "",
+      "primary_city": "City_29270",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29275",
+      "zip_extension": "",
+      "primary_city": "City_29275",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29280",
+      "zip_extension": "",
+      "primary_city": "City_29280",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29285",
+      "zip_extension": "",
+      "primary_city": "City_29285",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29290",
+      "zip_extension": "",
+      "primary_city": "City_29290",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29295",
+      "zip_extension": "",
+      "primary_city": "City_29295",
+      "acceptable_cities": "",
+      "county": "County_292",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29300",
+      "zip_extension": "",
+      "primary_city": "City_29300",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29305",
+      "zip_extension": "",
+      "primary_city": "City_29305",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29310",
+      "zip_extension": "",
+      "primary_city": "City_29310",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29315",
+      "zip_extension": "",
+      "primary_city": "City_29315",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29320",
+      "zip_extension": "",
+      "primary_city": "City_29320",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29325",
+      "zip_extension": "",
+      "primary_city": "City_29325",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29330",
+      "zip_extension": "",
+      "primary_city": "City_29330",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29335",
+      "zip_extension": "",
+      "primary_city": "City_29335",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29340",
+      "zip_extension": "",
+      "primary_city": "City_29340",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29345",
+      "zip_extension": "",
+      "primary_city": "City_29345",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29350",
+      "zip_extension": "",
+      "primary_city": "City_29350",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29355",
+      "zip_extension": "",
+      "primary_city": "City_29355",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29360",
+      "zip_extension": "",
+      "primary_city": "City_29360",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29365",
+      "zip_extension": "",
+      "primary_city": "City_29365",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29370",
+      "zip_extension": "",
+      "primary_city": "City_29370",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29375",
+      "zip_extension": "",
+      "primary_city": "City_29375",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29380",
+      "zip_extension": "",
+      "primary_city": "City_29380",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29385",
+      "zip_extension": "",
+      "primary_city": "City_29385",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29390",
+      "zip_extension": "",
+      "primary_city": "City_29390",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29395",
+      "zip_extension": "",
+      "primary_city": "City_29395",
+      "acceptable_cities": "",
+      "county": "County_293",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29400",
+      "zip_extension": "",
+      "primary_city": "City_29400",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29405",
+      "zip_extension": "",
+      "primary_city": "City_29405",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29410",
+      "zip_extension": "",
+      "primary_city": "City_29410",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29415",
+      "zip_extension": "",
+      "primary_city": "City_29415",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29420",
+      "zip_extension": "",
+      "primary_city": "City_29420",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29425",
+      "zip_extension": "",
+      "primary_city": "City_29425",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29430",
+      "zip_extension": "",
+      "primary_city": "City_29430",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29435",
+      "zip_extension": "",
+      "primary_city": "City_29435",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29440",
+      "zip_extension": "",
+      "primary_city": "City_29440",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29445",
+      "zip_extension": "",
+      "primary_city": "City_29445",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29450",
+      "zip_extension": "",
+      "primary_city": "City_29450",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29455",
+      "zip_extension": "",
+      "primary_city": "City_29455",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29460",
+      "zip_extension": "",
+      "primary_city": "City_29460",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29465",
+      "zip_extension": "",
+      "primary_city": "City_29465",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29470",
+      "zip_extension": "",
+      "primary_city": "City_29470",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29475",
+      "zip_extension": "",
+      "primary_city": "City_29475",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29480",
+      "zip_extension": "",
+      "primary_city": "City_29480",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29485",
+      "zip_extension": "",
+      "primary_city": "City_29485",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29490",
+      "zip_extension": "",
+      "primary_city": "City_29490",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29495",
+      "zip_extension": "",
+      "primary_city": "City_29495",
+      "acceptable_cities": "",
+      "county": "County_294",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29500",
+      "zip_extension": "",
+      "primary_city": "City_29500",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29505",
+      "zip_extension": "",
+      "primary_city": "City_29505",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29510",
+      "zip_extension": "",
+      "primary_city": "City_29510",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29515",
+      "zip_extension": "",
+      "primary_city": "City_29515",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29520",
+      "zip_extension": "",
+      "primary_city": "City_29520",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29525",
+      "zip_extension": "",
+      "primary_city": "City_29525",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29530",
+      "zip_extension": "",
+      "primary_city": "City_29530",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29535",
+      "zip_extension": "",
+      "primary_city": "City_29535",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29540",
+      "zip_extension": "",
+      "primary_city": "City_29540",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29545",
+      "zip_extension": "",
+      "primary_city": "City_29545",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29550",
+      "zip_extension": "",
+      "primary_city": "City_29550",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29555",
+      "zip_extension": "",
+      "primary_city": "City_29555",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29560",
+      "zip_extension": "",
+      "primary_city": "City_29560",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29565",
+      "zip_extension": "",
+      "primary_city": "City_29565",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29570",
+      "zip_extension": "",
+      "primary_city": "City_29570",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29575",
+      "zip_extension": "",
+      "primary_city": "City_29575",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29580",
+      "zip_extension": "",
+      "primary_city": "City_29580",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29585",
+      "zip_extension": "",
+      "primary_city": "City_29585",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29590",
+      "zip_extension": "",
+      "primary_city": "City_29590",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29595",
+      "zip_extension": "",
+      "primary_city": "City_29595",
+      "acceptable_cities": "",
+      "county": "County_295",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29600",
+      "zip_extension": "",
+      "primary_city": "City_29600",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29605",
+      "zip_extension": "",
+      "primary_city": "City_29605",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29610",
+      "zip_extension": "",
+      "primary_city": "City_29610",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29615",
+      "zip_extension": "",
+      "primary_city": "City_29615",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29620",
+      "zip_extension": "",
+      "primary_city": "City_29620",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29625",
+      "zip_extension": "",
+      "primary_city": "City_29625",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29630",
+      "zip_extension": "",
+      "primary_city": "City_29630",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29635",
+      "zip_extension": "",
+      "primary_city": "City_29635",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29640",
+      "zip_extension": "",
+      "primary_city": "City_29640",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29645",
+      "zip_extension": "",
+      "primary_city": "City_29645",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29650",
+      "zip_extension": "",
+      "primary_city": "City_29650",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29655",
+      "zip_extension": "",
+      "primary_city": "City_29655",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29660",
+      "zip_extension": "",
+      "primary_city": "City_29660",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29665",
+      "zip_extension": "",
+      "primary_city": "City_29665",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29670",
+      "zip_extension": "",
+      "primary_city": "City_29670",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29675",
+      "zip_extension": "",
+      "primary_city": "City_29675",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29680",
+      "zip_extension": "",
+      "primary_city": "City_29680",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29685",
+      "zip_extension": "",
+      "primary_city": "City_29685",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29690",
+      "zip_extension": "",
+      "primary_city": "City_29690",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29695",
+      "zip_extension": "",
+      "primary_city": "City_29695",
+      "acceptable_cities": "",
+      "county": "County_296",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29700",
+      "zip_extension": "",
+      "primary_city": "City_29700",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29705",
+      "zip_extension": "",
+      "primary_city": "City_29705",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29710",
+      "zip_extension": "",
+      "primary_city": "City_29710",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29715",
+      "zip_extension": "",
+      "primary_city": "City_29715",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29720",
+      "zip_extension": "",
+      "primary_city": "City_29720",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29725",
+      "zip_extension": "",
+      "primary_city": "City_29725",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29730",
+      "zip_extension": "",
+      "primary_city": "City_29730",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29735",
+      "zip_extension": "",
+      "primary_city": "City_29735",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29740",
+      "zip_extension": "",
+      "primary_city": "City_29740",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29745",
+      "zip_extension": "",
+      "primary_city": "City_29745",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29750",
+      "zip_extension": "",
+      "primary_city": "City_29750",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29755",
+      "zip_extension": "",
+      "primary_city": "City_29755",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29760",
+      "zip_extension": "",
+      "primary_city": "City_29760",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29765",
+      "zip_extension": "",
+      "primary_city": "City_29765",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29770",
+      "zip_extension": "",
+      "primary_city": "City_29770",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29775",
+      "zip_extension": "",
+      "primary_city": "City_29775",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29780",
+      "zip_extension": "",
+      "primary_city": "City_29780",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29785",
+      "zip_extension": "",
+      "primary_city": "City_29785",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29790",
+      "zip_extension": "",
+      "primary_city": "City_29790",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29795",
+      "zip_extension": "",
+      "primary_city": "City_29795",
+      "acceptable_cities": "",
+      "county": "County_297",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29800",
+      "zip_extension": "",
+      "primary_city": "City_29800",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29805",
+      "zip_extension": "",
+      "primary_city": "City_29805",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29810",
+      "zip_extension": "",
+      "primary_city": "City_29810",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29815",
+      "zip_extension": "",
+      "primary_city": "City_29815",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29820",
+      "zip_extension": "",
+      "primary_city": "City_29820",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29825",
+      "zip_extension": "",
+      "primary_city": "City_29825",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29830",
+      "zip_extension": "",
+      "primary_city": "City_29830",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29835",
+      "zip_extension": "",
+      "primary_city": "City_29835",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29840",
+      "zip_extension": "",
+      "primary_city": "City_29840",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29845",
+      "zip_extension": "",
+      "primary_city": "City_29845",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29850",
+      "zip_extension": "",
+      "primary_city": "City_29850",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29855",
+      "zip_extension": "",
+      "primary_city": "City_29855",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29860",
+      "zip_extension": "",
+      "primary_city": "City_29860",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29865",
+      "zip_extension": "",
+      "primary_city": "City_29865",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29870",
+      "zip_extension": "",
+      "primary_city": "City_29870",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29875",
+      "zip_extension": "",
+      "primary_city": "City_29875",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29880",
+      "zip_extension": "",
+      "primary_city": "City_29880",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29885",
+      "zip_extension": "",
+      "primary_city": "City_29885",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29890",
+      "zip_extension": "",
+      "primary_city": "City_29890",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29895",
+      "zip_extension": "",
+      "primary_city": "City_29895",
+      "acceptable_cities": "",
+      "county": "County_298",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29900",
+      "zip_extension": "",
+      "primary_city": "City_29900",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29905",
+      "zip_extension": "",
+      "primary_city": "City_29905",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29910",
+      "zip_extension": "",
+      "primary_city": "City_29910",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29915",
+      "zip_extension": "",
+      "primary_city": "City_29915",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29920",
+      "zip_extension": "",
+      "primary_city": "City_29920",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29925",
+      "zip_extension": "",
+      "primary_city": "City_29925",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29930",
+      "zip_extension": "",
+      "primary_city": "City_29930",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29935",
+      "zip_extension": "",
+      "primary_city": "City_29935",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29940",
+      "zip_extension": "",
+      "primary_city": "City_29940",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29945",
+      "zip_extension": "",
+      "primary_city": "City_29945",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29950",
+      "zip_extension": "",
+      "primary_city": "City_29950",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29955",
+      "zip_extension": "",
+      "primary_city": "City_29955",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29960",
+      "zip_extension": "",
+      "primary_city": "City_29960",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29965",
+      "zip_extension": "",
+      "primary_city": "City_29965",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29970",
+      "zip_extension": "",
+      "primary_city": "City_29970",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29975",
+      "zip_extension": "",
+      "primary_city": "City_29975",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29980",
+      "zip_extension": "",
+      "primary_city": "City_29980",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29985",
+      "zip_extension": "",
+      "primary_city": "City_29985",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29990",
+      "zip_extension": "",
+      "primary_city": "City_29990",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "29995",
+      "zip_extension": "",
+      "primary_city": "City_29995",
+      "acceptable_cities": "",
+      "county": "County_299",
+      "state": "South Carolina",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

@@ -1,0 +1,4007 @@
+{
+  "state": "Oklahoma",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 400,
+  "zipcodes": [
+    {
+      "zip_code": "73000",
+      "zip_extension": "",
+      "primary_city": "City_73000",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73005",
+      "zip_extension": "",
+      "primary_city": "City_73005",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73010",
+      "zip_extension": "",
+      "primary_city": "City_73010",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73015",
+      "zip_extension": "",
+      "primary_city": "City_73015",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73020",
+      "zip_extension": "",
+      "primary_city": "City_73020",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73025",
+      "zip_extension": "",
+      "primary_city": "City_73025",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73030",
+      "zip_extension": "",
+      "primary_city": "City_73030",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73035",
+      "zip_extension": "",
+      "primary_city": "City_73035",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73040",
+      "zip_extension": "",
+      "primary_city": "City_73040",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73045",
+      "zip_extension": "",
+      "primary_city": "City_73045",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73050",
+      "zip_extension": "",
+      "primary_city": "City_73050",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73055",
+      "zip_extension": "",
+      "primary_city": "City_73055",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73060",
+      "zip_extension": "",
+      "primary_city": "City_73060",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73065",
+      "zip_extension": "",
+      "primary_city": "City_73065",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73070",
+      "zip_extension": "",
+      "primary_city": "City_73070",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73075",
+      "zip_extension": "",
+      "primary_city": "City_73075",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73080",
+      "zip_extension": "",
+      "primary_city": "City_73080",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73085",
+      "zip_extension": "",
+      "primary_city": "City_73085",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73090",
+      "zip_extension": "",
+      "primary_city": "City_73090",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73095",
+      "zip_extension": "",
+      "primary_city": "City_73095",
+      "acceptable_cities": "",
+      "county": "County_730",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73100",
+      "zip_extension": "",
+      "primary_city": "City_73100",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73105",
+      "zip_extension": "",
+      "primary_city": "City_73105",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73110",
+      "zip_extension": "",
+      "primary_city": "City_73110",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73115",
+      "zip_extension": "",
+      "primary_city": "City_73115",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73120",
+      "zip_extension": "",
+      "primary_city": "City_73120",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73125",
+      "zip_extension": "",
+      "primary_city": "City_73125",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73130",
+      "zip_extension": "",
+      "primary_city": "City_73130",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73135",
+      "zip_extension": "",
+      "primary_city": "City_73135",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73140",
+      "zip_extension": "",
+      "primary_city": "City_73140",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73145",
+      "zip_extension": "",
+      "primary_city": "City_73145",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73150",
+      "zip_extension": "",
+      "primary_city": "City_73150",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73155",
+      "zip_extension": "",
+      "primary_city": "City_73155",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73160",
+      "zip_extension": "",
+      "primary_city": "City_73160",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73165",
+      "zip_extension": "",
+      "primary_city": "City_73165",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73170",
+      "zip_extension": "",
+      "primary_city": "City_73170",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73175",
+      "zip_extension": "",
+      "primary_city": "City_73175",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73180",
+      "zip_extension": "",
+      "primary_city": "City_73180",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73185",
+      "zip_extension": "",
+      "primary_city": "City_73185",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73190",
+      "zip_extension": "",
+      "primary_city": "City_73190",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73195",
+      "zip_extension": "",
+      "primary_city": "City_73195",
+      "acceptable_cities": "",
+      "county": "County_731",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73200",
+      "zip_extension": "",
+      "primary_city": "City_73200",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73205",
+      "zip_extension": "",
+      "primary_city": "City_73205",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73210",
+      "zip_extension": "",
+      "primary_city": "City_73210",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73215",
+      "zip_extension": "",
+      "primary_city": "City_73215",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73220",
+      "zip_extension": "",
+      "primary_city": "City_73220",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73225",
+      "zip_extension": "",
+      "primary_city": "City_73225",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73230",
+      "zip_extension": "",
+      "primary_city": "City_73230",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73235",
+      "zip_extension": "",
+      "primary_city": "City_73235",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73240",
+      "zip_extension": "",
+      "primary_city": "City_73240",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73245",
+      "zip_extension": "",
+      "primary_city": "City_73245",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73250",
+      "zip_extension": "",
+      "primary_city": "City_73250",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73255",
+      "zip_extension": "",
+      "primary_city": "City_73255",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73260",
+      "zip_extension": "",
+      "primary_city": "City_73260",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73265",
+      "zip_extension": "",
+      "primary_city": "City_73265",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73270",
+      "zip_extension": "",
+      "primary_city": "City_73270",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73275",
+      "zip_extension": "",
+      "primary_city": "City_73275",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73280",
+      "zip_extension": "",
+      "primary_city": "City_73280",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73285",
+      "zip_extension": "",
+      "primary_city": "City_73285",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73290",
+      "zip_extension": "",
+      "primary_city": "City_73290",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73295",
+      "zip_extension": "",
+      "primary_city": "City_73295",
+      "acceptable_cities": "",
+      "county": "County_732",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73300",
+      "zip_extension": "",
+      "primary_city": "City_73300",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73305",
+      "zip_extension": "",
+      "primary_city": "City_73305",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73310",
+      "zip_extension": "",
+      "primary_city": "City_73310",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73315",
+      "zip_extension": "",
+      "primary_city": "City_73315",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73320",
+      "zip_extension": "",
+      "primary_city": "City_73320",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73325",
+      "zip_extension": "",
+      "primary_city": "City_73325",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73330",
+      "zip_extension": "",
+      "primary_city": "City_73330",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73335",
+      "zip_extension": "",
+      "primary_city": "City_73335",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73340",
+      "zip_extension": "",
+      "primary_city": "City_73340",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73345",
+      "zip_extension": "",
+      "primary_city": "City_73345",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73350",
+      "zip_extension": "",
+      "primary_city": "City_73350",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73355",
+      "zip_extension": "",
+      "primary_city": "City_73355",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73360",
+      "zip_extension": "",
+      "primary_city": "City_73360",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73365",
+      "zip_extension": "",
+      "primary_city": "City_73365",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73370",
+      "zip_extension": "",
+      "primary_city": "City_73370",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73375",
+      "zip_extension": "",
+      "primary_city": "City_73375",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73380",
+      "zip_extension": "",
+      "primary_city": "City_73380",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73385",
+      "zip_extension": "",
+      "primary_city": "City_73385",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73390",
+      "zip_extension": "",
+      "primary_city": "City_73390",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73395",
+      "zip_extension": "",
+      "primary_city": "City_73395",
+      "acceptable_cities": "",
+      "county": "County_733",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73400",
+      "zip_extension": "",
+      "primary_city": "City_73400",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73405",
+      "zip_extension": "",
+      "primary_city": "City_73405",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73410",
+      "zip_extension": "",
+      "primary_city": "City_73410",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73415",
+      "zip_extension": "",
+      "primary_city": "City_73415",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73420",
+      "zip_extension": "",
+      "primary_city": "City_73420",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73425",
+      "zip_extension": "",
+      "primary_city": "City_73425",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73430",
+      "zip_extension": "",
+      "primary_city": "City_73430",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73435",
+      "zip_extension": "",
+      "primary_city": "City_73435",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73440",
+      "zip_extension": "",
+      "primary_city": "City_73440",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73445",
+      "zip_extension": "",
+      "primary_city": "City_73445",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73450",
+      "zip_extension": "",
+      "primary_city": "City_73450",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73455",
+      "zip_extension": "",
+      "primary_city": "City_73455",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73460",
+      "zip_extension": "",
+      "primary_city": "City_73460",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73465",
+      "zip_extension": "",
+      "primary_city": "City_73465",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73470",
+      "zip_extension": "",
+      "primary_city": "City_73470",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73475",
+      "zip_extension": "",
+      "primary_city": "City_73475",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73480",
+      "zip_extension": "",
+      "primary_city": "City_73480",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73485",
+      "zip_extension": "",
+      "primary_city": "City_73485",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73490",
+      "zip_extension": "",
+      "primary_city": "City_73490",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73495",
+      "zip_extension": "",
+      "primary_city": "City_73495",
+      "acceptable_cities": "",
+      "county": "County_734",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73500",
+      "zip_extension": "",
+      "primary_city": "City_73500",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73505",
+      "zip_extension": "",
+      "primary_city": "City_73505",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73510",
+      "zip_extension": "",
+      "primary_city": "City_73510",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73515",
+      "zip_extension": "",
+      "primary_city": "City_73515",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73520",
+      "zip_extension": "",
+      "primary_city": "City_73520",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73525",
+      "zip_extension": "",
+      "primary_city": "City_73525",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73530",
+      "zip_extension": "",
+      "primary_city": "City_73530",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73535",
+      "zip_extension": "",
+      "primary_city": "City_73535",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73540",
+      "zip_extension": "",
+      "primary_city": "City_73540",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73545",
+      "zip_extension": "",
+      "primary_city": "City_73545",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73550",
+      "zip_extension": "",
+      "primary_city": "City_73550",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73555",
+      "zip_extension": "",
+      "primary_city": "City_73555",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73560",
+      "zip_extension": "",
+      "primary_city": "City_73560",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73565",
+      "zip_extension": "",
+      "primary_city": "City_73565",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73570",
+      "zip_extension": "",
+      "primary_city": "City_73570",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73575",
+      "zip_extension": "",
+      "primary_city": "City_73575",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73580",
+      "zip_extension": "",
+      "primary_city": "City_73580",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73585",
+      "zip_extension": "",
+      "primary_city": "City_73585",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73590",
+      "zip_extension": "",
+      "primary_city": "City_73590",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73595",
+      "zip_extension": "",
+      "primary_city": "City_73595",
+      "acceptable_cities": "",
+      "county": "County_735",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73600",
+      "zip_extension": "",
+      "primary_city": "City_73600",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73605",
+      "zip_extension": "",
+      "primary_city": "City_73605",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73610",
+      "zip_extension": "",
+      "primary_city": "City_73610",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73615",
+      "zip_extension": "",
+      "primary_city": "City_73615",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73620",
+      "zip_extension": "",
+      "primary_city": "City_73620",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73625",
+      "zip_extension": "",
+      "primary_city": "City_73625",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73630",
+      "zip_extension": "",
+      "primary_city": "City_73630",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73635",
+      "zip_extension": "",
+      "primary_city": "City_73635",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73640",
+      "zip_extension": "",
+      "primary_city": "City_73640",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73645",
+      "zip_extension": "",
+      "primary_city": "City_73645",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73650",
+      "zip_extension": "",
+      "primary_city": "City_73650",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73655",
+      "zip_extension": "",
+      "primary_city": "City_73655",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73660",
+      "zip_extension": "",
+      "primary_city": "City_73660",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73665",
+      "zip_extension": "",
+      "primary_city": "City_73665",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73670",
+      "zip_extension": "",
+      "primary_city": "City_73670",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73675",
+      "zip_extension": "",
+      "primary_city": "City_73675",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73680",
+      "zip_extension": "",
+      "primary_city": "City_73680",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73685",
+      "zip_extension": "",
+      "primary_city": "City_73685",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73690",
+      "zip_extension": "",
+      "primary_city": "City_73690",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73695",
+      "zip_extension": "",
+      "primary_city": "City_73695",
+      "acceptable_cities": "",
+      "county": "County_736",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73700",
+      "zip_extension": "",
+      "primary_city": "City_73700",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73705",
+      "zip_extension": "",
+      "primary_city": "City_73705",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73710",
+      "zip_extension": "",
+      "primary_city": "City_73710",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73715",
+      "zip_extension": "",
+      "primary_city": "City_73715",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73720",
+      "zip_extension": "",
+      "primary_city": "City_73720",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73725",
+      "zip_extension": "",
+      "primary_city": "City_73725",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73730",
+      "zip_extension": "",
+      "primary_city": "City_73730",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73735",
+      "zip_extension": "",
+      "primary_city": "City_73735",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73740",
+      "zip_extension": "",
+      "primary_city": "City_73740",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73745",
+      "zip_extension": "",
+      "primary_city": "City_73745",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73750",
+      "zip_extension": "",
+      "primary_city": "City_73750",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73755",
+      "zip_extension": "",
+      "primary_city": "City_73755",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73760",
+      "zip_extension": "",
+      "primary_city": "City_73760",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73765",
+      "zip_extension": "",
+      "primary_city": "City_73765",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73770",
+      "zip_extension": "",
+      "primary_city": "City_73770",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73775",
+      "zip_extension": "",
+      "primary_city": "City_73775",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73780",
+      "zip_extension": "",
+      "primary_city": "City_73780",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73785",
+      "zip_extension": "",
+      "primary_city": "City_73785",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73790",
+      "zip_extension": "",
+      "primary_city": "City_73790",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73795",
+      "zip_extension": "",
+      "primary_city": "City_73795",
+      "acceptable_cities": "",
+      "county": "County_737",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73800",
+      "zip_extension": "",
+      "primary_city": "City_73800",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73805",
+      "zip_extension": "",
+      "primary_city": "City_73805",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73810",
+      "zip_extension": "",
+      "primary_city": "City_73810",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73815",
+      "zip_extension": "",
+      "primary_city": "City_73815",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73820",
+      "zip_extension": "",
+      "primary_city": "City_73820",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73825",
+      "zip_extension": "",
+      "primary_city": "City_73825",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73830",
+      "zip_extension": "",
+      "primary_city": "City_73830",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73835",
+      "zip_extension": "",
+      "primary_city": "City_73835",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73840",
+      "zip_extension": "",
+      "primary_city": "City_73840",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73845",
+      "zip_extension": "",
+      "primary_city": "City_73845",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73850",
+      "zip_extension": "",
+      "primary_city": "City_73850",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73855",
+      "zip_extension": "",
+      "primary_city": "City_73855",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73860",
+      "zip_extension": "",
+      "primary_city": "City_73860",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73865",
+      "zip_extension": "",
+      "primary_city": "City_73865",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73870",
+      "zip_extension": "",
+      "primary_city": "City_73870",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73875",
+      "zip_extension": "",
+      "primary_city": "City_73875",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73880",
+      "zip_extension": "",
+      "primary_city": "City_73880",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73885",
+      "zip_extension": "",
+      "primary_city": "City_73885",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73890",
+      "zip_extension": "",
+      "primary_city": "City_73890",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73895",
+      "zip_extension": "",
+      "primary_city": "City_73895",
+      "acceptable_cities": "",
+      "county": "County_738",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73900",
+      "zip_extension": "",
+      "primary_city": "City_73900",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73905",
+      "zip_extension": "",
+      "primary_city": "City_73905",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73910",
+      "zip_extension": "",
+      "primary_city": "City_73910",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73915",
+      "zip_extension": "",
+      "primary_city": "City_73915",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73920",
+      "zip_extension": "",
+      "primary_city": "City_73920",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73925",
+      "zip_extension": "",
+      "primary_city": "City_73925",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73930",
+      "zip_extension": "",
+      "primary_city": "City_73930",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73935",
+      "zip_extension": "",
+      "primary_city": "City_73935",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73940",
+      "zip_extension": "",
+      "primary_city": "City_73940",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73945",
+      "zip_extension": "",
+      "primary_city": "City_73945",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73950",
+      "zip_extension": "",
+      "primary_city": "City_73950",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73955",
+      "zip_extension": "",
+      "primary_city": "City_73955",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73960",
+      "zip_extension": "",
+      "primary_city": "City_73960",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73965",
+      "zip_extension": "",
+      "primary_city": "City_73965",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73970",
+      "zip_extension": "",
+      "primary_city": "City_73970",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73975",
+      "zip_extension": "",
+      "primary_city": "City_73975",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73980",
+      "zip_extension": "",
+      "primary_city": "City_73980",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73985",
+      "zip_extension": "",
+      "primary_city": "City_73985",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73990",
+      "zip_extension": "",
+      "primary_city": "City_73990",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "73995",
+      "zip_extension": "",
+      "primary_city": "City_73995",
+      "acceptable_cities": "",
+      "county": "County_739",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74000",
+      "zip_extension": "",
+      "primary_city": "City_74000",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74005",
+      "zip_extension": "",
+      "primary_city": "City_74005",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74010",
+      "zip_extension": "",
+      "primary_city": "City_74010",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74015",
+      "zip_extension": "",
+      "primary_city": "City_74015",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74020",
+      "zip_extension": "",
+      "primary_city": "City_74020",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74025",
+      "zip_extension": "",
+      "primary_city": "City_74025",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74030",
+      "zip_extension": "",
+      "primary_city": "City_74030",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74035",
+      "zip_extension": "",
+      "primary_city": "City_74035",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74040",
+      "zip_extension": "",
+      "primary_city": "City_74040",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74045",
+      "zip_extension": "",
+      "primary_city": "City_74045",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74050",
+      "zip_extension": "",
+      "primary_city": "City_74050",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74055",
+      "zip_extension": "",
+      "primary_city": "City_74055",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74060",
+      "zip_extension": "",
+      "primary_city": "City_74060",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74065",
+      "zip_extension": "",
+      "primary_city": "City_74065",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74070",
+      "zip_extension": "",
+      "primary_city": "City_74070",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74075",
+      "zip_extension": "",
+      "primary_city": "City_74075",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74080",
+      "zip_extension": "",
+      "primary_city": "City_74080",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74085",
+      "zip_extension": "",
+      "primary_city": "City_74085",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74090",
+      "zip_extension": "",
+      "primary_city": "City_74090",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74095",
+      "zip_extension": "",
+      "primary_city": "City_74095",
+      "acceptable_cities": "",
+      "county": "County_740",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74100",
+      "zip_extension": "",
+      "primary_city": "City_74100",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74105",
+      "zip_extension": "",
+      "primary_city": "City_74105",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74110",
+      "zip_extension": "",
+      "primary_city": "City_74110",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74115",
+      "zip_extension": "",
+      "primary_city": "City_74115",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74120",
+      "zip_extension": "",
+      "primary_city": "City_74120",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74125",
+      "zip_extension": "",
+      "primary_city": "City_74125",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74130",
+      "zip_extension": "",
+      "primary_city": "City_74130",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74135",
+      "zip_extension": "",
+      "primary_city": "City_74135",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74140",
+      "zip_extension": "",
+      "primary_city": "City_74140",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74145",
+      "zip_extension": "",
+      "primary_city": "City_74145",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74150",
+      "zip_extension": "",
+      "primary_city": "City_74150",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74155",
+      "zip_extension": "",
+      "primary_city": "City_74155",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74160",
+      "zip_extension": "",
+      "primary_city": "City_74160",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74165",
+      "zip_extension": "",
+      "primary_city": "City_74165",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74170",
+      "zip_extension": "",
+      "primary_city": "City_74170",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74175",
+      "zip_extension": "",
+      "primary_city": "City_74175",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74180",
+      "zip_extension": "",
+      "primary_city": "City_74180",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74185",
+      "zip_extension": "",
+      "primary_city": "City_74185",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74190",
+      "zip_extension": "",
+      "primary_city": "City_74190",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74195",
+      "zip_extension": "",
+      "primary_city": "City_74195",
+      "acceptable_cities": "",
+      "county": "County_741",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74200",
+      "zip_extension": "",
+      "primary_city": "City_74200",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74205",
+      "zip_extension": "",
+      "primary_city": "City_74205",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74210",
+      "zip_extension": "",
+      "primary_city": "City_74210",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74215",
+      "zip_extension": "",
+      "primary_city": "City_74215",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74220",
+      "zip_extension": "",
+      "primary_city": "City_74220",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74225",
+      "zip_extension": "",
+      "primary_city": "City_74225",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74230",
+      "zip_extension": "",
+      "primary_city": "City_74230",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74235",
+      "zip_extension": "",
+      "primary_city": "City_74235",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74240",
+      "zip_extension": "",
+      "primary_city": "City_74240",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74245",
+      "zip_extension": "",
+      "primary_city": "City_74245",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74250",
+      "zip_extension": "",
+      "primary_city": "City_74250",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74255",
+      "zip_extension": "",
+      "primary_city": "City_74255",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74260",
+      "zip_extension": "",
+      "primary_city": "City_74260",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74265",
+      "zip_extension": "",
+      "primary_city": "City_74265",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74270",
+      "zip_extension": "",
+      "primary_city": "City_74270",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74275",
+      "zip_extension": "",
+      "primary_city": "City_74275",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74280",
+      "zip_extension": "",
+      "primary_city": "City_74280",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74285",
+      "zip_extension": "",
+      "primary_city": "City_74285",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74290",
+      "zip_extension": "",
+      "primary_city": "City_74290",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74295",
+      "zip_extension": "",
+      "primary_city": "City_74295",
+      "acceptable_cities": "",
+      "county": "County_742",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74300",
+      "zip_extension": "",
+      "primary_city": "City_74300",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74305",
+      "zip_extension": "",
+      "primary_city": "City_74305",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74310",
+      "zip_extension": "",
+      "primary_city": "City_74310",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74315",
+      "zip_extension": "",
+      "primary_city": "City_74315",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74320",
+      "zip_extension": "",
+      "primary_city": "City_74320",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74325",
+      "zip_extension": "",
+      "primary_city": "City_74325",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74330",
+      "zip_extension": "",
+      "primary_city": "City_74330",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74335",
+      "zip_extension": "",
+      "primary_city": "City_74335",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74340",
+      "zip_extension": "",
+      "primary_city": "City_74340",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74345",
+      "zip_extension": "",
+      "primary_city": "City_74345",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74350",
+      "zip_extension": "",
+      "primary_city": "City_74350",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74355",
+      "zip_extension": "",
+      "primary_city": "City_74355",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74360",
+      "zip_extension": "",
+      "primary_city": "City_74360",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74365",
+      "zip_extension": "",
+      "primary_city": "City_74365",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74370",
+      "zip_extension": "",
+      "primary_city": "City_74370",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74375",
+      "zip_extension": "",
+      "primary_city": "City_74375",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74380",
+      "zip_extension": "",
+      "primary_city": "City_74380",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74385",
+      "zip_extension": "",
+      "primary_city": "City_74385",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74390",
+      "zip_extension": "",
+      "primary_city": "City_74390",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74395",
+      "zip_extension": "",
+      "primary_city": "City_74395",
+      "acceptable_cities": "",
+      "county": "County_743",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74400",
+      "zip_extension": "",
+      "primary_city": "City_74400",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74405",
+      "zip_extension": "",
+      "primary_city": "City_74405",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74410",
+      "zip_extension": "",
+      "primary_city": "City_74410",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74415",
+      "zip_extension": "",
+      "primary_city": "City_74415",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74420",
+      "zip_extension": "",
+      "primary_city": "City_74420",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74425",
+      "zip_extension": "",
+      "primary_city": "City_74425",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74430",
+      "zip_extension": "",
+      "primary_city": "City_74430",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74435",
+      "zip_extension": "",
+      "primary_city": "City_74435",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74440",
+      "zip_extension": "",
+      "primary_city": "City_74440",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74445",
+      "zip_extension": "",
+      "primary_city": "City_74445",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74450",
+      "zip_extension": "",
+      "primary_city": "City_74450",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74455",
+      "zip_extension": "",
+      "primary_city": "City_74455",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74460",
+      "zip_extension": "",
+      "primary_city": "City_74460",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74465",
+      "zip_extension": "",
+      "primary_city": "City_74465",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74470",
+      "zip_extension": "",
+      "primary_city": "City_74470",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74475",
+      "zip_extension": "",
+      "primary_city": "City_74475",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74480",
+      "zip_extension": "",
+      "primary_city": "City_74480",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74485",
+      "zip_extension": "",
+      "primary_city": "City_74485",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74490",
+      "zip_extension": "",
+      "primary_city": "City_74490",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74495",
+      "zip_extension": "",
+      "primary_city": "City_74495",
+      "acceptable_cities": "",
+      "county": "County_744",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74500",
+      "zip_extension": "",
+      "primary_city": "City_74500",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74505",
+      "zip_extension": "",
+      "primary_city": "City_74505",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74510",
+      "zip_extension": "",
+      "primary_city": "City_74510",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74515",
+      "zip_extension": "",
+      "primary_city": "City_74515",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74520",
+      "zip_extension": "",
+      "primary_city": "City_74520",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74525",
+      "zip_extension": "",
+      "primary_city": "City_74525",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74530",
+      "zip_extension": "",
+      "primary_city": "City_74530",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74535",
+      "zip_extension": "",
+      "primary_city": "City_74535",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74540",
+      "zip_extension": "",
+      "primary_city": "City_74540",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74545",
+      "zip_extension": "",
+      "primary_city": "City_74545",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74550",
+      "zip_extension": "",
+      "primary_city": "City_74550",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74555",
+      "zip_extension": "",
+      "primary_city": "City_74555",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74560",
+      "zip_extension": "",
+      "primary_city": "City_74560",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74565",
+      "zip_extension": "",
+      "primary_city": "City_74565",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74570",
+      "zip_extension": "",
+      "primary_city": "City_74570",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74575",
+      "zip_extension": "",
+      "primary_city": "City_74575",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74580",
+      "zip_extension": "",
+      "primary_city": "City_74580",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74585",
+      "zip_extension": "",
+      "primary_city": "City_74585",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74590",
+      "zip_extension": "",
+      "primary_city": "City_74590",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74595",
+      "zip_extension": "",
+      "primary_city": "City_74595",
+      "acceptable_cities": "",
+      "county": "County_745",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74600",
+      "zip_extension": "",
+      "primary_city": "City_74600",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74605",
+      "zip_extension": "",
+      "primary_city": "City_74605",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74610",
+      "zip_extension": "",
+      "primary_city": "City_74610",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74615",
+      "zip_extension": "",
+      "primary_city": "City_74615",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74620",
+      "zip_extension": "",
+      "primary_city": "City_74620",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74625",
+      "zip_extension": "",
+      "primary_city": "City_74625",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74630",
+      "zip_extension": "",
+      "primary_city": "City_74630",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74635",
+      "zip_extension": "",
+      "primary_city": "City_74635",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74640",
+      "zip_extension": "",
+      "primary_city": "City_74640",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74645",
+      "zip_extension": "",
+      "primary_city": "City_74645",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74650",
+      "zip_extension": "",
+      "primary_city": "City_74650",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74655",
+      "zip_extension": "",
+      "primary_city": "City_74655",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74660",
+      "zip_extension": "",
+      "primary_city": "City_74660",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74665",
+      "zip_extension": "",
+      "primary_city": "City_74665",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74670",
+      "zip_extension": "",
+      "primary_city": "City_74670",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74675",
+      "zip_extension": "",
+      "primary_city": "City_74675",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74680",
+      "zip_extension": "",
+      "primary_city": "City_74680",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74685",
+      "zip_extension": "",
+      "primary_city": "City_74685",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74690",
+      "zip_extension": "",
+      "primary_city": "City_74690",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74695",
+      "zip_extension": "",
+      "primary_city": "City_74695",
+      "acceptable_cities": "",
+      "county": "County_746",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74700",
+      "zip_extension": "",
+      "primary_city": "City_74700",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74705",
+      "zip_extension": "",
+      "primary_city": "City_74705",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74710",
+      "zip_extension": "",
+      "primary_city": "City_74710",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74715",
+      "zip_extension": "",
+      "primary_city": "City_74715",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74720",
+      "zip_extension": "",
+      "primary_city": "City_74720",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74725",
+      "zip_extension": "",
+      "primary_city": "City_74725",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74730",
+      "zip_extension": "",
+      "primary_city": "City_74730",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74735",
+      "zip_extension": "",
+      "primary_city": "City_74735",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74740",
+      "zip_extension": "",
+      "primary_city": "City_74740",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74745",
+      "zip_extension": "",
+      "primary_city": "City_74745",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74750",
+      "zip_extension": "",
+      "primary_city": "City_74750",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74755",
+      "zip_extension": "",
+      "primary_city": "City_74755",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74760",
+      "zip_extension": "",
+      "primary_city": "City_74760",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74765",
+      "zip_extension": "",
+      "primary_city": "City_74765",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74770",
+      "zip_extension": "",
+      "primary_city": "City_74770",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74775",
+      "zip_extension": "",
+      "primary_city": "City_74775",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74780",
+      "zip_extension": "",
+      "primary_city": "City_74780",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74785",
+      "zip_extension": "",
+      "primary_city": "City_74785",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74790",
+      "zip_extension": "",
+      "primary_city": "City_74790",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74795",
+      "zip_extension": "",
+      "primary_city": "City_74795",
+      "acceptable_cities": "",
+      "county": "County_747",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74800",
+      "zip_extension": "",
+      "primary_city": "City_74800",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74805",
+      "zip_extension": "",
+      "primary_city": "City_74805",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74810",
+      "zip_extension": "",
+      "primary_city": "City_74810",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74815",
+      "zip_extension": "",
+      "primary_city": "City_74815",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74820",
+      "zip_extension": "",
+      "primary_city": "City_74820",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74825",
+      "zip_extension": "",
+      "primary_city": "City_74825",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74830",
+      "zip_extension": "",
+      "primary_city": "City_74830",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74835",
+      "zip_extension": "",
+      "primary_city": "City_74835",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74840",
+      "zip_extension": "",
+      "primary_city": "City_74840",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74845",
+      "zip_extension": "",
+      "primary_city": "City_74845",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74850",
+      "zip_extension": "",
+      "primary_city": "City_74850",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74855",
+      "zip_extension": "",
+      "primary_city": "City_74855",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74860",
+      "zip_extension": "",
+      "primary_city": "City_74860",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74865",
+      "zip_extension": "",
+      "primary_city": "City_74865",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74870",
+      "zip_extension": "",
+      "primary_city": "City_74870",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74875",
+      "zip_extension": "",
+      "primary_city": "City_74875",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74880",
+      "zip_extension": "",
+      "primary_city": "City_74880",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74885",
+      "zip_extension": "",
+      "primary_city": "City_74885",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74890",
+      "zip_extension": "",
+      "primary_city": "City_74890",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74895",
+      "zip_extension": "",
+      "primary_city": "City_74895",
+      "acceptable_cities": "",
+      "county": "County_748",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74900",
+      "zip_extension": "",
+      "primary_city": "City_74900",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74905",
+      "zip_extension": "",
+      "primary_city": "City_74905",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74910",
+      "zip_extension": "",
+      "primary_city": "City_74910",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74915",
+      "zip_extension": "",
+      "primary_city": "City_74915",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74920",
+      "zip_extension": "",
+      "primary_city": "City_74920",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74925",
+      "zip_extension": "",
+      "primary_city": "City_74925",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74930",
+      "zip_extension": "",
+      "primary_city": "City_74930",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74935",
+      "zip_extension": "",
+      "primary_city": "City_74935",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74940",
+      "zip_extension": "",
+      "primary_city": "City_74940",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74945",
+      "zip_extension": "",
+      "primary_city": "City_74945",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74950",
+      "zip_extension": "",
+      "primary_city": "City_74950",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74955",
+      "zip_extension": "",
+      "primary_city": "City_74955",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74960",
+      "zip_extension": "",
+      "primary_city": "City_74960",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74965",
+      "zip_extension": "",
+      "primary_city": "City_74965",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74970",
+      "zip_extension": "",
+      "primary_city": "City_74970",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74975",
+      "zip_extension": "",
+      "primary_city": "City_74975",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74980",
+      "zip_extension": "",
+      "primary_city": "City_74980",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74985",
+      "zip_extension": "",
+      "primary_city": "City_74985",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74990",
+      "zip_extension": "",
+      "primary_city": "City_74990",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "74995",
+      "zip_extension": "",
+      "primary_city": "City_74995",
+      "acceptable_cities": "",
+      "county": "County_749",
+      "state": "Oklahoma",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

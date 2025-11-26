@@ -1,0 +1,607 @@
+{
+  "state": "Delaware",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 60,
+  "zipcodes": [
+    {
+      "zip_code": "19700",
+      "zip_extension": "",
+      "primary_city": "City_19700",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19705",
+      "zip_extension": "",
+      "primary_city": "City_19705",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19710",
+      "zip_extension": "",
+      "primary_city": "City_19710",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19715",
+      "zip_extension": "",
+      "primary_city": "City_19715",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19720",
+      "zip_extension": "",
+      "primary_city": "City_19720",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19725",
+      "zip_extension": "",
+      "primary_city": "City_19725",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19730",
+      "zip_extension": "",
+      "primary_city": "City_19730",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19735",
+      "zip_extension": "",
+      "primary_city": "City_19735",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19740",
+      "zip_extension": "",
+      "primary_city": "City_19740",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19745",
+      "zip_extension": "",
+      "primary_city": "City_19745",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19750",
+      "zip_extension": "",
+      "primary_city": "City_19750",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19755",
+      "zip_extension": "",
+      "primary_city": "City_19755",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19760",
+      "zip_extension": "",
+      "primary_city": "City_19760",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19765",
+      "zip_extension": "",
+      "primary_city": "City_19765",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19770",
+      "zip_extension": "",
+      "primary_city": "City_19770",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19775",
+      "zip_extension": "",
+      "primary_city": "City_19775",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19780",
+      "zip_extension": "",
+      "primary_city": "City_19780",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19785",
+      "zip_extension": "",
+      "primary_city": "City_19785",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19790",
+      "zip_extension": "",
+      "primary_city": "City_19790",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19795",
+      "zip_extension": "",
+      "primary_city": "City_19795",
+      "acceptable_cities": "",
+      "county": "County_197",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19800",
+      "zip_extension": "",
+      "primary_city": "City_19800",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19805",
+      "zip_extension": "",
+      "primary_city": "City_19805",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19810",
+      "zip_extension": "",
+      "primary_city": "City_19810",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19815",
+      "zip_extension": "",
+      "primary_city": "City_19815",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19820",
+      "zip_extension": "",
+      "primary_city": "City_19820",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19825",
+      "zip_extension": "",
+      "primary_city": "City_19825",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19830",
+      "zip_extension": "",
+      "primary_city": "City_19830",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19835",
+      "zip_extension": "",
+      "primary_city": "City_19835",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19840",
+      "zip_extension": "",
+      "primary_city": "City_19840",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19845",
+      "zip_extension": "",
+      "primary_city": "City_19845",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19850",
+      "zip_extension": "",
+      "primary_city": "City_19850",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19855",
+      "zip_extension": "",
+      "primary_city": "City_19855",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19860",
+      "zip_extension": "",
+      "primary_city": "City_19860",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19865",
+      "zip_extension": "",
+      "primary_city": "City_19865",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19870",
+      "zip_extension": "",
+      "primary_city": "City_19870",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19875",
+      "zip_extension": "",
+      "primary_city": "City_19875",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19880",
+      "zip_extension": "",
+      "primary_city": "City_19880",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19885",
+      "zip_extension": "",
+      "primary_city": "City_19885",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19890",
+      "zip_extension": "",
+      "primary_city": "City_19890",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19895",
+      "zip_extension": "",
+      "primary_city": "City_19895",
+      "acceptable_cities": "",
+      "county": "County_198",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19900",
+      "zip_extension": "",
+      "primary_city": "City_19900",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19905",
+      "zip_extension": "",
+      "primary_city": "City_19905",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19910",
+      "zip_extension": "",
+      "primary_city": "City_19910",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19915",
+      "zip_extension": "",
+      "primary_city": "City_19915",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19920",
+      "zip_extension": "",
+      "primary_city": "City_19920",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19925",
+      "zip_extension": "",
+      "primary_city": "City_19925",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19930",
+      "zip_extension": "",
+      "primary_city": "City_19930",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19935",
+      "zip_extension": "",
+      "primary_city": "City_19935",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19940",
+      "zip_extension": "",
+      "primary_city": "City_19940",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19945",
+      "zip_extension": "",
+      "primary_city": "City_19945",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19950",
+      "zip_extension": "",
+      "primary_city": "City_19950",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19955",
+      "zip_extension": "",
+      "primary_city": "City_19955",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19960",
+      "zip_extension": "",
+      "primary_city": "City_19960",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19965",
+      "zip_extension": "",
+      "primary_city": "City_19965",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19970",
+      "zip_extension": "",
+      "primary_city": "City_19970",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19975",
+      "zip_extension": "",
+      "primary_city": "City_19975",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19980",
+      "zip_extension": "",
+      "primary_city": "City_19980",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19985",
+      "zip_extension": "",
+      "primary_city": "City_19985",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19990",
+      "zip_extension": "",
+      "primary_city": "City_19990",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "19995",
+      "zip_extension": "",
+      "primary_city": "City_19995",
+      "acceptable_cities": "",
+      "county": "County_199",
+      "state": "Delaware",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

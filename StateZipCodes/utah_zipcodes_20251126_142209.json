@@ -1,0 +1,1607 @@
+{
+  "state": "Utah",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 160,
+  "zipcodes": [
+    {
+      "zip_code": "84000",
+      "zip_extension": "",
+      "primary_city": "City_84000",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84005",
+      "zip_extension": "",
+      "primary_city": "City_84005",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84010",
+      "zip_extension": "",
+      "primary_city": "City_84010",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84015",
+      "zip_extension": "",
+      "primary_city": "City_84015",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84020",
+      "zip_extension": "",
+      "primary_city": "City_84020",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84025",
+      "zip_extension": "",
+      "primary_city": "City_84025",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84030",
+      "zip_extension": "",
+      "primary_city": "City_84030",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84035",
+      "zip_extension": "",
+      "primary_city": "City_84035",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84040",
+      "zip_extension": "",
+      "primary_city": "City_84040",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84045",
+      "zip_extension": "",
+      "primary_city": "City_84045",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84050",
+      "zip_extension": "",
+      "primary_city": "City_84050",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84055",
+      "zip_extension": "",
+      "primary_city": "City_84055",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84060",
+      "zip_extension": "",
+      "primary_city": "City_84060",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84065",
+      "zip_extension": "",
+      "primary_city": "City_84065",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84070",
+      "zip_extension": "",
+      "primary_city": "City_84070",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84075",
+      "zip_extension": "",
+      "primary_city": "City_84075",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84080",
+      "zip_extension": "",
+      "primary_city": "City_84080",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84085",
+      "zip_extension": "",
+      "primary_city": "City_84085",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84090",
+      "zip_extension": "",
+      "primary_city": "City_84090",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84095",
+      "zip_extension": "",
+      "primary_city": "City_84095",
+      "acceptable_cities": "",
+      "county": "County_840",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84100",
+      "zip_extension": "",
+      "primary_city": "City_84100",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84105",
+      "zip_extension": "",
+      "primary_city": "City_84105",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84110",
+      "zip_extension": "",
+      "primary_city": "City_84110",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84115",
+      "zip_extension": "",
+      "primary_city": "City_84115",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84120",
+      "zip_extension": "",
+      "primary_city": "City_84120",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84125",
+      "zip_extension": "",
+      "primary_city": "City_84125",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84130",
+      "zip_extension": "",
+      "primary_city": "City_84130",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84135",
+      "zip_extension": "",
+      "primary_city": "City_84135",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84140",
+      "zip_extension": "",
+      "primary_city": "City_84140",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84145",
+      "zip_extension": "",
+      "primary_city": "City_84145",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84150",
+      "zip_extension": "",
+      "primary_city": "City_84150",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84155",
+      "zip_extension": "",
+      "primary_city": "City_84155",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84160",
+      "zip_extension": "",
+      "primary_city": "City_84160",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84165",
+      "zip_extension": "",
+      "primary_city": "City_84165",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84170",
+      "zip_extension": "",
+      "primary_city": "City_84170",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84175",
+      "zip_extension": "",
+      "primary_city": "City_84175",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84180",
+      "zip_extension": "",
+      "primary_city": "City_84180",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84185",
+      "zip_extension": "",
+      "primary_city": "City_84185",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84190",
+      "zip_extension": "",
+      "primary_city": "City_84190",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84195",
+      "zip_extension": "",
+      "primary_city": "City_84195",
+      "acceptable_cities": "",
+      "county": "County_841",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84200",
+      "zip_extension": "",
+      "primary_city": "City_84200",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84205",
+      "zip_extension": "",
+      "primary_city": "City_84205",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84210",
+      "zip_extension": "",
+      "primary_city": "City_84210",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84215",
+      "zip_extension": "",
+      "primary_city": "City_84215",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84220",
+      "zip_extension": "",
+      "primary_city": "City_84220",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84225",
+      "zip_extension": "",
+      "primary_city": "City_84225",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84230",
+      "zip_extension": "",
+      "primary_city": "City_84230",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84235",
+      "zip_extension": "",
+      "primary_city": "City_84235",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84240",
+      "zip_extension": "",
+      "primary_city": "City_84240",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84245",
+      "zip_extension": "",
+      "primary_city": "City_84245",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84250",
+      "zip_extension": "",
+      "primary_city": "City_84250",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84255",
+      "zip_extension": "",
+      "primary_city": "City_84255",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84260",
+      "zip_extension": "",
+      "primary_city": "City_84260",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84265",
+      "zip_extension": "",
+      "primary_city": "City_84265",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84270",
+      "zip_extension": "",
+      "primary_city": "City_84270",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84275",
+      "zip_extension": "",
+      "primary_city": "City_84275",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84280",
+      "zip_extension": "",
+      "primary_city": "City_84280",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84285",
+      "zip_extension": "",
+      "primary_city": "City_84285",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84290",
+      "zip_extension": "",
+      "primary_city": "City_84290",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84295",
+      "zip_extension": "",
+      "primary_city": "City_84295",
+      "acceptable_cities": "",
+      "county": "County_842",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84300",
+      "zip_extension": "",
+      "primary_city": "City_84300",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84305",
+      "zip_extension": "",
+      "primary_city": "City_84305",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84310",
+      "zip_extension": "",
+      "primary_city": "City_84310",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84315",
+      "zip_extension": "",
+      "primary_city": "City_84315",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84320",
+      "zip_extension": "",
+      "primary_city": "City_84320",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84325",
+      "zip_extension": "",
+      "primary_city": "City_84325",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84330",
+      "zip_extension": "",
+      "primary_city": "City_84330",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84335",
+      "zip_extension": "",
+      "primary_city": "City_84335",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84340",
+      "zip_extension": "",
+      "primary_city": "City_84340",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84345",
+      "zip_extension": "",
+      "primary_city": "City_84345",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84350",
+      "zip_extension": "",
+      "primary_city": "City_84350",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84355",
+      "zip_extension": "",
+      "primary_city": "City_84355",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84360",
+      "zip_extension": "",
+      "primary_city": "City_84360",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84365",
+      "zip_extension": "",
+      "primary_city": "City_84365",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84370",
+      "zip_extension": "",
+      "primary_city": "City_84370",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84375",
+      "zip_extension": "",
+      "primary_city": "City_84375",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84380",
+      "zip_extension": "",
+      "primary_city": "City_84380",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84385",
+      "zip_extension": "",
+      "primary_city": "City_84385",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84390",
+      "zip_extension": "",
+      "primary_city": "City_84390",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84395",
+      "zip_extension": "",
+      "primary_city": "City_84395",
+      "acceptable_cities": "",
+      "county": "County_843",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84400",
+      "zip_extension": "",
+      "primary_city": "City_84400",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84405",
+      "zip_extension": "",
+      "primary_city": "City_84405",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84410",
+      "zip_extension": "",
+      "primary_city": "City_84410",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84415",
+      "zip_extension": "",
+      "primary_city": "City_84415",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84420",
+      "zip_extension": "",
+      "primary_city": "City_84420",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84425",
+      "zip_extension": "",
+      "primary_city": "City_84425",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84430",
+      "zip_extension": "",
+      "primary_city": "City_84430",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84435",
+      "zip_extension": "",
+      "primary_city": "City_84435",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84440",
+      "zip_extension": "",
+      "primary_city": "City_84440",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84445",
+      "zip_extension": "",
+      "primary_city": "City_84445",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84450",
+      "zip_extension": "",
+      "primary_city": "City_84450",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84455",
+      "zip_extension": "",
+      "primary_city": "City_84455",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84460",
+      "zip_extension": "",
+      "primary_city": "City_84460",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84465",
+      "zip_extension": "",
+      "primary_city": "City_84465",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84470",
+      "zip_extension": "",
+      "primary_city": "City_84470",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84475",
+      "zip_extension": "",
+      "primary_city": "City_84475",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84480",
+      "zip_extension": "",
+      "primary_city": "City_84480",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84485",
+      "zip_extension": "",
+      "primary_city": "City_84485",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84490",
+      "zip_extension": "",
+      "primary_city": "City_84490",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84495",
+      "zip_extension": "",
+      "primary_city": "City_84495",
+      "acceptable_cities": "",
+      "county": "County_844",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84500",
+      "zip_extension": "",
+      "primary_city": "City_84500",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84505",
+      "zip_extension": "",
+      "primary_city": "City_84505",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84510",
+      "zip_extension": "",
+      "primary_city": "City_84510",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84515",
+      "zip_extension": "",
+      "primary_city": "City_84515",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84520",
+      "zip_extension": "",
+      "primary_city": "City_84520",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84525",
+      "zip_extension": "",
+      "primary_city": "City_84525",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84530",
+      "zip_extension": "",
+      "primary_city": "City_84530",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84535",
+      "zip_extension": "",
+      "primary_city": "City_84535",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84540",
+      "zip_extension": "",
+      "primary_city": "City_84540",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84545",
+      "zip_extension": "",
+      "primary_city": "City_84545",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84550",
+      "zip_extension": "",
+      "primary_city": "City_84550",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84555",
+      "zip_extension": "",
+      "primary_city": "City_84555",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84560",
+      "zip_extension": "",
+      "primary_city": "City_84560",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84565",
+      "zip_extension": "",
+      "primary_city": "City_84565",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84570",
+      "zip_extension": "",
+      "primary_city": "City_84570",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84575",
+      "zip_extension": "",
+      "primary_city": "City_84575",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84580",
+      "zip_extension": "",
+      "primary_city": "City_84580",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84585",
+      "zip_extension": "",
+      "primary_city": "City_84585",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84590",
+      "zip_extension": "",
+      "primary_city": "City_84590",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84595",
+      "zip_extension": "",
+      "primary_city": "City_84595",
+      "acceptable_cities": "",
+      "county": "County_845",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84600",
+      "zip_extension": "",
+      "primary_city": "City_84600",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84605",
+      "zip_extension": "",
+      "primary_city": "City_84605",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84610",
+      "zip_extension": "",
+      "primary_city": "City_84610",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84615",
+      "zip_extension": "",
+      "primary_city": "City_84615",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84620",
+      "zip_extension": "",
+      "primary_city": "City_84620",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84625",
+      "zip_extension": "",
+      "primary_city": "City_84625",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84630",
+      "zip_extension": "",
+      "primary_city": "City_84630",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84635",
+      "zip_extension": "",
+      "primary_city": "City_84635",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84640",
+      "zip_extension": "",
+      "primary_city": "City_84640",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84645",
+      "zip_extension": "",
+      "primary_city": "City_84645",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84650",
+      "zip_extension": "",
+      "primary_city": "City_84650",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84655",
+      "zip_extension": "",
+      "primary_city": "City_84655",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84660",
+      "zip_extension": "",
+      "primary_city": "City_84660",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84665",
+      "zip_extension": "",
+      "primary_city": "City_84665",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84670",
+      "zip_extension": "",
+      "primary_city": "City_84670",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84675",
+      "zip_extension": "",
+      "primary_city": "City_84675",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84680",
+      "zip_extension": "",
+      "primary_city": "City_84680",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84685",
+      "zip_extension": "",
+      "primary_city": "City_84685",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84690",
+      "zip_extension": "",
+      "primary_city": "City_84690",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84695",
+      "zip_extension": "",
+      "primary_city": "City_84695",
+      "acceptable_cities": "",
+      "county": "County_846",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84700",
+      "zip_extension": "",
+      "primary_city": "City_84700",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84705",
+      "zip_extension": "",
+      "primary_city": "City_84705",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84710",
+      "zip_extension": "",
+      "primary_city": "City_84710",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84715",
+      "zip_extension": "",
+      "primary_city": "City_84715",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84720",
+      "zip_extension": "",
+      "primary_city": "City_84720",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84725",
+      "zip_extension": "",
+      "primary_city": "City_84725",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84730",
+      "zip_extension": "",
+      "primary_city": "City_84730",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84735",
+      "zip_extension": "",
+      "primary_city": "City_84735",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84740",
+      "zip_extension": "",
+      "primary_city": "City_84740",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84745",
+      "zip_extension": "",
+      "primary_city": "City_84745",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84750",
+      "zip_extension": "",
+      "primary_city": "City_84750",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84755",
+      "zip_extension": "",
+      "primary_city": "City_84755",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84760",
+      "zip_extension": "",
+      "primary_city": "City_84760",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84765",
+      "zip_extension": "",
+      "primary_city": "City_84765",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84770",
+      "zip_extension": "",
+      "primary_city": "City_84770",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84775",
+      "zip_extension": "",
+      "primary_city": "City_84775",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84780",
+      "zip_extension": "",
+      "primary_city": "City_84780",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84785",
+      "zip_extension": "",
+      "primary_city": "City_84785",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84790",
+      "zip_extension": "",
+      "primary_city": "City_84790",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "84795",
+      "zip_extension": "",
+      "primary_city": "City_84795",
+      "acceptable_cities": "",
+      "county": "County_847",
+      "state": "Utah",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

@@ -1,0 +1,2007 @@
+{
+  "state": "Nevada",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 200,
+  "zipcodes": [
+    {
+      "zip_code": "88900",
+      "zip_extension": "",
+      "primary_city": "City_88900",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88905",
+      "zip_extension": "",
+      "primary_city": "City_88905",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88910",
+      "zip_extension": "",
+      "primary_city": "City_88910",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88915",
+      "zip_extension": "",
+      "primary_city": "City_88915",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88920",
+      "zip_extension": "",
+      "primary_city": "City_88920",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88925",
+      "zip_extension": "",
+      "primary_city": "City_88925",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88930",
+      "zip_extension": "",
+      "primary_city": "City_88930",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88935",
+      "zip_extension": "",
+      "primary_city": "City_88935",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88940",
+      "zip_extension": "",
+      "primary_city": "City_88940",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88945",
+      "zip_extension": "",
+      "primary_city": "City_88945",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88950",
+      "zip_extension": "",
+      "primary_city": "City_88950",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88955",
+      "zip_extension": "",
+      "primary_city": "City_88955",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88960",
+      "zip_extension": "",
+      "primary_city": "City_88960",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88965",
+      "zip_extension": "",
+      "primary_city": "City_88965",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88970",
+      "zip_extension": "",
+      "primary_city": "City_88970",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88975",
+      "zip_extension": "",
+      "primary_city": "City_88975",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88980",
+      "zip_extension": "",
+      "primary_city": "City_88980",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88985",
+      "zip_extension": "",
+      "primary_city": "City_88985",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88990",
+      "zip_extension": "",
+      "primary_city": "City_88990",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88995",
+      "zip_extension": "",
+      "primary_city": "City_88995",
+      "acceptable_cities": "",
+      "county": "County_889",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89000",
+      "zip_extension": "",
+      "primary_city": "City_89000",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89005",
+      "zip_extension": "",
+      "primary_city": "City_89005",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89010",
+      "zip_extension": "",
+      "primary_city": "City_89010",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89015",
+      "zip_extension": "",
+      "primary_city": "City_89015",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89020",
+      "zip_extension": "",
+      "primary_city": "City_89020",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89025",
+      "zip_extension": "",
+      "primary_city": "City_89025",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89030",
+      "zip_extension": "",
+      "primary_city": "City_89030",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89035",
+      "zip_extension": "",
+      "primary_city": "City_89035",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89040",
+      "zip_extension": "",
+      "primary_city": "City_89040",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89045",
+      "zip_extension": "",
+      "primary_city": "City_89045",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89050",
+      "zip_extension": "",
+      "primary_city": "City_89050",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89055",
+      "zip_extension": "",
+      "primary_city": "City_89055",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89060",
+      "zip_extension": "",
+      "primary_city": "City_89060",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89065",
+      "zip_extension": "",
+      "primary_city": "City_89065",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89070",
+      "zip_extension": "",
+      "primary_city": "City_89070",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89075",
+      "zip_extension": "",
+      "primary_city": "City_89075",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89080",
+      "zip_extension": "",
+      "primary_city": "City_89080",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89085",
+      "zip_extension": "",
+      "primary_city": "City_89085",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89090",
+      "zip_extension": "",
+      "primary_city": "City_89090",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89095",
+      "zip_extension": "",
+      "primary_city": "City_89095",
+      "acceptable_cities": "",
+      "county": "County_890",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89100",
+      "zip_extension": "",
+      "primary_city": "City_89100",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89105",
+      "zip_extension": "",
+      "primary_city": "City_89105",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89110",
+      "zip_extension": "",
+      "primary_city": "City_89110",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89115",
+      "zip_extension": "",
+      "primary_city": "City_89115",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89120",
+      "zip_extension": "",
+      "primary_city": "City_89120",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89125",
+      "zip_extension": "",
+      "primary_city": "City_89125",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89130",
+      "zip_extension": "",
+      "primary_city": "City_89130",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89135",
+      "zip_extension": "",
+      "primary_city": "City_89135",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89140",
+      "zip_extension": "",
+      "primary_city": "City_89140",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89145",
+      "zip_extension": "",
+      "primary_city": "City_89145",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89150",
+      "zip_extension": "",
+      "primary_city": "City_89150",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89155",
+      "zip_extension": "",
+      "primary_city": "City_89155",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89160",
+      "zip_extension": "",
+      "primary_city": "City_89160",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89165",
+      "zip_extension": "",
+      "primary_city": "City_89165",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89170",
+      "zip_extension": "",
+      "primary_city": "City_89170",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89175",
+      "zip_extension": "",
+      "primary_city": "City_89175",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89180",
+      "zip_extension": "",
+      "primary_city": "City_89180",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89185",
+      "zip_extension": "",
+      "primary_city": "City_89185",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89190",
+      "zip_extension": "",
+      "primary_city": "City_89190",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89195",
+      "zip_extension": "",
+      "primary_city": "City_89195",
+      "acceptable_cities": "",
+      "county": "County_891",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89200",
+      "zip_extension": "",
+      "primary_city": "City_89200",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89205",
+      "zip_extension": "",
+      "primary_city": "City_89205",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89210",
+      "zip_extension": "",
+      "primary_city": "City_89210",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89215",
+      "zip_extension": "",
+      "primary_city": "City_89215",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89220",
+      "zip_extension": "",
+      "primary_city": "City_89220",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89225",
+      "zip_extension": "",
+      "primary_city": "City_89225",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89230",
+      "zip_extension": "",
+      "primary_city": "City_89230",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89235",
+      "zip_extension": "",
+      "primary_city": "City_89235",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89240",
+      "zip_extension": "",
+      "primary_city": "City_89240",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89245",
+      "zip_extension": "",
+      "primary_city": "City_89245",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89250",
+      "zip_extension": "",
+      "primary_city": "City_89250",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89255",
+      "zip_extension": "",
+      "primary_city": "City_89255",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89260",
+      "zip_extension": "",
+      "primary_city": "City_89260",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89265",
+      "zip_extension": "",
+      "primary_city": "City_89265",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89270",
+      "zip_extension": "",
+      "primary_city": "City_89270",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89275",
+      "zip_extension": "",
+      "primary_city": "City_89275",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89280",
+      "zip_extension": "",
+      "primary_city": "City_89280",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89285",
+      "zip_extension": "",
+      "primary_city": "City_89285",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89290",
+      "zip_extension": "",
+      "primary_city": "City_89290",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89295",
+      "zip_extension": "",
+      "primary_city": "City_89295",
+      "acceptable_cities": "",
+      "county": "County_892",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89300",
+      "zip_extension": "",
+      "primary_city": "City_89300",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89305",
+      "zip_extension": "",
+      "primary_city": "City_89305",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89310",
+      "zip_extension": "",
+      "primary_city": "City_89310",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89315",
+      "zip_extension": "",
+      "primary_city": "City_89315",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89320",
+      "zip_extension": "",
+      "primary_city": "City_89320",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89325",
+      "zip_extension": "",
+      "primary_city": "City_89325",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89330",
+      "zip_extension": "",
+      "primary_city": "City_89330",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89335",
+      "zip_extension": "",
+      "primary_city": "City_89335",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89340",
+      "zip_extension": "",
+      "primary_city": "City_89340",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89345",
+      "zip_extension": "",
+      "primary_city": "City_89345",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89350",
+      "zip_extension": "",
+      "primary_city": "City_89350",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89355",
+      "zip_extension": "",
+      "primary_city": "City_89355",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89360",
+      "zip_extension": "",
+      "primary_city": "City_89360",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89365",
+      "zip_extension": "",
+      "primary_city": "City_89365",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89370",
+      "zip_extension": "",
+      "primary_city": "City_89370",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89375",
+      "zip_extension": "",
+      "primary_city": "City_89375",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89380",
+      "zip_extension": "",
+      "primary_city": "City_89380",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89385",
+      "zip_extension": "",
+      "primary_city": "City_89385",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89390",
+      "zip_extension": "",
+      "primary_city": "City_89390",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89395",
+      "zip_extension": "",
+      "primary_city": "City_89395",
+      "acceptable_cities": "",
+      "county": "County_893",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89400",
+      "zip_extension": "",
+      "primary_city": "City_89400",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89405",
+      "zip_extension": "",
+      "primary_city": "City_89405",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89410",
+      "zip_extension": "",
+      "primary_city": "City_89410",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89415",
+      "zip_extension": "",
+      "primary_city": "City_89415",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89420",
+      "zip_extension": "",
+      "primary_city": "City_89420",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89425",
+      "zip_extension": "",
+      "primary_city": "City_89425",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89430",
+      "zip_extension": "",
+      "primary_city": "City_89430",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89435",
+      "zip_extension": "",
+      "primary_city": "City_89435",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89440",
+      "zip_extension": "",
+      "primary_city": "City_89440",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89445",
+      "zip_extension": "",
+      "primary_city": "City_89445",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89450",
+      "zip_extension": "",
+      "primary_city": "City_89450",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89455",
+      "zip_extension": "",
+      "primary_city": "City_89455",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89460",
+      "zip_extension": "",
+      "primary_city": "City_89460",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89465",
+      "zip_extension": "",
+      "primary_city": "City_89465",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89470",
+      "zip_extension": "",
+      "primary_city": "City_89470",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89475",
+      "zip_extension": "",
+      "primary_city": "City_89475",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89480",
+      "zip_extension": "",
+      "primary_city": "City_89480",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89485",
+      "zip_extension": "",
+      "primary_city": "City_89485",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89490",
+      "zip_extension": "",
+      "primary_city": "City_89490",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89495",
+      "zip_extension": "",
+      "primary_city": "City_89495",
+      "acceptable_cities": "",
+      "county": "County_894",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89500",
+      "zip_extension": "",
+      "primary_city": "City_89500",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89505",
+      "zip_extension": "",
+      "primary_city": "City_89505",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89510",
+      "zip_extension": "",
+      "primary_city": "City_89510",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89515",
+      "zip_extension": "",
+      "primary_city": "City_89515",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89520",
+      "zip_extension": "",
+      "primary_city": "City_89520",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89525",
+      "zip_extension": "",
+      "primary_city": "City_89525",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89530",
+      "zip_extension": "",
+      "primary_city": "City_89530",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89535",
+      "zip_extension": "",
+      "primary_city": "City_89535",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89540",
+      "zip_extension": "",
+      "primary_city": "City_89540",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89545",
+      "zip_extension": "",
+      "primary_city": "City_89545",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89550",
+      "zip_extension": "",
+      "primary_city": "City_89550",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89555",
+      "zip_extension": "",
+      "primary_city": "City_89555",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89560",
+      "zip_extension": "",
+      "primary_city": "City_89560",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89565",
+      "zip_extension": "",
+      "primary_city": "City_89565",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89570",
+      "zip_extension": "",
+      "primary_city": "City_89570",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89575",
+      "zip_extension": "",
+      "primary_city": "City_89575",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89580",
+      "zip_extension": "",
+      "primary_city": "City_89580",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89585",
+      "zip_extension": "",
+      "primary_city": "City_89585",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89590",
+      "zip_extension": "",
+      "primary_city": "City_89590",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89595",
+      "zip_extension": "",
+      "primary_city": "City_89595",
+      "acceptable_cities": "",
+      "county": "County_895",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89600",
+      "zip_extension": "",
+      "primary_city": "City_89600",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89605",
+      "zip_extension": "",
+      "primary_city": "City_89605",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89610",
+      "zip_extension": "",
+      "primary_city": "City_89610",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89615",
+      "zip_extension": "",
+      "primary_city": "City_89615",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89620",
+      "zip_extension": "",
+      "primary_city": "City_89620",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89625",
+      "zip_extension": "",
+      "primary_city": "City_89625",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89630",
+      "zip_extension": "",
+      "primary_city": "City_89630",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89635",
+      "zip_extension": "",
+      "primary_city": "City_89635",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89640",
+      "zip_extension": "",
+      "primary_city": "City_89640",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89645",
+      "zip_extension": "",
+      "primary_city": "City_89645",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89650",
+      "zip_extension": "",
+      "primary_city": "City_89650",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89655",
+      "zip_extension": "",
+      "primary_city": "City_89655",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89660",
+      "zip_extension": "",
+      "primary_city": "City_89660",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89665",
+      "zip_extension": "",
+      "primary_city": "City_89665",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89670",
+      "zip_extension": "",
+      "primary_city": "City_89670",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89675",
+      "zip_extension": "",
+      "primary_city": "City_89675",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89680",
+      "zip_extension": "",
+      "primary_city": "City_89680",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89685",
+      "zip_extension": "",
+      "primary_city": "City_89685",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89690",
+      "zip_extension": "",
+      "primary_city": "City_89690",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89695",
+      "zip_extension": "",
+      "primary_city": "City_89695",
+      "acceptable_cities": "",
+      "county": "County_896",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89700",
+      "zip_extension": "",
+      "primary_city": "City_89700",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89705",
+      "zip_extension": "",
+      "primary_city": "City_89705",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89710",
+      "zip_extension": "",
+      "primary_city": "City_89710",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89715",
+      "zip_extension": "",
+      "primary_city": "City_89715",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89720",
+      "zip_extension": "",
+      "primary_city": "City_89720",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89725",
+      "zip_extension": "",
+      "primary_city": "City_89725",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89730",
+      "zip_extension": "",
+      "primary_city": "City_89730",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89735",
+      "zip_extension": "",
+      "primary_city": "City_89735",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89740",
+      "zip_extension": "",
+      "primary_city": "City_89740",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89745",
+      "zip_extension": "",
+      "primary_city": "City_89745",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89750",
+      "zip_extension": "",
+      "primary_city": "City_89750",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89755",
+      "zip_extension": "",
+      "primary_city": "City_89755",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89760",
+      "zip_extension": "",
+      "primary_city": "City_89760",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89765",
+      "zip_extension": "",
+      "primary_city": "City_89765",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89770",
+      "zip_extension": "",
+      "primary_city": "City_89770",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89775",
+      "zip_extension": "",
+      "primary_city": "City_89775",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89780",
+      "zip_extension": "",
+      "primary_city": "City_89780",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89785",
+      "zip_extension": "",
+      "primary_city": "City_89785",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89790",
+      "zip_extension": "",
+      "primary_city": "City_89790",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89795",
+      "zip_extension": "",
+      "primary_city": "City_89795",
+      "acceptable_cities": "",
+      "county": "County_897",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89800",
+      "zip_extension": "",
+      "primary_city": "City_89800",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89805",
+      "zip_extension": "",
+      "primary_city": "City_89805",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89810",
+      "zip_extension": "",
+      "primary_city": "City_89810",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89815",
+      "zip_extension": "",
+      "primary_city": "City_89815",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89820",
+      "zip_extension": "",
+      "primary_city": "City_89820",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89825",
+      "zip_extension": "",
+      "primary_city": "City_89825",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89830",
+      "zip_extension": "",
+      "primary_city": "City_89830",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89835",
+      "zip_extension": "",
+      "primary_city": "City_89835",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89840",
+      "zip_extension": "",
+      "primary_city": "City_89840",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89845",
+      "zip_extension": "",
+      "primary_city": "City_89845",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89850",
+      "zip_extension": "",
+      "primary_city": "City_89850",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89855",
+      "zip_extension": "",
+      "primary_city": "City_89855",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89860",
+      "zip_extension": "",
+      "primary_city": "City_89860",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89865",
+      "zip_extension": "",
+      "primary_city": "City_89865",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89870",
+      "zip_extension": "",
+      "primary_city": "City_89870",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89875",
+      "zip_extension": "",
+      "primary_city": "City_89875",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89880",
+      "zip_extension": "",
+      "primary_city": "City_89880",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89885",
+      "zip_extension": "",
+      "primary_city": "City_89885",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89890",
+      "zip_extension": "",
+      "primary_city": "City_89890",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "89895",
+      "zip_extension": "",
+      "primary_city": "City_89895",
+      "acceptable_cities": "",
+      "county": "County_898",
+      "state": "Nevada",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

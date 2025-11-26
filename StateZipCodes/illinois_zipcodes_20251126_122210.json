@@ -1,0 +1,6007 @@
+{
+  "state": "Illinois",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 600,
+  "zipcodes": [
+    {
+      "zip_code": "60000",
+      "zip_extension": "",
+      "primary_city": "City_60000",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60005",
+      "zip_extension": "",
+      "primary_city": "City_60005",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60010",
+      "zip_extension": "",
+      "primary_city": "City_60010",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60015",
+      "zip_extension": "",
+      "primary_city": "City_60015",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60020",
+      "zip_extension": "",
+      "primary_city": "City_60020",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60025",
+      "zip_extension": "",
+      "primary_city": "City_60025",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60030",
+      "zip_extension": "",
+      "primary_city": "City_60030",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60035",
+      "zip_extension": "",
+      "primary_city": "City_60035",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60040",
+      "zip_extension": "",
+      "primary_city": "City_60040",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60045",
+      "zip_extension": "",
+      "primary_city": "City_60045",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60050",
+      "zip_extension": "",
+      "primary_city": "City_60050",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60055",
+      "zip_extension": "",
+      "primary_city": "City_60055",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60060",
+      "zip_extension": "",
+      "primary_city": "City_60060",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60065",
+      "zip_extension": "",
+      "primary_city": "City_60065",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60070",
+      "zip_extension": "",
+      "primary_city": "City_60070",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60075",
+      "zip_extension": "",
+      "primary_city": "City_60075",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60080",
+      "zip_extension": "",
+      "primary_city": "City_60080",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60085",
+      "zip_extension": "",
+      "primary_city": "City_60085",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60090",
+      "zip_extension": "",
+      "primary_city": "City_60090",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60095",
+      "zip_extension": "",
+      "primary_city": "City_60095",
+      "acceptable_cities": "",
+      "county": "County_600",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60100",
+      "zip_extension": "",
+      "primary_city": "City_60100",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60105",
+      "zip_extension": "",
+      "primary_city": "City_60105",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60110",
+      "zip_extension": "",
+      "primary_city": "City_60110",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60115",
+      "zip_extension": "",
+      "primary_city": "City_60115",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60120",
+      "zip_extension": "",
+      "primary_city": "City_60120",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60125",
+      "zip_extension": "",
+      "primary_city": "City_60125",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60130",
+      "zip_extension": "",
+      "primary_city": "City_60130",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60135",
+      "zip_extension": "",
+      "primary_city": "City_60135",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60140",
+      "zip_extension": "",
+      "primary_city": "City_60140",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60145",
+      "zip_extension": "",
+      "primary_city": "City_60145",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60150",
+      "zip_extension": "",
+      "primary_city": "City_60150",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60155",
+      "zip_extension": "",
+      "primary_city": "City_60155",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60160",
+      "zip_extension": "",
+      "primary_city": "City_60160",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60165",
+      "zip_extension": "",
+      "primary_city": "City_60165",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60170",
+      "zip_extension": "",
+      "primary_city": "City_60170",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60175",
+      "zip_extension": "",
+      "primary_city": "City_60175",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60180",
+      "zip_extension": "",
+      "primary_city": "City_60180",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60185",
+      "zip_extension": "",
+      "primary_city": "City_60185",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60190",
+      "zip_extension": "",
+      "primary_city": "City_60190",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60195",
+      "zip_extension": "",
+      "primary_city": "City_60195",
+      "acceptable_cities": "",
+      "county": "County_601",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60200",
+      "zip_extension": "",
+      "primary_city": "City_60200",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60205",
+      "zip_extension": "",
+      "primary_city": "City_60205",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60210",
+      "zip_extension": "",
+      "primary_city": "City_60210",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60215",
+      "zip_extension": "",
+      "primary_city": "City_60215",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60220",
+      "zip_extension": "",
+      "primary_city": "City_60220",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60225",
+      "zip_extension": "",
+      "primary_city": "City_60225",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60230",
+      "zip_extension": "",
+      "primary_city": "City_60230",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60235",
+      "zip_extension": "",
+      "primary_city": "City_60235",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60240",
+      "zip_extension": "",
+      "primary_city": "City_60240",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60245",
+      "zip_extension": "",
+      "primary_city": "City_60245",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60250",
+      "zip_extension": "",
+      "primary_city": "City_60250",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60255",
+      "zip_extension": "",
+      "primary_city": "City_60255",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60260",
+      "zip_extension": "",
+      "primary_city": "City_60260",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60265",
+      "zip_extension": "",
+      "primary_city": "City_60265",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60270",
+      "zip_extension": "",
+      "primary_city": "City_60270",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60275",
+      "zip_extension": "",
+      "primary_city": "City_60275",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60280",
+      "zip_extension": "",
+      "primary_city": "City_60280",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60285",
+      "zip_extension": "",
+      "primary_city": "City_60285",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60290",
+      "zip_extension": "",
+      "primary_city": "City_60290",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60295",
+      "zip_extension": "",
+      "primary_city": "City_60295",
+      "acceptable_cities": "",
+      "county": "County_602",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60300",
+      "zip_extension": "",
+      "primary_city": "City_60300",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60305",
+      "zip_extension": "",
+      "primary_city": "City_60305",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60310",
+      "zip_extension": "",
+      "primary_city": "City_60310",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60315",
+      "zip_extension": "",
+      "primary_city": "City_60315",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60320",
+      "zip_extension": "",
+      "primary_city": "City_60320",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60325",
+      "zip_extension": "",
+      "primary_city": "City_60325",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60330",
+      "zip_extension": "",
+      "primary_city": "City_60330",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60335",
+      "zip_extension": "",
+      "primary_city": "City_60335",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60340",
+      "zip_extension": "",
+      "primary_city": "City_60340",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60345",
+      "zip_extension": "",
+      "primary_city": "City_60345",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60350",
+      "zip_extension": "",
+      "primary_city": "City_60350",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60355",
+      "zip_extension": "",
+      "primary_city": "City_60355",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60360",
+      "zip_extension": "",
+      "primary_city": "City_60360",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60365",
+      "zip_extension": "",
+      "primary_city": "City_60365",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60370",
+      "zip_extension": "",
+      "primary_city": "City_60370",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60375",
+      "zip_extension": "",
+      "primary_city": "City_60375",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60380",
+      "zip_extension": "",
+      "primary_city": "City_60380",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60385",
+      "zip_extension": "",
+      "primary_city": "City_60385",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60390",
+      "zip_extension": "",
+      "primary_city": "City_60390",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60395",
+      "zip_extension": "",
+      "primary_city": "City_60395",
+      "acceptable_cities": "",
+      "county": "County_603",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60400",
+      "zip_extension": "",
+      "primary_city": "City_60400",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60405",
+      "zip_extension": "",
+      "primary_city": "City_60405",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60410",
+      "zip_extension": "",
+      "primary_city": "City_60410",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60415",
+      "zip_extension": "",
+      "primary_city": "City_60415",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60420",
+      "zip_extension": "",
+      "primary_city": "City_60420",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60425",
+      "zip_extension": "",
+      "primary_city": "City_60425",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60430",
+      "zip_extension": "",
+      "primary_city": "City_60430",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60435",
+      "zip_extension": "",
+      "primary_city": "City_60435",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60440",
+      "zip_extension": "",
+      "primary_city": "City_60440",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60445",
+      "zip_extension": "",
+      "primary_city": "City_60445",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60450",
+      "zip_extension": "",
+      "primary_city": "City_60450",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60455",
+      "zip_extension": "",
+      "primary_city": "City_60455",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60460",
+      "zip_extension": "",
+      "primary_city": "City_60460",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60465",
+      "zip_extension": "",
+      "primary_city": "City_60465",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60470",
+      "zip_extension": "",
+      "primary_city": "City_60470",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60475",
+      "zip_extension": "",
+      "primary_city": "City_60475",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60480",
+      "zip_extension": "",
+      "primary_city": "City_60480",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60485",
+      "zip_extension": "",
+      "primary_city": "City_60485",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60490",
+      "zip_extension": "",
+      "primary_city": "City_60490",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60495",
+      "zip_extension": "",
+      "primary_city": "City_60495",
+      "acceptable_cities": "",
+      "county": "County_604",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60500",
+      "zip_extension": "",
+      "primary_city": "City_60500",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60505",
+      "zip_extension": "",
+      "primary_city": "City_60505",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60510",
+      "zip_extension": "",
+      "primary_city": "City_60510",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60515",
+      "zip_extension": "",
+      "primary_city": "City_60515",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60520",
+      "zip_extension": "",
+      "primary_city": "City_60520",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60525",
+      "zip_extension": "",
+      "primary_city": "City_60525",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60530",
+      "zip_extension": "",
+      "primary_city": "City_60530",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60535",
+      "zip_extension": "",
+      "primary_city": "City_60535",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60540",
+      "zip_extension": "",
+      "primary_city": "City_60540",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60545",
+      "zip_extension": "",
+      "primary_city": "City_60545",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60550",
+      "zip_extension": "",
+      "primary_city": "City_60550",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60555",
+      "zip_extension": "",
+      "primary_city": "City_60555",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60560",
+      "zip_extension": "",
+      "primary_city": "City_60560",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60565",
+      "zip_extension": "",
+      "primary_city": "City_60565",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60570",
+      "zip_extension": "",
+      "primary_city": "City_60570",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60575",
+      "zip_extension": "",
+      "primary_city": "City_60575",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60580",
+      "zip_extension": "",
+      "primary_city": "City_60580",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60585",
+      "zip_extension": "",
+      "primary_city": "City_60585",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60590",
+      "zip_extension": "",
+      "primary_city": "City_60590",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60595",
+      "zip_extension": "",
+      "primary_city": "City_60595",
+      "acceptable_cities": "",
+      "county": "County_605",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60600",
+      "zip_extension": "",
+      "primary_city": "City_60600",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60605",
+      "zip_extension": "",
+      "primary_city": "City_60605",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60610",
+      "zip_extension": "",
+      "primary_city": "City_60610",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60615",
+      "zip_extension": "",
+      "primary_city": "City_60615",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60620",
+      "zip_extension": "",
+      "primary_city": "City_60620",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60625",
+      "zip_extension": "",
+      "primary_city": "City_60625",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60630",
+      "zip_extension": "",
+      "primary_city": "City_60630",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60635",
+      "zip_extension": "",
+      "primary_city": "City_60635",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60640",
+      "zip_extension": "",
+      "primary_city": "City_60640",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60645",
+      "zip_extension": "",
+      "primary_city": "City_60645",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60650",
+      "zip_extension": "",
+      "primary_city": "City_60650",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60655",
+      "zip_extension": "",
+      "primary_city": "City_60655",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60660",
+      "zip_extension": "",
+      "primary_city": "City_60660",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60665",
+      "zip_extension": "",
+      "primary_city": "City_60665",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60670",
+      "zip_extension": "",
+      "primary_city": "City_60670",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60675",
+      "zip_extension": "",
+      "primary_city": "City_60675",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60680",
+      "zip_extension": "",
+      "primary_city": "City_60680",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60685",
+      "zip_extension": "",
+      "primary_city": "City_60685",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60690",
+      "zip_extension": "",
+      "primary_city": "City_60690",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60695",
+      "zip_extension": "",
+      "primary_city": "City_60695",
+      "acceptable_cities": "",
+      "county": "County_606",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60700",
+      "zip_extension": "",
+      "primary_city": "City_60700",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60705",
+      "zip_extension": "",
+      "primary_city": "City_60705",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60710",
+      "zip_extension": "",
+      "primary_city": "City_60710",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60715",
+      "zip_extension": "",
+      "primary_city": "City_60715",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60720",
+      "zip_extension": "",
+      "primary_city": "City_60720",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60725",
+      "zip_extension": "",
+      "primary_city": "City_60725",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60730",
+      "zip_extension": "",
+      "primary_city": "City_60730",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60735",
+      "zip_extension": "",
+      "primary_city": "City_60735",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60740",
+      "zip_extension": "",
+      "primary_city": "City_60740",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60745",
+      "zip_extension": "",
+      "primary_city": "City_60745",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60750",
+      "zip_extension": "",
+      "primary_city": "City_60750",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60755",
+      "zip_extension": "",
+      "primary_city": "City_60755",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60760",
+      "zip_extension": "",
+      "primary_city": "City_60760",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60765",
+      "zip_extension": "",
+      "primary_city": "City_60765",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60770",
+      "zip_extension": "",
+      "primary_city": "City_60770",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60775",
+      "zip_extension": "",
+      "primary_city": "City_60775",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60780",
+      "zip_extension": "",
+      "primary_city": "City_60780",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60785",
+      "zip_extension": "",
+      "primary_city": "City_60785",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60790",
+      "zip_extension": "",
+      "primary_city": "City_60790",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60795",
+      "zip_extension": "",
+      "primary_city": "City_60795",
+      "acceptable_cities": "",
+      "county": "County_607",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60800",
+      "zip_extension": "",
+      "primary_city": "City_60800",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60805",
+      "zip_extension": "",
+      "primary_city": "City_60805",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60810",
+      "zip_extension": "",
+      "primary_city": "City_60810",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60815",
+      "zip_extension": "",
+      "primary_city": "City_60815",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60820",
+      "zip_extension": "",
+      "primary_city": "City_60820",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60825",
+      "zip_extension": "",
+      "primary_city": "City_60825",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60830",
+      "zip_extension": "",
+      "primary_city": "City_60830",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60835",
+      "zip_extension": "",
+      "primary_city": "City_60835",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60840",
+      "zip_extension": "",
+      "primary_city": "City_60840",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60845",
+      "zip_extension": "",
+      "primary_city": "City_60845",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60850",
+      "zip_extension": "",
+      "primary_city": "City_60850",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60855",
+      "zip_extension": "",
+      "primary_city": "City_60855",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60860",
+      "zip_extension": "",
+      "primary_city": "City_60860",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60865",
+      "zip_extension": "",
+      "primary_city": "City_60865",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60870",
+      "zip_extension": "",
+      "primary_city": "City_60870",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60875",
+      "zip_extension": "",
+      "primary_city": "City_60875",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60880",
+      "zip_extension": "",
+      "primary_city": "City_60880",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60885",
+      "zip_extension": "",
+      "primary_city": "City_60885",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60890",
+      "zip_extension": "",
+      "primary_city": "City_60890",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60895",
+      "zip_extension": "",
+      "primary_city": "City_60895",
+      "acceptable_cities": "",
+      "county": "County_608",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60900",
+      "zip_extension": "",
+      "primary_city": "City_60900",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60905",
+      "zip_extension": "",
+      "primary_city": "City_60905",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60910",
+      "zip_extension": "",
+      "primary_city": "City_60910",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60915",
+      "zip_extension": "",
+      "primary_city": "City_60915",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60920",
+      "zip_extension": "",
+      "primary_city": "City_60920",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60925",
+      "zip_extension": "",
+      "primary_city": "City_60925",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60930",
+      "zip_extension": "",
+      "primary_city": "City_60930",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60935",
+      "zip_extension": "",
+      "primary_city": "City_60935",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60940",
+      "zip_extension": "",
+      "primary_city": "City_60940",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60945",
+      "zip_extension": "",
+      "primary_city": "City_60945",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60950",
+      "zip_extension": "",
+      "primary_city": "City_60950",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60955",
+      "zip_extension": "",
+      "primary_city": "City_60955",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60960",
+      "zip_extension": "",
+      "primary_city": "City_60960",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60965",
+      "zip_extension": "",
+      "primary_city": "City_60965",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60970",
+      "zip_extension": "",
+      "primary_city": "City_60970",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60975",
+      "zip_extension": "",
+      "primary_city": "City_60975",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60980",
+      "zip_extension": "",
+      "primary_city": "City_60980",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60985",
+      "zip_extension": "",
+      "primary_city": "City_60985",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60990",
+      "zip_extension": "",
+      "primary_city": "City_60990",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "60995",
+      "zip_extension": "",
+      "primary_city": "City_60995",
+      "acceptable_cities": "",
+      "county": "County_609",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61000",
+      "zip_extension": "",
+      "primary_city": "City_61000",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61005",
+      "zip_extension": "",
+      "primary_city": "City_61005",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61010",
+      "zip_extension": "",
+      "primary_city": "City_61010",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61015",
+      "zip_extension": "",
+      "primary_city": "City_61015",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61020",
+      "zip_extension": "",
+      "primary_city": "City_61020",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61025",
+      "zip_extension": "",
+      "primary_city": "City_61025",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61030",
+      "zip_extension": "",
+      "primary_city": "City_61030",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61035",
+      "zip_extension": "",
+      "primary_city": "City_61035",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61040",
+      "zip_extension": "",
+      "primary_city": "City_61040",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61045",
+      "zip_extension": "",
+      "primary_city": "City_61045",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61050",
+      "zip_extension": "",
+      "primary_city": "City_61050",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61055",
+      "zip_extension": "",
+      "primary_city": "City_61055",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61060",
+      "zip_extension": "",
+      "primary_city": "City_61060",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61065",
+      "zip_extension": "",
+      "primary_city": "City_61065",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61070",
+      "zip_extension": "",
+      "primary_city": "City_61070",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61075",
+      "zip_extension": "",
+      "primary_city": "City_61075",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61080",
+      "zip_extension": "",
+      "primary_city": "City_61080",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61085",
+      "zip_extension": "",
+      "primary_city": "City_61085",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61090",
+      "zip_extension": "",
+      "primary_city": "City_61090",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61095",
+      "zip_extension": "",
+      "primary_city": "City_61095",
+      "acceptable_cities": "",
+      "county": "County_610",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61100",
+      "zip_extension": "",
+      "primary_city": "City_61100",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61105",
+      "zip_extension": "",
+      "primary_city": "City_61105",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61110",
+      "zip_extension": "",
+      "primary_city": "City_61110",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61115",
+      "zip_extension": "",
+      "primary_city": "City_61115",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61120",
+      "zip_extension": "",
+      "primary_city": "City_61120",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61125",
+      "zip_extension": "",
+      "primary_city": "City_61125",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61130",
+      "zip_extension": "",
+      "primary_city": "City_61130",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61135",
+      "zip_extension": "",
+      "primary_city": "City_61135",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61140",
+      "zip_extension": "",
+      "primary_city": "City_61140",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61145",
+      "zip_extension": "",
+      "primary_city": "City_61145",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61150",
+      "zip_extension": "",
+      "primary_city": "City_61150",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61155",
+      "zip_extension": "",
+      "primary_city": "City_61155",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61160",
+      "zip_extension": "",
+      "primary_city": "City_61160",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61165",
+      "zip_extension": "",
+      "primary_city": "City_61165",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61170",
+      "zip_extension": "",
+      "primary_city": "City_61170",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61175",
+      "zip_extension": "",
+      "primary_city": "City_61175",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61180",
+      "zip_extension": "",
+      "primary_city": "City_61180",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61185",
+      "zip_extension": "",
+      "primary_city": "City_61185",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61190",
+      "zip_extension": "",
+      "primary_city": "City_61190",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61195",
+      "zip_extension": "",
+      "primary_city": "City_61195",
+      "acceptable_cities": "",
+      "county": "County_611",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61200",
+      "zip_extension": "",
+      "primary_city": "City_61200",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61205",
+      "zip_extension": "",
+      "primary_city": "City_61205",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61210",
+      "zip_extension": "",
+      "primary_city": "City_61210",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61215",
+      "zip_extension": "",
+      "primary_city": "City_61215",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61220",
+      "zip_extension": "",
+      "primary_city": "City_61220",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61225",
+      "zip_extension": "",
+      "primary_city": "City_61225",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61230",
+      "zip_extension": "",
+      "primary_city": "City_61230",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61235",
+      "zip_extension": "",
+      "primary_city": "City_61235",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61240",
+      "zip_extension": "",
+      "primary_city": "City_61240",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61245",
+      "zip_extension": "",
+      "primary_city": "City_61245",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61250",
+      "zip_extension": "",
+      "primary_city": "City_61250",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61255",
+      "zip_extension": "",
+      "primary_city": "City_61255",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61260",
+      "zip_extension": "",
+      "primary_city": "City_61260",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61265",
+      "zip_extension": "",
+      "primary_city": "City_61265",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61270",
+      "zip_extension": "",
+      "primary_city": "City_61270",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61275",
+      "zip_extension": "",
+      "primary_city": "City_61275",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61280",
+      "zip_extension": "",
+      "primary_city": "City_61280",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61285",
+      "zip_extension": "",
+      "primary_city": "City_61285",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61290",
+      "zip_extension": "",
+      "primary_city": "City_61290",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61295",
+      "zip_extension": "",
+      "primary_city": "City_61295",
+      "acceptable_cities": "",
+      "county": "County_612",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61300",
+      "zip_extension": "",
+      "primary_city": "City_61300",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61305",
+      "zip_extension": "",
+      "primary_city": "City_61305",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61310",
+      "zip_extension": "",
+      "primary_city": "City_61310",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61315",
+      "zip_extension": "",
+      "primary_city": "City_61315",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61320",
+      "zip_extension": "",
+      "primary_city": "City_61320",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61325",
+      "zip_extension": "",
+      "primary_city": "City_61325",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61330",
+      "zip_extension": "",
+      "primary_city": "City_61330",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61335",
+      "zip_extension": "",
+      "primary_city": "City_61335",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61340",
+      "zip_extension": "",
+      "primary_city": "City_61340",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61345",
+      "zip_extension": "",
+      "primary_city": "City_61345",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61350",
+      "zip_extension": "",
+      "primary_city": "City_61350",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61355",
+      "zip_extension": "",
+      "primary_city": "City_61355",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61360",
+      "zip_extension": "",
+      "primary_city": "City_61360",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61365",
+      "zip_extension": "",
+      "primary_city": "City_61365",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61370",
+      "zip_extension": "",
+      "primary_city": "City_61370",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61375",
+      "zip_extension": "",
+      "primary_city": "City_61375",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61380",
+      "zip_extension": "",
+      "primary_city": "City_61380",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61385",
+      "zip_extension": "",
+      "primary_city": "City_61385",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61390",
+      "zip_extension": "",
+      "primary_city": "City_61390",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61395",
+      "zip_extension": "",
+      "primary_city": "City_61395",
+      "acceptable_cities": "",
+      "county": "County_613",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61400",
+      "zip_extension": "",
+      "primary_city": "City_61400",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61405",
+      "zip_extension": "",
+      "primary_city": "City_61405",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61410",
+      "zip_extension": "",
+      "primary_city": "City_61410",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61415",
+      "zip_extension": "",
+      "primary_city": "City_61415",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61420",
+      "zip_extension": "",
+      "primary_city": "City_61420",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61425",
+      "zip_extension": "",
+      "primary_city": "City_61425",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61430",
+      "zip_extension": "",
+      "primary_city": "City_61430",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61435",
+      "zip_extension": "",
+      "primary_city": "City_61435",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61440",
+      "zip_extension": "",
+      "primary_city": "City_61440",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61445",
+      "zip_extension": "",
+      "primary_city": "City_61445",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61450",
+      "zip_extension": "",
+      "primary_city": "City_61450",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61455",
+      "zip_extension": "",
+      "primary_city": "City_61455",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61460",
+      "zip_extension": "",
+      "primary_city": "City_61460",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61465",
+      "zip_extension": "",
+      "primary_city": "City_61465",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61470",
+      "zip_extension": "",
+      "primary_city": "City_61470",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61475",
+      "zip_extension": "",
+      "primary_city": "City_61475",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61480",
+      "zip_extension": "",
+      "primary_city": "City_61480",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61485",
+      "zip_extension": "",
+      "primary_city": "City_61485",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61490",
+      "zip_extension": "",
+      "primary_city": "City_61490",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61495",
+      "zip_extension": "",
+      "primary_city": "City_61495",
+      "acceptable_cities": "",
+      "county": "County_614",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61500",
+      "zip_extension": "",
+      "primary_city": "City_61500",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61505",
+      "zip_extension": "",
+      "primary_city": "City_61505",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61510",
+      "zip_extension": "",
+      "primary_city": "City_61510",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61515",
+      "zip_extension": "",
+      "primary_city": "City_61515",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61520",
+      "zip_extension": "",
+      "primary_city": "City_61520",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61525",
+      "zip_extension": "",
+      "primary_city": "City_61525",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61530",
+      "zip_extension": "",
+      "primary_city": "City_61530",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61535",
+      "zip_extension": "",
+      "primary_city": "City_61535",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61540",
+      "zip_extension": "",
+      "primary_city": "City_61540",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61545",
+      "zip_extension": "",
+      "primary_city": "City_61545",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61550",
+      "zip_extension": "",
+      "primary_city": "City_61550",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61555",
+      "zip_extension": "",
+      "primary_city": "City_61555",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61560",
+      "zip_extension": "",
+      "primary_city": "City_61560",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61565",
+      "zip_extension": "",
+      "primary_city": "City_61565",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61570",
+      "zip_extension": "",
+      "primary_city": "City_61570",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61575",
+      "zip_extension": "",
+      "primary_city": "City_61575",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61580",
+      "zip_extension": "",
+      "primary_city": "City_61580",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61585",
+      "zip_extension": "",
+      "primary_city": "City_61585",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61590",
+      "zip_extension": "",
+      "primary_city": "City_61590",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61595",
+      "zip_extension": "",
+      "primary_city": "City_61595",
+      "acceptable_cities": "",
+      "county": "County_615",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61600",
+      "zip_extension": "",
+      "primary_city": "City_61600",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61605",
+      "zip_extension": "",
+      "primary_city": "City_61605",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61610",
+      "zip_extension": "",
+      "primary_city": "City_61610",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61615",
+      "zip_extension": "",
+      "primary_city": "City_61615",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61620",
+      "zip_extension": "",
+      "primary_city": "City_61620",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61625",
+      "zip_extension": "",
+      "primary_city": "City_61625",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61630",
+      "zip_extension": "",
+      "primary_city": "City_61630",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61635",
+      "zip_extension": "",
+      "primary_city": "City_61635",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61640",
+      "zip_extension": "",
+      "primary_city": "City_61640",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61645",
+      "zip_extension": "",
+      "primary_city": "City_61645",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61650",
+      "zip_extension": "",
+      "primary_city": "City_61650",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61655",
+      "zip_extension": "",
+      "primary_city": "City_61655",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61660",
+      "zip_extension": "",
+      "primary_city": "City_61660",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61665",
+      "zip_extension": "",
+      "primary_city": "City_61665",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61670",
+      "zip_extension": "",
+      "primary_city": "City_61670",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61675",
+      "zip_extension": "",
+      "primary_city": "City_61675",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61680",
+      "zip_extension": "",
+      "primary_city": "City_61680",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61685",
+      "zip_extension": "",
+      "primary_city": "City_61685",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61690",
+      "zip_extension": "",
+      "primary_city": "City_61690",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61695",
+      "zip_extension": "",
+      "primary_city": "City_61695",
+      "acceptable_cities": "",
+      "county": "County_616",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61700",
+      "zip_extension": "",
+      "primary_city": "City_61700",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61705",
+      "zip_extension": "",
+      "primary_city": "City_61705",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61710",
+      "zip_extension": "",
+      "primary_city": "City_61710",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61715",
+      "zip_extension": "",
+      "primary_city": "City_61715",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61720",
+      "zip_extension": "",
+      "primary_city": "City_61720",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61725",
+      "zip_extension": "",
+      "primary_city": "City_61725",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61730",
+      "zip_extension": "",
+      "primary_city": "City_61730",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61735",
+      "zip_extension": "",
+      "primary_city": "City_61735",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61740",
+      "zip_extension": "",
+      "primary_city": "City_61740",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61745",
+      "zip_extension": "",
+      "primary_city": "City_61745",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61750",
+      "zip_extension": "",
+      "primary_city": "City_61750",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61755",
+      "zip_extension": "",
+      "primary_city": "City_61755",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61760",
+      "zip_extension": "",
+      "primary_city": "City_61760",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61765",
+      "zip_extension": "",
+      "primary_city": "City_61765",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61770",
+      "zip_extension": "",
+      "primary_city": "City_61770",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61775",
+      "zip_extension": "",
+      "primary_city": "City_61775",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61780",
+      "zip_extension": "",
+      "primary_city": "City_61780",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61785",
+      "zip_extension": "",
+      "primary_city": "City_61785",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61790",
+      "zip_extension": "",
+      "primary_city": "City_61790",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61795",
+      "zip_extension": "",
+      "primary_city": "City_61795",
+      "acceptable_cities": "",
+      "county": "County_617",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61800",
+      "zip_extension": "",
+      "primary_city": "City_61800",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61805",
+      "zip_extension": "",
+      "primary_city": "City_61805",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61810",
+      "zip_extension": "",
+      "primary_city": "City_61810",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61815",
+      "zip_extension": "",
+      "primary_city": "City_61815",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61820",
+      "zip_extension": "",
+      "primary_city": "City_61820",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61825",
+      "zip_extension": "",
+      "primary_city": "City_61825",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61830",
+      "zip_extension": "",
+      "primary_city": "City_61830",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61835",
+      "zip_extension": "",
+      "primary_city": "City_61835",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61840",
+      "zip_extension": "",
+      "primary_city": "City_61840",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61845",
+      "zip_extension": "",
+      "primary_city": "City_61845",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61850",
+      "zip_extension": "",
+      "primary_city": "City_61850",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61855",
+      "zip_extension": "",
+      "primary_city": "City_61855",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61860",
+      "zip_extension": "",
+      "primary_city": "City_61860",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61865",
+      "zip_extension": "",
+      "primary_city": "City_61865",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61870",
+      "zip_extension": "",
+      "primary_city": "City_61870",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61875",
+      "zip_extension": "",
+      "primary_city": "City_61875",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61880",
+      "zip_extension": "",
+      "primary_city": "City_61880",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61885",
+      "zip_extension": "",
+      "primary_city": "City_61885",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61890",
+      "zip_extension": "",
+      "primary_city": "City_61890",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61895",
+      "zip_extension": "",
+      "primary_city": "City_61895",
+      "acceptable_cities": "",
+      "county": "County_618",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61900",
+      "zip_extension": "",
+      "primary_city": "City_61900",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61905",
+      "zip_extension": "",
+      "primary_city": "City_61905",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61910",
+      "zip_extension": "",
+      "primary_city": "City_61910",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61915",
+      "zip_extension": "",
+      "primary_city": "City_61915",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61920",
+      "zip_extension": "",
+      "primary_city": "City_61920",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61925",
+      "zip_extension": "",
+      "primary_city": "City_61925",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61930",
+      "zip_extension": "",
+      "primary_city": "City_61930",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61935",
+      "zip_extension": "",
+      "primary_city": "City_61935",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61940",
+      "zip_extension": "",
+      "primary_city": "City_61940",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61945",
+      "zip_extension": "",
+      "primary_city": "City_61945",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61950",
+      "zip_extension": "",
+      "primary_city": "City_61950",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61955",
+      "zip_extension": "",
+      "primary_city": "City_61955",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61960",
+      "zip_extension": "",
+      "primary_city": "City_61960",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61965",
+      "zip_extension": "",
+      "primary_city": "City_61965",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61970",
+      "zip_extension": "",
+      "primary_city": "City_61970",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61975",
+      "zip_extension": "",
+      "primary_city": "City_61975",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61980",
+      "zip_extension": "",
+      "primary_city": "City_61980",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61985",
+      "zip_extension": "",
+      "primary_city": "City_61985",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61990",
+      "zip_extension": "",
+      "primary_city": "City_61990",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "61995",
+      "zip_extension": "",
+      "primary_city": "City_61995",
+      "acceptable_cities": "",
+      "county": "County_619",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62000",
+      "zip_extension": "",
+      "primary_city": "City_62000",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62005",
+      "zip_extension": "",
+      "primary_city": "City_62005",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62010",
+      "zip_extension": "",
+      "primary_city": "City_62010",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62015",
+      "zip_extension": "",
+      "primary_city": "City_62015",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62020",
+      "zip_extension": "",
+      "primary_city": "City_62020",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62025",
+      "zip_extension": "",
+      "primary_city": "City_62025",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62030",
+      "zip_extension": "",
+      "primary_city": "City_62030",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62035",
+      "zip_extension": "",
+      "primary_city": "City_62035",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62040",
+      "zip_extension": "",
+      "primary_city": "City_62040",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62045",
+      "zip_extension": "",
+      "primary_city": "City_62045",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62050",
+      "zip_extension": "",
+      "primary_city": "City_62050",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62055",
+      "zip_extension": "",
+      "primary_city": "City_62055",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62060",
+      "zip_extension": "",
+      "primary_city": "City_62060",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62065",
+      "zip_extension": "",
+      "primary_city": "City_62065",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62070",
+      "zip_extension": "",
+      "primary_city": "City_62070",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62075",
+      "zip_extension": "",
+      "primary_city": "City_62075",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62080",
+      "zip_extension": "",
+      "primary_city": "City_62080",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62085",
+      "zip_extension": "",
+      "primary_city": "City_62085",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62090",
+      "zip_extension": "",
+      "primary_city": "City_62090",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62095",
+      "zip_extension": "",
+      "primary_city": "City_62095",
+      "acceptable_cities": "",
+      "county": "County_620",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62100",
+      "zip_extension": "",
+      "primary_city": "City_62100",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62105",
+      "zip_extension": "",
+      "primary_city": "City_62105",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62110",
+      "zip_extension": "",
+      "primary_city": "City_62110",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62115",
+      "zip_extension": "",
+      "primary_city": "City_62115",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62120",
+      "zip_extension": "",
+      "primary_city": "City_62120",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62125",
+      "zip_extension": "",
+      "primary_city": "City_62125",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62130",
+      "zip_extension": "",
+      "primary_city": "City_62130",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62135",
+      "zip_extension": "",
+      "primary_city": "City_62135",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62140",
+      "zip_extension": "",
+      "primary_city": "City_62140",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62145",
+      "zip_extension": "",
+      "primary_city": "City_62145",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62150",
+      "zip_extension": "",
+      "primary_city": "City_62150",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62155",
+      "zip_extension": "",
+      "primary_city": "City_62155",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62160",
+      "zip_extension": "",
+      "primary_city": "City_62160",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62165",
+      "zip_extension": "",
+      "primary_city": "City_62165",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62170",
+      "zip_extension": "",
+      "primary_city": "City_62170",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62175",
+      "zip_extension": "",
+      "primary_city": "City_62175",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62180",
+      "zip_extension": "",
+      "primary_city": "City_62180",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62185",
+      "zip_extension": "",
+      "primary_city": "City_62185",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62190",
+      "zip_extension": "",
+      "primary_city": "City_62190",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62195",
+      "zip_extension": "",
+      "primary_city": "City_62195",
+      "acceptable_cities": "",
+      "county": "County_621",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62200",
+      "zip_extension": "",
+      "primary_city": "City_62200",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62205",
+      "zip_extension": "",
+      "primary_city": "City_62205",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62210",
+      "zip_extension": "",
+      "primary_city": "City_62210",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62215",
+      "zip_extension": "",
+      "primary_city": "City_62215",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62220",
+      "zip_extension": "",
+      "primary_city": "City_62220",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62225",
+      "zip_extension": "",
+      "primary_city": "City_62225",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62230",
+      "zip_extension": "",
+      "primary_city": "City_62230",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62235",
+      "zip_extension": "",
+      "primary_city": "City_62235",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62240",
+      "zip_extension": "",
+      "primary_city": "City_62240",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62245",
+      "zip_extension": "",
+      "primary_city": "City_62245",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62250",
+      "zip_extension": "",
+      "primary_city": "City_62250",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62255",
+      "zip_extension": "",
+      "primary_city": "City_62255",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62260",
+      "zip_extension": "",
+      "primary_city": "City_62260",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62265",
+      "zip_extension": "",
+      "primary_city": "City_62265",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62270",
+      "zip_extension": "",
+      "primary_city": "City_62270",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62275",
+      "zip_extension": "",
+      "primary_city": "City_62275",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62280",
+      "zip_extension": "",
+      "primary_city": "City_62280",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62285",
+      "zip_extension": "",
+      "primary_city": "City_62285",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62290",
+      "zip_extension": "",
+      "primary_city": "City_62290",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62295",
+      "zip_extension": "",
+      "primary_city": "City_62295",
+      "acceptable_cities": "",
+      "county": "County_622",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62300",
+      "zip_extension": "",
+      "primary_city": "City_62300",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62305",
+      "zip_extension": "",
+      "primary_city": "City_62305",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62310",
+      "zip_extension": "",
+      "primary_city": "City_62310",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62315",
+      "zip_extension": "",
+      "primary_city": "City_62315",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62320",
+      "zip_extension": "",
+      "primary_city": "City_62320",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62325",
+      "zip_extension": "",
+      "primary_city": "City_62325",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62330",
+      "zip_extension": "",
+      "primary_city": "City_62330",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62335",
+      "zip_extension": "",
+      "primary_city": "City_62335",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62340",
+      "zip_extension": "",
+      "primary_city": "City_62340",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62345",
+      "zip_extension": "",
+      "primary_city": "City_62345",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62350",
+      "zip_extension": "",
+      "primary_city": "City_62350",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62355",
+      "zip_extension": "",
+      "primary_city": "City_62355",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62360",
+      "zip_extension": "",
+      "primary_city": "City_62360",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62365",
+      "zip_extension": "",
+      "primary_city": "City_62365",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62370",
+      "zip_extension": "",
+      "primary_city": "City_62370",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62375",
+      "zip_extension": "",
+      "primary_city": "City_62375",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62380",
+      "zip_extension": "",
+      "primary_city": "City_62380",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62385",
+      "zip_extension": "",
+      "primary_city": "City_62385",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62390",
+      "zip_extension": "",
+      "primary_city": "City_62390",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62395",
+      "zip_extension": "",
+      "primary_city": "City_62395",
+      "acceptable_cities": "",
+      "county": "County_623",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62400",
+      "zip_extension": "",
+      "primary_city": "City_62400",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62405",
+      "zip_extension": "",
+      "primary_city": "City_62405",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62410",
+      "zip_extension": "",
+      "primary_city": "City_62410",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62415",
+      "zip_extension": "",
+      "primary_city": "City_62415",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62420",
+      "zip_extension": "",
+      "primary_city": "City_62420",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62425",
+      "zip_extension": "",
+      "primary_city": "City_62425",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62430",
+      "zip_extension": "",
+      "primary_city": "City_62430",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62435",
+      "zip_extension": "",
+      "primary_city": "City_62435",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62440",
+      "zip_extension": "",
+      "primary_city": "City_62440",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62445",
+      "zip_extension": "",
+      "primary_city": "City_62445",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62450",
+      "zip_extension": "",
+      "primary_city": "City_62450",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62455",
+      "zip_extension": "",
+      "primary_city": "City_62455",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62460",
+      "zip_extension": "",
+      "primary_city": "City_62460",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62465",
+      "zip_extension": "",
+      "primary_city": "City_62465",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62470",
+      "zip_extension": "",
+      "primary_city": "City_62470",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62475",
+      "zip_extension": "",
+      "primary_city": "City_62475",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62480",
+      "zip_extension": "",
+      "primary_city": "City_62480",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62485",
+      "zip_extension": "",
+      "primary_city": "City_62485",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62490",
+      "zip_extension": "",
+      "primary_city": "City_62490",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62495",
+      "zip_extension": "",
+      "primary_city": "City_62495",
+      "acceptable_cities": "",
+      "county": "County_624",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62500",
+      "zip_extension": "",
+      "primary_city": "City_62500",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62505",
+      "zip_extension": "",
+      "primary_city": "City_62505",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62510",
+      "zip_extension": "",
+      "primary_city": "City_62510",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62515",
+      "zip_extension": "",
+      "primary_city": "City_62515",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62520",
+      "zip_extension": "",
+      "primary_city": "City_62520",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62525",
+      "zip_extension": "",
+      "primary_city": "City_62525",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62530",
+      "zip_extension": "",
+      "primary_city": "City_62530",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62535",
+      "zip_extension": "",
+      "primary_city": "City_62535",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62540",
+      "zip_extension": "",
+      "primary_city": "City_62540",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62545",
+      "zip_extension": "",
+      "primary_city": "City_62545",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62550",
+      "zip_extension": "",
+      "primary_city": "City_62550",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62555",
+      "zip_extension": "",
+      "primary_city": "City_62555",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62560",
+      "zip_extension": "",
+      "primary_city": "City_62560",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62565",
+      "zip_extension": "",
+      "primary_city": "City_62565",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62570",
+      "zip_extension": "",
+      "primary_city": "City_62570",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62575",
+      "zip_extension": "",
+      "primary_city": "City_62575",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62580",
+      "zip_extension": "",
+      "primary_city": "City_62580",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62585",
+      "zip_extension": "",
+      "primary_city": "City_62585",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62590",
+      "zip_extension": "",
+      "primary_city": "City_62590",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62595",
+      "zip_extension": "",
+      "primary_city": "City_62595",
+      "acceptable_cities": "",
+      "county": "County_625",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62600",
+      "zip_extension": "",
+      "primary_city": "City_62600",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62605",
+      "zip_extension": "",
+      "primary_city": "City_62605",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62610",
+      "zip_extension": "",
+      "primary_city": "City_62610",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62615",
+      "zip_extension": "",
+      "primary_city": "City_62615",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62620",
+      "zip_extension": "",
+      "primary_city": "City_62620",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62625",
+      "zip_extension": "",
+      "primary_city": "City_62625",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62630",
+      "zip_extension": "",
+      "primary_city": "City_62630",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62635",
+      "zip_extension": "",
+      "primary_city": "City_62635",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62640",
+      "zip_extension": "",
+      "primary_city": "City_62640",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62645",
+      "zip_extension": "",
+      "primary_city": "City_62645",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62650",
+      "zip_extension": "",
+      "primary_city": "City_62650",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62655",
+      "zip_extension": "",
+      "primary_city": "City_62655",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62660",
+      "zip_extension": "",
+      "primary_city": "City_62660",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62665",
+      "zip_extension": "",
+      "primary_city": "City_62665",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62670",
+      "zip_extension": "",
+      "primary_city": "City_62670",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62675",
+      "zip_extension": "",
+      "primary_city": "City_62675",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62680",
+      "zip_extension": "",
+      "primary_city": "City_62680",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62685",
+      "zip_extension": "",
+      "primary_city": "City_62685",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62690",
+      "zip_extension": "",
+      "primary_city": "City_62690",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62695",
+      "zip_extension": "",
+      "primary_city": "City_62695",
+      "acceptable_cities": "",
+      "county": "County_626",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62700",
+      "zip_extension": "",
+      "primary_city": "City_62700",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62705",
+      "zip_extension": "",
+      "primary_city": "City_62705",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62710",
+      "zip_extension": "",
+      "primary_city": "City_62710",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62715",
+      "zip_extension": "",
+      "primary_city": "City_62715",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62720",
+      "zip_extension": "",
+      "primary_city": "City_62720",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62725",
+      "zip_extension": "",
+      "primary_city": "City_62725",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62730",
+      "zip_extension": "",
+      "primary_city": "City_62730",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62735",
+      "zip_extension": "",
+      "primary_city": "City_62735",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62740",
+      "zip_extension": "",
+      "primary_city": "City_62740",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62745",
+      "zip_extension": "",
+      "primary_city": "City_62745",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62750",
+      "zip_extension": "",
+      "primary_city": "City_62750",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62755",
+      "zip_extension": "",
+      "primary_city": "City_62755",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62760",
+      "zip_extension": "",
+      "primary_city": "City_62760",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62765",
+      "zip_extension": "",
+      "primary_city": "City_62765",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62770",
+      "zip_extension": "",
+      "primary_city": "City_62770",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62775",
+      "zip_extension": "",
+      "primary_city": "City_62775",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62780",
+      "zip_extension": "",
+      "primary_city": "City_62780",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62785",
+      "zip_extension": "",
+      "primary_city": "City_62785",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62790",
+      "zip_extension": "",
+      "primary_city": "City_62790",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62795",
+      "zip_extension": "",
+      "primary_city": "City_62795",
+      "acceptable_cities": "",
+      "county": "County_627",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62800",
+      "zip_extension": "",
+      "primary_city": "City_62800",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62805",
+      "zip_extension": "",
+      "primary_city": "City_62805",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62810",
+      "zip_extension": "",
+      "primary_city": "City_62810",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62815",
+      "zip_extension": "",
+      "primary_city": "City_62815",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62820",
+      "zip_extension": "",
+      "primary_city": "City_62820",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62825",
+      "zip_extension": "",
+      "primary_city": "City_62825",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62830",
+      "zip_extension": "",
+      "primary_city": "City_62830",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62835",
+      "zip_extension": "",
+      "primary_city": "City_62835",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62840",
+      "zip_extension": "",
+      "primary_city": "City_62840",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62845",
+      "zip_extension": "",
+      "primary_city": "City_62845",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62850",
+      "zip_extension": "",
+      "primary_city": "City_62850",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62855",
+      "zip_extension": "",
+      "primary_city": "City_62855",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62860",
+      "zip_extension": "",
+      "primary_city": "City_62860",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62865",
+      "zip_extension": "",
+      "primary_city": "City_62865",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62870",
+      "zip_extension": "",
+      "primary_city": "City_62870",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62875",
+      "zip_extension": "",
+      "primary_city": "City_62875",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62880",
+      "zip_extension": "",
+      "primary_city": "City_62880",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62885",
+      "zip_extension": "",
+      "primary_city": "City_62885",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62890",
+      "zip_extension": "",
+      "primary_city": "City_62890",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62895",
+      "zip_extension": "",
+      "primary_city": "City_62895",
+      "acceptable_cities": "",
+      "county": "County_628",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62900",
+      "zip_extension": "",
+      "primary_city": "City_62900",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62905",
+      "zip_extension": "",
+      "primary_city": "City_62905",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62910",
+      "zip_extension": "",
+      "primary_city": "City_62910",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62915",
+      "zip_extension": "",
+      "primary_city": "City_62915",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62920",
+      "zip_extension": "",
+      "primary_city": "City_62920",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62925",
+      "zip_extension": "",
+      "primary_city": "City_62925",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62930",
+      "zip_extension": "",
+      "primary_city": "City_62930",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62935",
+      "zip_extension": "",
+      "primary_city": "City_62935",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62940",
+      "zip_extension": "",
+      "primary_city": "City_62940",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62945",
+      "zip_extension": "",
+      "primary_city": "City_62945",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62950",
+      "zip_extension": "",
+      "primary_city": "City_62950",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62955",
+      "zip_extension": "",
+      "primary_city": "City_62955",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62960",
+      "zip_extension": "",
+      "primary_city": "City_62960",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62965",
+      "zip_extension": "",
+      "primary_city": "City_62965",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62970",
+      "zip_extension": "",
+      "primary_city": "City_62970",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62975",
+      "zip_extension": "",
+      "primary_city": "City_62975",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62980",
+      "zip_extension": "",
+      "primary_city": "City_62980",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62985",
+      "zip_extension": "",
+      "primary_city": "City_62985",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62990",
+      "zip_extension": "",
+      "primary_city": "City_62990",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "62995",
+      "zip_extension": "",
+      "primary_city": "City_62995",
+      "acceptable_cities": "",
+      "county": "County_629",
+      "state": "Illinois",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

@@ -1,0 +1,4007 @@
+{
+  "state": "Alabama",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 400,
+  "zipcodes": [
+    {
+      "zip_code": "35000",
+      "zip_extension": "",
+      "primary_city": "City_35000",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35005",
+      "zip_extension": "",
+      "primary_city": "City_35005",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35010",
+      "zip_extension": "",
+      "primary_city": "City_35010",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35015",
+      "zip_extension": "",
+      "primary_city": "City_35015",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35020",
+      "zip_extension": "",
+      "primary_city": "City_35020",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35025",
+      "zip_extension": "",
+      "primary_city": "City_35025",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35030",
+      "zip_extension": "",
+      "primary_city": "City_35030",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35035",
+      "zip_extension": "",
+      "primary_city": "City_35035",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35040",
+      "zip_extension": "",
+      "primary_city": "City_35040",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35045",
+      "zip_extension": "",
+      "primary_city": "City_35045",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35050",
+      "zip_extension": "",
+      "primary_city": "City_35050",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35055",
+      "zip_extension": "",
+      "primary_city": "City_35055",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35060",
+      "zip_extension": "",
+      "primary_city": "City_35060",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35065",
+      "zip_extension": "",
+      "primary_city": "City_35065",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35070",
+      "zip_extension": "",
+      "primary_city": "City_35070",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35075",
+      "zip_extension": "",
+      "primary_city": "City_35075",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35080",
+      "zip_extension": "",
+      "primary_city": "City_35080",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35085",
+      "zip_extension": "",
+      "primary_city": "City_35085",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35090",
+      "zip_extension": "",
+      "primary_city": "City_35090",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35095",
+      "zip_extension": "",
+      "primary_city": "City_35095",
+      "acceptable_cities": "",
+      "county": "County_350",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35100",
+      "zip_extension": "",
+      "primary_city": "City_35100",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35105",
+      "zip_extension": "",
+      "primary_city": "City_35105",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35110",
+      "zip_extension": "",
+      "primary_city": "City_35110",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35115",
+      "zip_extension": "",
+      "primary_city": "City_35115",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35120",
+      "zip_extension": "",
+      "primary_city": "City_35120",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35125",
+      "zip_extension": "",
+      "primary_city": "City_35125",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35130",
+      "zip_extension": "",
+      "primary_city": "City_35130",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35135",
+      "zip_extension": "",
+      "primary_city": "City_35135",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35140",
+      "zip_extension": "",
+      "primary_city": "City_35140",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35145",
+      "zip_extension": "",
+      "primary_city": "City_35145",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35150",
+      "zip_extension": "",
+      "primary_city": "City_35150",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35155",
+      "zip_extension": "",
+      "primary_city": "City_35155",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35160",
+      "zip_extension": "",
+      "primary_city": "City_35160",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35165",
+      "zip_extension": "",
+      "primary_city": "City_35165",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35170",
+      "zip_extension": "",
+      "primary_city": "City_35170",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35175",
+      "zip_extension": "",
+      "primary_city": "City_35175",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35180",
+      "zip_extension": "",
+      "primary_city": "City_35180",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35185",
+      "zip_extension": "",
+      "primary_city": "City_35185",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35190",
+      "zip_extension": "",
+      "primary_city": "City_35190",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35195",
+      "zip_extension": "",
+      "primary_city": "City_35195",
+      "acceptable_cities": "",
+      "county": "County_351",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35200",
+      "zip_extension": "",
+      "primary_city": "City_35200",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35205",
+      "zip_extension": "",
+      "primary_city": "City_35205",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35210",
+      "zip_extension": "",
+      "primary_city": "City_35210",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35215",
+      "zip_extension": "",
+      "primary_city": "City_35215",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35220",
+      "zip_extension": "",
+      "primary_city": "City_35220",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35225",
+      "zip_extension": "",
+      "primary_city": "City_35225",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35230",
+      "zip_extension": "",
+      "primary_city": "City_35230",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35235",
+      "zip_extension": "",
+      "primary_city": "City_35235",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35240",
+      "zip_extension": "",
+      "primary_city": "City_35240",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35245",
+      "zip_extension": "",
+      "primary_city": "City_35245",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35250",
+      "zip_extension": "",
+      "primary_city": "City_35250",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35255",
+      "zip_extension": "",
+      "primary_city": "City_35255",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35260",
+      "zip_extension": "",
+      "primary_city": "City_35260",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35265",
+      "zip_extension": "",
+      "primary_city": "City_35265",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35270",
+      "zip_extension": "",
+      "primary_city": "City_35270",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35275",
+      "zip_extension": "",
+      "primary_city": "City_35275",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35280",
+      "zip_extension": "",
+      "primary_city": "City_35280",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35285",
+      "zip_extension": "",
+      "primary_city": "City_35285",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35290",
+      "zip_extension": "",
+      "primary_city": "City_35290",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35295",
+      "zip_extension": "",
+      "primary_city": "City_35295",
+      "acceptable_cities": "",
+      "county": "County_352",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35300",
+      "zip_extension": "",
+      "primary_city": "City_35300",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35305",
+      "zip_extension": "",
+      "primary_city": "City_35305",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35310",
+      "zip_extension": "",
+      "primary_city": "City_35310",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35315",
+      "zip_extension": "",
+      "primary_city": "City_35315",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35320",
+      "zip_extension": "",
+      "primary_city": "City_35320",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35325",
+      "zip_extension": "",
+      "primary_city": "City_35325",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35330",
+      "zip_extension": "",
+      "primary_city": "City_35330",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35335",
+      "zip_extension": "",
+      "primary_city": "City_35335",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35340",
+      "zip_extension": "",
+      "primary_city": "City_35340",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35345",
+      "zip_extension": "",
+      "primary_city": "City_35345",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35350",
+      "zip_extension": "",
+      "primary_city": "City_35350",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35355",
+      "zip_extension": "",
+      "primary_city": "City_35355",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35360",
+      "zip_extension": "",
+      "primary_city": "City_35360",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35365",
+      "zip_extension": "",
+      "primary_city": "City_35365",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35370",
+      "zip_extension": "",
+      "primary_city": "City_35370",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35375",
+      "zip_extension": "",
+      "primary_city": "City_35375",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35380",
+      "zip_extension": "",
+      "primary_city": "City_35380",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35385",
+      "zip_extension": "",
+      "primary_city": "City_35385",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35390",
+      "zip_extension": "",
+      "primary_city": "City_35390",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35395",
+      "zip_extension": "",
+      "primary_city": "City_35395",
+      "acceptable_cities": "",
+      "county": "County_353",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35400",
+      "zip_extension": "",
+      "primary_city": "City_35400",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35405",
+      "zip_extension": "",
+      "primary_city": "City_35405",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35410",
+      "zip_extension": "",
+      "primary_city": "City_35410",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35415",
+      "zip_extension": "",
+      "primary_city": "City_35415",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35420",
+      "zip_extension": "",
+      "primary_city": "City_35420",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35425",
+      "zip_extension": "",
+      "primary_city": "City_35425",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35430",
+      "zip_extension": "",
+      "primary_city": "City_35430",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35435",
+      "zip_extension": "",
+      "primary_city": "City_35435",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35440",
+      "zip_extension": "",
+      "primary_city": "City_35440",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35445",
+      "zip_extension": "",
+      "primary_city": "City_35445",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35450",
+      "zip_extension": "",
+      "primary_city": "City_35450",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35455",
+      "zip_extension": "",
+      "primary_city": "City_35455",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35460",
+      "zip_extension": "",
+      "primary_city": "City_35460",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35465",
+      "zip_extension": "",
+      "primary_city": "City_35465",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35470",
+      "zip_extension": "",
+      "primary_city": "City_35470",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35475",
+      "zip_extension": "",
+      "primary_city": "City_35475",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35480",
+      "zip_extension": "",
+      "primary_city": "City_35480",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35485",
+      "zip_extension": "",
+      "primary_city": "City_35485",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35490",
+      "zip_extension": "",
+      "primary_city": "City_35490",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35495",
+      "zip_extension": "",
+      "primary_city": "City_35495",
+      "acceptable_cities": "",
+      "county": "County_354",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35500",
+      "zip_extension": "",
+      "primary_city": "City_35500",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35505",
+      "zip_extension": "",
+      "primary_city": "City_35505",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35510",
+      "zip_extension": "",
+      "primary_city": "City_35510",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35515",
+      "zip_extension": "",
+      "primary_city": "City_35515",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35520",
+      "zip_extension": "",
+      "primary_city": "City_35520",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35525",
+      "zip_extension": "",
+      "primary_city": "City_35525",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35530",
+      "zip_extension": "",
+      "primary_city": "City_35530",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35535",
+      "zip_extension": "",
+      "primary_city": "City_35535",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35540",
+      "zip_extension": "",
+      "primary_city": "City_35540",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35545",
+      "zip_extension": "",
+      "primary_city": "City_35545",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35550",
+      "zip_extension": "",
+      "primary_city": "City_35550",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35555",
+      "zip_extension": "",
+      "primary_city": "City_35555",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35560",
+      "zip_extension": "",
+      "primary_city": "City_35560",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35565",
+      "zip_extension": "",
+      "primary_city": "City_35565",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35570",
+      "zip_extension": "",
+      "primary_city": "City_35570",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35575",
+      "zip_extension": "",
+      "primary_city": "City_35575",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35580",
+      "zip_extension": "",
+      "primary_city": "City_35580",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35585",
+      "zip_extension": "",
+      "primary_city": "City_35585",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35590",
+      "zip_extension": "",
+      "primary_city": "City_35590",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35595",
+      "zip_extension": "",
+      "primary_city": "City_35595",
+      "acceptable_cities": "",
+      "county": "County_355",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35600",
+      "zip_extension": "",
+      "primary_city": "City_35600",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35605",
+      "zip_extension": "",
+      "primary_city": "City_35605",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35610",
+      "zip_extension": "",
+      "primary_city": "City_35610",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35615",
+      "zip_extension": "",
+      "primary_city": "City_35615",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35620",
+      "zip_extension": "",
+      "primary_city": "City_35620",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35625",
+      "zip_extension": "",
+      "primary_city": "City_35625",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35630",
+      "zip_extension": "",
+      "primary_city": "City_35630",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35635",
+      "zip_extension": "",
+      "primary_city": "City_35635",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35640",
+      "zip_extension": "",
+      "primary_city": "City_35640",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35645",
+      "zip_extension": "",
+      "primary_city": "City_35645",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35650",
+      "zip_extension": "",
+      "primary_city": "City_35650",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35655",
+      "zip_extension": "",
+      "primary_city": "City_35655",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35660",
+      "zip_extension": "",
+      "primary_city": "City_35660",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35665",
+      "zip_extension": "",
+      "primary_city": "City_35665",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35670",
+      "zip_extension": "",
+      "primary_city": "City_35670",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35675",
+      "zip_extension": "",
+      "primary_city": "City_35675",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35680",
+      "zip_extension": "",
+      "primary_city": "City_35680",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35685",
+      "zip_extension": "",
+      "primary_city": "City_35685",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35690",
+      "zip_extension": "",
+      "primary_city": "City_35690",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35695",
+      "zip_extension": "",
+      "primary_city": "City_35695",
+      "acceptable_cities": "",
+      "county": "County_356",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35700",
+      "zip_extension": "",
+      "primary_city": "City_35700",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35705",
+      "zip_extension": "",
+      "primary_city": "City_35705",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35710",
+      "zip_extension": "",
+      "primary_city": "City_35710",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35715",
+      "zip_extension": "",
+      "primary_city": "City_35715",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35720",
+      "zip_extension": "",
+      "primary_city": "City_35720",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35725",
+      "zip_extension": "",
+      "primary_city": "City_35725",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35730",
+      "zip_extension": "",
+      "primary_city": "City_35730",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35735",
+      "zip_extension": "",
+      "primary_city": "City_35735",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35740",
+      "zip_extension": "",
+      "primary_city": "City_35740",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35745",
+      "zip_extension": "",
+      "primary_city": "City_35745",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35750",
+      "zip_extension": "",
+      "primary_city": "City_35750",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35755",
+      "zip_extension": "",
+      "primary_city": "City_35755",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35760",
+      "zip_extension": "",
+      "primary_city": "City_35760",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35765",
+      "zip_extension": "",
+      "primary_city": "City_35765",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35770",
+      "zip_extension": "",
+      "primary_city": "City_35770",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35775",
+      "zip_extension": "",
+      "primary_city": "City_35775",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35780",
+      "zip_extension": "",
+      "primary_city": "City_35780",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35785",
+      "zip_extension": "",
+      "primary_city": "City_35785",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35790",
+      "zip_extension": "",
+      "primary_city": "City_35790",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35795",
+      "zip_extension": "",
+      "primary_city": "City_35795",
+      "acceptable_cities": "",
+      "county": "County_357",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35800",
+      "zip_extension": "",
+      "primary_city": "City_35800",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35805",
+      "zip_extension": "",
+      "primary_city": "City_35805",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35810",
+      "zip_extension": "",
+      "primary_city": "City_35810",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35815",
+      "zip_extension": "",
+      "primary_city": "City_35815",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35820",
+      "zip_extension": "",
+      "primary_city": "City_35820",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35825",
+      "zip_extension": "",
+      "primary_city": "City_35825",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35830",
+      "zip_extension": "",
+      "primary_city": "City_35830",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35835",
+      "zip_extension": "",
+      "primary_city": "City_35835",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35840",
+      "zip_extension": "",
+      "primary_city": "City_35840",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35845",
+      "zip_extension": "",
+      "primary_city": "City_35845",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35850",
+      "zip_extension": "",
+      "primary_city": "City_35850",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35855",
+      "zip_extension": "",
+      "primary_city": "City_35855",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35860",
+      "zip_extension": "",
+      "primary_city": "City_35860",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35865",
+      "zip_extension": "",
+      "primary_city": "City_35865",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35870",
+      "zip_extension": "",
+      "primary_city": "City_35870",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35875",
+      "zip_extension": "",
+      "primary_city": "City_35875",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35880",
+      "zip_extension": "",
+      "primary_city": "City_35880",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35885",
+      "zip_extension": "",
+      "primary_city": "City_35885",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35890",
+      "zip_extension": "",
+      "primary_city": "City_35890",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35895",
+      "zip_extension": "",
+      "primary_city": "City_35895",
+      "acceptable_cities": "",
+      "county": "County_358",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35900",
+      "zip_extension": "",
+      "primary_city": "City_35900",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35905",
+      "zip_extension": "",
+      "primary_city": "City_35905",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35910",
+      "zip_extension": "",
+      "primary_city": "City_35910",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35915",
+      "zip_extension": "",
+      "primary_city": "City_35915",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35920",
+      "zip_extension": "",
+      "primary_city": "City_35920",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35925",
+      "zip_extension": "",
+      "primary_city": "City_35925",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35930",
+      "zip_extension": "",
+      "primary_city": "City_35930",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35935",
+      "zip_extension": "",
+      "primary_city": "City_35935",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35940",
+      "zip_extension": "",
+      "primary_city": "City_35940",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35945",
+      "zip_extension": "",
+      "primary_city": "City_35945",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35950",
+      "zip_extension": "",
+      "primary_city": "City_35950",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35955",
+      "zip_extension": "",
+      "primary_city": "City_35955",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35960",
+      "zip_extension": "",
+      "primary_city": "City_35960",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35965",
+      "zip_extension": "",
+      "primary_city": "City_35965",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35970",
+      "zip_extension": "",
+      "primary_city": "City_35970",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35975",
+      "zip_extension": "",
+      "primary_city": "City_35975",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35980",
+      "zip_extension": "",
+      "primary_city": "City_35980",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35985",
+      "zip_extension": "",
+      "primary_city": "City_35985",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35990",
+      "zip_extension": "",
+      "primary_city": "City_35990",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "35995",
+      "zip_extension": "",
+      "primary_city": "City_35995",
+      "acceptable_cities": "",
+      "county": "County_359",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36000",
+      "zip_extension": "",
+      "primary_city": "City_36000",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36005",
+      "zip_extension": "",
+      "primary_city": "City_36005",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36010",
+      "zip_extension": "",
+      "primary_city": "City_36010",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36015",
+      "zip_extension": "",
+      "primary_city": "City_36015",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36020",
+      "zip_extension": "",
+      "primary_city": "City_36020",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36025",
+      "zip_extension": "",
+      "primary_city": "City_36025",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36030",
+      "zip_extension": "",
+      "primary_city": "City_36030",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36035",
+      "zip_extension": "",
+      "primary_city": "City_36035",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36040",
+      "zip_extension": "",
+      "primary_city": "City_36040",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36045",
+      "zip_extension": "",
+      "primary_city": "City_36045",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36050",
+      "zip_extension": "",
+      "primary_city": "City_36050",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36055",
+      "zip_extension": "",
+      "primary_city": "City_36055",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36060",
+      "zip_extension": "",
+      "primary_city": "City_36060",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36065",
+      "zip_extension": "",
+      "primary_city": "City_36065",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36070",
+      "zip_extension": "",
+      "primary_city": "City_36070",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36075",
+      "zip_extension": "",
+      "primary_city": "City_36075",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36080",
+      "zip_extension": "",
+      "primary_city": "City_36080",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36085",
+      "zip_extension": "",
+      "primary_city": "City_36085",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36090",
+      "zip_extension": "",
+      "primary_city": "City_36090",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36095",
+      "zip_extension": "",
+      "primary_city": "City_36095",
+      "acceptable_cities": "",
+      "county": "County_360",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36100",
+      "zip_extension": "",
+      "primary_city": "City_36100",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36105",
+      "zip_extension": "",
+      "primary_city": "City_36105",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36110",
+      "zip_extension": "",
+      "primary_city": "City_36110",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36115",
+      "zip_extension": "",
+      "primary_city": "City_36115",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36120",
+      "zip_extension": "",
+      "primary_city": "City_36120",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36125",
+      "zip_extension": "",
+      "primary_city": "City_36125",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36130",
+      "zip_extension": "",
+      "primary_city": "City_36130",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36135",
+      "zip_extension": "",
+      "primary_city": "City_36135",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36140",
+      "zip_extension": "",
+      "primary_city": "City_36140",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36145",
+      "zip_extension": "",
+      "primary_city": "City_36145",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36150",
+      "zip_extension": "",
+      "primary_city": "City_36150",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36155",
+      "zip_extension": "",
+      "primary_city": "City_36155",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36160",
+      "zip_extension": "",
+      "primary_city": "City_36160",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36165",
+      "zip_extension": "",
+      "primary_city": "City_36165",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36170",
+      "zip_extension": "",
+      "primary_city": "City_36170",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36175",
+      "zip_extension": "",
+      "primary_city": "City_36175",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36180",
+      "zip_extension": "",
+      "primary_city": "City_36180",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36185",
+      "zip_extension": "",
+      "primary_city": "City_36185",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36190",
+      "zip_extension": "",
+      "primary_city": "City_36190",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36195",
+      "zip_extension": "",
+      "primary_city": "City_36195",
+      "acceptable_cities": "",
+      "county": "County_361",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36200",
+      "zip_extension": "",
+      "primary_city": "City_36200",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36205",
+      "zip_extension": "",
+      "primary_city": "City_36205",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36210",
+      "zip_extension": "",
+      "primary_city": "City_36210",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36215",
+      "zip_extension": "",
+      "primary_city": "City_36215",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36220",
+      "zip_extension": "",
+      "primary_city": "City_36220",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36225",
+      "zip_extension": "",
+      "primary_city": "City_36225",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36230",
+      "zip_extension": "",
+      "primary_city": "City_36230",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36235",
+      "zip_extension": "",
+      "primary_city": "City_36235",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36240",
+      "zip_extension": "",
+      "primary_city": "City_36240",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36245",
+      "zip_extension": "",
+      "primary_city": "City_36245",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36250",
+      "zip_extension": "",
+      "primary_city": "City_36250",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36255",
+      "zip_extension": "",
+      "primary_city": "City_36255",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36260",
+      "zip_extension": "",
+      "primary_city": "City_36260",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36265",
+      "zip_extension": "",
+      "primary_city": "City_36265",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36270",
+      "zip_extension": "",
+      "primary_city": "City_36270",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36275",
+      "zip_extension": "",
+      "primary_city": "City_36275",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36280",
+      "zip_extension": "",
+      "primary_city": "City_36280",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36285",
+      "zip_extension": "",
+      "primary_city": "City_36285",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36290",
+      "zip_extension": "",
+      "primary_city": "City_36290",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36295",
+      "zip_extension": "",
+      "primary_city": "City_36295",
+      "acceptable_cities": "",
+      "county": "County_362",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36300",
+      "zip_extension": "",
+      "primary_city": "City_36300",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36305",
+      "zip_extension": "",
+      "primary_city": "City_36305",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36310",
+      "zip_extension": "",
+      "primary_city": "City_36310",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36315",
+      "zip_extension": "",
+      "primary_city": "City_36315",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36320",
+      "zip_extension": "",
+      "primary_city": "City_36320",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36325",
+      "zip_extension": "",
+      "primary_city": "City_36325",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36330",
+      "zip_extension": "",
+      "primary_city": "City_36330",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36335",
+      "zip_extension": "",
+      "primary_city": "City_36335",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36340",
+      "zip_extension": "",
+      "primary_city": "City_36340",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36345",
+      "zip_extension": "",
+      "primary_city": "City_36345",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36350",
+      "zip_extension": "",
+      "primary_city": "City_36350",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36355",
+      "zip_extension": "",
+      "primary_city": "City_36355",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36360",
+      "zip_extension": "",
+      "primary_city": "City_36360",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36365",
+      "zip_extension": "",
+      "primary_city": "City_36365",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36370",
+      "zip_extension": "",
+      "primary_city": "City_36370",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36375",
+      "zip_extension": "",
+      "primary_city": "City_36375",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36380",
+      "zip_extension": "",
+      "primary_city": "City_36380",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36385",
+      "zip_extension": "",
+      "primary_city": "City_36385",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36390",
+      "zip_extension": "",
+      "primary_city": "City_36390",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36395",
+      "zip_extension": "",
+      "primary_city": "City_36395",
+      "acceptable_cities": "",
+      "county": "County_363",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36400",
+      "zip_extension": "",
+      "primary_city": "City_36400",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36405",
+      "zip_extension": "",
+      "primary_city": "City_36405",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36410",
+      "zip_extension": "",
+      "primary_city": "City_36410",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36415",
+      "zip_extension": "",
+      "primary_city": "City_36415",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36420",
+      "zip_extension": "",
+      "primary_city": "City_36420",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36425",
+      "zip_extension": "",
+      "primary_city": "City_36425",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36430",
+      "zip_extension": "",
+      "primary_city": "City_36430",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36435",
+      "zip_extension": "",
+      "primary_city": "City_36435",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36440",
+      "zip_extension": "",
+      "primary_city": "City_36440",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36445",
+      "zip_extension": "",
+      "primary_city": "City_36445",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36450",
+      "zip_extension": "",
+      "primary_city": "City_36450",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36455",
+      "zip_extension": "",
+      "primary_city": "City_36455",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36460",
+      "zip_extension": "",
+      "primary_city": "City_36460",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36465",
+      "zip_extension": "",
+      "primary_city": "City_36465",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36470",
+      "zip_extension": "",
+      "primary_city": "City_36470",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36475",
+      "zip_extension": "",
+      "primary_city": "City_36475",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36480",
+      "zip_extension": "",
+      "primary_city": "City_36480",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36485",
+      "zip_extension": "",
+      "primary_city": "City_36485",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36490",
+      "zip_extension": "",
+      "primary_city": "City_36490",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36495",
+      "zip_extension": "",
+      "primary_city": "City_36495",
+      "acceptable_cities": "",
+      "county": "County_364",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36500",
+      "zip_extension": "",
+      "primary_city": "City_36500",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36505",
+      "zip_extension": "",
+      "primary_city": "City_36505",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36510",
+      "zip_extension": "",
+      "primary_city": "City_36510",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36515",
+      "zip_extension": "",
+      "primary_city": "City_36515",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36520",
+      "zip_extension": "",
+      "primary_city": "City_36520",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36525",
+      "zip_extension": "",
+      "primary_city": "City_36525",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36530",
+      "zip_extension": "",
+      "primary_city": "City_36530",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36535",
+      "zip_extension": "",
+      "primary_city": "City_36535",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36540",
+      "zip_extension": "",
+      "primary_city": "City_36540",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36545",
+      "zip_extension": "",
+      "primary_city": "City_36545",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36550",
+      "zip_extension": "",
+      "primary_city": "City_36550",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36555",
+      "zip_extension": "",
+      "primary_city": "City_36555",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36560",
+      "zip_extension": "",
+      "primary_city": "City_36560",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36565",
+      "zip_extension": "",
+      "primary_city": "City_36565",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36570",
+      "zip_extension": "",
+      "primary_city": "City_36570",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36575",
+      "zip_extension": "",
+      "primary_city": "City_36575",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36580",
+      "zip_extension": "",
+      "primary_city": "City_36580",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36585",
+      "zip_extension": "",
+      "primary_city": "City_36585",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36590",
+      "zip_extension": "",
+      "primary_city": "City_36590",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36595",
+      "zip_extension": "",
+      "primary_city": "City_36595",
+      "acceptable_cities": "",
+      "county": "County_365",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36600",
+      "zip_extension": "",
+      "primary_city": "City_36600",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36605",
+      "zip_extension": "",
+      "primary_city": "City_36605",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36610",
+      "zip_extension": "",
+      "primary_city": "City_36610",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36615",
+      "zip_extension": "",
+      "primary_city": "City_36615",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36620",
+      "zip_extension": "",
+      "primary_city": "City_36620",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36625",
+      "zip_extension": "",
+      "primary_city": "City_36625",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36630",
+      "zip_extension": "",
+      "primary_city": "City_36630",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36635",
+      "zip_extension": "",
+      "primary_city": "City_36635",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36640",
+      "zip_extension": "",
+      "primary_city": "City_36640",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36645",
+      "zip_extension": "",
+      "primary_city": "City_36645",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36650",
+      "zip_extension": "",
+      "primary_city": "City_36650",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36655",
+      "zip_extension": "",
+      "primary_city": "City_36655",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36660",
+      "zip_extension": "",
+      "primary_city": "City_36660",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36665",
+      "zip_extension": "",
+      "primary_city": "City_36665",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36670",
+      "zip_extension": "",
+      "primary_city": "City_36670",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36675",
+      "zip_extension": "",
+      "primary_city": "City_36675",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36680",
+      "zip_extension": "",
+      "primary_city": "City_36680",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36685",
+      "zip_extension": "",
+      "primary_city": "City_36685",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36690",
+      "zip_extension": "",
+      "primary_city": "City_36690",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36695",
+      "zip_extension": "",
+      "primary_city": "City_36695",
+      "acceptable_cities": "",
+      "county": "County_366",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36700",
+      "zip_extension": "",
+      "primary_city": "City_36700",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36705",
+      "zip_extension": "",
+      "primary_city": "City_36705",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36710",
+      "zip_extension": "",
+      "primary_city": "City_36710",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36715",
+      "zip_extension": "",
+      "primary_city": "City_36715",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36720",
+      "zip_extension": "",
+      "primary_city": "City_36720",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36725",
+      "zip_extension": "",
+      "primary_city": "City_36725",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36730",
+      "zip_extension": "",
+      "primary_city": "City_36730",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36735",
+      "zip_extension": "",
+      "primary_city": "City_36735",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36740",
+      "zip_extension": "",
+      "primary_city": "City_36740",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36745",
+      "zip_extension": "",
+      "primary_city": "City_36745",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36750",
+      "zip_extension": "",
+      "primary_city": "City_36750",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36755",
+      "zip_extension": "",
+      "primary_city": "City_36755",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36760",
+      "zip_extension": "",
+      "primary_city": "City_36760",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36765",
+      "zip_extension": "",
+      "primary_city": "City_36765",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36770",
+      "zip_extension": "",
+      "primary_city": "City_36770",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36775",
+      "zip_extension": "",
+      "primary_city": "City_36775",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36780",
+      "zip_extension": "",
+      "primary_city": "City_36780",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36785",
+      "zip_extension": "",
+      "primary_city": "City_36785",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36790",
+      "zip_extension": "",
+      "primary_city": "City_36790",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36795",
+      "zip_extension": "",
+      "primary_city": "City_36795",
+      "acceptable_cities": "",
+      "county": "County_367",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36800",
+      "zip_extension": "",
+      "primary_city": "City_36800",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36805",
+      "zip_extension": "",
+      "primary_city": "City_36805",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36810",
+      "zip_extension": "",
+      "primary_city": "City_36810",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36815",
+      "zip_extension": "",
+      "primary_city": "City_36815",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36820",
+      "zip_extension": "",
+      "primary_city": "City_36820",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36825",
+      "zip_extension": "",
+      "primary_city": "City_36825",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36830",
+      "zip_extension": "",
+      "primary_city": "City_36830",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36835",
+      "zip_extension": "",
+      "primary_city": "City_36835",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36840",
+      "zip_extension": "",
+      "primary_city": "City_36840",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36845",
+      "zip_extension": "",
+      "primary_city": "City_36845",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36850",
+      "zip_extension": "",
+      "primary_city": "City_36850",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36855",
+      "zip_extension": "",
+      "primary_city": "City_36855",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36860",
+      "zip_extension": "",
+      "primary_city": "City_36860",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36865",
+      "zip_extension": "",
+      "primary_city": "City_36865",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36870",
+      "zip_extension": "",
+      "primary_city": "City_36870",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36875",
+      "zip_extension": "",
+      "primary_city": "City_36875",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36880",
+      "zip_extension": "",
+      "primary_city": "City_36880",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36885",
+      "zip_extension": "",
+      "primary_city": "City_36885",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36890",
+      "zip_extension": "",
+      "primary_city": "City_36890",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36895",
+      "zip_extension": "",
+      "primary_city": "City_36895",
+      "acceptable_cities": "",
+      "county": "County_368",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36900",
+      "zip_extension": "",
+      "primary_city": "City_36900",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36905",
+      "zip_extension": "",
+      "primary_city": "City_36905",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36910",
+      "zip_extension": "",
+      "primary_city": "City_36910",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36915",
+      "zip_extension": "",
+      "primary_city": "City_36915",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36920",
+      "zip_extension": "",
+      "primary_city": "City_36920",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36925",
+      "zip_extension": "",
+      "primary_city": "City_36925",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36930",
+      "zip_extension": "",
+      "primary_city": "City_36930",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36935",
+      "zip_extension": "",
+      "primary_city": "City_36935",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36940",
+      "zip_extension": "",
+      "primary_city": "City_36940",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36945",
+      "zip_extension": "",
+      "primary_city": "City_36945",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36950",
+      "zip_extension": "",
+      "primary_city": "City_36950",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36955",
+      "zip_extension": "",
+      "primary_city": "City_36955",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36960",
+      "zip_extension": "",
+      "primary_city": "City_36960",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36965",
+      "zip_extension": "",
+      "primary_city": "City_36965",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36970",
+      "zip_extension": "",
+      "primary_city": "City_36970",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36975",
+      "zip_extension": "",
+      "primary_city": "City_36975",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36980",
+      "zip_extension": "",
+      "primary_city": "City_36980",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36985",
+      "zip_extension": "",
+      "primary_city": "City_36985",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36990",
+      "zip_extension": "",
+      "primary_city": "City_36990",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "36995",
+      "zip_extension": "",
+      "primary_city": "City_36995",
+      "acceptable_cities": "",
+      "county": "County_369",
+      "state": "Alabama",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

@@ -1,0 +1,1807 @@
+{
+  "state": "New Hampshire",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 180,
+  "zipcodes": [
+    {
+      "zip_code": "03000",
+      "zip_extension": "",
+      "primary_city": "City_03000",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03005",
+      "zip_extension": "",
+      "primary_city": "City_03005",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03010",
+      "zip_extension": "",
+      "primary_city": "City_03010",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03015",
+      "zip_extension": "",
+      "primary_city": "City_03015",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03020",
+      "zip_extension": "",
+      "primary_city": "City_03020",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03025",
+      "zip_extension": "",
+      "primary_city": "City_03025",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03030",
+      "zip_extension": "",
+      "primary_city": "City_03030",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03035",
+      "zip_extension": "",
+      "primary_city": "City_03035",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03040",
+      "zip_extension": "",
+      "primary_city": "City_03040",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03045",
+      "zip_extension": "",
+      "primary_city": "City_03045",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03050",
+      "zip_extension": "",
+      "primary_city": "City_03050",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03055",
+      "zip_extension": "",
+      "primary_city": "City_03055",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03060",
+      "zip_extension": "",
+      "primary_city": "City_03060",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03065",
+      "zip_extension": "",
+      "primary_city": "City_03065",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03070",
+      "zip_extension": "",
+      "primary_city": "City_03070",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03075",
+      "zip_extension": "",
+      "primary_city": "City_03075",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03080",
+      "zip_extension": "",
+      "primary_city": "City_03080",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03085",
+      "zip_extension": "",
+      "primary_city": "City_03085",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03090",
+      "zip_extension": "",
+      "primary_city": "City_03090",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03095",
+      "zip_extension": "",
+      "primary_city": "City_03095",
+      "acceptable_cities": "",
+      "county": "County_030",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03100",
+      "zip_extension": "",
+      "primary_city": "City_03100",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03105",
+      "zip_extension": "",
+      "primary_city": "City_03105",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03110",
+      "zip_extension": "",
+      "primary_city": "City_03110",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03115",
+      "zip_extension": "",
+      "primary_city": "City_03115",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03120",
+      "zip_extension": "",
+      "primary_city": "City_03120",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03125",
+      "zip_extension": "",
+      "primary_city": "City_03125",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03130",
+      "zip_extension": "",
+      "primary_city": "City_03130",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03135",
+      "zip_extension": "",
+      "primary_city": "City_03135",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03140",
+      "zip_extension": "",
+      "primary_city": "City_03140",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03145",
+      "zip_extension": "",
+      "primary_city": "City_03145",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03150",
+      "zip_extension": "",
+      "primary_city": "City_03150",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03155",
+      "zip_extension": "",
+      "primary_city": "City_03155",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03160",
+      "zip_extension": "",
+      "primary_city": "City_03160",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03165",
+      "zip_extension": "",
+      "primary_city": "City_03165",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03170",
+      "zip_extension": "",
+      "primary_city": "City_03170",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03175",
+      "zip_extension": "",
+      "primary_city": "City_03175",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03180",
+      "zip_extension": "",
+      "primary_city": "City_03180",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03185",
+      "zip_extension": "",
+      "primary_city": "City_03185",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03190",
+      "zip_extension": "",
+      "primary_city": "City_03190",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03195",
+      "zip_extension": "",
+      "primary_city": "City_03195",
+      "acceptable_cities": "",
+      "county": "County_031",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03200",
+      "zip_extension": "",
+      "primary_city": "City_03200",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03205",
+      "zip_extension": "",
+      "primary_city": "City_03205",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03210",
+      "zip_extension": "",
+      "primary_city": "City_03210",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03215",
+      "zip_extension": "",
+      "primary_city": "City_03215",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03220",
+      "zip_extension": "",
+      "primary_city": "City_03220",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03225",
+      "zip_extension": "",
+      "primary_city": "City_03225",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03230",
+      "zip_extension": "",
+      "primary_city": "City_03230",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03235",
+      "zip_extension": "",
+      "primary_city": "City_03235",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03240",
+      "zip_extension": "",
+      "primary_city": "City_03240",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03245",
+      "zip_extension": "",
+      "primary_city": "City_03245",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03250",
+      "zip_extension": "",
+      "primary_city": "City_03250",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03255",
+      "zip_extension": "",
+      "primary_city": "City_03255",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03260",
+      "zip_extension": "",
+      "primary_city": "City_03260",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03265",
+      "zip_extension": "",
+      "primary_city": "City_03265",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03270",
+      "zip_extension": "",
+      "primary_city": "City_03270",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03275",
+      "zip_extension": "",
+      "primary_city": "City_03275",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03280",
+      "zip_extension": "",
+      "primary_city": "City_03280",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03285",
+      "zip_extension": "",
+      "primary_city": "City_03285",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03290",
+      "zip_extension": "",
+      "primary_city": "City_03290",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03295",
+      "zip_extension": "",
+      "primary_city": "City_03295",
+      "acceptable_cities": "",
+      "county": "County_032",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03300",
+      "zip_extension": "",
+      "primary_city": "City_03300",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03305",
+      "zip_extension": "",
+      "primary_city": "City_03305",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03310",
+      "zip_extension": "",
+      "primary_city": "City_03310",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03315",
+      "zip_extension": "",
+      "primary_city": "City_03315",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03320",
+      "zip_extension": "",
+      "primary_city": "City_03320",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03325",
+      "zip_extension": "",
+      "primary_city": "City_03325",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03330",
+      "zip_extension": "",
+      "primary_city": "City_03330",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03335",
+      "zip_extension": "",
+      "primary_city": "City_03335",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03340",
+      "zip_extension": "",
+      "primary_city": "City_03340",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03345",
+      "zip_extension": "",
+      "primary_city": "City_03345",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03350",
+      "zip_extension": "",
+      "primary_city": "City_03350",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03355",
+      "zip_extension": "",
+      "primary_city": "City_03355",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03360",
+      "zip_extension": "",
+      "primary_city": "City_03360",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03365",
+      "zip_extension": "",
+      "primary_city": "City_03365",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03370",
+      "zip_extension": "",
+      "primary_city": "City_03370",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03375",
+      "zip_extension": "",
+      "primary_city": "City_03375",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03380",
+      "zip_extension": "",
+      "primary_city": "City_03380",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03385",
+      "zip_extension": "",
+      "primary_city": "City_03385",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03390",
+      "zip_extension": "",
+      "primary_city": "City_03390",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03395",
+      "zip_extension": "",
+      "primary_city": "City_03395",
+      "acceptable_cities": "",
+      "county": "County_033",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03400",
+      "zip_extension": "",
+      "primary_city": "City_03400",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03405",
+      "zip_extension": "",
+      "primary_city": "City_03405",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03410",
+      "zip_extension": "",
+      "primary_city": "City_03410",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03415",
+      "zip_extension": "",
+      "primary_city": "City_03415",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03420",
+      "zip_extension": "",
+      "primary_city": "City_03420",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03425",
+      "zip_extension": "",
+      "primary_city": "City_03425",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03430",
+      "zip_extension": "",
+      "primary_city": "City_03430",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03435",
+      "zip_extension": "",
+      "primary_city": "City_03435",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03440",
+      "zip_extension": "",
+      "primary_city": "City_03440",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03445",
+      "zip_extension": "",
+      "primary_city": "City_03445",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03450",
+      "zip_extension": "",
+      "primary_city": "City_03450",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03455",
+      "zip_extension": "",
+      "primary_city": "City_03455",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03460",
+      "zip_extension": "",
+      "primary_city": "City_03460",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03465",
+      "zip_extension": "",
+      "primary_city": "City_03465",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03470",
+      "zip_extension": "",
+      "primary_city": "City_03470",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03475",
+      "zip_extension": "",
+      "primary_city": "City_03475",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03480",
+      "zip_extension": "",
+      "primary_city": "City_03480",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03485",
+      "zip_extension": "",
+      "primary_city": "City_03485",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03490",
+      "zip_extension": "",
+      "primary_city": "City_03490",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03495",
+      "zip_extension": "",
+      "primary_city": "City_03495",
+      "acceptable_cities": "",
+      "county": "County_034",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03500",
+      "zip_extension": "",
+      "primary_city": "City_03500",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03505",
+      "zip_extension": "",
+      "primary_city": "City_03505",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03510",
+      "zip_extension": "",
+      "primary_city": "City_03510",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03515",
+      "zip_extension": "",
+      "primary_city": "City_03515",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03520",
+      "zip_extension": "",
+      "primary_city": "City_03520",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03525",
+      "zip_extension": "",
+      "primary_city": "City_03525",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03530",
+      "zip_extension": "",
+      "primary_city": "City_03530",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03535",
+      "zip_extension": "",
+      "primary_city": "City_03535",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03540",
+      "zip_extension": "",
+      "primary_city": "City_03540",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03545",
+      "zip_extension": "",
+      "primary_city": "City_03545",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03550",
+      "zip_extension": "",
+      "primary_city": "City_03550",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03555",
+      "zip_extension": "",
+      "primary_city": "City_03555",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03560",
+      "zip_extension": "",
+      "primary_city": "City_03560",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03565",
+      "zip_extension": "",
+      "primary_city": "City_03565",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03570",
+      "zip_extension": "",
+      "primary_city": "City_03570",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03575",
+      "zip_extension": "",
+      "primary_city": "City_03575",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03580",
+      "zip_extension": "",
+      "primary_city": "City_03580",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03585",
+      "zip_extension": "",
+      "primary_city": "City_03585",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03590",
+      "zip_extension": "",
+      "primary_city": "City_03590",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03595",
+      "zip_extension": "",
+      "primary_city": "City_03595",
+      "acceptable_cities": "",
+      "county": "County_035",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03600",
+      "zip_extension": "",
+      "primary_city": "City_03600",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03605",
+      "zip_extension": "",
+      "primary_city": "City_03605",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03610",
+      "zip_extension": "",
+      "primary_city": "City_03610",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03615",
+      "zip_extension": "",
+      "primary_city": "City_03615",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03620",
+      "zip_extension": "",
+      "primary_city": "City_03620",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03625",
+      "zip_extension": "",
+      "primary_city": "City_03625",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03630",
+      "zip_extension": "",
+      "primary_city": "City_03630",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03635",
+      "zip_extension": "",
+      "primary_city": "City_03635",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03640",
+      "zip_extension": "",
+      "primary_city": "City_03640",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03645",
+      "zip_extension": "",
+      "primary_city": "City_03645",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03650",
+      "zip_extension": "",
+      "primary_city": "City_03650",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03655",
+      "zip_extension": "",
+      "primary_city": "City_03655",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03660",
+      "zip_extension": "",
+      "primary_city": "City_03660",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03665",
+      "zip_extension": "",
+      "primary_city": "City_03665",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03670",
+      "zip_extension": "",
+      "primary_city": "City_03670",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03675",
+      "zip_extension": "",
+      "primary_city": "City_03675",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03680",
+      "zip_extension": "",
+      "primary_city": "City_03680",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03685",
+      "zip_extension": "",
+      "primary_city": "City_03685",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03690",
+      "zip_extension": "",
+      "primary_city": "City_03690",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03695",
+      "zip_extension": "",
+      "primary_city": "City_03695",
+      "acceptable_cities": "",
+      "county": "County_036",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03700",
+      "zip_extension": "",
+      "primary_city": "City_03700",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03705",
+      "zip_extension": "",
+      "primary_city": "City_03705",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03710",
+      "zip_extension": "",
+      "primary_city": "City_03710",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03715",
+      "zip_extension": "",
+      "primary_city": "City_03715",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03720",
+      "zip_extension": "",
+      "primary_city": "City_03720",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03725",
+      "zip_extension": "",
+      "primary_city": "City_03725",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03730",
+      "zip_extension": "",
+      "primary_city": "City_03730",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03735",
+      "zip_extension": "",
+      "primary_city": "City_03735",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03740",
+      "zip_extension": "",
+      "primary_city": "City_03740",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03745",
+      "zip_extension": "",
+      "primary_city": "City_03745",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03750",
+      "zip_extension": "",
+      "primary_city": "City_03750",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03755",
+      "zip_extension": "",
+      "primary_city": "City_03755",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03760",
+      "zip_extension": "",
+      "primary_city": "City_03760",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03765",
+      "zip_extension": "",
+      "primary_city": "City_03765",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03770",
+      "zip_extension": "",
+      "primary_city": "City_03770",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03775",
+      "zip_extension": "",
+      "primary_city": "City_03775",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03780",
+      "zip_extension": "",
+      "primary_city": "City_03780",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03785",
+      "zip_extension": "",
+      "primary_city": "City_03785",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03790",
+      "zip_extension": "",
+      "primary_city": "City_03790",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03795",
+      "zip_extension": "",
+      "primary_city": "City_03795",
+      "acceptable_cities": "",
+      "county": "County_037",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03800",
+      "zip_extension": "",
+      "primary_city": "City_03800",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03805",
+      "zip_extension": "",
+      "primary_city": "City_03805",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03810",
+      "zip_extension": "",
+      "primary_city": "City_03810",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03815",
+      "zip_extension": "",
+      "primary_city": "City_03815",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03820",
+      "zip_extension": "",
+      "primary_city": "City_03820",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03825",
+      "zip_extension": "",
+      "primary_city": "City_03825",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03830",
+      "zip_extension": "",
+      "primary_city": "City_03830",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03835",
+      "zip_extension": "",
+      "primary_city": "City_03835",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03840",
+      "zip_extension": "",
+      "primary_city": "City_03840",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03845",
+      "zip_extension": "",
+      "primary_city": "City_03845",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03850",
+      "zip_extension": "",
+      "primary_city": "City_03850",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03855",
+      "zip_extension": "",
+      "primary_city": "City_03855",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03860",
+      "zip_extension": "",
+      "primary_city": "City_03860",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03865",
+      "zip_extension": "",
+      "primary_city": "City_03865",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03870",
+      "zip_extension": "",
+      "primary_city": "City_03870",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03875",
+      "zip_extension": "",
+      "primary_city": "City_03875",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03880",
+      "zip_extension": "",
+      "primary_city": "City_03880",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03885",
+      "zip_extension": "",
+      "primary_city": "City_03885",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03890",
+      "zip_extension": "",
+      "primary_city": "City_03890",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "03895",
+      "zip_extension": "",
+      "primary_city": "City_03895",
+      "acceptable_cities": "",
+      "county": "County_038",
+      "state": "New Hampshire",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

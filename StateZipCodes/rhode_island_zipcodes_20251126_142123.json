@@ -1,0 +1,407 @@
+{
+  "state": "Rhode Island",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 40,
+  "zipcodes": [
+    {
+      "zip_code": "02800",
+      "zip_extension": "",
+      "primary_city": "City_02800",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02805",
+      "zip_extension": "",
+      "primary_city": "City_02805",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02810",
+      "zip_extension": "",
+      "primary_city": "City_02810",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02815",
+      "zip_extension": "",
+      "primary_city": "City_02815",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02820",
+      "zip_extension": "",
+      "primary_city": "City_02820",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02825",
+      "zip_extension": "",
+      "primary_city": "City_02825",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02830",
+      "zip_extension": "",
+      "primary_city": "City_02830",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02835",
+      "zip_extension": "",
+      "primary_city": "City_02835",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02840",
+      "zip_extension": "",
+      "primary_city": "City_02840",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02845",
+      "zip_extension": "",
+      "primary_city": "City_02845",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02850",
+      "zip_extension": "",
+      "primary_city": "City_02850",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02855",
+      "zip_extension": "",
+      "primary_city": "City_02855",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02860",
+      "zip_extension": "",
+      "primary_city": "City_02860",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02865",
+      "zip_extension": "",
+      "primary_city": "City_02865",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02870",
+      "zip_extension": "",
+      "primary_city": "City_02870",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02875",
+      "zip_extension": "",
+      "primary_city": "City_02875",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02880",
+      "zip_extension": "",
+      "primary_city": "City_02880",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02885",
+      "zip_extension": "",
+      "primary_city": "City_02885",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02890",
+      "zip_extension": "",
+      "primary_city": "City_02890",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02895",
+      "zip_extension": "",
+      "primary_city": "City_02895",
+      "acceptable_cities": "",
+      "county": "County_028",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02900",
+      "zip_extension": "",
+      "primary_city": "City_02900",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02905",
+      "zip_extension": "",
+      "primary_city": "City_02905",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02910",
+      "zip_extension": "",
+      "primary_city": "City_02910",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02915",
+      "zip_extension": "",
+      "primary_city": "City_02915",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02920",
+      "zip_extension": "",
+      "primary_city": "City_02920",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02925",
+      "zip_extension": "",
+      "primary_city": "City_02925",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02930",
+      "zip_extension": "",
+      "primary_city": "City_02930",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02935",
+      "zip_extension": "",
+      "primary_city": "City_02935",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02940",
+      "zip_extension": "",
+      "primary_city": "City_02940",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02945",
+      "zip_extension": "",
+      "primary_city": "City_02945",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02950",
+      "zip_extension": "",
+      "primary_city": "City_02950",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02955",
+      "zip_extension": "",
+      "primary_city": "City_02955",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02960",
+      "zip_extension": "",
+      "primary_city": "City_02960",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02965",
+      "zip_extension": "",
+      "primary_city": "City_02965",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02970",
+      "zip_extension": "",
+      "primary_city": "City_02970",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02975",
+      "zip_extension": "",
+      "primary_city": "City_02975",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02980",
+      "zip_extension": "",
+      "primary_city": "City_02980",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02985",
+      "zip_extension": "",
+      "primary_city": "City_02985",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02990",
+      "zip_extension": "",
+      "primary_city": "City_02990",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "02995",
+      "zip_extension": "",
+      "primary_city": "City_02995",
+      "acceptable_cities": "",
+      "county": "County_029",
+      "state": "Rhode Island",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

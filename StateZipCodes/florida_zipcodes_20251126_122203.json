@@ -1,0 +1,6007 @@
+{
+  "state": "Florida",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 600,
+  "zipcodes": [
+    {
+      "zip_code": "32000",
+      "zip_extension": "",
+      "primary_city": "City_32000",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32005",
+      "zip_extension": "",
+      "primary_city": "City_32005",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32010",
+      "zip_extension": "",
+      "primary_city": "City_32010",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32015",
+      "zip_extension": "",
+      "primary_city": "City_32015",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32020",
+      "zip_extension": "",
+      "primary_city": "City_32020",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32025",
+      "zip_extension": "",
+      "primary_city": "City_32025",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32030",
+      "zip_extension": "",
+      "primary_city": "City_32030",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32035",
+      "zip_extension": "",
+      "primary_city": "City_32035",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32040",
+      "zip_extension": "",
+      "primary_city": "City_32040",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32045",
+      "zip_extension": "",
+      "primary_city": "City_32045",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32050",
+      "zip_extension": "",
+      "primary_city": "City_32050",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32055",
+      "zip_extension": "",
+      "primary_city": "City_32055",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32060",
+      "zip_extension": "",
+      "primary_city": "City_32060",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32065",
+      "zip_extension": "",
+      "primary_city": "City_32065",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32070",
+      "zip_extension": "",
+      "primary_city": "City_32070",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32075",
+      "zip_extension": "",
+      "primary_city": "City_32075",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32080",
+      "zip_extension": "",
+      "primary_city": "City_32080",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32085",
+      "zip_extension": "",
+      "primary_city": "City_32085",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32090",
+      "zip_extension": "",
+      "primary_city": "City_32090",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32095",
+      "zip_extension": "",
+      "primary_city": "City_32095",
+      "acceptable_cities": "",
+      "county": "County_320",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32100",
+      "zip_extension": "",
+      "primary_city": "City_32100",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32105",
+      "zip_extension": "",
+      "primary_city": "City_32105",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32110",
+      "zip_extension": "",
+      "primary_city": "City_32110",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32115",
+      "zip_extension": "",
+      "primary_city": "City_32115",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32120",
+      "zip_extension": "",
+      "primary_city": "City_32120",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32125",
+      "zip_extension": "",
+      "primary_city": "City_32125",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32130",
+      "zip_extension": "",
+      "primary_city": "City_32130",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32135",
+      "zip_extension": "",
+      "primary_city": "City_32135",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32140",
+      "zip_extension": "",
+      "primary_city": "City_32140",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32145",
+      "zip_extension": "",
+      "primary_city": "City_32145",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32150",
+      "zip_extension": "",
+      "primary_city": "City_32150",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32155",
+      "zip_extension": "",
+      "primary_city": "City_32155",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32160",
+      "zip_extension": "",
+      "primary_city": "City_32160",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32165",
+      "zip_extension": "",
+      "primary_city": "City_32165",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32170",
+      "zip_extension": "",
+      "primary_city": "City_32170",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32175",
+      "zip_extension": "",
+      "primary_city": "City_32175",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32180",
+      "zip_extension": "",
+      "primary_city": "City_32180",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32185",
+      "zip_extension": "",
+      "primary_city": "City_32185",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32190",
+      "zip_extension": "",
+      "primary_city": "City_32190",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32195",
+      "zip_extension": "",
+      "primary_city": "City_32195",
+      "acceptable_cities": "",
+      "county": "County_321",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32200",
+      "zip_extension": "",
+      "primary_city": "City_32200",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32205",
+      "zip_extension": "",
+      "primary_city": "City_32205",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32210",
+      "zip_extension": "",
+      "primary_city": "City_32210",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32215",
+      "zip_extension": "",
+      "primary_city": "City_32215",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32220",
+      "zip_extension": "",
+      "primary_city": "City_32220",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32225",
+      "zip_extension": "",
+      "primary_city": "City_32225",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32230",
+      "zip_extension": "",
+      "primary_city": "City_32230",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32235",
+      "zip_extension": "",
+      "primary_city": "City_32235",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32240",
+      "zip_extension": "",
+      "primary_city": "City_32240",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32245",
+      "zip_extension": "",
+      "primary_city": "City_32245",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32250",
+      "zip_extension": "",
+      "primary_city": "City_32250",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32255",
+      "zip_extension": "",
+      "primary_city": "City_32255",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32260",
+      "zip_extension": "",
+      "primary_city": "City_32260",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32265",
+      "zip_extension": "",
+      "primary_city": "City_32265",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32270",
+      "zip_extension": "",
+      "primary_city": "City_32270",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32275",
+      "zip_extension": "",
+      "primary_city": "City_32275",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32280",
+      "zip_extension": "",
+      "primary_city": "City_32280",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32285",
+      "zip_extension": "",
+      "primary_city": "City_32285",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32290",
+      "zip_extension": "",
+      "primary_city": "City_32290",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32295",
+      "zip_extension": "",
+      "primary_city": "City_32295",
+      "acceptable_cities": "",
+      "county": "County_322",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32300",
+      "zip_extension": "",
+      "primary_city": "City_32300",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32305",
+      "zip_extension": "",
+      "primary_city": "City_32305",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32310",
+      "zip_extension": "",
+      "primary_city": "City_32310",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32315",
+      "zip_extension": "",
+      "primary_city": "City_32315",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32320",
+      "zip_extension": "",
+      "primary_city": "City_32320",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32325",
+      "zip_extension": "",
+      "primary_city": "City_32325",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32330",
+      "zip_extension": "",
+      "primary_city": "City_32330",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32335",
+      "zip_extension": "",
+      "primary_city": "City_32335",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32340",
+      "zip_extension": "",
+      "primary_city": "City_32340",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32345",
+      "zip_extension": "",
+      "primary_city": "City_32345",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32350",
+      "zip_extension": "",
+      "primary_city": "City_32350",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32355",
+      "zip_extension": "",
+      "primary_city": "City_32355",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32360",
+      "zip_extension": "",
+      "primary_city": "City_32360",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32365",
+      "zip_extension": "",
+      "primary_city": "City_32365",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32370",
+      "zip_extension": "",
+      "primary_city": "City_32370",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32375",
+      "zip_extension": "",
+      "primary_city": "City_32375",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32380",
+      "zip_extension": "",
+      "primary_city": "City_32380",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32385",
+      "zip_extension": "",
+      "primary_city": "City_32385",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32390",
+      "zip_extension": "",
+      "primary_city": "City_32390",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32395",
+      "zip_extension": "",
+      "primary_city": "City_32395",
+      "acceptable_cities": "",
+      "county": "County_323",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32400",
+      "zip_extension": "",
+      "primary_city": "City_32400",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32405",
+      "zip_extension": "",
+      "primary_city": "City_32405",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32410",
+      "zip_extension": "",
+      "primary_city": "City_32410",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32415",
+      "zip_extension": "",
+      "primary_city": "City_32415",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32420",
+      "zip_extension": "",
+      "primary_city": "City_32420",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32425",
+      "zip_extension": "",
+      "primary_city": "City_32425",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32430",
+      "zip_extension": "",
+      "primary_city": "City_32430",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32435",
+      "zip_extension": "",
+      "primary_city": "City_32435",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32440",
+      "zip_extension": "",
+      "primary_city": "City_32440",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32445",
+      "zip_extension": "",
+      "primary_city": "City_32445",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32450",
+      "zip_extension": "",
+      "primary_city": "City_32450",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32455",
+      "zip_extension": "",
+      "primary_city": "City_32455",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32460",
+      "zip_extension": "",
+      "primary_city": "City_32460",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32465",
+      "zip_extension": "",
+      "primary_city": "City_32465",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32470",
+      "zip_extension": "",
+      "primary_city": "City_32470",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32475",
+      "zip_extension": "",
+      "primary_city": "City_32475",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32480",
+      "zip_extension": "",
+      "primary_city": "City_32480",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32485",
+      "zip_extension": "",
+      "primary_city": "City_32485",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32490",
+      "zip_extension": "",
+      "primary_city": "City_32490",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32495",
+      "zip_extension": "",
+      "primary_city": "City_32495",
+      "acceptable_cities": "",
+      "county": "County_324",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32500",
+      "zip_extension": "",
+      "primary_city": "City_32500",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32505",
+      "zip_extension": "",
+      "primary_city": "City_32505",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32510",
+      "zip_extension": "",
+      "primary_city": "City_32510",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32515",
+      "zip_extension": "",
+      "primary_city": "City_32515",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32520",
+      "zip_extension": "",
+      "primary_city": "City_32520",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32525",
+      "zip_extension": "",
+      "primary_city": "City_32525",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32530",
+      "zip_extension": "",
+      "primary_city": "City_32530",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32535",
+      "zip_extension": "",
+      "primary_city": "City_32535",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32540",
+      "zip_extension": "",
+      "primary_city": "City_32540",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32545",
+      "zip_extension": "",
+      "primary_city": "City_32545",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32550",
+      "zip_extension": "",
+      "primary_city": "City_32550",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32555",
+      "zip_extension": "",
+      "primary_city": "City_32555",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32560",
+      "zip_extension": "",
+      "primary_city": "City_32560",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32565",
+      "zip_extension": "",
+      "primary_city": "City_32565",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32570",
+      "zip_extension": "",
+      "primary_city": "City_32570",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32575",
+      "zip_extension": "",
+      "primary_city": "City_32575",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32580",
+      "zip_extension": "",
+      "primary_city": "City_32580",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32585",
+      "zip_extension": "",
+      "primary_city": "City_32585",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32590",
+      "zip_extension": "",
+      "primary_city": "City_32590",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32595",
+      "zip_extension": "",
+      "primary_city": "City_32595",
+      "acceptable_cities": "",
+      "county": "County_325",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32600",
+      "zip_extension": "",
+      "primary_city": "City_32600",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32605",
+      "zip_extension": "",
+      "primary_city": "City_32605",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32610",
+      "zip_extension": "",
+      "primary_city": "City_32610",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32615",
+      "zip_extension": "",
+      "primary_city": "City_32615",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32620",
+      "zip_extension": "",
+      "primary_city": "City_32620",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32625",
+      "zip_extension": "",
+      "primary_city": "City_32625",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32630",
+      "zip_extension": "",
+      "primary_city": "City_32630",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32635",
+      "zip_extension": "",
+      "primary_city": "City_32635",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32640",
+      "zip_extension": "",
+      "primary_city": "City_32640",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32645",
+      "zip_extension": "",
+      "primary_city": "City_32645",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32650",
+      "zip_extension": "",
+      "primary_city": "City_32650",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32655",
+      "zip_extension": "",
+      "primary_city": "City_32655",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32660",
+      "zip_extension": "",
+      "primary_city": "City_32660",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32665",
+      "zip_extension": "",
+      "primary_city": "City_32665",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32670",
+      "zip_extension": "",
+      "primary_city": "City_32670",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32675",
+      "zip_extension": "",
+      "primary_city": "City_32675",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32680",
+      "zip_extension": "",
+      "primary_city": "City_32680",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32685",
+      "zip_extension": "",
+      "primary_city": "City_32685",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32690",
+      "zip_extension": "",
+      "primary_city": "City_32690",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32695",
+      "zip_extension": "",
+      "primary_city": "City_32695",
+      "acceptable_cities": "",
+      "county": "County_326",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32700",
+      "zip_extension": "",
+      "primary_city": "City_32700",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32705",
+      "zip_extension": "",
+      "primary_city": "City_32705",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32710",
+      "zip_extension": "",
+      "primary_city": "City_32710",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32715",
+      "zip_extension": "",
+      "primary_city": "City_32715",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32720",
+      "zip_extension": "",
+      "primary_city": "City_32720",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32725",
+      "zip_extension": "",
+      "primary_city": "City_32725",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32730",
+      "zip_extension": "",
+      "primary_city": "City_32730",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32735",
+      "zip_extension": "",
+      "primary_city": "City_32735",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32740",
+      "zip_extension": "",
+      "primary_city": "City_32740",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32745",
+      "zip_extension": "",
+      "primary_city": "City_32745",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32750",
+      "zip_extension": "",
+      "primary_city": "City_32750",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32755",
+      "zip_extension": "",
+      "primary_city": "City_32755",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32760",
+      "zip_extension": "",
+      "primary_city": "City_32760",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32765",
+      "zip_extension": "",
+      "primary_city": "City_32765",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32770",
+      "zip_extension": "",
+      "primary_city": "City_32770",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32775",
+      "zip_extension": "",
+      "primary_city": "City_32775",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32780",
+      "zip_extension": "",
+      "primary_city": "City_32780",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32785",
+      "zip_extension": "",
+      "primary_city": "City_32785",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32790",
+      "zip_extension": "",
+      "primary_city": "City_32790",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32795",
+      "zip_extension": "",
+      "primary_city": "City_32795",
+      "acceptable_cities": "",
+      "county": "County_327",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32800",
+      "zip_extension": "",
+      "primary_city": "City_32800",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32805",
+      "zip_extension": "",
+      "primary_city": "City_32805",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32810",
+      "zip_extension": "",
+      "primary_city": "City_32810",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32815",
+      "zip_extension": "",
+      "primary_city": "City_32815",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32820",
+      "zip_extension": "",
+      "primary_city": "City_32820",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32825",
+      "zip_extension": "",
+      "primary_city": "City_32825",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32830",
+      "zip_extension": "",
+      "primary_city": "City_32830",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32835",
+      "zip_extension": "",
+      "primary_city": "City_32835",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32840",
+      "zip_extension": "",
+      "primary_city": "City_32840",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32845",
+      "zip_extension": "",
+      "primary_city": "City_32845",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32850",
+      "zip_extension": "",
+      "primary_city": "City_32850",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32855",
+      "zip_extension": "",
+      "primary_city": "City_32855",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32860",
+      "zip_extension": "",
+      "primary_city": "City_32860",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32865",
+      "zip_extension": "",
+      "primary_city": "City_32865",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32870",
+      "zip_extension": "",
+      "primary_city": "City_32870",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32875",
+      "zip_extension": "",
+      "primary_city": "City_32875",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32880",
+      "zip_extension": "",
+      "primary_city": "City_32880",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32885",
+      "zip_extension": "",
+      "primary_city": "City_32885",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32890",
+      "zip_extension": "",
+      "primary_city": "City_32890",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32895",
+      "zip_extension": "",
+      "primary_city": "City_32895",
+      "acceptable_cities": "",
+      "county": "County_328",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32900",
+      "zip_extension": "",
+      "primary_city": "City_32900",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32905",
+      "zip_extension": "",
+      "primary_city": "City_32905",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32910",
+      "zip_extension": "",
+      "primary_city": "City_32910",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32915",
+      "zip_extension": "",
+      "primary_city": "City_32915",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32920",
+      "zip_extension": "",
+      "primary_city": "City_32920",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32925",
+      "zip_extension": "",
+      "primary_city": "City_32925",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32930",
+      "zip_extension": "",
+      "primary_city": "City_32930",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32935",
+      "zip_extension": "",
+      "primary_city": "City_32935",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32940",
+      "zip_extension": "",
+      "primary_city": "City_32940",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32945",
+      "zip_extension": "",
+      "primary_city": "City_32945",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32950",
+      "zip_extension": "",
+      "primary_city": "City_32950",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32955",
+      "zip_extension": "",
+      "primary_city": "City_32955",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32960",
+      "zip_extension": "",
+      "primary_city": "City_32960",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32965",
+      "zip_extension": "",
+      "primary_city": "City_32965",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32970",
+      "zip_extension": "",
+      "primary_city": "City_32970",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32975",
+      "zip_extension": "",
+      "primary_city": "City_32975",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32980",
+      "zip_extension": "",
+      "primary_city": "City_32980",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32985",
+      "zip_extension": "",
+      "primary_city": "City_32985",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32990",
+      "zip_extension": "",
+      "primary_city": "City_32990",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "32995",
+      "zip_extension": "",
+      "primary_city": "City_32995",
+      "acceptable_cities": "",
+      "county": "County_329",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33000",
+      "zip_extension": "",
+      "primary_city": "City_33000",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33005",
+      "zip_extension": "",
+      "primary_city": "City_33005",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33010",
+      "zip_extension": "",
+      "primary_city": "City_33010",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33015",
+      "zip_extension": "",
+      "primary_city": "City_33015",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33020",
+      "zip_extension": "",
+      "primary_city": "City_33020",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33025",
+      "zip_extension": "",
+      "primary_city": "City_33025",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33030",
+      "zip_extension": "",
+      "primary_city": "City_33030",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33035",
+      "zip_extension": "",
+      "primary_city": "City_33035",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33040",
+      "zip_extension": "",
+      "primary_city": "City_33040",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33045",
+      "zip_extension": "",
+      "primary_city": "City_33045",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33050",
+      "zip_extension": "",
+      "primary_city": "City_33050",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33055",
+      "zip_extension": "",
+      "primary_city": "City_33055",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33060",
+      "zip_extension": "",
+      "primary_city": "City_33060",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33065",
+      "zip_extension": "",
+      "primary_city": "City_33065",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33070",
+      "zip_extension": "",
+      "primary_city": "City_33070",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33075",
+      "zip_extension": "",
+      "primary_city": "City_33075",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33080",
+      "zip_extension": "",
+      "primary_city": "City_33080",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33085",
+      "zip_extension": "",
+      "primary_city": "City_33085",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33090",
+      "zip_extension": "",
+      "primary_city": "City_33090",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33095",
+      "zip_extension": "",
+      "primary_city": "City_33095",
+      "acceptable_cities": "",
+      "county": "County_330",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33100",
+      "zip_extension": "",
+      "primary_city": "City_33100",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33105",
+      "zip_extension": "",
+      "primary_city": "City_33105",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33110",
+      "zip_extension": "",
+      "primary_city": "City_33110",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33115",
+      "zip_extension": "",
+      "primary_city": "City_33115",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33120",
+      "zip_extension": "",
+      "primary_city": "City_33120",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33125",
+      "zip_extension": "",
+      "primary_city": "City_33125",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33130",
+      "zip_extension": "",
+      "primary_city": "City_33130",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33135",
+      "zip_extension": "",
+      "primary_city": "City_33135",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33140",
+      "zip_extension": "",
+      "primary_city": "City_33140",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33145",
+      "zip_extension": "",
+      "primary_city": "City_33145",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33150",
+      "zip_extension": "",
+      "primary_city": "City_33150",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33155",
+      "zip_extension": "",
+      "primary_city": "City_33155",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33160",
+      "zip_extension": "",
+      "primary_city": "City_33160",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33165",
+      "zip_extension": "",
+      "primary_city": "City_33165",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33170",
+      "zip_extension": "",
+      "primary_city": "City_33170",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33175",
+      "zip_extension": "",
+      "primary_city": "City_33175",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33180",
+      "zip_extension": "",
+      "primary_city": "City_33180",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33185",
+      "zip_extension": "",
+      "primary_city": "City_33185",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33190",
+      "zip_extension": "",
+      "primary_city": "City_33190",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33195",
+      "zip_extension": "",
+      "primary_city": "City_33195",
+      "acceptable_cities": "",
+      "county": "County_331",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33200",
+      "zip_extension": "",
+      "primary_city": "City_33200",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33205",
+      "zip_extension": "",
+      "primary_city": "City_33205",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33210",
+      "zip_extension": "",
+      "primary_city": "City_33210",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33215",
+      "zip_extension": "",
+      "primary_city": "City_33215",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33220",
+      "zip_extension": "",
+      "primary_city": "City_33220",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33225",
+      "zip_extension": "",
+      "primary_city": "City_33225",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33230",
+      "zip_extension": "",
+      "primary_city": "City_33230",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33235",
+      "zip_extension": "",
+      "primary_city": "City_33235",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33240",
+      "zip_extension": "",
+      "primary_city": "City_33240",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33245",
+      "zip_extension": "",
+      "primary_city": "City_33245",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33250",
+      "zip_extension": "",
+      "primary_city": "City_33250",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33255",
+      "zip_extension": "",
+      "primary_city": "City_33255",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33260",
+      "zip_extension": "",
+      "primary_city": "City_33260",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33265",
+      "zip_extension": "",
+      "primary_city": "City_33265",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33270",
+      "zip_extension": "",
+      "primary_city": "City_33270",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33275",
+      "zip_extension": "",
+      "primary_city": "City_33275",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33280",
+      "zip_extension": "",
+      "primary_city": "City_33280",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33285",
+      "zip_extension": "",
+      "primary_city": "City_33285",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33290",
+      "zip_extension": "",
+      "primary_city": "City_33290",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33295",
+      "zip_extension": "",
+      "primary_city": "City_33295",
+      "acceptable_cities": "",
+      "county": "County_332",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33300",
+      "zip_extension": "",
+      "primary_city": "City_33300",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33305",
+      "zip_extension": "",
+      "primary_city": "City_33305",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33310",
+      "zip_extension": "",
+      "primary_city": "City_33310",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33315",
+      "zip_extension": "",
+      "primary_city": "City_33315",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33320",
+      "zip_extension": "",
+      "primary_city": "City_33320",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33325",
+      "zip_extension": "",
+      "primary_city": "City_33325",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33330",
+      "zip_extension": "",
+      "primary_city": "City_33330",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33335",
+      "zip_extension": "",
+      "primary_city": "City_33335",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33340",
+      "zip_extension": "",
+      "primary_city": "City_33340",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33345",
+      "zip_extension": "",
+      "primary_city": "City_33345",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33350",
+      "zip_extension": "",
+      "primary_city": "City_33350",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33355",
+      "zip_extension": "",
+      "primary_city": "City_33355",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33360",
+      "zip_extension": "",
+      "primary_city": "City_33360",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33365",
+      "zip_extension": "",
+      "primary_city": "City_33365",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33370",
+      "zip_extension": "",
+      "primary_city": "City_33370",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33375",
+      "zip_extension": "",
+      "primary_city": "City_33375",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33380",
+      "zip_extension": "",
+      "primary_city": "City_33380",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33385",
+      "zip_extension": "",
+      "primary_city": "City_33385",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33390",
+      "zip_extension": "",
+      "primary_city": "City_33390",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33395",
+      "zip_extension": "",
+      "primary_city": "City_33395",
+      "acceptable_cities": "",
+      "county": "County_333",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33400",
+      "zip_extension": "",
+      "primary_city": "City_33400",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33405",
+      "zip_extension": "",
+      "primary_city": "City_33405",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33410",
+      "zip_extension": "",
+      "primary_city": "City_33410",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33415",
+      "zip_extension": "",
+      "primary_city": "City_33415",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33420",
+      "zip_extension": "",
+      "primary_city": "City_33420",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33425",
+      "zip_extension": "",
+      "primary_city": "City_33425",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33430",
+      "zip_extension": "",
+      "primary_city": "City_33430",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33435",
+      "zip_extension": "",
+      "primary_city": "City_33435",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33440",
+      "zip_extension": "",
+      "primary_city": "City_33440",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33445",
+      "zip_extension": "",
+      "primary_city": "City_33445",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33450",
+      "zip_extension": "",
+      "primary_city": "City_33450",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33455",
+      "zip_extension": "",
+      "primary_city": "City_33455",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33460",
+      "zip_extension": "",
+      "primary_city": "City_33460",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33465",
+      "zip_extension": "",
+      "primary_city": "City_33465",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33470",
+      "zip_extension": "",
+      "primary_city": "City_33470",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33475",
+      "zip_extension": "",
+      "primary_city": "City_33475",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33480",
+      "zip_extension": "",
+      "primary_city": "City_33480",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33485",
+      "zip_extension": "",
+      "primary_city": "City_33485",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33490",
+      "zip_extension": "",
+      "primary_city": "City_33490",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33495",
+      "zip_extension": "",
+      "primary_city": "City_33495",
+      "acceptable_cities": "",
+      "county": "County_334",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33500",
+      "zip_extension": "",
+      "primary_city": "City_33500",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33505",
+      "zip_extension": "",
+      "primary_city": "City_33505",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33510",
+      "zip_extension": "",
+      "primary_city": "City_33510",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33515",
+      "zip_extension": "",
+      "primary_city": "City_33515",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33520",
+      "zip_extension": "",
+      "primary_city": "City_33520",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33525",
+      "zip_extension": "",
+      "primary_city": "City_33525",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33530",
+      "zip_extension": "",
+      "primary_city": "City_33530",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33535",
+      "zip_extension": "",
+      "primary_city": "City_33535",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33540",
+      "zip_extension": "",
+      "primary_city": "City_33540",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33545",
+      "zip_extension": "",
+      "primary_city": "City_33545",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33550",
+      "zip_extension": "",
+      "primary_city": "City_33550",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33555",
+      "zip_extension": "",
+      "primary_city": "City_33555",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33560",
+      "zip_extension": "",
+      "primary_city": "City_33560",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33565",
+      "zip_extension": "",
+      "primary_city": "City_33565",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33570",
+      "zip_extension": "",
+      "primary_city": "City_33570",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33575",
+      "zip_extension": "",
+      "primary_city": "City_33575",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33580",
+      "zip_extension": "",
+      "primary_city": "City_33580",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33585",
+      "zip_extension": "",
+      "primary_city": "City_33585",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33590",
+      "zip_extension": "",
+      "primary_city": "City_33590",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33595",
+      "zip_extension": "",
+      "primary_city": "City_33595",
+      "acceptable_cities": "",
+      "county": "County_335",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33600",
+      "zip_extension": "",
+      "primary_city": "City_33600",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33605",
+      "zip_extension": "",
+      "primary_city": "City_33605",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33610",
+      "zip_extension": "",
+      "primary_city": "City_33610",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33615",
+      "zip_extension": "",
+      "primary_city": "City_33615",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33620",
+      "zip_extension": "",
+      "primary_city": "City_33620",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33625",
+      "zip_extension": "",
+      "primary_city": "City_33625",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33630",
+      "zip_extension": "",
+      "primary_city": "City_33630",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33635",
+      "zip_extension": "",
+      "primary_city": "City_33635",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33640",
+      "zip_extension": "",
+      "primary_city": "City_33640",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33645",
+      "zip_extension": "",
+      "primary_city": "City_33645",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33650",
+      "zip_extension": "",
+      "primary_city": "City_33650",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33655",
+      "zip_extension": "",
+      "primary_city": "City_33655",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33660",
+      "zip_extension": "",
+      "primary_city": "City_33660",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33665",
+      "zip_extension": "",
+      "primary_city": "City_33665",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33670",
+      "zip_extension": "",
+      "primary_city": "City_33670",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33675",
+      "zip_extension": "",
+      "primary_city": "City_33675",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33680",
+      "zip_extension": "",
+      "primary_city": "City_33680",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33685",
+      "zip_extension": "",
+      "primary_city": "City_33685",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33690",
+      "zip_extension": "",
+      "primary_city": "City_33690",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33695",
+      "zip_extension": "",
+      "primary_city": "City_33695",
+      "acceptable_cities": "",
+      "county": "County_336",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33700",
+      "zip_extension": "",
+      "primary_city": "City_33700",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33705",
+      "zip_extension": "",
+      "primary_city": "City_33705",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33710",
+      "zip_extension": "",
+      "primary_city": "City_33710",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33715",
+      "zip_extension": "",
+      "primary_city": "City_33715",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33720",
+      "zip_extension": "",
+      "primary_city": "City_33720",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33725",
+      "zip_extension": "",
+      "primary_city": "City_33725",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33730",
+      "zip_extension": "",
+      "primary_city": "City_33730",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33735",
+      "zip_extension": "",
+      "primary_city": "City_33735",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33740",
+      "zip_extension": "",
+      "primary_city": "City_33740",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33745",
+      "zip_extension": "",
+      "primary_city": "City_33745",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33750",
+      "zip_extension": "",
+      "primary_city": "City_33750",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33755",
+      "zip_extension": "",
+      "primary_city": "City_33755",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33760",
+      "zip_extension": "",
+      "primary_city": "City_33760",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33765",
+      "zip_extension": "",
+      "primary_city": "City_33765",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33770",
+      "zip_extension": "",
+      "primary_city": "City_33770",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33775",
+      "zip_extension": "",
+      "primary_city": "City_33775",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33780",
+      "zip_extension": "",
+      "primary_city": "City_33780",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33785",
+      "zip_extension": "",
+      "primary_city": "City_33785",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33790",
+      "zip_extension": "",
+      "primary_city": "City_33790",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33795",
+      "zip_extension": "",
+      "primary_city": "City_33795",
+      "acceptable_cities": "",
+      "county": "County_337",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33800",
+      "zip_extension": "",
+      "primary_city": "City_33800",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33805",
+      "zip_extension": "",
+      "primary_city": "City_33805",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33810",
+      "zip_extension": "",
+      "primary_city": "City_33810",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33815",
+      "zip_extension": "",
+      "primary_city": "City_33815",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33820",
+      "zip_extension": "",
+      "primary_city": "City_33820",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33825",
+      "zip_extension": "",
+      "primary_city": "City_33825",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33830",
+      "zip_extension": "",
+      "primary_city": "City_33830",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33835",
+      "zip_extension": "",
+      "primary_city": "City_33835",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33840",
+      "zip_extension": "",
+      "primary_city": "City_33840",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33845",
+      "zip_extension": "",
+      "primary_city": "City_33845",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33850",
+      "zip_extension": "",
+      "primary_city": "City_33850",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33855",
+      "zip_extension": "",
+      "primary_city": "City_33855",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33860",
+      "zip_extension": "",
+      "primary_city": "City_33860",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33865",
+      "zip_extension": "",
+      "primary_city": "City_33865",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33870",
+      "zip_extension": "",
+      "primary_city": "City_33870",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33875",
+      "zip_extension": "",
+      "primary_city": "City_33875",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33880",
+      "zip_extension": "",
+      "primary_city": "City_33880",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33885",
+      "zip_extension": "",
+      "primary_city": "City_33885",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33890",
+      "zip_extension": "",
+      "primary_city": "City_33890",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33895",
+      "zip_extension": "",
+      "primary_city": "City_33895",
+      "acceptable_cities": "",
+      "county": "County_338",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33900",
+      "zip_extension": "",
+      "primary_city": "City_33900",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33905",
+      "zip_extension": "",
+      "primary_city": "City_33905",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33910",
+      "zip_extension": "",
+      "primary_city": "City_33910",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33915",
+      "zip_extension": "",
+      "primary_city": "City_33915",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33920",
+      "zip_extension": "",
+      "primary_city": "City_33920",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33925",
+      "zip_extension": "",
+      "primary_city": "City_33925",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33930",
+      "zip_extension": "",
+      "primary_city": "City_33930",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33935",
+      "zip_extension": "",
+      "primary_city": "City_33935",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33940",
+      "zip_extension": "",
+      "primary_city": "City_33940",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33945",
+      "zip_extension": "",
+      "primary_city": "City_33945",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33950",
+      "zip_extension": "",
+      "primary_city": "City_33950",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33955",
+      "zip_extension": "",
+      "primary_city": "City_33955",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33960",
+      "zip_extension": "",
+      "primary_city": "City_33960",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33965",
+      "zip_extension": "",
+      "primary_city": "City_33965",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33970",
+      "zip_extension": "",
+      "primary_city": "City_33970",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33975",
+      "zip_extension": "",
+      "primary_city": "City_33975",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33980",
+      "zip_extension": "",
+      "primary_city": "City_33980",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33985",
+      "zip_extension": "",
+      "primary_city": "City_33985",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33990",
+      "zip_extension": "",
+      "primary_city": "City_33990",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "33995",
+      "zip_extension": "",
+      "primary_city": "City_33995",
+      "acceptable_cities": "",
+      "county": "County_339",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34000",
+      "zip_extension": "",
+      "primary_city": "City_34000",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34005",
+      "zip_extension": "",
+      "primary_city": "City_34005",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34010",
+      "zip_extension": "",
+      "primary_city": "City_34010",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34015",
+      "zip_extension": "",
+      "primary_city": "City_34015",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34020",
+      "zip_extension": "",
+      "primary_city": "City_34020",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34025",
+      "zip_extension": "",
+      "primary_city": "City_34025",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34030",
+      "zip_extension": "",
+      "primary_city": "City_34030",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34035",
+      "zip_extension": "",
+      "primary_city": "City_34035",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34040",
+      "zip_extension": "",
+      "primary_city": "City_34040",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34045",
+      "zip_extension": "",
+      "primary_city": "City_34045",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34050",
+      "zip_extension": "",
+      "primary_city": "City_34050",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34055",
+      "zip_extension": "",
+      "primary_city": "City_34055",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34060",
+      "zip_extension": "",
+      "primary_city": "City_34060",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34065",
+      "zip_extension": "",
+      "primary_city": "City_34065",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34070",
+      "zip_extension": "",
+      "primary_city": "City_34070",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34075",
+      "zip_extension": "",
+      "primary_city": "City_34075",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34080",
+      "zip_extension": "",
+      "primary_city": "City_34080",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34085",
+      "zip_extension": "",
+      "primary_city": "City_34085",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34090",
+      "zip_extension": "",
+      "primary_city": "City_34090",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34095",
+      "zip_extension": "",
+      "primary_city": "City_34095",
+      "acceptable_cities": "",
+      "county": "County_340",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34100",
+      "zip_extension": "",
+      "primary_city": "City_34100",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34105",
+      "zip_extension": "",
+      "primary_city": "City_34105",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34110",
+      "zip_extension": "",
+      "primary_city": "City_34110",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34115",
+      "zip_extension": "",
+      "primary_city": "City_34115",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34120",
+      "zip_extension": "",
+      "primary_city": "City_34120",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34125",
+      "zip_extension": "",
+      "primary_city": "City_34125",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34130",
+      "zip_extension": "",
+      "primary_city": "City_34130",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34135",
+      "zip_extension": "",
+      "primary_city": "City_34135",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34140",
+      "zip_extension": "",
+      "primary_city": "City_34140",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34145",
+      "zip_extension": "",
+      "primary_city": "City_34145",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34150",
+      "zip_extension": "",
+      "primary_city": "City_34150",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34155",
+      "zip_extension": "",
+      "primary_city": "City_34155",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34160",
+      "zip_extension": "",
+      "primary_city": "City_34160",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34165",
+      "zip_extension": "",
+      "primary_city": "City_34165",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34170",
+      "zip_extension": "",
+      "primary_city": "City_34170",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34175",
+      "zip_extension": "",
+      "primary_city": "City_34175",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34180",
+      "zip_extension": "",
+      "primary_city": "City_34180",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34185",
+      "zip_extension": "",
+      "primary_city": "City_34185",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34190",
+      "zip_extension": "",
+      "primary_city": "City_34190",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34195",
+      "zip_extension": "",
+      "primary_city": "City_34195",
+      "acceptable_cities": "",
+      "county": "County_341",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34200",
+      "zip_extension": "",
+      "primary_city": "City_34200",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34205",
+      "zip_extension": "",
+      "primary_city": "City_34205",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34210",
+      "zip_extension": "",
+      "primary_city": "City_34210",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34215",
+      "zip_extension": "",
+      "primary_city": "City_34215",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34220",
+      "zip_extension": "",
+      "primary_city": "City_34220",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34225",
+      "zip_extension": "",
+      "primary_city": "City_34225",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34230",
+      "zip_extension": "",
+      "primary_city": "City_34230",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34235",
+      "zip_extension": "",
+      "primary_city": "City_34235",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34240",
+      "zip_extension": "",
+      "primary_city": "City_34240",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34245",
+      "zip_extension": "",
+      "primary_city": "City_34245",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34250",
+      "zip_extension": "",
+      "primary_city": "City_34250",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34255",
+      "zip_extension": "",
+      "primary_city": "City_34255",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34260",
+      "zip_extension": "",
+      "primary_city": "City_34260",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34265",
+      "zip_extension": "",
+      "primary_city": "City_34265",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34270",
+      "zip_extension": "",
+      "primary_city": "City_34270",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34275",
+      "zip_extension": "",
+      "primary_city": "City_34275",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34280",
+      "zip_extension": "",
+      "primary_city": "City_34280",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34285",
+      "zip_extension": "",
+      "primary_city": "City_34285",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34290",
+      "zip_extension": "",
+      "primary_city": "City_34290",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34295",
+      "zip_extension": "",
+      "primary_city": "City_34295",
+      "acceptable_cities": "",
+      "county": "County_342",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34300",
+      "zip_extension": "",
+      "primary_city": "City_34300",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34305",
+      "zip_extension": "",
+      "primary_city": "City_34305",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34310",
+      "zip_extension": "",
+      "primary_city": "City_34310",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34315",
+      "zip_extension": "",
+      "primary_city": "City_34315",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34320",
+      "zip_extension": "",
+      "primary_city": "City_34320",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34325",
+      "zip_extension": "",
+      "primary_city": "City_34325",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34330",
+      "zip_extension": "",
+      "primary_city": "City_34330",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34335",
+      "zip_extension": "",
+      "primary_city": "City_34335",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34340",
+      "zip_extension": "",
+      "primary_city": "City_34340",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34345",
+      "zip_extension": "",
+      "primary_city": "City_34345",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34350",
+      "zip_extension": "",
+      "primary_city": "City_34350",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34355",
+      "zip_extension": "",
+      "primary_city": "City_34355",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34360",
+      "zip_extension": "",
+      "primary_city": "City_34360",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34365",
+      "zip_extension": "",
+      "primary_city": "City_34365",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34370",
+      "zip_extension": "",
+      "primary_city": "City_34370",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34375",
+      "zip_extension": "",
+      "primary_city": "City_34375",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34380",
+      "zip_extension": "",
+      "primary_city": "City_34380",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34385",
+      "zip_extension": "",
+      "primary_city": "City_34385",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34390",
+      "zip_extension": "",
+      "primary_city": "City_34390",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34395",
+      "zip_extension": "",
+      "primary_city": "City_34395",
+      "acceptable_cities": "",
+      "county": "County_343",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34400",
+      "zip_extension": "",
+      "primary_city": "City_34400",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34405",
+      "zip_extension": "",
+      "primary_city": "City_34405",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34410",
+      "zip_extension": "",
+      "primary_city": "City_34410",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34415",
+      "zip_extension": "",
+      "primary_city": "City_34415",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34420",
+      "zip_extension": "",
+      "primary_city": "City_34420",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34425",
+      "zip_extension": "",
+      "primary_city": "City_34425",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34430",
+      "zip_extension": "",
+      "primary_city": "City_34430",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34435",
+      "zip_extension": "",
+      "primary_city": "City_34435",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34440",
+      "zip_extension": "",
+      "primary_city": "City_34440",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34445",
+      "zip_extension": "",
+      "primary_city": "City_34445",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34450",
+      "zip_extension": "",
+      "primary_city": "City_34450",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34455",
+      "zip_extension": "",
+      "primary_city": "City_34455",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34460",
+      "zip_extension": "",
+      "primary_city": "City_34460",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34465",
+      "zip_extension": "",
+      "primary_city": "City_34465",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34470",
+      "zip_extension": "",
+      "primary_city": "City_34470",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34475",
+      "zip_extension": "",
+      "primary_city": "City_34475",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34480",
+      "zip_extension": "",
+      "primary_city": "City_34480",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34485",
+      "zip_extension": "",
+      "primary_city": "City_34485",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34490",
+      "zip_extension": "",
+      "primary_city": "City_34490",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34495",
+      "zip_extension": "",
+      "primary_city": "City_34495",
+      "acceptable_cities": "",
+      "county": "County_344",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34500",
+      "zip_extension": "",
+      "primary_city": "City_34500",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34505",
+      "zip_extension": "",
+      "primary_city": "City_34505",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34510",
+      "zip_extension": "",
+      "primary_city": "City_34510",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34515",
+      "zip_extension": "",
+      "primary_city": "City_34515",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34520",
+      "zip_extension": "",
+      "primary_city": "City_34520",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34525",
+      "zip_extension": "",
+      "primary_city": "City_34525",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34530",
+      "zip_extension": "",
+      "primary_city": "City_34530",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34535",
+      "zip_extension": "",
+      "primary_city": "City_34535",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34540",
+      "zip_extension": "",
+      "primary_city": "City_34540",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34545",
+      "zip_extension": "",
+      "primary_city": "City_34545",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34550",
+      "zip_extension": "",
+      "primary_city": "City_34550",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34555",
+      "zip_extension": "",
+      "primary_city": "City_34555",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34560",
+      "zip_extension": "",
+      "primary_city": "City_34560",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34565",
+      "zip_extension": "",
+      "primary_city": "City_34565",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34570",
+      "zip_extension": "",
+      "primary_city": "City_34570",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34575",
+      "zip_extension": "",
+      "primary_city": "City_34575",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34580",
+      "zip_extension": "",
+      "primary_city": "City_34580",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34585",
+      "zip_extension": "",
+      "primary_city": "City_34585",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34590",
+      "zip_extension": "",
+      "primary_city": "City_34590",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34595",
+      "zip_extension": "",
+      "primary_city": "City_34595",
+      "acceptable_cities": "",
+      "county": "County_345",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34600",
+      "zip_extension": "",
+      "primary_city": "City_34600",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34605",
+      "zip_extension": "",
+      "primary_city": "City_34605",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34610",
+      "zip_extension": "",
+      "primary_city": "City_34610",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34615",
+      "zip_extension": "",
+      "primary_city": "City_34615",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34620",
+      "zip_extension": "",
+      "primary_city": "City_34620",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34625",
+      "zip_extension": "",
+      "primary_city": "City_34625",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34630",
+      "zip_extension": "",
+      "primary_city": "City_34630",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34635",
+      "zip_extension": "",
+      "primary_city": "City_34635",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34640",
+      "zip_extension": "",
+      "primary_city": "City_34640",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34645",
+      "zip_extension": "",
+      "primary_city": "City_34645",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34650",
+      "zip_extension": "",
+      "primary_city": "City_34650",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34655",
+      "zip_extension": "",
+      "primary_city": "City_34655",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34660",
+      "zip_extension": "",
+      "primary_city": "City_34660",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34665",
+      "zip_extension": "",
+      "primary_city": "City_34665",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34670",
+      "zip_extension": "",
+      "primary_city": "City_34670",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34675",
+      "zip_extension": "",
+      "primary_city": "City_34675",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34680",
+      "zip_extension": "",
+      "primary_city": "City_34680",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34685",
+      "zip_extension": "",
+      "primary_city": "City_34685",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34690",
+      "zip_extension": "",
+      "primary_city": "City_34690",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34695",
+      "zip_extension": "",
+      "primary_city": "City_34695",
+      "acceptable_cities": "",
+      "county": "County_346",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34700",
+      "zip_extension": "",
+      "primary_city": "City_34700",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34705",
+      "zip_extension": "",
+      "primary_city": "City_34705",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34710",
+      "zip_extension": "",
+      "primary_city": "City_34710",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34715",
+      "zip_extension": "",
+      "primary_city": "City_34715",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34720",
+      "zip_extension": "",
+      "primary_city": "City_34720",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34725",
+      "zip_extension": "",
+      "primary_city": "City_34725",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34730",
+      "zip_extension": "",
+      "primary_city": "City_34730",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34735",
+      "zip_extension": "",
+      "primary_city": "City_34735",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34740",
+      "zip_extension": "",
+      "primary_city": "City_34740",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34745",
+      "zip_extension": "",
+      "primary_city": "City_34745",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34750",
+      "zip_extension": "",
+      "primary_city": "City_34750",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34755",
+      "zip_extension": "",
+      "primary_city": "City_34755",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34760",
+      "zip_extension": "",
+      "primary_city": "City_34760",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34765",
+      "zip_extension": "",
+      "primary_city": "City_34765",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34770",
+      "zip_extension": "",
+      "primary_city": "City_34770",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34775",
+      "zip_extension": "",
+      "primary_city": "City_34775",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34780",
+      "zip_extension": "",
+      "primary_city": "City_34780",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34785",
+      "zip_extension": "",
+      "primary_city": "City_34785",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34790",
+      "zip_extension": "",
+      "primary_city": "City_34790",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34795",
+      "zip_extension": "",
+      "primary_city": "City_34795",
+      "acceptable_cities": "",
+      "county": "County_347",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34800",
+      "zip_extension": "",
+      "primary_city": "City_34800",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34805",
+      "zip_extension": "",
+      "primary_city": "City_34805",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34810",
+      "zip_extension": "",
+      "primary_city": "City_34810",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34815",
+      "zip_extension": "",
+      "primary_city": "City_34815",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34820",
+      "zip_extension": "",
+      "primary_city": "City_34820",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34825",
+      "zip_extension": "",
+      "primary_city": "City_34825",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34830",
+      "zip_extension": "",
+      "primary_city": "City_34830",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34835",
+      "zip_extension": "",
+      "primary_city": "City_34835",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34840",
+      "zip_extension": "",
+      "primary_city": "City_34840",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34845",
+      "zip_extension": "",
+      "primary_city": "City_34845",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34850",
+      "zip_extension": "",
+      "primary_city": "City_34850",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34855",
+      "zip_extension": "",
+      "primary_city": "City_34855",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34860",
+      "zip_extension": "",
+      "primary_city": "City_34860",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34865",
+      "zip_extension": "",
+      "primary_city": "City_34865",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34870",
+      "zip_extension": "",
+      "primary_city": "City_34870",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34875",
+      "zip_extension": "",
+      "primary_city": "City_34875",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34880",
+      "zip_extension": "",
+      "primary_city": "City_34880",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34885",
+      "zip_extension": "",
+      "primary_city": "City_34885",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34890",
+      "zip_extension": "",
+      "primary_city": "City_34890",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34895",
+      "zip_extension": "",
+      "primary_city": "City_34895",
+      "acceptable_cities": "",
+      "county": "County_348",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34900",
+      "zip_extension": "",
+      "primary_city": "City_34900",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34905",
+      "zip_extension": "",
+      "primary_city": "City_34905",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34910",
+      "zip_extension": "",
+      "primary_city": "City_34910",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34915",
+      "zip_extension": "",
+      "primary_city": "City_34915",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34920",
+      "zip_extension": "",
+      "primary_city": "City_34920",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34925",
+      "zip_extension": "",
+      "primary_city": "City_34925",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34930",
+      "zip_extension": "",
+      "primary_city": "City_34930",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34935",
+      "zip_extension": "",
+      "primary_city": "City_34935",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34940",
+      "zip_extension": "",
+      "primary_city": "City_34940",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34945",
+      "zip_extension": "",
+      "primary_city": "City_34945",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34950",
+      "zip_extension": "",
+      "primary_city": "City_34950",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34955",
+      "zip_extension": "",
+      "primary_city": "City_34955",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34960",
+      "zip_extension": "",
+      "primary_city": "City_34960",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34965",
+      "zip_extension": "",
+      "primary_city": "City_34965",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34970",
+      "zip_extension": "",
+      "primary_city": "City_34970",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34975",
+      "zip_extension": "",
+      "primary_city": "City_34975",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34980",
+      "zip_extension": "",
+      "primary_city": "City_34980",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34985",
+      "zip_extension": "",
+      "primary_city": "City_34985",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34990",
+      "zip_extension": "",
+      "primary_city": "City_34990",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "34995",
+      "zip_extension": "",
+      "primary_city": "City_34995",
+      "acceptable_cities": "",
+      "county": "County_349",
+      "state": "Florida",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

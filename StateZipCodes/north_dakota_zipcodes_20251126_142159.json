@@ -1,0 +1,2007 @@
+{
+  "state": "North Dakota",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 200,
+  "zipcodes": [
+    {
+      "zip_code": "58000",
+      "zip_extension": "",
+      "primary_city": "City_58000",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58005",
+      "zip_extension": "",
+      "primary_city": "City_58005",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58010",
+      "zip_extension": "",
+      "primary_city": "City_58010",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58015",
+      "zip_extension": "",
+      "primary_city": "City_58015",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58020",
+      "zip_extension": "",
+      "primary_city": "City_58020",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58025",
+      "zip_extension": "",
+      "primary_city": "City_58025",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58030",
+      "zip_extension": "",
+      "primary_city": "City_58030",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58035",
+      "zip_extension": "",
+      "primary_city": "City_58035",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58040",
+      "zip_extension": "",
+      "primary_city": "City_58040",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58045",
+      "zip_extension": "",
+      "primary_city": "City_58045",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58050",
+      "zip_extension": "",
+      "primary_city": "City_58050",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58055",
+      "zip_extension": "",
+      "primary_city": "City_58055",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58060",
+      "zip_extension": "",
+      "primary_city": "City_58060",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58065",
+      "zip_extension": "",
+      "primary_city": "City_58065",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58070",
+      "zip_extension": "",
+      "primary_city": "City_58070",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58075",
+      "zip_extension": "",
+      "primary_city": "City_58075",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58080",
+      "zip_extension": "",
+      "primary_city": "City_58080",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58085",
+      "zip_extension": "",
+      "primary_city": "City_58085",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58090",
+      "zip_extension": "",
+      "primary_city": "City_58090",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58095",
+      "zip_extension": "",
+      "primary_city": "City_58095",
+      "acceptable_cities": "",
+      "county": "County_580",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58100",
+      "zip_extension": "",
+      "primary_city": "City_58100",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58105",
+      "zip_extension": "",
+      "primary_city": "City_58105",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58110",
+      "zip_extension": "",
+      "primary_city": "City_58110",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58115",
+      "zip_extension": "",
+      "primary_city": "City_58115",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58120",
+      "zip_extension": "",
+      "primary_city": "City_58120",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58125",
+      "zip_extension": "",
+      "primary_city": "City_58125",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58130",
+      "zip_extension": "",
+      "primary_city": "City_58130",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58135",
+      "zip_extension": "",
+      "primary_city": "City_58135",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58140",
+      "zip_extension": "",
+      "primary_city": "City_58140",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58145",
+      "zip_extension": "",
+      "primary_city": "City_58145",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58150",
+      "zip_extension": "",
+      "primary_city": "City_58150",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58155",
+      "zip_extension": "",
+      "primary_city": "City_58155",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58160",
+      "zip_extension": "",
+      "primary_city": "City_58160",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58165",
+      "zip_extension": "",
+      "primary_city": "City_58165",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58170",
+      "zip_extension": "",
+      "primary_city": "City_58170",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58175",
+      "zip_extension": "",
+      "primary_city": "City_58175",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58180",
+      "zip_extension": "",
+      "primary_city": "City_58180",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58185",
+      "zip_extension": "",
+      "primary_city": "City_58185",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58190",
+      "zip_extension": "",
+      "primary_city": "City_58190",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58195",
+      "zip_extension": "",
+      "primary_city": "City_58195",
+      "acceptable_cities": "",
+      "county": "County_581",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58200",
+      "zip_extension": "",
+      "primary_city": "City_58200",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58205",
+      "zip_extension": "",
+      "primary_city": "City_58205",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58210",
+      "zip_extension": "",
+      "primary_city": "City_58210",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58215",
+      "zip_extension": "",
+      "primary_city": "City_58215",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58220",
+      "zip_extension": "",
+      "primary_city": "City_58220",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58225",
+      "zip_extension": "",
+      "primary_city": "City_58225",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58230",
+      "zip_extension": "",
+      "primary_city": "City_58230",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58235",
+      "zip_extension": "",
+      "primary_city": "City_58235",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58240",
+      "zip_extension": "",
+      "primary_city": "City_58240",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58245",
+      "zip_extension": "",
+      "primary_city": "City_58245",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58250",
+      "zip_extension": "",
+      "primary_city": "City_58250",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58255",
+      "zip_extension": "",
+      "primary_city": "City_58255",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58260",
+      "zip_extension": "",
+      "primary_city": "City_58260",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58265",
+      "zip_extension": "",
+      "primary_city": "City_58265",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58270",
+      "zip_extension": "",
+      "primary_city": "City_58270",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58275",
+      "zip_extension": "",
+      "primary_city": "City_58275",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58280",
+      "zip_extension": "",
+      "primary_city": "City_58280",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58285",
+      "zip_extension": "",
+      "primary_city": "City_58285",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58290",
+      "zip_extension": "",
+      "primary_city": "City_58290",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58295",
+      "zip_extension": "",
+      "primary_city": "City_58295",
+      "acceptable_cities": "",
+      "county": "County_582",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58300",
+      "zip_extension": "",
+      "primary_city": "City_58300",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58305",
+      "zip_extension": "",
+      "primary_city": "City_58305",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58310",
+      "zip_extension": "",
+      "primary_city": "City_58310",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58315",
+      "zip_extension": "",
+      "primary_city": "City_58315",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58320",
+      "zip_extension": "",
+      "primary_city": "City_58320",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58325",
+      "zip_extension": "",
+      "primary_city": "City_58325",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58330",
+      "zip_extension": "",
+      "primary_city": "City_58330",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58335",
+      "zip_extension": "",
+      "primary_city": "City_58335",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58340",
+      "zip_extension": "",
+      "primary_city": "City_58340",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58345",
+      "zip_extension": "",
+      "primary_city": "City_58345",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58350",
+      "zip_extension": "",
+      "primary_city": "City_58350",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58355",
+      "zip_extension": "",
+      "primary_city": "City_58355",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58360",
+      "zip_extension": "",
+      "primary_city": "City_58360",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58365",
+      "zip_extension": "",
+      "primary_city": "City_58365",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58370",
+      "zip_extension": "",
+      "primary_city": "City_58370",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58375",
+      "zip_extension": "",
+      "primary_city": "City_58375",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58380",
+      "zip_extension": "",
+      "primary_city": "City_58380",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58385",
+      "zip_extension": "",
+      "primary_city": "City_58385",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58390",
+      "zip_extension": "",
+      "primary_city": "City_58390",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58395",
+      "zip_extension": "",
+      "primary_city": "City_58395",
+      "acceptable_cities": "",
+      "county": "County_583",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58400",
+      "zip_extension": "",
+      "primary_city": "City_58400",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58405",
+      "zip_extension": "",
+      "primary_city": "City_58405",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58410",
+      "zip_extension": "",
+      "primary_city": "City_58410",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58415",
+      "zip_extension": "",
+      "primary_city": "City_58415",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58420",
+      "zip_extension": "",
+      "primary_city": "City_58420",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58425",
+      "zip_extension": "",
+      "primary_city": "City_58425",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58430",
+      "zip_extension": "",
+      "primary_city": "City_58430",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58435",
+      "zip_extension": "",
+      "primary_city": "City_58435",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58440",
+      "zip_extension": "",
+      "primary_city": "City_58440",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58445",
+      "zip_extension": "",
+      "primary_city": "City_58445",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58450",
+      "zip_extension": "",
+      "primary_city": "City_58450",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58455",
+      "zip_extension": "",
+      "primary_city": "City_58455",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58460",
+      "zip_extension": "",
+      "primary_city": "City_58460",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58465",
+      "zip_extension": "",
+      "primary_city": "City_58465",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58470",
+      "zip_extension": "",
+      "primary_city": "City_58470",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58475",
+      "zip_extension": "",
+      "primary_city": "City_58475",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58480",
+      "zip_extension": "",
+      "primary_city": "City_58480",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58485",
+      "zip_extension": "",
+      "primary_city": "City_58485",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58490",
+      "zip_extension": "",
+      "primary_city": "City_58490",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58495",
+      "zip_extension": "",
+      "primary_city": "City_58495",
+      "acceptable_cities": "",
+      "county": "County_584",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58500",
+      "zip_extension": "",
+      "primary_city": "City_58500",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58505",
+      "zip_extension": "",
+      "primary_city": "City_58505",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58510",
+      "zip_extension": "",
+      "primary_city": "City_58510",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58515",
+      "zip_extension": "",
+      "primary_city": "City_58515",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58520",
+      "zip_extension": "",
+      "primary_city": "City_58520",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58525",
+      "zip_extension": "",
+      "primary_city": "City_58525",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58530",
+      "zip_extension": "",
+      "primary_city": "City_58530",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58535",
+      "zip_extension": "",
+      "primary_city": "City_58535",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58540",
+      "zip_extension": "",
+      "primary_city": "City_58540",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58545",
+      "zip_extension": "",
+      "primary_city": "City_58545",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58550",
+      "zip_extension": "",
+      "primary_city": "City_58550",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58555",
+      "zip_extension": "",
+      "primary_city": "City_58555",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58560",
+      "zip_extension": "",
+      "primary_city": "City_58560",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58565",
+      "zip_extension": "",
+      "primary_city": "City_58565",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58570",
+      "zip_extension": "",
+      "primary_city": "City_58570",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58575",
+      "zip_extension": "",
+      "primary_city": "City_58575",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58580",
+      "zip_extension": "",
+      "primary_city": "City_58580",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58585",
+      "zip_extension": "",
+      "primary_city": "City_58585",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58590",
+      "zip_extension": "",
+      "primary_city": "City_58590",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58595",
+      "zip_extension": "",
+      "primary_city": "City_58595",
+      "acceptable_cities": "",
+      "county": "County_585",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58600",
+      "zip_extension": "",
+      "primary_city": "City_58600",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58605",
+      "zip_extension": "",
+      "primary_city": "City_58605",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58610",
+      "zip_extension": "",
+      "primary_city": "City_58610",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58615",
+      "zip_extension": "",
+      "primary_city": "City_58615",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58620",
+      "zip_extension": "",
+      "primary_city": "City_58620",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58625",
+      "zip_extension": "",
+      "primary_city": "City_58625",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58630",
+      "zip_extension": "",
+      "primary_city": "City_58630",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58635",
+      "zip_extension": "",
+      "primary_city": "City_58635",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58640",
+      "zip_extension": "",
+      "primary_city": "City_58640",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58645",
+      "zip_extension": "",
+      "primary_city": "City_58645",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58650",
+      "zip_extension": "",
+      "primary_city": "City_58650",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58655",
+      "zip_extension": "",
+      "primary_city": "City_58655",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58660",
+      "zip_extension": "",
+      "primary_city": "City_58660",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58665",
+      "zip_extension": "",
+      "primary_city": "City_58665",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58670",
+      "zip_extension": "",
+      "primary_city": "City_58670",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58675",
+      "zip_extension": "",
+      "primary_city": "City_58675",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58680",
+      "zip_extension": "",
+      "primary_city": "City_58680",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58685",
+      "zip_extension": "",
+      "primary_city": "City_58685",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58690",
+      "zip_extension": "",
+      "primary_city": "City_58690",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58695",
+      "zip_extension": "",
+      "primary_city": "City_58695",
+      "acceptable_cities": "",
+      "county": "County_586",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58700",
+      "zip_extension": "",
+      "primary_city": "City_58700",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58705",
+      "zip_extension": "",
+      "primary_city": "City_58705",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58710",
+      "zip_extension": "",
+      "primary_city": "City_58710",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58715",
+      "zip_extension": "",
+      "primary_city": "City_58715",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58720",
+      "zip_extension": "",
+      "primary_city": "City_58720",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58725",
+      "zip_extension": "",
+      "primary_city": "City_58725",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58730",
+      "zip_extension": "",
+      "primary_city": "City_58730",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58735",
+      "zip_extension": "",
+      "primary_city": "City_58735",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58740",
+      "zip_extension": "",
+      "primary_city": "City_58740",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58745",
+      "zip_extension": "",
+      "primary_city": "City_58745",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58750",
+      "zip_extension": "",
+      "primary_city": "City_58750",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58755",
+      "zip_extension": "",
+      "primary_city": "City_58755",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58760",
+      "zip_extension": "",
+      "primary_city": "City_58760",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58765",
+      "zip_extension": "",
+      "primary_city": "City_58765",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58770",
+      "zip_extension": "",
+      "primary_city": "City_58770",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58775",
+      "zip_extension": "",
+      "primary_city": "City_58775",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58780",
+      "zip_extension": "",
+      "primary_city": "City_58780",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58785",
+      "zip_extension": "",
+      "primary_city": "City_58785",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58790",
+      "zip_extension": "",
+      "primary_city": "City_58790",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58795",
+      "zip_extension": "",
+      "primary_city": "City_58795",
+      "acceptable_cities": "",
+      "county": "County_587",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58800",
+      "zip_extension": "",
+      "primary_city": "City_58800",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58805",
+      "zip_extension": "",
+      "primary_city": "City_58805",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58810",
+      "zip_extension": "",
+      "primary_city": "City_58810",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58815",
+      "zip_extension": "",
+      "primary_city": "City_58815",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58820",
+      "zip_extension": "",
+      "primary_city": "City_58820",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58825",
+      "zip_extension": "",
+      "primary_city": "City_58825",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58830",
+      "zip_extension": "",
+      "primary_city": "City_58830",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58835",
+      "zip_extension": "",
+      "primary_city": "City_58835",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58840",
+      "zip_extension": "",
+      "primary_city": "City_58840",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58845",
+      "zip_extension": "",
+      "primary_city": "City_58845",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58850",
+      "zip_extension": "",
+      "primary_city": "City_58850",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58855",
+      "zip_extension": "",
+      "primary_city": "City_58855",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58860",
+      "zip_extension": "",
+      "primary_city": "City_58860",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58865",
+      "zip_extension": "",
+      "primary_city": "City_58865",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58870",
+      "zip_extension": "",
+      "primary_city": "City_58870",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58875",
+      "zip_extension": "",
+      "primary_city": "City_58875",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58880",
+      "zip_extension": "",
+      "primary_city": "City_58880",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58885",
+      "zip_extension": "",
+      "primary_city": "City_58885",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58890",
+      "zip_extension": "",
+      "primary_city": "City_58890",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58895",
+      "zip_extension": "",
+      "primary_city": "City_58895",
+      "acceptable_cities": "",
+      "county": "County_588",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58900",
+      "zip_extension": "",
+      "primary_city": "City_58900",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58905",
+      "zip_extension": "",
+      "primary_city": "City_58905",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58910",
+      "zip_extension": "",
+      "primary_city": "City_58910",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58915",
+      "zip_extension": "",
+      "primary_city": "City_58915",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58920",
+      "zip_extension": "",
+      "primary_city": "City_58920",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58925",
+      "zip_extension": "",
+      "primary_city": "City_58925",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58930",
+      "zip_extension": "",
+      "primary_city": "City_58930",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58935",
+      "zip_extension": "",
+      "primary_city": "City_58935",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58940",
+      "zip_extension": "",
+      "primary_city": "City_58940",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58945",
+      "zip_extension": "",
+      "primary_city": "City_58945",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58950",
+      "zip_extension": "",
+      "primary_city": "City_58950",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58955",
+      "zip_extension": "",
+      "primary_city": "City_58955",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58960",
+      "zip_extension": "",
+      "primary_city": "City_58960",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58965",
+      "zip_extension": "",
+      "primary_city": "City_58965",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58970",
+      "zip_extension": "",
+      "primary_city": "City_58970",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58975",
+      "zip_extension": "",
+      "primary_city": "City_58975",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58980",
+      "zip_extension": "",
+      "primary_city": "City_58980",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58985",
+      "zip_extension": "",
+      "primary_city": "City_58985",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58990",
+      "zip_extension": "",
+      "primary_city": "City_58990",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "58995",
+      "zip_extension": "",
+      "primary_city": "City_58995",
+      "acceptable_cities": "",
+      "county": "County_589",
+      "state": "North Dakota",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

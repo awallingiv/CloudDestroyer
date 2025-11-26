@@ -1,0 +1,2407 @@
+{
+  "state": "Wyoming",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 240,
+  "zipcodes": [
+    {
+      "zip_code": "82000",
+      "zip_extension": "",
+      "primary_city": "City_82000",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82005",
+      "zip_extension": "",
+      "primary_city": "City_82005",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82010",
+      "zip_extension": "",
+      "primary_city": "City_82010",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82015",
+      "zip_extension": "",
+      "primary_city": "City_82015",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82020",
+      "zip_extension": "",
+      "primary_city": "City_82020",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82025",
+      "zip_extension": "",
+      "primary_city": "City_82025",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82030",
+      "zip_extension": "",
+      "primary_city": "City_82030",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82035",
+      "zip_extension": "",
+      "primary_city": "City_82035",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82040",
+      "zip_extension": "",
+      "primary_city": "City_82040",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82045",
+      "zip_extension": "",
+      "primary_city": "City_82045",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82050",
+      "zip_extension": "",
+      "primary_city": "City_82050",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82055",
+      "zip_extension": "",
+      "primary_city": "City_82055",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82060",
+      "zip_extension": "",
+      "primary_city": "City_82060",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82065",
+      "zip_extension": "",
+      "primary_city": "City_82065",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82070",
+      "zip_extension": "",
+      "primary_city": "City_82070",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82075",
+      "zip_extension": "",
+      "primary_city": "City_82075",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82080",
+      "zip_extension": "",
+      "primary_city": "City_82080",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82085",
+      "zip_extension": "",
+      "primary_city": "City_82085",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82090",
+      "zip_extension": "",
+      "primary_city": "City_82090",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82095",
+      "zip_extension": "",
+      "primary_city": "City_82095",
+      "acceptable_cities": "",
+      "county": "County_820",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82100",
+      "zip_extension": "",
+      "primary_city": "City_82100",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82105",
+      "zip_extension": "",
+      "primary_city": "City_82105",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82110",
+      "zip_extension": "",
+      "primary_city": "City_82110",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82115",
+      "zip_extension": "",
+      "primary_city": "City_82115",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82120",
+      "zip_extension": "",
+      "primary_city": "City_82120",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82125",
+      "zip_extension": "",
+      "primary_city": "City_82125",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82130",
+      "zip_extension": "",
+      "primary_city": "City_82130",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82135",
+      "zip_extension": "",
+      "primary_city": "City_82135",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82140",
+      "zip_extension": "",
+      "primary_city": "City_82140",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82145",
+      "zip_extension": "",
+      "primary_city": "City_82145",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82150",
+      "zip_extension": "",
+      "primary_city": "City_82150",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82155",
+      "zip_extension": "",
+      "primary_city": "City_82155",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82160",
+      "zip_extension": "",
+      "primary_city": "City_82160",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82165",
+      "zip_extension": "",
+      "primary_city": "City_82165",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82170",
+      "zip_extension": "",
+      "primary_city": "City_82170",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82175",
+      "zip_extension": "",
+      "primary_city": "City_82175",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82180",
+      "zip_extension": "",
+      "primary_city": "City_82180",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82185",
+      "zip_extension": "",
+      "primary_city": "City_82185",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82190",
+      "zip_extension": "",
+      "primary_city": "City_82190",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82195",
+      "zip_extension": "",
+      "primary_city": "City_82195",
+      "acceptable_cities": "",
+      "county": "County_821",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82200",
+      "zip_extension": "",
+      "primary_city": "City_82200",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82205",
+      "zip_extension": "",
+      "primary_city": "City_82205",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82210",
+      "zip_extension": "",
+      "primary_city": "City_82210",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82215",
+      "zip_extension": "",
+      "primary_city": "City_82215",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82220",
+      "zip_extension": "",
+      "primary_city": "City_82220",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82225",
+      "zip_extension": "",
+      "primary_city": "City_82225",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82230",
+      "zip_extension": "",
+      "primary_city": "City_82230",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82235",
+      "zip_extension": "",
+      "primary_city": "City_82235",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82240",
+      "zip_extension": "",
+      "primary_city": "City_82240",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82245",
+      "zip_extension": "",
+      "primary_city": "City_82245",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82250",
+      "zip_extension": "",
+      "primary_city": "City_82250",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82255",
+      "zip_extension": "",
+      "primary_city": "City_82255",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82260",
+      "zip_extension": "",
+      "primary_city": "City_82260",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82265",
+      "zip_extension": "",
+      "primary_city": "City_82265",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82270",
+      "zip_extension": "",
+      "primary_city": "City_82270",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82275",
+      "zip_extension": "",
+      "primary_city": "City_82275",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82280",
+      "zip_extension": "",
+      "primary_city": "City_82280",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82285",
+      "zip_extension": "",
+      "primary_city": "City_82285",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82290",
+      "zip_extension": "",
+      "primary_city": "City_82290",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82295",
+      "zip_extension": "",
+      "primary_city": "City_82295",
+      "acceptable_cities": "",
+      "county": "County_822",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82300",
+      "zip_extension": "",
+      "primary_city": "City_82300",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82305",
+      "zip_extension": "",
+      "primary_city": "City_82305",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82310",
+      "zip_extension": "",
+      "primary_city": "City_82310",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82315",
+      "zip_extension": "",
+      "primary_city": "City_82315",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82320",
+      "zip_extension": "",
+      "primary_city": "City_82320",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82325",
+      "zip_extension": "",
+      "primary_city": "City_82325",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82330",
+      "zip_extension": "",
+      "primary_city": "City_82330",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82335",
+      "zip_extension": "",
+      "primary_city": "City_82335",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82340",
+      "zip_extension": "",
+      "primary_city": "City_82340",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82345",
+      "zip_extension": "",
+      "primary_city": "City_82345",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82350",
+      "zip_extension": "",
+      "primary_city": "City_82350",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82355",
+      "zip_extension": "",
+      "primary_city": "City_82355",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82360",
+      "zip_extension": "",
+      "primary_city": "City_82360",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82365",
+      "zip_extension": "",
+      "primary_city": "City_82365",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82370",
+      "zip_extension": "",
+      "primary_city": "City_82370",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82375",
+      "zip_extension": "",
+      "primary_city": "City_82375",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82380",
+      "zip_extension": "",
+      "primary_city": "City_82380",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82385",
+      "zip_extension": "",
+      "primary_city": "City_82385",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82390",
+      "zip_extension": "",
+      "primary_city": "City_82390",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82395",
+      "zip_extension": "",
+      "primary_city": "City_82395",
+      "acceptable_cities": "",
+      "county": "County_823",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82400",
+      "zip_extension": "",
+      "primary_city": "City_82400",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82405",
+      "zip_extension": "",
+      "primary_city": "City_82405",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82410",
+      "zip_extension": "",
+      "primary_city": "City_82410",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82415",
+      "zip_extension": "",
+      "primary_city": "City_82415",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82420",
+      "zip_extension": "",
+      "primary_city": "City_82420",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82425",
+      "zip_extension": "",
+      "primary_city": "City_82425",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82430",
+      "zip_extension": "",
+      "primary_city": "City_82430",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82435",
+      "zip_extension": "",
+      "primary_city": "City_82435",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82440",
+      "zip_extension": "",
+      "primary_city": "City_82440",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82445",
+      "zip_extension": "",
+      "primary_city": "City_82445",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82450",
+      "zip_extension": "",
+      "primary_city": "City_82450",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82455",
+      "zip_extension": "",
+      "primary_city": "City_82455",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82460",
+      "zip_extension": "",
+      "primary_city": "City_82460",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82465",
+      "zip_extension": "",
+      "primary_city": "City_82465",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82470",
+      "zip_extension": "",
+      "primary_city": "City_82470",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82475",
+      "zip_extension": "",
+      "primary_city": "City_82475",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82480",
+      "zip_extension": "",
+      "primary_city": "City_82480",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82485",
+      "zip_extension": "",
+      "primary_city": "City_82485",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82490",
+      "zip_extension": "",
+      "primary_city": "City_82490",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82495",
+      "zip_extension": "",
+      "primary_city": "City_82495",
+      "acceptable_cities": "",
+      "county": "County_824",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82500",
+      "zip_extension": "",
+      "primary_city": "City_82500",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82505",
+      "zip_extension": "",
+      "primary_city": "City_82505",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82510",
+      "zip_extension": "",
+      "primary_city": "City_82510",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82515",
+      "zip_extension": "",
+      "primary_city": "City_82515",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82520",
+      "zip_extension": "",
+      "primary_city": "City_82520",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82525",
+      "zip_extension": "",
+      "primary_city": "City_82525",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82530",
+      "zip_extension": "",
+      "primary_city": "City_82530",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82535",
+      "zip_extension": "",
+      "primary_city": "City_82535",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82540",
+      "zip_extension": "",
+      "primary_city": "City_82540",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82545",
+      "zip_extension": "",
+      "primary_city": "City_82545",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82550",
+      "zip_extension": "",
+      "primary_city": "City_82550",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82555",
+      "zip_extension": "",
+      "primary_city": "City_82555",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82560",
+      "zip_extension": "",
+      "primary_city": "City_82560",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82565",
+      "zip_extension": "",
+      "primary_city": "City_82565",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82570",
+      "zip_extension": "",
+      "primary_city": "City_82570",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82575",
+      "zip_extension": "",
+      "primary_city": "City_82575",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82580",
+      "zip_extension": "",
+      "primary_city": "City_82580",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82585",
+      "zip_extension": "",
+      "primary_city": "City_82585",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82590",
+      "zip_extension": "",
+      "primary_city": "City_82590",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82595",
+      "zip_extension": "",
+      "primary_city": "City_82595",
+      "acceptable_cities": "",
+      "county": "County_825",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82600",
+      "zip_extension": "",
+      "primary_city": "City_82600",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82605",
+      "zip_extension": "",
+      "primary_city": "City_82605",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82610",
+      "zip_extension": "",
+      "primary_city": "City_82610",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82615",
+      "zip_extension": "",
+      "primary_city": "City_82615",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82620",
+      "zip_extension": "",
+      "primary_city": "City_82620",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82625",
+      "zip_extension": "",
+      "primary_city": "City_82625",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82630",
+      "zip_extension": "",
+      "primary_city": "City_82630",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82635",
+      "zip_extension": "",
+      "primary_city": "City_82635",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82640",
+      "zip_extension": "",
+      "primary_city": "City_82640",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82645",
+      "zip_extension": "",
+      "primary_city": "City_82645",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82650",
+      "zip_extension": "",
+      "primary_city": "City_82650",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82655",
+      "zip_extension": "",
+      "primary_city": "City_82655",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82660",
+      "zip_extension": "",
+      "primary_city": "City_82660",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82665",
+      "zip_extension": "",
+      "primary_city": "City_82665",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82670",
+      "zip_extension": "",
+      "primary_city": "City_82670",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82675",
+      "zip_extension": "",
+      "primary_city": "City_82675",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82680",
+      "zip_extension": "",
+      "primary_city": "City_82680",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82685",
+      "zip_extension": "",
+      "primary_city": "City_82685",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82690",
+      "zip_extension": "",
+      "primary_city": "City_82690",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82695",
+      "zip_extension": "",
+      "primary_city": "City_82695",
+      "acceptable_cities": "",
+      "county": "County_826",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82700",
+      "zip_extension": "",
+      "primary_city": "City_82700",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82705",
+      "zip_extension": "",
+      "primary_city": "City_82705",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82710",
+      "zip_extension": "",
+      "primary_city": "City_82710",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82715",
+      "zip_extension": "",
+      "primary_city": "City_82715",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82720",
+      "zip_extension": "",
+      "primary_city": "City_82720",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82725",
+      "zip_extension": "",
+      "primary_city": "City_82725",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82730",
+      "zip_extension": "",
+      "primary_city": "City_82730",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82735",
+      "zip_extension": "",
+      "primary_city": "City_82735",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82740",
+      "zip_extension": "",
+      "primary_city": "City_82740",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82745",
+      "zip_extension": "",
+      "primary_city": "City_82745",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82750",
+      "zip_extension": "",
+      "primary_city": "City_82750",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82755",
+      "zip_extension": "",
+      "primary_city": "City_82755",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82760",
+      "zip_extension": "",
+      "primary_city": "City_82760",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82765",
+      "zip_extension": "",
+      "primary_city": "City_82765",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82770",
+      "zip_extension": "",
+      "primary_city": "City_82770",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82775",
+      "zip_extension": "",
+      "primary_city": "City_82775",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82780",
+      "zip_extension": "",
+      "primary_city": "City_82780",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82785",
+      "zip_extension": "",
+      "primary_city": "City_82785",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82790",
+      "zip_extension": "",
+      "primary_city": "City_82790",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82795",
+      "zip_extension": "",
+      "primary_city": "City_82795",
+      "acceptable_cities": "",
+      "county": "County_827",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82800",
+      "zip_extension": "",
+      "primary_city": "City_82800",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82805",
+      "zip_extension": "",
+      "primary_city": "City_82805",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82810",
+      "zip_extension": "",
+      "primary_city": "City_82810",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82815",
+      "zip_extension": "",
+      "primary_city": "City_82815",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82820",
+      "zip_extension": "",
+      "primary_city": "City_82820",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82825",
+      "zip_extension": "",
+      "primary_city": "City_82825",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82830",
+      "zip_extension": "",
+      "primary_city": "City_82830",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82835",
+      "zip_extension": "",
+      "primary_city": "City_82835",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82840",
+      "zip_extension": "",
+      "primary_city": "City_82840",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82845",
+      "zip_extension": "",
+      "primary_city": "City_82845",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82850",
+      "zip_extension": "",
+      "primary_city": "City_82850",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82855",
+      "zip_extension": "",
+      "primary_city": "City_82855",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82860",
+      "zip_extension": "",
+      "primary_city": "City_82860",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82865",
+      "zip_extension": "",
+      "primary_city": "City_82865",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82870",
+      "zip_extension": "",
+      "primary_city": "City_82870",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82875",
+      "zip_extension": "",
+      "primary_city": "City_82875",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82880",
+      "zip_extension": "",
+      "primary_city": "City_82880",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82885",
+      "zip_extension": "",
+      "primary_city": "City_82885",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82890",
+      "zip_extension": "",
+      "primary_city": "City_82890",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82895",
+      "zip_extension": "",
+      "primary_city": "City_82895",
+      "acceptable_cities": "",
+      "county": "County_828",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82900",
+      "zip_extension": "",
+      "primary_city": "City_82900",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82905",
+      "zip_extension": "",
+      "primary_city": "City_82905",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82910",
+      "zip_extension": "",
+      "primary_city": "City_82910",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82915",
+      "zip_extension": "",
+      "primary_city": "City_82915",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82920",
+      "zip_extension": "",
+      "primary_city": "City_82920",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82925",
+      "zip_extension": "",
+      "primary_city": "City_82925",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82930",
+      "zip_extension": "",
+      "primary_city": "City_82930",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82935",
+      "zip_extension": "",
+      "primary_city": "City_82935",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82940",
+      "zip_extension": "",
+      "primary_city": "City_82940",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82945",
+      "zip_extension": "",
+      "primary_city": "City_82945",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82950",
+      "zip_extension": "",
+      "primary_city": "City_82950",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82955",
+      "zip_extension": "",
+      "primary_city": "City_82955",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82960",
+      "zip_extension": "",
+      "primary_city": "City_82960",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82965",
+      "zip_extension": "",
+      "primary_city": "City_82965",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82970",
+      "zip_extension": "",
+      "primary_city": "City_82970",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82975",
+      "zip_extension": "",
+      "primary_city": "City_82975",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82980",
+      "zip_extension": "",
+      "primary_city": "City_82980",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82985",
+      "zip_extension": "",
+      "primary_city": "City_82985",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82990",
+      "zip_extension": "",
+      "primary_city": "City_82990",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "82995",
+      "zip_extension": "",
+      "primary_city": "City_82995",
+      "acceptable_cities": "",
+      "county": "County_829",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83000",
+      "zip_extension": "",
+      "primary_city": "City_83000",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83005",
+      "zip_extension": "",
+      "primary_city": "City_83005",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83010",
+      "zip_extension": "",
+      "primary_city": "City_83010",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83015",
+      "zip_extension": "",
+      "primary_city": "City_83015",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83020",
+      "zip_extension": "",
+      "primary_city": "City_83020",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83025",
+      "zip_extension": "",
+      "primary_city": "City_83025",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83030",
+      "zip_extension": "",
+      "primary_city": "City_83030",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83035",
+      "zip_extension": "",
+      "primary_city": "City_83035",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83040",
+      "zip_extension": "",
+      "primary_city": "City_83040",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83045",
+      "zip_extension": "",
+      "primary_city": "City_83045",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83050",
+      "zip_extension": "",
+      "primary_city": "City_83050",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83055",
+      "zip_extension": "",
+      "primary_city": "City_83055",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83060",
+      "zip_extension": "",
+      "primary_city": "City_83060",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83065",
+      "zip_extension": "",
+      "primary_city": "City_83065",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83070",
+      "zip_extension": "",
+      "primary_city": "City_83070",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83075",
+      "zip_extension": "",
+      "primary_city": "City_83075",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83080",
+      "zip_extension": "",
+      "primary_city": "City_83080",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83085",
+      "zip_extension": "",
+      "primary_city": "City_83085",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83090",
+      "zip_extension": "",
+      "primary_city": "City_83090",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83095",
+      "zip_extension": "",
+      "primary_city": "City_83095",
+      "acceptable_cities": "",
+      "county": "County_830",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83100",
+      "zip_extension": "",
+      "primary_city": "City_83100",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83105",
+      "zip_extension": "",
+      "primary_city": "City_83105",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83110",
+      "zip_extension": "",
+      "primary_city": "City_83110",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83115",
+      "zip_extension": "",
+      "primary_city": "City_83115",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83120",
+      "zip_extension": "",
+      "primary_city": "City_83120",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83125",
+      "zip_extension": "",
+      "primary_city": "City_83125",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83130",
+      "zip_extension": "",
+      "primary_city": "City_83130",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83135",
+      "zip_extension": "",
+      "primary_city": "City_83135",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83140",
+      "zip_extension": "",
+      "primary_city": "City_83140",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83145",
+      "zip_extension": "",
+      "primary_city": "City_83145",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83150",
+      "zip_extension": "",
+      "primary_city": "City_83150",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83155",
+      "zip_extension": "",
+      "primary_city": "City_83155",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83160",
+      "zip_extension": "",
+      "primary_city": "City_83160",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83165",
+      "zip_extension": "",
+      "primary_city": "City_83165",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83170",
+      "zip_extension": "",
+      "primary_city": "City_83170",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83175",
+      "zip_extension": "",
+      "primary_city": "City_83175",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83180",
+      "zip_extension": "",
+      "primary_city": "City_83180",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83185",
+      "zip_extension": "",
+      "primary_city": "City_83185",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83190",
+      "zip_extension": "",
+      "primary_city": "City_83190",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "83195",
+      "zip_extension": "",
+      "primary_city": "City_83195",
+      "acceptable_cities": "",
+      "county": "County_831",
+      "state": "Wyoming",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

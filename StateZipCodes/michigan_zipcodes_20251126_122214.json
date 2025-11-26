@@ -1,0 +1,4007 @@
+{
+  "state": "Michigan",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 400,
+  "zipcodes": [
+    {
+      "zip_code": "48000",
+      "zip_extension": "",
+      "primary_city": "City_48000",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48005",
+      "zip_extension": "",
+      "primary_city": "City_48005",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48010",
+      "zip_extension": "",
+      "primary_city": "City_48010",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48015",
+      "zip_extension": "",
+      "primary_city": "City_48015",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48020",
+      "zip_extension": "",
+      "primary_city": "City_48020",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48025",
+      "zip_extension": "",
+      "primary_city": "City_48025",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48030",
+      "zip_extension": "",
+      "primary_city": "City_48030",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48035",
+      "zip_extension": "",
+      "primary_city": "City_48035",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48040",
+      "zip_extension": "",
+      "primary_city": "City_48040",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48045",
+      "zip_extension": "",
+      "primary_city": "City_48045",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48050",
+      "zip_extension": "",
+      "primary_city": "City_48050",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48055",
+      "zip_extension": "",
+      "primary_city": "City_48055",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48060",
+      "zip_extension": "",
+      "primary_city": "City_48060",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48065",
+      "zip_extension": "",
+      "primary_city": "City_48065",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48070",
+      "zip_extension": "",
+      "primary_city": "City_48070",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48075",
+      "zip_extension": "",
+      "primary_city": "City_48075",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48080",
+      "zip_extension": "",
+      "primary_city": "City_48080",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48085",
+      "zip_extension": "",
+      "primary_city": "City_48085",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48090",
+      "zip_extension": "",
+      "primary_city": "City_48090",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48095",
+      "zip_extension": "",
+      "primary_city": "City_48095",
+      "acceptable_cities": "",
+      "county": "County_480",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48100",
+      "zip_extension": "",
+      "primary_city": "City_48100",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48105",
+      "zip_extension": "",
+      "primary_city": "City_48105",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48110",
+      "zip_extension": "",
+      "primary_city": "City_48110",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48115",
+      "zip_extension": "",
+      "primary_city": "City_48115",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48120",
+      "zip_extension": "",
+      "primary_city": "City_48120",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48125",
+      "zip_extension": "",
+      "primary_city": "City_48125",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48130",
+      "zip_extension": "",
+      "primary_city": "City_48130",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48135",
+      "zip_extension": "",
+      "primary_city": "City_48135",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48140",
+      "zip_extension": "",
+      "primary_city": "City_48140",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48145",
+      "zip_extension": "",
+      "primary_city": "City_48145",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48150",
+      "zip_extension": "",
+      "primary_city": "City_48150",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48155",
+      "zip_extension": "",
+      "primary_city": "City_48155",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48160",
+      "zip_extension": "",
+      "primary_city": "City_48160",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48165",
+      "zip_extension": "",
+      "primary_city": "City_48165",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48170",
+      "zip_extension": "",
+      "primary_city": "City_48170",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48175",
+      "zip_extension": "",
+      "primary_city": "City_48175",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48180",
+      "zip_extension": "",
+      "primary_city": "City_48180",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48185",
+      "zip_extension": "",
+      "primary_city": "City_48185",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48190",
+      "zip_extension": "",
+      "primary_city": "City_48190",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48195",
+      "zip_extension": "",
+      "primary_city": "City_48195",
+      "acceptable_cities": "",
+      "county": "County_481",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48200",
+      "zip_extension": "",
+      "primary_city": "City_48200",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48205",
+      "zip_extension": "",
+      "primary_city": "City_48205",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48210",
+      "zip_extension": "",
+      "primary_city": "City_48210",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48215",
+      "zip_extension": "",
+      "primary_city": "City_48215",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48220",
+      "zip_extension": "",
+      "primary_city": "City_48220",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48225",
+      "zip_extension": "",
+      "primary_city": "City_48225",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48230",
+      "zip_extension": "",
+      "primary_city": "City_48230",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48235",
+      "zip_extension": "",
+      "primary_city": "City_48235",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48240",
+      "zip_extension": "",
+      "primary_city": "City_48240",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48245",
+      "zip_extension": "",
+      "primary_city": "City_48245",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48250",
+      "zip_extension": "",
+      "primary_city": "City_48250",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48255",
+      "zip_extension": "",
+      "primary_city": "City_48255",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48260",
+      "zip_extension": "",
+      "primary_city": "City_48260",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48265",
+      "zip_extension": "",
+      "primary_city": "City_48265",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48270",
+      "zip_extension": "",
+      "primary_city": "City_48270",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48275",
+      "zip_extension": "",
+      "primary_city": "City_48275",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48280",
+      "zip_extension": "",
+      "primary_city": "City_48280",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48285",
+      "zip_extension": "",
+      "primary_city": "City_48285",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48290",
+      "zip_extension": "",
+      "primary_city": "City_48290",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48295",
+      "zip_extension": "",
+      "primary_city": "City_48295",
+      "acceptable_cities": "",
+      "county": "County_482",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48300",
+      "zip_extension": "",
+      "primary_city": "City_48300",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48305",
+      "zip_extension": "",
+      "primary_city": "City_48305",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48310",
+      "zip_extension": "",
+      "primary_city": "City_48310",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48315",
+      "zip_extension": "",
+      "primary_city": "City_48315",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48320",
+      "zip_extension": "",
+      "primary_city": "City_48320",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48325",
+      "zip_extension": "",
+      "primary_city": "City_48325",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48330",
+      "zip_extension": "",
+      "primary_city": "City_48330",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48335",
+      "zip_extension": "",
+      "primary_city": "City_48335",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48340",
+      "zip_extension": "",
+      "primary_city": "City_48340",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48345",
+      "zip_extension": "",
+      "primary_city": "City_48345",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48350",
+      "zip_extension": "",
+      "primary_city": "City_48350",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48355",
+      "zip_extension": "",
+      "primary_city": "City_48355",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48360",
+      "zip_extension": "",
+      "primary_city": "City_48360",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48365",
+      "zip_extension": "",
+      "primary_city": "City_48365",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48370",
+      "zip_extension": "",
+      "primary_city": "City_48370",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48375",
+      "zip_extension": "",
+      "primary_city": "City_48375",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48380",
+      "zip_extension": "",
+      "primary_city": "City_48380",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48385",
+      "zip_extension": "",
+      "primary_city": "City_48385",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48390",
+      "zip_extension": "",
+      "primary_city": "City_48390",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48395",
+      "zip_extension": "",
+      "primary_city": "City_48395",
+      "acceptable_cities": "",
+      "county": "County_483",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48400",
+      "zip_extension": "",
+      "primary_city": "City_48400",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48405",
+      "zip_extension": "",
+      "primary_city": "City_48405",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48410",
+      "zip_extension": "",
+      "primary_city": "City_48410",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48415",
+      "zip_extension": "",
+      "primary_city": "City_48415",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48420",
+      "zip_extension": "",
+      "primary_city": "City_48420",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48425",
+      "zip_extension": "",
+      "primary_city": "City_48425",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48430",
+      "zip_extension": "",
+      "primary_city": "City_48430",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48435",
+      "zip_extension": "",
+      "primary_city": "City_48435",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48440",
+      "zip_extension": "",
+      "primary_city": "City_48440",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48445",
+      "zip_extension": "",
+      "primary_city": "City_48445",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48450",
+      "zip_extension": "",
+      "primary_city": "City_48450",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48455",
+      "zip_extension": "",
+      "primary_city": "City_48455",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48460",
+      "zip_extension": "",
+      "primary_city": "City_48460",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48465",
+      "zip_extension": "",
+      "primary_city": "City_48465",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48470",
+      "zip_extension": "",
+      "primary_city": "City_48470",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48475",
+      "zip_extension": "",
+      "primary_city": "City_48475",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48480",
+      "zip_extension": "",
+      "primary_city": "City_48480",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48485",
+      "zip_extension": "",
+      "primary_city": "City_48485",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48490",
+      "zip_extension": "",
+      "primary_city": "City_48490",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48495",
+      "zip_extension": "",
+      "primary_city": "City_48495",
+      "acceptable_cities": "",
+      "county": "County_484",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48500",
+      "zip_extension": "",
+      "primary_city": "City_48500",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48505",
+      "zip_extension": "",
+      "primary_city": "City_48505",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48510",
+      "zip_extension": "",
+      "primary_city": "City_48510",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48515",
+      "zip_extension": "",
+      "primary_city": "City_48515",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48520",
+      "zip_extension": "",
+      "primary_city": "City_48520",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48525",
+      "zip_extension": "",
+      "primary_city": "City_48525",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48530",
+      "zip_extension": "",
+      "primary_city": "City_48530",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48535",
+      "zip_extension": "",
+      "primary_city": "City_48535",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48540",
+      "zip_extension": "",
+      "primary_city": "City_48540",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48545",
+      "zip_extension": "",
+      "primary_city": "City_48545",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48550",
+      "zip_extension": "",
+      "primary_city": "City_48550",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48555",
+      "zip_extension": "",
+      "primary_city": "City_48555",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48560",
+      "zip_extension": "",
+      "primary_city": "City_48560",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48565",
+      "zip_extension": "",
+      "primary_city": "City_48565",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48570",
+      "zip_extension": "",
+      "primary_city": "City_48570",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48575",
+      "zip_extension": "",
+      "primary_city": "City_48575",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48580",
+      "zip_extension": "",
+      "primary_city": "City_48580",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48585",
+      "zip_extension": "",
+      "primary_city": "City_48585",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48590",
+      "zip_extension": "",
+      "primary_city": "City_48590",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48595",
+      "zip_extension": "",
+      "primary_city": "City_48595",
+      "acceptable_cities": "",
+      "county": "County_485",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48600",
+      "zip_extension": "",
+      "primary_city": "City_48600",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48605",
+      "zip_extension": "",
+      "primary_city": "City_48605",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48610",
+      "zip_extension": "",
+      "primary_city": "City_48610",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48615",
+      "zip_extension": "",
+      "primary_city": "City_48615",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48620",
+      "zip_extension": "",
+      "primary_city": "City_48620",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48625",
+      "zip_extension": "",
+      "primary_city": "City_48625",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48630",
+      "zip_extension": "",
+      "primary_city": "City_48630",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48635",
+      "zip_extension": "",
+      "primary_city": "City_48635",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48640",
+      "zip_extension": "",
+      "primary_city": "City_48640",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48645",
+      "zip_extension": "",
+      "primary_city": "City_48645",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48650",
+      "zip_extension": "",
+      "primary_city": "City_48650",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48655",
+      "zip_extension": "",
+      "primary_city": "City_48655",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48660",
+      "zip_extension": "",
+      "primary_city": "City_48660",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48665",
+      "zip_extension": "",
+      "primary_city": "City_48665",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48670",
+      "zip_extension": "",
+      "primary_city": "City_48670",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48675",
+      "zip_extension": "",
+      "primary_city": "City_48675",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48680",
+      "zip_extension": "",
+      "primary_city": "City_48680",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48685",
+      "zip_extension": "",
+      "primary_city": "City_48685",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48690",
+      "zip_extension": "",
+      "primary_city": "City_48690",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48695",
+      "zip_extension": "",
+      "primary_city": "City_48695",
+      "acceptable_cities": "",
+      "county": "County_486",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48700",
+      "zip_extension": "",
+      "primary_city": "City_48700",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48705",
+      "zip_extension": "",
+      "primary_city": "City_48705",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48710",
+      "zip_extension": "",
+      "primary_city": "City_48710",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48715",
+      "zip_extension": "",
+      "primary_city": "City_48715",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48720",
+      "zip_extension": "",
+      "primary_city": "City_48720",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48725",
+      "zip_extension": "",
+      "primary_city": "City_48725",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48730",
+      "zip_extension": "",
+      "primary_city": "City_48730",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48735",
+      "zip_extension": "",
+      "primary_city": "City_48735",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48740",
+      "zip_extension": "",
+      "primary_city": "City_48740",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48745",
+      "zip_extension": "",
+      "primary_city": "City_48745",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48750",
+      "zip_extension": "",
+      "primary_city": "City_48750",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48755",
+      "zip_extension": "",
+      "primary_city": "City_48755",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48760",
+      "zip_extension": "",
+      "primary_city": "City_48760",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48765",
+      "zip_extension": "",
+      "primary_city": "City_48765",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48770",
+      "zip_extension": "",
+      "primary_city": "City_48770",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48775",
+      "zip_extension": "",
+      "primary_city": "City_48775",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48780",
+      "zip_extension": "",
+      "primary_city": "City_48780",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48785",
+      "zip_extension": "",
+      "primary_city": "City_48785",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48790",
+      "zip_extension": "",
+      "primary_city": "City_48790",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48795",
+      "zip_extension": "",
+      "primary_city": "City_48795",
+      "acceptable_cities": "",
+      "county": "County_487",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48800",
+      "zip_extension": "",
+      "primary_city": "City_48800",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48805",
+      "zip_extension": "",
+      "primary_city": "City_48805",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48810",
+      "zip_extension": "",
+      "primary_city": "City_48810",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48815",
+      "zip_extension": "",
+      "primary_city": "City_48815",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48820",
+      "zip_extension": "",
+      "primary_city": "City_48820",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48825",
+      "zip_extension": "",
+      "primary_city": "City_48825",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48830",
+      "zip_extension": "",
+      "primary_city": "City_48830",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48835",
+      "zip_extension": "",
+      "primary_city": "City_48835",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48840",
+      "zip_extension": "",
+      "primary_city": "City_48840",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48845",
+      "zip_extension": "",
+      "primary_city": "City_48845",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48850",
+      "zip_extension": "",
+      "primary_city": "City_48850",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48855",
+      "zip_extension": "",
+      "primary_city": "City_48855",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48860",
+      "zip_extension": "",
+      "primary_city": "City_48860",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48865",
+      "zip_extension": "",
+      "primary_city": "City_48865",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48870",
+      "zip_extension": "",
+      "primary_city": "City_48870",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48875",
+      "zip_extension": "",
+      "primary_city": "City_48875",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48880",
+      "zip_extension": "",
+      "primary_city": "City_48880",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48885",
+      "zip_extension": "",
+      "primary_city": "City_48885",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48890",
+      "zip_extension": "",
+      "primary_city": "City_48890",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48895",
+      "zip_extension": "",
+      "primary_city": "City_48895",
+      "acceptable_cities": "",
+      "county": "County_488",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48900",
+      "zip_extension": "",
+      "primary_city": "City_48900",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48905",
+      "zip_extension": "",
+      "primary_city": "City_48905",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48910",
+      "zip_extension": "",
+      "primary_city": "City_48910",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48915",
+      "zip_extension": "",
+      "primary_city": "City_48915",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48920",
+      "zip_extension": "",
+      "primary_city": "City_48920",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48925",
+      "zip_extension": "",
+      "primary_city": "City_48925",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48930",
+      "zip_extension": "",
+      "primary_city": "City_48930",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48935",
+      "zip_extension": "",
+      "primary_city": "City_48935",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48940",
+      "zip_extension": "",
+      "primary_city": "City_48940",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48945",
+      "zip_extension": "",
+      "primary_city": "City_48945",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48950",
+      "zip_extension": "",
+      "primary_city": "City_48950",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48955",
+      "zip_extension": "",
+      "primary_city": "City_48955",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48960",
+      "zip_extension": "",
+      "primary_city": "City_48960",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48965",
+      "zip_extension": "",
+      "primary_city": "City_48965",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48970",
+      "zip_extension": "",
+      "primary_city": "City_48970",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48975",
+      "zip_extension": "",
+      "primary_city": "City_48975",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48980",
+      "zip_extension": "",
+      "primary_city": "City_48980",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48985",
+      "zip_extension": "",
+      "primary_city": "City_48985",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48990",
+      "zip_extension": "",
+      "primary_city": "City_48990",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "48995",
+      "zip_extension": "",
+      "primary_city": "City_48995",
+      "acceptable_cities": "",
+      "county": "County_489",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49000",
+      "zip_extension": "",
+      "primary_city": "City_49000",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49005",
+      "zip_extension": "",
+      "primary_city": "City_49005",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49010",
+      "zip_extension": "",
+      "primary_city": "City_49010",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49015",
+      "zip_extension": "",
+      "primary_city": "City_49015",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49020",
+      "zip_extension": "",
+      "primary_city": "City_49020",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49025",
+      "zip_extension": "",
+      "primary_city": "City_49025",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49030",
+      "zip_extension": "",
+      "primary_city": "City_49030",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49035",
+      "zip_extension": "",
+      "primary_city": "City_49035",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49040",
+      "zip_extension": "",
+      "primary_city": "City_49040",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49045",
+      "zip_extension": "",
+      "primary_city": "City_49045",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49050",
+      "zip_extension": "",
+      "primary_city": "City_49050",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49055",
+      "zip_extension": "",
+      "primary_city": "City_49055",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49060",
+      "zip_extension": "",
+      "primary_city": "City_49060",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49065",
+      "zip_extension": "",
+      "primary_city": "City_49065",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49070",
+      "zip_extension": "",
+      "primary_city": "City_49070",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49075",
+      "zip_extension": "",
+      "primary_city": "City_49075",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49080",
+      "zip_extension": "",
+      "primary_city": "City_49080",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49085",
+      "zip_extension": "",
+      "primary_city": "City_49085",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49090",
+      "zip_extension": "",
+      "primary_city": "City_49090",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49095",
+      "zip_extension": "",
+      "primary_city": "City_49095",
+      "acceptable_cities": "",
+      "county": "County_490",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49100",
+      "zip_extension": "",
+      "primary_city": "City_49100",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49105",
+      "zip_extension": "",
+      "primary_city": "City_49105",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49110",
+      "zip_extension": "",
+      "primary_city": "City_49110",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49115",
+      "zip_extension": "",
+      "primary_city": "City_49115",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49120",
+      "zip_extension": "",
+      "primary_city": "City_49120",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49125",
+      "zip_extension": "",
+      "primary_city": "City_49125",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49130",
+      "zip_extension": "",
+      "primary_city": "City_49130",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49135",
+      "zip_extension": "",
+      "primary_city": "City_49135",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49140",
+      "zip_extension": "",
+      "primary_city": "City_49140",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49145",
+      "zip_extension": "",
+      "primary_city": "City_49145",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49150",
+      "zip_extension": "",
+      "primary_city": "City_49150",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49155",
+      "zip_extension": "",
+      "primary_city": "City_49155",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49160",
+      "zip_extension": "",
+      "primary_city": "City_49160",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49165",
+      "zip_extension": "",
+      "primary_city": "City_49165",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49170",
+      "zip_extension": "",
+      "primary_city": "City_49170",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49175",
+      "zip_extension": "",
+      "primary_city": "City_49175",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49180",
+      "zip_extension": "",
+      "primary_city": "City_49180",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49185",
+      "zip_extension": "",
+      "primary_city": "City_49185",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49190",
+      "zip_extension": "",
+      "primary_city": "City_49190",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49195",
+      "zip_extension": "",
+      "primary_city": "City_49195",
+      "acceptable_cities": "",
+      "county": "County_491",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49200",
+      "zip_extension": "",
+      "primary_city": "City_49200",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49205",
+      "zip_extension": "",
+      "primary_city": "City_49205",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49210",
+      "zip_extension": "",
+      "primary_city": "City_49210",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49215",
+      "zip_extension": "",
+      "primary_city": "City_49215",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49220",
+      "zip_extension": "",
+      "primary_city": "City_49220",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49225",
+      "zip_extension": "",
+      "primary_city": "City_49225",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49230",
+      "zip_extension": "",
+      "primary_city": "City_49230",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49235",
+      "zip_extension": "",
+      "primary_city": "City_49235",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49240",
+      "zip_extension": "",
+      "primary_city": "City_49240",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49245",
+      "zip_extension": "",
+      "primary_city": "City_49245",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49250",
+      "zip_extension": "",
+      "primary_city": "City_49250",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49255",
+      "zip_extension": "",
+      "primary_city": "City_49255",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49260",
+      "zip_extension": "",
+      "primary_city": "City_49260",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49265",
+      "zip_extension": "",
+      "primary_city": "City_49265",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49270",
+      "zip_extension": "",
+      "primary_city": "City_49270",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49275",
+      "zip_extension": "",
+      "primary_city": "City_49275",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49280",
+      "zip_extension": "",
+      "primary_city": "City_49280",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49285",
+      "zip_extension": "",
+      "primary_city": "City_49285",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49290",
+      "zip_extension": "",
+      "primary_city": "City_49290",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49295",
+      "zip_extension": "",
+      "primary_city": "City_49295",
+      "acceptable_cities": "",
+      "county": "County_492",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49300",
+      "zip_extension": "",
+      "primary_city": "City_49300",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49305",
+      "zip_extension": "",
+      "primary_city": "City_49305",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49310",
+      "zip_extension": "",
+      "primary_city": "City_49310",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49315",
+      "zip_extension": "",
+      "primary_city": "City_49315",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49320",
+      "zip_extension": "",
+      "primary_city": "City_49320",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49325",
+      "zip_extension": "",
+      "primary_city": "City_49325",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49330",
+      "zip_extension": "",
+      "primary_city": "City_49330",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49335",
+      "zip_extension": "",
+      "primary_city": "City_49335",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49340",
+      "zip_extension": "",
+      "primary_city": "City_49340",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49345",
+      "zip_extension": "",
+      "primary_city": "City_49345",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49350",
+      "zip_extension": "",
+      "primary_city": "City_49350",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49355",
+      "zip_extension": "",
+      "primary_city": "City_49355",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49360",
+      "zip_extension": "",
+      "primary_city": "City_49360",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49365",
+      "zip_extension": "",
+      "primary_city": "City_49365",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49370",
+      "zip_extension": "",
+      "primary_city": "City_49370",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49375",
+      "zip_extension": "",
+      "primary_city": "City_49375",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49380",
+      "zip_extension": "",
+      "primary_city": "City_49380",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49385",
+      "zip_extension": "",
+      "primary_city": "City_49385",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49390",
+      "zip_extension": "",
+      "primary_city": "City_49390",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49395",
+      "zip_extension": "",
+      "primary_city": "City_49395",
+      "acceptable_cities": "",
+      "county": "County_493",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49400",
+      "zip_extension": "",
+      "primary_city": "City_49400",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49405",
+      "zip_extension": "",
+      "primary_city": "City_49405",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49410",
+      "zip_extension": "",
+      "primary_city": "City_49410",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49415",
+      "zip_extension": "",
+      "primary_city": "City_49415",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49420",
+      "zip_extension": "",
+      "primary_city": "City_49420",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49425",
+      "zip_extension": "",
+      "primary_city": "City_49425",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49430",
+      "zip_extension": "",
+      "primary_city": "City_49430",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49435",
+      "zip_extension": "",
+      "primary_city": "City_49435",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49440",
+      "zip_extension": "",
+      "primary_city": "City_49440",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49445",
+      "zip_extension": "",
+      "primary_city": "City_49445",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49450",
+      "zip_extension": "",
+      "primary_city": "City_49450",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49455",
+      "zip_extension": "",
+      "primary_city": "City_49455",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49460",
+      "zip_extension": "",
+      "primary_city": "City_49460",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49465",
+      "zip_extension": "",
+      "primary_city": "City_49465",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49470",
+      "zip_extension": "",
+      "primary_city": "City_49470",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49475",
+      "zip_extension": "",
+      "primary_city": "City_49475",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49480",
+      "zip_extension": "",
+      "primary_city": "City_49480",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49485",
+      "zip_extension": "",
+      "primary_city": "City_49485",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49490",
+      "zip_extension": "",
+      "primary_city": "City_49490",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49495",
+      "zip_extension": "",
+      "primary_city": "City_49495",
+      "acceptable_cities": "",
+      "county": "County_494",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49500",
+      "zip_extension": "",
+      "primary_city": "City_49500",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49505",
+      "zip_extension": "",
+      "primary_city": "City_49505",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49510",
+      "zip_extension": "",
+      "primary_city": "City_49510",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49515",
+      "zip_extension": "",
+      "primary_city": "City_49515",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49520",
+      "zip_extension": "",
+      "primary_city": "City_49520",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49525",
+      "zip_extension": "",
+      "primary_city": "City_49525",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49530",
+      "zip_extension": "",
+      "primary_city": "City_49530",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49535",
+      "zip_extension": "",
+      "primary_city": "City_49535",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49540",
+      "zip_extension": "",
+      "primary_city": "City_49540",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49545",
+      "zip_extension": "",
+      "primary_city": "City_49545",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49550",
+      "zip_extension": "",
+      "primary_city": "City_49550",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49555",
+      "zip_extension": "",
+      "primary_city": "City_49555",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49560",
+      "zip_extension": "",
+      "primary_city": "City_49560",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49565",
+      "zip_extension": "",
+      "primary_city": "City_49565",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49570",
+      "zip_extension": "",
+      "primary_city": "City_49570",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49575",
+      "zip_extension": "",
+      "primary_city": "City_49575",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49580",
+      "zip_extension": "",
+      "primary_city": "City_49580",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49585",
+      "zip_extension": "",
+      "primary_city": "City_49585",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49590",
+      "zip_extension": "",
+      "primary_city": "City_49590",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49595",
+      "zip_extension": "",
+      "primary_city": "City_49595",
+      "acceptable_cities": "",
+      "county": "County_495",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49600",
+      "zip_extension": "",
+      "primary_city": "City_49600",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49605",
+      "zip_extension": "",
+      "primary_city": "City_49605",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49610",
+      "zip_extension": "",
+      "primary_city": "City_49610",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49615",
+      "zip_extension": "",
+      "primary_city": "City_49615",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49620",
+      "zip_extension": "",
+      "primary_city": "City_49620",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49625",
+      "zip_extension": "",
+      "primary_city": "City_49625",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49630",
+      "zip_extension": "",
+      "primary_city": "City_49630",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49635",
+      "zip_extension": "",
+      "primary_city": "City_49635",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49640",
+      "zip_extension": "",
+      "primary_city": "City_49640",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49645",
+      "zip_extension": "",
+      "primary_city": "City_49645",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49650",
+      "zip_extension": "",
+      "primary_city": "City_49650",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49655",
+      "zip_extension": "",
+      "primary_city": "City_49655",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49660",
+      "zip_extension": "",
+      "primary_city": "City_49660",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49665",
+      "zip_extension": "",
+      "primary_city": "City_49665",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49670",
+      "zip_extension": "",
+      "primary_city": "City_49670",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49675",
+      "zip_extension": "",
+      "primary_city": "City_49675",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49680",
+      "zip_extension": "",
+      "primary_city": "City_49680",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49685",
+      "zip_extension": "",
+      "primary_city": "City_49685",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49690",
+      "zip_extension": "",
+      "primary_city": "City_49690",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49695",
+      "zip_extension": "",
+      "primary_city": "City_49695",
+      "acceptable_cities": "",
+      "county": "County_496",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49700",
+      "zip_extension": "",
+      "primary_city": "City_49700",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49705",
+      "zip_extension": "",
+      "primary_city": "City_49705",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49710",
+      "zip_extension": "",
+      "primary_city": "City_49710",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49715",
+      "zip_extension": "",
+      "primary_city": "City_49715",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49720",
+      "zip_extension": "",
+      "primary_city": "City_49720",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49725",
+      "zip_extension": "",
+      "primary_city": "City_49725",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49730",
+      "zip_extension": "",
+      "primary_city": "City_49730",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49735",
+      "zip_extension": "",
+      "primary_city": "City_49735",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49740",
+      "zip_extension": "",
+      "primary_city": "City_49740",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49745",
+      "zip_extension": "",
+      "primary_city": "City_49745",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49750",
+      "zip_extension": "",
+      "primary_city": "City_49750",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49755",
+      "zip_extension": "",
+      "primary_city": "City_49755",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49760",
+      "zip_extension": "",
+      "primary_city": "City_49760",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49765",
+      "zip_extension": "",
+      "primary_city": "City_49765",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49770",
+      "zip_extension": "",
+      "primary_city": "City_49770",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49775",
+      "zip_extension": "",
+      "primary_city": "City_49775",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49780",
+      "zip_extension": "",
+      "primary_city": "City_49780",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49785",
+      "zip_extension": "",
+      "primary_city": "City_49785",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49790",
+      "zip_extension": "",
+      "primary_city": "City_49790",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49795",
+      "zip_extension": "",
+      "primary_city": "City_49795",
+      "acceptable_cities": "",
+      "county": "County_497",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49800",
+      "zip_extension": "",
+      "primary_city": "City_49800",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49805",
+      "zip_extension": "",
+      "primary_city": "City_49805",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49810",
+      "zip_extension": "",
+      "primary_city": "City_49810",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49815",
+      "zip_extension": "",
+      "primary_city": "City_49815",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49820",
+      "zip_extension": "",
+      "primary_city": "City_49820",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49825",
+      "zip_extension": "",
+      "primary_city": "City_49825",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49830",
+      "zip_extension": "",
+      "primary_city": "City_49830",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49835",
+      "zip_extension": "",
+      "primary_city": "City_49835",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49840",
+      "zip_extension": "",
+      "primary_city": "City_49840",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49845",
+      "zip_extension": "",
+      "primary_city": "City_49845",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49850",
+      "zip_extension": "",
+      "primary_city": "City_49850",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49855",
+      "zip_extension": "",
+      "primary_city": "City_49855",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49860",
+      "zip_extension": "",
+      "primary_city": "City_49860",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49865",
+      "zip_extension": "",
+      "primary_city": "City_49865",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49870",
+      "zip_extension": "",
+      "primary_city": "City_49870",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49875",
+      "zip_extension": "",
+      "primary_city": "City_49875",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49880",
+      "zip_extension": "",
+      "primary_city": "City_49880",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49885",
+      "zip_extension": "",
+      "primary_city": "City_49885",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49890",
+      "zip_extension": "",
+      "primary_city": "City_49890",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49895",
+      "zip_extension": "",
+      "primary_city": "City_49895",
+      "acceptable_cities": "",
+      "county": "County_498",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49900",
+      "zip_extension": "",
+      "primary_city": "City_49900",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49905",
+      "zip_extension": "",
+      "primary_city": "City_49905",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49910",
+      "zip_extension": "",
+      "primary_city": "City_49910",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49915",
+      "zip_extension": "",
+      "primary_city": "City_49915",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49920",
+      "zip_extension": "",
+      "primary_city": "City_49920",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49925",
+      "zip_extension": "",
+      "primary_city": "City_49925",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49930",
+      "zip_extension": "",
+      "primary_city": "City_49930",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49935",
+      "zip_extension": "",
+      "primary_city": "City_49935",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49940",
+      "zip_extension": "",
+      "primary_city": "City_49940",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49945",
+      "zip_extension": "",
+      "primary_city": "City_49945",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49950",
+      "zip_extension": "",
+      "primary_city": "City_49950",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49955",
+      "zip_extension": "",
+      "primary_city": "City_49955",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49960",
+      "zip_extension": "",
+      "primary_city": "City_49960",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49965",
+      "zip_extension": "",
+      "primary_city": "City_49965",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49970",
+      "zip_extension": "",
+      "primary_city": "City_49970",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49975",
+      "zip_extension": "",
+      "primary_city": "City_49975",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49980",
+      "zip_extension": "",
+      "primary_city": "City_49980",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49985",
+      "zip_extension": "",
+      "primary_city": "City_49985",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49990",
+      "zip_extension": "",
+      "primary_city": "City_49990",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "49995",
+      "zip_extension": "",
+      "primary_city": "City_49995",
+      "acceptable_cities": "",
+      "county": "County_499",
+      "state": "Michigan",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

@@ -1,0 +1,3007 @@
+{
+  "state": "New Mexico",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 300,
+  "zipcodes": [
+    {
+      "zip_code": "87000",
+      "zip_extension": "",
+      "primary_city": "City_87000",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87005",
+      "zip_extension": "",
+      "primary_city": "City_87005",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87010",
+      "zip_extension": "",
+      "primary_city": "City_87010",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87015",
+      "zip_extension": "",
+      "primary_city": "City_87015",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87020",
+      "zip_extension": "",
+      "primary_city": "City_87020",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87025",
+      "zip_extension": "",
+      "primary_city": "City_87025",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87030",
+      "zip_extension": "",
+      "primary_city": "City_87030",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87035",
+      "zip_extension": "",
+      "primary_city": "City_87035",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87040",
+      "zip_extension": "",
+      "primary_city": "City_87040",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87045",
+      "zip_extension": "",
+      "primary_city": "City_87045",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87050",
+      "zip_extension": "",
+      "primary_city": "City_87050",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87055",
+      "zip_extension": "",
+      "primary_city": "City_87055",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87060",
+      "zip_extension": "",
+      "primary_city": "City_87060",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87065",
+      "zip_extension": "",
+      "primary_city": "City_87065",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87070",
+      "zip_extension": "",
+      "primary_city": "City_87070",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87075",
+      "zip_extension": "",
+      "primary_city": "City_87075",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87080",
+      "zip_extension": "",
+      "primary_city": "City_87080",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87085",
+      "zip_extension": "",
+      "primary_city": "City_87085",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87090",
+      "zip_extension": "",
+      "primary_city": "City_87090",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87095",
+      "zip_extension": "",
+      "primary_city": "City_87095",
+      "acceptable_cities": "",
+      "county": "County_870",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87100",
+      "zip_extension": "",
+      "primary_city": "City_87100",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87105",
+      "zip_extension": "",
+      "primary_city": "City_87105",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87110",
+      "zip_extension": "",
+      "primary_city": "City_87110",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87115",
+      "zip_extension": "",
+      "primary_city": "City_87115",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87120",
+      "zip_extension": "",
+      "primary_city": "City_87120",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87125",
+      "zip_extension": "",
+      "primary_city": "City_87125",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87130",
+      "zip_extension": "",
+      "primary_city": "City_87130",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87135",
+      "zip_extension": "",
+      "primary_city": "City_87135",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87140",
+      "zip_extension": "",
+      "primary_city": "City_87140",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87145",
+      "zip_extension": "",
+      "primary_city": "City_87145",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87150",
+      "zip_extension": "",
+      "primary_city": "City_87150",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87155",
+      "zip_extension": "",
+      "primary_city": "City_87155",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87160",
+      "zip_extension": "",
+      "primary_city": "City_87160",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87165",
+      "zip_extension": "",
+      "primary_city": "City_87165",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87170",
+      "zip_extension": "",
+      "primary_city": "City_87170",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87175",
+      "zip_extension": "",
+      "primary_city": "City_87175",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87180",
+      "zip_extension": "",
+      "primary_city": "City_87180",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87185",
+      "zip_extension": "",
+      "primary_city": "City_87185",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87190",
+      "zip_extension": "",
+      "primary_city": "City_87190",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87195",
+      "zip_extension": "",
+      "primary_city": "City_87195",
+      "acceptable_cities": "",
+      "county": "County_871",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87200",
+      "zip_extension": "",
+      "primary_city": "City_87200",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87205",
+      "zip_extension": "",
+      "primary_city": "City_87205",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87210",
+      "zip_extension": "",
+      "primary_city": "City_87210",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87215",
+      "zip_extension": "",
+      "primary_city": "City_87215",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87220",
+      "zip_extension": "",
+      "primary_city": "City_87220",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87225",
+      "zip_extension": "",
+      "primary_city": "City_87225",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87230",
+      "zip_extension": "",
+      "primary_city": "City_87230",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87235",
+      "zip_extension": "",
+      "primary_city": "City_87235",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87240",
+      "zip_extension": "",
+      "primary_city": "City_87240",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87245",
+      "zip_extension": "",
+      "primary_city": "City_87245",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87250",
+      "zip_extension": "",
+      "primary_city": "City_87250",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87255",
+      "zip_extension": "",
+      "primary_city": "City_87255",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87260",
+      "zip_extension": "",
+      "primary_city": "City_87260",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87265",
+      "zip_extension": "",
+      "primary_city": "City_87265",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87270",
+      "zip_extension": "",
+      "primary_city": "City_87270",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87275",
+      "zip_extension": "",
+      "primary_city": "City_87275",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87280",
+      "zip_extension": "",
+      "primary_city": "City_87280",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87285",
+      "zip_extension": "",
+      "primary_city": "City_87285",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87290",
+      "zip_extension": "",
+      "primary_city": "City_87290",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87295",
+      "zip_extension": "",
+      "primary_city": "City_87295",
+      "acceptable_cities": "",
+      "county": "County_872",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87300",
+      "zip_extension": "",
+      "primary_city": "City_87300",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87305",
+      "zip_extension": "",
+      "primary_city": "City_87305",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87310",
+      "zip_extension": "",
+      "primary_city": "City_87310",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87315",
+      "zip_extension": "",
+      "primary_city": "City_87315",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87320",
+      "zip_extension": "",
+      "primary_city": "City_87320",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87325",
+      "zip_extension": "",
+      "primary_city": "City_87325",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87330",
+      "zip_extension": "",
+      "primary_city": "City_87330",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87335",
+      "zip_extension": "",
+      "primary_city": "City_87335",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87340",
+      "zip_extension": "",
+      "primary_city": "City_87340",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87345",
+      "zip_extension": "",
+      "primary_city": "City_87345",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87350",
+      "zip_extension": "",
+      "primary_city": "City_87350",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87355",
+      "zip_extension": "",
+      "primary_city": "City_87355",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87360",
+      "zip_extension": "",
+      "primary_city": "City_87360",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87365",
+      "zip_extension": "",
+      "primary_city": "City_87365",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87370",
+      "zip_extension": "",
+      "primary_city": "City_87370",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87375",
+      "zip_extension": "",
+      "primary_city": "City_87375",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87380",
+      "zip_extension": "",
+      "primary_city": "City_87380",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87385",
+      "zip_extension": "",
+      "primary_city": "City_87385",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87390",
+      "zip_extension": "",
+      "primary_city": "City_87390",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87395",
+      "zip_extension": "",
+      "primary_city": "City_87395",
+      "acceptable_cities": "",
+      "county": "County_873",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87400",
+      "zip_extension": "",
+      "primary_city": "City_87400",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87405",
+      "zip_extension": "",
+      "primary_city": "City_87405",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87410",
+      "zip_extension": "",
+      "primary_city": "City_87410",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87415",
+      "zip_extension": "",
+      "primary_city": "City_87415",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87420",
+      "zip_extension": "",
+      "primary_city": "City_87420",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87425",
+      "zip_extension": "",
+      "primary_city": "City_87425",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87430",
+      "zip_extension": "",
+      "primary_city": "City_87430",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87435",
+      "zip_extension": "",
+      "primary_city": "City_87435",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87440",
+      "zip_extension": "",
+      "primary_city": "City_87440",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87445",
+      "zip_extension": "",
+      "primary_city": "City_87445",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87450",
+      "zip_extension": "",
+      "primary_city": "City_87450",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87455",
+      "zip_extension": "",
+      "primary_city": "City_87455",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87460",
+      "zip_extension": "",
+      "primary_city": "City_87460",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87465",
+      "zip_extension": "",
+      "primary_city": "City_87465",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87470",
+      "zip_extension": "",
+      "primary_city": "City_87470",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87475",
+      "zip_extension": "",
+      "primary_city": "City_87475",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87480",
+      "zip_extension": "",
+      "primary_city": "City_87480",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87485",
+      "zip_extension": "",
+      "primary_city": "City_87485",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87490",
+      "zip_extension": "",
+      "primary_city": "City_87490",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87495",
+      "zip_extension": "",
+      "primary_city": "City_87495",
+      "acceptable_cities": "",
+      "county": "County_874",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87500",
+      "zip_extension": "",
+      "primary_city": "City_87500",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87505",
+      "zip_extension": "",
+      "primary_city": "City_87505",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87510",
+      "zip_extension": "",
+      "primary_city": "City_87510",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87515",
+      "zip_extension": "",
+      "primary_city": "City_87515",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87520",
+      "zip_extension": "",
+      "primary_city": "City_87520",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87525",
+      "zip_extension": "",
+      "primary_city": "City_87525",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87530",
+      "zip_extension": "",
+      "primary_city": "City_87530",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87535",
+      "zip_extension": "",
+      "primary_city": "City_87535",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87540",
+      "zip_extension": "",
+      "primary_city": "City_87540",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87545",
+      "zip_extension": "",
+      "primary_city": "City_87545",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87550",
+      "zip_extension": "",
+      "primary_city": "City_87550",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87555",
+      "zip_extension": "",
+      "primary_city": "City_87555",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87560",
+      "zip_extension": "",
+      "primary_city": "City_87560",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87565",
+      "zip_extension": "",
+      "primary_city": "City_87565",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87570",
+      "zip_extension": "",
+      "primary_city": "City_87570",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87575",
+      "zip_extension": "",
+      "primary_city": "City_87575",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87580",
+      "zip_extension": "",
+      "primary_city": "City_87580",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87585",
+      "zip_extension": "",
+      "primary_city": "City_87585",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87590",
+      "zip_extension": "",
+      "primary_city": "City_87590",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87595",
+      "zip_extension": "",
+      "primary_city": "City_87595",
+      "acceptable_cities": "",
+      "county": "County_875",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87600",
+      "zip_extension": "",
+      "primary_city": "City_87600",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87605",
+      "zip_extension": "",
+      "primary_city": "City_87605",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87610",
+      "zip_extension": "",
+      "primary_city": "City_87610",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87615",
+      "zip_extension": "",
+      "primary_city": "City_87615",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87620",
+      "zip_extension": "",
+      "primary_city": "City_87620",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87625",
+      "zip_extension": "",
+      "primary_city": "City_87625",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87630",
+      "zip_extension": "",
+      "primary_city": "City_87630",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87635",
+      "zip_extension": "",
+      "primary_city": "City_87635",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87640",
+      "zip_extension": "",
+      "primary_city": "City_87640",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87645",
+      "zip_extension": "",
+      "primary_city": "City_87645",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87650",
+      "zip_extension": "",
+      "primary_city": "City_87650",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87655",
+      "zip_extension": "",
+      "primary_city": "City_87655",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87660",
+      "zip_extension": "",
+      "primary_city": "City_87660",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87665",
+      "zip_extension": "",
+      "primary_city": "City_87665",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87670",
+      "zip_extension": "",
+      "primary_city": "City_87670",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87675",
+      "zip_extension": "",
+      "primary_city": "City_87675",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87680",
+      "zip_extension": "",
+      "primary_city": "City_87680",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87685",
+      "zip_extension": "",
+      "primary_city": "City_87685",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87690",
+      "zip_extension": "",
+      "primary_city": "City_87690",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87695",
+      "zip_extension": "",
+      "primary_city": "City_87695",
+      "acceptable_cities": "",
+      "county": "County_876",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87700",
+      "zip_extension": "",
+      "primary_city": "City_87700",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87705",
+      "zip_extension": "",
+      "primary_city": "City_87705",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87710",
+      "zip_extension": "",
+      "primary_city": "City_87710",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87715",
+      "zip_extension": "",
+      "primary_city": "City_87715",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87720",
+      "zip_extension": "",
+      "primary_city": "City_87720",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87725",
+      "zip_extension": "",
+      "primary_city": "City_87725",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87730",
+      "zip_extension": "",
+      "primary_city": "City_87730",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87735",
+      "zip_extension": "",
+      "primary_city": "City_87735",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87740",
+      "zip_extension": "",
+      "primary_city": "City_87740",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87745",
+      "zip_extension": "",
+      "primary_city": "City_87745",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87750",
+      "zip_extension": "",
+      "primary_city": "City_87750",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87755",
+      "zip_extension": "",
+      "primary_city": "City_87755",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87760",
+      "zip_extension": "",
+      "primary_city": "City_87760",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87765",
+      "zip_extension": "",
+      "primary_city": "City_87765",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87770",
+      "zip_extension": "",
+      "primary_city": "City_87770",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87775",
+      "zip_extension": "",
+      "primary_city": "City_87775",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87780",
+      "zip_extension": "",
+      "primary_city": "City_87780",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87785",
+      "zip_extension": "",
+      "primary_city": "City_87785",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87790",
+      "zip_extension": "",
+      "primary_city": "City_87790",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87795",
+      "zip_extension": "",
+      "primary_city": "City_87795",
+      "acceptable_cities": "",
+      "county": "County_877",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87800",
+      "zip_extension": "",
+      "primary_city": "City_87800",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87805",
+      "zip_extension": "",
+      "primary_city": "City_87805",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87810",
+      "zip_extension": "",
+      "primary_city": "City_87810",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87815",
+      "zip_extension": "",
+      "primary_city": "City_87815",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87820",
+      "zip_extension": "",
+      "primary_city": "City_87820",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87825",
+      "zip_extension": "",
+      "primary_city": "City_87825",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87830",
+      "zip_extension": "",
+      "primary_city": "City_87830",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87835",
+      "zip_extension": "",
+      "primary_city": "City_87835",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87840",
+      "zip_extension": "",
+      "primary_city": "City_87840",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87845",
+      "zip_extension": "",
+      "primary_city": "City_87845",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87850",
+      "zip_extension": "",
+      "primary_city": "City_87850",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87855",
+      "zip_extension": "",
+      "primary_city": "City_87855",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87860",
+      "zip_extension": "",
+      "primary_city": "City_87860",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87865",
+      "zip_extension": "",
+      "primary_city": "City_87865",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87870",
+      "zip_extension": "",
+      "primary_city": "City_87870",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87875",
+      "zip_extension": "",
+      "primary_city": "City_87875",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87880",
+      "zip_extension": "",
+      "primary_city": "City_87880",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87885",
+      "zip_extension": "",
+      "primary_city": "City_87885",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87890",
+      "zip_extension": "",
+      "primary_city": "City_87890",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87895",
+      "zip_extension": "",
+      "primary_city": "City_87895",
+      "acceptable_cities": "",
+      "county": "County_878",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87900",
+      "zip_extension": "",
+      "primary_city": "City_87900",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87905",
+      "zip_extension": "",
+      "primary_city": "City_87905",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87910",
+      "zip_extension": "",
+      "primary_city": "City_87910",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87915",
+      "zip_extension": "",
+      "primary_city": "City_87915",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87920",
+      "zip_extension": "",
+      "primary_city": "City_87920",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87925",
+      "zip_extension": "",
+      "primary_city": "City_87925",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87930",
+      "zip_extension": "",
+      "primary_city": "City_87930",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87935",
+      "zip_extension": "",
+      "primary_city": "City_87935",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87940",
+      "zip_extension": "",
+      "primary_city": "City_87940",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87945",
+      "zip_extension": "",
+      "primary_city": "City_87945",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87950",
+      "zip_extension": "",
+      "primary_city": "City_87950",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87955",
+      "zip_extension": "",
+      "primary_city": "City_87955",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87960",
+      "zip_extension": "",
+      "primary_city": "City_87960",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87965",
+      "zip_extension": "",
+      "primary_city": "City_87965",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87970",
+      "zip_extension": "",
+      "primary_city": "City_87970",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87975",
+      "zip_extension": "",
+      "primary_city": "City_87975",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87980",
+      "zip_extension": "",
+      "primary_city": "City_87980",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87985",
+      "zip_extension": "",
+      "primary_city": "City_87985",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87990",
+      "zip_extension": "",
+      "primary_city": "City_87990",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "87995",
+      "zip_extension": "",
+      "primary_city": "City_87995",
+      "acceptable_cities": "",
+      "county": "County_879",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88000",
+      "zip_extension": "",
+      "primary_city": "City_88000",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88005",
+      "zip_extension": "",
+      "primary_city": "City_88005",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88010",
+      "zip_extension": "",
+      "primary_city": "City_88010",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88015",
+      "zip_extension": "",
+      "primary_city": "City_88015",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88020",
+      "zip_extension": "",
+      "primary_city": "City_88020",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88025",
+      "zip_extension": "",
+      "primary_city": "City_88025",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88030",
+      "zip_extension": "",
+      "primary_city": "City_88030",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88035",
+      "zip_extension": "",
+      "primary_city": "City_88035",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88040",
+      "zip_extension": "",
+      "primary_city": "City_88040",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88045",
+      "zip_extension": "",
+      "primary_city": "City_88045",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88050",
+      "zip_extension": "",
+      "primary_city": "City_88050",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88055",
+      "zip_extension": "",
+      "primary_city": "City_88055",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88060",
+      "zip_extension": "",
+      "primary_city": "City_88060",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88065",
+      "zip_extension": "",
+      "primary_city": "City_88065",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88070",
+      "zip_extension": "",
+      "primary_city": "City_88070",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88075",
+      "zip_extension": "",
+      "primary_city": "City_88075",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88080",
+      "zip_extension": "",
+      "primary_city": "City_88080",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88085",
+      "zip_extension": "",
+      "primary_city": "City_88085",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88090",
+      "zip_extension": "",
+      "primary_city": "City_88090",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88095",
+      "zip_extension": "",
+      "primary_city": "City_88095",
+      "acceptable_cities": "",
+      "county": "County_880",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88100",
+      "zip_extension": "",
+      "primary_city": "City_88100",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88105",
+      "zip_extension": "",
+      "primary_city": "City_88105",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88110",
+      "zip_extension": "",
+      "primary_city": "City_88110",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88115",
+      "zip_extension": "",
+      "primary_city": "City_88115",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88120",
+      "zip_extension": "",
+      "primary_city": "City_88120",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88125",
+      "zip_extension": "",
+      "primary_city": "City_88125",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88130",
+      "zip_extension": "",
+      "primary_city": "City_88130",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88135",
+      "zip_extension": "",
+      "primary_city": "City_88135",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88140",
+      "zip_extension": "",
+      "primary_city": "City_88140",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88145",
+      "zip_extension": "",
+      "primary_city": "City_88145",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88150",
+      "zip_extension": "",
+      "primary_city": "City_88150",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88155",
+      "zip_extension": "",
+      "primary_city": "City_88155",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88160",
+      "zip_extension": "",
+      "primary_city": "City_88160",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88165",
+      "zip_extension": "",
+      "primary_city": "City_88165",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88170",
+      "zip_extension": "",
+      "primary_city": "City_88170",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88175",
+      "zip_extension": "",
+      "primary_city": "City_88175",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88180",
+      "zip_extension": "",
+      "primary_city": "City_88180",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88185",
+      "zip_extension": "",
+      "primary_city": "City_88185",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88190",
+      "zip_extension": "",
+      "primary_city": "City_88190",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88195",
+      "zip_extension": "",
+      "primary_city": "City_88195",
+      "acceptable_cities": "",
+      "county": "County_881",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88200",
+      "zip_extension": "",
+      "primary_city": "City_88200",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88205",
+      "zip_extension": "",
+      "primary_city": "City_88205",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88210",
+      "zip_extension": "",
+      "primary_city": "City_88210",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88215",
+      "zip_extension": "",
+      "primary_city": "City_88215",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88220",
+      "zip_extension": "",
+      "primary_city": "City_88220",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88225",
+      "zip_extension": "",
+      "primary_city": "City_88225",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88230",
+      "zip_extension": "",
+      "primary_city": "City_88230",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88235",
+      "zip_extension": "",
+      "primary_city": "City_88235",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88240",
+      "zip_extension": "",
+      "primary_city": "City_88240",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88245",
+      "zip_extension": "",
+      "primary_city": "City_88245",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88250",
+      "zip_extension": "",
+      "primary_city": "City_88250",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88255",
+      "zip_extension": "",
+      "primary_city": "City_88255",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88260",
+      "zip_extension": "",
+      "primary_city": "City_88260",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88265",
+      "zip_extension": "",
+      "primary_city": "City_88265",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88270",
+      "zip_extension": "",
+      "primary_city": "City_88270",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88275",
+      "zip_extension": "",
+      "primary_city": "City_88275",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88280",
+      "zip_extension": "",
+      "primary_city": "City_88280",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88285",
+      "zip_extension": "",
+      "primary_city": "City_88285",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88290",
+      "zip_extension": "",
+      "primary_city": "City_88290",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88295",
+      "zip_extension": "",
+      "primary_city": "City_88295",
+      "acceptable_cities": "",
+      "county": "County_882",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88300",
+      "zip_extension": "",
+      "primary_city": "City_88300",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88305",
+      "zip_extension": "",
+      "primary_city": "City_88305",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88310",
+      "zip_extension": "",
+      "primary_city": "City_88310",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88315",
+      "zip_extension": "",
+      "primary_city": "City_88315",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88320",
+      "zip_extension": "",
+      "primary_city": "City_88320",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88325",
+      "zip_extension": "",
+      "primary_city": "City_88325",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88330",
+      "zip_extension": "",
+      "primary_city": "City_88330",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88335",
+      "zip_extension": "",
+      "primary_city": "City_88335",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88340",
+      "zip_extension": "",
+      "primary_city": "City_88340",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88345",
+      "zip_extension": "",
+      "primary_city": "City_88345",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88350",
+      "zip_extension": "",
+      "primary_city": "City_88350",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88355",
+      "zip_extension": "",
+      "primary_city": "City_88355",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88360",
+      "zip_extension": "",
+      "primary_city": "City_88360",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88365",
+      "zip_extension": "",
+      "primary_city": "City_88365",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88370",
+      "zip_extension": "",
+      "primary_city": "City_88370",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88375",
+      "zip_extension": "",
+      "primary_city": "City_88375",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88380",
+      "zip_extension": "",
+      "primary_city": "City_88380",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88385",
+      "zip_extension": "",
+      "primary_city": "City_88385",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88390",
+      "zip_extension": "",
+      "primary_city": "City_88390",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88395",
+      "zip_extension": "",
+      "primary_city": "City_88395",
+      "acceptable_cities": "",
+      "county": "County_883",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88400",
+      "zip_extension": "",
+      "primary_city": "City_88400",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88405",
+      "zip_extension": "",
+      "primary_city": "City_88405",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88410",
+      "zip_extension": "",
+      "primary_city": "City_88410",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88415",
+      "zip_extension": "",
+      "primary_city": "City_88415",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88420",
+      "zip_extension": "",
+      "primary_city": "City_88420",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88425",
+      "zip_extension": "",
+      "primary_city": "City_88425",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88430",
+      "zip_extension": "",
+      "primary_city": "City_88430",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88435",
+      "zip_extension": "",
+      "primary_city": "City_88435",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88440",
+      "zip_extension": "",
+      "primary_city": "City_88440",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88445",
+      "zip_extension": "",
+      "primary_city": "City_88445",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88450",
+      "zip_extension": "",
+      "primary_city": "City_88450",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88455",
+      "zip_extension": "",
+      "primary_city": "City_88455",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88460",
+      "zip_extension": "",
+      "primary_city": "City_88460",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88465",
+      "zip_extension": "",
+      "primary_city": "City_88465",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88470",
+      "zip_extension": "",
+      "primary_city": "City_88470",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88475",
+      "zip_extension": "",
+      "primary_city": "City_88475",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88480",
+      "zip_extension": "",
+      "primary_city": "City_88480",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88485",
+      "zip_extension": "",
+      "primary_city": "City_88485",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88490",
+      "zip_extension": "",
+      "primary_city": "City_88490",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "88495",
+      "zip_extension": "",
+      "primary_city": "City_88495",
+      "acceptable_cities": "",
+      "county": "County_884",
+      "state": "New Mexico",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

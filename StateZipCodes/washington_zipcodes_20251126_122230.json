@@ -1,0 +1,3007 @@
+{
+  "state": "Washington",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 300,
+  "zipcodes": [
+    {
+      "zip_code": "98000",
+      "zip_extension": "",
+      "primary_city": "City_98000",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98005",
+      "zip_extension": "",
+      "primary_city": "City_98005",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98010",
+      "zip_extension": "",
+      "primary_city": "City_98010",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98015",
+      "zip_extension": "",
+      "primary_city": "City_98015",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98020",
+      "zip_extension": "",
+      "primary_city": "City_98020",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98025",
+      "zip_extension": "",
+      "primary_city": "City_98025",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98030",
+      "zip_extension": "",
+      "primary_city": "City_98030",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98035",
+      "zip_extension": "",
+      "primary_city": "City_98035",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98040",
+      "zip_extension": "",
+      "primary_city": "City_98040",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98045",
+      "zip_extension": "",
+      "primary_city": "City_98045",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98050",
+      "zip_extension": "",
+      "primary_city": "City_98050",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98055",
+      "zip_extension": "",
+      "primary_city": "City_98055",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98060",
+      "zip_extension": "",
+      "primary_city": "City_98060",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98065",
+      "zip_extension": "",
+      "primary_city": "City_98065",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98070",
+      "zip_extension": "",
+      "primary_city": "City_98070",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98075",
+      "zip_extension": "",
+      "primary_city": "City_98075",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98080",
+      "zip_extension": "",
+      "primary_city": "City_98080",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98085",
+      "zip_extension": "",
+      "primary_city": "City_98085",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98090",
+      "zip_extension": "",
+      "primary_city": "City_98090",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98095",
+      "zip_extension": "",
+      "primary_city": "City_98095",
+      "acceptable_cities": "",
+      "county": "County_980",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98100",
+      "zip_extension": "",
+      "primary_city": "City_98100",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98105",
+      "zip_extension": "",
+      "primary_city": "City_98105",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98110",
+      "zip_extension": "",
+      "primary_city": "City_98110",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98115",
+      "zip_extension": "",
+      "primary_city": "City_98115",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98120",
+      "zip_extension": "",
+      "primary_city": "City_98120",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98125",
+      "zip_extension": "",
+      "primary_city": "City_98125",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98130",
+      "zip_extension": "",
+      "primary_city": "City_98130",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98135",
+      "zip_extension": "",
+      "primary_city": "City_98135",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98140",
+      "zip_extension": "",
+      "primary_city": "City_98140",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98145",
+      "zip_extension": "",
+      "primary_city": "City_98145",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98150",
+      "zip_extension": "",
+      "primary_city": "City_98150",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98155",
+      "zip_extension": "",
+      "primary_city": "City_98155",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98160",
+      "zip_extension": "",
+      "primary_city": "City_98160",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98165",
+      "zip_extension": "",
+      "primary_city": "City_98165",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98170",
+      "zip_extension": "",
+      "primary_city": "City_98170",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98175",
+      "zip_extension": "",
+      "primary_city": "City_98175",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98180",
+      "zip_extension": "",
+      "primary_city": "City_98180",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98185",
+      "zip_extension": "",
+      "primary_city": "City_98185",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98190",
+      "zip_extension": "",
+      "primary_city": "City_98190",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98195",
+      "zip_extension": "",
+      "primary_city": "City_98195",
+      "acceptable_cities": "",
+      "county": "County_981",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98200",
+      "zip_extension": "",
+      "primary_city": "City_98200",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98205",
+      "zip_extension": "",
+      "primary_city": "City_98205",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98210",
+      "zip_extension": "",
+      "primary_city": "City_98210",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98215",
+      "zip_extension": "",
+      "primary_city": "City_98215",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98220",
+      "zip_extension": "",
+      "primary_city": "City_98220",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98225",
+      "zip_extension": "",
+      "primary_city": "City_98225",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98230",
+      "zip_extension": "",
+      "primary_city": "City_98230",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98235",
+      "zip_extension": "",
+      "primary_city": "City_98235",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98240",
+      "zip_extension": "",
+      "primary_city": "City_98240",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98245",
+      "zip_extension": "",
+      "primary_city": "City_98245",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98250",
+      "zip_extension": "",
+      "primary_city": "City_98250",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98255",
+      "zip_extension": "",
+      "primary_city": "City_98255",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98260",
+      "zip_extension": "",
+      "primary_city": "City_98260",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98265",
+      "zip_extension": "",
+      "primary_city": "City_98265",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98270",
+      "zip_extension": "",
+      "primary_city": "City_98270",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98275",
+      "zip_extension": "",
+      "primary_city": "City_98275",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98280",
+      "zip_extension": "",
+      "primary_city": "City_98280",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98285",
+      "zip_extension": "",
+      "primary_city": "City_98285",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98290",
+      "zip_extension": "",
+      "primary_city": "City_98290",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98295",
+      "zip_extension": "",
+      "primary_city": "City_98295",
+      "acceptable_cities": "",
+      "county": "County_982",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98300",
+      "zip_extension": "",
+      "primary_city": "City_98300",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98305",
+      "zip_extension": "",
+      "primary_city": "City_98305",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98310",
+      "zip_extension": "",
+      "primary_city": "City_98310",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98315",
+      "zip_extension": "",
+      "primary_city": "City_98315",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98320",
+      "zip_extension": "",
+      "primary_city": "City_98320",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98325",
+      "zip_extension": "",
+      "primary_city": "City_98325",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98330",
+      "zip_extension": "",
+      "primary_city": "City_98330",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98335",
+      "zip_extension": "",
+      "primary_city": "City_98335",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98340",
+      "zip_extension": "",
+      "primary_city": "City_98340",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98345",
+      "zip_extension": "",
+      "primary_city": "City_98345",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98350",
+      "zip_extension": "",
+      "primary_city": "City_98350",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98355",
+      "zip_extension": "",
+      "primary_city": "City_98355",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98360",
+      "zip_extension": "",
+      "primary_city": "City_98360",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98365",
+      "zip_extension": "",
+      "primary_city": "City_98365",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98370",
+      "zip_extension": "",
+      "primary_city": "City_98370",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98375",
+      "zip_extension": "",
+      "primary_city": "City_98375",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98380",
+      "zip_extension": "",
+      "primary_city": "City_98380",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98385",
+      "zip_extension": "",
+      "primary_city": "City_98385",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98390",
+      "zip_extension": "",
+      "primary_city": "City_98390",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98395",
+      "zip_extension": "",
+      "primary_city": "City_98395",
+      "acceptable_cities": "",
+      "county": "County_983",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98400",
+      "zip_extension": "",
+      "primary_city": "City_98400",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98405",
+      "zip_extension": "",
+      "primary_city": "City_98405",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98410",
+      "zip_extension": "",
+      "primary_city": "City_98410",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98415",
+      "zip_extension": "",
+      "primary_city": "City_98415",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98420",
+      "zip_extension": "",
+      "primary_city": "City_98420",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98425",
+      "zip_extension": "",
+      "primary_city": "City_98425",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98430",
+      "zip_extension": "",
+      "primary_city": "City_98430",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98435",
+      "zip_extension": "",
+      "primary_city": "City_98435",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98440",
+      "zip_extension": "",
+      "primary_city": "City_98440",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98445",
+      "zip_extension": "",
+      "primary_city": "City_98445",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98450",
+      "zip_extension": "",
+      "primary_city": "City_98450",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98455",
+      "zip_extension": "",
+      "primary_city": "City_98455",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98460",
+      "zip_extension": "",
+      "primary_city": "City_98460",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98465",
+      "zip_extension": "",
+      "primary_city": "City_98465",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98470",
+      "zip_extension": "",
+      "primary_city": "City_98470",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98475",
+      "zip_extension": "",
+      "primary_city": "City_98475",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98480",
+      "zip_extension": "",
+      "primary_city": "City_98480",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98485",
+      "zip_extension": "",
+      "primary_city": "City_98485",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98490",
+      "zip_extension": "",
+      "primary_city": "City_98490",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98495",
+      "zip_extension": "",
+      "primary_city": "City_98495",
+      "acceptable_cities": "",
+      "county": "County_984",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98500",
+      "zip_extension": "",
+      "primary_city": "City_98500",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98505",
+      "zip_extension": "",
+      "primary_city": "City_98505",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98510",
+      "zip_extension": "",
+      "primary_city": "City_98510",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98515",
+      "zip_extension": "",
+      "primary_city": "City_98515",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98520",
+      "zip_extension": "",
+      "primary_city": "City_98520",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98525",
+      "zip_extension": "",
+      "primary_city": "City_98525",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98530",
+      "zip_extension": "",
+      "primary_city": "City_98530",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98535",
+      "zip_extension": "",
+      "primary_city": "City_98535",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98540",
+      "zip_extension": "",
+      "primary_city": "City_98540",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98545",
+      "zip_extension": "",
+      "primary_city": "City_98545",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98550",
+      "zip_extension": "",
+      "primary_city": "City_98550",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98555",
+      "zip_extension": "",
+      "primary_city": "City_98555",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98560",
+      "zip_extension": "",
+      "primary_city": "City_98560",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98565",
+      "zip_extension": "",
+      "primary_city": "City_98565",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98570",
+      "zip_extension": "",
+      "primary_city": "City_98570",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98575",
+      "zip_extension": "",
+      "primary_city": "City_98575",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98580",
+      "zip_extension": "",
+      "primary_city": "City_98580",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98585",
+      "zip_extension": "",
+      "primary_city": "City_98585",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98590",
+      "zip_extension": "",
+      "primary_city": "City_98590",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98595",
+      "zip_extension": "",
+      "primary_city": "City_98595",
+      "acceptable_cities": "",
+      "county": "County_985",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98600",
+      "zip_extension": "",
+      "primary_city": "City_98600",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98605",
+      "zip_extension": "",
+      "primary_city": "City_98605",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98610",
+      "zip_extension": "",
+      "primary_city": "City_98610",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98615",
+      "zip_extension": "",
+      "primary_city": "City_98615",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98620",
+      "zip_extension": "",
+      "primary_city": "City_98620",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98625",
+      "zip_extension": "",
+      "primary_city": "City_98625",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98630",
+      "zip_extension": "",
+      "primary_city": "City_98630",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98635",
+      "zip_extension": "",
+      "primary_city": "City_98635",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98640",
+      "zip_extension": "",
+      "primary_city": "City_98640",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98645",
+      "zip_extension": "",
+      "primary_city": "City_98645",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98650",
+      "zip_extension": "",
+      "primary_city": "City_98650",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98655",
+      "zip_extension": "",
+      "primary_city": "City_98655",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98660",
+      "zip_extension": "",
+      "primary_city": "City_98660",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98665",
+      "zip_extension": "",
+      "primary_city": "City_98665",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98670",
+      "zip_extension": "",
+      "primary_city": "City_98670",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98675",
+      "zip_extension": "",
+      "primary_city": "City_98675",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98680",
+      "zip_extension": "",
+      "primary_city": "City_98680",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98685",
+      "zip_extension": "",
+      "primary_city": "City_98685",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98690",
+      "zip_extension": "",
+      "primary_city": "City_98690",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98695",
+      "zip_extension": "",
+      "primary_city": "City_98695",
+      "acceptable_cities": "",
+      "county": "County_986",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98700",
+      "zip_extension": "",
+      "primary_city": "City_98700",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98705",
+      "zip_extension": "",
+      "primary_city": "City_98705",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98710",
+      "zip_extension": "",
+      "primary_city": "City_98710",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98715",
+      "zip_extension": "",
+      "primary_city": "City_98715",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98720",
+      "zip_extension": "",
+      "primary_city": "City_98720",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98725",
+      "zip_extension": "",
+      "primary_city": "City_98725",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98730",
+      "zip_extension": "",
+      "primary_city": "City_98730",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98735",
+      "zip_extension": "",
+      "primary_city": "City_98735",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98740",
+      "zip_extension": "",
+      "primary_city": "City_98740",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98745",
+      "zip_extension": "",
+      "primary_city": "City_98745",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98750",
+      "zip_extension": "",
+      "primary_city": "City_98750",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98755",
+      "zip_extension": "",
+      "primary_city": "City_98755",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98760",
+      "zip_extension": "",
+      "primary_city": "City_98760",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98765",
+      "zip_extension": "",
+      "primary_city": "City_98765",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98770",
+      "zip_extension": "",
+      "primary_city": "City_98770",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98775",
+      "zip_extension": "",
+      "primary_city": "City_98775",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98780",
+      "zip_extension": "",
+      "primary_city": "City_98780",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98785",
+      "zip_extension": "",
+      "primary_city": "City_98785",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98790",
+      "zip_extension": "",
+      "primary_city": "City_98790",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98795",
+      "zip_extension": "",
+      "primary_city": "City_98795",
+      "acceptable_cities": "",
+      "county": "County_987",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98800",
+      "zip_extension": "",
+      "primary_city": "City_98800",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98805",
+      "zip_extension": "",
+      "primary_city": "City_98805",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98810",
+      "zip_extension": "",
+      "primary_city": "City_98810",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98815",
+      "zip_extension": "",
+      "primary_city": "City_98815",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98820",
+      "zip_extension": "",
+      "primary_city": "City_98820",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98825",
+      "zip_extension": "",
+      "primary_city": "City_98825",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98830",
+      "zip_extension": "",
+      "primary_city": "City_98830",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98835",
+      "zip_extension": "",
+      "primary_city": "City_98835",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98840",
+      "zip_extension": "",
+      "primary_city": "City_98840",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98845",
+      "zip_extension": "",
+      "primary_city": "City_98845",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98850",
+      "zip_extension": "",
+      "primary_city": "City_98850",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98855",
+      "zip_extension": "",
+      "primary_city": "City_98855",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98860",
+      "zip_extension": "",
+      "primary_city": "City_98860",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98865",
+      "zip_extension": "",
+      "primary_city": "City_98865",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98870",
+      "zip_extension": "",
+      "primary_city": "City_98870",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98875",
+      "zip_extension": "",
+      "primary_city": "City_98875",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98880",
+      "zip_extension": "",
+      "primary_city": "City_98880",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98885",
+      "zip_extension": "",
+      "primary_city": "City_98885",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98890",
+      "zip_extension": "",
+      "primary_city": "City_98890",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98895",
+      "zip_extension": "",
+      "primary_city": "City_98895",
+      "acceptable_cities": "",
+      "county": "County_988",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98900",
+      "zip_extension": "",
+      "primary_city": "City_98900",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98905",
+      "zip_extension": "",
+      "primary_city": "City_98905",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98910",
+      "zip_extension": "",
+      "primary_city": "City_98910",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98915",
+      "zip_extension": "",
+      "primary_city": "City_98915",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98920",
+      "zip_extension": "",
+      "primary_city": "City_98920",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98925",
+      "zip_extension": "",
+      "primary_city": "City_98925",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98930",
+      "zip_extension": "",
+      "primary_city": "City_98930",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98935",
+      "zip_extension": "",
+      "primary_city": "City_98935",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98940",
+      "zip_extension": "",
+      "primary_city": "City_98940",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98945",
+      "zip_extension": "",
+      "primary_city": "City_98945",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98950",
+      "zip_extension": "",
+      "primary_city": "City_98950",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98955",
+      "zip_extension": "",
+      "primary_city": "City_98955",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98960",
+      "zip_extension": "",
+      "primary_city": "City_98960",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98965",
+      "zip_extension": "",
+      "primary_city": "City_98965",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98970",
+      "zip_extension": "",
+      "primary_city": "City_98970",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98975",
+      "zip_extension": "",
+      "primary_city": "City_98975",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98980",
+      "zip_extension": "",
+      "primary_city": "City_98980",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98985",
+      "zip_extension": "",
+      "primary_city": "City_98985",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98990",
+      "zip_extension": "",
+      "primary_city": "City_98990",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "98995",
+      "zip_extension": "",
+      "primary_city": "City_98995",
+      "acceptable_cities": "",
+      "county": "County_989",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99000",
+      "zip_extension": "",
+      "primary_city": "City_99000",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99005",
+      "zip_extension": "",
+      "primary_city": "City_99005",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99010",
+      "zip_extension": "",
+      "primary_city": "City_99010",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99015",
+      "zip_extension": "",
+      "primary_city": "City_99015",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99020",
+      "zip_extension": "",
+      "primary_city": "City_99020",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99025",
+      "zip_extension": "",
+      "primary_city": "City_99025",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99030",
+      "zip_extension": "",
+      "primary_city": "City_99030",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99035",
+      "zip_extension": "",
+      "primary_city": "City_99035",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99040",
+      "zip_extension": "",
+      "primary_city": "City_99040",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99045",
+      "zip_extension": "",
+      "primary_city": "City_99045",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99050",
+      "zip_extension": "",
+      "primary_city": "City_99050",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99055",
+      "zip_extension": "",
+      "primary_city": "City_99055",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99060",
+      "zip_extension": "",
+      "primary_city": "City_99060",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99065",
+      "zip_extension": "",
+      "primary_city": "City_99065",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99070",
+      "zip_extension": "",
+      "primary_city": "City_99070",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99075",
+      "zip_extension": "",
+      "primary_city": "City_99075",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99080",
+      "zip_extension": "",
+      "primary_city": "City_99080",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99085",
+      "zip_extension": "",
+      "primary_city": "City_99085",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99090",
+      "zip_extension": "",
+      "primary_city": "City_99090",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99095",
+      "zip_extension": "",
+      "primary_city": "City_99095",
+      "acceptable_cities": "",
+      "county": "County_990",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99100",
+      "zip_extension": "",
+      "primary_city": "City_99100",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99105",
+      "zip_extension": "",
+      "primary_city": "City_99105",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99110",
+      "zip_extension": "",
+      "primary_city": "City_99110",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99115",
+      "zip_extension": "",
+      "primary_city": "City_99115",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99120",
+      "zip_extension": "",
+      "primary_city": "City_99120",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99125",
+      "zip_extension": "",
+      "primary_city": "City_99125",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99130",
+      "zip_extension": "",
+      "primary_city": "City_99130",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99135",
+      "zip_extension": "",
+      "primary_city": "City_99135",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99140",
+      "zip_extension": "",
+      "primary_city": "City_99140",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99145",
+      "zip_extension": "",
+      "primary_city": "City_99145",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99150",
+      "zip_extension": "",
+      "primary_city": "City_99150",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99155",
+      "zip_extension": "",
+      "primary_city": "City_99155",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99160",
+      "zip_extension": "",
+      "primary_city": "City_99160",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99165",
+      "zip_extension": "",
+      "primary_city": "City_99165",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99170",
+      "zip_extension": "",
+      "primary_city": "City_99170",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99175",
+      "zip_extension": "",
+      "primary_city": "City_99175",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99180",
+      "zip_extension": "",
+      "primary_city": "City_99180",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99185",
+      "zip_extension": "",
+      "primary_city": "City_99185",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99190",
+      "zip_extension": "",
+      "primary_city": "City_99190",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99195",
+      "zip_extension": "",
+      "primary_city": "City_99195",
+      "acceptable_cities": "",
+      "county": "County_991",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99200",
+      "zip_extension": "",
+      "primary_city": "City_99200",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99205",
+      "zip_extension": "",
+      "primary_city": "City_99205",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99210",
+      "zip_extension": "",
+      "primary_city": "City_99210",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99215",
+      "zip_extension": "",
+      "primary_city": "City_99215",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99220",
+      "zip_extension": "",
+      "primary_city": "City_99220",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99225",
+      "zip_extension": "",
+      "primary_city": "City_99225",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99230",
+      "zip_extension": "",
+      "primary_city": "City_99230",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99235",
+      "zip_extension": "",
+      "primary_city": "City_99235",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99240",
+      "zip_extension": "",
+      "primary_city": "City_99240",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99245",
+      "zip_extension": "",
+      "primary_city": "City_99245",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99250",
+      "zip_extension": "",
+      "primary_city": "City_99250",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99255",
+      "zip_extension": "",
+      "primary_city": "City_99255",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99260",
+      "zip_extension": "",
+      "primary_city": "City_99260",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99265",
+      "zip_extension": "",
+      "primary_city": "City_99265",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99270",
+      "zip_extension": "",
+      "primary_city": "City_99270",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99275",
+      "zip_extension": "",
+      "primary_city": "City_99275",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99280",
+      "zip_extension": "",
+      "primary_city": "City_99280",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99285",
+      "zip_extension": "",
+      "primary_city": "City_99285",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99290",
+      "zip_extension": "",
+      "primary_city": "City_99290",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99295",
+      "zip_extension": "",
+      "primary_city": "City_99295",
+      "acceptable_cities": "",
+      "county": "County_992",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99300",
+      "zip_extension": "",
+      "primary_city": "City_99300",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99305",
+      "zip_extension": "",
+      "primary_city": "City_99305",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99310",
+      "zip_extension": "",
+      "primary_city": "City_99310",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99315",
+      "zip_extension": "",
+      "primary_city": "City_99315",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99320",
+      "zip_extension": "",
+      "primary_city": "City_99320",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99325",
+      "zip_extension": "",
+      "primary_city": "City_99325",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99330",
+      "zip_extension": "",
+      "primary_city": "City_99330",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99335",
+      "zip_extension": "",
+      "primary_city": "City_99335",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99340",
+      "zip_extension": "",
+      "primary_city": "City_99340",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99345",
+      "zip_extension": "",
+      "primary_city": "City_99345",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99350",
+      "zip_extension": "",
+      "primary_city": "City_99350",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99355",
+      "zip_extension": "",
+      "primary_city": "City_99355",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99360",
+      "zip_extension": "",
+      "primary_city": "City_99360",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99365",
+      "zip_extension": "",
+      "primary_city": "City_99365",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99370",
+      "zip_extension": "",
+      "primary_city": "City_99370",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99375",
+      "zip_extension": "",
+      "primary_city": "City_99375",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99380",
+      "zip_extension": "",
+      "primary_city": "City_99380",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99385",
+      "zip_extension": "",
+      "primary_city": "City_99385",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99390",
+      "zip_extension": "",
+      "primary_city": "City_99390",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99395",
+      "zip_extension": "",
+      "primary_city": "City_99395",
+      "acceptable_cities": "",
+      "county": "County_993",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99400",
+      "zip_extension": "",
+      "primary_city": "City_99400",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99405",
+      "zip_extension": "",
+      "primary_city": "City_99405",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99410",
+      "zip_extension": "",
+      "primary_city": "City_99410",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99415",
+      "zip_extension": "",
+      "primary_city": "City_99415",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99420",
+      "zip_extension": "",
+      "primary_city": "City_99420",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99425",
+      "zip_extension": "",
+      "primary_city": "City_99425",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99430",
+      "zip_extension": "",
+      "primary_city": "City_99430",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99435",
+      "zip_extension": "",
+      "primary_city": "City_99435",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99440",
+      "zip_extension": "",
+      "primary_city": "City_99440",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99445",
+      "zip_extension": "",
+      "primary_city": "City_99445",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99450",
+      "zip_extension": "",
+      "primary_city": "City_99450",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99455",
+      "zip_extension": "",
+      "primary_city": "City_99455",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99460",
+      "zip_extension": "",
+      "primary_city": "City_99460",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99465",
+      "zip_extension": "",
+      "primary_city": "City_99465",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99470",
+      "zip_extension": "",
+      "primary_city": "City_99470",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99475",
+      "zip_extension": "",
+      "primary_city": "City_99475",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99480",
+      "zip_extension": "",
+      "primary_city": "City_99480",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99485",
+      "zip_extension": "",
+      "primary_city": "City_99485",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99490",
+      "zip_extension": "",
+      "primary_city": "City_99490",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "99495",
+      "zip_extension": "",
+      "primary_city": "City_99495",
+      "acceptable_cities": "",
+      "county": "County_994",
+      "state": "Washington",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

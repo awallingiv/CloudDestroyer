@@ -1,0 +1,4007 @@
+{
+  "state": "Kansas",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 400,
+  "zipcodes": [
+    {
+      "zip_code": "66000",
+      "zip_extension": "",
+      "primary_city": "City_66000",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66005",
+      "zip_extension": "",
+      "primary_city": "City_66005",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66010",
+      "zip_extension": "",
+      "primary_city": "City_66010",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66015",
+      "zip_extension": "",
+      "primary_city": "City_66015",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66020",
+      "zip_extension": "",
+      "primary_city": "City_66020",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66025",
+      "zip_extension": "",
+      "primary_city": "City_66025",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66030",
+      "zip_extension": "",
+      "primary_city": "City_66030",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66035",
+      "zip_extension": "",
+      "primary_city": "City_66035",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66040",
+      "zip_extension": "",
+      "primary_city": "City_66040",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66045",
+      "zip_extension": "",
+      "primary_city": "City_66045",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66050",
+      "zip_extension": "",
+      "primary_city": "City_66050",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66055",
+      "zip_extension": "",
+      "primary_city": "City_66055",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66060",
+      "zip_extension": "",
+      "primary_city": "City_66060",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66065",
+      "zip_extension": "",
+      "primary_city": "City_66065",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66070",
+      "zip_extension": "",
+      "primary_city": "City_66070",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66075",
+      "zip_extension": "",
+      "primary_city": "City_66075",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66080",
+      "zip_extension": "",
+      "primary_city": "City_66080",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66085",
+      "zip_extension": "",
+      "primary_city": "City_66085",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66090",
+      "zip_extension": "",
+      "primary_city": "City_66090",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66095",
+      "zip_extension": "",
+      "primary_city": "City_66095",
+      "acceptable_cities": "",
+      "county": "County_660",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66100",
+      "zip_extension": "",
+      "primary_city": "City_66100",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66105",
+      "zip_extension": "",
+      "primary_city": "City_66105",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66110",
+      "zip_extension": "",
+      "primary_city": "City_66110",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66115",
+      "zip_extension": "",
+      "primary_city": "City_66115",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66120",
+      "zip_extension": "",
+      "primary_city": "City_66120",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66125",
+      "zip_extension": "",
+      "primary_city": "City_66125",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66130",
+      "zip_extension": "",
+      "primary_city": "City_66130",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66135",
+      "zip_extension": "",
+      "primary_city": "City_66135",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66140",
+      "zip_extension": "",
+      "primary_city": "City_66140",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66145",
+      "zip_extension": "",
+      "primary_city": "City_66145",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66150",
+      "zip_extension": "",
+      "primary_city": "City_66150",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66155",
+      "zip_extension": "",
+      "primary_city": "City_66155",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66160",
+      "zip_extension": "",
+      "primary_city": "City_66160",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66165",
+      "zip_extension": "",
+      "primary_city": "City_66165",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66170",
+      "zip_extension": "",
+      "primary_city": "City_66170",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66175",
+      "zip_extension": "",
+      "primary_city": "City_66175",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66180",
+      "zip_extension": "",
+      "primary_city": "City_66180",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66185",
+      "zip_extension": "",
+      "primary_city": "City_66185",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66190",
+      "zip_extension": "",
+      "primary_city": "City_66190",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66195",
+      "zip_extension": "",
+      "primary_city": "City_66195",
+      "acceptable_cities": "",
+      "county": "County_661",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66200",
+      "zip_extension": "",
+      "primary_city": "City_66200",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66205",
+      "zip_extension": "",
+      "primary_city": "City_66205",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66210",
+      "zip_extension": "",
+      "primary_city": "City_66210",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66215",
+      "zip_extension": "",
+      "primary_city": "City_66215",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66220",
+      "zip_extension": "",
+      "primary_city": "City_66220",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66225",
+      "zip_extension": "",
+      "primary_city": "City_66225",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66230",
+      "zip_extension": "",
+      "primary_city": "City_66230",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66235",
+      "zip_extension": "",
+      "primary_city": "City_66235",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66240",
+      "zip_extension": "",
+      "primary_city": "City_66240",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66245",
+      "zip_extension": "",
+      "primary_city": "City_66245",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66250",
+      "zip_extension": "",
+      "primary_city": "City_66250",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66255",
+      "zip_extension": "",
+      "primary_city": "City_66255",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66260",
+      "zip_extension": "",
+      "primary_city": "City_66260",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66265",
+      "zip_extension": "",
+      "primary_city": "City_66265",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66270",
+      "zip_extension": "",
+      "primary_city": "City_66270",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66275",
+      "zip_extension": "",
+      "primary_city": "City_66275",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66280",
+      "zip_extension": "",
+      "primary_city": "City_66280",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66285",
+      "zip_extension": "",
+      "primary_city": "City_66285",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66290",
+      "zip_extension": "",
+      "primary_city": "City_66290",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66295",
+      "zip_extension": "",
+      "primary_city": "City_66295",
+      "acceptable_cities": "",
+      "county": "County_662",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66300",
+      "zip_extension": "",
+      "primary_city": "City_66300",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66305",
+      "zip_extension": "",
+      "primary_city": "City_66305",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66310",
+      "zip_extension": "",
+      "primary_city": "City_66310",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66315",
+      "zip_extension": "",
+      "primary_city": "City_66315",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66320",
+      "zip_extension": "",
+      "primary_city": "City_66320",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66325",
+      "zip_extension": "",
+      "primary_city": "City_66325",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66330",
+      "zip_extension": "",
+      "primary_city": "City_66330",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66335",
+      "zip_extension": "",
+      "primary_city": "City_66335",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66340",
+      "zip_extension": "",
+      "primary_city": "City_66340",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66345",
+      "zip_extension": "",
+      "primary_city": "City_66345",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66350",
+      "zip_extension": "",
+      "primary_city": "City_66350",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66355",
+      "zip_extension": "",
+      "primary_city": "City_66355",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66360",
+      "zip_extension": "",
+      "primary_city": "City_66360",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66365",
+      "zip_extension": "",
+      "primary_city": "City_66365",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66370",
+      "zip_extension": "",
+      "primary_city": "City_66370",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66375",
+      "zip_extension": "",
+      "primary_city": "City_66375",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66380",
+      "zip_extension": "",
+      "primary_city": "City_66380",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66385",
+      "zip_extension": "",
+      "primary_city": "City_66385",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66390",
+      "zip_extension": "",
+      "primary_city": "City_66390",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66395",
+      "zip_extension": "",
+      "primary_city": "City_66395",
+      "acceptable_cities": "",
+      "county": "County_663",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66400",
+      "zip_extension": "",
+      "primary_city": "City_66400",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66405",
+      "zip_extension": "",
+      "primary_city": "City_66405",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66410",
+      "zip_extension": "",
+      "primary_city": "City_66410",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66415",
+      "zip_extension": "",
+      "primary_city": "City_66415",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66420",
+      "zip_extension": "",
+      "primary_city": "City_66420",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66425",
+      "zip_extension": "",
+      "primary_city": "City_66425",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66430",
+      "zip_extension": "",
+      "primary_city": "City_66430",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66435",
+      "zip_extension": "",
+      "primary_city": "City_66435",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66440",
+      "zip_extension": "",
+      "primary_city": "City_66440",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66445",
+      "zip_extension": "",
+      "primary_city": "City_66445",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66450",
+      "zip_extension": "",
+      "primary_city": "City_66450",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66455",
+      "zip_extension": "",
+      "primary_city": "City_66455",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66460",
+      "zip_extension": "",
+      "primary_city": "City_66460",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66465",
+      "zip_extension": "",
+      "primary_city": "City_66465",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66470",
+      "zip_extension": "",
+      "primary_city": "City_66470",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66475",
+      "zip_extension": "",
+      "primary_city": "City_66475",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66480",
+      "zip_extension": "",
+      "primary_city": "City_66480",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66485",
+      "zip_extension": "",
+      "primary_city": "City_66485",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66490",
+      "zip_extension": "",
+      "primary_city": "City_66490",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66495",
+      "zip_extension": "",
+      "primary_city": "City_66495",
+      "acceptable_cities": "",
+      "county": "County_664",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66500",
+      "zip_extension": "",
+      "primary_city": "City_66500",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66505",
+      "zip_extension": "",
+      "primary_city": "City_66505",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66510",
+      "zip_extension": "",
+      "primary_city": "City_66510",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66515",
+      "zip_extension": "",
+      "primary_city": "City_66515",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66520",
+      "zip_extension": "",
+      "primary_city": "City_66520",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66525",
+      "zip_extension": "",
+      "primary_city": "City_66525",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66530",
+      "zip_extension": "",
+      "primary_city": "City_66530",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66535",
+      "zip_extension": "",
+      "primary_city": "City_66535",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66540",
+      "zip_extension": "",
+      "primary_city": "City_66540",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66545",
+      "zip_extension": "",
+      "primary_city": "City_66545",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66550",
+      "zip_extension": "",
+      "primary_city": "City_66550",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66555",
+      "zip_extension": "",
+      "primary_city": "City_66555",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66560",
+      "zip_extension": "",
+      "primary_city": "City_66560",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66565",
+      "zip_extension": "",
+      "primary_city": "City_66565",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66570",
+      "zip_extension": "",
+      "primary_city": "City_66570",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66575",
+      "zip_extension": "",
+      "primary_city": "City_66575",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66580",
+      "zip_extension": "",
+      "primary_city": "City_66580",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66585",
+      "zip_extension": "",
+      "primary_city": "City_66585",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66590",
+      "zip_extension": "",
+      "primary_city": "City_66590",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66595",
+      "zip_extension": "",
+      "primary_city": "City_66595",
+      "acceptable_cities": "",
+      "county": "County_665",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66600",
+      "zip_extension": "",
+      "primary_city": "City_66600",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66605",
+      "zip_extension": "",
+      "primary_city": "City_66605",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66610",
+      "zip_extension": "",
+      "primary_city": "City_66610",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66615",
+      "zip_extension": "",
+      "primary_city": "City_66615",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66620",
+      "zip_extension": "",
+      "primary_city": "City_66620",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66625",
+      "zip_extension": "",
+      "primary_city": "City_66625",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66630",
+      "zip_extension": "",
+      "primary_city": "City_66630",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66635",
+      "zip_extension": "",
+      "primary_city": "City_66635",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66640",
+      "zip_extension": "",
+      "primary_city": "City_66640",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66645",
+      "zip_extension": "",
+      "primary_city": "City_66645",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66650",
+      "zip_extension": "",
+      "primary_city": "City_66650",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66655",
+      "zip_extension": "",
+      "primary_city": "City_66655",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66660",
+      "zip_extension": "",
+      "primary_city": "City_66660",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66665",
+      "zip_extension": "",
+      "primary_city": "City_66665",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66670",
+      "zip_extension": "",
+      "primary_city": "City_66670",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66675",
+      "zip_extension": "",
+      "primary_city": "City_66675",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66680",
+      "zip_extension": "",
+      "primary_city": "City_66680",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66685",
+      "zip_extension": "",
+      "primary_city": "City_66685",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66690",
+      "zip_extension": "",
+      "primary_city": "City_66690",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66695",
+      "zip_extension": "",
+      "primary_city": "City_66695",
+      "acceptable_cities": "",
+      "county": "County_666",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66700",
+      "zip_extension": "",
+      "primary_city": "City_66700",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66705",
+      "zip_extension": "",
+      "primary_city": "City_66705",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66710",
+      "zip_extension": "",
+      "primary_city": "City_66710",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66715",
+      "zip_extension": "",
+      "primary_city": "City_66715",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66720",
+      "zip_extension": "",
+      "primary_city": "City_66720",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66725",
+      "zip_extension": "",
+      "primary_city": "City_66725",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66730",
+      "zip_extension": "",
+      "primary_city": "City_66730",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66735",
+      "zip_extension": "",
+      "primary_city": "City_66735",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66740",
+      "zip_extension": "",
+      "primary_city": "City_66740",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66745",
+      "zip_extension": "",
+      "primary_city": "City_66745",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66750",
+      "zip_extension": "",
+      "primary_city": "City_66750",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66755",
+      "zip_extension": "",
+      "primary_city": "City_66755",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66760",
+      "zip_extension": "",
+      "primary_city": "City_66760",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66765",
+      "zip_extension": "",
+      "primary_city": "City_66765",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66770",
+      "zip_extension": "",
+      "primary_city": "City_66770",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66775",
+      "zip_extension": "",
+      "primary_city": "City_66775",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66780",
+      "zip_extension": "",
+      "primary_city": "City_66780",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66785",
+      "zip_extension": "",
+      "primary_city": "City_66785",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66790",
+      "zip_extension": "",
+      "primary_city": "City_66790",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66795",
+      "zip_extension": "",
+      "primary_city": "City_66795",
+      "acceptable_cities": "",
+      "county": "County_667",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66800",
+      "zip_extension": "",
+      "primary_city": "City_66800",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66805",
+      "zip_extension": "",
+      "primary_city": "City_66805",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66810",
+      "zip_extension": "",
+      "primary_city": "City_66810",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66815",
+      "zip_extension": "",
+      "primary_city": "City_66815",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66820",
+      "zip_extension": "",
+      "primary_city": "City_66820",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66825",
+      "zip_extension": "",
+      "primary_city": "City_66825",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66830",
+      "zip_extension": "",
+      "primary_city": "City_66830",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66835",
+      "zip_extension": "",
+      "primary_city": "City_66835",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66840",
+      "zip_extension": "",
+      "primary_city": "City_66840",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66845",
+      "zip_extension": "",
+      "primary_city": "City_66845",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66850",
+      "zip_extension": "",
+      "primary_city": "City_66850",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66855",
+      "zip_extension": "",
+      "primary_city": "City_66855",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66860",
+      "zip_extension": "",
+      "primary_city": "City_66860",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66865",
+      "zip_extension": "",
+      "primary_city": "City_66865",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66870",
+      "zip_extension": "",
+      "primary_city": "City_66870",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66875",
+      "zip_extension": "",
+      "primary_city": "City_66875",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66880",
+      "zip_extension": "",
+      "primary_city": "City_66880",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66885",
+      "zip_extension": "",
+      "primary_city": "City_66885",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66890",
+      "zip_extension": "",
+      "primary_city": "City_66890",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66895",
+      "zip_extension": "",
+      "primary_city": "City_66895",
+      "acceptable_cities": "",
+      "county": "County_668",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66900",
+      "zip_extension": "",
+      "primary_city": "City_66900",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66905",
+      "zip_extension": "",
+      "primary_city": "City_66905",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66910",
+      "zip_extension": "",
+      "primary_city": "City_66910",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66915",
+      "zip_extension": "",
+      "primary_city": "City_66915",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66920",
+      "zip_extension": "",
+      "primary_city": "City_66920",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66925",
+      "zip_extension": "",
+      "primary_city": "City_66925",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66930",
+      "zip_extension": "",
+      "primary_city": "City_66930",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66935",
+      "zip_extension": "",
+      "primary_city": "City_66935",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66940",
+      "zip_extension": "",
+      "primary_city": "City_66940",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66945",
+      "zip_extension": "",
+      "primary_city": "City_66945",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66950",
+      "zip_extension": "",
+      "primary_city": "City_66950",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66955",
+      "zip_extension": "",
+      "primary_city": "City_66955",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66960",
+      "zip_extension": "",
+      "primary_city": "City_66960",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66965",
+      "zip_extension": "",
+      "primary_city": "City_66965",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66970",
+      "zip_extension": "",
+      "primary_city": "City_66970",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66975",
+      "zip_extension": "",
+      "primary_city": "City_66975",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66980",
+      "zip_extension": "",
+      "primary_city": "City_66980",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66985",
+      "zip_extension": "",
+      "primary_city": "City_66985",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66990",
+      "zip_extension": "",
+      "primary_city": "City_66990",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "66995",
+      "zip_extension": "",
+      "primary_city": "City_66995",
+      "acceptable_cities": "",
+      "county": "County_669",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67000",
+      "zip_extension": "",
+      "primary_city": "City_67000",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67005",
+      "zip_extension": "",
+      "primary_city": "City_67005",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67010",
+      "zip_extension": "",
+      "primary_city": "City_67010",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67015",
+      "zip_extension": "",
+      "primary_city": "City_67015",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67020",
+      "zip_extension": "",
+      "primary_city": "City_67020",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67025",
+      "zip_extension": "",
+      "primary_city": "City_67025",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67030",
+      "zip_extension": "",
+      "primary_city": "City_67030",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67035",
+      "zip_extension": "",
+      "primary_city": "City_67035",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67040",
+      "zip_extension": "",
+      "primary_city": "City_67040",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67045",
+      "zip_extension": "",
+      "primary_city": "City_67045",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67050",
+      "zip_extension": "",
+      "primary_city": "City_67050",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67055",
+      "zip_extension": "",
+      "primary_city": "City_67055",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67060",
+      "zip_extension": "",
+      "primary_city": "City_67060",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67065",
+      "zip_extension": "",
+      "primary_city": "City_67065",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67070",
+      "zip_extension": "",
+      "primary_city": "City_67070",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67075",
+      "zip_extension": "",
+      "primary_city": "City_67075",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67080",
+      "zip_extension": "",
+      "primary_city": "City_67080",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67085",
+      "zip_extension": "",
+      "primary_city": "City_67085",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67090",
+      "zip_extension": "",
+      "primary_city": "City_67090",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67095",
+      "zip_extension": "",
+      "primary_city": "City_67095",
+      "acceptable_cities": "",
+      "county": "County_670",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67100",
+      "zip_extension": "",
+      "primary_city": "City_67100",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67105",
+      "zip_extension": "",
+      "primary_city": "City_67105",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67110",
+      "zip_extension": "",
+      "primary_city": "City_67110",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67115",
+      "zip_extension": "",
+      "primary_city": "City_67115",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67120",
+      "zip_extension": "",
+      "primary_city": "City_67120",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67125",
+      "zip_extension": "",
+      "primary_city": "City_67125",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67130",
+      "zip_extension": "",
+      "primary_city": "City_67130",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67135",
+      "zip_extension": "",
+      "primary_city": "City_67135",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67140",
+      "zip_extension": "",
+      "primary_city": "City_67140",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67145",
+      "zip_extension": "",
+      "primary_city": "City_67145",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67150",
+      "zip_extension": "",
+      "primary_city": "City_67150",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67155",
+      "zip_extension": "",
+      "primary_city": "City_67155",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67160",
+      "zip_extension": "",
+      "primary_city": "City_67160",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67165",
+      "zip_extension": "",
+      "primary_city": "City_67165",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67170",
+      "zip_extension": "",
+      "primary_city": "City_67170",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67175",
+      "zip_extension": "",
+      "primary_city": "City_67175",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67180",
+      "zip_extension": "",
+      "primary_city": "City_67180",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67185",
+      "zip_extension": "",
+      "primary_city": "City_67185",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67190",
+      "zip_extension": "",
+      "primary_city": "City_67190",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67195",
+      "zip_extension": "",
+      "primary_city": "City_67195",
+      "acceptable_cities": "",
+      "county": "County_671",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67200",
+      "zip_extension": "",
+      "primary_city": "City_67200",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67205",
+      "zip_extension": "",
+      "primary_city": "City_67205",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67210",
+      "zip_extension": "",
+      "primary_city": "City_67210",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67215",
+      "zip_extension": "",
+      "primary_city": "City_67215",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67220",
+      "zip_extension": "",
+      "primary_city": "City_67220",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67225",
+      "zip_extension": "",
+      "primary_city": "City_67225",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67230",
+      "zip_extension": "",
+      "primary_city": "City_67230",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67235",
+      "zip_extension": "",
+      "primary_city": "City_67235",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67240",
+      "zip_extension": "",
+      "primary_city": "City_67240",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67245",
+      "zip_extension": "",
+      "primary_city": "City_67245",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67250",
+      "zip_extension": "",
+      "primary_city": "City_67250",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67255",
+      "zip_extension": "",
+      "primary_city": "City_67255",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67260",
+      "zip_extension": "",
+      "primary_city": "City_67260",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67265",
+      "zip_extension": "",
+      "primary_city": "City_67265",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67270",
+      "zip_extension": "",
+      "primary_city": "City_67270",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67275",
+      "zip_extension": "",
+      "primary_city": "City_67275",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67280",
+      "zip_extension": "",
+      "primary_city": "City_67280",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67285",
+      "zip_extension": "",
+      "primary_city": "City_67285",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67290",
+      "zip_extension": "",
+      "primary_city": "City_67290",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67295",
+      "zip_extension": "",
+      "primary_city": "City_67295",
+      "acceptable_cities": "",
+      "county": "County_672",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67300",
+      "zip_extension": "",
+      "primary_city": "City_67300",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67305",
+      "zip_extension": "",
+      "primary_city": "City_67305",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67310",
+      "zip_extension": "",
+      "primary_city": "City_67310",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67315",
+      "zip_extension": "",
+      "primary_city": "City_67315",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67320",
+      "zip_extension": "",
+      "primary_city": "City_67320",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67325",
+      "zip_extension": "",
+      "primary_city": "City_67325",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67330",
+      "zip_extension": "",
+      "primary_city": "City_67330",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67335",
+      "zip_extension": "",
+      "primary_city": "City_67335",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67340",
+      "zip_extension": "",
+      "primary_city": "City_67340",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67345",
+      "zip_extension": "",
+      "primary_city": "City_67345",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67350",
+      "zip_extension": "",
+      "primary_city": "City_67350",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67355",
+      "zip_extension": "",
+      "primary_city": "City_67355",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67360",
+      "zip_extension": "",
+      "primary_city": "City_67360",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67365",
+      "zip_extension": "",
+      "primary_city": "City_67365",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67370",
+      "zip_extension": "",
+      "primary_city": "City_67370",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67375",
+      "zip_extension": "",
+      "primary_city": "City_67375",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67380",
+      "zip_extension": "",
+      "primary_city": "City_67380",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67385",
+      "zip_extension": "",
+      "primary_city": "City_67385",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67390",
+      "zip_extension": "",
+      "primary_city": "City_67390",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67395",
+      "zip_extension": "",
+      "primary_city": "City_67395",
+      "acceptable_cities": "",
+      "county": "County_673",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67400",
+      "zip_extension": "",
+      "primary_city": "City_67400",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67405",
+      "zip_extension": "",
+      "primary_city": "City_67405",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67410",
+      "zip_extension": "",
+      "primary_city": "City_67410",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67415",
+      "zip_extension": "",
+      "primary_city": "City_67415",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67420",
+      "zip_extension": "",
+      "primary_city": "City_67420",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67425",
+      "zip_extension": "",
+      "primary_city": "City_67425",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67430",
+      "zip_extension": "",
+      "primary_city": "City_67430",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67435",
+      "zip_extension": "",
+      "primary_city": "City_67435",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67440",
+      "zip_extension": "",
+      "primary_city": "City_67440",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67445",
+      "zip_extension": "",
+      "primary_city": "City_67445",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67450",
+      "zip_extension": "",
+      "primary_city": "City_67450",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67455",
+      "zip_extension": "",
+      "primary_city": "City_67455",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67460",
+      "zip_extension": "",
+      "primary_city": "City_67460",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67465",
+      "zip_extension": "",
+      "primary_city": "City_67465",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67470",
+      "zip_extension": "",
+      "primary_city": "City_67470",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67475",
+      "zip_extension": "",
+      "primary_city": "City_67475",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67480",
+      "zip_extension": "",
+      "primary_city": "City_67480",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67485",
+      "zip_extension": "",
+      "primary_city": "City_67485",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67490",
+      "zip_extension": "",
+      "primary_city": "City_67490",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67495",
+      "zip_extension": "",
+      "primary_city": "City_67495",
+      "acceptable_cities": "",
+      "county": "County_674",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67500",
+      "zip_extension": "",
+      "primary_city": "City_67500",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67505",
+      "zip_extension": "",
+      "primary_city": "City_67505",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67510",
+      "zip_extension": "",
+      "primary_city": "City_67510",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67515",
+      "zip_extension": "",
+      "primary_city": "City_67515",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67520",
+      "zip_extension": "",
+      "primary_city": "City_67520",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67525",
+      "zip_extension": "",
+      "primary_city": "City_67525",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67530",
+      "zip_extension": "",
+      "primary_city": "City_67530",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67535",
+      "zip_extension": "",
+      "primary_city": "City_67535",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67540",
+      "zip_extension": "",
+      "primary_city": "City_67540",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67545",
+      "zip_extension": "",
+      "primary_city": "City_67545",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67550",
+      "zip_extension": "",
+      "primary_city": "City_67550",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67555",
+      "zip_extension": "",
+      "primary_city": "City_67555",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67560",
+      "zip_extension": "",
+      "primary_city": "City_67560",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67565",
+      "zip_extension": "",
+      "primary_city": "City_67565",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67570",
+      "zip_extension": "",
+      "primary_city": "City_67570",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67575",
+      "zip_extension": "",
+      "primary_city": "City_67575",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67580",
+      "zip_extension": "",
+      "primary_city": "City_67580",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67585",
+      "zip_extension": "",
+      "primary_city": "City_67585",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67590",
+      "zip_extension": "",
+      "primary_city": "City_67590",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67595",
+      "zip_extension": "",
+      "primary_city": "City_67595",
+      "acceptable_cities": "",
+      "county": "County_675",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67600",
+      "zip_extension": "",
+      "primary_city": "City_67600",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67605",
+      "zip_extension": "",
+      "primary_city": "City_67605",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67610",
+      "zip_extension": "",
+      "primary_city": "City_67610",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67615",
+      "zip_extension": "",
+      "primary_city": "City_67615",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67620",
+      "zip_extension": "",
+      "primary_city": "City_67620",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67625",
+      "zip_extension": "",
+      "primary_city": "City_67625",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67630",
+      "zip_extension": "",
+      "primary_city": "City_67630",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67635",
+      "zip_extension": "",
+      "primary_city": "City_67635",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67640",
+      "zip_extension": "",
+      "primary_city": "City_67640",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67645",
+      "zip_extension": "",
+      "primary_city": "City_67645",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67650",
+      "zip_extension": "",
+      "primary_city": "City_67650",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67655",
+      "zip_extension": "",
+      "primary_city": "City_67655",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67660",
+      "zip_extension": "",
+      "primary_city": "City_67660",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67665",
+      "zip_extension": "",
+      "primary_city": "City_67665",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67670",
+      "zip_extension": "",
+      "primary_city": "City_67670",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67675",
+      "zip_extension": "",
+      "primary_city": "City_67675",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67680",
+      "zip_extension": "",
+      "primary_city": "City_67680",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67685",
+      "zip_extension": "",
+      "primary_city": "City_67685",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67690",
+      "zip_extension": "",
+      "primary_city": "City_67690",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67695",
+      "zip_extension": "",
+      "primary_city": "City_67695",
+      "acceptable_cities": "",
+      "county": "County_676",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67700",
+      "zip_extension": "",
+      "primary_city": "City_67700",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67705",
+      "zip_extension": "",
+      "primary_city": "City_67705",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67710",
+      "zip_extension": "",
+      "primary_city": "City_67710",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67715",
+      "zip_extension": "",
+      "primary_city": "City_67715",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67720",
+      "zip_extension": "",
+      "primary_city": "City_67720",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67725",
+      "zip_extension": "",
+      "primary_city": "City_67725",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67730",
+      "zip_extension": "",
+      "primary_city": "City_67730",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67735",
+      "zip_extension": "",
+      "primary_city": "City_67735",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67740",
+      "zip_extension": "",
+      "primary_city": "City_67740",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67745",
+      "zip_extension": "",
+      "primary_city": "City_67745",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67750",
+      "zip_extension": "",
+      "primary_city": "City_67750",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67755",
+      "zip_extension": "",
+      "primary_city": "City_67755",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67760",
+      "zip_extension": "",
+      "primary_city": "City_67760",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67765",
+      "zip_extension": "",
+      "primary_city": "City_67765",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67770",
+      "zip_extension": "",
+      "primary_city": "City_67770",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67775",
+      "zip_extension": "",
+      "primary_city": "City_67775",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67780",
+      "zip_extension": "",
+      "primary_city": "City_67780",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67785",
+      "zip_extension": "",
+      "primary_city": "City_67785",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67790",
+      "zip_extension": "",
+      "primary_city": "City_67790",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67795",
+      "zip_extension": "",
+      "primary_city": "City_67795",
+      "acceptable_cities": "",
+      "county": "County_677",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67800",
+      "zip_extension": "",
+      "primary_city": "City_67800",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67805",
+      "zip_extension": "",
+      "primary_city": "City_67805",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67810",
+      "zip_extension": "",
+      "primary_city": "City_67810",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67815",
+      "zip_extension": "",
+      "primary_city": "City_67815",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67820",
+      "zip_extension": "",
+      "primary_city": "City_67820",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67825",
+      "zip_extension": "",
+      "primary_city": "City_67825",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67830",
+      "zip_extension": "",
+      "primary_city": "City_67830",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67835",
+      "zip_extension": "",
+      "primary_city": "City_67835",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67840",
+      "zip_extension": "",
+      "primary_city": "City_67840",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67845",
+      "zip_extension": "",
+      "primary_city": "City_67845",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67850",
+      "zip_extension": "",
+      "primary_city": "City_67850",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67855",
+      "zip_extension": "",
+      "primary_city": "City_67855",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67860",
+      "zip_extension": "",
+      "primary_city": "City_67860",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67865",
+      "zip_extension": "",
+      "primary_city": "City_67865",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67870",
+      "zip_extension": "",
+      "primary_city": "City_67870",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67875",
+      "zip_extension": "",
+      "primary_city": "City_67875",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67880",
+      "zip_extension": "",
+      "primary_city": "City_67880",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67885",
+      "zip_extension": "",
+      "primary_city": "City_67885",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67890",
+      "zip_extension": "",
+      "primary_city": "City_67890",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67895",
+      "zip_extension": "",
+      "primary_city": "City_67895",
+      "acceptable_cities": "",
+      "county": "County_678",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67900",
+      "zip_extension": "",
+      "primary_city": "City_67900",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67905",
+      "zip_extension": "",
+      "primary_city": "City_67905",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67910",
+      "zip_extension": "",
+      "primary_city": "City_67910",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67915",
+      "zip_extension": "",
+      "primary_city": "City_67915",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67920",
+      "zip_extension": "",
+      "primary_city": "City_67920",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67925",
+      "zip_extension": "",
+      "primary_city": "City_67925",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67930",
+      "zip_extension": "",
+      "primary_city": "City_67930",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67935",
+      "zip_extension": "",
+      "primary_city": "City_67935",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67940",
+      "zip_extension": "",
+      "primary_city": "City_67940",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67945",
+      "zip_extension": "",
+      "primary_city": "City_67945",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67950",
+      "zip_extension": "",
+      "primary_city": "City_67950",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67955",
+      "zip_extension": "",
+      "primary_city": "City_67955",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67960",
+      "zip_extension": "",
+      "primary_city": "City_67960",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67965",
+      "zip_extension": "",
+      "primary_city": "City_67965",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67970",
+      "zip_extension": "",
+      "primary_city": "City_67970",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67975",
+      "zip_extension": "",
+      "primary_city": "City_67975",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67980",
+      "zip_extension": "",
+      "primary_city": "City_67980",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67985",
+      "zip_extension": "",
+      "primary_city": "City_67985",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67990",
+      "zip_extension": "",
+      "primary_city": "City_67990",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "67995",
+      "zip_extension": "",
+      "primary_city": "City_67995",
+      "acceptable_cities": "",
+      "county": "County_679",
+      "state": "Kansas",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

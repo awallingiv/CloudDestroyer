@@ -1,0 +1,2807 @@
+{
+  "state": "Maryland",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 280,
+  "zipcodes": [
+    {
+      "zip_code": "20600",
+      "zip_extension": "",
+      "primary_city": "City_20600",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20605",
+      "zip_extension": "",
+      "primary_city": "City_20605",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20610",
+      "zip_extension": "",
+      "primary_city": "City_20610",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20615",
+      "zip_extension": "",
+      "primary_city": "City_20615",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20620",
+      "zip_extension": "",
+      "primary_city": "City_20620",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20625",
+      "zip_extension": "",
+      "primary_city": "City_20625",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20630",
+      "zip_extension": "",
+      "primary_city": "City_20630",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20635",
+      "zip_extension": "",
+      "primary_city": "City_20635",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20640",
+      "zip_extension": "",
+      "primary_city": "City_20640",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20645",
+      "zip_extension": "",
+      "primary_city": "City_20645",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20650",
+      "zip_extension": "",
+      "primary_city": "City_20650",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20655",
+      "zip_extension": "",
+      "primary_city": "City_20655",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20660",
+      "zip_extension": "",
+      "primary_city": "City_20660",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20665",
+      "zip_extension": "",
+      "primary_city": "City_20665",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20670",
+      "zip_extension": "",
+      "primary_city": "City_20670",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20675",
+      "zip_extension": "",
+      "primary_city": "City_20675",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20680",
+      "zip_extension": "",
+      "primary_city": "City_20680",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20685",
+      "zip_extension": "",
+      "primary_city": "City_20685",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20690",
+      "zip_extension": "",
+      "primary_city": "City_20690",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20695",
+      "zip_extension": "",
+      "primary_city": "City_20695",
+      "acceptable_cities": "",
+      "county": "County_206",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20700",
+      "zip_extension": "",
+      "primary_city": "City_20700",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20705",
+      "zip_extension": "",
+      "primary_city": "City_20705",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20710",
+      "zip_extension": "",
+      "primary_city": "City_20710",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20715",
+      "zip_extension": "",
+      "primary_city": "City_20715",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20720",
+      "zip_extension": "",
+      "primary_city": "City_20720",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20725",
+      "zip_extension": "",
+      "primary_city": "City_20725",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20730",
+      "zip_extension": "",
+      "primary_city": "City_20730",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20735",
+      "zip_extension": "",
+      "primary_city": "City_20735",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20740",
+      "zip_extension": "",
+      "primary_city": "City_20740",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20745",
+      "zip_extension": "",
+      "primary_city": "City_20745",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20750",
+      "zip_extension": "",
+      "primary_city": "City_20750",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20755",
+      "zip_extension": "",
+      "primary_city": "City_20755",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20760",
+      "zip_extension": "",
+      "primary_city": "City_20760",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20765",
+      "zip_extension": "",
+      "primary_city": "City_20765",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20770",
+      "zip_extension": "",
+      "primary_city": "City_20770",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20775",
+      "zip_extension": "",
+      "primary_city": "City_20775",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20780",
+      "zip_extension": "",
+      "primary_city": "City_20780",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20785",
+      "zip_extension": "",
+      "primary_city": "City_20785",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20790",
+      "zip_extension": "",
+      "primary_city": "City_20790",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20795",
+      "zip_extension": "",
+      "primary_city": "City_20795",
+      "acceptable_cities": "",
+      "county": "County_207",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20800",
+      "zip_extension": "",
+      "primary_city": "City_20800",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20805",
+      "zip_extension": "",
+      "primary_city": "City_20805",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20810",
+      "zip_extension": "",
+      "primary_city": "City_20810",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20815",
+      "zip_extension": "",
+      "primary_city": "City_20815",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20820",
+      "zip_extension": "",
+      "primary_city": "City_20820",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20825",
+      "zip_extension": "",
+      "primary_city": "City_20825",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20830",
+      "zip_extension": "",
+      "primary_city": "City_20830",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20835",
+      "zip_extension": "",
+      "primary_city": "City_20835",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20840",
+      "zip_extension": "",
+      "primary_city": "City_20840",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20845",
+      "zip_extension": "",
+      "primary_city": "City_20845",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20850",
+      "zip_extension": "",
+      "primary_city": "City_20850",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20855",
+      "zip_extension": "",
+      "primary_city": "City_20855",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20860",
+      "zip_extension": "",
+      "primary_city": "City_20860",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20865",
+      "zip_extension": "",
+      "primary_city": "City_20865",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20870",
+      "zip_extension": "",
+      "primary_city": "City_20870",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20875",
+      "zip_extension": "",
+      "primary_city": "City_20875",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20880",
+      "zip_extension": "",
+      "primary_city": "City_20880",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20885",
+      "zip_extension": "",
+      "primary_city": "City_20885",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20890",
+      "zip_extension": "",
+      "primary_city": "City_20890",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20895",
+      "zip_extension": "",
+      "primary_city": "City_20895",
+      "acceptable_cities": "",
+      "county": "County_208",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20900",
+      "zip_extension": "",
+      "primary_city": "City_20900",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20905",
+      "zip_extension": "",
+      "primary_city": "City_20905",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20910",
+      "zip_extension": "",
+      "primary_city": "City_20910",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20915",
+      "zip_extension": "",
+      "primary_city": "City_20915",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20920",
+      "zip_extension": "",
+      "primary_city": "City_20920",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20925",
+      "zip_extension": "",
+      "primary_city": "City_20925",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20930",
+      "zip_extension": "",
+      "primary_city": "City_20930",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20935",
+      "zip_extension": "",
+      "primary_city": "City_20935",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20940",
+      "zip_extension": "",
+      "primary_city": "City_20940",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20945",
+      "zip_extension": "",
+      "primary_city": "City_20945",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20950",
+      "zip_extension": "",
+      "primary_city": "City_20950",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20955",
+      "zip_extension": "",
+      "primary_city": "City_20955",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20960",
+      "zip_extension": "",
+      "primary_city": "City_20960",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20965",
+      "zip_extension": "",
+      "primary_city": "City_20965",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20970",
+      "zip_extension": "",
+      "primary_city": "City_20970",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20975",
+      "zip_extension": "",
+      "primary_city": "City_20975",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20980",
+      "zip_extension": "",
+      "primary_city": "City_20980",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20985",
+      "zip_extension": "",
+      "primary_city": "City_20985",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20990",
+      "zip_extension": "",
+      "primary_city": "City_20990",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "20995",
+      "zip_extension": "",
+      "primary_city": "City_20995",
+      "acceptable_cities": "",
+      "county": "County_209",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21000",
+      "zip_extension": "",
+      "primary_city": "City_21000",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21005",
+      "zip_extension": "",
+      "primary_city": "City_21005",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21010",
+      "zip_extension": "",
+      "primary_city": "City_21010",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21015",
+      "zip_extension": "",
+      "primary_city": "City_21015",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21020",
+      "zip_extension": "",
+      "primary_city": "City_21020",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21025",
+      "zip_extension": "",
+      "primary_city": "City_21025",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21030",
+      "zip_extension": "",
+      "primary_city": "City_21030",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21035",
+      "zip_extension": "",
+      "primary_city": "City_21035",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21040",
+      "zip_extension": "",
+      "primary_city": "City_21040",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21045",
+      "zip_extension": "",
+      "primary_city": "City_21045",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21050",
+      "zip_extension": "",
+      "primary_city": "City_21050",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21055",
+      "zip_extension": "",
+      "primary_city": "City_21055",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21060",
+      "zip_extension": "",
+      "primary_city": "City_21060",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21065",
+      "zip_extension": "",
+      "primary_city": "City_21065",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21070",
+      "zip_extension": "",
+      "primary_city": "City_21070",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21075",
+      "zip_extension": "",
+      "primary_city": "City_21075",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21080",
+      "zip_extension": "",
+      "primary_city": "City_21080",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21085",
+      "zip_extension": "",
+      "primary_city": "City_21085",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21090",
+      "zip_extension": "",
+      "primary_city": "City_21090",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21095",
+      "zip_extension": "",
+      "primary_city": "City_21095",
+      "acceptable_cities": "",
+      "county": "County_210",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21100",
+      "zip_extension": "",
+      "primary_city": "City_21100",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21105",
+      "zip_extension": "",
+      "primary_city": "City_21105",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21110",
+      "zip_extension": "",
+      "primary_city": "City_21110",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21115",
+      "zip_extension": "",
+      "primary_city": "City_21115",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21120",
+      "zip_extension": "",
+      "primary_city": "City_21120",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21125",
+      "zip_extension": "",
+      "primary_city": "City_21125",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21130",
+      "zip_extension": "",
+      "primary_city": "City_21130",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21135",
+      "zip_extension": "",
+      "primary_city": "City_21135",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21140",
+      "zip_extension": "",
+      "primary_city": "City_21140",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21145",
+      "zip_extension": "",
+      "primary_city": "City_21145",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21150",
+      "zip_extension": "",
+      "primary_city": "City_21150",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21155",
+      "zip_extension": "",
+      "primary_city": "City_21155",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21160",
+      "zip_extension": "",
+      "primary_city": "City_21160",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21165",
+      "zip_extension": "",
+      "primary_city": "City_21165",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21170",
+      "zip_extension": "",
+      "primary_city": "City_21170",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21175",
+      "zip_extension": "",
+      "primary_city": "City_21175",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21180",
+      "zip_extension": "",
+      "primary_city": "City_21180",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21185",
+      "zip_extension": "",
+      "primary_city": "City_21185",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21190",
+      "zip_extension": "",
+      "primary_city": "City_21190",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21195",
+      "zip_extension": "",
+      "primary_city": "City_21195",
+      "acceptable_cities": "",
+      "county": "County_211",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21200",
+      "zip_extension": "",
+      "primary_city": "City_21200",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21205",
+      "zip_extension": "",
+      "primary_city": "City_21205",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21210",
+      "zip_extension": "",
+      "primary_city": "City_21210",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21215",
+      "zip_extension": "",
+      "primary_city": "City_21215",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21220",
+      "zip_extension": "",
+      "primary_city": "City_21220",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21225",
+      "zip_extension": "",
+      "primary_city": "City_21225",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21230",
+      "zip_extension": "",
+      "primary_city": "City_21230",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21235",
+      "zip_extension": "",
+      "primary_city": "City_21235",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21240",
+      "zip_extension": "",
+      "primary_city": "City_21240",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21245",
+      "zip_extension": "",
+      "primary_city": "City_21245",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21250",
+      "zip_extension": "",
+      "primary_city": "City_21250",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21255",
+      "zip_extension": "",
+      "primary_city": "City_21255",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21260",
+      "zip_extension": "",
+      "primary_city": "City_21260",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21265",
+      "zip_extension": "",
+      "primary_city": "City_21265",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21270",
+      "zip_extension": "",
+      "primary_city": "City_21270",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21275",
+      "zip_extension": "",
+      "primary_city": "City_21275",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21280",
+      "zip_extension": "",
+      "primary_city": "City_21280",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21285",
+      "zip_extension": "",
+      "primary_city": "City_21285",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21290",
+      "zip_extension": "",
+      "primary_city": "City_21290",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21295",
+      "zip_extension": "",
+      "primary_city": "City_21295",
+      "acceptable_cities": "",
+      "county": "County_212",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21300",
+      "zip_extension": "",
+      "primary_city": "City_21300",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21305",
+      "zip_extension": "",
+      "primary_city": "City_21305",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21310",
+      "zip_extension": "",
+      "primary_city": "City_21310",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21315",
+      "zip_extension": "",
+      "primary_city": "City_21315",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21320",
+      "zip_extension": "",
+      "primary_city": "City_21320",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21325",
+      "zip_extension": "",
+      "primary_city": "City_21325",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21330",
+      "zip_extension": "",
+      "primary_city": "City_21330",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21335",
+      "zip_extension": "",
+      "primary_city": "City_21335",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21340",
+      "zip_extension": "",
+      "primary_city": "City_21340",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21345",
+      "zip_extension": "",
+      "primary_city": "City_21345",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21350",
+      "zip_extension": "",
+      "primary_city": "City_21350",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21355",
+      "zip_extension": "",
+      "primary_city": "City_21355",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21360",
+      "zip_extension": "",
+      "primary_city": "City_21360",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21365",
+      "zip_extension": "",
+      "primary_city": "City_21365",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21370",
+      "zip_extension": "",
+      "primary_city": "City_21370",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21375",
+      "zip_extension": "",
+      "primary_city": "City_21375",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21380",
+      "zip_extension": "",
+      "primary_city": "City_21380",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21385",
+      "zip_extension": "",
+      "primary_city": "City_21385",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21390",
+      "zip_extension": "",
+      "primary_city": "City_21390",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21395",
+      "zip_extension": "",
+      "primary_city": "City_21395",
+      "acceptable_cities": "",
+      "county": "County_213",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21400",
+      "zip_extension": "",
+      "primary_city": "City_21400",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21405",
+      "zip_extension": "",
+      "primary_city": "City_21405",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21410",
+      "zip_extension": "",
+      "primary_city": "City_21410",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21415",
+      "zip_extension": "",
+      "primary_city": "City_21415",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21420",
+      "zip_extension": "",
+      "primary_city": "City_21420",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21425",
+      "zip_extension": "",
+      "primary_city": "City_21425",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21430",
+      "zip_extension": "",
+      "primary_city": "City_21430",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21435",
+      "zip_extension": "",
+      "primary_city": "City_21435",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21440",
+      "zip_extension": "",
+      "primary_city": "City_21440",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21445",
+      "zip_extension": "",
+      "primary_city": "City_21445",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21450",
+      "zip_extension": "",
+      "primary_city": "City_21450",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21455",
+      "zip_extension": "",
+      "primary_city": "City_21455",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21460",
+      "zip_extension": "",
+      "primary_city": "City_21460",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21465",
+      "zip_extension": "",
+      "primary_city": "City_21465",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21470",
+      "zip_extension": "",
+      "primary_city": "City_21470",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21475",
+      "zip_extension": "",
+      "primary_city": "City_21475",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21480",
+      "zip_extension": "",
+      "primary_city": "City_21480",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21485",
+      "zip_extension": "",
+      "primary_city": "City_21485",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21490",
+      "zip_extension": "",
+      "primary_city": "City_21490",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21495",
+      "zip_extension": "",
+      "primary_city": "City_21495",
+      "acceptable_cities": "",
+      "county": "County_214",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21500",
+      "zip_extension": "",
+      "primary_city": "City_21500",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21505",
+      "zip_extension": "",
+      "primary_city": "City_21505",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21510",
+      "zip_extension": "",
+      "primary_city": "City_21510",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21515",
+      "zip_extension": "",
+      "primary_city": "City_21515",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21520",
+      "zip_extension": "",
+      "primary_city": "City_21520",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21525",
+      "zip_extension": "",
+      "primary_city": "City_21525",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21530",
+      "zip_extension": "",
+      "primary_city": "City_21530",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21535",
+      "zip_extension": "",
+      "primary_city": "City_21535",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21540",
+      "zip_extension": "",
+      "primary_city": "City_21540",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21545",
+      "zip_extension": "",
+      "primary_city": "City_21545",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21550",
+      "zip_extension": "",
+      "primary_city": "City_21550",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21555",
+      "zip_extension": "",
+      "primary_city": "City_21555",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21560",
+      "zip_extension": "",
+      "primary_city": "City_21560",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21565",
+      "zip_extension": "",
+      "primary_city": "City_21565",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21570",
+      "zip_extension": "",
+      "primary_city": "City_21570",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21575",
+      "zip_extension": "",
+      "primary_city": "City_21575",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21580",
+      "zip_extension": "",
+      "primary_city": "City_21580",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21585",
+      "zip_extension": "",
+      "primary_city": "City_21585",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21590",
+      "zip_extension": "",
+      "primary_city": "City_21590",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21595",
+      "zip_extension": "",
+      "primary_city": "City_21595",
+      "acceptable_cities": "",
+      "county": "County_215",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21600",
+      "zip_extension": "",
+      "primary_city": "City_21600",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21605",
+      "zip_extension": "",
+      "primary_city": "City_21605",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21610",
+      "zip_extension": "",
+      "primary_city": "City_21610",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21615",
+      "zip_extension": "",
+      "primary_city": "City_21615",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21620",
+      "zip_extension": "",
+      "primary_city": "City_21620",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21625",
+      "zip_extension": "",
+      "primary_city": "City_21625",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21630",
+      "zip_extension": "",
+      "primary_city": "City_21630",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21635",
+      "zip_extension": "",
+      "primary_city": "City_21635",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21640",
+      "zip_extension": "",
+      "primary_city": "City_21640",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21645",
+      "zip_extension": "",
+      "primary_city": "City_21645",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21650",
+      "zip_extension": "",
+      "primary_city": "City_21650",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21655",
+      "zip_extension": "",
+      "primary_city": "City_21655",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21660",
+      "zip_extension": "",
+      "primary_city": "City_21660",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21665",
+      "zip_extension": "",
+      "primary_city": "City_21665",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21670",
+      "zip_extension": "",
+      "primary_city": "City_21670",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21675",
+      "zip_extension": "",
+      "primary_city": "City_21675",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21680",
+      "zip_extension": "",
+      "primary_city": "City_21680",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21685",
+      "zip_extension": "",
+      "primary_city": "City_21685",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21690",
+      "zip_extension": "",
+      "primary_city": "City_21690",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21695",
+      "zip_extension": "",
+      "primary_city": "City_21695",
+      "acceptable_cities": "",
+      "county": "County_216",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21700",
+      "zip_extension": "",
+      "primary_city": "City_21700",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21705",
+      "zip_extension": "",
+      "primary_city": "City_21705",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21710",
+      "zip_extension": "",
+      "primary_city": "City_21710",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21715",
+      "zip_extension": "",
+      "primary_city": "City_21715",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21720",
+      "zip_extension": "",
+      "primary_city": "City_21720",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21725",
+      "zip_extension": "",
+      "primary_city": "City_21725",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21730",
+      "zip_extension": "",
+      "primary_city": "City_21730",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21735",
+      "zip_extension": "",
+      "primary_city": "City_21735",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21740",
+      "zip_extension": "",
+      "primary_city": "City_21740",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21745",
+      "zip_extension": "",
+      "primary_city": "City_21745",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21750",
+      "zip_extension": "",
+      "primary_city": "City_21750",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21755",
+      "zip_extension": "",
+      "primary_city": "City_21755",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21760",
+      "zip_extension": "",
+      "primary_city": "City_21760",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21765",
+      "zip_extension": "",
+      "primary_city": "City_21765",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21770",
+      "zip_extension": "",
+      "primary_city": "City_21770",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21775",
+      "zip_extension": "",
+      "primary_city": "City_21775",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21780",
+      "zip_extension": "",
+      "primary_city": "City_21780",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21785",
+      "zip_extension": "",
+      "primary_city": "City_21785",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21790",
+      "zip_extension": "",
+      "primary_city": "City_21790",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21795",
+      "zip_extension": "",
+      "primary_city": "City_21795",
+      "acceptable_cities": "",
+      "county": "County_217",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21800",
+      "zip_extension": "",
+      "primary_city": "City_21800",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21805",
+      "zip_extension": "",
+      "primary_city": "City_21805",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21810",
+      "zip_extension": "",
+      "primary_city": "City_21810",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21815",
+      "zip_extension": "",
+      "primary_city": "City_21815",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21820",
+      "zip_extension": "",
+      "primary_city": "City_21820",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21825",
+      "zip_extension": "",
+      "primary_city": "City_21825",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21830",
+      "zip_extension": "",
+      "primary_city": "City_21830",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21835",
+      "zip_extension": "",
+      "primary_city": "City_21835",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21840",
+      "zip_extension": "",
+      "primary_city": "City_21840",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21845",
+      "zip_extension": "",
+      "primary_city": "City_21845",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21850",
+      "zip_extension": "",
+      "primary_city": "City_21850",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21855",
+      "zip_extension": "",
+      "primary_city": "City_21855",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21860",
+      "zip_extension": "",
+      "primary_city": "City_21860",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21865",
+      "zip_extension": "",
+      "primary_city": "City_21865",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21870",
+      "zip_extension": "",
+      "primary_city": "City_21870",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21875",
+      "zip_extension": "",
+      "primary_city": "City_21875",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21880",
+      "zip_extension": "",
+      "primary_city": "City_21880",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21885",
+      "zip_extension": "",
+      "primary_city": "City_21885",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21890",
+      "zip_extension": "",
+      "primary_city": "City_21890",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21895",
+      "zip_extension": "",
+      "primary_city": "City_21895",
+      "acceptable_cities": "",
+      "county": "County_218",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21900",
+      "zip_extension": "",
+      "primary_city": "City_21900",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21905",
+      "zip_extension": "",
+      "primary_city": "City_21905",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21910",
+      "zip_extension": "",
+      "primary_city": "City_21910",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21915",
+      "zip_extension": "",
+      "primary_city": "City_21915",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21920",
+      "zip_extension": "",
+      "primary_city": "City_21920",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21925",
+      "zip_extension": "",
+      "primary_city": "City_21925",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21930",
+      "zip_extension": "",
+      "primary_city": "City_21930",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21935",
+      "zip_extension": "",
+      "primary_city": "City_21935",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21940",
+      "zip_extension": "",
+      "primary_city": "City_21940",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21945",
+      "zip_extension": "",
+      "primary_city": "City_21945",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21950",
+      "zip_extension": "",
+      "primary_city": "City_21950",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21955",
+      "zip_extension": "",
+      "primary_city": "City_21955",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21960",
+      "zip_extension": "",
+      "primary_city": "City_21960",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21965",
+      "zip_extension": "",
+      "primary_city": "City_21965",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21970",
+      "zip_extension": "",
+      "primary_city": "City_21970",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21975",
+      "zip_extension": "",
+      "primary_city": "City_21975",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21980",
+      "zip_extension": "",
+      "primary_city": "City_21980",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21985",
+      "zip_extension": "",
+      "primary_city": "City_21985",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21990",
+      "zip_extension": "",
+      "primary_city": "City_21990",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "21995",
+      "zip_extension": "",
+      "primary_city": "City_21995",
+      "acceptable_cities": "",
+      "county": "County_219",
+      "state": "Maryland",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

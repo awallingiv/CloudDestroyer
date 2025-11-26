@@ -1,0 +1,4007 @@
+{
+  "state": "North Carolina",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 400,
+  "zipcodes": [
+    {
+      "zip_code": "27000",
+      "zip_extension": "",
+      "primary_city": "City_27000",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27005",
+      "zip_extension": "",
+      "primary_city": "City_27005",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27010",
+      "zip_extension": "",
+      "primary_city": "City_27010",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27015",
+      "zip_extension": "",
+      "primary_city": "City_27015",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27020",
+      "zip_extension": "",
+      "primary_city": "City_27020",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27025",
+      "zip_extension": "",
+      "primary_city": "City_27025",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27030",
+      "zip_extension": "",
+      "primary_city": "City_27030",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27035",
+      "zip_extension": "",
+      "primary_city": "City_27035",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27040",
+      "zip_extension": "",
+      "primary_city": "City_27040",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27045",
+      "zip_extension": "",
+      "primary_city": "City_27045",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27050",
+      "zip_extension": "",
+      "primary_city": "City_27050",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27055",
+      "zip_extension": "",
+      "primary_city": "City_27055",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27060",
+      "zip_extension": "",
+      "primary_city": "City_27060",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27065",
+      "zip_extension": "",
+      "primary_city": "City_27065",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27070",
+      "zip_extension": "",
+      "primary_city": "City_27070",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27075",
+      "zip_extension": "",
+      "primary_city": "City_27075",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27080",
+      "zip_extension": "",
+      "primary_city": "City_27080",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27085",
+      "zip_extension": "",
+      "primary_city": "City_27085",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27090",
+      "zip_extension": "",
+      "primary_city": "City_27090",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27095",
+      "zip_extension": "",
+      "primary_city": "City_27095",
+      "acceptable_cities": "",
+      "county": "County_270",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27100",
+      "zip_extension": "",
+      "primary_city": "City_27100",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27105",
+      "zip_extension": "",
+      "primary_city": "City_27105",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27110",
+      "zip_extension": "",
+      "primary_city": "City_27110",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27115",
+      "zip_extension": "",
+      "primary_city": "City_27115",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27120",
+      "zip_extension": "",
+      "primary_city": "City_27120",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27125",
+      "zip_extension": "",
+      "primary_city": "City_27125",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27130",
+      "zip_extension": "",
+      "primary_city": "City_27130",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27135",
+      "zip_extension": "",
+      "primary_city": "City_27135",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27140",
+      "zip_extension": "",
+      "primary_city": "City_27140",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27145",
+      "zip_extension": "",
+      "primary_city": "City_27145",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27150",
+      "zip_extension": "",
+      "primary_city": "City_27150",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27155",
+      "zip_extension": "",
+      "primary_city": "City_27155",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27160",
+      "zip_extension": "",
+      "primary_city": "City_27160",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27165",
+      "zip_extension": "",
+      "primary_city": "City_27165",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27170",
+      "zip_extension": "",
+      "primary_city": "City_27170",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27175",
+      "zip_extension": "",
+      "primary_city": "City_27175",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27180",
+      "zip_extension": "",
+      "primary_city": "City_27180",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27185",
+      "zip_extension": "",
+      "primary_city": "City_27185",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27190",
+      "zip_extension": "",
+      "primary_city": "City_27190",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27195",
+      "zip_extension": "",
+      "primary_city": "City_27195",
+      "acceptable_cities": "",
+      "county": "County_271",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27200",
+      "zip_extension": "",
+      "primary_city": "City_27200",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27205",
+      "zip_extension": "",
+      "primary_city": "City_27205",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27210",
+      "zip_extension": "",
+      "primary_city": "City_27210",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27215",
+      "zip_extension": "",
+      "primary_city": "City_27215",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27220",
+      "zip_extension": "",
+      "primary_city": "City_27220",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27225",
+      "zip_extension": "",
+      "primary_city": "City_27225",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27230",
+      "zip_extension": "",
+      "primary_city": "City_27230",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27235",
+      "zip_extension": "",
+      "primary_city": "City_27235",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27240",
+      "zip_extension": "",
+      "primary_city": "City_27240",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27245",
+      "zip_extension": "",
+      "primary_city": "City_27245",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27250",
+      "zip_extension": "",
+      "primary_city": "City_27250",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27255",
+      "zip_extension": "",
+      "primary_city": "City_27255",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27260",
+      "zip_extension": "",
+      "primary_city": "City_27260",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27265",
+      "zip_extension": "",
+      "primary_city": "City_27265",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27270",
+      "zip_extension": "",
+      "primary_city": "City_27270",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27275",
+      "zip_extension": "",
+      "primary_city": "City_27275",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27280",
+      "zip_extension": "",
+      "primary_city": "City_27280",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27285",
+      "zip_extension": "",
+      "primary_city": "City_27285",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27290",
+      "zip_extension": "",
+      "primary_city": "City_27290",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27295",
+      "zip_extension": "",
+      "primary_city": "City_27295",
+      "acceptable_cities": "",
+      "county": "County_272",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27300",
+      "zip_extension": "",
+      "primary_city": "City_27300",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27305",
+      "zip_extension": "",
+      "primary_city": "City_27305",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27310",
+      "zip_extension": "",
+      "primary_city": "City_27310",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27315",
+      "zip_extension": "",
+      "primary_city": "City_27315",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27320",
+      "zip_extension": "",
+      "primary_city": "City_27320",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27325",
+      "zip_extension": "",
+      "primary_city": "City_27325",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27330",
+      "zip_extension": "",
+      "primary_city": "City_27330",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27335",
+      "zip_extension": "",
+      "primary_city": "City_27335",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27340",
+      "zip_extension": "",
+      "primary_city": "City_27340",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27345",
+      "zip_extension": "",
+      "primary_city": "City_27345",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27350",
+      "zip_extension": "",
+      "primary_city": "City_27350",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27355",
+      "zip_extension": "",
+      "primary_city": "City_27355",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27360",
+      "zip_extension": "",
+      "primary_city": "City_27360",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27365",
+      "zip_extension": "",
+      "primary_city": "City_27365",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27370",
+      "zip_extension": "",
+      "primary_city": "City_27370",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27375",
+      "zip_extension": "",
+      "primary_city": "City_27375",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27380",
+      "zip_extension": "",
+      "primary_city": "City_27380",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27385",
+      "zip_extension": "",
+      "primary_city": "City_27385",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27390",
+      "zip_extension": "",
+      "primary_city": "City_27390",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27395",
+      "zip_extension": "",
+      "primary_city": "City_27395",
+      "acceptable_cities": "",
+      "county": "County_273",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27400",
+      "zip_extension": "",
+      "primary_city": "City_27400",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27405",
+      "zip_extension": "",
+      "primary_city": "City_27405",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27410",
+      "zip_extension": "",
+      "primary_city": "City_27410",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27415",
+      "zip_extension": "",
+      "primary_city": "City_27415",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27420",
+      "zip_extension": "",
+      "primary_city": "City_27420",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27425",
+      "zip_extension": "",
+      "primary_city": "City_27425",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27430",
+      "zip_extension": "",
+      "primary_city": "City_27430",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27435",
+      "zip_extension": "",
+      "primary_city": "City_27435",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27440",
+      "zip_extension": "",
+      "primary_city": "City_27440",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27445",
+      "zip_extension": "",
+      "primary_city": "City_27445",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27450",
+      "zip_extension": "",
+      "primary_city": "City_27450",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27455",
+      "zip_extension": "",
+      "primary_city": "City_27455",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27460",
+      "zip_extension": "",
+      "primary_city": "City_27460",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27465",
+      "zip_extension": "",
+      "primary_city": "City_27465",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27470",
+      "zip_extension": "",
+      "primary_city": "City_27470",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27475",
+      "zip_extension": "",
+      "primary_city": "City_27475",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27480",
+      "zip_extension": "",
+      "primary_city": "City_27480",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27485",
+      "zip_extension": "",
+      "primary_city": "City_27485",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27490",
+      "zip_extension": "",
+      "primary_city": "City_27490",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27495",
+      "zip_extension": "",
+      "primary_city": "City_27495",
+      "acceptable_cities": "",
+      "county": "County_274",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27500",
+      "zip_extension": "",
+      "primary_city": "City_27500",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27505",
+      "zip_extension": "",
+      "primary_city": "City_27505",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27510",
+      "zip_extension": "",
+      "primary_city": "City_27510",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27515",
+      "zip_extension": "",
+      "primary_city": "City_27515",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27520",
+      "zip_extension": "",
+      "primary_city": "City_27520",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27525",
+      "zip_extension": "",
+      "primary_city": "City_27525",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27530",
+      "zip_extension": "",
+      "primary_city": "City_27530",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27535",
+      "zip_extension": "",
+      "primary_city": "City_27535",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27540",
+      "zip_extension": "",
+      "primary_city": "City_27540",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27545",
+      "zip_extension": "",
+      "primary_city": "City_27545",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27550",
+      "zip_extension": "",
+      "primary_city": "City_27550",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27555",
+      "zip_extension": "",
+      "primary_city": "City_27555",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27560",
+      "zip_extension": "",
+      "primary_city": "City_27560",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27565",
+      "zip_extension": "",
+      "primary_city": "City_27565",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27570",
+      "zip_extension": "",
+      "primary_city": "City_27570",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27575",
+      "zip_extension": "",
+      "primary_city": "City_27575",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27580",
+      "zip_extension": "",
+      "primary_city": "City_27580",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27585",
+      "zip_extension": "",
+      "primary_city": "City_27585",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27590",
+      "zip_extension": "",
+      "primary_city": "City_27590",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27595",
+      "zip_extension": "",
+      "primary_city": "City_27595",
+      "acceptable_cities": "",
+      "county": "County_275",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27600",
+      "zip_extension": "",
+      "primary_city": "City_27600",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27605",
+      "zip_extension": "",
+      "primary_city": "City_27605",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27610",
+      "zip_extension": "",
+      "primary_city": "City_27610",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27615",
+      "zip_extension": "",
+      "primary_city": "City_27615",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27620",
+      "zip_extension": "",
+      "primary_city": "City_27620",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27625",
+      "zip_extension": "",
+      "primary_city": "City_27625",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27630",
+      "zip_extension": "",
+      "primary_city": "City_27630",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27635",
+      "zip_extension": "",
+      "primary_city": "City_27635",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27640",
+      "zip_extension": "",
+      "primary_city": "City_27640",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27645",
+      "zip_extension": "",
+      "primary_city": "City_27645",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27650",
+      "zip_extension": "",
+      "primary_city": "City_27650",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27655",
+      "zip_extension": "",
+      "primary_city": "City_27655",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27660",
+      "zip_extension": "",
+      "primary_city": "City_27660",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27665",
+      "zip_extension": "",
+      "primary_city": "City_27665",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27670",
+      "zip_extension": "",
+      "primary_city": "City_27670",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27675",
+      "zip_extension": "",
+      "primary_city": "City_27675",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27680",
+      "zip_extension": "",
+      "primary_city": "City_27680",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27685",
+      "zip_extension": "",
+      "primary_city": "City_27685",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27690",
+      "zip_extension": "",
+      "primary_city": "City_27690",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27695",
+      "zip_extension": "",
+      "primary_city": "City_27695",
+      "acceptable_cities": "",
+      "county": "County_276",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27700",
+      "zip_extension": "",
+      "primary_city": "City_27700",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27705",
+      "zip_extension": "",
+      "primary_city": "City_27705",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27710",
+      "zip_extension": "",
+      "primary_city": "City_27710",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27715",
+      "zip_extension": "",
+      "primary_city": "City_27715",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27720",
+      "zip_extension": "",
+      "primary_city": "City_27720",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27725",
+      "zip_extension": "",
+      "primary_city": "City_27725",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27730",
+      "zip_extension": "",
+      "primary_city": "City_27730",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27735",
+      "zip_extension": "",
+      "primary_city": "City_27735",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27740",
+      "zip_extension": "",
+      "primary_city": "City_27740",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27745",
+      "zip_extension": "",
+      "primary_city": "City_27745",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27750",
+      "zip_extension": "",
+      "primary_city": "City_27750",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27755",
+      "zip_extension": "",
+      "primary_city": "City_27755",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27760",
+      "zip_extension": "",
+      "primary_city": "City_27760",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27765",
+      "zip_extension": "",
+      "primary_city": "City_27765",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27770",
+      "zip_extension": "",
+      "primary_city": "City_27770",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27775",
+      "zip_extension": "",
+      "primary_city": "City_27775",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27780",
+      "zip_extension": "",
+      "primary_city": "City_27780",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27785",
+      "zip_extension": "",
+      "primary_city": "City_27785",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27790",
+      "zip_extension": "",
+      "primary_city": "City_27790",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27795",
+      "zip_extension": "",
+      "primary_city": "City_27795",
+      "acceptable_cities": "",
+      "county": "County_277",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27800",
+      "zip_extension": "",
+      "primary_city": "City_27800",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27805",
+      "zip_extension": "",
+      "primary_city": "City_27805",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27810",
+      "zip_extension": "",
+      "primary_city": "City_27810",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27815",
+      "zip_extension": "",
+      "primary_city": "City_27815",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27820",
+      "zip_extension": "",
+      "primary_city": "City_27820",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27825",
+      "zip_extension": "",
+      "primary_city": "City_27825",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27830",
+      "zip_extension": "",
+      "primary_city": "City_27830",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27835",
+      "zip_extension": "",
+      "primary_city": "City_27835",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27840",
+      "zip_extension": "",
+      "primary_city": "City_27840",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27845",
+      "zip_extension": "",
+      "primary_city": "City_27845",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27850",
+      "zip_extension": "",
+      "primary_city": "City_27850",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27855",
+      "zip_extension": "",
+      "primary_city": "City_27855",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27860",
+      "zip_extension": "",
+      "primary_city": "City_27860",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27865",
+      "zip_extension": "",
+      "primary_city": "City_27865",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27870",
+      "zip_extension": "",
+      "primary_city": "City_27870",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27875",
+      "zip_extension": "",
+      "primary_city": "City_27875",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27880",
+      "zip_extension": "",
+      "primary_city": "City_27880",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27885",
+      "zip_extension": "",
+      "primary_city": "City_27885",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27890",
+      "zip_extension": "",
+      "primary_city": "City_27890",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27895",
+      "zip_extension": "",
+      "primary_city": "City_27895",
+      "acceptable_cities": "",
+      "county": "County_278",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27900",
+      "zip_extension": "",
+      "primary_city": "City_27900",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27905",
+      "zip_extension": "",
+      "primary_city": "City_27905",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27910",
+      "zip_extension": "",
+      "primary_city": "City_27910",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27915",
+      "zip_extension": "",
+      "primary_city": "City_27915",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27920",
+      "zip_extension": "",
+      "primary_city": "City_27920",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27925",
+      "zip_extension": "",
+      "primary_city": "City_27925",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27930",
+      "zip_extension": "",
+      "primary_city": "City_27930",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27935",
+      "zip_extension": "",
+      "primary_city": "City_27935",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27940",
+      "zip_extension": "",
+      "primary_city": "City_27940",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27945",
+      "zip_extension": "",
+      "primary_city": "City_27945",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27950",
+      "zip_extension": "",
+      "primary_city": "City_27950",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27955",
+      "zip_extension": "",
+      "primary_city": "City_27955",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27960",
+      "zip_extension": "",
+      "primary_city": "City_27960",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27965",
+      "zip_extension": "",
+      "primary_city": "City_27965",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27970",
+      "zip_extension": "",
+      "primary_city": "City_27970",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27975",
+      "zip_extension": "",
+      "primary_city": "City_27975",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27980",
+      "zip_extension": "",
+      "primary_city": "City_27980",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27985",
+      "zip_extension": "",
+      "primary_city": "City_27985",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27990",
+      "zip_extension": "",
+      "primary_city": "City_27990",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "27995",
+      "zip_extension": "",
+      "primary_city": "City_27995",
+      "acceptable_cities": "",
+      "county": "County_279",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28000",
+      "zip_extension": "",
+      "primary_city": "City_28000",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28005",
+      "zip_extension": "",
+      "primary_city": "City_28005",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28010",
+      "zip_extension": "",
+      "primary_city": "City_28010",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28015",
+      "zip_extension": "",
+      "primary_city": "City_28015",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28020",
+      "zip_extension": "",
+      "primary_city": "City_28020",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28025",
+      "zip_extension": "",
+      "primary_city": "City_28025",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28030",
+      "zip_extension": "",
+      "primary_city": "City_28030",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28035",
+      "zip_extension": "",
+      "primary_city": "City_28035",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28040",
+      "zip_extension": "",
+      "primary_city": "City_28040",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28045",
+      "zip_extension": "",
+      "primary_city": "City_28045",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28050",
+      "zip_extension": "",
+      "primary_city": "City_28050",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28055",
+      "zip_extension": "",
+      "primary_city": "City_28055",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28060",
+      "zip_extension": "",
+      "primary_city": "City_28060",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28065",
+      "zip_extension": "",
+      "primary_city": "City_28065",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28070",
+      "zip_extension": "",
+      "primary_city": "City_28070",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28075",
+      "zip_extension": "",
+      "primary_city": "City_28075",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28080",
+      "zip_extension": "",
+      "primary_city": "City_28080",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28085",
+      "zip_extension": "",
+      "primary_city": "City_28085",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28090",
+      "zip_extension": "",
+      "primary_city": "City_28090",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28095",
+      "zip_extension": "",
+      "primary_city": "City_28095",
+      "acceptable_cities": "",
+      "county": "County_280",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28100",
+      "zip_extension": "",
+      "primary_city": "City_28100",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28105",
+      "zip_extension": "",
+      "primary_city": "City_28105",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28110",
+      "zip_extension": "",
+      "primary_city": "City_28110",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28115",
+      "zip_extension": "",
+      "primary_city": "City_28115",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28120",
+      "zip_extension": "",
+      "primary_city": "City_28120",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28125",
+      "zip_extension": "",
+      "primary_city": "City_28125",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28130",
+      "zip_extension": "",
+      "primary_city": "City_28130",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28135",
+      "zip_extension": "",
+      "primary_city": "City_28135",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28140",
+      "zip_extension": "",
+      "primary_city": "City_28140",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28145",
+      "zip_extension": "",
+      "primary_city": "City_28145",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28150",
+      "zip_extension": "",
+      "primary_city": "City_28150",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28155",
+      "zip_extension": "",
+      "primary_city": "City_28155",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28160",
+      "zip_extension": "",
+      "primary_city": "City_28160",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28165",
+      "zip_extension": "",
+      "primary_city": "City_28165",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28170",
+      "zip_extension": "",
+      "primary_city": "City_28170",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28175",
+      "zip_extension": "",
+      "primary_city": "City_28175",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28180",
+      "zip_extension": "",
+      "primary_city": "City_28180",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28185",
+      "zip_extension": "",
+      "primary_city": "City_28185",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28190",
+      "zip_extension": "",
+      "primary_city": "City_28190",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28195",
+      "zip_extension": "",
+      "primary_city": "City_28195",
+      "acceptable_cities": "",
+      "county": "County_281",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28200",
+      "zip_extension": "",
+      "primary_city": "City_28200",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28205",
+      "zip_extension": "",
+      "primary_city": "City_28205",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28210",
+      "zip_extension": "",
+      "primary_city": "City_28210",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28215",
+      "zip_extension": "",
+      "primary_city": "City_28215",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28220",
+      "zip_extension": "",
+      "primary_city": "City_28220",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28225",
+      "zip_extension": "",
+      "primary_city": "City_28225",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28230",
+      "zip_extension": "",
+      "primary_city": "City_28230",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28235",
+      "zip_extension": "",
+      "primary_city": "City_28235",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28240",
+      "zip_extension": "",
+      "primary_city": "City_28240",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28245",
+      "zip_extension": "",
+      "primary_city": "City_28245",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28250",
+      "zip_extension": "",
+      "primary_city": "City_28250",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28255",
+      "zip_extension": "",
+      "primary_city": "City_28255",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28260",
+      "zip_extension": "",
+      "primary_city": "City_28260",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28265",
+      "zip_extension": "",
+      "primary_city": "City_28265",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28270",
+      "zip_extension": "",
+      "primary_city": "City_28270",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28275",
+      "zip_extension": "",
+      "primary_city": "City_28275",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28280",
+      "zip_extension": "",
+      "primary_city": "City_28280",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28285",
+      "zip_extension": "",
+      "primary_city": "City_28285",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28290",
+      "zip_extension": "",
+      "primary_city": "City_28290",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28295",
+      "zip_extension": "",
+      "primary_city": "City_28295",
+      "acceptable_cities": "",
+      "county": "County_282",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28300",
+      "zip_extension": "",
+      "primary_city": "City_28300",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28305",
+      "zip_extension": "",
+      "primary_city": "City_28305",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28310",
+      "zip_extension": "",
+      "primary_city": "City_28310",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28315",
+      "zip_extension": "",
+      "primary_city": "City_28315",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28320",
+      "zip_extension": "",
+      "primary_city": "City_28320",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28325",
+      "zip_extension": "",
+      "primary_city": "City_28325",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28330",
+      "zip_extension": "",
+      "primary_city": "City_28330",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28335",
+      "zip_extension": "",
+      "primary_city": "City_28335",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28340",
+      "zip_extension": "",
+      "primary_city": "City_28340",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28345",
+      "zip_extension": "",
+      "primary_city": "City_28345",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28350",
+      "zip_extension": "",
+      "primary_city": "City_28350",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28355",
+      "zip_extension": "",
+      "primary_city": "City_28355",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28360",
+      "zip_extension": "",
+      "primary_city": "City_28360",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28365",
+      "zip_extension": "",
+      "primary_city": "City_28365",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28370",
+      "zip_extension": "",
+      "primary_city": "City_28370",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28375",
+      "zip_extension": "",
+      "primary_city": "City_28375",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28380",
+      "zip_extension": "",
+      "primary_city": "City_28380",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28385",
+      "zip_extension": "",
+      "primary_city": "City_28385",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28390",
+      "zip_extension": "",
+      "primary_city": "City_28390",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28395",
+      "zip_extension": "",
+      "primary_city": "City_28395",
+      "acceptable_cities": "",
+      "county": "County_283",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28400",
+      "zip_extension": "",
+      "primary_city": "City_28400",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28405",
+      "zip_extension": "",
+      "primary_city": "City_28405",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28410",
+      "zip_extension": "",
+      "primary_city": "City_28410",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28415",
+      "zip_extension": "",
+      "primary_city": "City_28415",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28420",
+      "zip_extension": "",
+      "primary_city": "City_28420",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28425",
+      "zip_extension": "",
+      "primary_city": "City_28425",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28430",
+      "zip_extension": "",
+      "primary_city": "City_28430",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28435",
+      "zip_extension": "",
+      "primary_city": "City_28435",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28440",
+      "zip_extension": "",
+      "primary_city": "City_28440",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28445",
+      "zip_extension": "",
+      "primary_city": "City_28445",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28450",
+      "zip_extension": "",
+      "primary_city": "City_28450",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28455",
+      "zip_extension": "",
+      "primary_city": "City_28455",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28460",
+      "zip_extension": "",
+      "primary_city": "City_28460",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28465",
+      "zip_extension": "",
+      "primary_city": "City_28465",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28470",
+      "zip_extension": "",
+      "primary_city": "City_28470",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28475",
+      "zip_extension": "",
+      "primary_city": "City_28475",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28480",
+      "zip_extension": "",
+      "primary_city": "City_28480",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28485",
+      "zip_extension": "",
+      "primary_city": "City_28485",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28490",
+      "zip_extension": "",
+      "primary_city": "City_28490",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28495",
+      "zip_extension": "",
+      "primary_city": "City_28495",
+      "acceptable_cities": "",
+      "county": "County_284",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28500",
+      "zip_extension": "",
+      "primary_city": "City_28500",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28505",
+      "zip_extension": "",
+      "primary_city": "City_28505",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28510",
+      "zip_extension": "",
+      "primary_city": "City_28510",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28515",
+      "zip_extension": "",
+      "primary_city": "City_28515",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28520",
+      "zip_extension": "",
+      "primary_city": "City_28520",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28525",
+      "zip_extension": "",
+      "primary_city": "City_28525",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28530",
+      "zip_extension": "",
+      "primary_city": "City_28530",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28535",
+      "zip_extension": "",
+      "primary_city": "City_28535",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28540",
+      "zip_extension": "",
+      "primary_city": "City_28540",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28545",
+      "zip_extension": "",
+      "primary_city": "City_28545",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28550",
+      "zip_extension": "",
+      "primary_city": "City_28550",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28555",
+      "zip_extension": "",
+      "primary_city": "City_28555",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28560",
+      "zip_extension": "",
+      "primary_city": "City_28560",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28565",
+      "zip_extension": "",
+      "primary_city": "City_28565",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28570",
+      "zip_extension": "",
+      "primary_city": "City_28570",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28575",
+      "zip_extension": "",
+      "primary_city": "City_28575",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28580",
+      "zip_extension": "",
+      "primary_city": "City_28580",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28585",
+      "zip_extension": "",
+      "primary_city": "City_28585",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28590",
+      "zip_extension": "",
+      "primary_city": "City_28590",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28595",
+      "zip_extension": "",
+      "primary_city": "City_28595",
+      "acceptable_cities": "",
+      "county": "County_285",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28600",
+      "zip_extension": "",
+      "primary_city": "City_28600",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28605",
+      "zip_extension": "",
+      "primary_city": "City_28605",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28610",
+      "zip_extension": "",
+      "primary_city": "City_28610",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28615",
+      "zip_extension": "",
+      "primary_city": "City_28615",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28620",
+      "zip_extension": "",
+      "primary_city": "City_28620",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28625",
+      "zip_extension": "",
+      "primary_city": "City_28625",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28630",
+      "zip_extension": "",
+      "primary_city": "City_28630",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28635",
+      "zip_extension": "",
+      "primary_city": "City_28635",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28640",
+      "zip_extension": "",
+      "primary_city": "City_28640",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28645",
+      "zip_extension": "",
+      "primary_city": "City_28645",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28650",
+      "zip_extension": "",
+      "primary_city": "City_28650",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28655",
+      "zip_extension": "",
+      "primary_city": "City_28655",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28660",
+      "zip_extension": "",
+      "primary_city": "City_28660",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28665",
+      "zip_extension": "",
+      "primary_city": "City_28665",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28670",
+      "zip_extension": "",
+      "primary_city": "City_28670",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28675",
+      "zip_extension": "",
+      "primary_city": "City_28675",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28680",
+      "zip_extension": "",
+      "primary_city": "City_28680",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28685",
+      "zip_extension": "",
+      "primary_city": "City_28685",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28690",
+      "zip_extension": "",
+      "primary_city": "City_28690",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28695",
+      "zip_extension": "",
+      "primary_city": "City_28695",
+      "acceptable_cities": "",
+      "county": "County_286",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28700",
+      "zip_extension": "",
+      "primary_city": "City_28700",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28705",
+      "zip_extension": "",
+      "primary_city": "City_28705",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28710",
+      "zip_extension": "",
+      "primary_city": "City_28710",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28715",
+      "zip_extension": "",
+      "primary_city": "City_28715",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28720",
+      "zip_extension": "",
+      "primary_city": "City_28720",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28725",
+      "zip_extension": "",
+      "primary_city": "City_28725",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28730",
+      "zip_extension": "",
+      "primary_city": "City_28730",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28735",
+      "zip_extension": "",
+      "primary_city": "City_28735",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28740",
+      "zip_extension": "",
+      "primary_city": "City_28740",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28745",
+      "zip_extension": "",
+      "primary_city": "City_28745",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28750",
+      "zip_extension": "",
+      "primary_city": "City_28750",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28755",
+      "zip_extension": "",
+      "primary_city": "City_28755",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28760",
+      "zip_extension": "",
+      "primary_city": "City_28760",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28765",
+      "zip_extension": "",
+      "primary_city": "City_28765",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28770",
+      "zip_extension": "",
+      "primary_city": "City_28770",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28775",
+      "zip_extension": "",
+      "primary_city": "City_28775",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28780",
+      "zip_extension": "",
+      "primary_city": "City_28780",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28785",
+      "zip_extension": "",
+      "primary_city": "City_28785",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28790",
+      "zip_extension": "",
+      "primary_city": "City_28790",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28795",
+      "zip_extension": "",
+      "primary_city": "City_28795",
+      "acceptable_cities": "",
+      "county": "County_287",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28800",
+      "zip_extension": "",
+      "primary_city": "City_28800",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28805",
+      "zip_extension": "",
+      "primary_city": "City_28805",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28810",
+      "zip_extension": "",
+      "primary_city": "City_28810",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28815",
+      "zip_extension": "",
+      "primary_city": "City_28815",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28820",
+      "zip_extension": "",
+      "primary_city": "City_28820",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28825",
+      "zip_extension": "",
+      "primary_city": "City_28825",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28830",
+      "zip_extension": "",
+      "primary_city": "City_28830",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28835",
+      "zip_extension": "",
+      "primary_city": "City_28835",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28840",
+      "zip_extension": "",
+      "primary_city": "City_28840",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28845",
+      "zip_extension": "",
+      "primary_city": "City_28845",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28850",
+      "zip_extension": "",
+      "primary_city": "City_28850",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28855",
+      "zip_extension": "",
+      "primary_city": "City_28855",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28860",
+      "zip_extension": "",
+      "primary_city": "City_28860",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28865",
+      "zip_extension": "",
+      "primary_city": "City_28865",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28870",
+      "zip_extension": "",
+      "primary_city": "City_28870",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28875",
+      "zip_extension": "",
+      "primary_city": "City_28875",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28880",
+      "zip_extension": "",
+      "primary_city": "City_28880",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28885",
+      "zip_extension": "",
+      "primary_city": "City_28885",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28890",
+      "zip_extension": "",
+      "primary_city": "City_28890",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28895",
+      "zip_extension": "",
+      "primary_city": "City_28895",
+      "acceptable_cities": "",
+      "county": "County_288",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28900",
+      "zip_extension": "",
+      "primary_city": "City_28900",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28905",
+      "zip_extension": "",
+      "primary_city": "City_28905",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28910",
+      "zip_extension": "",
+      "primary_city": "City_28910",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28915",
+      "zip_extension": "",
+      "primary_city": "City_28915",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28920",
+      "zip_extension": "",
+      "primary_city": "City_28920",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28925",
+      "zip_extension": "",
+      "primary_city": "City_28925",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28930",
+      "zip_extension": "",
+      "primary_city": "City_28930",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28935",
+      "zip_extension": "",
+      "primary_city": "City_28935",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28940",
+      "zip_extension": "",
+      "primary_city": "City_28940",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28945",
+      "zip_extension": "",
+      "primary_city": "City_28945",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28950",
+      "zip_extension": "",
+      "primary_city": "City_28950",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28955",
+      "zip_extension": "",
+      "primary_city": "City_28955",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28960",
+      "zip_extension": "",
+      "primary_city": "City_28960",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28965",
+      "zip_extension": "",
+      "primary_city": "City_28965",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28970",
+      "zip_extension": "",
+      "primary_city": "City_28970",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28975",
+      "zip_extension": "",
+      "primary_city": "City_28975",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28980",
+      "zip_extension": "",
+      "primary_city": "City_28980",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28985",
+      "zip_extension": "",
+      "primary_city": "City_28985",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28990",
+      "zip_extension": "",
+      "primary_city": "City_28990",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "28995",
+      "zip_extension": "",
+      "primary_city": "City_28995",
+      "acceptable_cities": "",
+      "county": "County_289",
+      "state": "North Carolina",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

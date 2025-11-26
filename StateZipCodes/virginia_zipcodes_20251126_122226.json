@@ -1,0 +1,5407 @@
+{
+  "state": "Virginia",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 540,
+  "zipcodes": [
+    {
+      "zip_code": "22000",
+      "zip_extension": "",
+      "primary_city": "City_22000",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22005",
+      "zip_extension": "",
+      "primary_city": "City_22005",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22010",
+      "zip_extension": "",
+      "primary_city": "City_22010",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22015",
+      "zip_extension": "",
+      "primary_city": "City_22015",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22020",
+      "zip_extension": "",
+      "primary_city": "City_22020",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22025",
+      "zip_extension": "",
+      "primary_city": "City_22025",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22030",
+      "zip_extension": "",
+      "primary_city": "City_22030",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22035",
+      "zip_extension": "",
+      "primary_city": "City_22035",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22040",
+      "zip_extension": "",
+      "primary_city": "City_22040",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22045",
+      "zip_extension": "",
+      "primary_city": "City_22045",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22050",
+      "zip_extension": "",
+      "primary_city": "City_22050",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22055",
+      "zip_extension": "",
+      "primary_city": "City_22055",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22060",
+      "zip_extension": "",
+      "primary_city": "City_22060",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22065",
+      "zip_extension": "",
+      "primary_city": "City_22065",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22070",
+      "zip_extension": "",
+      "primary_city": "City_22070",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22075",
+      "zip_extension": "",
+      "primary_city": "City_22075",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22080",
+      "zip_extension": "",
+      "primary_city": "City_22080",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22085",
+      "zip_extension": "",
+      "primary_city": "City_22085",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22090",
+      "zip_extension": "",
+      "primary_city": "City_22090",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22095",
+      "zip_extension": "",
+      "primary_city": "City_22095",
+      "acceptable_cities": "",
+      "county": "County_220",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22100",
+      "zip_extension": "",
+      "primary_city": "City_22100",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22105",
+      "zip_extension": "",
+      "primary_city": "City_22105",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22110",
+      "zip_extension": "",
+      "primary_city": "City_22110",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22115",
+      "zip_extension": "",
+      "primary_city": "City_22115",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22120",
+      "zip_extension": "",
+      "primary_city": "City_22120",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22125",
+      "zip_extension": "",
+      "primary_city": "City_22125",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22130",
+      "zip_extension": "",
+      "primary_city": "City_22130",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22135",
+      "zip_extension": "",
+      "primary_city": "City_22135",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22140",
+      "zip_extension": "",
+      "primary_city": "City_22140",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22145",
+      "zip_extension": "",
+      "primary_city": "City_22145",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22150",
+      "zip_extension": "",
+      "primary_city": "City_22150",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22155",
+      "zip_extension": "",
+      "primary_city": "City_22155",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22160",
+      "zip_extension": "",
+      "primary_city": "City_22160",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22165",
+      "zip_extension": "",
+      "primary_city": "City_22165",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22170",
+      "zip_extension": "",
+      "primary_city": "City_22170",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22175",
+      "zip_extension": "",
+      "primary_city": "City_22175",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22180",
+      "zip_extension": "",
+      "primary_city": "City_22180",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22185",
+      "zip_extension": "",
+      "primary_city": "City_22185",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22190",
+      "zip_extension": "",
+      "primary_city": "City_22190",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22195",
+      "zip_extension": "",
+      "primary_city": "City_22195",
+      "acceptable_cities": "",
+      "county": "County_221",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22200",
+      "zip_extension": "",
+      "primary_city": "City_22200",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22205",
+      "zip_extension": "",
+      "primary_city": "City_22205",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22210",
+      "zip_extension": "",
+      "primary_city": "City_22210",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22215",
+      "zip_extension": "",
+      "primary_city": "City_22215",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22220",
+      "zip_extension": "",
+      "primary_city": "City_22220",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22225",
+      "zip_extension": "",
+      "primary_city": "City_22225",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22230",
+      "zip_extension": "",
+      "primary_city": "City_22230",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22235",
+      "zip_extension": "",
+      "primary_city": "City_22235",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22240",
+      "zip_extension": "",
+      "primary_city": "City_22240",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22245",
+      "zip_extension": "",
+      "primary_city": "City_22245",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22250",
+      "zip_extension": "",
+      "primary_city": "City_22250",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22255",
+      "zip_extension": "",
+      "primary_city": "City_22255",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22260",
+      "zip_extension": "",
+      "primary_city": "City_22260",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22265",
+      "zip_extension": "",
+      "primary_city": "City_22265",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22270",
+      "zip_extension": "",
+      "primary_city": "City_22270",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22275",
+      "zip_extension": "",
+      "primary_city": "City_22275",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22280",
+      "zip_extension": "",
+      "primary_city": "City_22280",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22285",
+      "zip_extension": "",
+      "primary_city": "City_22285",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22290",
+      "zip_extension": "",
+      "primary_city": "City_22290",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22295",
+      "zip_extension": "",
+      "primary_city": "City_22295",
+      "acceptable_cities": "",
+      "county": "County_222",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22300",
+      "zip_extension": "",
+      "primary_city": "City_22300",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22305",
+      "zip_extension": "",
+      "primary_city": "City_22305",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22310",
+      "zip_extension": "",
+      "primary_city": "City_22310",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22315",
+      "zip_extension": "",
+      "primary_city": "City_22315",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22320",
+      "zip_extension": "",
+      "primary_city": "City_22320",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22325",
+      "zip_extension": "",
+      "primary_city": "City_22325",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22330",
+      "zip_extension": "",
+      "primary_city": "City_22330",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22335",
+      "zip_extension": "",
+      "primary_city": "City_22335",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22340",
+      "zip_extension": "",
+      "primary_city": "City_22340",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22345",
+      "zip_extension": "",
+      "primary_city": "City_22345",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22350",
+      "zip_extension": "",
+      "primary_city": "City_22350",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22355",
+      "zip_extension": "",
+      "primary_city": "City_22355",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22360",
+      "zip_extension": "",
+      "primary_city": "City_22360",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22365",
+      "zip_extension": "",
+      "primary_city": "City_22365",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22370",
+      "zip_extension": "",
+      "primary_city": "City_22370",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22375",
+      "zip_extension": "",
+      "primary_city": "City_22375",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22380",
+      "zip_extension": "",
+      "primary_city": "City_22380",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22385",
+      "zip_extension": "",
+      "primary_city": "City_22385",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22390",
+      "zip_extension": "",
+      "primary_city": "City_22390",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22395",
+      "zip_extension": "",
+      "primary_city": "City_22395",
+      "acceptable_cities": "",
+      "county": "County_223",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22400",
+      "zip_extension": "",
+      "primary_city": "City_22400",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22405",
+      "zip_extension": "",
+      "primary_city": "City_22405",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22410",
+      "zip_extension": "",
+      "primary_city": "City_22410",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22415",
+      "zip_extension": "",
+      "primary_city": "City_22415",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22420",
+      "zip_extension": "",
+      "primary_city": "City_22420",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22425",
+      "zip_extension": "",
+      "primary_city": "City_22425",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22430",
+      "zip_extension": "",
+      "primary_city": "City_22430",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22435",
+      "zip_extension": "",
+      "primary_city": "City_22435",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22440",
+      "zip_extension": "",
+      "primary_city": "City_22440",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22445",
+      "zip_extension": "",
+      "primary_city": "City_22445",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22450",
+      "zip_extension": "",
+      "primary_city": "City_22450",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22455",
+      "zip_extension": "",
+      "primary_city": "City_22455",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22460",
+      "zip_extension": "",
+      "primary_city": "City_22460",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22465",
+      "zip_extension": "",
+      "primary_city": "City_22465",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22470",
+      "zip_extension": "",
+      "primary_city": "City_22470",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22475",
+      "zip_extension": "",
+      "primary_city": "City_22475",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22480",
+      "zip_extension": "",
+      "primary_city": "City_22480",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22485",
+      "zip_extension": "",
+      "primary_city": "City_22485",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22490",
+      "zip_extension": "",
+      "primary_city": "City_22490",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22495",
+      "zip_extension": "",
+      "primary_city": "City_22495",
+      "acceptable_cities": "",
+      "county": "County_224",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22500",
+      "zip_extension": "",
+      "primary_city": "City_22500",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22505",
+      "zip_extension": "",
+      "primary_city": "City_22505",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22510",
+      "zip_extension": "",
+      "primary_city": "City_22510",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22515",
+      "zip_extension": "",
+      "primary_city": "City_22515",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22520",
+      "zip_extension": "",
+      "primary_city": "City_22520",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22525",
+      "zip_extension": "",
+      "primary_city": "City_22525",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22530",
+      "zip_extension": "",
+      "primary_city": "City_22530",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22535",
+      "zip_extension": "",
+      "primary_city": "City_22535",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22540",
+      "zip_extension": "",
+      "primary_city": "City_22540",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22545",
+      "zip_extension": "",
+      "primary_city": "City_22545",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22550",
+      "zip_extension": "",
+      "primary_city": "City_22550",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22555",
+      "zip_extension": "",
+      "primary_city": "City_22555",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22560",
+      "zip_extension": "",
+      "primary_city": "City_22560",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22565",
+      "zip_extension": "",
+      "primary_city": "City_22565",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22570",
+      "zip_extension": "",
+      "primary_city": "City_22570",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22575",
+      "zip_extension": "",
+      "primary_city": "City_22575",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22580",
+      "zip_extension": "",
+      "primary_city": "City_22580",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22585",
+      "zip_extension": "",
+      "primary_city": "City_22585",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22590",
+      "zip_extension": "",
+      "primary_city": "City_22590",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22595",
+      "zip_extension": "",
+      "primary_city": "City_22595",
+      "acceptable_cities": "",
+      "county": "County_225",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22600",
+      "zip_extension": "",
+      "primary_city": "City_22600",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22605",
+      "zip_extension": "",
+      "primary_city": "City_22605",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22610",
+      "zip_extension": "",
+      "primary_city": "City_22610",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22615",
+      "zip_extension": "",
+      "primary_city": "City_22615",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22620",
+      "zip_extension": "",
+      "primary_city": "City_22620",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22625",
+      "zip_extension": "",
+      "primary_city": "City_22625",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22630",
+      "zip_extension": "",
+      "primary_city": "City_22630",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22635",
+      "zip_extension": "",
+      "primary_city": "City_22635",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22640",
+      "zip_extension": "",
+      "primary_city": "City_22640",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22645",
+      "zip_extension": "",
+      "primary_city": "City_22645",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22650",
+      "zip_extension": "",
+      "primary_city": "City_22650",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22655",
+      "zip_extension": "",
+      "primary_city": "City_22655",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22660",
+      "zip_extension": "",
+      "primary_city": "City_22660",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22665",
+      "zip_extension": "",
+      "primary_city": "City_22665",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22670",
+      "zip_extension": "",
+      "primary_city": "City_22670",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22675",
+      "zip_extension": "",
+      "primary_city": "City_22675",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22680",
+      "zip_extension": "",
+      "primary_city": "City_22680",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22685",
+      "zip_extension": "",
+      "primary_city": "City_22685",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22690",
+      "zip_extension": "",
+      "primary_city": "City_22690",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22695",
+      "zip_extension": "",
+      "primary_city": "City_22695",
+      "acceptable_cities": "",
+      "county": "County_226",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22700",
+      "zip_extension": "",
+      "primary_city": "City_22700",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22705",
+      "zip_extension": "",
+      "primary_city": "City_22705",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22710",
+      "zip_extension": "",
+      "primary_city": "City_22710",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22715",
+      "zip_extension": "",
+      "primary_city": "City_22715",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22720",
+      "zip_extension": "",
+      "primary_city": "City_22720",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22725",
+      "zip_extension": "",
+      "primary_city": "City_22725",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22730",
+      "zip_extension": "",
+      "primary_city": "City_22730",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22735",
+      "zip_extension": "",
+      "primary_city": "City_22735",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22740",
+      "zip_extension": "",
+      "primary_city": "City_22740",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22745",
+      "zip_extension": "",
+      "primary_city": "City_22745",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22750",
+      "zip_extension": "",
+      "primary_city": "City_22750",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22755",
+      "zip_extension": "",
+      "primary_city": "City_22755",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22760",
+      "zip_extension": "",
+      "primary_city": "City_22760",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22765",
+      "zip_extension": "",
+      "primary_city": "City_22765",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22770",
+      "zip_extension": "",
+      "primary_city": "City_22770",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22775",
+      "zip_extension": "",
+      "primary_city": "City_22775",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22780",
+      "zip_extension": "",
+      "primary_city": "City_22780",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22785",
+      "zip_extension": "",
+      "primary_city": "City_22785",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22790",
+      "zip_extension": "",
+      "primary_city": "City_22790",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22795",
+      "zip_extension": "",
+      "primary_city": "City_22795",
+      "acceptable_cities": "",
+      "county": "County_227",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22800",
+      "zip_extension": "",
+      "primary_city": "City_22800",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22805",
+      "zip_extension": "",
+      "primary_city": "City_22805",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22810",
+      "zip_extension": "",
+      "primary_city": "City_22810",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22815",
+      "zip_extension": "",
+      "primary_city": "City_22815",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22820",
+      "zip_extension": "",
+      "primary_city": "City_22820",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22825",
+      "zip_extension": "",
+      "primary_city": "City_22825",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22830",
+      "zip_extension": "",
+      "primary_city": "City_22830",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22835",
+      "zip_extension": "",
+      "primary_city": "City_22835",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22840",
+      "zip_extension": "",
+      "primary_city": "City_22840",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22845",
+      "zip_extension": "",
+      "primary_city": "City_22845",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22850",
+      "zip_extension": "",
+      "primary_city": "City_22850",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22855",
+      "zip_extension": "",
+      "primary_city": "City_22855",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22860",
+      "zip_extension": "",
+      "primary_city": "City_22860",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22865",
+      "zip_extension": "",
+      "primary_city": "City_22865",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22870",
+      "zip_extension": "",
+      "primary_city": "City_22870",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22875",
+      "zip_extension": "",
+      "primary_city": "City_22875",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22880",
+      "zip_extension": "",
+      "primary_city": "City_22880",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22885",
+      "zip_extension": "",
+      "primary_city": "City_22885",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22890",
+      "zip_extension": "",
+      "primary_city": "City_22890",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22895",
+      "zip_extension": "",
+      "primary_city": "City_22895",
+      "acceptable_cities": "",
+      "county": "County_228",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22900",
+      "zip_extension": "",
+      "primary_city": "City_22900",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22905",
+      "zip_extension": "",
+      "primary_city": "City_22905",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22910",
+      "zip_extension": "",
+      "primary_city": "City_22910",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22915",
+      "zip_extension": "",
+      "primary_city": "City_22915",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22920",
+      "zip_extension": "",
+      "primary_city": "City_22920",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22925",
+      "zip_extension": "",
+      "primary_city": "City_22925",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22930",
+      "zip_extension": "",
+      "primary_city": "City_22930",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22935",
+      "zip_extension": "",
+      "primary_city": "City_22935",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22940",
+      "zip_extension": "",
+      "primary_city": "City_22940",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22945",
+      "zip_extension": "",
+      "primary_city": "City_22945",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22950",
+      "zip_extension": "",
+      "primary_city": "City_22950",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22955",
+      "zip_extension": "",
+      "primary_city": "City_22955",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22960",
+      "zip_extension": "",
+      "primary_city": "City_22960",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22965",
+      "zip_extension": "",
+      "primary_city": "City_22965",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22970",
+      "zip_extension": "",
+      "primary_city": "City_22970",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22975",
+      "zip_extension": "",
+      "primary_city": "City_22975",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22980",
+      "zip_extension": "",
+      "primary_city": "City_22980",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22985",
+      "zip_extension": "",
+      "primary_city": "City_22985",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22990",
+      "zip_extension": "",
+      "primary_city": "City_22990",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "22995",
+      "zip_extension": "",
+      "primary_city": "City_22995",
+      "acceptable_cities": "",
+      "county": "County_229",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23000",
+      "zip_extension": "",
+      "primary_city": "City_23000",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23005",
+      "zip_extension": "",
+      "primary_city": "City_23005",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23010",
+      "zip_extension": "",
+      "primary_city": "City_23010",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23015",
+      "zip_extension": "",
+      "primary_city": "City_23015",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23020",
+      "zip_extension": "",
+      "primary_city": "City_23020",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23025",
+      "zip_extension": "",
+      "primary_city": "City_23025",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23030",
+      "zip_extension": "",
+      "primary_city": "City_23030",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23035",
+      "zip_extension": "",
+      "primary_city": "City_23035",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23040",
+      "zip_extension": "",
+      "primary_city": "City_23040",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23045",
+      "zip_extension": "",
+      "primary_city": "City_23045",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23050",
+      "zip_extension": "",
+      "primary_city": "City_23050",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23055",
+      "zip_extension": "",
+      "primary_city": "City_23055",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23060",
+      "zip_extension": "",
+      "primary_city": "City_23060",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23065",
+      "zip_extension": "",
+      "primary_city": "City_23065",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23070",
+      "zip_extension": "",
+      "primary_city": "City_23070",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23075",
+      "zip_extension": "",
+      "primary_city": "City_23075",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23080",
+      "zip_extension": "",
+      "primary_city": "City_23080",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23085",
+      "zip_extension": "",
+      "primary_city": "City_23085",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23090",
+      "zip_extension": "",
+      "primary_city": "City_23090",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23095",
+      "zip_extension": "",
+      "primary_city": "City_23095",
+      "acceptable_cities": "",
+      "county": "County_230",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23100",
+      "zip_extension": "",
+      "primary_city": "City_23100",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23105",
+      "zip_extension": "",
+      "primary_city": "City_23105",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23110",
+      "zip_extension": "",
+      "primary_city": "City_23110",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23115",
+      "zip_extension": "",
+      "primary_city": "City_23115",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23120",
+      "zip_extension": "",
+      "primary_city": "City_23120",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23125",
+      "zip_extension": "",
+      "primary_city": "City_23125",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23130",
+      "zip_extension": "",
+      "primary_city": "City_23130",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23135",
+      "zip_extension": "",
+      "primary_city": "City_23135",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23140",
+      "zip_extension": "",
+      "primary_city": "City_23140",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23145",
+      "zip_extension": "",
+      "primary_city": "City_23145",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23150",
+      "zip_extension": "",
+      "primary_city": "City_23150",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23155",
+      "zip_extension": "",
+      "primary_city": "City_23155",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23160",
+      "zip_extension": "",
+      "primary_city": "City_23160",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23165",
+      "zip_extension": "",
+      "primary_city": "City_23165",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23170",
+      "zip_extension": "",
+      "primary_city": "City_23170",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23175",
+      "zip_extension": "",
+      "primary_city": "City_23175",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23180",
+      "zip_extension": "",
+      "primary_city": "City_23180",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23185",
+      "zip_extension": "",
+      "primary_city": "City_23185",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23190",
+      "zip_extension": "",
+      "primary_city": "City_23190",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23195",
+      "zip_extension": "",
+      "primary_city": "City_23195",
+      "acceptable_cities": "",
+      "county": "County_231",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23200",
+      "zip_extension": "",
+      "primary_city": "City_23200",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23205",
+      "zip_extension": "",
+      "primary_city": "City_23205",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23210",
+      "zip_extension": "",
+      "primary_city": "City_23210",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23215",
+      "zip_extension": "",
+      "primary_city": "City_23215",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23220",
+      "zip_extension": "",
+      "primary_city": "City_23220",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23225",
+      "zip_extension": "",
+      "primary_city": "City_23225",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23230",
+      "zip_extension": "",
+      "primary_city": "City_23230",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23235",
+      "zip_extension": "",
+      "primary_city": "City_23235",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23240",
+      "zip_extension": "",
+      "primary_city": "City_23240",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23245",
+      "zip_extension": "",
+      "primary_city": "City_23245",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23250",
+      "zip_extension": "",
+      "primary_city": "City_23250",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23255",
+      "zip_extension": "",
+      "primary_city": "City_23255",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23260",
+      "zip_extension": "",
+      "primary_city": "City_23260",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23265",
+      "zip_extension": "",
+      "primary_city": "City_23265",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23270",
+      "zip_extension": "",
+      "primary_city": "City_23270",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23275",
+      "zip_extension": "",
+      "primary_city": "City_23275",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23280",
+      "zip_extension": "",
+      "primary_city": "City_23280",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23285",
+      "zip_extension": "",
+      "primary_city": "City_23285",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23290",
+      "zip_extension": "",
+      "primary_city": "City_23290",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23295",
+      "zip_extension": "",
+      "primary_city": "City_23295",
+      "acceptable_cities": "",
+      "county": "County_232",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23300",
+      "zip_extension": "",
+      "primary_city": "City_23300",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23305",
+      "zip_extension": "",
+      "primary_city": "City_23305",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23310",
+      "zip_extension": "",
+      "primary_city": "City_23310",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23315",
+      "zip_extension": "",
+      "primary_city": "City_23315",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23320",
+      "zip_extension": "",
+      "primary_city": "City_23320",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23325",
+      "zip_extension": "",
+      "primary_city": "City_23325",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23330",
+      "zip_extension": "",
+      "primary_city": "City_23330",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23335",
+      "zip_extension": "",
+      "primary_city": "City_23335",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23340",
+      "zip_extension": "",
+      "primary_city": "City_23340",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23345",
+      "zip_extension": "",
+      "primary_city": "City_23345",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23350",
+      "zip_extension": "",
+      "primary_city": "City_23350",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23355",
+      "zip_extension": "",
+      "primary_city": "City_23355",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23360",
+      "zip_extension": "",
+      "primary_city": "City_23360",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23365",
+      "zip_extension": "",
+      "primary_city": "City_23365",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23370",
+      "zip_extension": "",
+      "primary_city": "City_23370",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23375",
+      "zip_extension": "",
+      "primary_city": "City_23375",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23380",
+      "zip_extension": "",
+      "primary_city": "City_23380",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23385",
+      "zip_extension": "",
+      "primary_city": "City_23385",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23390",
+      "zip_extension": "",
+      "primary_city": "City_23390",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23395",
+      "zip_extension": "",
+      "primary_city": "City_23395",
+      "acceptable_cities": "",
+      "county": "County_233",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23400",
+      "zip_extension": "",
+      "primary_city": "City_23400",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23405",
+      "zip_extension": "",
+      "primary_city": "City_23405",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23410",
+      "zip_extension": "",
+      "primary_city": "City_23410",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23415",
+      "zip_extension": "",
+      "primary_city": "City_23415",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23420",
+      "zip_extension": "",
+      "primary_city": "City_23420",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23425",
+      "zip_extension": "",
+      "primary_city": "City_23425",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23430",
+      "zip_extension": "",
+      "primary_city": "City_23430",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23435",
+      "zip_extension": "",
+      "primary_city": "City_23435",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23440",
+      "zip_extension": "",
+      "primary_city": "City_23440",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23445",
+      "zip_extension": "",
+      "primary_city": "City_23445",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23450",
+      "zip_extension": "",
+      "primary_city": "City_23450",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23455",
+      "zip_extension": "",
+      "primary_city": "City_23455",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23460",
+      "zip_extension": "",
+      "primary_city": "City_23460",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23465",
+      "zip_extension": "",
+      "primary_city": "City_23465",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23470",
+      "zip_extension": "",
+      "primary_city": "City_23470",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23475",
+      "zip_extension": "",
+      "primary_city": "City_23475",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23480",
+      "zip_extension": "",
+      "primary_city": "City_23480",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23485",
+      "zip_extension": "",
+      "primary_city": "City_23485",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23490",
+      "zip_extension": "",
+      "primary_city": "City_23490",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23495",
+      "zip_extension": "",
+      "primary_city": "City_23495",
+      "acceptable_cities": "",
+      "county": "County_234",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23500",
+      "zip_extension": "",
+      "primary_city": "City_23500",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23505",
+      "zip_extension": "",
+      "primary_city": "City_23505",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23510",
+      "zip_extension": "",
+      "primary_city": "City_23510",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23515",
+      "zip_extension": "",
+      "primary_city": "City_23515",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23520",
+      "zip_extension": "",
+      "primary_city": "City_23520",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23525",
+      "zip_extension": "",
+      "primary_city": "City_23525",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23530",
+      "zip_extension": "",
+      "primary_city": "City_23530",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23535",
+      "zip_extension": "",
+      "primary_city": "City_23535",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23540",
+      "zip_extension": "",
+      "primary_city": "City_23540",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23545",
+      "zip_extension": "",
+      "primary_city": "City_23545",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23550",
+      "zip_extension": "",
+      "primary_city": "City_23550",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23555",
+      "zip_extension": "",
+      "primary_city": "City_23555",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23560",
+      "zip_extension": "",
+      "primary_city": "City_23560",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23565",
+      "zip_extension": "",
+      "primary_city": "City_23565",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23570",
+      "zip_extension": "",
+      "primary_city": "City_23570",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23575",
+      "zip_extension": "",
+      "primary_city": "City_23575",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23580",
+      "zip_extension": "",
+      "primary_city": "City_23580",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23585",
+      "zip_extension": "",
+      "primary_city": "City_23585",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23590",
+      "zip_extension": "",
+      "primary_city": "City_23590",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23595",
+      "zip_extension": "",
+      "primary_city": "City_23595",
+      "acceptable_cities": "",
+      "county": "County_235",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23600",
+      "zip_extension": "",
+      "primary_city": "City_23600",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23605",
+      "zip_extension": "",
+      "primary_city": "City_23605",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23610",
+      "zip_extension": "",
+      "primary_city": "City_23610",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23615",
+      "zip_extension": "",
+      "primary_city": "City_23615",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23620",
+      "zip_extension": "",
+      "primary_city": "City_23620",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23625",
+      "zip_extension": "",
+      "primary_city": "City_23625",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23630",
+      "zip_extension": "",
+      "primary_city": "City_23630",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23635",
+      "zip_extension": "",
+      "primary_city": "City_23635",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23640",
+      "zip_extension": "",
+      "primary_city": "City_23640",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23645",
+      "zip_extension": "",
+      "primary_city": "City_23645",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23650",
+      "zip_extension": "",
+      "primary_city": "City_23650",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23655",
+      "zip_extension": "",
+      "primary_city": "City_23655",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23660",
+      "zip_extension": "",
+      "primary_city": "City_23660",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23665",
+      "zip_extension": "",
+      "primary_city": "City_23665",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23670",
+      "zip_extension": "",
+      "primary_city": "City_23670",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23675",
+      "zip_extension": "",
+      "primary_city": "City_23675",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23680",
+      "zip_extension": "",
+      "primary_city": "City_23680",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23685",
+      "zip_extension": "",
+      "primary_city": "City_23685",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23690",
+      "zip_extension": "",
+      "primary_city": "City_23690",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23695",
+      "zip_extension": "",
+      "primary_city": "City_23695",
+      "acceptable_cities": "",
+      "county": "County_236",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23700",
+      "zip_extension": "",
+      "primary_city": "City_23700",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23705",
+      "zip_extension": "",
+      "primary_city": "City_23705",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23710",
+      "zip_extension": "",
+      "primary_city": "City_23710",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23715",
+      "zip_extension": "",
+      "primary_city": "City_23715",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23720",
+      "zip_extension": "",
+      "primary_city": "City_23720",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23725",
+      "zip_extension": "",
+      "primary_city": "City_23725",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23730",
+      "zip_extension": "",
+      "primary_city": "City_23730",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23735",
+      "zip_extension": "",
+      "primary_city": "City_23735",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23740",
+      "zip_extension": "",
+      "primary_city": "City_23740",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23745",
+      "zip_extension": "",
+      "primary_city": "City_23745",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23750",
+      "zip_extension": "",
+      "primary_city": "City_23750",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23755",
+      "zip_extension": "",
+      "primary_city": "City_23755",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23760",
+      "zip_extension": "",
+      "primary_city": "City_23760",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23765",
+      "zip_extension": "",
+      "primary_city": "City_23765",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23770",
+      "zip_extension": "",
+      "primary_city": "City_23770",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23775",
+      "zip_extension": "",
+      "primary_city": "City_23775",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23780",
+      "zip_extension": "",
+      "primary_city": "City_23780",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23785",
+      "zip_extension": "",
+      "primary_city": "City_23785",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23790",
+      "zip_extension": "",
+      "primary_city": "City_23790",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23795",
+      "zip_extension": "",
+      "primary_city": "City_23795",
+      "acceptable_cities": "",
+      "county": "County_237",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23800",
+      "zip_extension": "",
+      "primary_city": "City_23800",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23805",
+      "zip_extension": "",
+      "primary_city": "City_23805",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23810",
+      "zip_extension": "",
+      "primary_city": "City_23810",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23815",
+      "zip_extension": "",
+      "primary_city": "City_23815",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23820",
+      "zip_extension": "",
+      "primary_city": "City_23820",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23825",
+      "zip_extension": "",
+      "primary_city": "City_23825",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23830",
+      "zip_extension": "",
+      "primary_city": "City_23830",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23835",
+      "zip_extension": "",
+      "primary_city": "City_23835",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23840",
+      "zip_extension": "",
+      "primary_city": "City_23840",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23845",
+      "zip_extension": "",
+      "primary_city": "City_23845",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23850",
+      "zip_extension": "",
+      "primary_city": "City_23850",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23855",
+      "zip_extension": "",
+      "primary_city": "City_23855",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23860",
+      "zip_extension": "",
+      "primary_city": "City_23860",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23865",
+      "zip_extension": "",
+      "primary_city": "City_23865",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23870",
+      "zip_extension": "",
+      "primary_city": "City_23870",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23875",
+      "zip_extension": "",
+      "primary_city": "City_23875",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23880",
+      "zip_extension": "",
+      "primary_city": "City_23880",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23885",
+      "zip_extension": "",
+      "primary_city": "City_23885",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23890",
+      "zip_extension": "",
+      "primary_city": "City_23890",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23895",
+      "zip_extension": "",
+      "primary_city": "City_23895",
+      "acceptable_cities": "",
+      "county": "County_238",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23900",
+      "zip_extension": "",
+      "primary_city": "City_23900",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23905",
+      "zip_extension": "",
+      "primary_city": "City_23905",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23910",
+      "zip_extension": "",
+      "primary_city": "City_23910",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23915",
+      "zip_extension": "",
+      "primary_city": "City_23915",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23920",
+      "zip_extension": "",
+      "primary_city": "City_23920",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23925",
+      "zip_extension": "",
+      "primary_city": "City_23925",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23930",
+      "zip_extension": "",
+      "primary_city": "City_23930",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23935",
+      "zip_extension": "",
+      "primary_city": "City_23935",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23940",
+      "zip_extension": "",
+      "primary_city": "City_23940",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23945",
+      "zip_extension": "",
+      "primary_city": "City_23945",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23950",
+      "zip_extension": "",
+      "primary_city": "City_23950",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23955",
+      "zip_extension": "",
+      "primary_city": "City_23955",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23960",
+      "zip_extension": "",
+      "primary_city": "City_23960",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23965",
+      "zip_extension": "",
+      "primary_city": "City_23965",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23970",
+      "zip_extension": "",
+      "primary_city": "City_23970",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23975",
+      "zip_extension": "",
+      "primary_city": "City_23975",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23980",
+      "zip_extension": "",
+      "primary_city": "City_23980",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23985",
+      "zip_extension": "",
+      "primary_city": "City_23985",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23990",
+      "zip_extension": "",
+      "primary_city": "City_23990",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "23995",
+      "zip_extension": "",
+      "primary_city": "City_23995",
+      "acceptable_cities": "",
+      "county": "County_239",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24000",
+      "zip_extension": "",
+      "primary_city": "City_24000",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24005",
+      "zip_extension": "",
+      "primary_city": "City_24005",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24010",
+      "zip_extension": "",
+      "primary_city": "City_24010",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24015",
+      "zip_extension": "",
+      "primary_city": "City_24015",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24020",
+      "zip_extension": "",
+      "primary_city": "City_24020",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24025",
+      "zip_extension": "",
+      "primary_city": "City_24025",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24030",
+      "zip_extension": "",
+      "primary_city": "City_24030",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24035",
+      "zip_extension": "",
+      "primary_city": "City_24035",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24040",
+      "zip_extension": "",
+      "primary_city": "City_24040",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24045",
+      "zip_extension": "",
+      "primary_city": "City_24045",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24050",
+      "zip_extension": "",
+      "primary_city": "City_24050",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24055",
+      "zip_extension": "",
+      "primary_city": "City_24055",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24060",
+      "zip_extension": "",
+      "primary_city": "City_24060",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24065",
+      "zip_extension": "",
+      "primary_city": "City_24065",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24070",
+      "zip_extension": "",
+      "primary_city": "City_24070",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24075",
+      "zip_extension": "",
+      "primary_city": "City_24075",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24080",
+      "zip_extension": "",
+      "primary_city": "City_24080",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24085",
+      "zip_extension": "",
+      "primary_city": "City_24085",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24090",
+      "zip_extension": "",
+      "primary_city": "City_24090",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24095",
+      "zip_extension": "",
+      "primary_city": "City_24095",
+      "acceptable_cities": "",
+      "county": "County_240",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24100",
+      "zip_extension": "",
+      "primary_city": "City_24100",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24105",
+      "zip_extension": "",
+      "primary_city": "City_24105",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24110",
+      "zip_extension": "",
+      "primary_city": "City_24110",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24115",
+      "zip_extension": "",
+      "primary_city": "City_24115",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24120",
+      "zip_extension": "",
+      "primary_city": "City_24120",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24125",
+      "zip_extension": "",
+      "primary_city": "City_24125",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24130",
+      "zip_extension": "",
+      "primary_city": "City_24130",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24135",
+      "zip_extension": "",
+      "primary_city": "City_24135",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24140",
+      "zip_extension": "",
+      "primary_city": "City_24140",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24145",
+      "zip_extension": "",
+      "primary_city": "City_24145",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24150",
+      "zip_extension": "",
+      "primary_city": "City_24150",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24155",
+      "zip_extension": "",
+      "primary_city": "City_24155",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24160",
+      "zip_extension": "",
+      "primary_city": "City_24160",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24165",
+      "zip_extension": "",
+      "primary_city": "City_24165",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24170",
+      "zip_extension": "",
+      "primary_city": "City_24170",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24175",
+      "zip_extension": "",
+      "primary_city": "City_24175",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24180",
+      "zip_extension": "",
+      "primary_city": "City_24180",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24185",
+      "zip_extension": "",
+      "primary_city": "City_24185",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24190",
+      "zip_extension": "",
+      "primary_city": "City_24190",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24195",
+      "zip_extension": "",
+      "primary_city": "City_24195",
+      "acceptable_cities": "",
+      "county": "County_241",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24200",
+      "zip_extension": "",
+      "primary_city": "City_24200",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24205",
+      "zip_extension": "",
+      "primary_city": "City_24205",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24210",
+      "zip_extension": "",
+      "primary_city": "City_24210",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24215",
+      "zip_extension": "",
+      "primary_city": "City_24215",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24220",
+      "zip_extension": "",
+      "primary_city": "City_24220",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24225",
+      "zip_extension": "",
+      "primary_city": "City_24225",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24230",
+      "zip_extension": "",
+      "primary_city": "City_24230",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24235",
+      "zip_extension": "",
+      "primary_city": "City_24235",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24240",
+      "zip_extension": "",
+      "primary_city": "City_24240",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24245",
+      "zip_extension": "",
+      "primary_city": "City_24245",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24250",
+      "zip_extension": "",
+      "primary_city": "City_24250",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24255",
+      "zip_extension": "",
+      "primary_city": "City_24255",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24260",
+      "zip_extension": "",
+      "primary_city": "City_24260",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24265",
+      "zip_extension": "",
+      "primary_city": "City_24265",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24270",
+      "zip_extension": "",
+      "primary_city": "City_24270",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24275",
+      "zip_extension": "",
+      "primary_city": "City_24275",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24280",
+      "zip_extension": "",
+      "primary_city": "City_24280",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24285",
+      "zip_extension": "",
+      "primary_city": "City_24285",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24290",
+      "zip_extension": "",
+      "primary_city": "City_24290",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24295",
+      "zip_extension": "",
+      "primary_city": "City_24295",
+      "acceptable_cities": "",
+      "county": "County_242",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24300",
+      "zip_extension": "",
+      "primary_city": "City_24300",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24305",
+      "zip_extension": "",
+      "primary_city": "City_24305",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24310",
+      "zip_extension": "",
+      "primary_city": "City_24310",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24315",
+      "zip_extension": "",
+      "primary_city": "City_24315",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24320",
+      "zip_extension": "",
+      "primary_city": "City_24320",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24325",
+      "zip_extension": "",
+      "primary_city": "City_24325",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24330",
+      "zip_extension": "",
+      "primary_city": "City_24330",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24335",
+      "zip_extension": "",
+      "primary_city": "City_24335",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24340",
+      "zip_extension": "",
+      "primary_city": "City_24340",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24345",
+      "zip_extension": "",
+      "primary_city": "City_24345",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24350",
+      "zip_extension": "",
+      "primary_city": "City_24350",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24355",
+      "zip_extension": "",
+      "primary_city": "City_24355",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24360",
+      "zip_extension": "",
+      "primary_city": "City_24360",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24365",
+      "zip_extension": "",
+      "primary_city": "City_24365",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24370",
+      "zip_extension": "",
+      "primary_city": "City_24370",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24375",
+      "zip_extension": "",
+      "primary_city": "City_24375",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24380",
+      "zip_extension": "",
+      "primary_city": "City_24380",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24385",
+      "zip_extension": "",
+      "primary_city": "City_24385",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24390",
+      "zip_extension": "",
+      "primary_city": "City_24390",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24395",
+      "zip_extension": "",
+      "primary_city": "City_24395",
+      "acceptable_cities": "",
+      "county": "County_243",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24400",
+      "zip_extension": "",
+      "primary_city": "City_24400",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24405",
+      "zip_extension": "",
+      "primary_city": "City_24405",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24410",
+      "zip_extension": "",
+      "primary_city": "City_24410",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24415",
+      "zip_extension": "",
+      "primary_city": "City_24415",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24420",
+      "zip_extension": "",
+      "primary_city": "City_24420",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24425",
+      "zip_extension": "",
+      "primary_city": "City_24425",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24430",
+      "zip_extension": "",
+      "primary_city": "City_24430",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24435",
+      "zip_extension": "",
+      "primary_city": "City_24435",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24440",
+      "zip_extension": "",
+      "primary_city": "City_24440",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24445",
+      "zip_extension": "",
+      "primary_city": "City_24445",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24450",
+      "zip_extension": "",
+      "primary_city": "City_24450",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24455",
+      "zip_extension": "",
+      "primary_city": "City_24455",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24460",
+      "zip_extension": "",
+      "primary_city": "City_24460",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24465",
+      "zip_extension": "",
+      "primary_city": "City_24465",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24470",
+      "zip_extension": "",
+      "primary_city": "City_24470",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24475",
+      "zip_extension": "",
+      "primary_city": "City_24475",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24480",
+      "zip_extension": "",
+      "primary_city": "City_24480",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24485",
+      "zip_extension": "",
+      "primary_city": "City_24485",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24490",
+      "zip_extension": "",
+      "primary_city": "City_24490",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24495",
+      "zip_extension": "",
+      "primary_city": "City_24495",
+      "acceptable_cities": "",
+      "county": "County_244",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24500",
+      "zip_extension": "",
+      "primary_city": "City_24500",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24505",
+      "zip_extension": "",
+      "primary_city": "City_24505",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24510",
+      "zip_extension": "",
+      "primary_city": "City_24510",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24515",
+      "zip_extension": "",
+      "primary_city": "City_24515",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24520",
+      "zip_extension": "",
+      "primary_city": "City_24520",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24525",
+      "zip_extension": "",
+      "primary_city": "City_24525",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24530",
+      "zip_extension": "",
+      "primary_city": "City_24530",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24535",
+      "zip_extension": "",
+      "primary_city": "City_24535",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24540",
+      "zip_extension": "",
+      "primary_city": "City_24540",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24545",
+      "zip_extension": "",
+      "primary_city": "City_24545",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24550",
+      "zip_extension": "",
+      "primary_city": "City_24550",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24555",
+      "zip_extension": "",
+      "primary_city": "City_24555",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24560",
+      "zip_extension": "",
+      "primary_city": "City_24560",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24565",
+      "zip_extension": "",
+      "primary_city": "City_24565",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24570",
+      "zip_extension": "",
+      "primary_city": "City_24570",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24575",
+      "zip_extension": "",
+      "primary_city": "City_24575",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24580",
+      "zip_extension": "",
+      "primary_city": "City_24580",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24585",
+      "zip_extension": "",
+      "primary_city": "City_24585",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24590",
+      "zip_extension": "",
+      "primary_city": "City_24590",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24595",
+      "zip_extension": "",
+      "primary_city": "City_24595",
+      "acceptable_cities": "",
+      "county": "County_245",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24600",
+      "zip_extension": "",
+      "primary_city": "City_24600",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24605",
+      "zip_extension": "",
+      "primary_city": "City_24605",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24610",
+      "zip_extension": "",
+      "primary_city": "City_24610",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24615",
+      "zip_extension": "",
+      "primary_city": "City_24615",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24620",
+      "zip_extension": "",
+      "primary_city": "City_24620",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24625",
+      "zip_extension": "",
+      "primary_city": "City_24625",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24630",
+      "zip_extension": "",
+      "primary_city": "City_24630",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24635",
+      "zip_extension": "",
+      "primary_city": "City_24635",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24640",
+      "zip_extension": "",
+      "primary_city": "City_24640",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24645",
+      "zip_extension": "",
+      "primary_city": "City_24645",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24650",
+      "zip_extension": "",
+      "primary_city": "City_24650",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24655",
+      "zip_extension": "",
+      "primary_city": "City_24655",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24660",
+      "zip_extension": "",
+      "primary_city": "City_24660",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24665",
+      "zip_extension": "",
+      "primary_city": "City_24665",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24670",
+      "zip_extension": "",
+      "primary_city": "City_24670",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24675",
+      "zip_extension": "",
+      "primary_city": "City_24675",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24680",
+      "zip_extension": "",
+      "primary_city": "City_24680",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24685",
+      "zip_extension": "",
+      "primary_city": "City_24685",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24690",
+      "zip_extension": "",
+      "primary_city": "City_24690",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "24695",
+      "zip_extension": "",
+      "primary_city": "City_24695",
+      "acceptable_cities": "",
+      "county": "County_246",
+      "state": "Virginia",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}

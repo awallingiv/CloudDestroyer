@@ -1,0 +1,6007 @@
+{
+  "state": "Ohio",
+  "scrape_date": "2025-11-26",
+  "total_zipcodes": 600,
+  "zipcodes": [
+    {
+      "zip_code": "43000",
+      "zip_extension": "",
+      "primary_city": "City_43000",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43005",
+      "zip_extension": "",
+      "primary_city": "City_43005",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43010",
+      "zip_extension": "",
+      "primary_city": "City_43010",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43015",
+      "zip_extension": "",
+      "primary_city": "City_43015",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43020",
+      "zip_extension": "",
+      "primary_city": "City_43020",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43025",
+      "zip_extension": "",
+      "primary_city": "City_43025",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43030",
+      "zip_extension": "",
+      "primary_city": "City_43030",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43035",
+      "zip_extension": "",
+      "primary_city": "City_43035",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43040",
+      "zip_extension": "",
+      "primary_city": "City_43040",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43045",
+      "zip_extension": "",
+      "primary_city": "City_43045",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43050",
+      "zip_extension": "",
+      "primary_city": "City_43050",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43055",
+      "zip_extension": "",
+      "primary_city": "City_43055",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43060",
+      "zip_extension": "",
+      "primary_city": "City_43060",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43065",
+      "zip_extension": "",
+      "primary_city": "City_43065",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43070",
+      "zip_extension": "",
+      "primary_city": "City_43070",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43075",
+      "zip_extension": "",
+      "primary_city": "City_43075",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43080",
+      "zip_extension": "",
+      "primary_city": "City_43080",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43085",
+      "zip_extension": "",
+      "primary_city": "City_43085",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43090",
+      "zip_extension": "",
+      "primary_city": "City_43090",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43095",
+      "zip_extension": "",
+      "primary_city": "City_43095",
+      "acceptable_cities": "",
+      "county": "County_430",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43100",
+      "zip_extension": "",
+      "primary_city": "City_43100",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43105",
+      "zip_extension": "",
+      "primary_city": "City_43105",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43110",
+      "zip_extension": "",
+      "primary_city": "City_43110",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43115",
+      "zip_extension": "",
+      "primary_city": "City_43115",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43120",
+      "zip_extension": "",
+      "primary_city": "City_43120",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43125",
+      "zip_extension": "",
+      "primary_city": "City_43125",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43130",
+      "zip_extension": "",
+      "primary_city": "City_43130",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43135",
+      "zip_extension": "",
+      "primary_city": "City_43135",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43140",
+      "zip_extension": "",
+      "primary_city": "City_43140",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43145",
+      "zip_extension": "",
+      "primary_city": "City_43145",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43150",
+      "zip_extension": "",
+      "primary_city": "City_43150",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43155",
+      "zip_extension": "",
+      "primary_city": "City_43155",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43160",
+      "zip_extension": "",
+      "primary_city": "City_43160",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43165",
+      "zip_extension": "",
+      "primary_city": "City_43165",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43170",
+      "zip_extension": "",
+      "primary_city": "City_43170",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43175",
+      "zip_extension": "",
+      "primary_city": "City_43175",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43180",
+      "zip_extension": "",
+      "primary_city": "City_43180",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43185",
+      "zip_extension": "",
+      "primary_city": "City_43185",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43190",
+      "zip_extension": "",
+      "primary_city": "City_43190",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43195",
+      "zip_extension": "",
+      "primary_city": "City_43195",
+      "acceptable_cities": "",
+      "county": "County_431",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43200",
+      "zip_extension": "",
+      "primary_city": "City_43200",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43205",
+      "zip_extension": "",
+      "primary_city": "City_43205",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43210",
+      "zip_extension": "",
+      "primary_city": "City_43210",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43215",
+      "zip_extension": "",
+      "primary_city": "City_43215",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43220",
+      "zip_extension": "",
+      "primary_city": "City_43220",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43225",
+      "zip_extension": "",
+      "primary_city": "City_43225",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43230",
+      "zip_extension": "",
+      "primary_city": "City_43230",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43235",
+      "zip_extension": "",
+      "primary_city": "City_43235",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43240",
+      "zip_extension": "",
+      "primary_city": "City_43240",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43245",
+      "zip_extension": "",
+      "primary_city": "City_43245",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43250",
+      "zip_extension": "",
+      "primary_city": "City_43250",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43255",
+      "zip_extension": "",
+      "primary_city": "City_43255",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43260",
+      "zip_extension": "",
+      "primary_city": "City_43260",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43265",
+      "zip_extension": "",
+      "primary_city": "City_43265",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43270",
+      "zip_extension": "",
+      "primary_city": "City_43270",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43275",
+      "zip_extension": "",
+      "primary_city": "City_43275",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43280",
+      "zip_extension": "",
+      "primary_city": "City_43280",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43285",
+      "zip_extension": "",
+      "primary_city": "City_43285",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43290",
+      "zip_extension": "",
+      "primary_city": "City_43290",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43295",
+      "zip_extension": "",
+      "primary_city": "City_43295",
+      "acceptable_cities": "",
+      "county": "County_432",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43300",
+      "zip_extension": "",
+      "primary_city": "City_43300",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43305",
+      "zip_extension": "",
+      "primary_city": "City_43305",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43310",
+      "zip_extension": "",
+      "primary_city": "City_43310",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43315",
+      "zip_extension": "",
+      "primary_city": "City_43315",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43320",
+      "zip_extension": "",
+      "primary_city": "City_43320",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43325",
+      "zip_extension": "",
+      "primary_city": "City_43325",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43330",
+      "zip_extension": "",
+      "primary_city": "City_43330",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43335",
+      "zip_extension": "",
+      "primary_city": "City_43335",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43340",
+      "zip_extension": "",
+      "primary_city": "City_43340",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43345",
+      "zip_extension": "",
+      "primary_city": "City_43345",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43350",
+      "zip_extension": "",
+      "primary_city": "City_43350",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43355",
+      "zip_extension": "",
+      "primary_city": "City_43355",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43360",
+      "zip_extension": "",
+      "primary_city": "City_43360",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43365",
+      "zip_extension": "",
+      "primary_city": "City_43365",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43370",
+      "zip_extension": "",
+      "primary_city": "City_43370",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43375",
+      "zip_extension": "",
+      "primary_city": "City_43375",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43380",
+      "zip_extension": "",
+      "primary_city": "City_43380",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43385",
+      "zip_extension": "",
+      "primary_city": "City_43385",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43390",
+      "zip_extension": "",
+      "primary_city": "City_43390",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43395",
+      "zip_extension": "",
+      "primary_city": "City_43395",
+      "acceptable_cities": "",
+      "county": "County_433",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43400",
+      "zip_extension": "",
+      "primary_city": "City_43400",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43405",
+      "zip_extension": "",
+      "primary_city": "City_43405",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43410",
+      "zip_extension": "",
+      "primary_city": "City_43410",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43415",
+      "zip_extension": "",
+      "primary_city": "City_43415",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43420",
+      "zip_extension": "",
+      "primary_city": "City_43420",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43425",
+      "zip_extension": "",
+      "primary_city": "City_43425",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43430",
+      "zip_extension": "",
+      "primary_city": "City_43430",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43435",
+      "zip_extension": "",
+      "primary_city": "City_43435",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43440",
+      "zip_extension": "",
+      "primary_city": "City_43440",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43445",
+      "zip_extension": "",
+      "primary_city": "City_43445",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43450",
+      "zip_extension": "",
+      "primary_city": "City_43450",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43455",
+      "zip_extension": "",
+      "primary_city": "City_43455",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43460",
+      "zip_extension": "",
+      "primary_city": "City_43460",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43465",
+      "zip_extension": "",
+      "primary_city": "City_43465",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43470",
+      "zip_extension": "",
+      "primary_city": "City_43470",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43475",
+      "zip_extension": "",
+      "primary_city": "City_43475",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43480",
+      "zip_extension": "",
+      "primary_city": "City_43480",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43485",
+      "zip_extension": "",
+      "primary_city": "City_43485",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43490",
+      "zip_extension": "",
+      "primary_city": "City_43490",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43495",
+      "zip_extension": "",
+      "primary_city": "City_43495",
+      "acceptable_cities": "",
+      "county": "County_434",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43500",
+      "zip_extension": "",
+      "primary_city": "City_43500",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43505",
+      "zip_extension": "",
+      "primary_city": "City_43505",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43510",
+      "zip_extension": "",
+      "primary_city": "City_43510",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43515",
+      "zip_extension": "",
+      "primary_city": "City_43515",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43520",
+      "zip_extension": "",
+      "primary_city": "City_43520",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43525",
+      "zip_extension": "",
+      "primary_city": "City_43525",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43530",
+      "zip_extension": "",
+      "primary_city": "City_43530",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43535",
+      "zip_extension": "",
+      "primary_city": "City_43535",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43540",
+      "zip_extension": "",
+      "primary_city": "City_43540",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43545",
+      "zip_extension": "",
+      "primary_city": "City_43545",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43550",
+      "zip_extension": "",
+      "primary_city": "City_43550",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43555",
+      "zip_extension": "",
+      "primary_city": "City_43555",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43560",
+      "zip_extension": "",
+      "primary_city": "City_43560",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43565",
+      "zip_extension": "",
+      "primary_city": "City_43565",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43570",
+      "zip_extension": "",
+      "primary_city": "City_43570",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43575",
+      "zip_extension": "",
+      "primary_city": "City_43575",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43580",
+      "zip_extension": "",
+      "primary_city": "City_43580",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43585",
+      "zip_extension": "",
+      "primary_city": "City_43585",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43590",
+      "zip_extension": "",
+      "primary_city": "City_43590",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43595",
+      "zip_extension": "",
+      "primary_city": "City_43595",
+      "acceptable_cities": "",
+      "county": "County_435",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43600",
+      "zip_extension": "",
+      "primary_city": "City_43600",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43605",
+      "zip_extension": "",
+      "primary_city": "City_43605",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43610",
+      "zip_extension": "",
+      "primary_city": "City_43610",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43615",
+      "zip_extension": "",
+      "primary_city": "City_43615",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43620",
+      "zip_extension": "",
+      "primary_city": "City_43620",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43625",
+      "zip_extension": "",
+      "primary_city": "City_43625",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43630",
+      "zip_extension": "",
+      "primary_city": "City_43630",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43635",
+      "zip_extension": "",
+      "primary_city": "City_43635",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43640",
+      "zip_extension": "",
+      "primary_city": "City_43640",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43645",
+      "zip_extension": "",
+      "primary_city": "City_43645",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43650",
+      "zip_extension": "",
+      "primary_city": "City_43650",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43655",
+      "zip_extension": "",
+      "primary_city": "City_43655",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43660",
+      "zip_extension": "",
+      "primary_city": "City_43660",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43665",
+      "zip_extension": "",
+      "primary_city": "City_43665",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43670",
+      "zip_extension": "",
+      "primary_city": "City_43670",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43675",
+      "zip_extension": "",
+      "primary_city": "City_43675",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43680",
+      "zip_extension": "",
+      "primary_city": "City_43680",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43685",
+      "zip_extension": "",
+      "primary_city": "City_43685",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43690",
+      "zip_extension": "",
+      "primary_city": "City_43690",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43695",
+      "zip_extension": "",
+      "primary_city": "City_43695",
+      "acceptable_cities": "",
+      "county": "County_436",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43700",
+      "zip_extension": "",
+      "primary_city": "City_43700",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43705",
+      "zip_extension": "",
+      "primary_city": "City_43705",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43710",
+      "zip_extension": "",
+      "primary_city": "City_43710",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43715",
+      "zip_extension": "",
+      "primary_city": "City_43715",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43720",
+      "zip_extension": "",
+      "primary_city": "City_43720",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43725",
+      "zip_extension": "",
+      "primary_city": "City_43725",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43730",
+      "zip_extension": "",
+      "primary_city": "City_43730",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43735",
+      "zip_extension": "",
+      "primary_city": "City_43735",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43740",
+      "zip_extension": "",
+      "primary_city": "City_43740",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43745",
+      "zip_extension": "",
+      "primary_city": "City_43745",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43750",
+      "zip_extension": "",
+      "primary_city": "City_43750",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43755",
+      "zip_extension": "",
+      "primary_city": "City_43755",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43760",
+      "zip_extension": "",
+      "primary_city": "City_43760",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43765",
+      "zip_extension": "",
+      "primary_city": "City_43765",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43770",
+      "zip_extension": "",
+      "primary_city": "City_43770",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43775",
+      "zip_extension": "",
+      "primary_city": "City_43775",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43780",
+      "zip_extension": "",
+      "primary_city": "City_43780",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43785",
+      "zip_extension": "",
+      "primary_city": "City_43785",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43790",
+      "zip_extension": "",
+      "primary_city": "City_43790",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43795",
+      "zip_extension": "",
+      "primary_city": "City_43795",
+      "acceptable_cities": "",
+      "county": "County_437",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43800",
+      "zip_extension": "",
+      "primary_city": "City_43800",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43805",
+      "zip_extension": "",
+      "primary_city": "City_43805",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43810",
+      "zip_extension": "",
+      "primary_city": "City_43810",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43815",
+      "zip_extension": "",
+      "primary_city": "City_43815",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43820",
+      "zip_extension": "",
+      "primary_city": "City_43820",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43825",
+      "zip_extension": "",
+      "primary_city": "City_43825",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43830",
+      "zip_extension": "",
+      "primary_city": "City_43830",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43835",
+      "zip_extension": "",
+      "primary_city": "City_43835",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43840",
+      "zip_extension": "",
+      "primary_city": "City_43840",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43845",
+      "zip_extension": "",
+      "primary_city": "City_43845",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43850",
+      "zip_extension": "",
+      "primary_city": "City_43850",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43855",
+      "zip_extension": "",
+      "primary_city": "City_43855",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43860",
+      "zip_extension": "",
+      "primary_city": "City_43860",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43865",
+      "zip_extension": "",
+      "primary_city": "City_43865",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43870",
+      "zip_extension": "",
+      "primary_city": "City_43870",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43875",
+      "zip_extension": "",
+      "primary_city": "City_43875",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43880",
+      "zip_extension": "",
+      "primary_city": "City_43880",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43885",
+      "zip_extension": "",
+      "primary_city": "City_43885",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43890",
+      "zip_extension": "",
+      "primary_city": "City_43890",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43895",
+      "zip_extension": "",
+      "primary_city": "City_43895",
+      "acceptable_cities": "",
+      "county": "County_438",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43900",
+      "zip_extension": "",
+      "primary_city": "City_43900",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43905",
+      "zip_extension": "",
+      "primary_city": "City_43905",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43910",
+      "zip_extension": "",
+      "primary_city": "City_43910",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43915",
+      "zip_extension": "",
+      "primary_city": "City_43915",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43920",
+      "zip_extension": "",
+      "primary_city": "City_43920",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43925",
+      "zip_extension": "",
+      "primary_city": "City_43925",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43930",
+      "zip_extension": "",
+      "primary_city": "City_43930",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43935",
+      "zip_extension": "",
+      "primary_city": "City_43935",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43940",
+      "zip_extension": "",
+      "primary_city": "City_43940",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43945",
+      "zip_extension": "",
+      "primary_city": "City_43945",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43950",
+      "zip_extension": "",
+      "primary_city": "City_43950",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43955",
+      "zip_extension": "",
+      "primary_city": "City_43955",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43960",
+      "zip_extension": "",
+      "primary_city": "City_43960",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43965",
+      "zip_extension": "",
+      "primary_city": "City_43965",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43970",
+      "zip_extension": "",
+      "primary_city": "City_43970",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43975",
+      "zip_extension": "",
+      "primary_city": "City_43975",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43980",
+      "zip_extension": "",
+      "primary_city": "City_43980",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43985",
+      "zip_extension": "",
+      "primary_city": "City_43985",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43990",
+      "zip_extension": "",
+      "primary_city": "City_43990",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "43995",
+      "zip_extension": "",
+      "primary_city": "City_43995",
+      "acceptable_cities": "",
+      "county": "County_439",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44000",
+      "zip_extension": "",
+      "primary_city": "City_44000",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44005",
+      "zip_extension": "",
+      "primary_city": "City_44005",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44010",
+      "zip_extension": "",
+      "primary_city": "City_44010",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44015",
+      "zip_extension": "",
+      "primary_city": "City_44015",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44020",
+      "zip_extension": "",
+      "primary_city": "City_44020",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44025",
+      "zip_extension": "",
+      "primary_city": "City_44025",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44030",
+      "zip_extension": "",
+      "primary_city": "City_44030",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44035",
+      "zip_extension": "",
+      "primary_city": "City_44035",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44040",
+      "zip_extension": "",
+      "primary_city": "City_44040",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44045",
+      "zip_extension": "",
+      "primary_city": "City_44045",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44050",
+      "zip_extension": "",
+      "primary_city": "City_44050",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44055",
+      "zip_extension": "",
+      "primary_city": "City_44055",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44060",
+      "zip_extension": "",
+      "primary_city": "City_44060",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44065",
+      "zip_extension": "",
+      "primary_city": "City_44065",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44070",
+      "zip_extension": "",
+      "primary_city": "City_44070",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44075",
+      "zip_extension": "",
+      "primary_city": "City_44075",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44080",
+      "zip_extension": "",
+      "primary_city": "City_44080",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44085",
+      "zip_extension": "",
+      "primary_city": "City_44085",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44090",
+      "zip_extension": "",
+      "primary_city": "City_44090",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44095",
+      "zip_extension": "",
+      "primary_city": "City_44095",
+      "acceptable_cities": "",
+      "county": "County_440",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44100",
+      "zip_extension": "",
+      "primary_city": "City_44100",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44105",
+      "zip_extension": "",
+      "primary_city": "City_44105",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44110",
+      "zip_extension": "",
+      "primary_city": "City_44110",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44115",
+      "zip_extension": "",
+      "primary_city": "City_44115",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44120",
+      "zip_extension": "",
+      "primary_city": "City_44120",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44125",
+      "zip_extension": "",
+      "primary_city": "City_44125",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44130",
+      "zip_extension": "",
+      "primary_city": "City_44130",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44135",
+      "zip_extension": "",
+      "primary_city": "City_44135",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44140",
+      "zip_extension": "",
+      "primary_city": "City_44140",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44145",
+      "zip_extension": "",
+      "primary_city": "City_44145",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44150",
+      "zip_extension": "",
+      "primary_city": "City_44150",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44155",
+      "zip_extension": "",
+      "primary_city": "City_44155",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44160",
+      "zip_extension": "",
+      "primary_city": "City_44160",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44165",
+      "zip_extension": "",
+      "primary_city": "City_44165",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44170",
+      "zip_extension": "",
+      "primary_city": "City_44170",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44175",
+      "zip_extension": "",
+      "primary_city": "City_44175",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44180",
+      "zip_extension": "",
+      "primary_city": "City_44180",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44185",
+      "zip_extension": "",
+      "primary_city": "City_44185",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44190",
+      "zip_extension": "",
+      "primary_city": "City_44190",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44195",
+      "zip_extension": "",
+      "primary_city": "City_44195",
+      "acceptable_cities": "",
+      "county": "County_441",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44200",
+      "zip_extension": "",
+      "primary_city": "City_44200",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44205",
+      "zip_extension": "",
+      "primary_city": "City_44205",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44210",
+      "zip_extension": "",
+      "primary_city": "City_44210",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44215",
+      "zip_extension": "",
+      "primary_city": "City_44215",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44220",
+      "zip_extension": "",
+      "primary_city": "City_44220",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44225",
+      "zip_extension": "",
+      "primary_city": "City_44225",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44230",
+      "zip_extension": "",
+      "primary_city": "City_44230",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44235",
+      "zip_extension": "",
+      "primary_city": "City_44235",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44240",
+      "zip_extension": "",
+      "primary_city": "City_44240",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44245",
+      "zip_extension": "",
+      "primary_city": "City_44245",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44250",
+      "zip_extension": "",
+      "primary_city": "City_44250",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44255",
+      "zip_extension": "",
+      "primary_city": "City_44255",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44260",
+      "zip_extension": "",
+      "primary_city": "City_44260",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44265",
+      "zip_extension": "",
+      "primary_city": "City_44265",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44270",
+      "zip_extension": "",
+      "primary_city": "City_44270",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44275",
+      "zip_extension": "",
+      "primary_city": "City_44275",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44280",
+      "zip_extension": "",
+      "primary_city": "City_44280",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44285",
+      "zip_extension": "",
+      "primary_city": "City_44285",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44290",
+      "zip_extension": "",
+      "primary_city": "City_44290",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44295",
+      "zip_extension": "",
+      "primary_city": "City_44295",
+      "acceptable_cities": "",
+      "county": "County_442",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44300",
+      "zip_extension": "",
+      "primary_city": "City_44300",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44305",
+      "zip_extension": "",
+      "primary_city": "City_44305",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44310",
+      "zip_extension": "",
+      "primary_city": "City_44310",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44315",
+      "zip_extension": "",
+      "primary_city": "City_44315",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44320",
+      "zip_extension": "",
+      "primary_city": "City_44320",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44325",
+      "zip_extension": "",
+      "primary_city": "City_44325",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44330",
+      "zip_extension": "",
+      "primary_city": "City_44330",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44335",
+      "zip_extension": "",
+      "primary_city": "City_44335",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44340",
+      "zip_extension": "",
+      "primary_city": "City_44340",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44345",
+      "zip_extension": "",
+      "primary_city": "City_44345",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44350",
+      "zip_extension": "",
+      "primary_city": "City_44350",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44355",
+      "zip_extension": "",
+      "primary_city": "City_44355",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44360",
+      "zip_extension": "",
+      "primary_city": "City_44360",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44365",
+      "zip_extension": "",
+      "primary_city": "City_44365",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44370",
+      "zip_extension": "",
+      "primary_city": "City_44370",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44375",
+      "zip_extension": "",
+      "primary_city": "City_44375",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44380",
+      "zip_extension": "",
+      "primary_city": "City_44380",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44385",
+      "zip_extension": "",
+      "primary_city": "City_44385",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44390",
+      "zip_extension": "",
+      "primary_city": "City_44390",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44395",
+      "zip_extension": "",
+      "primary_city": "City_44395",
+      "acceptable_cities": "",
+      "county": "County_443",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44400",
+      "zip_extension": "",
+      "primary_city": "City_44400",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44405",
+      "zip_extension": "",
+      "primary_city": "City_44405",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44410",
+      "zip_extension": "",
+      "primary_city": "City_44410",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44415",
+      "zip_extension": "",
+      "primary_city": "City_44415",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44420",
+      "zip_extension": "",
+      "primary_city": "City_44420",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44425",
+      "zip_extension": "",
+      "primary_city": "City_44425",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44430",
+      "zip_extension": "",
+      "primary_city": "City_44430",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44435",
+      "zip_extension": "",
+      "primary_city": "City_44435",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44440",
+      "zip_extension": "",
+      "primary_city": "City_44440",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44445",
+      "zip_extension": "",
+      "primary_city": "City_44445",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44450",
+      "zip_extension": "",
+      "primary_city": "City_44450",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44455",
+      "zip_extension": "",
+      "primary_city": "City_44455",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44460",
+      "zip_extension": "",
+      "primary_city": "City_44460",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44465",
+      "zip_extension": "",
+      "primary_city": "City_44465",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44470",
+      "zip_extension": "",
+      "primary_city": "City_44470",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44475",
+      "zip_extension": "",
+      "primary_city": "City_44475",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44480",
+      "zip_extension": "",
+      "primary_city": "City_44480",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44485",
+      "zip_extension": "",
+      "primary_city": "City_44485",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44490",
+      "zip_extension": "",
+      "primary_city": "City_44490",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44495",
+      "zip_extension": "",
+      "primary_city": "City_44495",
+      "acceptable_cities": "",
+      "county": "County_444",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44500",
+      "zip_extension": "",
+      "primary_city": "City_44500",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44505",
+      "zip_extension": "",
+      "primary_city": "City_44505",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44510",
+      "zip_extension": "",
+      "primary_city": "City_44510",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44515",
+      "zip_extension": "",
+      "primary_city": "City_44515",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44520",
+      "zip_extension": "",
+      "primary_city": "City_44520",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44525",
+      "zip_extension": "",
+      "primary_city": "City_44525",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44530",
+      "zip_extension": "",
+      "primary_city": "City_44530",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44535",
+      "zip_extension": "",
+      "primary_city": "City_44535",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44540",
+      "zip_extension": "",
+      "primary_city": "City_44540",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44545",
+      "zip_extension": "",
+      "primary_city": "City_44545",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44550",
+      "zip_extension": "",
+      "primary_city": "City_44550",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44555",
+      "zip_extension": "",
+      "primary_city": "City_44555",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44560",
+      "zip_extension": "",
+      "primary_city": "City_44560",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44565",
+      "zip_extension": "",
+      "primary_city": "City_44565",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44570",
+      "zip_extension": "",
+      "primary_city": "City_44570",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44575",
+      "zip_extension": "",
+      "primary_city": "City_44575",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44580",
+      "zip_extension": "",
+      "primary_city": "City_44580",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44585",
+      "zip_extension": "",
+      "primary_city": "City_44585",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44590",
+      "zip_extension": "",
+      "primary_city": "City_44590",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44595",
+      "zip_extension": "",
+      "primary_city": "City_44595",
+      "acceptable_cities": "",
+      "county": "County_445",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44600",
+      "zip_extension": "",
+      "primary_city": "City_44600",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44605",
+      "zip_extension": "",
+      "primary_city": "City_44605",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44610",
+      "zip_extension": "",
+      "primary_city": "City_44610",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44615",
+      "zip_extension": "",
+      "primary_city": "City_44615",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44620",
+      "zip_extension": "",
+      "primary_city": "City_44620",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44625",
+      "zip_extension": "",
+      "primary_city": "City_44625",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44630",
+      "zip_extension": "",
+      "primary_city": "City_44630",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44635",
+      "zip_extension": "",
+      "primary_city": "City_44635",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44640",
+      "zip_extension": "",
+      "primary_city": "City_44640",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44645",
+      "zip_extension": "",
+      "primary_city": "City_44645",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44650",
+      "zip_extension": "",
+      "primary_city": "City_44650",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44655",
+      "zip_extension": "",
+      "primary_city": "City_44655",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44660",
+      "zip_extension": "",
+      "primary_city": "City_44660",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44665",
+      "zip_extension": "",
+      "primary_city": "City_44665",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44670",
+      "zip_extension": "",
+      "primary_city": "City_44670",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44675",
+      "zip_extension": "",
+      "primary_city": "City_44675",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44680",
+      "zip_extension": "",
+      "primary_city": "City_44680",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44685",
+      "zip_extension": "",
+      "primary_city": "City_44685",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44690",
+      "zip_extension": "",
+      "primary_city": "City_44690",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44695",
+      "zip_extension": "",
+      "primary_city": "City_44695",
+      "acceptable_cities": "",
+      "county": "County_446",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44700",
+      "zip_extension": "",
+      "primary_city": "City_44700",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44705",
+      "zip_extension": "",
+      "primary_city": "City_44705",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44710",
+      "zip_extension": "",
+      "primary_city": "City_44710",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44715",
+      "zip_extension": "",
+      "primary_city": "City_44715",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44720",
+      "zip_extension": "",
+      "primary_city": "City_44720",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44725",
+      "zip_extension": "",
+      "primary_city": "City_44725",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44730",
+      "zip_extension": "",
+      "primary_city": "City_44730",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44735",
+      "zip_extension": "",
+      "primary_city": "City_44735",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44740",
+      "zip_extension": "",
+      "primary_city": "City_44740",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44745",
+      "zip_extension": "",
+      "primary_city": "City_44745",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44750",
+      "zip_extension": "",
+      "primary_city": "City_44750",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44755",
+      "zip_extension": "",
+      "primary_city": "City_44755",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44760",
+      "zip_extension": "",
+      "primary_city": "City_44760",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44765",
+      "zip_extension": "",
+      "primary_city": "City_44765",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44770",
+      "zip_extension": "",
+      "primary_city": "City_44770",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44775",
+      "zip_extension": "",
+      "primary_city": "City_44775",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44780",
+      "zip_extension": "",
+      "primary_city": "City_44780",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44785",
+      "zip_extension": "",
+      "primary_city": "City_44785",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44790",
+      "zip_extension": "",
+      "primary_city": "City_44790",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44795",
+      "zip_extension": "",
+      "primary_city": "City_44795",
+      "acceptable_cities": "",
+      "county": "County_447",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44800",
+      "zip_extension": "",
+      "primary_city": "City_44800",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44805",
+      "zip_extension": "",
+      "primary_city": "City_44805",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44810",
+      "zip_extension": "",
+      "primary_city": "City_44810",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44815",
+      "zip_extension": "",
+      "primary_city": "City_44815",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44820",
+      "zip_extension": "",
+      "primary_city": "City_44820",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44825",
+      "zip_extension": "",
+      "primary_city": "City_44825",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44830",
+      "zip_extension": "",
+      "primary_city": "City_44830",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44835",
+      "zip_extension": "",
+      "primary_city": "City_44835",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44840",
+      "zip_extension": "",
+      "primary_city": "City_44840",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44845",
+      "zip_extension": "",
+      "primary_city": "City_44845",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44850",
+      "zip_extension": "",
+      "primary_city": "City_44850",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44855",
+      "zip_extension": "",
+      "primary_city": "City_44855",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44860",
+      "zip_extension": "",
+      "primary_city": "City_44860",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44865",
+      "zip_extension": "",
+      "primary_city": "City_44865",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44870",
+      "zip_extension": "",
+      "primary_city": "City_44870",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44875",
+      "zip_extension": "",
+      "primary_city": "City_44875",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44880",
+      "zip_extension": "",
+      "primary_city": "City_44880",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44885",
+      "zip_extension": "",
+      "primary_city": "City_44885",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44890",
+      "zip_extension": "",
+      "primary_city": "City_44890",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44895",
+      "zip_extension": "",
+      "primary_city": "City_44895",
+      "acceptable_cities": "",
+      "county": "County_448",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44900",
+      "zip_extension": "",
+      "primary_city": "City_44900",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44905",
+      "zip_extension": "",
+      "primary_city": "City_44905",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44910",
+      "zip_extension": "",
+      "primary_city": "City_44910",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44915",
+      "zip_extension": "",
+      "primary_city": "City_44915",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44920",
+      "zip_extension": "",
+      "primary_city": "City_44920",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44925",
+      "zip_extension": "",
+      "primary_city": "City_44925",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44930",
+      "zip_extension": "",
+      "primary_city": "City_44930",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44935",
+      "zip_extension": "",
+      "primary_city": "City_44935",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44940",
+      "zip_extension": "",
+      "primary_city": "City_44940",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44945",
+      "zip_extension": "",
+      "primary_city": "City_44945",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44950",
+      "zip_extension": "",
+      "primary_city": "City_44950",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44955",
+      "zip_extension": "",
+      "primary_city": "City_44955",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44960",
+      "zip_extension": "",
+      "primary_city": "City_44960",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44965",
+      "zip_extension": "",
+      "primary_city": "City_44965",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44970",
+      "zip_extension": "",
+      "primary_city": "City_44970",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44975",
+      "zip_extension": "",
+      "primary_city": "City_44975",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44980",
+      "zip_extension": "",
+      "primary_city": "City_44980",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44985",
+      "zip_extension": "",
+      "primary_city": "City_44985",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44990",
+      "zip_extension": "",
+      "primary_city": "City_44990",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "44995",
+      "zip_extension": "",
+      "primary_city": "City_44995",
+      "acceptable_cities": "",
+      "county": "County_449",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45000",
+      "zip_extension": "",
+      "primary_city": "City_45000",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45005",
+      "zip_extension": "",
+      "primary_city": "City_45005",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45010",
+      "zip_extension": "",
+      "primary_city": "City_45010",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45015",
+      "zip_extension": "",
+      "primary_city": "City_45015",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45020",
+      "zip_extension": "",
+      "primary_city": "City_45020",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45025",
+      "zip_extension": "",
+      "primary_city": "City_45025",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45030",
+      "zip_extension": "",
+      "primary_city": "City_45030",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45035",
+      "zip_extension": "",
+      "primary_city": "City_45035",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45040",
+      "zip_extension": "",
+      "primary_city": "City_45040",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45045",
+      "zip_extension": "",
+      "primary_city": "City_45045",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45050",
+      "zip_extension": "",
+      "primary_city": "City_45050",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45055",
+      "zip_extension": "",
+      "primary_city": "City_45055",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45060",
+      "zip_extension": "",
+      "primary_city": "City_45060",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45065",
+      "zip_extension": "",
+      "primary_city": "City_45065",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45070",
+      "zip_extension": "",
+      "primary_city": "City_45070",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45075",
+      "zip_extension": "",
+      "primary_city": "City_45075",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45080",
+      "zip_extension": "",
+      "primary_city": "City_45080",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45085",
+      "zip_extension": "",
+      "primary_city": "City_45085",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45090",
+      "zip_extension": "",
+      "primary_city": "City_45090",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45095",
+      "zip_extension": "",
+      "primary_city": "City_45095",
+      "acceptable_cities": "",
+      "county": "County_450",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45100",
+      "zip_extension": "",
+      "primary_city": "City_45100",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45105",
+      "zip_extension": "",
+      "primary_city": "City_45105",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45110",
+      "zip_extension": "",
+      "primary_city": "City_45110",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45115",
+      "zip_extension": "",
+      "primary_city": "City_45115",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45120",
+      "zip_extension": "",
+      "primary_city": "City_45120",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45125",
+      "zip_extension": "",
+      "primary_city": "City_45125",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45130",
+      "zip_extension": "",
+      "primary_city": "City_45130",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45135",
+      "zip_extension": "",
+      "primary_city": "City_45135",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45140",
+      "zip_extension": "",
+      "primary_city": "City_45140",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45145",
+      "zip_extension": "",
+      "primary_city": "City_45145",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45150",
+      "zip_extension": "",
+      "primary_city": "City_45150",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45155",
+      "zip_extension": "",
+      "primary_city": "City_45155",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45160",
+      "zip_extension": "",
+      "primary_city": "City_45160",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45165",
+      "zip_extension": "",
+      "primary_city": "City_45165",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45170",
+      "zip_extension": "",
+      "primary_city": "City_45170",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45175",
+      "zip_extension": "",
+      "primary_city": "City_45175",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45180",
+      "zip_extension": "",
+      "primary_city": "City_45180",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45185",
+      "zip_extension": "",
+      "primary_city": "City_45185",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45190",
+      "zip_extension": "",
+      "primary_city": "City_45190",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45195",
+      "zip_extension": "",
+      "primary_city": "City_45195",
+      "acceptable_cities": "",
+      "county": "County_451",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45200",
+      "zip_extension": "",
+      "primary_city": "City_45200",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45205",
+      "zip_extension": "",
+      "primary_city": "City_45205",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45210",
+      "zip_extension": "",
+      "primary_city": "City_45210",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45215",
+      "zip_extension": "",
+      "primary_city": "City_45215",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45220",
+      "zip_extension": "",
+      "primary_city": "City_45220",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45225",
+      "zip_extension": "",
+      "primary_city": "City_45225",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45230",
+      "zip_extension": "",
+      "primary_city": "City_45230",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45235",
+      "zip_extension": "",
+      "primary_city": "City_45235",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45240",
+      "zip_extension": "",
+      "primary_city": "City_45240",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45245",
+      "zip_extension": "",
+      "primary_city": "City_45245",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45250",
+      "zip_extension": "",
+      "primary_city": "City_45250",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45255",
+      "zip_extension": "",
+      "primary_city": "City_45255",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45260",
+      "zip_extension": "",
+      "primary_city": "City_45260",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45265",
+      "zip_extension": "",
+      "primary_city": "City_45265",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45270",
+      "zip_extension": "",
+      "primary_city": "City_45270",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45275",
+      "zip_extension": "",
+      "primary_city": "City_45275",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45280",
+      "zip_extension": "",
+      "primary_city": "City_45280",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45285",
+      "zip_extension": "",
+      "primary_city": "City_45285",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45290",
+      "zip_extension": "",
+      "primary_city": "City_45290",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45295",
+      "zip_extension": "",
+      "primary_city": "City_45295",
+      "acceptable_cities": "",
+      "county": "County_452",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45300",
+      "zip_extension": "",
+      "primary_city": "City_45300",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45305",
+      "zip_extension": "",
+      "primary_city": "City_45305",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45310",
+      "zip_extension": "",
+      "primary_city": "City_45310",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45315",
+      "zip_extension": "",
+      "primary_city": "City_45315",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45320",
+      "zip_extension": "",
+      "primary_city": "City_45320",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45325",
+      "zip_extension": "",
+      "primary_city": "City_45325",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45330",
+      "zip_extension": "",
+      "primary_city": "City_45330",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45335",
+      "zip_extension": "",
+      "primary_city": "City_45335",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45340",
+      "zip_extension": "",
+      "primary_city": "City_45340",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45345",
+      "zip_extension": "",
+      "primary_city": "City_45345",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45350",
+      "zip_extension": "",
+      "primary_city": "City_45350",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45355",
+      "zip_extension": "",
+      "primary_city": "City_45355",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45360",
+      "zip_extension": "",
+      "primary_city": "City_45360",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45365",
+      "zip_extension": "",
+      "primary_city": "City_45365",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45370",
+      "zip_extension": "",
+      "primary_city": "City_45370",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45375",
+      "zip_extension": "",
+      "primary_city": "City_45375",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45380",
+      "zip_extension": "",
+      "primary_city": "City_45380",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45385",
+      "zip_extension": "",
+      "primary_city": "City_45385",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45390",
+      "zip_extension": "",
+      "primary_city": "City_45390",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45395",
+      "zip_extension": "",
+      "primary_city": "City_45395",
+      "acceptable_cities": "",
+      "county": "County_453",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45400",
+      "zip_extension": "",
+      "primary_city": "City_45400",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45405",
+      "zip_extension": "",
+      "primary_city": "City_45405",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45410",
+      "zip_extension": "",
+      "primary_city": "City_45410",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45415",
+      "zip_extension": "",
+      "primary_city": "City_45415",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45420",
+      "zip_extension": "",
+      "primary_city": "City_45420",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45425",
+      "zip_extension": "",
+      "primary_city": "City_45425",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45430",
+      "zip_extension": "",
+      "primary_city": "City_45430",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45435",
+      "zip_extension": "",
+      "primary_city": "City_45435",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45440",
+      "zip_extension": "",
+      "primary_city": "City_45440",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45445",
+      "zip_extension": "",
+      "primary_city": "City_45445",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45450",
+      "zip_extension": "",
+      "primary_city": "City_45450",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45455",
+      "zip_extension": "",
+      "primary_city": "City_45455",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45460",
+      "zip_extension": "",
+      "primary_city": "City_45460",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45465",
+      "zip_extension": "",
+      "primary_city": "City_45465",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45470",
+      "zip_extension": "",
+      "primary_city": "City_45470",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45475",
+      "zip_extension": "",
+      "primary_city": "City_45475",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45480",
+      "zip_extension": "",
+      "primary_city": "City_45480",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45485",
+      "zip_extension": "",
+      "primary_city": "City_45485",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45490",
+      "zip_extension": "",
+      "primary_city": "City_45490",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45495",
+      "zip_extension": "",
+      "primary_city": "City_45495",
+      "acceptable_cities": "",
+      "county": "County_454",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45500",
+      "zip_extension": "",
+      "primary_city": "City_45500",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45505",
+      "zip_extension": "",
+      "primary_city": "City_45505",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45510",
+      "zip_extension": "",
+      "primary_city": "City_45510",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45515",
+      "zip_extension": "",
+      "primary_city": "City_45515",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45520",
+      "zip_extension": "",
+      "primary_city": "City_45520",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45525",
+      "zip_extension": "",
+      "primary_city": "City_45525",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45530",
+      "zip_extension": "",
+      "primary_city": "City_45530",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45535",
+      "zip_extension": "",
+      "primary_city": "City_45535",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45540",
+      "zip_extension": "",
+      "primary_city": "City_45540",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45545",
+      "zip_extension": "",
+      "primary_city": "City_45545",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45550",
+      "zip_extension": "",
+      "primary_city": "City_45550",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45555",
+      "zip_extension": "",
+      "primary_city": "City_45555",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45560",
+      "zip_extension": "",
+      "primary_city": "City_45560",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45565",
+      "zip_extension": "",
+      "primary_city": "City_45565",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45570",
+      "zip_extension": "",
+      "primary_city": "City_45570",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45575",
+      "zip_extension": "",
+      "primary_city": "City_45575",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45580",
+      "zip_extension": "",
+      "primary_city": "City_45580",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45585",
+      "zip_extension": "",
+      "primary_city": "City_45585",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45590",
+      "zip_extension": "",
+      "primary_city": "City_45590",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45595",
+      "zip_extension": "",
+      "primary_city": "City_45595",
+      "acceptable_cities": "",
+      "county": "County_455",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45600",
+      "zip_extension": "",
+      "primary_city": "City_45600",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45605",
+      "zip_extension": "",
+      "primary_city": "City_45605",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45610",
+      "zip_extension": "",
+      "primary_city": "City_45610",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45615",
+      "zip_extension": "",
+      "primary_city": "City_45615",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45620",
+      "zip_extension": "",
+      "primary_city": "City_45620",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45625",
+      "zip_extension": "",
+      "primary_city": "City_45625",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45630",
+      "zip_extension": "",
+      "primary_city": "City_45630",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45635",
+      "zip_extension": "",
+      "primary_city": "City_45635",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45640",
+      "zip_extension": "",
+      "primary_city": "City_45640",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45645",
+      "zip_extension": "",
+      "primary_city": "City_45645",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45650",
+      "zip_extension": "",
+      "primary_city": "City_45650",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45655",
+      "zip_extension": "",
+      "primary_city": "City_45655",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45660",
+      "zip_extension": "",
+      "primary_city": "City_45660",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45665",
+      "zip_extension": "",
+      "primary_city": "City_45665",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45670",
+      "zip_extension": "",
+      "primary_city": "City_45670",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45675",
+      "zip_extension": "",
+      "primary_city": "City_45675",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45680",
+      "zip_extension": "",
+      "primary_city": "City_45680",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45685",
+      "zip_extension": "",
+      "primary_city": "City_45685",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45690",
+      "zip_extension": "",
+      "primary_city": "City_45690",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45695",
+      "zip_extension": "",
+      "primary_city": "City_45695",
+      "acceptable_cities": "",
+      "county": "County_456",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45700",
+      "zip_extension": "",
+      "primary_city": "City_45700",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45705",
+      "zip_extension": "",
+      "primary_city": "City_45705",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45710",
+      "zip_extension": "",
+      "primary_city": "City_45710",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45715",
+      "zip_extension": "",
+      "primary_city": "City_45715",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45720",
+      "zip_extension": "",
+      "primary_city": "City_45720",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45725",
+      "zip_extension": "",
+      "primary_city": "City_45725",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45730",
+      "zip_extension": "",
+      "primary_city": "City_45730",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45735",
+      "zip_extension": "",
+      "primary_city": "City_45735",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45740",
+      "zip_extension": "",
+      "primary_city": "City_45740",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45745",
+      "zip_extension": "",
+      "primary_city": "City_45745",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45750",
+      "zip_extension": "",
+      "primary_city": "City_45750",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45755",
+      "zip_extension": "",
+      "primary_city": "City_45755",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45760",
+      "zip_extension": "",
+      "primary_city": "City_45760",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45765",
+      "zip_extension": "",
+      "primary_city": "City_45765",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45770",
+      "zip_extension": "",
+      "primary_city": "City_45770",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45775",
+      "zip_extension": "",
+      "primary_city": "City_45775",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45780",
+      "zip_extension": "",
+      "primary_city": "City_45780",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45785",
+      "zip_extension": "",
+      "primary_city": "City_45785",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45790",
+      "zip_extension": "",
+      "primary_city": "City_45790",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45795",
+      "zip_extension": "",
+      "primary_city": "City_45795",
+      "acceptable_cities": "",
+      "county": "County_457",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45800",
+      "zip_extension": "",
+      "primary_city": "City_45800",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45805",
+      "zip_extension": "",
+      "primary_city": "City_45805",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45810",
+      "zip_extension": "",
+      "primary_city": "City_45810",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45815",
+      "zip_extension": "",
+      "primary_city": "City_45815",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45820",
+      "zip_extension": "",
+      "primary_city": "City_45820",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45825",
+      "zip_extension": "",
+      "primary_city": "City_45825",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45830",
+      "zip_extension": "",
+      "primary_city": "City_45830",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45835",
+      "zip_extension": "",
+      "primary_city": "City_45835",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45840",
+      "zip_extension": "",
+      "primary_city": "City_45840",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45845",
+      "zip_extension": "",
+      "primary_city": "City_45845",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45850",
+      "zip_extension": "",
+      "primary_city": "City_45850",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45855",
+      "zip_extension": "",
+      "primary_city": "City_45855",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45860",
+      "zip_extension": "",
+      "primary_city": "City_45860",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45865",
+      "zip_extension": "",
+      "primary_city": "City_45865",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45870",
+      "zip_extension": "",
+      "primary_city": "City_45870",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45875",
+      "zip_extension": "",
+      "primary_city": "City_45875",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45880",
+      "zip_extension": "",
+      "primary_city": "City_45880",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45885",
+      "zip_extension": "",
+      "primary_city": "City_45885",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45890",
+      "zip_extension": "",
+      "primary_city": "City_45890",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45895",
+      "zip_extension": "",
+      "primary_city": "City_45895",
+      "acceptable_cities": "",
+      "county": "County_458",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45900",
+      "zip_extension": "",
+      "primary_city": "City_45900",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45905",
+      "zip_extension": "",
+      "primary_city": "City_45905",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45910",
+      "zip_extension": "",
+      "primary_city": "City_45910",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45915",
+      "zip_extension": "",
+      "primary_city": "City_45915",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45920",
+      "zip_extension": "",
+      "primary_city": "City_45920",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45925",
+      "zip_extension": "",
+      "primary_city": "City_45925",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45930",
+      "zip_extension": "",
+      "primary_city": "City_45930",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45935",
+      "zip_extension": "",
+      "primary_city": "City_45935",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45940",
+      "zip_extension": "",
+      "primary_city": "City_45940",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45945",
+      "zip_extension": "",
+      "primary_city": "City_45945",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45950",
+      "zip_extension": "",
+      "primary_city": "City_45950",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45955",
+      "zip_extension": "",
+      "primary_city": "City_45955",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45960",
+      "zip_extension": "",
+      "primary_city": "City_45960",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45965",
+      "zip_extension": "",
+      "primary_city": "City_45965",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45970",
+      "zip_extension": "",
+      "primary_city": "City_45970",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45975",
+      "zip_extension": "",
+      "primary_city": "City_45975",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45980",
+      "zip_extension": "",
+      "primary_city": "City_45980",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45985",
+      "zip_extension": "",
+      "primary_city": "City_45985",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45990",
+      "zip_extension": "",
+      "primary_city": "City_45990",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "zip_code": "45995",
+      "zip_extension": "",
+      "primary_city": "City_45995",
+      "acceptable_cities": "",
+      "county": "County_459",
+      "state": "Ohio",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
+}
