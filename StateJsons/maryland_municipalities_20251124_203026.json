@@ -1,0 +1,850 @@
+{
+  "metadata": {
+    "state": "Maryland",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Maryland",
+    "scraped_at": "2025-11-24 20:30:26",
+    "scraper_version": "2.0_generic",
+    "description": "Maryland municipalities scraped from Wikipedia",
+    "total_municipalities": 159,
+    "statistics": {
+      "total_found": 159,
+      "with_population": 0,
+      "with_counties": 158,
+      "unique_counties": 23,
+      "population_stats": {}
+    },
+    "counties": [
+      "Allegany",
+      "Anne Arundel",
+      "Calvert",
+      "Caroline",
+      "Carroll",
+      "Cecil",
+      "Charles",
+      "Dorchester",
+      "Frederick",
+      "Garrett",
+      "Harford",
+      "Independent city",
+      "Kent",
+      "Montgomery",
+      "Prince George's",
+      "Queen Anne's",
+      "Somerset",
+      "St. Mary's",
+      "Talbot",
+      "Washington",
+      "Wicomico",
+      "Worcester",
+      "—"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi",
+      "designation": "km2"
+    },
+    {
+      "name": "Aberdeen",
+      "designation": "City",
+      "primary_county": "Harford"
+    },
+    {
+      "name": "Accident",
+      "designation": "Town",
+      "primary_county": "Garrett"
+    },
+    {
+      "name": "Annapolis‡",
+      "designation": "City",
+      "primary_county": "Anne Arundel"
+    },
+    {
+      "name": "Baltimore",
+      "designation": "City",
+      "primary_county": "Independent city"
+    },
+    {
+      "name": "Barclay",
+      "designation": "Town",
+      "primary_county": "Queen Anne's"
+    },
+    {
+      "name": "Barnesville",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Barton",
+      "designation": "Town",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Bel Air†",
+      "designation": "Town",
+      "primary_county": "Harford"
+    },
+    {
+      "name": "Berlin",
+      "designation": "Town",
+      "primary_county": "Worcester"
+    },
+    {
+      "name": "Berwyn Heights",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Betterton",
+      "designation": "Town",
+      "primary_county": "Kent"
+    },
+    {
+      "name": "Bladensburg",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Boonsboro",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Bowie",
+      "designation": "City",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Brentwood",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Brookeville",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Brookview",
+      "designation": "Town",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "Brunswick",
+      "designation": "City",
+      "primary_county": "Frederick"
+    },
+    {
+      "name": "Burkittsville",
+      "designation": "Town",
+      "primary_county": "Frederick"
+    },
+    {
+      "name": "Cambridge†",
+      "designation": "City",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "Capitol Heights",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Cecilton",
+      "designation": "Town",
+      "primary_county": "Cecil"
+    },
+    {
+      "name": "Centreville†",
+      "designation": "Town",
+      "primary_county": "Queen Anne's"
+    },
+    {
+      "name": "Charlestown",
+      "designation": "Town",
+      "primary_county": "Cecil"
+    },
+    {
+      "name": "Chesapeake Beach",
+      "designation": "Town",
+      "primary_county": "Calvert"
+    },
+    {
+      "name": "Chesapeake City",
+      "designation": "Town",
+      "primary_county": "Cecil"
+    },
+    {
+      "name": "Chestertown†",
+      "designation": "Town",
+      "primary_county": "Kent"
+    },
+    {
+      "name": "Cheverly",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Chevy Chase",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Chevy Chase Section Five",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Chevy Chase Section Three",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Chevy Chase View",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Chevy Chase Village",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Church Creek",
+      "designation": "Town",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "Church Hill",
+      "designation": "Town",
+      "primary_county": "Queen Anne's"
+    },
+    {
+      "name": "Clear Spring",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "College Park",
+      "designation": "City",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Colmar Manor",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Cottage City",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Crisfield",
+      "designation": "City",
+      "primary_county": "Somerset"
+    },
+    {
+      "name": "Cumberland†",
+      "designation": "City",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Deer Park",
+      "designation": "Town",
+      "primary_county": "Garrett"
+    },
+    {
+      "name": "Delmar",
+      "designation": "Town",
+      "primary_county": "Wicomico"
+    },
+    {
+      "name": "Denton†",
+      "designation": "Town",
+      "primary_county": "Caroline"
+    },
+    {
+      "name": "District Heights",
+      "designation": "City",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Eagle Harbor",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "East New Market",
+      "designation": "Town",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "Easton†",
+      "designation": "Town",
+      "primary_county": "Talbot"
+    },
+    {
+      "name": "Edmonston",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Eldorado",
+      "designation": "Town",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "Elkton†",
+      "designation": "Town",
+      "primary_county": "Cecil"
+    },
+    {
+      "name": "Emmitsburg",
+      "designation": "Town",
+      "primary_county": "Frederick"
+    },
+    {
+      "name": "Fairmount Heights",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Federalsburg",
+      "designation": "Town",
+      "primary_county": "Caroline"
+    },
+    {
+      "name": "Forest Heights",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Frederick†",
+      "designation": "City",
+      "primary_county": "Frederick"
+    },
+    {
+      "name": "Friendsville",
+      "designation": "Town",
+      "primary_county": "Garrett"
+    },
+    {
+      "name": "Frostburg",
+      "designation": "City",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Fruitland",
+      "designation": "City",
+      "primary_county": "Wicomico"
+    },
+    {
+      "name": "Funkstown",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Gaithersburg",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Galena",
+      "designation": "Town",
+      "primary_county": "Kent"
+    },
+    {
+      "name": "Galestown",
+      "designation": "Town",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "Garrett Park",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Glenarden",
+      "designation": "City",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Glen Echo",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Goldsboro",
+      "designation": "Town",
+      "primary_county": "Caroline"
+    },
+    {
+      "name": "Grantsville",
+      "designation": "Town",
+      "primary_county": "Garrett"
+    },
+    {
+      "name": "Greenbelt",
+      "designation": "City",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Greensboro",
+      "designation": "Town",
+      "primary_county": "Caroline"
+    },
+    {
+      "name": "Hagerstown†",
+      "designation": "City",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Hampstead",
+      "designation": "Town",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Hancock",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Havre de Grace",
+      "designation": "City",
+      "primary_county": "Harford"
+    },
+    {
+      "name": "Hebron",
+      "designation": "Town",
+      "primary_county": "Wicomico"
+    },
+    {
+      "name": "Henderson",
+      "designation": "Town",
+      "primary_county": "Caroline"
+    },
+    {
+      "name": "Highland Beach",
+      "designation": "Town",
+      "primary_county": "Anne Arundel"
+    },
+    {
+      "name": "Hillsboro",
+      "designation": "Town",
+      "primary_county": "Caroline"
+    },
+    {
+      "name": "Hurlock",
+      "designation": "Town",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "Hyattsville",
+      "designation": "City",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Indian Head",
+      "designation": "Town",
+      "primary_county": "Charles"
+    },
+    {
+      "name": "Keedysville",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Kensington",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Kitzmiller",
+      "designation": "Town",
+      "primary_county": "Garrett"
+    },
+    {
+      "name": "Landover Hills",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "La Plata†",
+      "designation": "Town",
+      "primary_county": "Charles"
+    },
+    {
+      "name": "Laurel",
+      "designation": "City",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Laytonsville",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Leonardtown†",
+      "designation": "Town",
+      "primary_county": "St. Mary's"
+    },
+    {
+      "name": "Loch Lynn Heights",
+      "designation": "Town",
+      "primary_county": "Garrett"
+    },
+    {
+      "name": "Lonaconing",
+      "designation": "Town",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Luke",
+      "designation": "Town",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Manchester",
+      "designation": "Town",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Mardela Springs",
+      "designation": "Town",
+      "primary_county": "Wicomico"
+    },
+    {
+      "name": "Martin's Additions",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Marydel",
+      "designation": "Town",
+      "primary_county": "Caroline"
+    },
+    {
+      "name": "Middletown",
+      "designation": "Town",
+      "primary_county": "Frederick"
+    },
+    {
+      "name": "Midland",
+      "designation": "Town",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Millington",
+      "designation": "Town",
+      "primary_county": "Kent",
+      "secondary_counties": [
+        "Queen Anne's"
+      ]
+    },
+    {
+      "name": "Morningside",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Mountain Lake Park",
+      "designation": "Town",
+      "primary_county": "Garrett"
+    },
+    {
+      "name": "Mount Airy",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "secondary_counties": [
+        "Frederick"
+      ]
+    },
+    {
+      "name": "Mount Rainier",
+      "designation": "City",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Myersville",
+      "designation": "Town",
+      "primary_county": "Frederick"
+    },
+    {
+      "name": "New Carrollton",
+      "designation": "City",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "New Market",
+      "designation": "Town",
+      "primary_county": "Frederick"
+    },
+    {
+      "name": "New Windsor",
+      "designation": "Town",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "North Beach",
+      "designation": "Town",
+      "primary_county": "Calvert"
+    },
+    {
+      "name": "North Brentwood",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "North Chevy Chase",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "North East",
+      "designation": "Town",
+      "primary_county": "Cecil"
+    },
+    {
+      "name": "Oakland†",
+      "designation": "Town",
+      "primary_county": "Garrett"
+    },
+    {
+      "name": "Ocean City",
+      "designation": "Town",
+      "primary_county": "Worcester"
+    },
+    {
+      "name": "Oxford",
+      "designation": "Town",
+      "primary_county": "Talbot"
+    },
+    {
+      "name": "Perryville",
+      "designation": "Town",
+      "primary_county": "Cecil"
+    },
+    {
+      "name": "Pittsville",
+      "designation": "Town",
+      "primary_county": "Wicomico"
+    },
+    {
+      "name": "Pocomoke City",
+      "designation": "City",
+      "primary_county": "Worcester"
+    },
+    {
+      "name": "Poolesville",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Port Deposit",
+      "designation": "Town",
+      "primary_county": "Cecil"
+    },
+    {
+      "name": "Port Tobacco Village",
+      "designation": "Town",
+      "primary_county": "Charles"
+    },
+    {
+      "name": "Preston",
+      "designation": "Town",
+      "primary_county": "Caroline"
+    },
+    {
+      "name": "Princess Anne†",
+      "designation": "Town",
+      "primary_county": "Somerset"
+    },
+    {
+      "name": "Queen Anne",
+      "designation": "Town",
+      "primary_county": "Queen Anne's",
+      "secondary_counties": [
+        "Talbot"
+      ]
+    },
+    {
+      "name": "Queenstown",
+      "designation": "Town",
+      "primary_county": "Queen Anne's"
+    },
+    {
+      "name": "Ridgely",
+      "designation": "Town",
+      "primary_county": "Caroline"
+    },
+    {
+      "name": "Rising Sun",
+      "designation": "Town",
+      "primary_county": "Cecil"
+    },
+    {
+      "name": "Riverdale Park",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Rock Hall",
+      "designation": "Town",
+      "primary_county": "Kent"
+    },
+    {
+      "name": "Rockville†",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Rosemont",
+      "designation": "Village",
+      "primary_county": "Frederick"
+    },
+    {
+      "name": "St. Michaels",
+      "designation": "Town",
+      "primary_county": "Talbot"
+    },
+    {
+      "name": "Salisbury†",
+      "designation": "City",
+      "primary_county": "Wicomico"
+    },
+    {
+      "name": "Seat Pleasant",
+      "designation": "City",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Secretary",
+      "designation": "Town",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "Sharpsburg",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Sharptown",
+      "designation": "Town",
+      "primary_county": "Wicomico"
+    },
+    {
+      "name": "Smithsburg",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Snow Hill†",
+      "designation": "Town",
+      "primary_county": "Worcester"
+    },
+    {
+      "name": "Somerset",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Sudlersville",
+      "designation": "Town",
+      "primary_county": "Queen Anne's"
+    },
+    {
+      "name": "Sykesville",
+      "designation": "Town",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Takoma Park",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Taneytown",
+      "designation": "City",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Templeville",
+      "designation": "Town",
+      "primary_county": "Caroline",
+      "secondary_counties": [
+        "Queen Anne's"
+      ]
+    },
+    {
+      "name": "Thurmont",
+      "designation": "Town",
+      "primary_county": "Frederick"
+    },
+    {
+      "name": "Trappe",
+      "designation": "Town",
+      "primary_county": "Talbot"
+    },
+    {
+      "name": "Union Bridge",
+      "designation": "Town",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "University Park",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Upper Marlboro†",
+      "designation": "Town",
+      "primary_county": "Prince George's"
+    },
+    {
+      "name": "Vienna",
+      "designation": "Town",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "Walkersville",
+      "designation": "Town",
+      "primary_county": "Frederick"
+    },
+    {
+      "name": "Washington Grove",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Westernport",
+      "designation": "Town",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Westminster†",
+      "designation": "City",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Willards",
+      "designation": "Town",
+      "primary_county": "Wicomico"
+    },
+    {
+      "name": "Williamsport",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Woodsboro",
+      "designation": "Town",
+      "primary_county": "Frederick"
+    },
+    {
+      "name": "Total",
+      "designation": "—",
+      "primary_county": "—"
+    }
+  ]
+}

@@ -1,0 +1,1535 @@
+{
+  "metadata": {
+    "state": "Colorado",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Colorado",
+    "scraped_at": "2025-11-24 20:28:36",
+    "scraper_version": "2.0_generic",
+    "description": "Colorado municipalities scraped from Wikipedia",
+    "total_municipalities": 275,
+    "statistics": {
+      "total_found": 275,
+      "with_population": 0,
+      "with_counties": 275,
+      "unique_counties": 72,
+      "population_stats": {}
+    },
+    "counties": [
+      "234",
+      "3",
+      "671",
+      "Adams",
+      "Alamosa",
+      "Arapahoe",
+      "Archuleta",
+      "Baca",
+      "Bent",
+      "Boulder",
+      "Broomfield[w]",
+      "Chaffee",
+      "Change",
+      "Cheyenne",
+      "Clear Creek",
+      "Conejos",
+      "Costilla",
+      "Crowley",
+      "Custer",
+      "Delta",
+      "Denver[ba]",
+      "Dolores",
+      "Douglas",
+      "Eagle",
+      "El Paso",
+      "Elbert",
+      "Fremont",
+      "Garfield",
+      "Gilpin",
+      "Grand",
+      "Gunnison",
+      "Hinsdale",
+      "Huerfano",
+      "Jackson",
+      "Jefferson",
+      "Kiowa",
+      "Kit Carson",
+      "La Plata",
+      "Lake",
+      "Larimer",
+      "Las Animas",
+      "Lincoln",
+      "Logan",
+      "Mesa",
+      "Mineral",
+      "Moffat",
+      "Montezuma",
+      "Montrose",
+      "Morgan",
+      "Otero",
+      "Ouray",
+      "Park",
+      "Phillips",
+      "Pitkin",
+      "Prowers",
+      "Pueblo",
+      "Rio Blanco",
+      "Rio Grande",
+      "Routt",
+      "Saguache",
+      "Saguache[df]",
+      "San Juan",
+      "San Miguel",
+      "Sedgwick",
+      "Summit",
+      "Teller",
+      "Washington",
+      "Weld",
+      "Yuma",
+      "[ah]Clear Creek",
+      "[cp]Jefferson",
+      "[u]Weld"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "2020[a]",
+      "designation": "2010",
+      "primary_county": "Change"
+    },
+    {
+      "name": "Aguilar",
+      "designation": "Statutory town",
+      "primary_county": "Las Animas"
+    },
+    {
+      "name": "Akron†[f]",
+      "designation": "Statutory town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Alamosa†[g]",
+      "designation": "Home rule city",
+      "primary_county": "Alamosa"
+    },
+    {
+      "name": "Alma",
+      "designation": "Statutory town[h]",
+      "primary_county": "Park"
+    },
+    {
+      "name": "Antonito",
+      "designation": "Statutory town",
+      "primary_county": "Conejos"
+    },
+    {
+      "name": "Arriba",
+      "designation": "Statutory town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Arvada",
+      "designation": "Home rule city",
+      "primary_county": "Jefferson",
+      "secondary_counties": [
+        "Adams"
+      ]
+    },
+    {
+      "name": "Aspen†[i]",
+      "designation": "Home rule city",
+      "primary_county": "Pitkin"
+    },
+    {
+      "name": "Ault",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Aurora[k][l]",
+      "designation": "Home rule city",
+      "primary_county": "Arapahoe",
+      "secondary_counties": [
+        "Adams",
+        "Douglas"
+      ]
+    },
+    {
+      "name": "Avon",
+      "designation": "Home rule town",
+      "primary_county": "Eagle"
+    },
+    {
+      "name": "Basalt",
+      "designation": "Home rule town",
+      "primary_county": "Eagle",
+      "secondary_counties": [
+        "Pitkin"
+      ]
+    },
+    {
+      "name": "Bayfield",
+      "designation": "Statutory town",
+      "primary_county": "La Plata"
+    },
+    {
+      "name": "Bennett",
+      "designation": "Statutory town",
+      "primary_county": "Adams",
+      "secondary_counties": [
+        "Arapahoe"
+      ]
+    },
+    {
+      "name": "Berthoud",
+      "designation": "Statutory town",
+      "primary_county": "Larimer",
+      "secondary_counties": [
+        "Weld"
+      ]
+    },
+    {
+      "name": "Bethune",
+      "designation": "Statutory town",
+      "primary_county": "Kit Carson"
+    },
+    {
+      "name": "Black Hawk",
+      "designation": "Home rule city",
+      "primary_county": "Gilpin"
+    },
+    {
+      "name": "Blanca",
+      "designation": "Statutory town",
+      "primary_county": "Costilla"
+    },
+    {
+      "name": "Blue River",
+      "designation": "Statutory town",
+      "primary_county": "Summit"
+    },
+    {
+      "name": "Bonanza",
+      "designation": "Statutory town",
+      "primary_county": "Saguache"
+    },
+    {
+      "name": "Boone",
+      "designation": "Statutory town",
+      "primary_county": "Pueblo"
+    },
+    {
+      "name": "Boulder†[o][p]",
+      "designation": "Home rule city",
+      "primary_county": "Boulder"
+    },
+    {
+      "name": "Bow Mar",
+      "designation": "Statutory town",
+      "primary_county": "Arapahoe",
+      "secondary_counties": [
+        "Jefferson"
+      ]
+    },
+    {
+      "name": "Branson",
+      "designation": "Statutory town",
+      "primary_county": "Las Animas"
+    },
+    {
+      "name": "Breckenridge†[r][s]",
+      "designation": "Home rule town",
+      "primary_county": "Summit"
+    },
+    {
+      "name": "Brighton†[t]",
+      "designation": "Home rule city",
+      "primary_county": "Adams",
+      "secondary_counties": [
+        "[u]Weld"
+      ]
+    },
+    {
+      "name": "Brookside",
+      "designation": "Statutory town",
+      "primary_county": "Fremont"
+    },
+    {
+      "name": "Broomfield†[v]",
+      "designation": "Consolidated city and county",
+      "primary_county": "Broomfield[w]"
+    },
+    {
+      "name": "Brush",
+      "designation": "Statutory city",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Buena Vista[y]",
+      "designation": "Statutory town",
+      "primary_county": "Chaffee"
+    },
+    {
+      "name": "Burlington†[z]",
+      "designation": "Home rule city",
+      "primary_county": "Kit Carson"
+    },
+    {
+      "name": "Calhan",
+      "designation": "Statutory town",
+      "primary_county": "El Paso"
+    },
+    {
+      "name": "Campo",
+      "designation": "Statutory town",
+      "primary_county": "Baca"
+    },
+    {
+      "name": "Cañon City†[aa][ab]",
+      "designation": "Home rule city",
+      "primary_county": "Fremont"
+    },
+    {
+      "name": "Carbonate[ac]",
+      "designation": "Statutory town",
+      "primary_county": "Garfield"
+    },
+    {
+      "name": "Carbondale",
+      "designation": "Home rule town",
+      "primary_county": "Garfield"
+    },
+    {
+      "name": "Castle Pines",
+      "designation": "Home rule city",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Castle Rock†[ae]",
+      "designation": "Home rule town",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Cedaredge",
+      "designation": "Home rule town",
+      "primary_county": "Delta"
+    },
+    {
+      "name": "Centennial[af]",
+      "designation": "Home rule city",
+      "primary_county": "Arapahoe"
+    },
+    {
+      "name": "Center",
+      "designation": "Statutory town",
+      "primary_county": "Saguache",
+      "secondary_counties": [
+        "Rio Grande"
+      ]
+    },
+    {
+      "name": "Central City†[ag]",
+      "designation": "Home rule city",
+      "primary_county": "Gilpin",
+      "secondary_counties": [
+        "[ah]Clear Creek"
+      ]
+    },
+    {
+      "name": "Cheraw",
+      "designation": "Statutory town",
+      "primary_county": "Otero"
+    },
+    {
+      "name": "Cherry Hills Village",
+      "designation": "Home rule city",
+      "primary_county": "Arapahoe"
+    },
+    {
+      "name": "Cheyenne Wells†[ai]",
+      "designation": "Statutory town",
+      "primary_county": "Cheyenne"
+    },
+    {
+      "name": "Coal Creek[aj]",
+      "designation": "Statutory town",
+      "primary_county": "Fremont"
+    },
+    {
+      "name": "Cokedale",
+      "designation": "Statutory town",
+      "primary_county": "Las Animas"
+    },
+    {
+      "name": "Collbran",
+      "designation": "Statutory town",
+      "primary_county": "Mesa"
+    },
+    {
+      "name": "Colorado Springs†[ak][al][am]",
+      "designation": "Home rule city",
+      "primary_county": "El Paso"
+    },
+    {
+      "name": "Columbine Valley",
+      "designation": "Statutory town",
+      "primary_county": "Arapahoe"
+    },
+    {
+      "name": "Commerce City",
+      "designation": "Home rule city",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Cortez†[ao]",
+      "designation": "Home rule city",
+      "primary_county": "Montezuma"
+    },
+    {
+      "name": "Craig†[ap][aq]",
+      "designation": "Home rule city",
+      "primary_county": "Moffat"
+    },
+    {
+      "name": "Crawford",
+      "designation": "Statutory town",
+      "primary_county": "Delta"
+    },
+    {
+      "name": "Creede†[ar]",
+      "designation": "Statutory town",
+      "primary_county": "Mineral"
+    },
+    {
+      "name": "Crested Butte",
+      "designation": "Home rule town",
+      "primary_county": "Gunnison"
+    },
+    {
+      "name": "Crestone",
+      "designation": "Statutory town",
+      "primary_county": "Saguache"
+    },
+    {
+      "name": "Cripple Creek†[at]",
+      "designation": "Statutory city",
+      "primary_county": "Teller"
+    },
+    {
+      "name": "Crook",
+      "designation": "Statutory town",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Crowley",
+      "designation": "Statutory town",
+      "primary_county": "Crowley"
+    },
+    {
+      "name": "Dacono",
+      "designation": "Home rule city",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "De Beque",
+      "designation": "Statutory town",
+      "primary_county": "Mesa"
+    },
+    {
+      "name": "Deer Trail",
+      "designation": "Statutory town",
+      "primary_county": "Arapahoe"
+    },
+    {
+      "name": "Del Norte†[au]",
+      "designation": "Statutory town",
+      "primary_county": "Rio Grande"
+    },
+    {
+      "name": "Delta†[av]",
+      "designation": "Home rule city",
+      "primary_county": "Delta"
+    },
+    {
+      "name": "Denver #[aw][ax][ay][az]",
+      "designation": "Consolidated city and county",
+      "primary_county": "Denver[ba]"
+    },
+    {
+      "name": "Dillon",
+      "designation": "Home rule town",
+      "primary_county": "Summit"
+    },
+    {
+      "name": "Dinosaur",
+      "designation": "Statutory town",
+      "primary_county": "Moffat"
+    },
+    {
+      "name": "Dolores",
+      "designation": "Statutory town",
+      "primary_county": "Montezuma"
+    },
+    {
+      "name": "Dove Creek†[bc]",
+      "designation": "Statutory town",
+      "primary_county": "Dolores"
+    },
+    {
+      "name": "Durango†[bd][be]",
+      "designation": "Home rule city",
+      "primary_county": "La Plata"
+    },
+    {
+      "name": "Eads†[bf]",
+      "designation": "Statutory town",
+      "primary_county": "Kiowa"
+    },
+    {
+      "name": "Eagle†[bg]",
+      "designation": "Home rule town",
+      "primary_county": "Eagle"
+    },
+    {
+      "name": "Eaton",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Eckley",
+      "designation": "Statutory town",
+      "primary_county": "Yuma"
+    },
+    {
+      "name": "Edgewater",
+      "designation": "Home rule city",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Elizabeth",
+      "designation": "Statutory town",
+      "primary_county": "Elbert"
+    },
+    {
+      "name": "Empire",
+      "designation": "Statutory town",
+      "primary_county": "Clear Creek"
+    },
+    {
+      "name": "Englewood",
+      "designation": "Home rule city",
+      "primary_county": "Arapahoe"
+    },
+    {
+      "name": "Erie",
+      "designation": "Home Rule Town",
+      "primary_county": "Weld",
+      "secondary_counties": [
+        "Boulder"
+      ]
+    },
+    {
+      "name": "Estes Park",
+      "designation": "Statutory town",
+      "primary_county": "Larimer"
+    },
+    {
+      "name": "Evans[bh]",
+      "designation": "Home rule city",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Fairplay†[bi]",
+      "designation": "Statutory town",
+      "primary_county": "Park"
+    },
+    {
+      "name": "Federal Heights",
+      "designation": "Home rule city",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Firestone",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Flagler",
+      "designation": "Statutory town",
+      "primary_county": "Kit Carson"
+    },
+    {
+      "name": "Fleming",
+      "designation": "Statutory town",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Florence",
+      "designation": "Statutory city",
+      "primary_county": "Fremont"
+    },
+    {
+      "name": "Fort Collins†[bj][bk]",
+      "designation": "Home rule city",
+      "primary_county": "Larimer"
+    },
+    {
+      "name": "Fort Lupton",
+      "designation": "Statutory city",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Fort Morgan†[bl][bm]",
+      "designation": "Home rule city",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Fountain",
+      "designation": "Home rule city",
+      "primary_county": "El Paso"
+    },
+    {
+      "name": "Fowler",
+      "designation": "Statutory town",
+      "primary_county": "Otero"
+    },
+    {
+      "name": "Foxfield",
+      "designation": "Statutory town",
+      "primary_county": "Arapahoe"
+    },
+    {
+      "name": "Fraser",
+      "designation": "Statutory town",
+      "primary_county": "Grand"
+    },
+    {
+      "name": "Frederick",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Frisco",
+      "designation": "Home rule town",
+      "primary_county": "Summit"
+    },
+    {
+      "name": "Fruita",
+      "designation": "Home rule city",
+      "primary_county": "Mesa"
+    },
+    {
+      "name": "Garden City",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Genoa",
+      "designation": "Statutory town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Georgetown†[bn]",
+      "designation": "Territorial charter municipality",
+      "primary_county": "Clear Creek"
+    },
+    {
+      "name": "Gilcrest",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Glendale",
+      "designation": "Home rule city",
+      "primary_county": "Arapahoe"
+    },
+    {
+      "name": "Glenwood Springs†[bo]",
+      "designation": "Home rule city",
+      "primary_county": "Garfield"
+    },
+    {
+      "name": "Golden†[bp]",
+      "designation": "Home rule city",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Granada",
+      "designation": "Statutory town",
+      "primary_county": "Prowers"
+    },
+    {
+      "name": "Granby",
+      "designation": "Statutory town",
+      "primary_county": "Grand"
+    },
+    {
+      "name": "Grand Junction†[br][bs]",
+      "designation": "Home rule city",
+      "primary_county": "Mesa"
+    },
+    {
+      "name": "Grand Lake[bt]",
+      "designation": "Statutory town",
+      "primary_county": "Grand"
+    },
+    {
+      "name": "Greeley†[bu][bv]",
+      "designation": "Home rule city",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Green Mountain Falls",
+      "designation": "Statutory town",
+      "primary_county": "El Paso",
+      "secondary_counties": [
+        "Teller"
+      ]
+    },
+    {
+      "name": "Greenwood Village",
+      "designation": "Home rule city",
+      "primary_county": "Arapahoe"
+    },
+    {
+      "name": "Grover",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Gunnison†[bw]",
+      "designation": "Home rule city",
+      "primary_county": "Gunnison"
+    },
+    {
+      "name": "Gypsum",
+      "designation": "Home rule town",
+      "primary_county": "Eagle"
+    },
+    {
+      "name": "Hartman",
+      "designation": "Statutory town",
+      "primary_county": "Prowers"
+    },
+    {
+      "name": "Haswell",
+      "designation": "Statutory town",
+      "primary_county": "Kiowa"
+    },
+    {
+      "name": "Haxtun",
+      "designation": "Statutory town",
+      "primary_county": "Phillips"
+    },
+    {
+      "name": "Hayden[bx]",
+      "designation": "Home rule town",
+      "primary_county": "Routt"
+    },
+    {
+      "name": "Hillrose",
+      "designation": "Statutory town",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Holly",
+      "designation": "Statutory town",
+      "primary_county": "Prowers"
+    },
+    {
+      "name": "Holyoke†[by]",
+      "designation": "Home rule city",
+      "primary_county": "Phillips"
+    },
+    {
+      "name": "Hooper",
+      "designation": "Statutory town",
+      "primary_county": "Alamosa"
+    },
+    {
+      "name": "Hot Sulphur Springs†[bz]",
+      "designation": "Statutory town",
+      "primary_county": "Grand"
+    },
+    {
+      "name": "Hotchkiss",
+      "designation": "Statutory town",
+      "primary_county": "Delta"
+    },
+    {
+      "name": "Hudson",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Hugo†[ca]",
+      "designation": "Statutory town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Idaho Springs[cb]",
+      "designation": "Statutory city",
+      "primary_county": "Clear Creek"
+    },
+    {
+      "name": "Ignacio[cc]",
+      "designation": "Statutory town",
+      "primary_county": "La Plata"
+    },
+    {
+      "name": "Iliff",
+      "designation": "Statutory town",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Jamestown",
+      "designation": "Statutory town",
+      "primary_county": "Boulder"
+    },
+    {
+      "name": "Johnstown",
+      "designation": "Home rule town",
+      "primary_county": "Weld",
+      "secondary_counties": [
+        "Larimer"
+      ]
+    },
+    {
+      "name": "Julesburg†[cd]",
+      "designation": "Statutory town",
+      "primary_county": "Sedgwick"
+    },
+    {
+      "name": "Keenesburg",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Kersey",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Keystone[ce]",
+      "designation": "Home rule town",
+      "primary_county": "Summit"
+    },
+    {
+      "name": "Kim",
+      "designation": "Statutory town",
+      "primary_county": "Las Animas"
+    },
+    {
+      "name": "Kiowa†[cf]",
+      "designation": "Home rule town",
+      "primary_county": "Elbert"
+    },
+    {
+      "name": "Kit Carson[cg]",
+      "designation": "Statutory town",
+      "primary_county": "Cheyenne"
+    },
+    {
+      "name": "Kremmling",
+      "designation": "Statutory town",
+      "primary_county": "Grand"
+    },
+    {
+      "name": "La Jara",
+      "designation": "Statutory town",
+      "primary_county": "Conejos"
+    },
+    {
+      "name": "La Junta†[ch]",
+      "designation": "Home rule city",
+      "primary_county": "Otero"
+    },
+    {
+      "name": "La Veta",
+      "designation": "Statutory town",
+      "primary_county": "Huerfano"
+    },
+    {
+      "name": "Lafayette",
+      "designation": "Home rule city",
+      "primary_county": "Boulder"
+    },
+    {
+      "name": "Lake City†[ci]",
+      "designation": "Statutory town",
+      "primary_county": "Hinsdale"
+    },
+    {
+      "name": "Lakeside[cj]",
+      "designation": "Statutory town",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Lakewood",
+      "designation": "Home rule city",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Lamar†[ck]",
+      "designation": "Home rule city",
+      "primary_county": "Prowers"
+    },
+    {
+      "name": "Larkspur",
+      "designation": "Home rule town",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Las Animas†[cl]",
+      "designation": "Statutory city",
+      "primary_county": "Bent"
+    },
+    {
+      "name": "LaSalle",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Leadville†[cn]",
+      "designation": "Statutory city",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Limon",
+      "designation": "Statutory town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Littleton†[co]",
+      "designation": "Home rule city",
+      "primary_county": "Arapahoe",
+      "secondary_counties": [
+        "[cp]Jefferson",
+        "Douglas"
+      ]
+    },
+    {
+      "name": "Lochbuie",
+      "designation": "Statutory town",
+      "primary_county": "Weld",
+      "secondary_counties": [
+        "Adams"
+      ]
+    },
+    {
+      "name": "Log Lane Village",
+      "designation": "Statutory town",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Lone Tree",
+      "designation": "Home rule city",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Longmont",
+      "designation": "Home rule city",
+      "primary_county": "Boulder",
+      "secondary_counties": [
+        "Weld"
+      ]
+    },
+    {
+      "name": "Louisville",
+      "designation": "Home rule city",
+      "primary_county": "Boulder"
+    },
+    {
+      "name": "Loveland[cq]",
+      "designation": "Home rule city",
+      "primary_county": "Larimer"
+    },
+    {
+      "name": "Lyons",
+      "designation": "Statutory town",
+      "primary_county": "Boulder"
+    },
+    {
+      "name": "Manassa",
+      "designation": "Statutory town",
+      "primary_county": "Conejos"
+    },
+    {
+      "name": "Mancos",
+      "designation": "Statutory town",
+      "primary_county": "Montezuma"
+    },
+    {
+      "name": "Manitou Springs",
+      "designation": "Home rule city",
+      "primary_county": "El Paso"
+    },
+    {
+      "name": "Manzanola",
+      "designation": "Statutory town",
+      "primary_county": "Otero"
+    },
+    {
+      "name": "Marble",
+      "designation": "Statutory town",
+      "primary_county": "Gunnison"
+    },
+    {
+      "name": "Mead",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Meeker†[cr]",
+      "designation": "Statutory town",
+      "primary_county": "Rio Blanco"
+    },
+    {
+      "name": "Merino",
+      "designation": "Statutory town",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Milliken",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Minturn",
+      "designation": "Home rule town",
+      "primary_county": "Eagle"
+    },
+    {
+      "name": "Moffat",
+      "designation": "Statutory town",
+      "primary_county": "Saguache"
+    },
+    {
+      "name": "Monte Vista",
+      "designation": "Home rule city",
+      "primary_county": "Rio Grande"
+    },
+    {
+      "name": "Montezuma",
+      "designation": "Statutory town",
+      "primary_county": "Summit"
+    },
+    {
+      "name": "Montrose†[cs][ct]",
+      "designation": "Home rule city",
+      "primary_county": "Montrose"
+    },
+    {
+      "name": "Monument",
+      "designation": "Home rule town",
+      "primary_county": "El Paso"
+    },
+    {
+      "name": "Morrison",
+      "designation": "Home rule town",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Mount Crested Butte",
+      "designation": "Home rule town",
+      "primary_county": "Gunnison"
+    },
+    {
+      "name": "Mountain View",
+      "designation": "Home rule town",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Mountain Village",
+      "designation": "Home rule town",
+      "primary_county": "San Miguel"
+    },
+    {
+      "name": "Naturita",
+      "designation": "Statutory town",
+      "primary_county": "Montrose"
+    },
+    {
+      "name": "Nederland",
+      "designation": "Statutory town",
+      "primary_county": "Boulder"
+    },
+    {
+      "name": "New Castle",
+      "designation": "Home rule town",
+      "primary_county": "Garfield"
+    },
+    {
+      "name": "Northglenn",
+      "designation": "Home rule city",
+      "primary_county": "Adams",
+      "secondary_counties": [
+        "Weld"
+      ]
+    },
+    {
+      "name": "Norwood",
+      "designation": "Statutory town",
+      "primary_county": "San Miguel"
+    },
+    {
+      "name": "Nucla",
+      "designation": "Statutory town",
+      "primary_county": "Montrose"
+    },
+    {
+      "name": "Nunn",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Oak Creek",
+      "designation": "Statutory town",
+      "primary_county": "Routt"
+    },
+    {
+      "name": "Olathe",
+      "designation": "Statutory town",
+      "primary_county": "Montrose"
+    },
+    {
+      "name": "Olney Springs",
+      "designation": "Statutory town",
+      "primary_county": "Crowley"
+    },
+    {
+      "name": "Ophir",
+      "designation": "Home rule town",
+      "primary_county": "San Miguel"
+    },
+    {
+      "name": "Orchard City",
+      "designation": "Statutory town",
+      "primary_county": "Delta"
+    },
+    {
+      "name": "Ordway†[cu]",
+      "designation": "Statutory town",
+      "primary_county": "Crowley"
+    },
+    {
+      "name": "Otis",
+      "designation": "Statutory town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Ouray†[cv]",
+      "designation": "Home rule city",
+      "primary_county": "Ouray"
+    },
+    {
+      "name": "Ovid",
+      "designation": "Statutory town",
+      "primary_county": "Sedgwick"
+    },
+    {
+      "name": "Pagosa Springs†[cw]",
+      "designation": "Home rule town",
+      "primary_county": "Archuleta"
+    },
+    {
+      "name": "Palisade",
+      "designation": "Statutory town",
+      "primary_county": "Mesa"
+    },
+    {
+      "name": "Palmer Lake",
+      "designation": "Statutory town",
+      "primary_county": "El Paso"
+    },
+    {
+      "name": "Paoli",
+      "designation": "Statutory town",
+      "primary_county": "Phillips"
+    },
+    {
+      "name": "Paonia",
+      "designation": "Statutory town",
+      "primary_county": "Delta"
+    },
+    {
+      "name": "Parachute",
+      "designation": "Home rule town",
+      "primary_county": "Garfield"
+    },
+    {
+      "name": "Parker",
+      "designation": "Home rule town",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Peetz",
+      "designation": "Statutory town",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Pierce",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Pitkin",
+      "designation": "Statutory town",
+      "primary_county": "Gunnison"
+    },
+    {
+      "name": "Platteville",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Poncha Springs",
+      "designation": "Statutory town",
+      "primary_county": "Chaffee"
+    },
+    {
+      "name": "Pritchett",
+      "designation": "Statutory town",
+      "primary_county": "Baca"
+    },
+    {
+      "name": "Pueblo†[cy][cz]",
+      "designation": "Home rule city",
+      "primary_county": "Pueblo"
+    },
+    {
+      "name": "Ramah",
+      "designation": "Statutory town",
+      "primary_county": "El Paso"
+    },
+    {
+      "name": "Rangely",
+      "designation": "Statutory town",
+      "primary_county": "Rio Blanco"
+    },
+    {
+      "name": "Raymer[da]",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Red Cliff[db]",
+      "designation": "Statutory town",
+      "primary_county": "Eagle"
+    },
+    {
+      "name": "Rico[dc]",
+      "designation": "Home rule town",
+      "primary_county": "Dolores"
+    },
+    {
+      "name": "Ridgway",
+      "designation": "Home rule town",
+      "primary_county": "Ouray"
+    },
+    {
+      "name": "Rifle[dd]",
+      "designation": "Home rule city",
+      "primary_county": "Garfield"
+    },
+    {
+      "name": "Rockvale",
+      "designation": "Statutory town",
+      "primary_county": "Fremont"
+    },
+    {
+      "name": "Rocky Ford",
+      "designation": "Statutory city",
+      "primary_county": "Otero"
+    },
+    {
+      "name": "Romeo",
+      "designation": "Statutory town",
+      "primary_county": "Conejos"
+    },
+    {
+      "name": "Rye",
+      "designation": "Statutory town",
+      "primary_county": "Pueblo"
+    },
+    {
+      "name": "Saguache†[de][df]",
+      "designation": "Statutory town",
+      "primary_county": "Saguache[df]"
+    },
+    {
+      "name": "Salida†[dg]",
+      "designation": "Statutory city",
+      "primary_county": "Chaffee"
+    },
+    {
+      "name": "San Luis†[dh]",
+      "designation": "Statutory town",
+      "primary_county": "Costilla"
+    },
+    {
+      "name": "Sanford",
+      "designation": "Home rule town",
+      "primary_county": "Conejos"
+    },
+    {
+      "name": "Sawpit",
+      "designation": "Statutory town",
+      "primary_county": "San Miguel"
+    },
+    {
+      "name": "Sedgwick",
+      "designation": "Statutory town",
+      "primary_county": "Sedgwick"
+    },
+    {
+      "name": "Seibert",
+      "designation": "Statutory town",
+      "primary_county": "Kit Carson"
+    },
+    {
+      "name": "Severance",
+      "designation": "Statutory town",
+      "primary_county": "Weld"
+    },
+    {
+      "name": "Sheridan",
+      "designation": "Home rule city",
+      "primary_county": "Arapahoe"
+    },
+    {
+      "name": "Sheridan Lake[di]",
+      "designation": "Statutory town",
+      "primary_county": "Kiowa"
+    },
+    {
+      "name": "Silt",
+      "designation": "Home rule town",
+      "primary_county": "Garfield"
+    },
+    {
+      "name": "Silver Cliff[dj]",
+      "designation": "Statutory town",
+      "primary_county": "Custer"
+    },
+    {
+      "name": "Silver Plume",
+      "designation": "Home rule town",
+      "primary_county": "Clear Creek"
+    },
+    {
+      "name": "Silverthorne",
+      "designation": "Home rule town",
+      "primary_county": "Summit"
+    },
+    {
+      "name": "Silverton†[dk]",
+      "designation": "Statutory town",
+      "primary_county": "San Juan"
+    },
+    {
+      "name": "Simla",
+      "designation": "Statutory town",
+      "primary_county": "Elbert"
+    },
+    {
+      "name": "Snowmass Village",
+      "designation": "Home rule town",
+      "primary_county": "Pitkin"
+    },
+    {
+      "name": "South Fork",
+      "designation": "Statutory town",
+      "primary_county": "Rio Grande"
+    },
+    {
+      "name": "Springfield†[dl]",
+      "designation": "Statutory town",
+      "primary_county": "Baca"
+    },
+    {
+      "name": "Starkville",
+      "designation": "Statutory town",
+      "primary_county": "Las Animas"
+    },
+    {
+      "name": "Steamboat Springs†[dm][dn]",
+      "designation": "Home rule city",
+      "primary_county": "Routt"
+    },
+    {
+      "name": "Sterling†[do][dp]",
+      "designation": "Home rule city",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Stratton",
+      "designation": "Statutory town",
+      "primary_county": "Kit Carson"
+    },
+    {
+      "name": "Sugar City",
+      "designation": "Statutory town",
+      "primary_county": "Crowley"
+    },
+    {
+      "name": "Superior",
+      "designation": "Statutory town",
+      "primary_county": "Boulder",
+      "secondary_counties": [
+        "Jefferson"
+      ]
+    },
+    {
+      "name": "Swink",
+      "designation": "Statutory town",
+      "primary_county": "Otero"
+    },
+    {
+      "name": "Telluride†[dq]",
+      "designation": "Home rule town",
+      "primary_county": "San Miguel"
+    },
+    {
+      "name": "Thornton",
+      "designation": "Home rule city",
+      "primary_county": "Adams",
+      "secondary_counties": [
+        "Weld"
+      ]
+    },
+    {
+      "name": "Timnath",
+      "designation": "Home rule town",
+      "primary_county": "Larimer"
+    },
+    {
+      "name": "Trinidad†[ds]",
+      "designation": "Home rule city",
+      "primary_county": "Las Animas"
+    },
+    {
+      "name": "Two Buttes",
+      "designation": "Statutory town",
+      "primary_county": "Baca"
+    },
+    {
+      "name": "Vail",
+      "designation": "Home rule town",
+      "primary_county": "Eagle"
+    },
+    {
+      "name": "Victor",
+      "designation": "Statutory city",
+      "primary_county": "Teller"
+    },
+    {
+      "name": "Vilas",
+      "designation": "Statutory town",
+      "primary_county": "Baca"
+    },
+    {
+      "name": "Vona",
+      "designation": "Statutory town",
+      "primary_county": "Kit Carson"
+    },
+    {
+      "name": "Walden†[dt]",
+      "designation": "Statutory town",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Walsenburg†[du]",
+      "designation": "Statutory city",
+      "primary_county": "Huerfano"
+    },
+    {
+      "name": "Walsh",
+      "designation": "Statutory town",
+      "primary_county": "Baca"
+    },
+    {
+      "name": "Ward",
+      "designation": "Home rule town",
+      "primary_county": "Boulder"
+    },
+    {
+      "name": "Wellington",
+      "designation": "Statutory town",
+      "primary_county": "Larimer"
+    },
+    {
+      "name": "Westcliffe†[dv]",
+      "designation": "Statutory town",
+      "primary_county": "Custer"
+    },
+    {
+      "name": "Westminster",
+      "designation": "Home rule city",
+      "primary_county": "Adams",
+      "secondary_counties": [
+        "Jefferson"
+      ]
+    },
+    {
+      "name": "Wheat Ridge",
+      "designation": "Home rule city",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Wiggins",
+      "designation": "Statutory town",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Wiley",
+      "designation": "Statutory town",
+      "primary_county": "Prowers"
+    },
+    {
+      "name": "Williamsburg",
+      "designation": "Statutory town",
+      "primary_county": "Fremont"
+    },
+    {
+      "name": "Windsor",
+      "designation": "Home rule town",
+      "primary_county": "Weld",
+      "secondary_counties": [
+        "Larimer"
+      ]
+    },
+    {
+      "name": "Winter Park",
+      "designation": "Home rule town",
+      "primary_county": "Grand"
+    },
+    {
+      "name": "Woodland Park",
+      "designation": "Home rule city",
+      "primary_county": "Teller"
+    },
+    {
+      "name": "Wray†[dw]",
+      "designation": "Home rule city",
+      "primary_county": "Yuma"
+    },
+    {
+      "name": "Yampa",
+      "designation": "Statutory town",
+      "primary_county": "Routt"
+    },
+    {
+      "name": "Yuma[dx]",
+      "designation": "Home rule city",
+      "primary_county": "Yuma"
+    },
+    {
+      "name": "The 271 municipalities active in 2020[b]",
+      "designation": "4,299,942",
+      "primary_county": "3",
+      "secondary_counties": [
+        "671",
+        "234"
+      ],
+      "area_sq_mi": 1968.0
+    }
+  ]
+}

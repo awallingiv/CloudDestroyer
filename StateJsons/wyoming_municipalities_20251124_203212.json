@@ -1,0 +1,650 @@
+{
+  "metadata": {
+    "state": "Wyoming",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Wyoming",
+    "scraped_at": "2025-11-24 20:32:12",
+    "scraper_version": "2.0_generic",
+    "description": "Wyoming municipalities scraped from Wikipedia",
+    "total_municipalities": 101,
+    "statistics": {
+      "total_found": 101,
+      "with_population": 0,
+      "with_counties": 100,
+      "unique_counties": 24,
+      "population_stats": {}
+    },
+    "counties": [
+      "Albany",
+      "Big Horn",
+      "Campbell",
+      "Carbon",
+      "Converse",
+      "Crook",
+      "Fremont",
+      "Goshen",
+      "Hot Springs",
+      "Johnson",
+      "Laramie",
+      "Lincoln",
+      "Natrona",
+      "Niobrara",
+      "Park",
+      "Platte",
+      "Sheridan",
+      "Sublette",
+      "Sweetwater",
+      "Teton",
+      "Uinta",
+      "Washakie",
+      "Weston",
+      "—"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "km2"
+    },
+    {
+      "rank": 28,
+      "name": "Afton",
+      "designation": "Town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 80,
+      "name": "Albin",
+      "designation": "Town",
+      "primary_county": "Laramie"
+    },
+    {
+      "rank": 38,
+      "name": "Alpine",
+      "designation": "Town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 59,
+      "name": "Baggs",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "rank": 91,
+      "name": "Bairoil",
+      "designation": "Town",
+      "primary_county": "Sweetwater"
+    },
+    {
+      "rank": 22,
+      "name": "Bar Nunn",
+      "designation": "Town",
+      "primary_county": "Natrona"
+    },
+    {
+      "rank": 36,
+      "name": "Basin†",
+      "designation": "Town",
+      "primary_county": "Big Horn"
+    },
+    {
+      "rank": 51,
+      "name": "Bear River",
+      "designation": "Town",
+      "primary_county": "Uinta"
+    },
+    {
+      "rank": 61,
+      "name": "Big Piney",
+      "designation": "Town",
+      "primary_county": "Sublette"
+    },
+    {
+      "rank": 18,
+      "name": "Buffalo†",
+      "designation": "City",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 67,
+      "name": "Burlington",
+      "designation": "Town",
+      "primary_county": "Big Horn"
+    },
+    {
+      "rank": 66,
+      "name": "Burns",
+      "designation": "Town",
+      "primary_county": "Laramie"
+    },
+    {
+      "rank": 50,
+      "name": "Byron",
+      "designation": "Town",
+      "primary_county": "Big Horn"
+    },
+    {
+      "rank": 2,
+      "name": "Casper†",
+      "designation": "City",
+      "primary_county": "Natrona"
+    },
+    {
+      "rank": 1,
+      "name": "Cheyenne‡",
+      "designation": "City",
+      "primary_county": "Laramie"
+    },
+    {
+      "rank": 79,
+      "name": "Chugwater",
+      "designation": "Town",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 86,
+      "name": "Clearmont",
+      "designation": "Town",
+      "primary_county": "Sheridan"
+    },
+    {
+      "rank": 11,
+      "name": "Cody†",
+      "designation": "City",
+      "primary_county": "Park"
+    },
+    {
+      "rank": 53,
+      "name": "Cokeville",
+      "designation": "Town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 48,
+      "name": "Cowley",
+      "designation": "Town",
+      "primary_county": "Big Horn"
+    },
+    {
+      "rank": 46,
+      "name": "Dayton",
+      "designation": "Town",
+      "primary_county": "Sheridan"
+    },
+    {
+      "rank": 81,
+      "name": "Deaver",
+      "designation": "Town",
+      "primary_county": "Big Horn"
+    },
+    {
+      "rank": 52,
+      "name": "Diamondville",
+      "designation": "Town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 91,
+      "name": "Dixon",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "rank": 15,
+      "name": "Douglas†",
+      "designation": "City",
+      "primary_county": "Converse"
+    },
+    {
+      "rank": 44,
+      "name": "Dubois",
+      "designation": "Town",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 74,
+      "name": "East Thermopolis",
+      "designation": "Town",
+      "primary_county": "Hot Springs"
+    },
+    {
+      "rank": 82,
+      "name": "Edgerton",
+      "designation": "Town",
+      "primary_county": "Natrona"
+    },
+    {
+      "rank": 83,
+      "name": "Elk Mountain",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "rank": 56,
+      "name": "Encampment",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "rank": 8,
+      "name": "Evanston†",
+      "designation": "City",
+      "primary_county": "Uinta"
+    },
+    {
+      "rank": 23,
+      "name": "Evansville",
+      "designation": "Town",
+      "primary_county": "Natrona"
+    },
+    {
+      "rank": 77,
+      "name": "Fort Laramie",
+      "designation": "Town",
+      "primary_county": "Goshen"
+    },
+    {
+      "rank": 84,
+      "name": "Frannie",
+      "designation": "Town",
+      "primary_county": "Big Horn",
+      "secondary_counties": [
+        "Park"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Gillette†",
+      "designation": "City",
+      "primary_county": "Campbell"
+    },
+    {
+      "rank": 72,
+      "name": "Glendo",
+      "designation": "Town",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 26,
+      "name": "Glenrock",
+      "designation": "Town",
+      "primary_county": "Converse"
+    },
+    {
+      "rank": 87,
+      "name": "Granger",
+      "designation": "Town",
+      "primary_county": "Sweetwater"
+    },
+    {
+      "rank": 7,
+      "name": "Green River†",
+      "designation": "City",
+      "primary_county": "Sweetwater"
+    },
+    {
+      "rank": 33,
+      "name": "Greybull",
+      "designation": "Town",
+      "primary_county": "Big Horn"
+    },
+    {
+      "rank": 39,
+      "name": "Guernsey",
+      "designation": "Town",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 49,
+      "name": "Hanna",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "rank": 94,
+      "name": "Hartville",
+      "designation": "Town",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 57,
+      "name": "Hudson",
+      "designation": "Town",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 68,
+      "name": "Hulett",
+      "designation": "Town",
+      "primary_county": "Crook"
+    },
+    {
+      "rank": 9,
+      "name": "Jackson†",
+      "designation": "Town",
+      "primary_county": "Teton"
+    },
+    {
+      "rank": 70,
+      "name": "Kaycee",
+      "designation": "Town",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 27,
+      "name": "Kemmerer†",
+      "designation": "City",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 90,
+      "name": "Kirby",
+      "designation": "Town",
+      "primary_county": "Hot Springs"
+    },
+    {
+      "rank": 62,
+      "name": "La Barge",
+      "designation": "Town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 65,
+      "name": "La Grange",
+      "designation": "Town",
+      "primary_county": "Goshen"
+    },
+    {
+      "rank": 13,
+      "name": "Lander†",
+      "designation": "City",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 4,
+      "name": "Laramie†",
+      "designation": "City",
+      "primary_county": "Albany"
+    },
+    {
+      "rank": 60,
+      "name": "Lingle",
+      "designation": "Town",
+      "primary_county": "Goshen"
+    },
+    {
+      "rank": 96,
+      "name": "Lost Springs",
+      "designation": "Town",
+      "primary_county": "Converse"
+    },
+    {
+      "rank": 25,
+      "name": "Lovell",
+      "designation": "Town",
+      "primary_county": "Big Horn"
+    },
+    {
+      "rank": 35,
+      "name": "Lusk†",
+      "designation": "Town",
+      "primary_county": "Niobrara"
+    },
+    {
+      "rank": 29,
+      "name": "Lyman",
+      "designation": "Town",
+      "primary_county": "Uinta"
+    },
+    {
+      "rank": 89,
+      "name": "Manderson",
+      "designation": "Town",
+      "primary_county": "Big Horn"
+    },
+    {
+      "rank": 88,
+      "name": "Manville",
+      "designation": "Town",
+      "primary_county": "Niobrara"
+    },
+    {
+      "rank": 45,
+      "name": "Marbleton",
+      "designation": "Town",
+      "primary_county": "Sublette"
+    },
+    {
+      "rank": 72,
+      "name": "Medicine Bow",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "rank": 68,
+      "name": "Meeteetse",
+      "designation": "Town",
+      "primary_county": "Park"
+    },
+    {
+      "rank": 69,
+      "name": "Midwest",
+      "designation": "Town",
+      "primary_county": "Natrona"
+    },
+    {
+      "rank": 19,
+      "name": "Mills",
+      "designation": "Town",
+      "primary_county": "Natrona"
+    },
+    {
+      "rank": 43,
+      "name": "Moorcroft",
+      "designation": "Town",
+      "primary_county": "Crook"
+    },
+    {
+      "rank": 37,
+      "name": "Mountain View",
+      "designation": "Town",
+      "primary_county": "Uinta"
+    },
+    {
+      "rank": 21,
+      "name": "Newcastle†",
+      "designation": "City",
+      "primary_county": "Weston"
+    },
+    {
+      "rank": 94,
+      "name": "Opal",
+      "designation": "Town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 73,
+      "name": "Pavillion",
+      "designation": "Town",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 40,
+      "name": "Pine Bluffs",
+      "designation": "Town",
+      "primary_county": "Laramie"
+    },
+    {
+      "rank": 30,
+      "name": "Pinedale†",
+      "designation": "Town",
+      "primary_county": "Sublette"
+    },
+    {
+      "rank": 54,
+      "name": "Pine Haven",
+      "designation": "Town",
+      "primary_county": "Crook"
+    },
+    {
+      "rank": 14,
+      "name": "Powell",
+      "designation": "City",
+      "primary_county": "Park"
+    },
+    {
+      "rank": 41,
+      "name": "Ranchester",
+      "designation": "Town",
+      "primary_county": "Sheridan"
+    },
+    {
+      "rank": 12,
+      "name": "Rawlins†",
+      "designation": "City",
+      "primary_county": "Carbon"
+    },
+    {
+      "rank": 93,
+      "name": "Riverside",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "rank": 10,
+      "name": "Riverton",
+      "designation": "City",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 76,
+      "name": "Rock River",
+      "designation": "Town",
+      "primary_county": "Albany"
+    },
+    {
+      "rank": 5,
+      "name": "Rock Springs",
+      "designation": "City",
+      "primary_county": "Sweetwater"
+    },
+    {
+      "rank": 58,
+      "name": "Rolling Hills",
+      "designation": "Town",
+      "primary_county": "Converse"
+    },
+    {
+      "rank": 32,
+      "name": "Saratoga",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "rank": 6,
+      "name": "Sheridan†",
+      "designation": "City",
+      "primary_county": "Sheridan"
+    },
+    {
+      "rank": 55,
+      "name": "Shoshoni",
+      "designation": "Town",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 64,
+      "name": "Sinclair",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "rank": 31,
+      "name": "Star Valley Ranch",
+      "designation": "Town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 42,
+      "name": "Sundance†",
+      "designation": "Town",
+      "primary_county": "Crook"
+    },
+    {
+      "rank": 78,
+      "name": "Superior",
+      "designation": "Town",
+      "primary_county": "Sweetwater"
+    },
+    {
+      "rank": 71,
+      "name": "Ten Sleep",
+      "designation": "Town",
+      "primary_county": "Washakie"
+    },
+    {
+      "rank": 63,
+      "name": "Thayne",
+      "designation": "Town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 24,
+      "name": "Thermopolis†",
+      "designation": "Town",
+      "primary_county": "Hot Springs"
+    },
+    {
+      "rank": 16,
+      "name": "Torrington†",
+      "designation": "City",
+      "primary_county": "Goshen"
+    },
+    {
+      "rank": 47,
+      "name": "Upton",
+      "designation": "Town",
+      "primary_county": "Weston"
+    },
+    {
+      "rank": 95,
+      "name": "Van Tassell",
+      "designation": "Town",
+      "primary_county": "Niobrara"
+    },
+    {
+      "rank": 77,
+      "name": "Wamsutter",
+      "designation": "Town",
+      "primary_county": "Sweetwater"
+    },
+    {
+      "rank": 20,
+      "name": "Wheatland†",
+      "designation": "Town",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 17,
+      "name": "Worland†",
+      "designation": "City",
+      "primary_county": "Washakie"
+    },
+    {
+      "rank": 34,
+      "name": "Wright",
+      "designation": "Town",
+      "primary_county": "Campbell"
+    },
+    {
+      "rank": 85,
+      "name": "Yoder",
+      "designation": "Town",
+      "primary_county": "Goshen"
+    },
+    {
+      "name": "Total",
+      "designation": "—",
+      "primary_county": "—"
+    }
+  ]
+}

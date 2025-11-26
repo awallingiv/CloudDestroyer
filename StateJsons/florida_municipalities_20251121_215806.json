@@ -1,0 +1,3371 @@
+{
+  "metadata": {
+    "state": "Florida",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Florida",
+    "scraped_at": "2025-11-21 21:58:06",
+    "scraper_version": "2.0_generic",
+    "description": "Florida municipalities scraped from Wikipedia",
+    "total_municipalities": 412,
+    "statistics": {
+      "total_found": 412,
+      "with_population": 411,
+      "with_counties": 411,
+      "unique_counties": 70,
+      "population_stats": {
+        "min": 15,
+        "max": 949611,
+        "average": 26360,
+        "total": 10834194
+      }
+    },
+    "counties": [
+      "Alachua",
+      "Baker",
+      "Bay",
+      "Bradford",
+      "Brevard",
+      "Broward",
+      "Calhoun",
+      "Charlotte",
+      "Citrus",
+      "Clay",
+      "Collier",
+      "Columbia",
+      "DeSoto",
+      "Dixie",
+      "Duval",
+      "Escambia",
+      "Flagler",
+      "FlaglerSt. Johns",
+      "Franklin",
+      "Gadsden",
+      "Gilchrist",
+      "Glades",
+      "Gulf",
+      "Hamilton",
+      "Hardee",
+      "Hendry",
+      "Hernando",
+      "Highlands",
+      "Hillsborough",
+      "Holmes",
+      "Indian River",
+      "Jackson",
+      "Jefferson",
+      "Lafayette",
+      "Lake",
+      "Lee",
+      "Leon",
+      "Levy",
+      "LevyGilchrist",
+      "Liberty",
+      "Madison",
+      "Manatee",
+      "ManateeSarasota",
+      "Marion",
+      "Martin",
+      "Miami-Dade",
+      "Monroe",
+      "Nassau",
+      "Okaloosa",
+      "Okeechobee",
+      "Orange",
+      "Osceola",
+      "Palm Beach",
+      "Pasco",
+      "Pinellas",
+      "Polk",
+      "Putnam",
+      "Santa Rosa",
+      "Sarasota",
+      "Seminole",
+      "St. Johns",
+      "St. Lucie",
+      "Sumter",
+      "Suwannee",
+      "Taylor",
+      "Union",
+      "Volusia",
+      "Wakulla",
+      "Walton",
+      "Washington"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "km2"
+    },
+    {
+      "rank": 165,
+      "name": "Alachua",
+      "primary_county": "Alachua",
+      "population": 10574,
+      "area_sq_mi": 36.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 370,
+      "name": "Alford",
+      "primary_county": "Jackson",
+      "population": 484,
+      "area_sq_mi": 1.1,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 65,
+      "name": "Altamonte Springs",
+      "primary_county": "Seminole",
+      "population": 46231,
+      "area_sq_mi": 9.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 369,
+      "name": "Altha",
+      "primary_county": "Calhoun",
+      "population": 496,
+      "area_sq_mi": 1.3,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 329,
+      "name": "Anna Maria",
+      "primary_county": "Manatee",
+      "population": 968,
+      "area_sq_mi": 0.74,
+      "incorporated": "City"
+    },
+    {
+      "rank": 278,
+      "name": "Apalachicola†",
+      "primary_county": "Franklin",
+      "population": 2341,
+      "area_sq_mi": 1.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 54,
+      "name": "Apopka",
+      "primary_county": "Orange",
+      "population": 54873,
+      "area_sq_mi": 34.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 187,
+      "name": "Arcadia†",
+      "primary_county": "DeSoto",
+      "population": 7420,
+      "area_sq_mi": 4.4,
+      "incorporated": "City"
+    },
+    {
+      "name": "Archer",
+      "primary_county": "Alachua",
+      "population": 1140,
+      "area_sq_mi": 6.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 296,
+      "name": "Astatula",
+      "primary_county": "Lake",
+      "population": 1889,
+      "area_sq_mi": 3.1,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 147,
+      "name": "Atlantic Beach",
+      "primary_county": "Duval",
+      "population": 13513,
+      "area_sq_mi": 3.7,
+      "incorporated": "City"
+    },
+    {
+      "name": "Atlantis",
+      "primary_county": "Palm Beach",
+      "population": 2142,
+      "area_sq_mi": 1.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 138,
+      "name": "Auburndale",
+      "primary_county": "Polk",
+      "population": 15616,
+      "area_sq_mi": 13.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 75,
+      "name": "Aventura",
+      "primary_county": "Miami-Dade",
+      "population": 40242,
+      "area_sq_mi": 2.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 172,
+      "name": "Avon Park",
+      "primary_county": "Highlands",
+      "population": 9658,
+      "area_sq_mi": 10.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 254,
+      "name": "Bal Harbour",
+      "primary_county": "Miami-Dade",
+      "population": 3093,
+      "area_sq_mi": 0.38,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 317,
+      "name": "Baldwin",
+      "primary_county": "Duval",
+      "population": 1396,
+      "area_sq_mi": 2.0,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 116,
+      "name": "Bartow†",
+      "primary_county": "Polk",
+      "population": 19309,
+      "area_sq_mi": 46.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 405,
+      "name": "Bascom",
+      "primary_county": "Jackson",
+      "population": 87,
+      "area_sq_mi": 0.24,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 210,
+      "name": "Bay Harbor Islands",
+      "primary_county": "Miami-Dade",
+      "population": 5922,
+      "area_sq_mi": 0.4,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 409,
+      "name": "Bay Lake",
+      "primary_county": "Orange",
+      "population": 29,
+      "area_sq_mi": 21.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 365,
+      "name": "Bell",
+      "primary_county": "Gilchrist",
+      "population": 518,
+      "area_sq_mi": 1.6,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 129,
+      "name": "Belle Glade",
+      "primary_county": "Palm Beach",
+      "population": 16698,
+      "area_sq_mi": 7.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 195,
+      "name": "Belle Isle",
+      "primary_county": "Orange",
+      "population": 7032,
+      "area_sq_mi": 2.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 233,
+      "name": "Belleair",
+      "primary_county": "Pinellas",
+      "population": 4273,
+      "area_sq_mi": 1.7,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 306,
+      "name": "Belleair Beach",
+      "primary_county": "Pinellas",
+      "population": 1633,
+      "area_sq_mi": 0.48,
+      "incorporated": "City"
+    },
+    {
+      "rank": 280,
+      "name": "Belleair Bluffs",
+      "primary_county": "Pinellas",
+      "population": 2311,
+      "area_sq_mi": 0.46,
+      "incorporated": "City"
+    },
+    {
+      "rank": 407,
+      "name": "Belleair Shore",
+      "primary_county": "Pinellas",
+      "population": 73,
+      "area_sq_mi": 0.06,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 217,
+      "name": "Belleview",
+      "primary_county": "Marion",
+      "population": 5413,
+      "area_sq_mi": 3.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 371,
+      "name": "Beverly Beach",
+      "primary_county": "Flagler",
+      "population": 474,
+      "area_sq_mi": 0.34,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 253,
+      "name": "Biscayne Park",
+      "primary_county": "Miami-Dade",
+      "population": 3117,
+      "area_sq_mi": 0.62,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 281,
+      "name": "Blountstown†",
+      "primary_county": "Calhoun",
+      "population": 2266,
+      "area_sq_mi": 3.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 23,
+      "name": "Boca Raton",
+      "primary_county": "Palm Beach",
+      "population": 97422,
+      "area_sq_mi": 29.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 267,
+      "name": "Bonifay†",
+      "primary_county": "Holmes",
+      "population": 2759,
+      "area_sq_mi": 4.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 57,
+      "name": "Bonita Springs",
+      "primary_county": "Lee",
+      "population": 53644,
+      "area_sq_mi": 38.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 273,
+      "name": "Bowling Green",
+      "primary_county": "Hardee",
+      "population": 2405,
+      "area_sq_mi": 1.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 34,
+      "name": "Boynton Beach",
+      "primary_county": "Palm Beach",
+      "population": 80380,
+      "area_sq_mi": 16.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 53,
+      "name": "Bradenton†",
+      "primary_county": "Manatee",
+      "population": 55698,
+      "area_sq_mi": 14.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 333,
+      "name": "Bradenton Beach",
+      "primary_county": "Manatee",
+      "population": 908,
+      "area_sq_mi": 0.52,
+      "incorporated": "City"
+    },
+    {
+      "rank": 351,
+      "name": "Branford",
+      "primary_county": "Suwannee",
+      "population": 711,
+      "area_sq_mi": 1.1,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 368,
+      "name": "Briny Breezes",
+      "primary_county": "Palm Beach",
+      "population": 502,
+      "area_sq_mi": 0.06,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 331,
+      "name": "Bristol†",
+      "primary_county": "Liberty",
+      "population": 918,
+      "area_sq_mi": 1.6,
+      "incorporated": "City"
+    },
+    {
+      "name": "Bronson†",
+      "primary_county": "Levy",
+      "population": 1140,
+      "area_sq_mi": 4.3,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 386,
+      "name": "Brooker",
+      "primary_county": "Bradford",
+      "population": 322,
+      "area_sq_mi": 0.53,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 178,
+      "name": "Brooksville†",
+      "primary_county": "Hernando",
+      "population": 8890,
+      "area_sq_mi": 11.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 250,
+      "name": "Bunnell†",
+      "primary_county": "Flagler",
+      "population": 3276,
+      "area_sq_mi": 139.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 256,
+      "name": "Bushnell†",
+      "primary_county": "Sumter",
+      "population": 3047,
+      "area_sq_mi": 12.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 310,
+      "name": "Callahan",
+      "primary_county": "Nassau",
+      "population": 1526,
+      "area_sq_mi": 1.8,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 152,
+      "name": "Callaway",
+      "primary_county": "Bay",
+      "population": 13045,
+      "area_sq_mi": 9.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 401,
+      "name": "Campbellton",
+      "primary_county": "Jackson",
+      "population": 191,
+      "area_sq_mi": 2.6,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 169,
+      "name": "Cape Canaveral",
+      "primary_county": "Brevard",
+      "population": 9972,
+      "area_sq_mi": 2.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 9,
+      "name": "Cape Coral",
+      "primary_county": "Lee",
+      "population": 194016,
+      "area_sq_mi": 106.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 271,
+      "name": "Carrabelle",
+      "primary_county": "Franklin",
+      "population": 2606,
+      "area_sq_mi": 4.8,
+      "incorporated": "City"
+    },
+    {
+      "name": "Caryville",
+      "primary_county": "Washington",
+      "population": 301,
+      "area_sq_mi": 3.0,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 92,
+      "name": "Casselberry",
+      "primary_county": "Seminole",
+      "population": 28794,
+      "area_sq_mi": 7.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 352,
+      "name": "Cedar Key",
+      "primary_county": "Levy",
+      "population": 687,
+      "area_sq_mi": 1.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 338,
+      "name": "Center Hill",
+      "primary_county": "Sumter",
+      "population": 846,
+      "area_sq_mi": 6.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 299,
+      "name": "Century",
+      "primary_county": "Escambia",
+      "population": 1713,
+      "area_sq_mi": 3.2,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 263,
+      "name": "Chattahoochee",
+      "primary_county": "Gadsden",
+      "population": 2955,
+      "area_sq_mi": 5.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 279,
+      "name": "Chiefland",
+      "primary_county": "Levy",
+      "population": 2316,
+      "area_sq_mi": 6.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 241,
+      "name": "Chipley†",
+      "primary_county": "Washington",
+      "population": 3660,
+      "area_sq_mi": 4.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 375,
+      "name": "Cinco Bayou",
+      "primary_county": "Okaloosa",
+      "population": 457,
+      "area_sq_mi": 0.17,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 18,
+      "name": "Clearwater†",
+      "primary_county": "Pinellas",
+      "population": 117292,
+      "area_sq_mi": 26.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 72,
+      "name": "Clermont",
+      "primary_county": "Lake",
+      "population": 43021,
+      "area_sq_mi": 18.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 189,
+      "name": "Clewiston",
+      "primary_county": "Hendry",
+      "population": 7327,
+      "area_sq_mi": 4.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 403,
+      "name": "Cloud Lake",
+      "primary_county": "Palm Beach",
+      "population": 134,
+      "area_sq_mi": 0.05,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 118,
+      "name": "Cocoa",
+      "primary_county": "Brevard",
+      "population": 19041,
+      "area_sq_mi": 13.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 162,
+      "name": "Cocoa Beach",
+      "primary_county": "Brevard",
+      "population": 11354,
+      "area_sq_mi": 4.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 52,
+      "name": "Coconut Creek",
+      "primary_county": "Broward",
+      "population": 57833,
+      "area_sq_mi": 11.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 355,
+      "name": "Coleman",
+      "primary_county": "Sumter",
+      "population": 642,
+      "area_sq_mi": 2.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 86,
+      "name": "Cooper City",
+      "primary_county": "Broward",
+      "population": 34401,
+      "area_sq_mi": 8.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 59,
+      "name": "Coral Gables",
+      "primary_county": "Miami-Dade",
+      "population": 49248,
+      "area_sq_mi": 12.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 15,
+      "name": "Coral Springs",
+      "primary_county": "Broward",
+      "population": 134394,
+      "area_sq_mi": 22.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 337,
+      "name": "Cottondale",
+      "primary_county": "Jackson",
+      "population": 848,
+      "area_sq_mi": 3.3,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 304,
+      "name": "Crescent City",
+      "primary_county": "Putnam",
+      "population": 1654,
+      "area_sq_mi": 2.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 94,
+      "name": "Crestview†",
+      "primary_county": "Okaloosa",
+      "population": 27134,
+      "area_sq_mi": 16.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 302,
+      "name": "Cross City†",
+      "primary_county": "Dixie",
+      "population": 1689,
+      "area_sq_mi": 1.8,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 246,
+      "name": "Crystal River",
+      "primary_county": "Citrus",
+      "population": 3396,
+      "area_sq_mi": 7.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 66,
+      "name": "Cutler Bay",
+      "primary_county": "Miami-Dade",
+      "population": 45425,
+      "area_sq_mi": 9.9,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 191,
+      "name": "Dade City†",
+      "primary_county": "Pasco",
+      "population": 7275,
+      "area_sq_mi": 6.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 88,
+      "name": "Dania Beach",
+      "primary_county": "Broward",
+      "population": 31723,
+      "area_sq_mi": 7.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 176,
+      "name": "Davenport",
+      "primary_county": "Polk",
+      "population": 9043,
+      "area_sq_mi": 3.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 22,
+      "name": "Davie",
+      "primary_county": "Broward",
+      "population": 105691,
+      "area_sq_mi": 34.9,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 39,
+      "name": "Daytona Beach",
+      "primary_county": "Volusia",
+      "population": 72647,
+      "area_sq_mi": 65.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 221,
+      "name": "Daytona Beach Shores",
+      "primary_county": "Volusia",
+      "population": 5179,
+      "area_sq_mi": 0.85,
+      "incorporated": "City"
+    },
+    {
+      "rank": 110,
+      "name": "DeBary",
+      "primary_county": "Volusia",
+      "population": 22260,
+      "area_sq_mi": 19.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 28,
+      "name": "Deerfield Beach",
+      "primary_county": "Broward",
+      "population": 86859,
+      "area_sq_mi": 14.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 211,
+      "name": "DeFuniak Springs†",
+      "primary_county": "Walton",
+      "population": 5919,
+      "area_sq_mi": 14.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 81,
+      "name": "DeLand†",
+      "primary_county": "Volusia",
+      "population": 37351,
+      "area_sq_mi": 19.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 42,
+      "name": "Delray Beach",
+      "primary_county": "Palm Beach",
+      "population": 66846,
+      "area_sq_mi": 15.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 25,
+      "name": "Deltona",
+      "primary_county": "Volusia",
+      "population": 93692,
+      "area_sq_mi": 37.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 144,
+      "name": "Destin",
+      "primary_county": "Okaloosa",
+      "population": 13931,
+      "area_sq_mi": 7.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 36,
+      "name": "Doral",
+      "primary_county": "Miami-Dade",
+      "population": 75874,
+      "area_sq_mi": 13.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 220,
+      "name": "Dundee",
+      "primary_county": "Polk",
+      "population": 5235,
+      "area_sq_mi": 10.5,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 83,
+      "name": "Dunedin",
+      "primary_county": "Pinellas",
+      "population": 36068,
+      "area_sq_mi": 10.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 295,
+      "name": "Dunnellon",
+      "primary_county": "Marion",
+      "population": 1928,
+      "area_sq_mi": 8.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 260,
+      "name": "Eagle Lake",
+      "primary_county": "Polk",
+      "population": 3008,
+      "area_sq_mi": 2.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 277,
+      "name": "Eatonville",
+      "primary_county": "Orange",
+      "population": 2349,
+      "area_sq_mi": 0.99,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 395,
+      "name": "Ebro",
+      "primary_county": "Washington",
+      "population": 237,
+      "area_sq_mi": 4.7,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 107,
+      "name": "Edgewater",
+      "primary_county": "Volusia",
+      "population": 23097,
+      "area_sq_mi": 24.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 270,
+      "name": "Edgewood",
+      "primary_county": "Orange",
+      "population": 2685,
+      "area_sq_mi": 1.2,
+      "incorporated": "City"
+    },
+    {
+      "name": "El Portal",
+      "primary_county": "Miami-Dade",
+      "population": 1986,
+      "area_sq_mi": 0.42,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 82,
+      "name": "Estero",
+      "primary_county": "Lee",
+      "population": 36939,
+      "area_sq_mi": 24.4,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 385,
+      "name": "Esto",
+      "primary_county": "Holmes",
+      "population": 341,
+      "area_sq_mi": 2.2,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 106,
+      "name": "Eustis",
+      "primary_county": "Lake",
+      "population": 23189,
+      "area_sq_mi": 10.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 384,
+      "name": "Everglades City",
+      "primary_county": "Collier",
+      "population": 352,
+      "area_sq_mi": 0.92,
+      "incorporated": "City"
+    },
+    {
+      "rank": 324,
+      "name": "Fanning Springs",
+      "primary_county": "LevyGilchrist",
+      "population": 1182,
+      "area_sq_mi": 4.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 228,
+      "name": "Fellsmere",
+      "primary_county": "Indian River",
+      "population": 4834,
+      "area_sq_mi": 57.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 151,
+      "name": "Fernandina Beach†",
+      "primary_county": "Nassau",
+      "population": 13052,
+      "area_sq_mi": 11.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 222,
+      "name": "Flagler Beach",
+      "primary_county": "Flagler",
+      "population": 5160,
+      "area_sq_mi": 3.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 150,
+      "name": "Florida City",
+      "primary_county": "Miami-Dade",
+      "population": 13085,
+      "area_sq_mi": 6.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 10,
+      "name": "Fort Lauderdale†",
+      "primary_county": "Broward",
+      "population": 182760,
+      "area_sq_mi": 34.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 223,
+      "name": "Fort Meade",
+      "primary_county": "Polk",
+      "population": 5100,
+      "area_sq_mi": 8.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 29,
+      "name": "Fort Myers†",
+      "primary_county": "Lee",
+      "population": 86395,
+      "area_sq_mi": 39.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 215,
+      "name": "Fort Myers Beach",
+      "primary_county": "Lee",
+      "population": 5582,
+      "area_sq_mi": 2.8,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 62,
+      "name": "Fort Pierce†",
+      "primary_county": "St. Lucie",
+      "population": 47297,
+      "area_sq_mi": 23.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 111,
+      "name": "Fort Walton Beach",
+      "primary_county": "Okaloosa",
+      "population": 20922,
+      "area_sq_mi": 7.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 357,
+      "name": "Fort White",
+      "primary_county": "Columbia",
+      "population": 618,
+      "area_sq_mi": 2.4,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 212,
+      "name": "Freeport",
+      "primary_county": "Walton",
+      "population": 5861,
+      "area_sq_mi": 18.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 251,
+      "name": "Frostproof",
+      "primary_county": "Polk",
+      "population": 3273,
+      "area_sq_mi": 10.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 180,
+      "name": "Fruitland Park",
+      "primary_county": "Lake",
+      "population": 8325,
+      "area_sq_mi": 7.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 13,
+      "name": "Gainesville†",
+      "primary_county": "Alachua",
+      "population": 141085,
+      "area_sq_mi": 63.2,
+      "incorporated": "City"
+    },
+    {
+      "name": "Glen Ridge",
+      "primary_county": "Palm Beach",
+      "population": 217,
+      "area_sq_mi": 0.17,
+      "incorporated": "Town"
+    },
+    {
+      "name": "Glen St. Mary",
+      "primary_county": "Baker",
+      "population": 463,
+      "area_sq_mi": 0.46,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 330,
+      "name": "Golden Beach",
+      "primary_county": "Miami-Dade",
+      "population": 961,
+      "area_sq_mi": 0.33,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 393,
+      "name": "Golf",
+      "primary_county": "Palm Beach",
+      "population": 255,
+      "area_sq_mi": 0.82,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 284,
+      "name": "Graceville",
+      "primary_county": "Jackson",
+      "population": 2153,
+      "area_sq_mi": 4.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 335,
+      "name": "Grand Ridge",
+      "primary_county": "Jackson",
+      "population": 882,
+      "area_sq_mi": 4.3,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 230,
+      "name": "Grant-Valkaria",
+      "primary_county": "Brevard",
+      "population": 4509,
+      "area_sq_mi": 27.2,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 170,
+      "name": "Green Cove Springs†",
+      "primary_county": "Clay",
+      "population": 9786,
+      "area_sq_mi": 7.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 69,
+      "name": "Greenacres",
+      "primary_county": "Palm Beach",
+      "population": 43990,
+      "area_sq_mi": 5.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 374,
+      "name": "Greensboro",
+      "primary_county": "Gadsden",
+      "population": 461,
+      "area_sq_mi": 2.3,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 346,
+      "name": "Greenville",
+      "primary_county": "Madison",
+      "population": 746,
+      "area_sq_mi": 1.3,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 363,
+      "name": "Greenwood",
+      "primary_county": "Jackson",
+      "population": 539,
+      "area_sq_mi": 4.6,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 319,
+      "name": "Gretna",
+      "primary_county": "Gadsden",
+      "population": 1357,
+      "area_sq_mi": 8.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 121,
+      "name": "Groveland",
+      "primary_county": "Lake",
+      "population": 18505,
+      "area_sq_mi": 19.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 204,
+      "name": "Gulf Breeze",
+      "primary_county": "Santa Rosa",
+      "population": 6302,
+      "area_sq_mi": 4.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 336,
+      "name": "Gulf Stream",
+      "primary_county": "Palm Beach",
+      "population": 880,
+      "area_sq_mi": 0.79,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 158,
+      "name": "Gulfport",
+      "primary_county": "Pinellas",
+      "population": 11783,
+      "area_sq_mi": 2.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 98,
+      "name": "Haines City",
+      "primary_county": "Polk",
+      "population": 26669,
+      "area_sq_mi": 18.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 74,
+      "name": "Hallandale Beach",
+      "primary_county": "Broward",
+      "population": 41217,
+      "area_sq_mi": 4.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 377,
+      "name": "Hampton",
+      "primary_county": "Bradford",
+      "population": 432,
+      "area_sq_mi": 1.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 300,
+      "name": "Havana",
+      "primary_county": "Gadsden",
+      "population": 1707,
+      "area_sq_mi": 2.8,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 282,
+      "name": "Haverhill",
+      "primary_county": "Palm Beach",
+      "population": 2187,
+      "area_sq_mi": 0.63,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 312,
+      "name": "Hawthorne",
+      "primary_county": "Alachua",
+      "population": 1478,
+      "area_sq_mi": 7.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 6,
+      "name": "Hialeah",
+      "primary_county": "Miami-Dade",
+      "population": 223109,
+      "area_sq_mi": 21.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 108,
+      "name": "Hialeah Gardens",
+      "primary_county": "Miami-Dade",
+      "population": 23068,
+      "area_sq_mi": 3.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 207,
+      "name": "High Springs",
+      "primary_county": "Alachua",
+      "population": 6215,
+      "area_sq_mi": 21.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 231,
+      "name": "Highland Beach",
+      "primary_county": "Palm Beach",
+      "population": 4295,
+      "area_sq_mi": 0.54,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 391,
+      "name": "Highland Park",
+      "primary_county": "Polk",
+      "population": 264,
+      "area_sq_mi": 0.55,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 394,
+      "name": "Hillcrest Heights",
+      "primary_county": "Polk",
+      "population": 243,
+      "area_sq_mi": 0.16,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 262,
+      "name": "Hilliard",
+      "primary_county": "Nassau",
+      "population": 2967,
+      "area_sq_mi": 5.5,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 290,
+      "name": "Hillsboro Beach",
+      "primary_county": "Broward",
+      "population": 1987,
+      "area_sq_mi": 0.37,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 153,
+      "name": "Holly Hill",
+      "primary_county": "Volusia",
+      "population": 12958,
+      "area_sq_mi": 4.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 12,
+      "name": "Hollywood",
+      "primary_county": "Broward",
+      "population": 153067,
+      "area_sq_mi": 27.3,
+      "incorporated": "City"
+    },
+    {
+      "name": "Holmes Beach",
+      "primary_county": "Manatee",
+      "population": 3010,
+      "area_sq_mi": 1.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 33,
+      "name": "Homestead",
+      "primary_county": "Miami-Dade",
+      "population": 80737,
+      "area_sq_mi": 15.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 402,
+      "name": "Horseshoe Beach",
+      "primary_county": "Dixie",
+      "population": 165,
+      "area_sq_mi": 0.47,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 305,
+      "name": "Howey-in-the-Hills",
+      "primary_county": "Lake",
+      "population": 1643,
+      "area_sq_mi": 3.2,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 269,
+      "name": "Hypoluxo",
+      "primary_county": "Palm Beach",
+      "population": 2687,
+      "area_sq_mi": 0.57,
+      "incorporated": "Town"
+    },
+    {
+      "name": "Indialantic",
+      "primary_county": "Brevard",
+      "population": 3010,
+      "area_sq_mi": 0.97,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 406,
+      "name": "Indian Creek",
+      "primary_county": "Miami-Dade",
+      "population": 84,
+      "area_sq_mi": 0.43,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 177,
+      "name": "Indian Harbour Beach",
+      "primary_county": "Brevard",
+      "population": 9019,
+      "area_sq_mi": 2.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 234,
+      "name": "Indian River Shores",
+      "primary_county": "Indian River",
+      "population": 4241,
+      "area_sq_mi": 5.1,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 232,
+      "name": "Indian Rocks Beach",
+      "primary_county": "Pinellas",
+      "population": 4286,
+      "area_sq_mi": 0.85,
+      "incorporated": "City"
+    },
+    {
+      "rank": 323,
+      "name": "Indian Shores",
+      "primary_county": "Pinellas",
+      "population": 1190,
+      "area_sq_mi": 0.33,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 201,
+      "name": "Indiantown",
+      "primary_county": "Martin",
+      "population": 6560,
+      "area_sq_mi": 14.2,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 313,
+      "name": "Inglis",
+      "primary_county": "Levy",
+      "population": 1476,
+      "area_sq_mi": 3.4,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 316,
+      "name": "Interlachen",
+      "primary_county": "Putnam",
+      "population": 1441,
+      "area_sq_mi": 6.1,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 185,
+      "name": "Inverness†",
+      "primary_county": "Citrus",
+      "population": 7543,
+      "area_sq_mi": 8.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 194,
+      "name": "Islamorada",
+      "primary_county": "Monroe",
+      "population": 7107,
+      "area_sq_mi": 6.4,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 1,
+      "name": "Jacksonville†",
+      "primary_county": "Duval",
+      "population": 949611,
+      "area_sq_mi": 747.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 105,
+      "name": "Jacksonville Beach",
+      "primary_county": "Duval",
+      "population": 23830,
+      "area_sq_mi": 7.3,
+      "incorporated": "City"
+    },
+    {
+      "name": "Jacob City",
+      "primary_county": "Jackson",
+      "population": 217,
+      "area_sq_mi": 3.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 242,
+      "name": "Jasper†",
+      "primary_county": "Hamilton",
+      "population": 3621,
+      "area_sq_mi": 2.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 364,
+      "name": "Jay",
+      "primary_county": "Santa Rosa",
+      "population": 524,
+      "area_sq_mi": 1.7,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 345,
+      "name": "Jennings",
+      "primary_county": "Hamilton",
+      "population": 749,
+      "area_sq_mi": 2.7,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 239,
+      "name": "Juno Beach",
+      "primary_county": "Palm Beach",
+      "population": 3858,
+      "area_sq_mi": 2.0,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 47,
+      "name": "Jupiter",
+      "primary_county": "Palm Beach",
+      "population": 61047,
+      "area_sq_mi": 21.6,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 380,
+      "name": "Jupiter Inlet Colony",
+      "primary_county": "Palm Beach",
+      "population": 405,
+      "area_sq_mi": 0.16,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 341,
+      "name": "Jupiter Island",
+      "primary_county": "Martin",
+      "population": 804,
+      "area_sq_mi": 2.7,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 224,
+      "name": "Kenneth City",
+      "primary_county": "Pinellas",
+      "population": 5047,
+      "area_sq_mi": 0.71,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 142,
+      "name": "Key Biscayne",
+      "primary_county": "Miami-Dade",
+      "population": 14809,
+      "area_sq_mi": 1.2,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 342,
+      "name": "Key Colony Beach",
+      "primary_county": "Monroe",
+      "population": 790,
+      "area_sq_mi": 0.44,
+      "incorporated": "City"
+    },
+    {
+      "rank": 99,
+      "name": "Key West†",
+      "primary_county": "Monroe",
+      "population": 26444,
+      "area_sq_mi": 5.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 315,
+      "name": "Keystone Heights",
+      "primary_county": "Clay",
+      "population": 1446,
+      "area_sq_mi": 1.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 35,
+      "name": "Kissimmee†",
+      "primary_county": "Osceola",
+      "population": 79226,
+      "area_sq_mi": 21.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 225,
+      "name": "LaBelle†",
+      "primary_county": "Hendry",
+      "population": 4966,
+      "area_sq_mi": 14.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 387,
+      "name": "LaCrosse",
+      "primary_county": "Alachua",
+      "population": 316,
+      "area_sq_mi": 4.6,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 134,
+      "name": "Lady Lake",
+      "primary_county": "Lake",
+      "population": 15970,
+      "area_sq_mi": 8.3,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 203,
+      "name": "Lake Alfred",
+      "primary_county": "Polk",
+      "population": 6374,
+      "area_sq_mi": 9.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 410,
+      "name": "Lake Buena Vista",
+      "primary_county": "Orange",
+      "population": 24,
+      "area_sq_mi": 3.0,
+      "incorporated": "City"
+    },
+    {
+      "name": "Lake Butler†",
+      "primary_county": "Union",
+      "population": 1986,
+      "area_sq_mi": 2.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 156,
+      "name": "Lake City†",
+      "primary_county": "Columbia",
+      "population": 12329,
+      "area_sq_mi": 11.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 243,
+      "name": "Lake Clarke Shores",
+      "primary_county": "Palm Beach",
+      "population": 3564,
+      "area_sq_mi": 0.92,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 309,
+      "name": "Lake Hamilton",
+      "primary_county": "Polk",
+      "population": 1537,
+      "area_sq_mi": 3.1,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 266,
+      "name": "Lake Helen",
+      "primary_county": "Volusia",
+      "population": 2842,
+      "area_sq_mi": 4.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 127,
+      "name": "Lake Mary",
+      "primary_county": "Seminole",
+      "population": 16798,
+      "area_sq_mi": 9.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 175,
+      "name": "Lake Park",
+      "primary_county": "Palm Beach",
+      "population": 9047,
+      "area_sq_mi": 2.1,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 276,
+      "name": "Lake Placid",
+      "primary_county": "Highlands",
+      "population": 2360,
+      "area_sq_mi": 4.7,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 131,
+      "name": "Lake Wales",
+      "primary_county": "Polk",
+      "population": 16361,
+      "area_sq_mi": 18.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 73,
+      "name": "Lake Worth Beach",
+      "primary_county": "Palm Beach",
+      "population": 42219,
+      "area_sq_mi": 5.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 19,
+      "name": "Lakeland",
+      "primary_county": "Polk",
+      "population": 112641,
+      "area_sq_mi": 66.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 160,
+      "name": "Lantana",
+      "primary_county": "Palm Beach",
+      "population": 11504,
+      "area_sq_mi": 2.4,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 32,
+      "name": "Largo",
+      "primary_county": "Pinellas",
+      "population": 82485,
+      "area_sq_mi": 18.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 84,
+      "name": "Lauderdale Lakes",
+      "primary_county": "Broward",
+      "population": 35954,
+      "area_sq_mi": 3.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 208,
+      "name": "Lauderdale-by-the-Sea",
+      "primary_county": "Broward",
+      "population": 6198,
+      "area_sq_mi": 0.88,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 38,
+      "name": "Lauderhill",
+      "primary_county": "Broward",
+      "population": 74482,
+      "area_sq_mi": 8.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 360,
+      "name": "Laurel Hill",
+      "primary_county": "Okaloosa",
+      "population": 584,
+      "area_sq_mi": 4.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 356,
+      "name": "Lawtey",
+      "primary_county": "Bradford",
+      "population": 636,
+      "area_sq_mi": 1.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 399,
+      "name": "Layton",
+      "primary_county": "Monroe",
+      "population": 210,
+      "area_sq_mi": 0.16,
+      "incorporated": "City"
+    },
+    {
+      "rank": 408,
+      "name": "Lazy Lake",
+      "primary_county": "Broward",
+      "population": 33,
+      "area_sq_mi": 0.02,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 382,
+      "name": "Lee",
+      "primary_county": "Madison",
+      "population": 375,
+      "area_sq_mi": 2.4,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 95,
+      "name": "Leesburg",
+      "primary_county": "Lake",
+      "population": 27000,
+      "area_sq_mi": 38.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 166,
+      "name": "Lighthouse Point",
+      "primary_county": "Broward",
+      "population": 10486,
+      "area_sq_mi": 2.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 198,
+      "name": "Live Oak†",
+      "primary_county": "Suwannee",
+      "population": 6735,
+      "area_sq_mi": 7.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 186,
+      "name": "Longboat Key",
+      "primary_county": "ManateeSarasota",
+      "population": 7505,
+      "area_sq_mi": 4.1,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 140,
+      "name": "Longwood",
+      "primary_county": "Seminole",
+      "population": 15087,
+      "area_sq_mi": 5.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 249,
+      "name": "Loxahatchee Groves",
+      "primary_county": "Palm Beach",
+      "population": 3355,
+      "area_sq_mi": 12.5,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 120,
+      "name": "Lynn Haven",
+      "primary_county": "Bay",
+      "population": 18695,
+      "area_sq_mi": 10.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 190,
+      "name": "Macclenny†",
+      "primary_county": "Baker",
+      "population": 7304,
+      "area_sq_mi": 4.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 237,
+      "name": "Madeira Beach",
+      "primary_county": "Pinellas",
+      "population": 3895,
+      "area_sq_mi": 0.98,
+      "incorporated": "City"
+    },
+    {
+      "rank": 265,
+      "name": "Madison†",
+      "primary_county": "Madison",
+      "population": 2912,
+      "area_sq_mi": 2.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 112,
+      "name": "Maitland",
+      "primary_county": "Orange",
+      "population": 19543,
+      "area_sq_mi": 5.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 264,
+      "name": "Malabar",
+      "primary_county": "Brevard",
+      "population": 2949,
+      "area_sq_mi": 10.7,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 294,
+      "name": "Malone",
+      "primary_county": "Jackson",
+      "population": 1959,
+      "area_sq_mi": 3.0,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 379,
+      "name": "Manalapan",
+      "primary_county": "Palm Beach",
+      "population": 419,
+      "area_sq_mi": 0.45,
+      "incorporated": "Town"
+    },
+    {
+      "name": "Mangonia Park",
+      "primary_county": "Palm Beach",
+      "population": 2142,
+      "area_sq_mi": 0.75,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 171,
+      "name": "Marathon",
+      "primary_county": "Monroe",
+      "population": 9689,
+      "area_sq_mi": 8.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 136,
+      "name": "Marco Island",
+      "primary_county": "Collier",
+      "population": 15760,
+      "area_sq_mi": 12.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 51,
+      "name": "Margate",
+      "primary_county": "Broward",
+      "population": 58712,
+      "area_sq_mi": 8.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 206,
+      "name": "Marianna†",
+      "primary_county": "Jackson",
+      "population": 6245,
+      "area_sq_mi": 18.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 411,
+      "name": "Marineland",
+      "primary_county": "FlaglerSt. Johns",
+      "population": 15,
+      "area_sq_mi": 0.21,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 236,
+      "name": "Mary Esther",
+      "primary_county": "Okaloosa",
+      "population": 3982,
+      "area_sq_mi": 1.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 199,
+      "name": "Mascotte",
+      "primary_county": "Lake",
+      "population": 6609,
+      "area_sq_mi": 12.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 328,
+      "name": "Mayo†",
+      "primary_county": "Lafayette",
+      "population": 1055,
+      "area_sq_mi": 0.9,
+      "incorporated": "Town"
+    },
+    {
+      "name": "McIntosh",
+      "primary_county": "Marion",
+      "population": 463,
+      "area_sq_mi": 0.71,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 327,
+      "name": "Medley",
+      "primary_county": "Miami-Dade",
+      "population": 1056,
+      "area_sq_mi": 5.1,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 30,
+      "name": "Melbourne",
+      "primary_county": "Brevard",
+      "population": 84678,
+      "area_sq_mi": 44.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 252,
+      "name": "Melbourne Beach",
+      "primary_county": "Brevard",
+      "population": 3231,
+      "area_sq_mi": 0.99,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 353,
+      "name": "Melbourne Village",
+      "primary_county": "Brevard",
+      "population": 681,
+      "area_sq_mi": 0.58,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 332,
+      "name": "Mexico Beach",
+      "primary_county": "Bay",
+      "population": 916,
+      "area_sq_mi": 2.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 2,
+      "name": "Miami†",
+      "primary_county": "Miami-Dade",
+      "population": 442241,
+      "area_sq_mi": 36.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 31,
+      "name": "Miami Beach",
+      "primary_county": "Miami-Dade",
+      "population": 82890,
+      "area_sq_mi": 7.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 21,
+      "name": "Miami Gardens",
+      "primary_county": "Miami-Dade",
+      "population": 111640,
+      "area_sq_mi": 18.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 89,
+      "name": "Miami Lakes",
+      "primary_county": "Miami-Dade",
+      "population": 30467,
+      "area_sq_mi": 5.7,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 159,
+      "name": "Miami Shores",
+      "primary_county": "Miami-Dade",
+      "population": 11567,
+      "area_sq_mi": 2.5,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 145,
+      "name": "Miami Springs",
+      "primary_county": "Miami-Dade",
+      "population": 13859,
+      "area_sq_mi": 2.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 354,
+      "name": "Micanopy",
+      "primary_county": "Alachua",
+      "population": 648,
+      "area_sq_mi": 1.0,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 244,
+      "name": "Midway",
+      "primary_county": "Gadsden",
+      "population": 3537,
+      "area_sq_mi": 9.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 168,
+      "name": "Milton†",
+      "primary_county": "Santa Rosa",
+      "population": 10197,
+      "area_sq_mi": 5.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 146,
+      "name": "Minneola",
+      "primary_county": "Lake",
+      "population": 13843,
+      "area_sq_mi": 11.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 14,
+      "name": "Miramar",
+      "primary_county": "Broward",
+      "population": 134721,
+      "area_sq_mi": 28.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 272,
+      "name": "Monticello†",
+      "primary_county": "Jefferson",
+      "population": 2589,
+      "area_sq_mi": 4.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 303,
+      "name": "Montverde",
+      "primary_county": "Lake",
+      "population": 1655,
+      "area_sq_mi": 1.7,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 307,
+      "name": "Moore Haven†",
+      "primary_county": "Glades",
+      "population": 1566,
+      "area_sq_mi": 1.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 133,
+      "name": "Mount Dora",
+      "primary_county": "Lake",
+      "population": 16341,
+      "area_sq_mi": 8.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 237,
+      "name": "Mulberry",
+      "primary_county": "Polk",
+      "population": 3952,
+      "area_sq_mi": 6.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 117,
+      "name": "Naples",
+      "primary_county": "Collier",
+      "population": 19115,
+      "area_sq_mi": 12.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 193,
+      "name": "Neptune Beach",
+      "primary_county": "Duval",
+      "population": 7217,
+      "area_sq_mi": 2.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 128,
+      "name": "New Port Richey",
+      "primary_county": "Pasco",
+      "population": 16728,
+      "area_sq_mi": 4.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 90,
+      "name": "New Smyrna Beach",
+      "primary_county": "Volusia",
+      "population": 30142,
+      "area_sq_mi": 37.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 188,
+      "name": "Newberry",
+      "primary_county": "Alachua",
+      "population": 7342,
+      "area_sq_mi": 57.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 135,
+      "name": "Niceville",
+      "primary_county": "Okaloosa",
+      "population": 15772,
+      "area_sq_mi": 13.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 400,
+      "name": "Noma",
+      "primary_county": "Holmes",
+      "population": 208,
+      "area_sq_mi": 1.1,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 181,
+      "name": "North Bay Village",
+      "primary_county": "Miami-Dade",
+      "population": 8159,
+      "area_sq_mi": 0.37,
+      "incorporated": "City"
+    },
+    {
+      "rank": 67,
+      "name": "North Lauderdale",
+      "primary_county": "Broward",
+      "population": 44794,
+      "area_sq_mi": 4.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 48,
+      "name": "North Miami",
+      "primary_county": "Miami-Dade",
+      "population": 60191,
+      "area_sq_mi": 8.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 70,
+      "name": "North Miami Beach",
+      "primary_county": "Miami-Dade",
+      "population": 43676,
+      "area_sq_mi": 4.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 149,
+      "name": "North Palm Beach",
+      "primary_county": "Palm Beach",
+      "population": 13162,
+      "area_sq_mi": 3.3,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 37,
+      "name": "North Port",
+      "primary_county": "Sarasota",
+      "population": 74793,
+      "area_sq_mi": 99.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 311,
+      "name": "North Redington Beach",
+      "primary_county": "Pinellas",
+      "population": 1495,
+      "area_sq_mi": 0.26,
+      "incorporated": "Town"
+    },
+    {
+      "name": "Oak Hill",
+      "primary_county": "Volusia",
+      "population": 1986,
+      "area_sq_mi": 6.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 245,
+      "name": "Oakland",
+      "primary_county": "Orange",
+      "population": 3516,
+      "area_sq_mi": 2.3,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 68,
+      "name": "Oakland Park",
+      "primary_county": "Broward",
+      "population": 44229,
+      "area_sq_mi": 7.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 43,
+      "name": "Ocala†",
+      "primary_county": "Marion",
+      "population": 63591,
+      "area_sq_mi": 47.3,
+      "incorporated": "City"
+    },
+    {
+      "name": "Ocean Breeze",
+      "primary_county": "Martin",
+      "population": 301,
+      "area_sq_mi": 0.17,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 297,
+      "name": "Ocean Ridge",
+      "primary_county": "Palm Beach",
+      "population": 1830,
+      "area_sq_mi": 0.76,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 63,
+      "name": "Ocoee",
+      "primary_county": "Orange",
+      "population": 47295,
+      "area_sq_mi": 15.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 219,
+      "name": "Okeechobee†",
+      "primary_county": "Okeechobee",
+      "population": 5254,
+      "area_sq_mi": 4.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 141,
+      "name": "Oldsmar",
+      "primary_county": "Pinellas",
+      "population": 14898,
+      "area_sq_mi": 8.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 130,
+      "name": "Opa-locka",
+      "primary_county": "Miami-Dade",
+      "population": 16463,
+      "area_sq_mi": 4.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 155,
+      "name": "Orange City",
+      "primary_county": "Volusia",
+      "population": 12632,
+      "area_sq_mi": 7.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 174,
+      "name": "Orange Park",
+      "primary_county": "Clay",
+      "population": 9089,
+      "area_sq_mi": 3.6,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 366,
+      "name": "Orchid",
+      "primary_county": "Indian River",
+      "population": 516,
+      "area_sq_mi": 1.2,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 4,
+      "name": "Orlando†",
+      "primary_county": "Orange",
+      "population": 307573,
+      "area_sq_mi": 110.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 71,
+      "name": "Ormond Beach",
+      "primary_county": "Volusia",
+      "population": 43475,
+      "area_sq_mi": 34.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 404,
+      "name": "Otter Creek",
+      "primary_county": "Levy",
+      "population": 108,
+      "area_sq_mi": 1.4,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 76,
+      "name": "Oviedo",
+      "primary_county": "Seminole",
+      "population": 40059,
+      "area_sq_mi": 15.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 216,
+      "name": "Pahokee",
+      "primary_county": "Palm Beach",
+      "population": 5524,
+      "area_sq_mi": 5.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 167,
+      "name": "Palatka†",
+      "primary_county": "Putnam",
+      "population": 10446,
+      "area_sq_mi": 9.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 16,
+      "name": "Palm Bay",
+      "primary_county": "Brevard",
+      "population": 119760,
+      "area_sq_mi": 86.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 173,
+      "name": "Palm Beach",
+      "primary_county": "Palm Beach",
+      "population": 9245,
+      "area_sq_mi": 3.8,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 49,
+      "name": "Palm Beach Gardens",
+      "primary_county": "Palm Beach",
+      "population": 59182,
+      "area_sq_mi": 58.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 320,
+      "name": "Palm Beach Shores",
+      "primary_county": "Palm Beach",
+      "population": 1330,
+      "area_sq_mi": 0.29,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 27,
+      "name": "Palm Coast",
+      "primary_county": "Flagler",
+      "population": 89258,
+      "area_sq_mi": 95.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 322,
+      "name": "Palm Shores",
+      "primary_county": "Brevard",
+      "population": 1200,
+      "area_sq_mi": 0.6,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 96,
+      "name": "Palm Springs",
+      "primary_county": "Palm Beach",
+      "population": 26890,
+      "area_sq_mi": 4.2,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 148,
+      "name": "Palmetto",
+      "primary_county": "Manatee",
+      "population": 13323,
+      "area_sq_mi": 5.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 104,
+      "name": "Palmetto Bay",
+      "primary_county": "Miami-Dade",
+      "population": 24439,
+      "area_sq_mi": 8.3,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 87,
+      "name": "Panama City†",
+      "primary_county": "Bay",
+      "population": 32939,
+      "area_sq_mi": 35.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 123,
+      "name": "Panama City Beach",
+      "primary_county": "Bay",
+      "population": 18094,
+      "area_sq_mi": 19.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 235,
+      "name": "Parker",
+      "primary_county": "Bay",
+      "population": 4010,
+      "area_sq_mi": 1.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 85,
+      "name": "Parkland",
+      "primary_county": "Broward",
+      "population": 34670,
+      "area_sq_mi": 12.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 361,
+      "name": "Paxton",
+      "primary_county": "Walton",
+      "population": 556,
+      "area_sq_mi": 3.7,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 205,
+      "name": "Pembroke Park",
+      "primary_county": "Broward",
+      "population": 6260,
+      "area_sq_mi": 1.4,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 11,
+      "name": "Pembroke Pines",
+      "primary_county": "Broward",
+      "population": 171178,
+      "area_sq_mi": 32.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 340,
+      "name": "Penney Farms",
+      "primary_county": "Clay",
+      "population": 821,
+      "area_sq_mi": 1.5,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 56,
+      "name": "Pensacola†",
+      "primary_county": "Escambia",
+      "population": 54312,
+      "area_sq_mi": 22.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 196,
+      "name": "Perry†",
+      "primary_county": "Taylor",
+      "population": 6898,
+      "area_sq_mi": 9.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 308,
+      "name": "Pierson",
+      "primary_county": "Volusia",
+      "population": 1542,
+      "area_sq_mi": 10.2,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 122,
+      "name": "Pinecrest",
+      "primary_county": "Miami-Dade",
+      "population": 18388,
+      "area_sq_mi": 7.5,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 58,
+      "name": "Pinellas Park",
+      "primary_county": "Pinellas",
+      "population": 53093,
+      "area_sq_mi": 16.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 77,
+      "name": "Plant City",
+      "primary_county": "Hillsborough",
+      "population": 39764,
+      "area_sq_mi": 27.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 26,
+      "name": "Plantation",
+      "primary_county": "Broward",
+      "population": 91750,
+      "area_sq_mi": 21.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 268,
+      "name": "Polk City",
+      "primary_county": "Polk",
+      "population": 2713,
+      "area_sq_mi": 4.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 343,
+      "name": "Pomona Park",
+      "primary_county": "Putnam",
+      "population": 784,
+      "area_sq_mi": 3.0,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 20,
+      "name": "Pompano Beach",
+      "primary_county": "Broward",
+      "population": 112046,
+      "area_sq_mi": 24.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 367,
+      "name": "Ponce de Leon",
+      "primary_county": "Holmes",
+      "population": 504,
+      "area_sq_mi": 5.0,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 247,
+      "name": "Ponce Inlet",
+      "primary_county": "Volusia",
+      "population": 3364,
+      "area_sq_mi": 4.5,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 44,
+      "name": "Port Orange",
+      "primary_county": "Volusia",
+      "population": 62596,
+      "area_sq_mi": 26.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 255,
+      "name": "Port Richey",
+      "primary_county": "Pasco",
+      "population": 3052,
+      "area_sq_mi": 2.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 248,
+      "name": "Port St. Joe†",
+      "primary_county": "Gulf",
+      "population": 3357,
+      "area_sq_mi": 9.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 7,
+      "name": "Port St. Lucie",
+      "primary_county": "St. Lucie",
+      "population": 204851,
+      "area_sq_mi": 119.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 113,
+      "name": "Punta Gorda†",
+      "primary_county": "Charlotte",
+      "population": 19471,
+      "area_sq_mi": 15.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 183,
+      "name": "Quincy†",
+      "primary_county": "Gadsden",
+      "population": 7970,
+      "area_sq_mi": 11.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 396,
+      "name": "Raiford",
+      "primary_county": "Union",
+      "population": 224,
+      "area_sq_mi": 0.55,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 376,
+      "name": "Reddick",
+      "primary_county": "Marion",
+      "population": 449,
+      "area_sq_mi": 1.3,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 318,
+      "name": "Redington Beach",
+      "primary_county": "Pinellas",
+      "population": 1376,
+      "area_sq_mi": 0.36,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 283,
+      "name": "Redington Shores",
+      "primary_county": "Pinellas",
+      "population": 2176,
+      "area_sq_mi": 0.33,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 80,
+      "name": "Riviera Beach",
+      "primary_county": "Palm Beach",
+      "population": 37604,
+      "area_sq_mi": 8.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 93,
+      "name": "Rockledge",
+      "primary_county": "Brevard",
+      "population": 27678,
+      "area_sq_mi": 13.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 78,
+      "name": "Royal Palm Beach",
+      "primary_county": "Palm Beach",
+      "population": 38932,
+      "area_sq_mi": 11.3,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 126,
+      "name": "Safety Harbor",
+      "primary_county": "Pinellas",
+      "population": 17072,
+      "area_sq_mi": 4.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 321,
+      "name": "San Antonio",
+      "primary_county": "Pasco",
+      "population": 1297,
+      "area_sq_mi": 1.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 46,
+      "name": "Sanford†",
+      "primary_county": "Seminole",
+      "population": 61051,
+      "area_sq_mi": 23.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 202,
+      "name": "Sanibel",
+      "primary_county": "Lee",
+      "population": 6382,
+      "area_sq_mi": 16.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 55,
+      "name": "Sarasota†",
+      "primary_county": "Sarasota",
+      "population": 54842,
+      "area_sq_mi": 14.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 163,
+      "name": "Satellite Beach",
+      "primary_county": "Brevard",
+      "population": 11226,
+      "area_sq_mi": 2.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 362,
+      "name": "Sea Ranch Lakes",
+      "primary_county": "Broward",
+      "population": 540,
+      "area_sq_mi": 0.17,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 103,
+      "name": "Sebastian",
+      "primary_county": "Indian River",
+      "population": 25054,
+      "area_sq_mi": 15.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 164,
+      "name": "Sebring†",
+      "primary_county": "Highlands",
+      "population": 10729,
+      "area_sq_mi": 10.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 114,
+      "name": "Seminole",
+      "primary_county": "Pinellas",
+      "population": 19364,
+      "area_sq_mi": 5.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 289,
+      "name": "Sewall's Point",
+      "primary_county": "Martin",
+      "population": 1991,
+      "area_sq_mi": 1.2,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 348,
+      "name": "Shalimar",
+      "primary_county": "Okaloosa",
+      "population": 737,
+      "area_sq_mi": 0.29,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 301,
+      "name": "Sneads",
+      "primary_county": "Jackson",
+      "population": 1699,
+      "area_sq_mi": 4.4,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 378,
+      "name": "Sopchoppy",
+      "primary_county": "Wakulla",
+      "population": 426,
+      "area_sq_mi": 1.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 227,
+      "name": "South Bay",
+      "primary_county": "Palm Beach",
+      "population": 4860,
+      "area_sq_mi": 2.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 154,
+      "name": "South Daytona",
+      "primary_county": "Volusia",
+      "population": 12865,
+      "area_sq_mi": 3.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 157,
+      "name": "South Miami",
+      "primary_county": "Miami-Dade",
+      "population": 12026,
+      "area_sq_mi": 2.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 314,
+      "name": "South Palm Beach",
+      "primary_county": "Palm Beach",
+      "population": 1471,
+      "area_sq_mi": 0.11,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 218,
+      "name": "South Pasadena",
+      "primary_county": "Pinellas",
+      "population": 5353,
+      "area_sq_mi": 0.61,
+      "incorporated": "City"
+    },
+    {
+      "rank": 184,
+      "name": "Southwest Ranches",
+      "primary_county": "Broward",
+      "population": 7607,
+      "area_sq_mi": 13.0,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 182,
+      "name": "Springfield",
+      "primary_county": "Bay",
+      "population": 8075,
+      "area_sq_mi": 4.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 143,
+      "name": "St. Augustine†",
+      "primary_county": "St. Johns",
+      "population": 14329,
+      "area_sq_mi": 9.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 197,
+      "name": "St. Augustine Beach",
+      "primary_county": "St. Johns",
+      "population": 6803,
+      "area_sq_mi": 2.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 50,
+      "name": "St. Cloud",
+      "primary_county": "Osceola",
+      "population": 58964,
+      "area_sq_mi": 25.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 275,
+      "name": "St. Leo",
+      "primary_county": "Pasco",
+      "population": 2362,
+      "area_sq_mi": 1.1,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 358,
+      "name": "St. Lucie Village",
+      "primary_county": "St. Lucie",
+      "population": 613,
+      "area_sq_mi": 0.9,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 390,
+      "name": "St. Marks",
+      "primary_county": "Wakulla",
+      "population": 274,
+      "area_sq_mi": 2.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 179,
+      "name": "St. Pete Beach",
+      "primary_county": "Pinellas",
+      "population": 8879,
+      "area_sq_mi": 2.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 5,
+      "name": "St. Petersburg",
+      "primary_county": "Pinellas",
+      "population": 258308,
+      "area_sq_mi": 61.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 213,
+      "name": "Starke†",
+      "primary_county": "Bradford",
+      "population": 5796,
+      "area_sq_mi": 7.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 124,
+      "name": "Stuart†",
+      "primary_county": "Martin",
+      "population": 17425,
+      "area_sq_mi": 7.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 109,
+      "name": "Sunny Isles Beach",
+      "primary_county": "Miami-Dade",
+      "population": 22342,
+      "area_sq_mi": 1.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 24,
+      "name": "Sunrise",
+      "primary_county": "Broward",
+      "population": 97335,
+      "area_sq_mi": 16.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 214,
+      "name": "Surfside",
+      "primary_county": "Miami-Dade",
+      "population": 5689,
+      "area_sq_mi": 0.56,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 115,
+      "name": "Sweetwater",
+      "primary_county": "Miami-Dade",
+      "population": 19363,
+      "area_sq_mi": 2.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 8,
+      "name": "Tallahassee # †",
+      "primary_county": "Leon",
+      "population": 196169,
+      "area_sq_mi": 100.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 40,
+      "name": "Tamarac",
+      "primary_county": "Broward",
+      "population": 71897,
+      "area_sq_mi": 11.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 3,
+      "name": "Tampa†",
+      "primary_county": "Hillsborough",
+      "population": 384959,
+      "area_sq_mi": 114.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 102,
+      "name": "Tarpon Springs",
+      "primary_county": "Pinellas",
+      "population": 25117,
+      "area_sq_mi": 9.1,
+      "incorporated": "City"
+    },
+    {
+      "rank": 119,
+      "name": "Tavares†",
+      "primary_county": "Lake",
+      "population": 19003,
+      "area_sq_mi": 12.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 97,
+      "name": "Temple Terrace",
+      "primary_county": "Hillsborough",
+      "population": 26690,
+      "area_sq_mi": 7.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 209,
+      "name": "Tequesta",
+      "primary_county": "Palm Beach",
+      "population": 6158,
+      "area_sq_mi": 1.8,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 61,
+      "name": "Titusville†",
+      "primary_county": "Brevard",
+      "population": 48789,
+      "area_sq_mi": 29.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 200,
+      "name": "Treasure Island",
+      "primary_county": "Pinellas",
+      "population": 6584,
+      "area_sq_mi": 1.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 288,
+      "name": "Trenton†",
+      "primary_county": "Gilchrist",
+      "population": 2015,
+      "area_sq_mi": 3.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 240,
+      "name": "Umatilla",
+      "primary_county": "Lake",
+      "population": 3685,
+      "area_sq_mi": 3.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 229,
+      "name": "Valparaiso",
+      "primary_county": "Okaloosa",
+      "population": 4752,
+      "area_sq_mi": 11.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 101,
+      "name": "Venice",
+      "primary_county": "Sarasota",
+      "population": 25463,
+      "area_sq_mi": 15.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 349,
+      "name": "Vernon",
+      "primary_county": "Washington",
+      "population": 732,
+      "area_sq_mi": 4.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 132,
+      "name": "Vero Beach†",
+      "primary_county": "Indian River",
+      "population": 16354,
+      "area_sq_mi": 11.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 274,
+      "name": "Virginia Gardens",
+      "primary_county": "Miami-Dade",
+      "population": 2364,
+      "area_sq_mi": 0.29,
+      "incorporated": "Village"
+    },
+    {
+      "name": "Waldo",
+      "primary_county": "Alachua",
+      "population": 846,
+      "area_sq_mi": 2.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 226,
+      "name": "Wauchula†",
+      "primary_county": "Hardee",
+      "population": 4900,
+      "area_sq_mi": 3.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 383,
+      "name": "Wausau",
+      "primary_county": "Washington",
+      "population": 371,
+      "area_sq_mi": 1.2,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 344,
+      "name": "Webster",
+      "primary_county": "Sumter",
+      "population": 778,
+      "area_sq_mi": 1.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 350,
+      "name": "Welaka",
+      "primary_county": "Putnam",
+      "population": 714,
+      "area_sq_mi": 1.5,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 45,
+      "name": "Wellington",
+      "primary_county": "Palm Beach",
+      "population": 61637,
+      "area_sq_mi": 45.0,
+      "incorporated": "Village"
+    },
+    {
+      "rank": 100,
+      "name": "West Melbourne",
+      "primary_county": "Brevard",
+      "population": 25924,
+      "area_sq_mi": 10.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 192,
+      "name": "West Miami",
+      "primary_county": "Miami-Dade",
+      "population": 7233,
+      "area_sq_mi": 0.71,
+      "incorporated": "City"
+    },
+    {
+      "rank": 17,
+      "name": "West Palm Beach†",
+      "primary_county": "Palm Beach",
+      "population": 117415,
+      "area_sq_mi": 53.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 139,
+      "name": "West Park",
+      "primary_county": "Broward",
+      "population": 15130,
+      "area_sq_mi": 2.2,
+      "incorporated": "City"
+    },
+    {
+      "rank": 334,
+      "name": "Westlake",
+      "primary_county": "Palm Beach",
+      "population": 906,
+      "area_sq_mi": 6.4,
+      "incorporated": "City"
+    },
+    {
+      "rank": 41,
+      "name": "Weston",
+      "primary_county": "Broward",
+      "population": 68107,
+      "area_sq_mi": 24.6,
+      "incorporated": "City"
+    },
+    {
+      "rank": 392,
+      "name": "Westville",
+      "primary_county": "Holmes",
+      "population": 261,
+      "area_sq_mi": 7.2,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 287,
+      "name": "Wewahitchka",
+      "primary_county": "Gulf",
+      "population": 2074,
+      "area_sq_mi": 6.7,
+      "incorporated": "City"
+    },
+    {
+      "rank": 347,
+      "name": "White Springs",
+      "primary_county": "Hamilton",
+      "population": 740,
+      "area_sq_mi": 1.8,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 137,
+      "name": "Wildwood",
+      "primary_county": "Sumter",
+      "population": 15730,
+      "area_sq_mi": 56.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 261,
+      "name": "Williston",
+      "primary_county": "Levy",
+      "population": 2976,
+      "area_sq_mi": 6.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 161,
+      "name": "Wilton Manors",
+      "primary_county": "Broward",
+      "population": 11426,
+      "area_sq_mi": 2.0,
+      "incorporated": "City"
+    },
+    {
+      "rank": 257,
+      "name": "Windermere",
+      "primary_county": "Orange",
+      "population": 3030,
+      "area_sq_mi": 1.9,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 64,
+      "name": "Winter Garden",
+      "primary_county": "Orange",
+      "population": 46964,
+      "area_sq_mi": 16.3,
+      "incorporated": "City"
+    },
+    {
+      "rank": 60,
+      "name": "Winter Haven",
+      "primary_county": "Polk",
+      "population": 49219,
+      "area_sq_mi": 32.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 91,
+      "name": "Winter Park",
+      "primary_county": "Orange",
+      "population": 29795,
+      "area_sq_mi": 8.8,
+      "incorporated": "City"
+    },
+    {
+      "rank": 79,
+      "name": "Winter Springs",
+      "primary_county": "Seminole",
+      "population": 38342,
+      "area_sq_mi": 14.9,
+      "incorporated": "City"
+    },
+    {
+      "rank": 381,
+      "name": "Worthington Springs",
+      "primary_county": "Union",
+      "population": 378,
+      "area_sq_mi": 0.96,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 359,
+      "name": "Yankeetown",
+      "primary_county": "Levy",
+      "population": 588,
+      "area_sq_mi": 7.7,
+      "incorporated": "Town"
+    },
+    {
+      "rank": 125,
+      "name": "Zephyrhills",
+      "primary_county": "Pasco",
+      "population": 17194,
+      "area_sq_mi": 9.5,
+      "incorporated": "City"
+    },
+    {
+      "rank": 298,
+      "name": "Zolfo Springs",
+      "primary_county": "Hardee",
+      "population": 1737,
+      "area_sq_mi": 1.7,
+      "incorporated": "Town"
+    }
+  ]
+}

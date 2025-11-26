@@ -1,0 +1,1311 @@
+{
+  "metadata": {
+    "state": "Oregon",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_Oregon",
+    "scraped_at": "2025-11-24 20:29:56",
+    "scraper_version": "2.0_generic",
+    "description": "Oregon municipalities scraped from Wikipedia",
+    "total_municipalities": 242,
+    "statistics": {
+      "total_found": 242,
+      "with_population": 0,
+      "with_counties": 242,
+      "unique_counties": 37,
+      "population_stats": {}
+    },
+    "counties": [
+      "2010 census",
+      "Baker",
+      "Benton",
+      "Clackamas",
+      "Clatsop",
+      "Columbia",
+      "Coos",
+      "Crook",
+      "Curry",
+      "Deschutes",
+      "Douglas",
+      "Gilliam",
+      "Grant",
+      "Harney",
+      "Hood River",
+      "Jackson",
+      "Jefferson",
+      "Josephine",
+      "Klamath",
+      "Lake",
+      "Lane",
+      "Lincoln",
+      "Linn",
+      "Malheur",
+      "Marion",
+      "Morrow",
+      "Multnomah",
+      "Polk",
+      "Sherman",
+      "Tillamook",
+      "Umatilla",
+      "Union",
+      "Wallowa",
+      "Wasco",
+      "Washington",
+      "Wheeler",
+      "Yamhill"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "2020 census",
+      "primary_county": "2010 census"
+    },
+    {
+      "name": "Adair Village",
+      "primary_county": "Benton",
+      "incorporated": "1.1"
+    },
+    {
+      "name": "Adams",
+      "primary_county": "Umatilla",
+      "incorporated": "0.93"
+    },
+    {
+      "name": "Adrian",
+      "primary_county": "Malheur",
+      "incorporated": "0.62"
+    },
+    {
+      "name": "Albany †",
+      "primary_county": "Linn",
+      "secondary_counties": [
+        "Benton"
+      ],
+      "incorporated": "45.7"
+    },
+    {
+      "name": "Amity",
+      "primary_county": "Yamhill",
+      "incorporated": "1.5"
+    },
+    {
+      "name": "Antelope",
+      "primary_county": "Wasco",
+      "incorporated": "1.2"
+    },
+    {
+      "name": "Arlington",
+      "primary_county": "Gilliam",
+      "incorporated": "6.6"
+    },
+    {
+      "name": "Ashland",
+      "primary_county": "Jackson",
+      "incorporated": "17.2"
+    },
+    {
+      "name": "Astoria †",
+      "primary_county": "Clatsop",
+      "incorporated": "15.9"
+    },
+    {
+      "name": "Athena",
+      "primary_county": "Umatilla",
+      "incorporated": "1.4"
+    },
+    {
+      "name": "Aumsville",
+      "primary_county": "Marion",
+      "incorporated": "2.9"
+    },
+    {
+      "name": "Aurora",
+      "primary_county": "Marion",
+      "incorporated": "1.2"
+    },
+    {
+      "name": "Baker City †",
+      "primary_county": "Baker",
+      "incorporated": "18.5"
+    },
+    {
+      "name": "Bandon",
+      "primary_county": "Coos",
+      "incorporated": "7.2"
+    },
+    {
+      "name": "Banks",
+      "primary_county": "Washington",
+      "incorporated": "2.0"
+    },
+    {
+      "name": "Barlow",
+      "primary_county": "Clackamas",
+      "incorporated": "0.13"
+    },
+    {
+      "name": "Bay City",
+      "primary_county": "Tillamook",
+      "incorporated": "3.3"
+    },
+    {
+      "name": "Beaverton",
+      "primary_county": "Washington",
+      "incorporated": "50.8"
+    },
+    {
+      "name": "Bend †",
+      "primary_county": "Deschutes",
+      "incorporated": "87.1"
+    },
+    {
+      "name": "Boardman",
+      "primary_county": "Morrow",
+      "incorporated": "10.4"
+    },
+    {
+      "name": "Bonanza",
+      "primary_county": "Klamath",
+      "incorporated": "2.1"
+    },
+    {
+      "name": "Brookings",
+      "primary_county": "Curry",
+      "incorporated": "10.7"
+    },
+    {
+      "name": "Brownsville",
+      "primary_county": "Linn",
+      "incorporated": "3.5"
+    },
+    {
+      "name": "Burns †",
+      "primary_county": "Harney",
+      "incorporated": "9.2"
+    },
+    {
+      "name": "Butte Falls",
+      "primary_county": "Jackson",
+      "incorporated": "1.1"
+    },
+    {
+      "name": "Canby",
+      "primary_county": "Clackamas",
+      "incorporated": "12.1"
+    },
+    {
+      "name": "Cannon Beach",
+      "primary_county": "Clatsop",
+      "incorporated": "4.1"
+    },
+    {
+      "name": "Canyon City †",
+      "primary_county": "Grant",
+      "incorporated": "3.7"
+    },
+    {
+      "name": "Canyonville",
+      "primary_county": "Douglas",
+      "incorporated": "2.7"
+    },
+    {
+      "name": "Carlton",
+      "primary_county": "Yamhill",
+      "incorporated": "2.3"
+    },
+    {
+      "name": "Cascade Locks",
+      "primary_county": "Hood River",
+      "incorporated": "5.4"
+    },
+    {
+      "name": "Cave Junction",
+      "primary_county": "Josephine",
+      "incorporated": "4.7"
+    },
+    {
+      "name": "Central Point",
+      "primary_county": "Jackson",
+      "incorporated": "10.2"
+    },
+    {
+      "name": "Chiloquin",
+      "primary_county": "Klamath",
+      "incorporated": "2.1"
+    },
+    {
+      "name": "Clatskanie",
+      "primary_county": "Columbia",
+      "incorporated": "3.4"
+    },
+    {
+      "name": "Coburg",
+      "primary_county": "Lane",
+      "incorporated": "2.7"
+    },
+    {
+      "name": "Columbia City",
+      "primary_county": "Columbia",
+      "incorporated": "2.0"
+    },
+    {
+      "name": "Condon †",
+      "primary_county": "Gilliam",
+      "incorporated": "2.1"
+    },
+    {
+      "name": "Coos Bay",
+      "primary_county": "Coos",
+      "incorporated": "27.5"
+    },
+    {
+      "name": "Coquille †",
+      "primary_county": "Coos",
+      "incorporated": "7.1"
+    },
+    {
+      "name": "Cornelius",
+      "primary_county": "Washington",
+      "incorporated": "6.1"
+    },
+    {
+      "name": "Corvallis †",
+      "primary_county": "Benton",
+      "incorporated": "37.0"
+    },
+    {
+      "name": "Cottage Grove",
+      "primary_county": "Lane",
+      "incorporated": "10.0"
+    },
+    {
+      "name": "Cove",
+      "primary_county": "Union",
+      "incorporated": "2.1"
+    },
+    {
+      "name": "Creswell",
+      "primary_county": "Lane",
+      "incorporated": "4.4"
+    },
+    {
+      "name": "Culver",
+      "primary_county": "Jefferson",
+      "incorporated": "1.8"
+    },
+    {
+      "name": "Dallas †",
+      "primary_county": "Polk",
+      "incorporated": "12.7"
+    },
+    {
+      "name": "Dayton",
+      "primary_county": "Yamhill",
+      "incorporated": "2.2"
+    },
+    {
+      "name": "Dayville",
+      "primary_county": "Grant",
+      "incorporated": "1.4"
+    },
+    {
+      "name": "Depoe Bay",
+      "primary_county": "Lincoln",
+      "incorporated": "4.7"
+    },
+    {
+      "name": "Detroit",
+      "primary_county": "Marion",
+      "incorporated": "1.5"
+    },
+    {
+      "name": "Donald",
+      "primary_county": "Marion",
+      "incorporated": "0.73"
+    },
+    {
+      "name": "Drain",
+      "primary_county": "Douglas",
+      "incorporated": "1.6"
+    },
+    {
+      "name": "Dufur",
+      "primary_county": "Wasco",
+      "incorporated": "1.5"
+    },
+    {
+      "name": "Dundee",
+      "primary_county": "Yamhill",
+      "incorporated": "3.5"
+    },
+    {
+      "name": "Dunes City",
+      "primary_county": "Lane",
+      "incorporated": "7.0"
+    },
+    {
+      "name": "Durham",
+      "primary_county": "Washington",
+      "incorporated": "1.1"
+    },
+    {
+      "name": "Eagle Point",
+      "primary_county": "Jackson",
+      "incorporated": "7.7"
+    },
+    {
+      "name": "Echo",
+      "primary_county": "Umatilla",
+      "incorporated": "1.5"
+    },
+    {
+      "name": "Elgin",
+      "primary_county": "Union",
+      "incorporated": "2.6"
+    },
+    {
+      "name": "Elkton",
+      "primary_county": "Douglas",
+      "incorporated": "0.60"
+    },
+    {
+      "name": "Enterprise †",
+      "primary_county": "Wallowa",
+      "incorporated": "3.8"
+    },
+    {
+      "name": "Estacada",
+      "primary_county": "Clackamas",
+      "incorporated": "5.9"
+    },
+    {
+      "name": "Eugene †",
+      "primary_county": "Lane",
+      "incorporated": "114.4"
+    },
+    {
+      "name": "Fairview",
+      "primary_county": "Multnomah",
+      "incorporated": "8.0"
+    },
+    {
+      "name": "Falls City",
+      "primary_county": "Polk",
+      "incorporated": "3.1"
+    },
+    {
+      "name": "Florence",
+      "primary_county": "Lane",
+      "incorporated": "14.0"
+    },
+    {
+      "name": "Forest Grove",
+      "primary_county": "Washington",
+      "incorporated": "15.1"
+    },
+    {
+      "name": "Fossil †",
+      "primary_county": "Wheeler",
+      "incorporated": "2.0"
+    },
+    {
+      "name": "Garibaldi",
+      "primary_county": "Tillamook",
+      "incorporated": "2.6"
+    },
+    {
+      "name": "Gaston",
+      "primary_county": "Washington",
+      "secondary_counties": [
+        "Yamhill"
+      ],
+      "incorporated": "0.88"
+    },
+    {
+      "name": "Gates",
+      "primary_county": "Marion",
+      "secondary_counties": [
+        "Linn"
+      ],
+      "incorporated": "1.7"
+    },
+    {
+      "name": "Gearhart",
+      "primary_county": "Clatsop",
+      "incorporated": "4.8"
+    },
+    {
+      "name": "Gervais",
+      "primary_county": "Marion",
+      "incorporated": "1.1"
+    },
+    {
+      "name": "Gladstone",
+      "primary_county": "Clackamas",
+      "incorporated": "6.2"
+    },
+    {
+      "name": "Glendale",
+      "primary_county": "Douglas",
+      "incorporated": "1.0"
+    },
+    {
+      "name": "Gold Beach †",
+      "primary_county": "Curry",
+      "incorporated": "6.6"
+    },
+    {
+      "name": "Gold Hill",
+      "primary_county": "Jackson",
+      "incorporated": "2.0"
+    },
+    {
+      "name": "Granite",
+      "primary_county": "Grant",
+      "incorporated": "0.96"
+    },
+    {
+      "name": "Grants Pass †",
+      "primary_county": "Josephine",
+      "incorporated": "29.8"
+    },
+    {
+      "name": "Grass Valley",
+      "primary_county": "Sherman",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Greenhorn",
+      "primary_county": "Baker",
+      "secondary_counties": [
+        "Grant"
+      ],
+      "incorporated": "0.23"
+    },
+    {
+      "name": "Gresham",
+      "primary_county": "Multnomah",
+      "incorporated": "60.8"
+    },
+    {
+      "name": "Haines",
+      "primary_county": "Baker",
+      "incorporated": "2.0"
+    },
+    {
+      "name": "Halfway",
+      "primary_county": "Baker",
+      "incorporated": "0.96"
+    },
+    {
+      "name": "Halsey",
+      "primary_county": "Linn",
+      "incorporated": "1.5"
+    },
+    {
+      "name": "Happy Valley",
+      "primary_county": "Clackamas",
+      "incorporated": "30.0"
+    },
+    {
+      "name": "Harrisburg",
+      "primary_county": "Linn",
+      "incorporated": "3.6"
+    },
+    {
+      "name": "Helix",
+      "primary_county": "Umatilla",
+      "incorporated": "0.34"
+    },
+    {
+      "name": "Heppner †",
+      "primary_county": "Morrow",
+      "incorporated": "3.2"
+    },
+    {
+      "name": "Hermiston",
+      "primary_county": "Umatilla",
+      "incorporated": "21.4"
+    },
+    {
+      "name": "Hillsboro †",
+      "primary_county": "Washington",
+      "incorporated": "66.5"
+    },
+    {
+      "name": "Hines",
+      "primary_county": "Harney",
+      "incorporated": "5.3"
+    },
+    {
+      "name": "Hood River †",
+      "primary_county": "Hood River",
+      "incorporated": "6.7"
+    },
+    {
+      "name": "Hubbard",
+      "primary_county": "Marion",
+      "incorporated": "1.8"
+    },
+    {
+      "name": "Huntington",
+      "primary_county": "Baker",
+      "incorporated": "1.9"
+    },
+    {
+      "name": "Idanha",
+      "primary_county": "Marion",
+      "secondary_counties": [
+        "Linn"
+      ],
+      "incorporated": "1.9"
+    },
+    {
+      "name": "Imbler",
+      "primary_county": "Union",
+      "incorporated": "0.57"
+    },
+    {
+      "name": "Independence",
+      "primary_county": "Polk",
+      "incorporated": "7.7"
+    },
+    {
+      "name": "Ione",
+      "primary_county": "Morrow",
+      "incorporated": "2.0"
+    },
+    {
+      "name": "Irrigon",
+      "primary_county": "Morrow",
+      "incorporated": "3.4"
+    },
+    {
+      "name": "Island City",
+      "primary_county": "Union",
+      "incorporated": "2.5"
+    },
+    {
+      "name": "Jacksonville",
+      "primary_county": "Jackson",
+      "incorporated": "4.9"
+    },
+    {
+      "name": "Jefferson",
+      "primary_county": "Marion",
+      "incorporated": "2.2"
+    },
+    {
+      "name": "John Day",
+      "primary_county": "Grant",
+      "incorporated": "5.9"
+    },
+    {
+      "name": "Johnson City",
+      "primary_county": "Clackamas",
+      "incorporated": "0.18"
+    },
+    {
+      "name": "Jordan Valley",
+      "primary_county": "Malheur",
+      "incorporated": "5.4"
+    },
+    {
+      "name": "Joseph",
+      "primary_county": "Wallowa",
+      "incorporated": "2.4"
+    },
+    {
+      "name": "Junction City",
+      "primary_county": "Lane",
+      "incorporated": "8.5"
+    },
+    {
+      "name": "Keizer",
+      "primary_county": "Marion",
+      "incorporated": "18.6"
+    },
+    {
+      "name": "King City",
+      "primary_county": "Washington",
+      "incorporated": "2.1"
+    },
+    {
+      "name": "Klamath Falls †",
+      "primary_county": "Klamath",
+      "incorporated": "52.2"
+    },
+    {
+      "name": "La Grande †",
+      "primary_county": "Union",
+      "incorporated": "11.9"
+    },
+    {
+      "name": "La Pine",
+      "primary_county": "Deschutes",
+      "incorporated": "18.5"
+    },
+    {
+      "name": "Lafayette",
+      "primary_county": "Yamhill",
+      "incorporated": "2.2"
+    },
+    {
+      "name": "Lake Oswego",
+      "primary_county": "Clackamas",
+      "secondary_counties": [
+        "Multnomah",
+        "Washington"
+      ],
+      "incorporated": "27.9"
+    },
+    {
+      "name": "Lakeside",
+      "primary_county": "Coos",
+      "incorporated": "5.2"
+    },
+    {
+      "name": "Lakeview †",
+      "primary_county": "Lake",
+      "incorporated": "6.3"
+    },
+    {
+      "name": "Lebanon",
+      "primary_county": "Linn",
+      "incorporated": "18.2"
+    },
+    {
+      "name": "Lexington",
+      "primary_county": "Morrow",
+      "incorporated": "1.1"
+    },
+    {
+      "name": "Lincoln City",
+      "primary_county": "Lincoln",
+      "incorporated": "15.7"
+    },
+    {
+      "name": "Lonerock",
+      "primary_county": "Gilliam",
+      "incorporated": "2.6"
+    },
+    {
+      "name": "Long Creek",
+      "primary_county": "Grant",
+      "incorporated": "2.6"
+    },
+    {
+      "name": "Lostine",
+      "primary_county": "Wallowa",
+      "incorporated": "0.75"
+    },
+    {
+      "name": "Lowell",
+      "primary_county": "Lane",
+      "incorporated": "2.3"
+    },
+    {
+      "name": "Lyons",
+      "primary_county": "Linn",
+      "incorporated": "2.3"
+    },
+    {
+      "name": "Madras †",
+      "primary_county": "Jefferson",
+      "incorporated": "21.1"
+    },
+    {
+      "name": "Malin",
+      "primary_county": "Klamath",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Manzanita",
+      "primary_county": "Tillamook",
+      "incorporated": "2.1"
+    },
+    {
+      "name": "Maupin",
+      "primary_county": "Wasco",
+      "incorporated": "3.6"
+    },
+    {
+      "name": "Maywood Park",
+      "primary_county": "Multnomah",
+      "incorporated": "0.44"
+    },
+    {
+      "name": "McMinnville †",
+      "primary_county": "Yamhill",
+      "incorporated": "27.4"
+    },
+    {
+      "name": "Medford †",
+      "primary_county": "Jackson",
+      "incorporated": "67.1"
+    },
+    {
+      "name": "Merrill",
+      "primary_county": "Klamath",
+      "incorporated": "1.2"
+    },
+    {
+      "name": "Metolius",
+      "primary_county": "Jefferson",
+      "incorporated": "1.2"
+    },
+    {
+      "name": "Mill City",
+      "primary_county": "Marion",
+      "secondary_counties": [
+        "Linn"
+      ],
+      "incorporated": "2.2"
+    },
+    {
+      "name": "Millersburg",
+      "primary_county": "Linn",
+      "incorporated": "11.6"
+    },
+    {
+      "name": "Milton-Freewater",
+      "primary_county": "Umatilla",
+      "incorporated": "5.3"
+    },
+    {
+      "name": "Milwaukie",
+      "primary_county": "Clackamas",
+      "secondary_counties": [
+        "Multnomah"
+      ],
+      "incorporated": "12.9"
+    },
+    {
+      "name": "Mitchell",
+      "primary_county": "Wheeler",
+      "incorporated": "3.3"
+    },
+    {
+      "name": "Molalla",
+      "primary_county": "Clackamas",
+      "incorporated": "6.3"
+    },
+    {
+      "name": "Monmouth",
+      "primary_county": "Polk",
+      "incorporated": "5.6"
+    },
+    {
+      "name": "Monroe",
+      "primary_county": "Benton",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Monument",
+      "primary_county": "Grant",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Moro †",
+      "primary_county": "Sherman",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Mosier",
+      "primary_county": "Wasco",
+      "incorporated": "1.2"
+    },
+    {
+      "name": "Mount Vernon",
+      "primary_county": "Grant",
+      "incorporated": "1.8"
+    },
+    {
+      "name": "Mt. Angel",
+      "primary_county": "Marion",
+      "incorporated": "3.0"
+    },
+    {
+      "name": "Myrtle Creek",
+      "primary_county": "Douglas",
+      "incorporated": "6.5"
+    },
+    {
+      "name": "Myrtle Point",
+      "primary_county": "Coos",
+      "incorporated": "4.2"
+    },
+    {
+      "name": "Nehalem",
+      "primary_county": "Tillamook",
+      "incorporated": "0.70"
+    },
+    {
+      "name": "Newberg",
+      "primary_county": "Yamhill",
+      "incorporated": "15.3"
+    },
+    {
+      "name": "Newport †",
+      "primary_county": "Lincoln",
+      "incorporated": "25.8"
+    },
+    {
+      "name": "North Bend",
+      "primary_county": "Coos",
+      "incorporated": "10.2"
+    },
+    {
+      "name": "North Plains",
+      "primary_county": "Washington",
+      "incorporated": "2.8"
+    },
+    {
+      "name": "North Powder",
+      "primary_county": "Union",
+      "incorporated": "1.6"
+    },
+    {
+      "name": "Nyssa",
+      "primary_county": "Malheur",
+      "incorporated": "4.0"
+    },
+    {
+      "name": "Oakland",
+      "primary_county": "Douglas",
+      "incorporated": "1.9"
+    },
+    {
+      "name": "Oakridge",
+      "primary_county": "Lane",
+      "incorporated": "5.6"
+    },
+    {
+      "name": "Ontario",
+      "primary_county": "Malheur",
+      "incorporated": "13.4"
+    },
+    {
+      "name": "Oregon City †",
+      "primary_county": "Clackamas",
+      "incorporated": "26.0"
+    },
+    {
+      "name": "Paisley",
+      "primary_county": "Lake",
+      "incorporated": "1.1"
+    },
+    {
+      "name": "Pendleton †",
+      "primary_county": "Umatilla",
+      "incorporated": "29.6"
+    },
+    {
+      "name": "Philomath",
+      "primary_county": "Benton",
+      "incorporated": "5.2"
+    },
+    {
+      "name": "Phoenix",
+      "primary_county": "Jackson",
+      "incorporated": "3.7"
+    },
+    {
+      "name": "Pilot Rock",
+      "primary_county": "Umatilla",
+      "incorporated": "3.8"
+    },
+    {
+      "name": "Port Orford",
+      "primary_county": "Curry",
+      "incorporated": "4.0"
+    },
+    {
+      "name": "Portland †",
+      "primary_county": "Multnomah",
+      "secondary_counties": [
+        "Washington",
+        "Clackamas"
+      ],
+      "incorporated": "345.6"
+    },
+    {
+      "name": "Powers",
+      "primary_county": "Coos",
+      "incorporated": "1.5"
+    },
+    {
+      "name": "Prairie City",
+      "primary_county": "Grant",
+      "incorporated": "2.6"
+    },
+    {
+      "name": "Prescott",
+      "primary_county": "Columbia",
+      "incorporated": "0.18"
+    },
+    {
+      "name": "Prineville †",
+      "primary_county": "Crook",
+      "incorporated": "33.2"
+    },
+    {
+      "name": "Rainier",
+      "primary_county": "Columbia",
+      "incorporated": "10.6"
+    },
+    {
+      "name": "Redmond",
+      "primary_county": "Deschutes",
+      "incorporated": "47.3"
+    },
+    {
+      "name": "Reedsport",
+      "primary_county": "Douglas",
+      "incorporated": "5.4"
+    },
+    {
+      "name": "Richland",
+      "primary_county": "Baker",
+      "incorporated": "0.28"
+    },
+    {
+      "name": "Riddle",
+      "primary_county": "Douglas",
+      "incorporated": "1.7"
+    },
+    {
+      "name": "Rivergrove",
+      "primary_county": "Clackamas",
+      "secondary_counties": [
+        "Washington"
+      ],
+      "incorporated": "0.44"
+    },
+    {
+      "name": "Rockaway Beach",
+      "primary_county": "Tillamook",
+      "incorporated": "4.1"
+    },
+    {
+      "name": "Rogue River",
+      "primary_county": "Jackson",
+      "incorporated": "2.5"
+    },
+    {
+      "name": "Roseburg †",
+      "primary_county": "Douglas",
+      "incorporated": "27.8"
+    },
+    {
+      "name": "Rufus",
+      "primary_county": "Sherman",
+      "incorporated": "3.1"
+    },
+    {
+      "name": "Salem ‡",
+      "primary_county": "Marion",
+      "secondary_counties": [
+        "Polk"
+      ],
+      "incorporated": "126.4"
+    },
+    {
+      "name": "Sandy",
+      "primary_county": "Clackamas",
+      "incorporated": "9.2"
+    },
+    {
+      "name": "Scappoose",
+      "primary_county": "Columbia",
+      "incorporated": "8.9"
+    },
+    {
+      "name": "Scio",
+      "primary_county": "Linn",
+      "incorporated": "1.1"
+    },
+    {
+      "name": "Scotts Mills",
+      "primary_county": "Marion",
+      "incorporated": "0.93"
+    },
+    {
+      "name": "Seaside",
+      "primary_county": "Clatsop",
+      "incorporated": "10.1"
+    },
+    {
+      "name": "Seneca",
+      "primary_county": "Grant",
+      "incorporated": "2.1"
+    },
+    {
+      "name": "Shady Cove",
+      "primary_county": "Jackson",
+      "incorporated": "5.1"
+    },
+    {
+      "name": "Shaniko",
+      "primary_county": "Wasco",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Sheridan",
+      "primary_county": "Yamhill",
+      "incorporated": "5.4"
+    },
+    {
+      "name": "Sherwood",
+      "primary_county": "Washington",
+      "incorporated": "12.5"
+    },
+    {
+      "name": "Siletz",
+      "primary_county": "Lincoln",
+      "incorporated": "1.6"
+    },
+    {
+      "name": "Silverton",
+      "primary_county": "Marion",
+      "incorporated": "9.1"
+    },
+    {
+      "name": "Sisters",
+      "primary_county": "Deschutes",
+      "incorporated": "5.0"
+    },
+    {
+      "name": "Sodaville",
+      "primary_county": "Linn",
+      "incorporated": "0.80"
+    },
+    {
+      "name": "Spray",
+      "primary_county": "Wheeler",
+      "incorporated": "0.75"
+    },
+    {
+      "name": "Springfield",
+      "primary_county": "Lane",
+      "incorporated": "41.1"
+    },
+    {
+      "name": "St. Helens †",
+      "primary_county": "Columbia",
+      "incorporated": "12.5"
+    },
+    {
+      "name": "St. Paul",
+      "primary_county": "Marion",
+      "incorporated": "0.75"
+    },
+    {
+      "name": "Stanfield",
+      "primary_county": "Umatilla",
+      "incorporated": "3.9"
+    },
+    {
+      "name": "Stayton",
+      "primary_county": "Marion",
+      "incorporated": "8.0"
+    },
+    {
+      "name": "Sublimity",
+      "primary_county": "Marion",
+      "incorporated": "2.4"
+    },
+    {
+      "name": "Summerville",
+      "primary_county": "Union",
+      "incorporated": "0.67"
+    },
+    {
+      "name": "Sumpter",
+      "primary_county": "Baker",
+      "incorporated": "5.6"
+    },
+    {
+      "name": "Sutherlin",
+      "primary_county": "Douglas",
+      "incorporated": "16.8"
+    },
+    {
+      "name": "Sweet Home",
+      "primary_county": "Linn",
+      "incorporated": "13.7"
+    },
+    {
+      "name": "Talent",
+      "primary_county": "Jackson",
+      "incorporated": "3.4"
+    },
+    {
+      "name": "Tangent",
+      "primary_county": "Linn",
+      "incorporated": "9.8"
+    },
+    {
+      "name": "The Dalles †",
+      "primary_county": "Wasco",
+      "incorporated": "17.2"
+    },
+    {
+      "name": "Tigard",
+      "primary_county": "Washington",
+      "incorporated": "32.8"
+    },
+    {
+      "name": "Tillamook †",
+      "primary_county": "Tillamook",
+      "incorporated": "4.9"
+    },
+    {
+      "name": "Toledo",
+      "primary_county": "Lincoln",
+      "incorporated": "5.6"
+    },
+    {
+      "name": "Troutdale",
+      "primary_county": "Multnomah",
+      "incorporated": "15.4"
+    },
+    {
+      "name": "Tualatin",
+      "primary_county": "Washington",
+      "secondary_counties": [
+        "Clackamas"
+      ],
+      "incorporated": "21.4"
+    },
+    {
+      "name": "Turner",
+      "primary_county": "Marion",
+      "incorporated": "3.7"
+    },
+    {
+      "name": "Ukiah",
+      "primary_county": "Umatilla",
+      "incorporated": "0.62"
+    },
+    {
+      "name": "Umatilla",
+      "primary_county": "Umatilla",
+      "incorporated": "12.7"
+    },
+    {
+      "name": "Union",
+      "primary_county": "Union",
+      "incorporated": "6.4"
+    },
+    {
+      "name": "Unity",
+      "primary_county": "Baker",
+      "incorporated": "1.7"
+    },
+    {
+      "name": "Vale †",
+      "primary_county": "Malheur",
+      "incorporated": "3.0"
+    },
+    {
+      "name": "Veneta",
+      "primary_county": "Lane",
+      "incorporated": "6.7"
+    },
+    {
+      "name": "Vernonia",
+      "primary_county": "Columbia",
+      "incorporated": "4.2"
+    },
+    {
+      "name": "Waldport",
+      "primary_county": "Lincoln",
+      "incorporated": "7.0"
+    },
+    {
+      "name": "Wallowa",
+      "primary_county": "Wallowa",
+      "incorporated": "1.6"
+    },
+    {
+      "name": "Warrenton",
+      "primary_county": "Clatsop",
+      "incorporated": "32.8"
+    },
+    {
+      "name": "Wasco",
+      "primary_county": "Sherman",
+      "incorporated": "2.6"
+    },
+    {
+      "name": "Waterloo",
+      "primary_county": "Linn",
+      "incorporated": "0.31"
+    },
+    {
+      "name": "West Linn",
+      "primary_county": "Clackamas",
+      "incorporated": "19.2"
+    },
+    {
+      "name": "Westfir",
+      "primary_county": "Lane",
+      "incorporated": "0.80"
+    },
+    {
+      "name": "Weston",
+      "primary_county": "Umatilla",
+      "incorporated": "1.8"
+    },
+    {
+      "name": "Wheeler",
+      "primary_county": "Tillamook",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Willamina",
+      "primary_county": "Yamhill",
+      "secondary_counties": [
+        "Polk"
+      ],
+      "incorporated": "2.4"
+    },
+    {
+      "name": "Wilsonville",
+      "primary_county": "Clackamas",
+      "secondary_counties": [
+        "Washington"
+      ],
+      "incorporated": "19.5"
+    },
+    {
+      "name": "Winston",
+      "primary_county": "Douglas",
+      "incorporated": "7.1"
+    },
+    {
+      "name": "Wood Village",
+      "primary_county": "Multnomah",
+      "incorporated": "2.4"
+    },
+    {
+      "name": "Woodburn",
+      "primary_county": "Marion",
+      "incorporated": "15.2"
+    },
+    {
+      "name": "Yachats",
+      "primary_county": "Lincoln",
+      "incorporated": "2.4"
+    },
+    {
+      "name": "Yamhill",
+      "primary_county": "Yamhill",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Yoncalla",
+      "primary_county": "Douglas",
+      "incorporated": "1.7"
+    }
+  ]
+}

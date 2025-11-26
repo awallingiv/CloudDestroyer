@@ -1,0 +1,3633 @@
+{
+  "metadata": {
+    "state": "Arkansas",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Arkansas",
+    "scraped_at": "2025-11-24 20:29:19",
+    "scraper_version": "2.0_generic",
+    "description": "Arkansas municipalities scraped from Wikipedia",
+    "total_municipalities": 503,
+    "statistics": {
+      "total_found": 503,
+      "with_population": 502,
+      "with_counties": 502,
+      "unique_counties": 89,
+      "population_stats": {
+        "min": 20,
+        "max": 3011500,
+        "average": 13978,
+        "total": 7017214
+      }
+    },
+    "counties": [
+      "Arkansas",
+      "ArkansasJefferson",
+      "Ashley",
+      "Baxter",
+      "Benton",
+      "Boone",
+      "BooneCarroll",
+      "Bradley",
+      "Calhoun",
+      "Carroll",
+      "Chicot",
+      "Clark",
+      "Clay",
+      "Cleburne",
+      "CleburneFaulkner",
+      "Cleveland",
+      "Columbia",
+      "Conway",
+      "Craighead",
+      "Crawford",
+      "Crittenden",
+      "Cross",
+      "Dallas",
+      "Desha",
+      "Drew",
+      "DrewDesha",
+      "Faulkner",
+      "Franklin",
+      "Fulton",
+      "Garland",
+      "Grant",
+      "Greene",
+      "Hempstead",
+      "Hot Spring",
+      "Howard",
+      "Independence",
+      "Izard",
+      "IzardFultonSharp",
+      "Jackson",
+      "Jefferson",
+      "Johnson",
+      "Lafayette",
+      "Lawrence",
+      "Lee",
+      "Lincoln",
+      "Little River",
+      "Logan",
+      "Lonoke",
+      "Madison",
+      "Marion",
+      "Miller",
+      "Mississippi",
+      "Monroe",
+      "Montgomery",
+      "Nevada",
+      "NevadaHempstead",
+      "Newton",
+      "Ouachita",
+      "Perry",
+      "Phillips",
+      "Pike",
+      "Poinsett",
+      "Polk",
+      "Pope",
+      "Prairie",
+      "Pulaski",
+      "PulaskiSaline",
+      "Randolph",
+      "Saline",
+      "Scott",
+      "Searcy",
+      "Sebastian",
+      "SebastianScott",
+      "Sevier",
+      "Sharp",
+      "SharpFulton",
+      "SharpIndependence",
+      "St. Francis",
+      "Stone",
+      "Union",
+      "Van Buren",
+      "Van BurenCleburne",
+      "Van BurenFaulkner",
+      "Washington",
+      "WashingtonBenton",
+      "White",
+      "Woodruff",
+      "Yell",
+      "—"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi",
+      "designation": "km2"
+    },
+    {
+      "name": "Adona",
+      "designation": "City (second class)",
+      "primary_county": "Perry",
+      "population": 149,
+      "incorporated": "157.0/sq mi (60.6/km2)"
+    },
+    {
+      "name": "Alexander",
+      "designation": "City (first class)",
+      "primary_county": "PulaskiSaline",
+      "population": 3385,
+      "incorporated": "1,500.4/sq mi (579.3/km2)"
+    },
+    {
+      "name": "Alicia",
+      "designation": "Town",
+      "primary_county": "Lawrence",
+      "population": 143,
+      "incorporated": "331.0/sq mi (127.8/km2)"
+    },
+    {
+      "name": "Allport",
+      "designation": "Town",
+      "primary_county": "Lonoke",
+      "population": 86,
+      "incorporated": "413.5/sq mi (159.6/km2)"
+    },
+    {
+      "name": "Alma",
+      "designation": "City (first class)",
+      "primary_county": "Crawford",
+      "population": 5825,
+      "incorporated": "1,016.2/sq mi (392.4/km2)"
+    },
+    {
+      "name": "Almyra",
+      "designation": "Town",
+      "primary_county": "Arkansas",
+      "population": 256,
+      "incorporated": "659.8/sq mi (254.7/km2)"
+    },
+    {
+      "name": "Alpena",
+      "designation": "Town",
+      "primary_county": "BooneCarroll",
+      "population": 374,
+      "incorporated": "280.6/sq mi (108.3/km2)"
+    },
+    {
+      "name": "Altheimer",
+      "designation": "City (second class)",
+      "primary_county": "Jefferson",
+      "population": 696,
+      "incorporated": "339.5/sq mi (131.1/km2)"
+    },
+    {
+      "name": "Altus",
+      "designation": "City (second class)",
+      "primary_county": "Franklin",
+      "population": 665,
+      "incorporated": "351.5/sq mi (135.7/km2)"
+    },
+    {
+      "name": "Amagon",
+      "designation": "Town",
+      "primary_county": "Jackson",
+      "population": 69,
+      "incorporated": "621.6/sq mi (240.0/km2)"
+    },
+    {
+      "name": "Amity",
+      "designation": "City (second class)",
+      "primary_county": "Clark",
+      "population": 681,
+      "incorporated": "212.1/sq mi (81.9/km2)"
+    },
+    {
+      "name": "Anthonyville",
+      "designation": "Town",
+      "primary_county": "Crittenden",
+      "population": 135,
+      "incorporated": "1,753.2/sq mi (676.9/km2)"
+    },
+    {
+      "name": "Antoine",
+      "designation": "Town",
+      "primary_county": "Pike",
+      "population": 113,
+      "incorporated": "223.3/sq mi (86.2/km2)"
+    },
+    {
+      "name": "Arkadelphia†",
+      "designation": "City (first class)",
+      "primary_county": "Clark",
+      "population": 10380,
+      "incorporated": "1,375.7/sq mi (531.2/km2)"
+    },
+    {
+      "name": "Arkansas City†",
+      "designation": "City (second class)",
+      "primary_county": "Desha",
+      "population": 376,
+      "incorporated": "764.2/sq mi (295.1/km2)"
+    },
+    {
+      "name": "Ash Flat†",
+      "designation": "City (second class)",
+      "primary_county": "SharpFulton",
+      "population": 1137,
+      "incorporated": "180.0/sq mi (69.5/km2)"
+    },
+    {
+      "name": "Ashdown†",
+      "designation": "City (first class)",
+      "primary_county": "Little River",
+      "population": 4261,
+      "incorporated": "597.0/sq mi (230.5/km2)"
+    },
+    {
+      "name": "Atkins",
+      "designation": "City (first class)",
+      "primary_county": "Pope",
+      "population": 2859,
+      "incorporated": "466.4/sq mi (180.1/km2)"
+    },
+    {
+      "name": "Aubrey",
+      "designation": "Town",
+      "primary_county": "Lee",
+      "population": 108,
+      "incorporated": "325.3/sq mi (125.6/km2)"
+    },
+    {
+      "name": "Augusta†",
+      "designation": "City (second class)",
+      "primary_county": "Woodruff",
+      "population": 1998,
+      "incorporated": "964.3/sq mi (372.3/km2)"
+    },
+    {
+      "name": "Austin",
+      "designation": "City (second class)",
+      "primary_county": "Lonoke",
+      "population": 3460,
+      "incorporated": "1,117.6/sq mi (431.5/km2)"
+    },
+    {
+      "name": "Avoca",
+      "designation": "Town",
+      "primary_county": "Benton",
+      "population": 487,
+      "incorporated": "259.7/sq mi (100.3/km2)"
+    },
+    {
+      "name": "Bald Knob",
+      "designation": "City (first class)",
+      "primary_county": "White",
+      "population": 2522,
+      "incorporated": "509.0/sq mi (196.5/km2)"
+    },
+    {
+      "name": "Banks",
+      "designation": "Town",
+      "primary_county": "Bradley",
+      "population": 87,
+      "incorporated": "231.4/sq mi (89.3/km2)"
+    },
+    {
+      "name": "Barling",
+      "designation": "City (first class)",
+      "primary_county": "Sebastian",
+      "population": 4782,
+      "incorporated": "465.7/sq mi (179.8/km2)"
+    },
+    {
+      "name": "Bassett",
+      "designation": "Town",
+      "primary_county": "Mississippi",
+      "population": 124,
+      "incorporated": "506.1/sq mi (195.4/km2)"
+    },
+    {
+      "name": "Batesville†",
+      "designation": "City (first class)",
+      "primary_county": "Independence",
+      "population": 11191,
+      "incorporated": "965.2/sq mi (372.6/km2)"
+    },
+    {
+      "name": "Bauxite",
+      "designation": "Town",
+      "primary_county": "Saline",
+      "population": 629,
+      "incorporated": "206.6/sq mi (79.8/km2)"
+    },
+    {
+      "name": "Bay",
+      "designation": "City (second class)",
+      "primary_county": "Craighead",
+      "population": 1876,
+      "incorporated": "607.5/sq mi (234.6/km2)"
+    },
+    {
+      "name": "Bearden",
+      "designation": "City (second class)",
+      "primary_county": "Ouachita",
+      "population": 776,
+      "incorporated": "480.8/sq mi (185.6/km2)"
+    },
+    {
+      "name": "Beaver",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "population": 67,
+      "incorporated": "212.7/sq mi (82.1/km2)"
+    },
+    {
+      "name": "Beebe",
+      "designation": "City (first class)",
+      "primary_county": "White",
+      "population": 8437,
+      "incorporated": "831.7/sq mi (321.1/km2)"
+    },
+    {
+      "name": "Beedeville",
+      "designation": "Town",
+      "primary_county": "Jackson",
+      "population": 84,
+      "incorporated": "73.7/sq mi (28.5/km2)"
+    },
+    {
+      "name": "Bella Vista",
+      "designation": "City (first class)",
+      "primary_county": "Benton",
+      "population": 30104,
+      "incorporated": "664.5/sq mi (256.6/km2)"
+    },
+    {
+      "name": "Bellefonte",
+      "designation": "Town",
+      "primary_county": "Boone",
+      "population": 411,
+      "incorporated": "660.8/sq mi (255.1/km2)"
+    },
+    {
+      "name": "Belleville",
+      "designation": "City (second class)",
+      "primary_county": "Yell",
+      "population": 312,
+      "incorporated": "167.1/sq mi (64.5/km2)"
+    },
+    {
+      "name": "Ben Lomond",
+      "designation": "Town",
+      "primary_county": "Sevier",
+      "population": 140,
+      "incorporated": "35.7/sq mi (13.8/km2)"
+    },
+    {
+      "name": "Benton†",
+      "designation": "City (first class)",
+      "primary_county": "Saline",
+      "population": 35014,
+      "incorporated": "1,530.1/sq mi (590.8/km2)"
+    },
+    {
+      "name": "Bentonville†",
+      "designation": "City (first class)",
+      "primary_county": "Benton",
+      "population": 54164,
+      "incorporated": "1,600.4/sq mi (617.9/km2)"
+    },
+    {
+      "name": "Bergman",
+      "designation": "Town",
+      "primary_county": "Boone",
+      "population": 426,
+      "incorporated": "326.4/sq mi (126.0/km2)"
+    },
+    {
+      "name": "Berryville†",
+      "designation": "City (first class)",
+      "primary_county": "Carroll",
+      "population": 5682,
+      "incorporated": "923.9/sq mi (356.7/km2)"
+    },
+    {
+      "name": "Bethel Heights[a]",
+      "designation": "City (second class)",
+      "primary_county": "Benton",
+      "population": 3015,
+      "incorporated": "1,435.0/sq mi (554.1/km2)"
+    },
+    {
+      "name": "Big Flat",
+      "designation": "Town",
+      "primary_county": "Baxter",
+      "population": 88,
+      "incorporated": "82.5/sq mi (31.8/km2)"
+    },
+    {
+      "name": "Bigelow",
+      "designation": "Town",
+      "primary_county": "Perry",
+      "population": 352,
+      "incorporated": "368.2/sq mi (142.2/km2)"
+    },
+    {
+      "name": "Biggers",
+      "designation": "Town",
+      "primary_county": "Randolph",
+      "population": 305,
+      "incorporated": "304.4/sq mi (117.5/km2)"
+    },
+    {
+      "name": "Birdsong",
+      "designation": "Town",
+      "primary_county": "Mississippi",
+      "population": 32,
+      "incorporated": "158.4/sq mi (61.2/km2)"
+    },
+    {
+      "name": "Black Oak",
+      "designation": "Town",
+      "primary_county": "Craighead",
+      "population": 233,
+      "incorporated": "557.4/sq mi (215.2/km2)"
+    },
+    {
+      "name": "Black Rock",
+      "designation": "City (second class)",
+      "primary_county": "Lawrence",
+      "population": 590,
+      "incorporated": "179.5/sq mi (69.3/km2)"
+    },
+    {
+      "name": "Black Springs",
+      "designation": "Town",
+      "primary_county": "Montgomery",
+      "population": 96,
+      "incorporated": "215.7/sq mi (83.3/km2)"
+    },
+    {
+      "name": "Blevins",
+      "designation": "City (second class)",
+      "primary_county": "Hempstead",
+      "population": 288,
+      "incorporated": "289.7/sq mi (111.9/km2)"
+    },
+    {
+      "name": "Blue Eye",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "population": 46,
+      "incorporated": "613.3/sq mi (236.8/km2)"
+    },
+    {
+      "name": "Blue Mountain",
+      "designation": "Town",
+      "primary_county": "Logan",
+      "population": 88,
+      "incorporated": "82.6/sq mi (31.9/km2)"
+    },
+    {
+      "name": "Bluff City",
+      "designation": "Town",
+      "primary_county": "Nevada",
+      "population": 118,
+      "incorporated": "50.8/sq mi (19.6/km2)"
+    },
+    {
+      "name": "Blytheville†",
+      "designation": "City (first class)",
+      "primary_county": "Mississippi",
+      "population": 13406,
+      "incorporated": "646.4/sq mi (249.6/km2)"
+    },
+    {
+      "name": "Bodcaw",
+      "designation": "Town",
+      "primary_county": "Nevada",
+      "population": 121,
+      "incorporated": "40.3/sq mi (15.6/km2)"
+    },
+    {
+      "name": "Bonanza",
+      "designation": "City (second class)",
+      "primary_county": "Sebastian",
+      "population": 587,
+      "incorporated": "210.6/sq mi (81.3/km2)"
+    },
+    {
+      "name": "Bono",
+      "designation": "City (second class)",
+      "primary_county": "Craighead",
+      "population": 2409,
+      "incorporated": "904.3/sq mi (349.1/km2)"
+    },
+    {
+      "name": "Booneville†",
+      "designation": "City (first class)",
+      "primary_county": "Logan",
+      "population": 3809,
+      "incorporated": "965.8/sq mi (372.9/km2)"
+    },
+    {
+      "name": "Bradford",
+      "designation": "City (second class)",
+      "primary_county": "White",
+      "population": 678,
+      "incorporated": "782.0/sq mi (301.9/km2)"
+    },
+    {
+      "name": "Bradley",
+      "designation": "City (second class)",
+      "primary_county": "Lafayette",
+      "population": 405,
+      "incorporated": "443.6/sq mi (171.3/km2)"
+    },
+    {
+      "name": "Branch",
+      "designation": "City (second class)",
+      "primary_county": "Franklin",
+      "population": 296,
+      "incorporated": "94.8/sq mi (36.6/km2)"
+    },
+    {
+      "name": "Briarcliff",
+      "designation": "City (second class)",
+      "primary_county": "Baxter",
+      "population": 236,
+      "incorporated": "104.8/sq mi (40.5/km2)"
+    },
+    {
+      "name": "Brinkley",
+      "designation": "City (first class)",
+      "primary_county": "Monroe",
+      "population": 2700,
+      "incorporated": "474.9/sq mi (183.3/km2)"
+    },
+    {
+      "name": "Brookland",
+      "designation": "City (second class)",
+      "primary_county": "Craighead",
+      "population": 4064,
+      "incorporated": "521.1/sq mi (201.2/km2)"
+    },
+    {
+      "name": "Bryant",
+      "designation": "City (first class)",
+      "primary_county": "Saline",
+      "population": 20663,
+      "incorporated": "1,008.2/sq mi (389.3/km2)"
+    },
+    {
+      "name": "Buckner",
+      "designation": "City (second class)",
+      "primary_county": "Lafayette",
+      "population": 165,
+      "incorporated": "140.3/sq mi (54.2/km2)"
+    },
+    {
+      "name": "Bull Shoals",
+      "designation": "City (second class)",
+      "primary_county": "Marion",
+      "population": 1952,
+      "incorporated": "398.2/sq mi (153.7/km2)"
+    },
+    {
+      "name": "Burdette",
+      "designation": "Town",
+      "primary_county": "Mississippi",
+      "population": 140,
+      "incorporated": "190.0/sq mi (73.3/km2)"
+    },
+    {
+      "name": "Cabot",
+      "designation": "City (first class)",
+      "primary_county": "Lonoke",
+      "population": 26569,
+      "incorporated": "1,285.6/sq mi (496.4/km2)"
+    },
+    {
+      "name": "Caddo Valley",
+      "designation": "City (second class)",
+      "primary_county": "Clark",
+      "population": 595,
+      "incorporated": "192.1/sq mi (74.2/km2)"
+    },
+    {
+      "name": "Caldwell",
+      "designation": "Town",
+      "primary_county": "St. Francis",
+      "population": 451,
+      "incorporated": "141.6/sq mi (54.7/km2)"
+    },
+    {
+      "name": "Cale",
+      "designation": "Town",
+      "primary_county": "Nevada",
+      "population": 73,
+      "incorporated": "75.6/sq mi (29.2/km2)"
+    },
+    {
+      "name": "Calico Rock",
+      "designation": "City (second class)",
+      "primary_county": "Izard",
+      "population": 888,
+      "incorporated": "186.7/sq mi (72.1/km2)"
+    },
+    {
+      "name": "Calion",
+      "designation": "City (second class)",
+      "primary_county": "Union",
+      "population": 429,
+      "incorporated": "400.2/sq mi (154.5/km2)"
+    },
+    {
+      "name": "Camden†",
+      "designation": "City (first class)",
+      "primary_county": "Ouachita",
+      "population": 10612,
+      "incorporated": "642.1/sq mi (247.9/km2)"
+    },
+    {
+      "name": "Cammack Village",
+      "designation": "City (second class)",
+      "primary_county": "Pulaski",
+      "population": 778,
+      "incorporated": "2,749.1/sq mi (1,061.4/km2)"
+    },
+    {
+      "name": "Campbell Station",
+      "designation": "City (second class)",
+      "primary_county": "Jackson",
+      "population": 232,
+      "incorporated": "136.2/sq mi (52.6/km2)"
+    },
+    {
+      "name": "Caraway",
+      "designation": "City (second class)",
+      "primary_county": "Craighead",
+      "population": 1133,
+      "incorporated": "491.8/sq mi (189.9/km2)"
+    },
+    {
+      "name": "Carlisle",
+      "designation": "City (second class)",
+      "primary_county": "Lonoke",
+      "population": 2033,
+      "incorporated": "419.6/sq mi (162.0/km2)"
+    },
+    {
+      "name": "Carthage",
+      "designation": "City (second class)",
+      "primary_county": "Dallas",
+      "population": 222,
+      "incorporated": "224.5/sq mi (86.7/km2)"
+    },
+    {
+      "name": "Casa",
+      "designation": "Town",
+      "primary_county": "Perry",
+      "population": 120,
+      "incorporated": "110.0/sq mi (42.5/km2)"
+    },
+    {
+      "name": "Cash",
+      "designation": "City (second class)",
+      "primary_county": "Craighead",
+      "population": 280,
+      "incorporated": "762.9/sq mi (294.6/km2)"
+    },
+    {
+      "name": "Caulksville",
+      "designation": "Town",
+      "primary_county": "Logan",
+      "population": 154,
+      "incorporated": "114.2/sq mi (44.1/km2)"
+    },
+    {
+      "name": "Cave City",
+      "designation": "City (second class)",
+      "primary_county": "SharpIndependence",
+      "population": 1922,
+      "incorporated": "751.7/sq mi (290.2/km2)"
+    },
+    {
+      "name": "Cave Springs",
+      "designation": "City (second class)",
+      "primary_county": "Benton",
+      "population": 5495,
+      "incorporated": "701.0/sq mi (270.7/km2)"
+    },
+    {
+      "name": "Cedarville",
+      "designation": "City (second class)",
+      "primary_county": "Crawford",
+      "population": 1424,
+      "incorporated": "160.3/sq mi (61.9/km2)"
+    },
+    {
+      "name": "Centerton",
+      "designation": "City (first class)",
+      "primary_county": "Benton",
+      "population": 17792,
+      "incorporated": "1,310.4/sq mi (505.9/km2)"
+    },
+    {
+      "name": "Central City",
+      "designation": "Town",
+      "primary_county": "Sebastian",
+      "population": 461,
+      "incorporated": "207.3/sq mi (80.0/km2)"
+    },
+    {
+      "name": "Charleston†",
+      "designation": "City (second class)",
+      "primary_county": "Franklin",
+      "population": 2588,
+      "incorporated": "675.0/sq mi (260.6/km2)"
+    },
+    {
+      "name": "Cherokee Village",
+      "designation": "City (first class)",
+      "primary_county": "SharpFulton",
+      "population": 4780,
+      "incorporated": "234.0/sq mi (90.3/km2)"
+    },
+    {
+      "name": "Cherry Valley",
+      "designation": "City (second class)",
+      "primary_county": "Cross",
+      "population": 575,
+      "incorporated": "750.7/sq mi (289.8/km2)"
+    },
+    {
+      "name": "Chester",
+      "designation": "Town",
+      "primary_county": "Crawford",
+      "population": 144,
+      "incorporated": "282.4/sq mi (109.0/km2)"
+    },
+    {
+      "name": "Chidester",
+      "designation": "City (second class)",
+      "primary_county": "Ouachita",
+      "population": 253,
+      "incorporated": "47.6/sq mi (18.4/km2)"
+    },
+    {
+      "name": "Clarendon†",
+      "designation": "City (second class)",
+      "primary_county": "Monroe",
+      "population": 1526,
+      "incorporated": "833.9/sq mi (322.0/km2)"
+    },
+    {
+      "name": "Clarkedale",
+      "designation": "City (second class)",
+      "primary_county": "Crittenden",
+      "population": 336,
+      "incorporated": "29.4/sq mi (11.3/km2)"
+    },
+    {
+      "name": "Clarksville†",
+      "designation": "City (first class)",
+      "primary_county": "Johnson",
+      "population": 9381,
+      "incorporated": "506.3/sq mi (195.5/km2)"
+    },
+    {
+      "name": "Clinton†",
+      "designation": "City (first class)",
+      "primary_county": "Van Buren",
+      "population": 2509,
+      "incorporated": "186.5/sq mi (72.0/km2)"
+    },
+    {
+      "name": "Coal Hill",
+      "designation": "City (second class)",
+      "primary_county": "Johnson",
+      "population": 820,
+      "incorporated": "279.8/sq mi (108.0/km2)"
+    },
+    {
+      "name": "Colt",
+      "designation": "City (second class)",
+      "primary_county": "St. Francis",
+      "population": 293,
+      "incorporated": "232.9/sq mi (89.9/km2)"
+    },
+    {
+      "name": "Concord",
+      "designation": "Town",
+      "primary_county": "Cleburne",
+      "population": 190,
+      "incorporated": "61.7/sq mi (23.8/km2)"
+    },
+    {
+      "name": "Conway†",
+      "designation": "City (first class)",
+      "primary_county": "Faulkner",
+      "population": 64134,
+      "incorporated": "1,390.9/sq mi (537.0/km2)"
+    },
+    {
+      "name": "Corinth",
+      "designation": "Town",
+      "primary_county": "Yell",
+      "population": 45,
+      "incorporated": "14.6/sq mi (5.6/km2)"
+    },
+    {
+      "name": "Corning†",
+      "designation": "City (first class)",
+      "primary_county": "Clay",
+      "population": 3227,
+      "incorporated": "879.1/sq mi (339.4/km2)"
+    },
+    {
+      "name": "Cotter",
+      "designation": "City (second class)",
+      "primary_county": "Baxter",
+      "population": 886,
+      "incorporated": "362.1/sq mi (139.8/km2)"
+    },
+    {
+      "name": "Cotton Plant",
+      "designation": "City (second class)",
+      "primary_county": "Woodruff",
+      "population": 529,
+      "incorporated": "509.1/sq mi (196.6/km2)"
+    },
+    {
+      "name": "Cove",
+      "designation": "Town",
+      "primary_county": "Polk",
+      "population": 319,
+      "incorporated": "199.6/sq mi (77.1/km2)"
+    },
+    {
+      "name": "Coy",
+      "designation": "Town",
+      "primary_county": "Lonoke",
+      "population": 87,
+      "incorporated": "129.5/sq mi (50.0/km2)"
+    },
+    {
+      "name": "Crawfordsville",
+      "designation": "Town",
+      "primary_county": "Crittenden",
+      "population": 462,
+      "incorporated": "826.5/sq mi (319.1/km2)"
+    },
+    {
+      "name": "Crossett",
+      "designation": "City (first class)",
+      "primary_county": "Ashley",
+      "population": 4822,
+      "incorporated": "832.5/sq mi (321.4/km2)"
+    },
+    {
+      "name": "Cushman",
+      "designation": "City (second class)",
+      "primary_county": "Independence",
+      "population": 433,
+      "incorporated": "106.2/sq mi (41.0/km2)"
+    },
+    {
+      "name": "Daisy",
+      "designation": "Town",
+      "primary_county": "Pike",
+      "population": 88,
+      "incorporated": "77.1/sq mi (29.8/km2)"
+    },
+    {
+      "name": "Damascus",
+      "designation": "Town",
+      "primary_county": "Van BurenFaulkner",
+      "population": 382,
+      "incorporated": "205.2/sq mi (79.2/km2)"
+    },
+    {
+      "name": "Danville†",
+      "designation": "City (second class)",
+      "primary_county": "Yell",
+      "population": 2028,
+      "incorporated": "473.8/sq mi (182.9/km2)"
+    },
+    {
+      "name": "Dardanelle†",
+      "designation": "City (first class)",
+      "primary_county": "Yell",
+      "population": 4517,
+      "incorporated": "1,239.6/sq mi (478.6/km2)"
+    },
+    {
+      "name": "Datto",
+      "designation": "Town",
+      "primary_county": "Clay",
+      "population": 65,
+      "incorporated": "104.7/sq mi (40.4/km2)"
+    },
+    {
+      "name": "De Queen†",
+      "designation": "City (first class)",
+      "primary_county": "Sevier",
+      "population": 6105,
+      "incorporated": "1,017.2/sq mi (392.7/km2)"
+    },
+    {
+      "name": "De Valls Bluff†",
+      "designation": "City (first class)",
+      "primary_county": "Prairie",
+      "population": 520,
+      "incorporated": "476.2/sq mi (183.9/km2)"
+    },
+    {
+      "name": "Decatur",
+      "designation": "City (second class)",
+      "primary_county": "Benton",
+      "population": 1773,
+      "incorporated": "396.6/sq mi (153.1/km2)"
+    },
+    {
+      "name": "Delaplaine",
+      "designation": "Town",
+      "primary_county": "Greene",
+      "population": 64,
+      "incorporated": "57.9/sq mi (22.3/km2)"
+    },
+    {
+      "name": "Delight",
+      "designation": "City (second class)",
+      "primary_county": "Pike",
+      "population": 288,
+      "incorporated": "522.7/sq mi (201.8/km2)"
+    },
+    {
+      "name": "Dell",
+      "designation": "Town",
+      "primary_county": "Mississippi",
+      "population": 194,
+      "incorporated": "210.6/sq mi (81.3/km2)"
+    },
+    {
+      "name": "Denning",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "population": 200,
+      "incorporated": "185.7/sq mi (71.7/km2)"
+    },
+    {
+      "name": "Dermott",
+      "designation": "City (second class)",
+      "primary_county": "Chicot",
+      "population": 2021,
+      "incorporated": "590.8/sq mi (228.1/km2)"
+    },
+    {
+      "name": "Des Arc†",
+      "designation": "City (second class)",
+      "primary_county": "Prairie",
+      "population": 1905,
+      "incorporated": "906.3/sq mi (349.9/km2)"
+    },
+    {
+      "name": "DeWitt†",
+      "designation": "City (first class)",
+      "primary_county": "Arkansas",
+      "population": 3056,
+      "incorporated": "1,021.4/sq mi (394.4/km2)"
+    },
+    {
+      "name": "Diamond City",
+      "designation": "City (second class)",
+      "primary_county": "Boone",
+      "population": 757,
+      "incorporated": "268.7/sq mi (103.8/km2)"
+    },
+    {
+      "name": "Diaz",
+      "designation": "City (second class)",
+      "primary_county": "Jackson",
+      "population": 1224,
+      "incorporated": "205.0/sq mi (79.1/km2)"
+    },
+    {
+      "name": "Dierks",
+      "designation": "City (second class)",
+      "primary_county": "Howard",
+      "population": 916,
+      "incorporated": "477.3/sq mi (184.3/km2)"
+    },
+    {
+      "name": "Donaldson",
+      "designation": "Town",
+      "primary_county": "Hot Spring",
+      "population": 275,
+      "incorporated": "465.3/sq mi (179.7/km2)"
+    },
+    {
+      "name": "Dover",
+      "designation": "City (second class)",
+      "primary_county": "Pope",
+      "population": 1337,
+      "incorporated": "472.9/sq mi (182.6/km2)"
+    },
+    {
+      "name": "Dumas",
+      "designation": "City (first class)",
+      "primary_county": "Desha",
+      "population": 4001,
+      "incorporated": "1,376.8/sq mi (531.6/km2)"
+    },
+    {
+      "name": "Dyer",
+      "designation": "City (second class)",
+      "primary_county": "Crawford",
+      "population": 772,
+      "incorporated": "262.5/sq mi (101.4/km2)"
+    },
+    {
+      "name": "Dyess",
+      "designation": "Town",
+      "primary_county": "Mississippi",
+      "population": 339,
+      "incorporated": "352.8/sq mi (136.2/km2)"
+    },
+    {
+      "name": "Earle",
+      "designation": "City (second class)",
+      "primary_county": "Crittenden",
+      "population": 1831,
+      "incorporated": "563.9/sq mi (217.7/km2)"
+    },
+    {
+      "name": "East Camden",
+      "designation": "City (second class)",
+      "primary_county": "Ouachita",
+      "population": 798,
+      "incorporated": "1,102.2/sq mi (425.6/km2)"
+    },
+    {
+      "name": "Edmondson",
+      "designation": "Town",
+      "primary_county": "Crittenden",
+      "population": 243,
+      "incorporated": "81.2/sq mi (31.4/km2)"
+    },
+    {
+      "name": "Egypt",
+      "designation": "Town",
+      "primary_county": "Craighead",
+      "population": 113,
+      "incorporated": "336.3/sq mi (129.8/km2)"
+    },
+    {
+      "name": "El Dorado†",
+      "designation": "City (first class)",
+      "primary_county": "Union",
+      "population": 17756,
+      "incorporated": "1,096.0/sq mi (423.2/km2)"
+    },
+    {
+      "name": "Elaine",
+      "designation": "City (second class)",
+      "primary_county": "Phillips",
+      "population": 509,
+      "incorporated": "994.1/sq mi (383.8/km2)"
+    },
+    {
+      "name": "Elkins",
+      "designation": "City (first class)",
+      "primary_county": "Washington",
+      "population": 3602,
+      "incorporated": "929.8/sq mi (359.0/km2)"
+    },
+    {
+      "name": "Elm Springs",
+      "designation": "City (second class)",
+      "primary_county": "WashingtonBenton",
+      "population": 2361,
+      "incorporated": "396.7/sq mi (153.2/km2)"
+    },
+    {
+      "name": "Emerson",
+      "designation": "Town",
+      "primary_county": "Columbia",
+      "population": 293,
+      "incorporated": "295.7/sq mi (114.2/km2)"
+    },
+    {
+      "name": "Emmet",
+      "designation": "City (second class)",
+      "primary_county": "NevadaHempstead",
+      "population": 415,
+      "incorporated": "287.8/sq mi (111.1/km2)"
+    },
+    {
+      "name": "England",
+      "designation": "City (first class)",
+      "primary_county": "Lonoke",
+      "population": 2477,
+      "incorporated": "1,311.3/sq mi (506.3/km2)"
+    },
+    {
+      "name": "Enola",
+      "designation": "Town",
+      "primary_county": "Faulkner",
+      "population": 318,
+      "incorporated": "117.1/sq mi (45.2/km2)"
+    },
+    {
+      "name": "Etowah",
+      "designation": "Town",
+      "primary_county": "Mississippi",
+      "population": 254,
+      "incorporated": "42.8/sq mi (16.5/km2)"
+    },
+    {
+      "name": "Eudora",
+      "designation": "City (second class)",
+      "primary_county": "Chicot",
+      "population": 1728,
+      "incorporated": "558.7/sq mi (215.7/km2)"
+    },
+    {
+      "name": "Eureka Springs†",
+      "designation": "City (second class)",
+      "primary_county": "Carroll",
+      "population": 2166,
+      "incorporated": "320.5/sq mi (123.7/km2)"
+    },
+    {
+      "name": "Evening Shade",
+      "designation": "City (second class)",
+      "primary_county": "Sharp",
+      "population": 420,
+      "incorporated": "252.1/sq mi (97.3/km2)"
+    },
+    {
+      "name": "Everton",
+      "designation": "Town",
+      "primary_county": "Boone",
+      "population": 104,
+      "incorporated": "219.9/sq mi (84.9/km2)"
+    },
+    {
+      "name": "Fairfield Bay",
+      "designation": "City (second class)",
+      "primary_county": "Van BurenCleburne",
+      "population": 2108,
+      "incorporated": "139.6/sq mi (53.9/km2)"
+    },
+    {
+      "name": "Fargo",
+      "designation": "Town",
+      "primary_county": "Monroe",
+      "population": 57,
+      "incorporated": "124.7/sq mi (48.2/km2)"
+    },
+    {
+      "name": "Farmington",
+      "designation": "City (first class)",
+      "primary_county": "Washington",
+      "population": 7584,
+      "incorporated": "771.8/sq mi (298.0/km2)"
+    },
+    {
+      "name": "Fayetteville†",
+      "designation": "City (first class)",
+      "primary_county": "Washington",
+      "population": 93949,
+      "incorporated": "1,735.4/sq mi (670.0/km2)"
+    },
+    {
+      "name": "Felsenthal",
+      "designation": "Town",
+      "primary_county": "Union",
+      "population": 85,
+      "incorporated": "57.6/sq mi (22.2/km2)"
+    },
+    {
+      "name": "Fifty-Six",
+      "designation": "City (second class)",
+      "primary_county": "Stone",
+      "population": 158,
+      "incorporated": "76.4/sq mi (29.5/km2)"
+    },
+    {
+      "name": "Fisher",
+      "designation": "City (second class)",
+      "primary_county": "Poinsett",
+      "population": 180,
+      "incorporated": "594.1/sq mi (229.4/km2)"
+    },
+    {
+      "name": "Flippin",
+      "designation": "City (second class)",
+      "primary_county": "Marion",
+      "population": 1345,
+      "incorporated": "714.3/sq mi (275.8/km2)"
+    },
+    {
+      "name": "Fordyce†",
+      "designation": "City (first class)",
+      "primary_county": "Dallas",
+      "population": 3396,
+      "incorporated": "498.4/sq mi (192.4/km2)"
+    },
+    {
+      "name": "Foreman",
+      "designation": "City (second class)",
+      "primary_county": "Little River",
+      "population": 977,
+      "incorporated": "494.2/sq mi (190.8/km2)"
+    },
+    {
+      "name": "Forrest City†",
+      "designation": "City (first class)",
+      "primary_county": "St. Francis",
+      "population": 13015,
+      "incorporated": "642.9/sq mi (248.2/km2)"
+    },
+    {
+      "name": "Fort Smith†",
+      "designation": "City (first class)",
+      "primary_county": "Sebastian",
+      "population": 89142,
+      "incorporated": "1,393.0/sq mi (537.8/km2)"
+    },
+    {
+      "name": "Fouke",
+      "designation": "City (second class)",
+      "primary_county": "Miller",
+      "population": 808,
+      "incorporated": "595.9/sq mi (230.1/km2)"
+    },
+    {
+      "name": "Fountain Hill",
+      "designation": "Town",
+      "primary_county": "Ashley",
+      "population": 108,
+      "incorporated": "190.1/sq mi (73.4/km2)"
+    },
+    {
+      "name": "Fountain Lake",
+      "designation": "Town",
+      "primary_county": "Garland",
+      "population": 475,
+      "incorporated": "111.8/sq mi (43.2/km2)"
+    },
+    {
+      "name": "Fourche",
+      "designation": "Town",
+      "primary_county": "Perry",
+      "population": 56,
+      "incorporated": "281.4/sq mi (108.7/km2)"
+    },
+    {
+      "name": "Franklin",
+      "designation": "Town",
+      "primary_county": "Izard",
+      "population": 191,
+      "incorporated": "89.5/sq mi (34.6/km2)"
+    },
+    {
+      "name": "Fredonia (Biscoe)",
+      "designation": "Town",
+      "primary_county": "Prairie",
+      "population": 305,
+      "incorporated": "319.4/sq mi (123.3/km2)"
+    },
+    {
+      "name": "Friendship",
+      "designation": "Town",
+      "primary_county": "Hot Spring",
+      "population": 158,
+      "incorporated": "221.9/sq mi (85.7/km2)"
+    },
+    {
+      "name": "Fulton",
+      "designation": "Town",
+      "primary_county": "Hempstead",
+      "population": 115,
+      "incorporated": "646.1/sq mi (249.4/km2)"
+    },
+    {
+      "name": "Garfield",
+      "designation": "Town",
+      "primary_county": "Benton",
+      "population": 593,
+      "incorporated": "191.8/sq mi (74.1/km2)"
+    },
+    {
+      "name": "Garland",
+      "designation": "Town",
+      "primary_county": "Miller",
+      "population": 195,
+      "incorporated": "222.3/sq mi (85.8/km2)"
+    },
+    {
+      "name": "Garner",
+      "designation": "Town",
+      "primary_county": "White",
+      "population": 211,
+      "incorporated": "267.4/sq mi (103.3/km2)"
+    },
+    {
+      "name": "Gassville",
+      "designation": "City (second class)",
+      "primary_county": "Baxter",
+      "population": 2171,
+      "incorporated": "632.8/sq mi (244.3/km2)"
+    },
+    {
+      "name": "Gateway",
+      "designation": "Town",
+      "primary_county": "Benton",
+      "population": 436,
+      "incorporated": "66.5/sq mi (25.7/km2)"
+    },
+    {
+      "name": "Gentry",
+      "designation": "City (first class)",
+      "primary_county": "Benton",
+      "population": 3790,
+      "incorporated": "732.5/sq mi (282.8/km2)"
+    },
+    {
+      "name": "Georgetown",
+      "designation": "Town",
+      "primary_county": "White",
+      "population": 81,
+      "incorporated": "280.3/sq mi (108.2/km2)"
+    },
+    {
+      "name": "Gilbert",
+      "designation": "Town",
+      "primary_county": "Searcy",
+      "population": 26,
+      "incorporated": "70.8/sq mi (27.4/km2)"
+    },
+    {
+      "name": "Gillett",
+      "designation": "City (second class)",
+      "primary_county": "Arkansas",
+      "population": 564,
+      "incorporated": "566.3/sq mi (218.6/km2)"
+    },
+    {
+      "name": "Gillham",
+      "designation": "Town",
+      "primary_county": "Sevier",
+      "population": 157,
+      "incorporated": "171.0/sq mi (66.0/km2)"
+    },
+    {
+      "name": "Gilmore",
+      "designation": "City (second class)",
+      "primary_county": "Crittenden",
+      "population": 176,
+      "incorporated": "13.0/sq mi (5.0/km2)"
+    },
+    {
+      "name": "Glenwood",
+      "designation": "City (second class)",
+      "primary_county": "Pike",
+      "population": 2068,
+      "incorporated": "232.1/sq mi (89.6/km2)"
+    },
+    {
+      "name": "Goshen",
+      "designation": "City (second class)",
+      "primary_county": "Washington",
+      "population": 2102,
+      "incorporated": "185.8/sq mi (71.7/km2)"
+    },
+    {
+      "name": "Gosnell",
+      "designation": "City (first class)",
+      "primary_county": "Mississippi",
+      "population": 2910,
+      "incorporated": "1,743.6/sq mi (673.2/km2)"
+    },
+    {
+      "name": "Gould",
+      "designation": "City (second class)",
+      "primary_county": "Lincoln",
+      "population": 663,
+      "incorporated": "427.5/sq mi (165.0/km2)"
+    },
+    {
+      "name": "Grady",
+      "designation": "City (second class)",
+      "primary_county": "Lincoln",
+      "population": 305,
+      "incorporated": "164.4/sq mi (63.5/km2)"
+    },
+    {
+      "name": "Grannis",
+      "designation": "City (second class)",
+      "primary_county": "Polk",
+      "population": 496,
+      "incorporated": "62.5/sq mi (24.1/km2)"
+    },
+    {
+      "name": "Gravette",
+      "designation": "City (second class)",
+      "primary_county": "Benton",
+      "population": 3547,
+      "incorporated": "232.2/sq mi (89.6/km2)"
+    },
+    {
+      "name": "Green Forest",
+      "designation": "City (first class)",
+      "primary_county": "Carroll",
+      "population": 2972,
+      "incorporated": "1,205.7/sq mi (465.5/km2)"
+    },
+    {
+      "name": "Greenbrier",
+      "designation": "City (first class)",
+      "primary_county": "Faulkner",
+      "population": 5707,
+      "incorporated": "719.2/sq mi (277.7/km2)"
+    },
+    {
+      "name": "Greenland",
+      "designation": "City (second class)",
+      "primary_county": "Washington",
+      "population": 1213,
+      "incorporated": "302.3/sq mi (116.7/km2)"
+    },
+    {
+      "name": "Greenway",
+      "designation": "City (second class)",
+      "primary_county": "Clay",
+      "population": 174,
+      "incorporated": "669.2/sq mi (258.4/km2)"
+    },
+    {
+      "name": "Greenwood†",
+      "designation": "City (first class)",
+      "primary_county": "Sebastian",
+      "population": 9516,
+      "incorporated": "879.2/sq mi (339.4/km2)"
+    },
+    {
+      "name": "Greers Ferry",
+      "designation": "City (second class)",
+      "primary_county": "Cleburne",
+      "population": 821,
+      "incorporated": "113.7/sq mi (43.9/km2)"
+    },
+    {
+      "name": "Griffithville",
+      "designation": "Town",
+      "primary_county": "White",
+      "population": 155,
+      "incorporated": "282.8/sq mi (109.2/km2)"
+    },
+    {
+      "name": "Grubbs",
+      "designation": "City (second class)",
+      "primary_county": "Jackson",
+      "population": 301,
+      "incorporated": "531.8/sq mi (205.3/km2)"
+    },
+    {
+      "name": "Guion",
+      "designation": "Town",
+      "primary_county": "Izard",
+      "population": 68,
+      "incorporated": "121.9/sq mi (47.1/km2)"
+    },
+    {
+      "name": "Gum Springs",
+      "designation": "Town",
+      "primary_county": "Clark",
+      "population": 91,
+      "incorporated": "232.7/sq mi (89.9/km2)"
+    },
+    {
+      "name": "Gurdon",
+      "designation": "City (second class)",
+      "primary_county": "Clark",
+      "population": 1840,
+      "incorporated": "758.8/sq mi (293.0/km2)"
+    },
+    {
+      "name": "Guy",
+      "designation": "City (second class)",
+      "primary_county": "Faulkner",
+      "population": 752,
+      "incorporated": "111.0/sq mi (42.9/km2)"
+    },
+    {
+      "name": "Hackett",
+      "designation": "City (second class)",
+      "primary_county": "Sebastian",
+      "population": 784,
+      "incorporated": "546.3/sq mi (210.9/km2)"
+    },
+    {
+      "name": "Hamburg†",
+      "designation": "City (first class)",
+      "primary_county": "Ashley",
+      "population": 2536,
+      "incorporated": "738.3/sq mi (285.1/km2)"
+    },
+    {
+      "name": "Hampton†",
+      "designation": "City (second class)",
+      "primary_county": "Calhoun",
+      "population": 1181,
+      "incorporated": "360.3/sq mi (139.1/km2)"
+    },
+    {
+      "name": "Hardy",
+      "designation": "City (second class)",
+      "primary_county": "Sharp",
+      "population": 743,
+      "incorporated": "147.0/sq mi (56.7/km2)"
+    },
+    {
+      "name": "Harrell",
+      "designation": "Town",
+      "primary_county": "Calhoun",
+      "population": 210,
+      "incorporated": "380.4/sq mi (146.9/km2)"
+    },
+    {
+      "name": "Harrisburg†",
+      "designation": "City (second class)",
+      "primary_county": "Poinsett",
+      "population": 2212,
+      "incorporated": "911.8/sq mi (352.0/km2)"
+    },
+    {
+      "name": "Harrison†",
+      "designation": "City (first class)",
+      "primary_county": "Boone",
+      "population": 13069,
+      "incorporated": "1,166.4/sq mi (450.3/km2)"
+    },
+    {
+      "name": "Hartford",
+      "designation": "City (second class)",
+      "primary_county": "Sebastian",
+      "population": 499,
+      "incorporated": "264.9/sq mi (102.3/km2)"
+    },
+    {
+      "name": "Hartman",
+      "designation": "City (second class)",
+      "primary_county": "Johnson",
+      "population": 516,
+      "incorporated": "326.6/sq mi (126.1/km2)"
+    },
+    {
+      "name": "Haskell",
+      "designation": "City (first class)",
+      "primary_county": "Saline",
+      "population": 3956,
+      "incorporated": "804.4/sq mi (310.6/km2)"
+    },
+    {
+      "name": "Hatfield",
+      "designation": "Town",
+      "primary_county": "Polk",
+      "population": 345,
+      "incorporated": "258.6/sq mi (99.9/km2)"
+    },
+    {
+      "name": "Havana",
+      "designation": "City (second class)",
+      "primary_county": "Yell",
+      "population": 239,
+      "incorporated": "397.7/sq mi (153.5/km2)"
+    },
+    {
+      "name": "Haynes",
+      "designation": "Town",
+      "primary_county": "Lee",
+      "population": 122,
+      "incorporated": "349.6/sq mi (135.0/km2)"
+    },
+    {
+      "name": "Hazen",
+      "designation": "City (second class)",
+      "primary_county": "Prairie",
+      "population": 1481,
+      "incorporated": "421.0/sq mi (162.5/km2)"
+    },
+    {
+      "name": "Heber Springs†",
+      "designation": "City (first class)",
+      "primary_county": "Cleburne",
+      "population": 6969,
+      "incorporated": "766.3/sq mi (295.9/km2)"
+    },
+    {
+      "name": "Hector",
+      "designation": "Town",
+      "primary_county": "Pope",
+      "population": 411,
+      "incorporated": "179.8/sq mi (69.4/km2)"
+    },
+    {
+      "name": "Helena-West Helena†",
+      "designation": "City (first class)",
+      "primary_county": "Phillips",
+      "population": 9519,
+      "incorporated": "727.0/sq mi (280.7/km2)"
+    },
+    {
+      "name": "Hermitage",
+      "designation": "City (second class)",
+      "primary_county": "Bradley",
+      "population": 525,
+      "incorporated": "492.0/sq mi (190.0/km2)"
+    },
+    {
+      "name": "Hickory Ridge",
+      "designation": "City (second class)",
+      "primary_county": "Cross",
+      "population": 228,
+      "incorporated": "351.9/sq mi (135.9/km2)"
+    },
+    {
+      "name": "Higden",
+      "designation": "Town",
+      "primary_county": "Cleburne",
+      "population": 114,
+      "incorporated": "235.1/sq mi (90.8/km2)"
+    },
+    {
+      "name": "Higginson",
+      "designation": "City (second class)",
+      "primary_county": "White",
+      "population": 705,
+      "incorporated": "555.1/sq mi (214.3/km2)"
+    },
+    {
+      "name": "Highfill",
+      "designation": "Town",
+      "primary_county": "Benton",
+      "population": 1587,
+      "incorporated": "88.1/sq mi (34.0/km2)"
+    },
+    {
+      "name": "Highland",
+      "designation": "City (second class)",
+      "primary_county": "Sharp",
+      "population": 982,
+      "incorporated": "112.4/sq mi (43.4/km2)"
+    },
+    {
+      "name": "Hindsville",
+      "designation": "Town",
+      "primary_county": "Madison",
+      "population": 90,
+      "incorporated": "241.9/sq mi (93.4/km2)"
+    },
+    {
+      "name": "Holland",
+      "designation": "City (second class)",
+      "primary_county": "Faulkner",
+      "population": 586,
+      "incorporated": "87.1/sq mi (33.6/km2)"
+    },
+    {
+      "name": "Holly Grove",
+      "designation": "City (second class)",
+      "primary_county": "Monroe",
+      "population": 460,
+      "incorporated": "459.5/sq mi (177.4/km2)"
+    },
+    {
+      "name": "Hope†",
+      "designation": "City (first class)",
+      "primary_county": "Hempstead",
+      "population": 8952,
+      "incorporated": "838.0/sq mi (323.5/km2)"
+    },
+    {
+      "name": "Horatio",
+      "designation": "City (second class)",
+      "primary_county": "Sevier",
+      "population": 920,
+      "incorporated": "515.7/sq mi (199.1/km2)"
+    },
+    {
+      "name": "Horseshoe Bend",
+      "designation": "City (second class)",
+      "primary_county": "IzardFultonSharp",
+      "population": 2440,
+      "incorporated": "182.6/sq mi (70.5/km2)"
+    },
+    {
+      "name": "Horseshoe Lake",
+      "designation": "Town",
+      "primary_county": "Crittenden",
+      "population": 264,
+      "incorporated": "1,725.5/sq mi (666.2/km2)"
+    },
+    {
+      "name": "Hot Springs†",
+      "designation": "City (first class)",
+      "primary_county": "Garland",
+      "population": 37930,
+      "incorporated": "1,012.2/sq mi (390.8/km2)"
+    },
+    {
+      "name": "Houston",
+      "designation": "Town",
+      "primary_county": "Perry",
+      "population": 143,
+      "incorporated": "141.3/sq mi (54.6/km2)"
+    },
+    {
+      "name": "Hoxie",
+      "designation": "City (first class)",
+      "primary_county": "Lawrence",
+      "population": 2598,
+      "incorporated": "389.7/sq mi (150.5/km2)"
+    },
+    {
+      "name": "Hughes",
+      "designation": "City (second class)",
+      "primary_county": "St. Francis",
+      "population": 1056,
+      "incorporated": "466.6/sq mi (180.2/km2)"
+    },
+    {
+      "name": "Humnoke",
+      "designation": "City (second class)",
+      "primary_county": "Lonoke",
+      "population": 219,
+      "incorporated": "697.5/sq mi (269.3/km2)"
+    },
+    {
+      "name": "Humphrey",
+      "designation": "City (second class)",
+      "primary_county": "ArkansasJefferson",
+      "population": 463,
+      "incorporated": "354.5/sq mi (136.9/km2)"
+    },
+    {
+      "name": "Hunter",
+      "designation": "Town",
+      "primary_county": "Woodruff",
+      "population": 103,
+      "incorporated": "166.7/sq mi (64.4/km2)"
+    },
+    {
+      "name": "Huntington",
+      "designation": "City (second class)",
+      "primary_county": "Sebastian",
+      "population": 490,
+      "incorporated": "727.0/sq mi (280.7/km2)"
+    },
+    {
+      "name": "Huntsville†",
+      "designation": "City (second class)",
+      "primary_county": "Madison",
+      "population": 2879,
+      "incorporated": "534.9/sq mi (206.5/km2)"
+    },
+    {
+      "name": "Huttig",
+      "designation": "City (second class)",
+      "primary_county": "Union",
+      "population": 448,
+      "incorporated": "150.4/sq mi (58.1/km2)"
+    },
+    {
+      "name": "Imboden",
+      "designation": "City (second class)",
+      "primary_county": "Lawrence",
+      "population": 640,
+      "incorporated": "502.7/sq mi (194.1/km2)"
+    },
+    {
+      "name": "Jacksonport",
+      "designation": "Town",
+      "primary_county": "Jackson",
+      "population": 150,
+      "incorporated": "398.9/sq mi (154.0/km2)"
+    },
+    {
+      "name": "Jacksonville",
+      "designation": "City (first class)",
+      "primary_county": "Pulaski",
+      "population": 29477,
+      "incorporated": "1,029.0/sq mi (397.3/km2)"
+    },
+    {
+      "name": "Jasper†",
+      "designation": "City (second class)",
+      "primary_county": "Newton",
+      "population": 547,
+      "incorporated": "573.4/sq mi (221.4/km2)"
+    },
+    {
+      "name": "Jennette",
+      "designation": "Town",
+      "primary_county": "Crittenden",
+      "population": 118,
+      "incorporated": "52.1/sq mi (20.1/km2)"
+    },
+    {
+      "name": "Jericho",
+      "designation": "Town",
+      "primary_county": "Crittenden",
+      "population": 98,
+      "incorporated": "319.2/sq mi (123.3/km2)"
+    },
+    {
+      "name": "Johnson",
+      "designation": "City (first class)",
+      "primary_county": "Washington",
+      "population": 3609,
+      "incorporated": "998.9/sq mi (385.7/km2)"
+    },
+    {
+      "name": "Joiner",
+      "designation": "City (second class)",
+      "primary_county": "Mississippi",
+      "population": 498,
+      "incorporated": "809.8/sq mi (312.6/km2)"
+    },
+    {
+      "name": "Jonesboro†",
+      "designation": "City (first class)",
+      "primary_county": "Craighead",
+      "population": 78576,
+      "incorporated": "980.0/sq mi (378.4/km2)"
+    },
+    {
+      "name": "Judsonia",
+      "designation": "City (second class)",
+      "primary_county": "White",
+      "population": 1854,
+      "incorporated": "642.2/sq mi (248.0/km2)"
+    },
+    {
+      "name": "Junction City",
+      "designation": "City (second class)",
+      "primary_county": "Union",
+      "population": 503,
+      "incorporated": "442.8/sq mi (171.0/km2)"
+    },
+    {
+      "name": "Keiser",
+      "designation": "City (second class)",
+      "primary_county": "Mississippi",
+      "population": 751,
+      "incorporated": "2,024.3/sq mi (781.6/km2)"
+    },
+    {
+      "name": "Kensett",
+      "designation": "City (second class)",
+      "primary_county": "White",
+      "population": 1400,
+      "incorporated": "750.3/sq mi (289.7/km2)"
+    },
+    {
+      "name": "Keo",
+      "designation": "Town",
+      "primary_county": "Lonoke",
+      "population": 207,
+      "incorporated": "42.0/sq mi (16.2/km2)"
+    },
+    {
+      "name": "Kibler",
+      "designation": "City (second class)",
+      "primary_county": "Crawford",
+      "population": 1005,
+      "incorporated": "201.2/sq mi (77.7/km2)"
+    },
+    {
+      "name": "Kingsland",
+      "designation": "City (second class)",
+      "primary_county": "Cleveland",
+      "population": 347,
+      "incorporated": "309.3/sq mi (119.4/km2)"
+    },
+    {
+      "name": "Knobel",
+      "designation": "City (second class)",
+      "primary_county": "Clay",
+      "population": 147,
+      "incorporated": "349.2/sq mi (134.8/km2)"
+    },
+    {
+      "name": "Knoxville",
+      "designation": "City (second class)",
+      "primary_county": "Johnson",
+      "population": 660,
+      "incorporated": "207.3/sq mi (80.0/km2)"
+    },
+    {
+      "name": "Lafe",
+      "designation": "Town",
+      "primary_county": "Greene",
+      "population": 418,
+      "incorporated": "205.7/sq mi (79.4/km2)"
+    },
+    {
+      "name": "LaGrange",
+      "designation": "Town",
+      "primary_county": "Lee",
+      "population": 52,
+      "incorporated": "342.1/sq mi (132.1/km2)"
+    },
+    {
+      "name": "Lake City†",
+      "designation": "City (second class)",
+      "primary_county": "Craighead",
+      "population": 2326,
+      "incorporated": "739.4/sq mi (285.5/km2)"
+    },
+    {
+      "name": "Lake View",
+      "designation": "City (second class)",
+      "primary_county": "Phillips",
+      "population": 327,
+      "incorporated": "65.4/sq mi (25.2/km2)"
+    },
+    {
+      "name": "Lake Village†",
+      "designation": "City (first class)",
+      "primary_county": "Chicot",
+      "population": 2065,
+      "incorporated": "868.7/sq mi (335.4/km2)"
+    },
+    {
+      "name": "Lakeview",
+      "designation": "City (second class)",
+      "primary_county": "Baxter",
+      "population": 775,
+      "incorporated": "745.2/sq mi (287.7/km2)"
+    },
+    {
+      "name": "Lamar",
+      "designation": "City (second class)",
+      "primary_county": "Johnson",
+      "population": 1719,
+      "incorporated": "372.4/sq mi (143.8/km2)"
+    },
+    {
+      "name": "Lavaca",
+      "designation": "City (second class)",
+      "primary_county": "Sebastian",
+      "population": 2450,
+      "incorporated": "1,102.6/sq mi (425.7/km2)"
+    },
+    {
+      "name": "Leachville",
+      "designation": "City (second class)",
+      "primary_county": "Mississippi",
+      "population": 2039,
+      "incorporated": "463.1/sq mi (178.8/km2)"
+    },
+    {
+      "name": "Lead Hill",
+      "designation": "Town",
+      "primary_county": "Boone",
+      "population": 274,
+      "incorporated": "474.0/sq mi (183.0/km2)"
+    },
+    {
+      "name": "Leola",
+      "designation": "Town",
+      "primary_county": "Grant",
+      "population": 460,
+      "incorporated": "538.6/sq mi (208.0/km2)"
+    },
+    {
+      "name": "Lepanto",
+      "designation": "City (second class)",
+      "primary_county": "Poinsett",
+      "population": 1732,
+      "incorporated": "1,107.4/sq mi (427.6/km2)"
+    },
+    {
+      "name": "Leslie",
+      "designation": "City (second class)",
+      "primary_county": "Searcy",
+      "population": 375,
+      "incorporated": "494.7/sq mi (191.0/km2)"
+    },
+    {
+      "name": "Letona",
+      "designation": "Town",
+      "primary_county": "White",
+      "population": 240,
+      "incorporated": "617.0/sq mi (238.2/km2)"
+    },
+    {
+      "name": "Lewisville†",
+      "designation": "City (second class)",
+      "primary_county": "Lafayette",
+      "population": 915,
+      "incorporated": "426.0/sq mi (164.5/km2)"
+    },
+    {
+      "name": "Lexa",
+      "designation": "Town",
+      "primary_county": "Phillips",
+      "population": 207,
+      "incorporated": "504.9/sq mi (194.9/km2)"
+    },
+    {
+      "name": "Lincoln",
+      "designation": "City (second class)",
+      "primary_county": "Washington",
+      "population": 2294,
+      "incorporated": "800.4/sq mi (309.0/km2)"
+    },
+    {
+      "name": "Little Flock",
+      "designation": "City (first class)",
+      "primary_county": "Benton",
+      "population": 3055,
+      "incorporated": "406.8/sq mi (157.1/km2)"
+    },
+    {
+      "name": "Little Rock‡",
+      "designation": "City (first class)",
+      "primary_county": "Pulaski",
+      "population": 202591,
+      "incorporated": "1,687.6/sq mi (651.6/km2)"
+    },
+    {
+      "name": "Lockesburg",
+      "designation": "City (second class)",
+      "primary_county": "Sevier",
+      "population": 594,
+      "incorporated": "170.5/sq mi (65.8/km2)"
+    },
+    {
+      "name": "London",
+      "designation": "City (second class)",
+      "primary_county": "Pope",
+      "population": 936,
+      "incorporated": "295.3/sq mi (114.0/km2)"
+    },
+    {
+      "name": "Lonoke†",
+      "designation": "City (first class)",
+      "primary_county": "Lonoke",
+      "population": 4276,
+      "incorporated": "891.0/sq mi (344.0/km2)"
+    },
+    {
+      "name": "Lonsdale",
+      "designation": "Town",
+      "primary_county": "Garland",
+      "population": 103,
+      "incorporated": "255.0/sq mi (98.4/km2)"
+    },
+    {
+      "name": "Louann",
+      "designation": "Town",
+      "primary_county": "Ouachita",
+      "population": 153,
+      "incorporated": "642.9/sq mi (248.2/km2)"
+    },
+    {
+      "name": "Lowell",
+      "designation": "City (first class)",
+      "primary_county": "Benton",
+      "population": 9839,
+      "incorporated": "1,023.4/sq mi (395.1/km2)"
+    },
+    {
+      "name": "Luxora",
+      "designation": "City (second class)",
+      "primary_county": "Mississippi",
+      "population": 942,
+      "incorporated": "1,106.9/sq mi (427.4/km2)"
+    },
+    {
+      "name": "Lynn",
+      "designation": "Town",
+      "primary_county": "Lawrence",
+      "population": 258,
+      "incorporated": "111.5/sq mi (43.1/km2)"
+    },
+    {
+      "name": "Madison",
+      "designation": "City (second class)",
+      "primary_county": "St. Francis",
+      "population": 759,
+      "incorporated": "305.6/sq mi (118.0/km2)"
+    },
+    {
+      "name": "Magazine",
+      "designation": "City (second class)",
+      "primary_county": "Logan",
+      "population": 740,
+      "incorporated": "407.5/sq mi (157.3/km2)"
+    },
+    {
+      "name": "Magness",
+      "designation": "Town",
+      "primary_county": "Independence",
+      "population": 220,
+      "incorporated": "358.3/sq mi (138.3/km2)"
+    },
+    {
+      "name": "Magnolia†",
+      "designation": "City (first class)",
+      "primary_county": "Columbia",
+      "population": 11162,
+      "incorporated": "843.6/sq mi (325.7/km2)"
+    },
+    {
+      "name": "Malvern†",
+      "designation": "City (first class)",
+      "primary_county": "Hot Spring",
+      "population": 10867,
+      "incorporated": "1,101.7/sq mi (425.4/km2)"
+    },
+    {
+      "name": "Mammoth Spring",
+      "designation": "City (second class)",
+      "primary_county": "Fulton",
+      "population": 929,
+      "incorporated": "719.0/sq mi (277.6/km2)"
+    },
+    {
+      "name": "Manila",
+      "designation": "City (first class)",
+      "primary_county": "Mississippi",
+      "population": 3682,
+      "incorporated": "980.3/sq mi (378.5/km2)"
+    },
+    {
+      "name": "Mansfield",
+      "designation": "City (second class)",
+      "primary_county": "SebastianScott",
+      "population": 1053,
+      "incorporated": "455.4/sq mi (175.9/km2)"
+    },
+    {
+      "name": "Marianna†",
+      "designation": "City (first class)",
+      "primary_county": "Lee",
+      "population": 3575,
+      "incorporated": "989.2/sq mi (381.9/km2)"
+    },
+    {
+      "name": "Marie",
+      "designation": "Town",
+      "primary_county": "Mississippi",
+      "population": 108,
+      "incorporated": "734.7/sq mi (283.7/km2)"
+    },
+    {
+      "name": "Marion†",
+      "designation": "City (first class)",
+      "primary_county": "Crittenden",
+      "population": 13752,
+      "incorporated": "686.1/sq mi (264.9/km2)"
+    },
+    {
+      "name": "Marked Tree",
+      "designation": "City (first class)",
+      "primary_county": "Poinsett",
+      "population": 2286,
+      "incorporated": "396.0/sq mi (152.9/km2)"
+    },
+    {
+      "name": "Marmaduke",
+      "designation": "City (second class)",
+      "primary_county": "Greene",
+      "population": 1212,
+      "incorporated": "867.0/sq mi (334.7/km2)"
+    },
+    {
+      "name": "Marshall†",
+      "designation": "City (second class)",
+      "primary_county": "Searcy",
+      "population": 1329,
+      "incorporated": "326.3/sq mi (126.0/km2)"
+    },
+    {
+      "name": "Marvell",
+      "designation": "City (second class)",
+      "primary_county": "Phillips",
+      "population": 855,
+      "incorporated": "595.4/sq mi (229.9/km2)"
+    },
+    {
+      "name": "Maumelle",
+      "designation": "City (first class)",
+      "primary_county": "Pulaski",
+      "population": 19251,
+      "incorporated": "1,595.1/sq mi (615.9/km2)"
+    },
+    {
+      "name": "Mayflower",
+      "designation": "City (second class)",
+      "primary_county": "Faulkner",
+      "population": 1984,
+      "incorporated": "503.6/sq mi (194.4/km2)"
+    },
+    {
+      "name": "Maynard",
+      "designation": "Town",
+      "primary_county": "Randolph",
+      "population": 379,
+      "incorporated": "323.7/sq mi (125.0/km2)"
+    },
+    {
+      "name": "McCaskill",
+      "designation": "Town",
+      "primary_county": "Hempstead",
+      "population": 57,
+      "incorporated": "77.2/sq mi (29.8/km2)"
+    },
+    {
+      "name": "McCrory",
+      "designation": "City (second class)",
+      "primary_county": "Woodruff",
+      "population": 1583,
+      "incorporated": "668.5/sq mi (258.1/km2)"
+    },
+    {
+      "name": "McDougal",
+      "designation": "Town",
+      "primary_county": "Clay",
+      "population": 134,
+      "incorporated": "361.2/sq mi (139.5/km2)"
+    },
+    {
+      "name": "McGehee",
+      "designation": "City (first class)",
+      "primary_county": "Desha",
+      "population": 3849,
+      "incorporated": "578.3/sq mi (223.3/km2)"
+    },
+    {
+      "name": "McNab",
+      "designation": "Town",
+      "primary_county": "Hempstead",
+      "population": 30,
+      "incorporated": "87.5/sq mi (33.8/km2)"
+    },
+    {
+      "name": "McNeil",
+      "designation": "City (second class)",
+      "primary_county": "Columbia",
+      "population": 381,
+      "incorporated": "300.5/sq mi (116.0/km2)"
+    },
+    {
+      "name": "McRae",
+      "designation": "City (second class)",
+      "primary_county": "White",
+      "population": 616,
+      "incorporated": "915.3/sq mi (353.4/km2)"
+    },
+    {
+      "name": "Melbourne†",
+      "designation": "City (second class)",
+      "primary_county": "Izard",
+      "population": 1830,
+      "incorporated": "262.3/sq mi (101.3/km2)"
+    },
+    {
+      "name": "Mena†",
+      "designation": "City (first class)",
+      "primary_county": "Polk",
+      "population": 5589,
+      "incorporated": "811.3/sq mi (313.2/km2)"
+    },
+    {
+      "name": "Menifee",
+      "designation": "Town",
+      "primary_county": "Conway",
+      "population": 274,
+      "incorporated": "120.9/sq mi (46.7/km2)"
+    },
+    {
+      "name": "Midland",
+      "designation": "Town",
+      "primary_county": "Sebastian",
+      "population": 227,
+      "incorporated": "656.1/sq mi (253.3/km2)"
+    },
+    {
+      "name": "Midway",
+      "designation": "Town",
+      "primary_county": "Hot Spring",
+      "population": 377,
+      "incorporated": "107.1/sq mi (41.3/km2)"
+    },
+    {
+      "name": "Mineral Springs",
+      "designation": "City (second class)",
+      "primary_county": "Howard",
+      "population": 1085,
+      "incorporated": "508.7/sq mi (196.4/km2)"
+    },
+    {
+      "name": "Minturn",
+      "designation": "Town",
+      "primary_county": "Lawrence",
+      "population": 87,
+      "incorporated": "152.9/sq mi (59.0/km2)"
+    },
+    {
+      "name": "Mitchellville",
+      "designation": "City (second class)",
+      "primary_county": "Desha",
+      "population": 293,
+      "incorporated": "2,441.7/sq mi (942.7/km2)"
+    },
+    {
+      "name": "Monette",
+      "designation": "City (second class)",
+      "primary_county": "Craighead",
+      "population": 1506,
+      "incorporated": "266.2/sq mi (102.8/km2)"
+    },
+    {
+      "name": "Monticello†",
+      "designation": "City (first class)",
+      "primary_county": "Drew",
+      "population": 8442,
+      "incorporated": "775.1/sq mi (299.3/km2)"
+    },
+    {
+      "name": "Montrose",
+      "designation": "City (second class)",
+      "primary_county": "Ashley",
+      "population": 243,
+      "incorporated": "641.2/sq mi (247.6/km2)"
+    },
+    {
+      "name": "Moorefield",
+      "designation": "Town",
+      "primary_county": "Independence",
+      "population": 126,
+      "incorporated": "111.4/sq mi (43.0/km2)"
+    },
+    {
+      "name": "Moro",
+      "designation": "Town",
+      "primary_county": "Lee",
+      "population": 177,
+      "incorporated": "183.4/sq mi (70.8/km2)"
+    },
+    {
+      "name": "Morrilton†",
+      "designation": "City (first class)",
+      "primary_county": "Conway",
+      "population": 6992,
+      "incorporated": "792.0/sq mi (305.8/km2)"
+    },
+    {
+      "name": "Morrison Bluff",
+      "designation": "Town",
+      "primary_county": "Logan",
+      "population": 78,
+      "incorporated": "58.2/sq mi (22.5/km2)"
+    },
+    {
+      "name": "Mount Ida†",
+      "designation": "City (second class)",
+      "primary_county": "Montgomery",
+      "population": 996,
+      "incorporated": "634.8/sq mi (245.1/km2)"
+    },
+    {
+      "name": "Mount Pleasant",
+      "designation": "Town",
+      "primary_county": "Izard",
+      "population": 353,
+      "incorporated": "100.8/sq mi (38.9/km2)"
+    },
+    {
+      "name": "Mount Vernon",
+      "designation": "Town",
+      "primary_county": "Faulkner",
+      "population": 144,
+      "incorporated": "142.4/sq mi (55.0/km2)"
+    },
+    {
+      "name": "Mountain Home†",
+      "designation": "City (first class)",
+      "primary_county": "Baxter",
+      "population": 12825,
+      "incorporated": "1,074.0/sq mi (414.7/km2)"
+    },
+    {
+      "name": "Mountain Pine",
+      "designation": "City (second class)",
+      "primary_county": "Garland",
+      "population": 585,
+      "incorporated": "352.2/sq mi (136.0/km2)"
+    },
+    {
+      "name": "Mountain View†",
+      "designation": "City (first class)",
+      "primary_county": "Stone",
+      "population": 2877,
+      "incorporated": "394.3/sq mi (152.2/km2)"
+    },
+    {
+      "name": "Mountainburg",
+      "designation": "City (second class)",
+      "primary_county": "Crawford",
+      "population": 528,
+      "incorporated": "358.7/sq mi (138.5/km2)"
+    },
+    {
+      "name": "Mulberry",
+      "designation": "City (second class)",
+      "primary_county": "Crawford",
+      "population": 1543,
+      "incorporated": "197.2/sq mi (76.1/km2)"
+    },
+    {
+      "name": "Murfreesboro†",
+      "designation": "City (second class)",
+      "primary_county": "Pike",
+      "population": 1495,
+      "incorporated": "407.9/sq mi (157.5/km2)"
+    },
+    {
+      "name": "Nashville†",
+      "designation": "City (first class)",
+      "primary_county": "Howard",
+      "population": 4153,
+      "incorporated": "759.1/sq mi (293.1/km2)"
+    },
+    {
+      "name": "Newark",
+      "designation": "City (second class)",
+      "primary_county": "Independence",
+      "population": 1180,
+      "incorporated": "717.3/sq mi (277.0/km2)"
+    },
+    {
+      "name": "Newport†",
+      "designation": "City (first class)",
+      "primary_county": "Jackson",
+      "population": 8005,
+      "incorporated": "590.7/sq mi (228.1/km2)"
+    },
+    {
+      "name": "Nimmons",
+      "designation": "Town",
+      "primary_county": "Clay",
+      "population": 69,
+      "incorporated": "276.0/sq mi (106.6/km2)"
+    },
+    {
+      "name": "Norfork",
+      "designation": "City (second class)",
+      "primary_county": "Baxter",
+      "population": 465,
+      "incorporated": "209.0/sq mi (80.7/km2)"
+    },
+    {
+      "name": "Norman",
+      "designation": "Town",
+      "primary_county": "Montgomery",
+      "population": 303,
+      "incorporated": "269.3/sq mi (104.0/km2)"
+    },
+    {
+      "name": "Norphlet",
+      "designation": "City (second class)",
+      "primary_county": "Union",
+      "population": 766,
+      "incorporated": "374.8/sq mi (144.7/km2)"
+    },
+    {
+      "name": "North Little Rock",
+      "designation": "City (first class)",
+      "primary_county": "Pulaski",
+      "population": 64591,
+      "incorporated": "1,234.2/sq mi (476.5/km2)"
+    },
+    {
+      "name": "O'Kean",
+      "designation": "Town",
+      "primary_county": "Randolph",
+      "population": 192,
+      "incorporated": "188.2/sq mi (72.7/km2)"
+    },
+    {
+      "name": "Oak Grove",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "population": 386,
+      "incorporated": "133.8/sq mi (51.7/km2)"
+    },
+    {
+      "name": "Oak Grove Heights",
+      "designation": "City (second class)",
+      "primary_county": "Greene",
+      "population": 1104,
+      "incorporated": "368.6/sq mi (142.3/km2)"
+    },
+    {
+      "name": "Oakhaven",
+      "designation": "Town",
+      "primary_county": "Hempstead",
+      "population": 65,
+      "incorporated": "1,413.0/sq mi (545.6/km2)"
+    },
+    {
+      "name": "Oden",
+      "designation": "Town",
+      "primary_county": "Montgomery",
+      "population": 180,
+      "incorporated": "221.1/sq mi (85.4/km2)"
+    },
+    {
+      "name": "Ogden",
+      "designation": "City (second class)",
+      "primary_county": "Little River",
+      "population": 131,
+      "incorporated": "341.1/sq mi (131.7/km2)"
+    },
+    {
+      "name": "Oil Trough",
+      "designation": "Town",
+      "primary_county": "Independence",
+      "population": 226,
+      "incorporated": "986.9/sq mi (381.0/km2)"
+    },
+    {
+      "name": "Okolona",
+      "designation": "Town",
+      "primary_county": "Clark",
+      "population": 97,
+      "incorporated": "122.3/sq mi (47.2/km2)"
+    },
+    {
+      "name": "Ola",
+      "designation": "City (second class)",
+      "primary_county": "Yell",
+      "population": 934,
+      "incorporated": "549.1/sq mi (212.0/km2)"
+    },
+    {
+      "name": "Omaha",
+      "designation": "Town",
+      "primary_county": "Boone",
+      "population": 128,
+      "incorporated": "328.2/sq mi (126.7/km2)"
+    },
+    {
+      "name": "Oppelo",
+      "designation": "City (second class)",
+      "primary_county": "Conway",
+      "population": 737,
+      "incorporated": "303.3/sq mi (117.1/km2)"
+    },
+    {
+      "name": "Osceola†",
+      "designation": "City (first class)",
+      "primary_county": "Mississippi",
+      "population": 6976,
+      "incorporated": "740.6/sq mi (286.0/km2)"
+    },
+    {
+      "name": "Oxford",
+      "designation": "City (second class)",
+      "primary_county": "Izard",
+      "population": 573,
+      "incorporated": "87.5/sq mi (33.8/km2)"
+    },
+    {
+      "name": "Ozan",
+      "designation": "Town",
+      "primary_county": "Hempstead",
+      "population": 50,
+      "incorporated": "152.9/sq mi (59.0/km2)"
+    },
+    {
+      "name": "Ozark†",
+      "designation": "City (first class)",
+      "primary_county": "Franklin",
+      "population": 3542,
+      "incorporated": "446.6/sq mi (172.4/km2)"
+    },
+    {
+      "name": "Palestine",
+      "designation": "City (second class)",
+      "primary_county": "St. Francis",
+      "population": 506,
+      "incorporated": "153.1/sq mi (59.1/km2)"
+    },
+    {
+      "name": "Pangburn",
+      "designation": "City (second class)",
+      "primary_county": "White",
+      "population": 500,
+      "incorporated": "917.4/sq mi (354.2/km2)"
+    },
+    {
+      "name": "Paragould†",
+      "designation": "City (first class)",
+      "primary_county": "Greene",
+      "population": 29537,
+      "incorporated": "927.2/sq mi (358.0/km2)"
+    },
+    {
+      "name": "Paris†",
+      "designation": "City (first class)",
+      "primary_county": "Logan",
+      "population": 3176,
+      "incorporated": "695.3/sq mi (268.4/km2)"
+    },
+    {
+      "name": "Parkdale",
+      "designation": "City (second class)",
+      "primary_county": "Ashley",
+      "population": 172,
+      "incorporated": "168.6/sq mi (65.1/km2)"
+    },
+    {
+      "name": "Parkin",
+      "designation": "City (second class)",
+      "primary_county": "Cross",
+      "population": 794,
+      "incorporated": "310.4/sq mi (119.8/km2)"
+    },
+    {
+      "name": "Patmos",
+      "designation": "Town",
+      "primary_county": "Hempstead",
+      "population": 57,
+      "incorporated": "513.5/sq mi (198.3/km2)"
+    },
+    {
+      "name": "Patterson",
+      "designation": "City (second class)",
+      "primary_county": "Woodruff",
+      "population": 310,
+      "incorporated": "274.3/sq mi (105.9/km2)"
+    },
+    {
+      "name": "Pea Ridge",
+      "designation": "City (first class)",
+      "primary_county": "Benton",
+      "population": 6559,
+      "incorporated": "894.0/sq mi (345.2/km2)"
+    },
+    {
+      "name": "Peach Orchard",
+      "designation": "City (second class)",
+      "primary_county": "Clay",
+      "population": 105,
+      "incorporated": "101.9/sq mi (39.4/km2)"
+    },
+    {
+      "name": "Perla",
+      "designation": "Town",
+      "primary_county": "Hot Spring",
+      "population": 257,
+      "incorporated": "266.9/sq mi (103.0/km2)"
+    },
+    {
+      "name": "Perry",
+      "designation": "Town",
+      "primary_county": "Perry",
+      "population": 262,
+      "incorporated": "373.2/sq mi (144.1/km2)"
+    },
+    {
+      "name": "Perrytown",
+      "designation": "Town",
+      "primary_county": "Hempstead",
+      "population": 232,
+      "incorporated": "166.4/sq mi (64.3/km2)"
+    },
+    {
+      "name": "Perryville†",
+      "designation": "City (second class)",
+      "primary_county": "Perry",
+      "population": 1373,
+      "incorporated": "321.7/sq mi (124.2/km2)"
+    },
+    {
+      "name": "Piggott†",
+      "designation": "City (first class)",
+      "primary_county": "Clay",
+      "population": 3622,
+      "incorporated": "675.4/sq mi (260.8/km2)"
+    },
+    {
+      "name": "Pindall",
+      "designation": "Town",
+      "primary_county": "Searcy",
+      "population": 95,
+      "incorporated": "33.1/sq mi (12.8/km2)"
+    },
+    {
+      "name": "Pine Bluff†",
+      "designation": "City (first class)",
+      "primary_county": "Jefferson",
+      "population": 41253,
+      "incorporated": "933.7/sq mi (360.5/km2)"
+    },
+    {
+      "name": "Pineville",
+      "designation": "Town",
+      "primary_county": "Izard",
+      "population": 154,
+      "incorporated": "85.2/sq mi (32.9/km2)"
+    },
+    {
+      "name": "Plainview",
+      "designation": "City (second class)",
+      "primary_county": "Yell",
+      "population": 467,
+      "incorporated": "320.5/sq mi (123.8/km2)"
+    },
+    {
+      "name": "Pleasant Plains",
+      "designation": "Town",
+      "primary_county": "Independence",
+      "population": 352,
+      "incorporated": "344.1/sq mi (132.9/km2)"
+    },
+    {
+      "name": "Plumerville",
+      "designation": "City (second class)",
+      "primary_county": "Conway",
+      "population": 734,
+      "incorporated": "713.3/sq mi (275.4/km2)"
+    },
+    {
+      "name": "Pocahontas†",
+      "designation": "City (first class)",
+      "primary_county": "Randolph",
+      "population": 7371,
+      "incorporated": "976.2/sq mi (376.9/km2)"
+    },
+    {
+      "name": "Pollard",
+      "designation": "City (second class)",
+      "primary_county": "Clay",
+      "population": 193,
+      "incorporated": "649.8/sq mi (250.9/km2)"
+    },
+    {
+      "name": "Portia",
+      "designation": "Town",
+      "primary_county": "Lawrence",
+      "population": 424,
+      "incorporated": "328.2/sq mi (126.7/km2)"
+    },
+    {
+      "name": "Portland",
+      "designation": "City (second class)",
+      "primary_county": "Ashley",
+      "population": 325,
+      "incorporated": "303.5/sq mi (117.2/km2)"
+    },
+    {
+      "name": "Pottsville",
+      "designation": "City (first class)",
+      "primary_county": "Pope",
+      "population": 3140,
+      "incorporated": "232.0/sq mi (89.6/km2)"
+    },
+    {
+      "name": "Powhatan",
+      "designation": "Town",
+      "primary_county": "Lawrence",
+      "population": 104,
+      "incorporated": "190.1/sq mi (73.4/km2)"
+    },
+    {
+      "name": "Poyen",
+      "designation": "Town",
+      "primary_county": "Grant",
+      "population": 263,
+      "incorporated": "859.5/sq mi (331.8/km2)"
+    },
+    {
+      "name": "Prairie Grove",
+      "designation": "City (first class)",
+      "primary_county": "Washington",
+      "population": 7045,
+      "incorporated": "759.1/sq mi (293.1/km2)"
+    },
+    {
+      "name": "Prattsville",
+      "designation": "Town",
+      "primary_county": "Grant",
+      "population": 289,
+      "incorporated": "178.7/sq mi (69.0/km2)"
+    },
+    {
+      "name": "Prescott†",
+      "designation": "City (first class)",
+      "primary_county": "Nevada",
+      "population": 3101,
+      "incorporated": "480.4/sq mi (185.5/km2)"
+    },
+    {
+      "name": "Pyatt",
+      "designation": "Town",
+      "primary_county": "Marion",
+      "population": 181,
+      "incorporated": "144.1/sq mi (55.6/km2)"
+    },
+    {
+      "name": "Quitman",
+      "designation": "City (second class)",
+      "primary_county": "CleburneFaulkner",
+      "population": 694,
+      "incorporated": "366.2/sq mi (141.4/km2)"
+    },
+    {
+      "name": "Ratcliff",
+      "designation": "City (second class)",
+      "primary_county": "Logan",
+      "population": 167,
+      "incorporated": "92.1/sq mi (35.5/km2)"
+    },
+    {
+      "name": "Ravenden",
+      "designation": "Town",
+      "primary_county": "Lawrence",
+      "population": 426,
+      "incorporated": "201.8/sq mi (77.9/km2)"
+    },
+    {
+      "name": "Ravenden Springs",
+      "designation": "Town",
+      "primary_county": "Randolph",
+      "population": 119,
+      "incorporated": "102.1/sq mi (39.4/km2)"
+    },
+    {
+      "name": "Rector",
+      "designation": "City (second class)",
+      "primary_county": "Clay",
+      "population": 1862,
+      "incorporated": "1,366.1/sq mi (527.5/km2)"
+    },
+    {
+      "name": "Redfield",
+      "designation": "City (second class)",
+      "primary_county": "Jefferson",
+      "population": 1505,
+      "incorporated": "486.4/sq mi (187.8/km2)"
+    },
+    {
+      "name": "Reed",
+      "designation": "Town",
+      "primary_county": "Desha",
+      "population": 130,
+      "incorporated": "640.4/sq mi (247.3/km2)"
+    },
+    {
+      "name": "Reyno",
+      "designation": "City (second class)",
+      "primary_county": "Randolph",
+      "population": 391,
+      "incorporated": "387.1/sq mi (149.5/km2)"
+    },
+    {
+      "name": "Rison†",
+      "designation": "City (second class)",
+      "primary_county": "Cleveland",
+      "population": 967,
+      "incorporated": "295.3/sq mi (114.0/km2)"
+    },
+    {
+      "name": "Rockport",
+      "designation": "City (second class)",
+      "primary_county": "Hot Spring",
+      "population": 676,
+      "incorporated": "214.3/sq mi (82.7/km2)"
+    },
+    {
+      "name": "Roe",
+      "designation": "Town",
+      "primary_county": "Monroe",
+      "population": 68,
+      "incorporated": "379.9/sq mi (146.7/km2)"
+    },
+    {
+      "name": "Rogers",
+      "designation": "City (first class)",
+      "primary_county": "Benton",
+      "population": 69908,
+      "incorporated": "1,797.4/sq mi (694.0/km2)"
+    },
+    {
+      "name": "Rondo",
+      "designation": "Town",
+      "primary_county": "Lee",
+      "population": 163,
+      "incorporated": "161.7/sq mi (62.4/km2)"
+    },
+    {
+      "name": "Rose Bud",
+      "designation": "Town",
+      "primary_county": "White",
+      "population": 494,
+      "incorporated": "81.8/sq mi (31.6/km2)"
+    },
+    {
+      "name": "Rosston",
+      "designation": "Town",
+      "primary_county": "Nevada",
+      "population": 272,
+      "incorporated": "61.5/sq mi (23.8/km2)"
+    },
+    {
+      "name": "Rudy",
+      "designation": "Town",
+      "primary_county": "Crawford",
+      "population": 130,
+      "incorporated": "81.9/sq mi (31.6/km2)"
+    },
+    {
+      "name": "Russell",
+      "designation": "Town",
+      "primary_county": "White",
+      "population": 184,
+      "incorporated": "884.6/sq mi (341.6/km2)"
+    },
+    {
+      "name": "Russellville†",
+      "designation": "City (first class)",
+      "primary_county": "Pope",
+      "population": 28940,
+      "incorporated": "1,022.5/sq mi (394.8/km2)"
+    },
+    {
+      "name": "Salem†",
+      "designation": "City (second class)",
+      "primary_county": "Fulton",
+      "population": 1566,
+      "incorporated": "649.3/sq mi (250.7/km2)"
+    },
+    {
+      "name": "Salesville",
+      "designation": "City (second class)",
+      "primary_county": "Baxter",
+      "population": 473,
+      "incorporated": "104.8/sq mi (40.4/km2)"
+    },
+    {
+      "name": "Scranton",
+      "designation": "City (second class)",
+      "primary_county": "Logan",
+      "population": 245,
+      "incorporated": "484.2/sq mi (186.9/km2)"
+    },
+    {
+      "name": "Searcy†",
+      "designation": "City (first class)",
+      "primary_county": "White",
+      "population": 22937,
+      "incorporated": "1,252.2/sq mi (483.5/km2)"
+    },
+    {
+      "name": "Sedgwick",
+      "designation": "Town",
+      "primary_county": "Lawrence",
+      "population": 163,
+      "incorporated": "314.1/sq mi (121.3/km2)"
+    },
+    {
+      "name": "Shannon Hills",
+      "designation": "City (first class)",
+      "primary_county": "Saline",
+      "population": 4490,
+      "incorporated": "1,701.4/sq mi (656.9/km2)"
+    },
+    {
+      "name": "Sheridan†",
+      "designation": "City (first class)",
+      "primary_county": "Grant",
+      "population": 4920,
+      "incorporated": "408.9/sq mi (157.9/km2)"
+    },
+    {
+      "name": "Sherrill",
+      "designation": "Town",
+      "primary_county": "Jefferson",
+      "population": 53,
+      "incorporated": "401.5/sq mi (155.0/km2)"
+    },
+    {
+      "name": "Sherwood",
+      "designation": "City (first class)",
+      "primary_county": "Pulaski",
+      "population": 32731,
+      "incorporated": "1,577.9/sq mi (609.2/km2)"
+    },
+    {
+      "name": "Shirley",
+      "designation": "Town",
+      "primary_county": "Van Buren",
+      "population": 248,
+      "incorporated": "103.0/sq mi (39.8/km2)"
+    },
+    {
+      "name": "Sidney",
+      "designation": "Town",
+      "primary_county": "Sharp",
+      "population": 192,
+      "incorporated": "92.0/sq mi (35.5/km2)"
+    },
+    {
+      "name": "Siloam Springs",
+      "designation": "City (first class)",
+      "primary_county": "Benton",
+      "population": 17287,
+      "incorporated": "1,502.7/sq mi (580.2/km2)"
+    },
+    {
+      "name": "Smackover",
+      "designation": "City (second class)",
+      "primary_county": "Union",
+      "population": 1630,
+      "incorporated": "374.8/sq mi (144.7/km2)"
+    },
+    {
+      "name": "Smithville",
+      "designation": "Town",
+      "primary_county": "Lawrence",
+      "population": 87,
+      "incorporated": "130.6/sq mi (50.4/km2)"
+    },
+    {
+      "name": "South Lead Hill",
+      "designation": "Town",
+      "primary_county": "Boone",
+      "population": 86,
+      "incorporated": "524.4/sq mi (202.5/km2)"
+    },
+    {
+      "name": "Southside",
+      "designation": "City (second class)",
+      "primary_county": "Independence",
+      "population": 4279,
+      "incorporated": "434.2/sq mi (167.6/km2)"
+    },
+    {
+      "name": "Sparkman",
+      "designation": "City (second class)",
+      "primary_county": "Dallas",
+      "population": 355,
+      "incorporated": "275.0/sq mi (106.2/km2)"
+    },
+    {
+      "name": "Springdale",
+      "designation": "City (first class)",
+      "primary_county": "WashingtonBenton",
+      "population": 84161,
+      "incorporated": "1,790.1/sq mi (691.1/km2)"
+    },
+    {
+      "name": "Springtown",
+      "designation": "Town",
+      "primary_county": "Benton",
+      "population": 83,
+      "incorporated": "153.4/sq mi (59.2/km2)"
+    },
+    {
+      "name": "St. Charles",
+      "designation": "Town",
+      "primary_county": "Arkansas",
+      "population": 207,
+      "incorporated": "233.4/sq mi (90.1/km2)"
+    },
+    {
+      "name": "St. Francis",
+      "designation": "City (second class)",
+      "primary_county": "Clay",
+      "population": 218,
+      "incorporated": "614.1/sq mi (237.1/km2)"
+    },
+    {
+      "name": "St. Joe",
+      "designation": "Town",
+      "primary_county": "Searcy",
+      "population": 129,
+      "incorporated": "103.9/sq mi (40.1/km2)"
+    },
+    {
+      "name": "St. Paul",
+      "designation": "Town",
+      "primary_county": "Madison",
+      "population": 111,
+      "incorporated": "244.5/sq mi (94.4/km2)"
+    },
+    {
+      "name": "Stamps",
+      "designation": "City (second class)",
+      "primary_county": "Lafayette",
+      "population": 1258,
+      "incorporated": "412.2/sq mi (159.1/km2)"
+    },
+    {
+      "name": "Star City†",
+      "designation": "City (second class)",
+      "primary_county": "Lincoln",
+      "population": 2173,
+      "incorporated": "453.0/sq mi (174.9/km2)"
+    },
+    {
+      "name": "Stephens",
+      "designation": "City (second class)",
+      "primary_county": "Ouachita",
+      "population": 770,
+      "incorporated": "279.4/sq mi (107.9/km2)"
+    },
+    {
+      "name": "Strawberry",
+      "designation": "Town",
+      "primary_county": "Lawrence",
+      "population": 268,
+      "incorporated": "114.4/sq mi (44.2/km2)"
+    },
+    {
+      "name": "Strong",
+      "designation": "City (second class)",
+      "primary_county": "Union",
+      "population": 410,
+      "incorporated": "256.7/sq mi (99.1/km2)"
+    },
+    {
+      "name": "Stuttgart†",
+      "designation": "City (first class)",
+      "primary_county": "Arkansas",
+      "population": 8264,
+      "incorporated": "1,114.8/sq mi (430.4/km2)"
+    },
+    {
+      "name": "Subiaco",
+      "designation": "Town",
+      "primary_county": "Logan",
+      "population": 401,
+      "incorporated": "211.9/sq mi (81.8/km2)"
+    },
+    {
+      "name": "Success",
+      "designation": "Town",
+      "primary_county": "Clay",
+      "population": 98,
+      "incorporated": "439.5/sq mi (169.7/km2)"
+    },
+    {
+      "name": "Sulphur Rock",
+      "designation": "Town",
+      "primary_county": "Independence",
+      "population": 609,
+      "incorporated": "487.2/sq mi (188.1/km2)"
+    },
+    {
+      "name": "Sulphur Springs",
+      "designation": "City (second class)",
+      "primary_county": "Benton",
+      "population": 481,
+      "incorporated": "475.8/sq mi (183.7/km2)"
+    },
+    {
+      "name": "Summit",
+      "designation": "City (second class)",
+      "primary_county": "Marion",
+      "population": 544,
+      "incorporated": "451.1/sq mi (174.2/km2)"
+    },
+    {
+      "name": "Sunset",
+      "designation": "Town",
+      "primary_county": "Crittenden",
+      "population": 184,
+      "incorporated": "699.6/sq mi (270.1/km2)"
+    },
+    {
+      "name": "Swifton",
+      "designation": "City (second class)",
+      "primary_county": "Jackson",
+      "population": 733,
+      "incorporated": "1,335.2/sq mi (515.5/km2)"
+    },
+    {
+      "name": "Taylor",
+      "designation": "City (second class)",
+      "primary_county": "Columbia",
+      "population": 579,
+      "incorporated": "583.1/sq mi (225.1/km2)"
+    },
+    {
+      "name": "Texarkana†",
+      "designation": "City (first class)",
+      "primary_county": "Miller",
+      "population": 29387,
+      "incorporated": "700.1/sq mi (270.3/km2)"
+    },
+    {
+      "name": "Thornton",
+      "designation": "City (second class)",
+      "primary_county": "Calhoun",
+      "population": 339,
+      "incorporated": "176.2/sq mi (68.0/km2)"
+    },
+    {
+      "name": "Tillar",
+      "designation": "City (second class)",
+      "primary_county": "DrewDesha",
+      "population": 172,
+      "incorporated": "219.1/sq mi (84.6/km2)"
+    },
+    {
+      "name": "Tinsman",
+      "designation": "Town",
+      "primary_county": "Calhoun",
+      "population": 50,
+      "incorporated": "94.3/sq mi (36.4/km2)"
+    },
+    {
+      "name": "Tollette",
+      "designation": "Town",
+      "primary_county": "Howard",
+      "population": 185,
+      "incorporated": "192.1/sq mi (74.2/km2)"
+    },
+    {
+      "name": "Tontitown",
+      "designation": "City (second class)",
+      "primary_county": "Washington",
+      "population": 4301,
+      "incorporated": "240.1/sq mi (92.7/km2)"
+    },
+    {
+      "name": "Traskwood",
+      "designation": "City (second class)",
+      "primary_county": "Saline",
+      "population": 495,
+      "incorporated": "87.9/sq mi (33.9/km2)"
+    },
+    {
+      "name": "Trumann",
+      "designation": "City (first class)",
+      "primary_county": "Poinsett",
+      "population": 7399,
+      "incorporated": "1,275.2/sq mi (492.4/km2)"
+    },
+    {
+      "name": "Tuckerman",
+      "designation": "City (second class)",
+      "primary_county": "Jackson",
+      "population": 1707,
+      "incorporated": "637.9/sq mi (246.3/km2)"
+    },
+    {
+      "name": "Tull",
+      "designation": "Town",
+      "primary_county": "Grant",
+      "population": 484,
+      "incorporated": "120.0/sq mi (46.3/km2)"
+    },
+    {
+      "name": "Tupelo",
+      "designation": "Town",
+      "primary_county": "Jackson",
+      "population": 70,
+      "incorporated": "251.8/sq mi (97.2/km2)"
+    },
+    {
+      "name": "Turrell",
+      "designation": "City (second class)",
+      "primary_county": "Crittenden",
+      "population": 517,
+      "incorporated": "96.7/sq mi (37.3/km2)"
+    },
+    {
+      "name": "Twin Groves",
+      "designation": "Town",
+      "primary_county": "Faulkner",
+      "population": 317,
+      "incorporated": "68.8/sq mi (26.6/km2)"
+    },
+    {
+      "name": "Tyronza",
+      "designation": "City (second class)",
+      "primary_county": "Poinsett",
+      "population": 716,
+      "incorporated": "460.5/sq mi (177.8/km2)"
+    },
+    {
+      "name": "Ulm",
+      "designation": "Town",
+      "primary_county": "Prairie",
+      "population": 175,
+      "incorporated": "670.5/sq mi (258.9/km2)"
+    },
+    {
+      "name": "Valley Springs",
+      "designation": "Town",
+      "primary_county": "Boone",
+      "population": 183,
+      "incorporated": "356.0/sq mi (137.5/km2)"
+    },
+    {
+      "name": "Van Buren†",
+      "designation": "City (first class)",
+      "primary_county": "Crawford",
+      "population": 23218,
+      "incorporated": "1,506.7/sq mi (581.7/km2)"
+    },
+    {
+      "name": "Vandervoort",
+      "designation": "Town",
+      "primary_county": "Polk",
+      "population": 115,
+      "incorporated": "399.3/sq mi (154.2/km2)"
+    },
+    {
+      "name": "Victoria",
+      "designation": "Town",
+      "primary_county": "Mississippi",
+      "population": 20,
+      "incorporated": "63.3/sq mi (24.4/km2)"
+    },
+    {
+      "name": "Vilonia",
+      "designation": "City (first class)",
+      "primary_county": "Faulkner",
+      "population": 4288,
+      "incorporated": "537.8/sq mi (207.7/km2)"
+    },
+    {
+      "name": "Viola",
+      "designation": "Town",
+      "primary_county": "Fulton",
+      "population": 358,
+      "incorporated": "227.9/sq mi (88.0/km2)"
+    },
+    {
+      "name": "Wabbaseka",
+      "designation": "Town",
+      "primary_county": "Jefferson",
+      "population": 180,
+      "incorporated": "523.3/sq mi (202.0/km2)"
+    },
+    {
+      "name": "Waldenburg",
+      "designation": "Town",
+      "primary_county": "Poinsett",
+      "population": 53,
+      "incorporated": "389.7/sq mi (150.5/km2)"
+    },
+    {
+      "name": "Waldo",
+      "designation": "City (second class)",
+      "primary_county": "Columbia",
+      "population": 1151,
+      "incorporated": "524.6/sq mi (202.6/km2)"
+    },
+    {
+      "name": "Waldron†",
+      "designation": "City (first class)",
+      "primary_county": "Scott",
+      "population": 3386,
+      "incorporated": "601.0/sq mi (232.0/km2)"
+    },
+    {
+      "name": "Walnut Ridge†",
+      "designation": "City (first class)",
+      "primary_county": "Lawrence",
+      "population": 5384,
+      "incorporated": "323.9/sq mi (125.1/km2)"
+    },
+    {
+      "name": "Ward",
+      "designation": "City (first class)",
+      "primary_county": "Lonoke",
+      "population": 6052,
+      "incorporated": "1,406.1/sq mi (542.9/km2)"
+    },
+    {
+      "name": "Warren†",
+      "designation": "City (first class)",
+      "primary_county": "Bradley",
+      "population": 5453,
+      "incorporated": "775.1/sq mi (299.3/km2)"
+    },
+    {
+      "name": "Washington",
+      "designation": "City (second class)",
+      "primary_county": "Hempstead",
+      "population": 94,
+      "incorporated": "93.3/sq mi (36.0/km2)"
+    },
+    {
+      "name": "Watson",
+      "designation": "City (second class)",
+      "primary_county": "Desha",
+      "population": 185,
+      "incorporated": "925.0/sq mi (357.1/km2)"
+    },
+    {
+      "name": "Weiner",
+      "designation": "City (second class)",
+      "primary_county": "Poinsett",
+      "population": 647,
+      "incorporated": "474.3/sq mi (183.1/km2)"
+    },
+    {
+      "name": "Weldon",
+      "designation": "Town",
+      "primary_county": "Jackson",
+      "population": 57,
+      "incorporated": "233.6/sq mi (90.2/km2)"
+    },
+    {
+      "name": "West Fork",
+      "designation": "City (second class)",
+      "primary_county": "Washington",
+      "population": 2331,
+      "incorporated": "635.8/sq mi (245.5/km2)"
+    },
+    {
+      "name": "West Memphis",
+      "designation": "City (first class)",
+      "primary_county": "Crittenden",
+      "population": 24520,
+      "incorporated": "850.1/sq mi (328.2/km2)"
+    },
+    {
+      "name": "West Point",
+      "designation": "Town",
+      "primary_county": "White",
+      "population": 170,
+      "incorporated": "395.3/sq mi (152.6/km2)"
+    },
+    {
+      "name": "Western Grove",
+      "designation": "Town",
+      "primary_county": "Newton",
+      "population": 354,
+      "incorporated": "328.7/sq mi (126.9/km2)"
+    },
+    {
+      "name": "Wheatley",
+      "designation": "Town",
+      "primary_county": "St. Francis",
+      "population": 279,
+      "incorporated": "90.8/sq mi (35.1/km2)"
+    },
+    {
+      "name": "Whelen Springs",
+      "designation": "Town",
+      "primary_county": "Clark",
+      "population": 47,
+      "incorporated": "200.9/sq mi (77.6/km2)"
+    },
+    {
+      "name": "White Hall",
+      "designation": "City (first class)",
+      "primary_county": "Jefferson",
+      "population": 5581,
+      "incorporated": "790.1/sq mi (305.0/km2)"
+    },
+    {
+      "name": "Wickes",
+      "designation": "Town",
+      "primary_county": "Polk",
+      "population": 637,
+      "incorporated": "274.2/sq mi (105.9/km2)"
+    },
+    {
+      "name": "Widener",
+      "designation": "Town",
+      "primary_county": "St. Francis",
+      "population": 212,
+      "incorporated": "389.0/sq mi (150.2/km2)"
+    },
+    {
+      "name": "Wiederkehr Village",
+      "designation": "City (second class)",
+      "primary_county": "Franklin",
+      "population": 50,
+      "incorporated": "11.8/sq mi (4.6/km2)"
+    },
+    {
+      "name": "Williford",
+      "designation": "Town",
+      "primary_county": "Sharp",
+      "population": 79,
+      "incorporated": "226.4/sq mi (87.4/km2)"
+    },
+    {
+      "name": "Willisville",
+      "designation": "Town",
+      "primary_county": "Nevada",
+      "population": 148,
+      "incorporated": "92.7/sq mi (35.8/km2)"
+    },
+    {
+      "name": "Wilmar",
+      "designation": "City (second class)",
+      "primary_county": "Drew",
+      "population": 395,
+      "incorporated": "257.3/sq mi (99.4/km2)"
+    },
+    {
+      "name": "Wilmot",
+      "designation": "City (second class)",
+      "primary_county": "Ashley",
+      "population": 416,
+      "incorporated": "235.2/sq mi (90.8/km2)"
+    },
+    {
+      "name": "Wilson",
+      "designation": "City (second class)",
+      "primary_county": "Mississippi",
+      "population": 766,
+      "incorporated": "731.6/sq mi (282.5/km2)"
+    },
+    {
+      "name": "Wilton",
+      "designation": "City (second class)",
+      "primary_county": "Little River",
+      "population": 287,
+      "incorporated": "224.4/sq mi (86.6/km2)"
+    },
+    {
+      "name": "Winchester",
+      "designation": "Town",
+      "primary_county": "Drew",
+      "population": 137,
+      "incorporated": "275.7/sq mi (106.4/km2)"
+    },
+    {
+      "name": "Winslow",
+      "designation": "City (second class)",
+      "primary_county": "Washington",
+      "population": 365,
+      "incorporated": "200.3/sq mi (77.3/km2)"
+    },
+    {
+      "name": "Winthrop",
+      "designation": "City (second class)",
+      "primary_county": "Little River",
+      "population": 116,
+      "incorporated": "111.5/sq mi (43.1/km2)"
+    },
+    {
+      "name": "Wooster",
+      "designation": "City (second class)",
+      "primary_county": "Faulkner",
+      "population": 1042,
+      "incorporated": "362.9/sq mi (140.1/km2)"
+    },
+    {
+      "name": "Wrightsville",
+      "designation": "City (second class)",
+      "primary_county": "Pulaski",
+      "population": 1542,
+      "incorporated": "728.7/sq mi (281.4/km2)"
+    },
+    {
+      "name": "Wynne†",
+      "designation": "City (first class)",
+      "primary_county": "Cross",
+      "population": 8314,
+      "incorporated": "924.4/sq mi (356.9/km2)"
+    },
+    {
+      "name": "Yellville†",
+      "designation": "City (second class)",
+      "primary_county": "Marion",
+      "population": 1178,
+      "incorporated": "474.6/sq mi (183.3/km2)"
+    },
+    {
+      "name": "Zinc",
+      "designation": "Town",
+      "primary_county": "Boone",
+      "population": 92,
+      "incorporated": "122.5/sq mi (47.3/km2)"
+    },
+    {
+      "name": "Total municipalities",
+      "designation": "—",
+      "primary_county": "—",
+      "population": 2002869,
+      "incorporated": "802.9/sq mi (310.0/km2)"
+    },
+    {
+      "name": "Arkansas",
+      "designation": "—",
+      "primary_county": "—",
+      "population": 3011500,
+      "incorporated": "57.9/sq mi (22.4/km2)"
+    }
+  ]
+}

@@ -1,0 +1,3114 @@
+{
+  "metadata": {
+    "state": "Oklahoma",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Oklahoma",
+    "scraped_at": "2025-11-23 21:18:51",
+    "scraper_version": "2.0_generic",
+    "description": "Oklahoma municipalities scraped from Wikipedia",
+    "total_municipalities": 596,
+    "statistics": {
+      "total_found": 596,
+      "with_population": 0,
+      "with_counties": 596,
+      "unique_counties": 113,
+      "population_stats": {}
+    },
+    "counties": [
+      "Adair",
+      "Alfalfa",
+      "Atoka",
+      "Beaver",
+      "Beckham",
+      "BeckhamRoger Mills",
+      "Blaine",
+      "Bryan",
+      "Caddo",
+      "CaddoBlaine",
+      "Canadian",
+      "CanadianBlaine",
+      "CanadianKingfisher",
+      "Carter",
+      "Cherokee",
+      "Choctaw",
+      "Cimarron",
+      "Cleveland",
+      "Coal",
+      "Comanche",
+      "ComancheTillman",
+      "Cotton",
+      "Craig",
+      "CraigMayes",
+      "Creek",
+      "CreekOkmulgee",
+      "CreekPayne",
+      "CreekTulsa",
+      "Custer",
+      "CusterWashita",
+      "Delaware",
+      "DelawareCherokee",
+      "Dewey",
+      "DeweyMajor",
+      "Ellis",
+      "Garfield",
+      "Garvin",
+      "Grady",
+      "Grant",
+      "Greer",
+      "Harmon",
+      "Harper",
+      "Haskell",
+      "Hughes",
+      "Jackson",
+      "Jefferson",
+      "Johnston",
+      "JohnstonCoal",
+      "Kay",
+      "Kingfisher",
+      "KingfisherLogan",
+      "Kiowa",
+      "Latimer",
+      "LeFlore",
+      "LeFloreLatimer",
+      "Lincoln",
+      "LincolnCreek",
+      "LincolnPottawatomie",
+      "Logan",
+      "LoganPayne",
+      "Love",
+      "Major",
+      "Marshall",
+      "Mayes",
+      "MayesCraig",
+      "McClain",
+      "McClainCleveland",
+      "McClainGarvin",
+      "McClainGrady",
+      "McCurtain",
+      "McIntosh",
+      "Murray",
+      "MurrayGarvin",
+      "Muskogee",
+      "MuskogeeCherokee",
+      "Noble",
+      "Nowata",
+      "Okfuskee",
+      "Oklahoma",
+      "OklahomaCanadianClevelandPottawatomie",
+      "Okmulgee",
+      "Osage",
+      "Ottawa",
+      "Pawnee",
+      "Payne",
+      "PayneLogan",
+      "Pittsburg",
+      "Pontotoc",
+      "PontotocHughes",
+      "Pottawatomie",
+      "PottawatomieSeminole",
+      "Pushmataha",
+      "Roger Mills",
+      "Roger MillsCuster",
+      "Rogers",
+      "RogersWagoner",
+      "Seminole",
+      "Sequoyah",
+      "Stephens",
+      "Texas",
+      "Tillman",
+      "Tulsa",
+      "TulsaOkmulgee",
+      "TulsaOsage",
+      "TulsaOsageRogersWagoner",
+      "TulsaRogers",
+      "TulsaWagoner",
+      "Wagoner",
+      "Washington",
+      "WashingtonOsage",
+      "Washita",
+      "Woods",
+      "Woodward"
+    ]
+  },
+  "municipalities": [
+    {
+      "rank": 1,
+      "name": "Oklahoma City ††",
+      "primary_county": "OklahomaCanadianClevelandPottawatomie"
+    },
+    {
+      "rank": 2,
+      "name": "Tulsa †",
+      "primary_county": "TulsaOsageRogersWagoner"
+    },
+    {
+      "rank": 3,
+      "name": "Norman †",
+      "primary_county": "Cleveland"
+    },
+    {
+      "rank": 4,
+      "name": "Broken Arrow",
+      "primary_county": "TulsaWagoner"
+    },
+    {
+      "rank": 5,
+      "name": "Edmond",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 6,
+      "name": "Lawton †",
+      "primary_county": "Comanche"
+    },
+    {
+      "rank": 7,
+      "name": "Moore",
+      "primary_county": "Cleveland"
+    },
+    {
+      "rank": 8,
+      "name": "Midwest City",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 9,
+      "name": "Enid †",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 10,
+      "name": "Stillwater †",
+      "primary_county": "Payne"
+    },
+    {
+      "rank": 11,
+      "name": "Owasso",
+      "primary_county": "TulsaRogers"
+    },
+    {
+      "rank": 12,
+      "name": "Bartlesville †",
+      "primary_county": "WashingtonOsage"
+    },
+    {
+      "rank": 13,
+      "name": "Muskogee †",
+      "primary_county": "Muskogee"
+    },
+    {
+      "rank": 14,
+      "name": "Shawnee",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 15,
+      "name": "Bixby",
+      "primary_county": "TulsaWagoner"
+    },
+    {
+      "rank": 16,
+      "name": "Jenks",
+      "primary_county": "Tulsa"
+    },
+    {
+      "rank": 17,
+      "name": "Yukon",
+      "primary_county": "Canadian"
+    },
+    {
+      "rank": 18,
+      "name": "Ardmore",
+      "primary_county": "Carter"
+    },
+    {
+      "rank": 19,
+      "name": "Ponca City",
+      "primary_county": "Kay"
+    },
+    {
+      "rank": 20,
+      "name": "Duncan",
+      "primary_county": "Stephens"
+    },
+    {
+      "rank": 21,
+      "name": "Sapulpa",
+      "primary_county": "CreekTulsa"
+    },
+    {
+      "rank": 22,
+      "name": "Mustang",
+      "primary_county": "Canadian"
+    },
+    {
+      "rank": 23,
+      "name": "Del City",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 24,
+      "name": "Bethany",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 25,
+      "name": "Claremore",
+      "primary_county": "Rogers"
+    },
+    {
+      "rank": 26,
+      "name": "Sand Springs",
+      "primary_county": "TulsaOsage"
+    },
+    {
+      "rank": 27,
+      "name": "Durant",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 28,
+      "name": "El Reno",
+      "primary_county": "Canadian"
+    },
+    {
+      "rank": 29,
+      "name": "Altus",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 30,
+      "name": "McAlester",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 31,
+      "name": "Tahlequah",
+      "primary_county": "Cherokee"
+    },
+    {
+      "rank": 32,
+      "name": "Chickasha",
+      "primary_county": "Grady"
+    },
+    {
+      "rank": 33,
+      "name": "Ada",
+      "primary_county": "Pontotoc"
+    },
+    {
+      "rank": 34,
+      "name": "Glenpool",
+      "primary_county": "Tulsa"
+    },
+    {
+      "rank": 35,
+      "name": "Newcastle",
+      "primary_county": "McClain"
+    },
+    {
+      "rank": 36,
+      "name": "Miami",
+      "primary_county": "Ottawa"
+    },
+    {
+      "rank": 37,
+      "name": "Guymon",
+      "primary_county": "Texas"
+    },
+    {
+      "rank": 38,
+      "name": "Choctaw",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 39,
+      "name": "Weatherford",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 40,
+      "name": "Woodward",
+      "primary_county": "Woodward"
+    },
+    {
+      "rank": 41,
+      "name": "Okmulgee",
+      "primary_county": "Okmulgee"
+    },
+    {
+      "rank": 42,
+      "name": "Elk City",
+      "primary_county": "Beckham"
+    },
+    {
+      "rank": 43,
+      "name": "Guthrie",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 44,
+      "name": "Coweta",
+      "primary_county": "Wagoner"
+    },
+    {
+      "rank": 45,
+      "name": "Warr Acres",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 46,
+      "name": "Pryor Creek",
+      "primary_county": "Mayes"
+    },
+    {
+      "rank": 47,
+      "name": "Blanchard",
+      "primary_county": "McClainGrady"
+    },
+    {
+      "rank": 48,
+      "name": "The Village",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 49,
+      "name": "Poteau",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 50,
+      "name": "Collinsville",
+      "primary_county": "TulsaRogers"
+    },
+    {
+      "rank": 51,
+      "name": "Skiatook",
+      "primary_county": "TulsaOsage"
+    },
+    {
+      "rank": 52,
+      "name": "Sallisaw",
+      "primary_county": "Sequoyah"
+    },
+    {
+      "rank": 53,
+      "name": "Piedmont",
+      "primary_county": "CanadianKingfisher"
+    },
+    {
+      "rank": 54,
+      "name": "Cushing",
+      "primary_county": "Payne"
+    },
+    {
+      "rank": 55,
+      "name": "Clinton",
+      "primary_county": "CusterWashita"
+    },
+    {
+      "rank": 56,
+      "name": "Wagoner",
+      "primary_county": "Wagoner"
+    },
+    {
+      "rank": 57,
+      "name": "Tuttle",
+      "primary_county": "Grady"
+    },
+    {
+      "rank": 58,
+      "name": "Noble",
+      "primary_county": "Cleveland"
+    },
+    {
+      "rank": 59,
+      "name": "Catoosa",
+      "primary_county": "RogersWagoner"
+    },
+    {
+      "rank": 60,
+      "name": "Grove",
+      "primary_county": "Delaware"
+    },
+    {
+      "rank": 61,
+      "name": "Seminole",
+      "primary_county": "Seminole"
+    },
+    {
+      "rank": 62,
+      "name": "Idabel",
+      "primary_county": "McCurtain"
+    },
+    {
+      "rank": 63,
+      "name": "Purcell",
+      "primary_county": "McClainCleveland"
+    },
+    {
+      "rank": 64,
+      "name": "Harrah",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 65,
+      "name": "Tecumseh",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 66,
+      "name": "Blackwell",
+      "primary_county": "Kay"
+    },
+    {
+      "rank": 67,
+      "name": "Pauls Valley †",
+      "primary_county": "Garvin"
+    },
+    {
+      "rank": 68,
+      "name": "Holdenville",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 69,
+      "name": "Verdigris",
+      "primary_county": "Rogers"
+    },
+    {
+      "rank": 70,
+      "name": "Henryetta",
+      "primary_county": "Okmulgee"
+    },
+    {
+      "rank": 71,
+      "name": "Anadarko",
+      "primary_county": "Caddo"
+    },
+    {
+      "rank": 72,
+      "name": "Hugo",
+      "primary_county": "Choctaw"
+    },
+    {
+      "rank": 73,
+      "name": "Vinita",
+      "primary_county": "Craig"
+    },
+    {
+      "rank": 74,
+      "name": "Lone Grove",
+      "primary_county": "Carter"
+    },
+    {
+      "rank": 75,
+      "name": "Alva",
+      "primary_county": "Woods"
+    },
+    {
+      "rank": 76,
+      "name": "Kingfisher",
+      "primary_county": "Kingfisher"
+    },
+    {
+      "rank": 77,
+      "name": "Sulphur",
+      "primary_county": "Murray"
+    },
+    {
+      "rank": 78,
+      "name": "Hinton",
+      "primary_county": "Caddo"
+    },
+    {
+      "rank": 79,
+      "name": "Sayre",
+      "primary_county": "Beckham"
+    },
+    {
+      "rank": 80,
+      "name": "Marlow",
+      "primary_county": "Stephens"
+    },
+    {
+      "rank": 81,
+      "name": "Perry",
+      "primary_county": "Noble"
+    },
+    {
+      "rank": 82,
+      "name": "McLoud",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 83,
+      "name": "Pocola",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 84,
+      "name": "Bristow",
+      "primary_county": "Creek"
+    },
+    {
+      "rank": 85,
+      "name": "Broken Bow",
+      "primary_county": "McCurtain"
+    },
+    {
+      "rank": 86,
+      "name": "Slaughterville",
+      "primary_county": "Cleveland"
+    },
+    {
+      "rank": 87,
+      "name": "Madill",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 88,
+      "name": "Spencer",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 89,
+      "name": "Nichols Hills",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 90,
+      "name": "Fort Gibson",
+      "primary_county": "MuskogeeCherokee"
+    },
+    {
+      "rank": 91,
+      "name": "Stilwell",
+      "primary_county": "Adair"
+    },
+    {
+      "rank": 92,
+      "name": "Elgin",
+      "primary_county": "Comanche"
+    },
+    {
+      "rank": 93,
+      "name": "Roland",
+      "primary_county": "Sequoyah"
+    },
+    {
+      "rank": 94,
+      "name": "Nowata",
+      "primary_county": "Nowata"
+    },
+    {
+      "rank": 95,
+      "name": "Frederick",
+      "primary_county": "Tillman"
+    },
+    {
+      "rank": 96,
+      "name": "Dewey",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 97,
+      "name": "Hobart",
+      "primary_county": "Kiowa"
+    },
+    {
+      "rank": 98,
+      "name": "Mannford",
+      "primary_county": "Creek"
+    },
+    {
+      "rank": 99,
+      "name": "Muldrow",
+      "primary_county": "Sequoyah"
+    },
+    {
+      "rank": 100,
+      "name": "Hominy",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 101,
+      "name": "Perkins",
+      "primary_county": "Payne"
+    },
+    {
+      "rank": 102,
+      "name": "Cleveland",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 103,
+      "name": "Atoka",
+      "primary_county": "Atoka"
+    },
+    {
+      "rank": 104,
+      "name": "Bethel Acres",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 105,
+      "name": "Tishomingo",
+      "primary_county": "Johnston"
+    },
+    {
+      "rank": 106,
+      "name": "Cache",
+      "primary_county": "Comanche"
+    },
+    {
+      "rank": 107,
+      "name": "Checotah",
+      "primary_county": "McIntosh"
+    },
+    {
+      "rank": 108,
+      "name": "Goldsby",
+      "primary_county": "McClain"
+    },
+    {
+      "rank": 109,
+      "name": "Wewoka",
+      "primary_county": "Seminole"
+    },
+    {
+      "rank": 110,
+      "name": "Tonkawa",
+      "primary_county": "Kay"
+    },
+    {
+      "rank": 111,
+      "name": "Calera",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 112,
+      "name": "Jones",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 113,
+      "name": "Okemah",
+      "primary_county": "Okfuskee"
+    },
+    {
+      "rank": 114,
+      "name": "Heavener",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 115,
+      "name": "Pawhuska",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 116,
+      "name": "Chandler",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 117,
+      "name": "Lindsay",
+      "primary_county": "Garvin"
+    },
+    {
+      "rank": 118,
+      "name": "Marietta",
+      "primary_county": "Love"
+    },
+    {
+      "rank": 119,
+      "name": "Stroud",
+      "primary_county": "LincolnCreek"
+    },
+    {
+      "rank": 120,
+      "name": "Eufaula",
+      "primary_county": "McIntosh"
+    },
+    {
+      "rank": 121,
+      "name": "Davis",
+      "primary_county": "MurrayGarvin"
+    },
+    {
+      "rank": 122,
+      "name": "Mangum †",
+      "primary_county": "Greer"
+    },
+    {
+      "rank": 123,
+      "name": "New Cordell",
+      "primary_county": "Washita"
+    },
+    {
+      "rank": 124,
+      "name": "Stigler",
+      "primary_county": "Haskell"
+    },
+    {
+      "rank": 125,
+      "name": "Fairview",
+      "primary_county": "Major"
+    },
+    {
+      "rank": 126,
+      "name": "Watonga",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 127,
+      "name": "Drumright",
+      "primary_county": "CreekPayne"
+    },
+    {
+      "rank": 128,
+      "name": "Jay",
+      "primary_county": "Delaware"
+    },
+    {
+      "rank": 129,
+      "name": "Walters",
+      "primary_county": "Cotton"
+    },
+    {
+      "rank": 130,
+      "name": "Prague",
+      "primary_county": "LincolnPottawatomie"
+    },
+    {
+      "rank": 131,
+      "name": "Healdton",
+      "primary_county": "Carter"
+    },
+    {
+      "rank": 132,
+      "name": "Wilburton",
+      "primary_county": "Latimer"
+    },
+    {
+      "rank": 133,
+      "name": "Nicoma Park",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 134,
+      "name": "Commerce",
+      "primary_county": "Ottawa"
+    },
+    {
+      "rank": 135,
+      "name": "Kiefer",
+      "primary_county": "Creek"
+    },
+    {
+      "rank": 136,
+      "name": "Antlers",
+      "primary_county": "Pushmataha"
+    },
+    {
+      "rank": 137,
+      "name": "Newkirk",
+      "primary_county": "Kay"
+    },
+    {
+      "rank": 138,
+      "name": "Hennessey",
+      "primary_county": "Kingfisher"
+    },
+    {
+      "rank": 139,
+      "name": "Pink",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 140,
+      "name": "Spiro",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 141,
+      "name": "Chouteau",
+      "primary_county": "Mayes"
+    },
+    {
+      "rank": 142,
+      "name": "Krebs",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 143,
+      "name": "Lexington",
+      "primary_county": "Cleveland"
+    },
+    {
+      "rank": 144,
+      "name": "Chelsea",
+      "primary_county": "Rogers"
+    },
+    {
+      "rank": 145,
+      "name": "Pawnee",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 146,
+      "name": "Union City",
+      "primary_county": "Canadian"
+    },
+    {
+      "rank": 147,
+      "name": "Wynnewood",
+      "primary_county": "Garvin"
+    },
+    {
+      "rank": 148,
+      "name": "Hartshorne",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 149,
+      "name": "Burns Flat",
+      "primary_county": "Washita"
+    },
+    {
+      "rank": 150,
+      "name": "Inola",
+      "primary_county": "Rogers"
+    },
+    {
+      "rank": 151,
+      "name": "Waurika",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 152,
+      "name": "Arkoma",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 153,
+      "name": "Hollis",
+      "primary_county": "Harmon"
+    },
+    {
+      "rank": 154,
+      "name": "Hooker",
+      "primary_county": "Texas"
+    },
+    {
+      "rank": 155,
+      "name": "Coalgate",
+      "primary_county": "Coal"
+    },
+    {
+      "rank": 156,
+      "name": "Haskell",
+      "primary_county": "Muskogee"
+    },
+    {
+      "rank": 157,
+      "name": "Langston",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 158,
+      "name": "Granite",
+      "primary_county": "Greer"
+    },
+    {
+      "rank": 159,
+      "name": "Warner",
+      "primary_county": "Muskogee"
+    },
+    {
+      "rank": 160,
+      "name": "Helena",
+      "primary_county": "Alfalfa"
+    },
+    {
+      "rank": 161,
+      "name": "Luther",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 162,
+      "name": "Minco",
+      "primary_county": "Grady"
+    },
+    {
+      "rank": 163,
+      "name": "Kingston",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 164,
+      "name": "Cherokee",
+      "primary_county": "Alfalfa"
+    },
+    {
+      "rank": 165,
+      "name": "Wilson",
+      "primary_county": "Carter"
+    },
+    {
+      "rank": 166,
+      "name": "Stratford",
+      "primary_county": "Garvin"
+    },
+    {
+      "rank": 167,
+      "name": "Comanche",
+      "primary_county": "Stephens"
+    },
+    {
+      "rank": 168,
+      "name": "Byng",
+      "primary_county": "Pontotoc"
+    },
+    {
+      "rank": 169,
+      "name": "Locust Grove",
+      "primary_county": "Mayes"
+    },
+    {
+      "rank": 170,
+      "name": "Vian",
+      "primary_county": "Sequoyah"
+    },
+    {
+      "rank": 171,
+      "name": "Carnegie",
+      "primary_county": "Caddo"
+    },
+    {
+      "rank": 172,
+      "name": "Westville",
+      "primary_county": "Adair"
+    },
+    {
+      "rank": 173,
+      "name": "Dickson",
+      "primary_county": "Carter"
+    },
+    {
+      "rank": 174,
+      "name": "Crescent",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 175,
+      "name": "Waukomis",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 176,
+      "name": "Oologah",
+      "primary_county": "Rogers"
+    },
+    {
+      "rank": 177,
+      "name": "Morris",
+      "primary_county": "Okmulgee"
+    },
+    {
+      "rank": 178,
+      "name": "Panama",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 179,
+      "name": "Konawa",
+      "primary_county": "Seminole"
+    },
+    {
+      "rank": 180,
+      "name": "Beaver",
+      "primary_county": "Beaver"
+    },
+    {
+      "rank": 181,
+      "name": "Fletcher",
+      "primary_county": "Comanche"
+    },
+    {
+      "rank": 182,
+      "name": "Snyder",
+      "primary_county": "Kiowa"
+    },
+    {
+      "rank": 183,
+      "name": "Central High",
+      "primary_county": "Stephens"
+    },
+    {
+      "rank": 184,
+      "name": "Shattuck",
+      "primary_county": "Ellis"
+    },
+    {
+      "rank": 185,
+      "name": "Beggs",
+      "primary_county": "Okmulgee"
+    },
+    {
+      "rank": 186,
+      "name": "Geronimo",
+      "primary_county": "Comanche"
+    },
+    {
+      "rank": 187,
+      "name": "Laverne",
+      "primary_county": "Harper"
+    },
+    {
+      "rank": 188,
+      "name": "Okarche",
+      "primary_county": "CanadianKingfisher"
+    },
+    {
+      "rank": 189,
+      "name": "Mooreland",
+      "primary_county": "Woodward"
+    },
+    {
+      "rank": 190,
+      "name": "Boise City",
+      "primary_county": "Cimarron"
+    },
+    {
+      "rank": 191,
+      "name": "Wetumka",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 192,
+      "name": "Thomas",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 193,
+      "name": "Sperry",
+      "primary_county": "TulsaOsage"
+    },
+    {
+      "rank": 194,
+      "name": "Fairfax",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 195,
+      "name": "Fairland",
+      "primary_county": "Ottawa"
+    },
+    {
+      "rank": 196,
+      "name": "Salina",
+      "primary_county": "Mayes"
+    },
+    {
+      "rank": 197,
+      "name": "Boley",
+      "primary_county": "Okfuskee"
+    },
+    {
+      "rank": 198,
+      "name": "Maysville",
+      "primary_county": "McClainGarvin"
+    },
+    {
+      "rank": 199,
+      "name": "Colbert",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 200,
+      "name": "Yale",
+      "primary_county": "Payne"
+    },
+    {
+      "rank": 201,
+      "name": "Caddo",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 202,
+      "name": "Wister",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 203,
+      "name": "Forest Park",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 204,
+      "name": "West Siloam Springs",
+      "primary_county": "Delaware"
+    },
+    {
+      "rank": 205,
+      "name": "Okeene",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 206,
+      "name": "Kellyville",
+      "primary_county": "Creek"
+    },
+    {
+      "rank": 207,
+      "name": "Barnsdall",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 208,
+      "name": "Meeker",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 209,
+      "name": "Rush Springs",
+      "primary_county": "Grady"
+    },
+    {
+      "rank": 210,
+      "name": "Apache",
+      "primary_county": "Caddo"
+    },
+    {
+      "rank": 211,
+      "name": "North Enid",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 212,
+      "name": "Buffalo",
+      "primary_county": "Harper"
+    },
+    {
+      "rank": 213,
+      "name": "Bray",
+      "primary_county": "Stephens"
+    },
+    {
+      "rank": 214,
+      "name": "Shady Point",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 215,
+      "name": "Gore",
+      "primary_county": "Sequoyah"
+    },
+    {
+      "rank": 216,
+      "name": "Erick",
+      "primary_county": "Beckham"
+    },
+    {
+      "rank": 217,
+      "name": "Geary",
+      "primary_county": "CanadianBlaine"
+    },
+    {
+      "rank": 218,
+      "name": "Mounds",
+      "primary_county": "CreekOkmulgee"
+    },
+    {
+      "rank": 219,
+      "name": "Dibble",
+      "primary_county": "McClain"
+    },
+    {
+      "rank": 220,
+      "name": "Goodwell",
+      "primary_county": "Texas"
+    },
+    {
+      "rank": 221,
+      "name": "Talihina",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 222,
+      "name": "Grandfield",
+      "primary_county": "Tillman"
+    },
+    {
+      "rank": 223,
+      "name": "Hydro",
+      "primary_county": "CaddoBlaine"
+    },
+    {
+      "rank": 224,
+      "name": "Medford",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 225,
+      "name": "Pond Creek",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 226,
+      "name": "Cashion",
+      "primary_county": "KingfisherLogan"
+    },
+    {
+      "rank": 227,
+      "name": "Oakland",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 228,
+      "name": "Oilton",
+      "primary_county": "Creek"
+    },
+    {
+      "rank": 229,
+      "name": "Ringling",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 230,
+      "name": "Maud",
+      "primary_county": "PottawatomieSeminole"
+    },
+    {
+      "rank": 231,
+      "name": "Tipton",
+      "primary_county": "Tillman"
+    },
+    {
+      "rank": 232,
+      "name": "Quinton",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 233,
+      "name": "Temple",
+      "primary_county": "Cotton"
+    },
+    {
+      "rank": 234,
+      "name": "Davenport",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 235,
+      "name": "Seiling",
+      "primary_county": "DeweyMajor"
+    },
+    {
+      "rank": 236,
+      "name": "Texhoma",
+      "primary_county": "Texas"
+    },
+    {
+      "rank": 237,
+      "name": "Quapaw",
+      "primary_county": "Ottawa"
+    },
+    {
+      "rank": 238,
+      "name": "Valliant",
+      "primary_county": "McCurtain"
+    },
+    {
+      "rank": 239,
+      "name": "Allen",
+      "primary_county": "PontotocHughes"
+    },
+    {
+      "rank": 240,
+      "name": "Cyril",
+      "primary_county": "Caddo"
+    },
+    {
+      "rank": 241,
+      "name": "Ninnekah",
+      "primary_county": "Grady"
+    },
+    {
+      "rank": 242,
+      "name": "Weleetka",
+      "primary_county": "Okfuskee"
+    },
+    {
+      "rank": 243,
+      "name": "Dewar",
+      "primary_county": "Okmulgee"
+    },
+    {
+      "rank": 244,
+      "name": "Colcord",
+      "primary_county": "Delaware"
+    },
+    {
+      "rank": 245,
+      "name": "Sentinel",
+      "primary_county": "Washita"
+    },
+    {
+      "rank": 246,
+      "name": "Mannsville",
+      "primary_county": "Johnston"
+    },
+    {
+      "rank": 247,
+      "name": "Cheyenne",
+      "primary_county": "Roger Mills"
+    },
+    {
+      "rank": 248,
+      "name": "Elmore City",
+      "primary_county": "Garvin"
+    },
+    {
+      "rank": 249,
+      "name": "Adair",
+      "primary_county": "Mayes"
+    },
+    {
+      "rank": 250,
+      "name": "Rock Island",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 251,
+      "name": "Afton",
+      "primary_county": "Ottawa"
+    },
+    {
+      "rank": 252,
+      "name": "Kansas",
+      "primary_county": "Delaware"
+    },
+    {
+      "rank": 253,
+      "name": "Mountain View",
+      "primary_county": "Kiowa"
+    },
+    {
+      "rank": 254,
+      "name": "Empire City",
+      "primary_county": "Stephens"
+    },
+    {
+      "rank": 255,
+      "name": "Copan",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 256,
+      "name": "Garber",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 257,
+      "name": "Morrison",
+      "primary_county": "Noble"
+    },
+    {
+      "rank": 258,
+      "name": "Tyrone",
+      "primary_county": "Texas"
+    },
+    {
+      "rank": 259,
+      "name": "Haileyville",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 260,
+      "name": "Blair",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 261,
+      "name": "Waynoka",
+      "primary_county": "Woods"
+    },
+    {
+      "rank": 262,
+      "name": "Washington",
+      "primary_county": "McClain"
+    },
+    {
+      "rank": 263,
+      "name": "Springer",
+      "primary_county": "Carter"
+    },
+    {
+      "rank": 264,
+      "name": "South Coffeyville",
+      "primary_county": "Nowata"
+    },
+    {
+      "rank": 265,
+      "name": "Wellston",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 266,
+      "name": "Sterling",
+      "primary_county": "Comanche"
+    },
+    {
+      "rank": 267,
+      "name": "Ryan",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 268,
+      "name": "Arapaho",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 269,
+      "name": "Cole",
+      "primary_county": "McClain"
+    },
+    {
+      "rank": 270,
+      "name": "Valley Brook",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 271,
+      "name": "Wayne",
+      "primary_county": "McClain"
+    },
+    {
+      "rank": 272,
+      "name": "Howe",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 273,
+      "name": "Roff",
+      "primary_county": "Pontotoc"
+    },
+    {
+      "rank": 274,
+      "name": "Welch",
+      "primary_county": "Craig"
+    },
+    {
+      "rank": 275,
+      "name": "Savanna",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 276,
+      "name": "Langley",
+      "primary_county": "MayesCraig"
+    },
+    {
+      "rank": 277,
+      "name": "Kiowa",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 278,
+      "name": "Wright City",
+      "primary_county": "McCurtain"
+    },
+    {
+      "rank": 279,
+      "name": "Earlsboro",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 280,
+      "name": "Porum",
+      "primary_county": "Muskogee"
+    },
+    {
+      "rank": 281,
+      "name": "Porter",
+      "primary_county": "Wagoner"
+    },
+    {
+      "rank": 282,
+      "name": "Vici",
+      "primary_county": "Dewey"
+    },
+    {
+      "rank": 283,
+      "name": "Bokchito",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 284,
+      "name": "Corn",
+      "primary_county": "Washita"
+    },
+    {
+      "rank": 285,
+      "name": "Boswell",
+      "primary_county": "Choctaw"
+    },
+    {
+      "rank": 286,
+      "name": "Paoli",
+      "primary_county": "Garvin"
+    },
+    {
+      "rank": 287,
+      "name": "Billings",
+      "primary_county": "Noble"
+    },
+    {
+      "rank": 288,
+      "name": "Velma",
+      "primary_county": "Stephens"
+    },
+    {
+      "rank": 289,
+      "name": "Carney",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 290,
+      "name": "Clayton",
+      "primary_county": "Pushmataha"
+    },
+    {
+      "rank": 291,
+      "name": "Winchester",
+      "primary_county": "Okmulgee"
+    },
+    {
+      "rank": 292,
+      "name": "Okay",
+      "primary_county": "Wagoner"
+    },
+    {
+      "rank": 293,
+      "name": "Red Oak",
+      "primary_county": "Latimer"
+    },
+    {
+      "rank": 294,
+      "name": "Ramona",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 295,
+      "name": "Lahoma",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 296,
+      "name": "Verden",
+      "primary_county": "Grady"
+    },
+    {
+      "rank": 297,
+      "name": "Glencoe",
+      "primary_county": "Payne"
+    },
+    {
+      "rank": 298,
+      "name": "Ketchum",
+      "primary_county": "CraigMayes"
+    },
+    {
+      "rank": 299,
+      "name": "Fort Cobb",
+      "primary_county": "Caddo"
+    },
+    {
+      "rank": 300,
+      "name": "Fort Towson",
+      "primary_county": "Choctaw"
+    },
+    {
+      "rank": 301,
+      "name": "Hulbert",
+      "primary_county": "Cherokee"
+    },
+    {
+      "rank": 302,
+      "name": "Alex",
+      "primary_county": "Grady"
+    },
+    {
+      "rank": 303,
+      "name": "Wyandotte",
+      "primary_county": "Ottawa"
+    },
+    {
+      "rank": 304,
+      "name": "Arnett",
+      "primary_county": "Ellis"
+    },
+    {
+      "rank": 305,
+      "name": "Canute",
+      "primary_county": "Washita"
+    },
+    {
+      "rank": 306,
+      "name": "Calumet",
+      "primary_county": "Canadian"
+    },
+    {
+      "rank": 307,
+      "name": "Ravia",
+      "primary_county": "Johnston"
+    },
+    {
+      "rank": 308,
+      "name": "Covington",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 309,
+      "name": "Johnson",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 310,
+      "name": "Hammon",
+      "primary_county": "Roger MillsCuster"
+    },
+    {
+      "rank": 311,
+      "name": "Olustee",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 312,
+      "name": "Drummond",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 313,
+      "name": "Westport",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 314,
+      "name": "Forgan",
+      "primary_county": "Beaver"
+    },
+    {
+      "rank": 315,
+      "name": "Medicine Park",
+      "primary_county": "Comanche"
+    },
+    {
+      "rank": 316,
+      "name": "Canton",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 317,
+      "name": "Keota",
+      "primary_county": "Haskell"
+    },
+    {
+      "rank": 318,
+      "name": "Binger",
+      "primary_county": "Caddo"
+    },
+    {
+      "rank": 319,
+      "name": "Amber",
+      "primary_county": "Grady"
+    },
+    {
+      "rank": 320,
+      "name": "Ochelata",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 321,
+      "name": "Bernice",
+      "primary_county": "Delaware"
+    },
+    {
+      "rank": 322,
+      "name": "Schulter",
+      "primary_county": "Okmulgee"
+    },
+    {
+      "rank": 323,
+      "name": "Cedar Valley",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 324,
+      "name": "Gage",
+      "primary_county": "Ellis"
+    },
+    {
+      "rank": 325,
+      "name": "Stringtown",
+      "primary_county": "Atoka"
+    },
+    {
+      "rank": 326,
+      "name": "Cement",
+      "primary_county": "Caddo"
+    },
+    {
+      "rank": 327,
+      "name": "Foyil",
+      "primary_county": "Rogers"
+    },
+    {
+      "rank": 328,
+      "name": "Stonewall",
+      "primary_county": "Pontotoc"
+    },
+    {
+      "rank": 329,
+      "name": "Tushka",
+      "primary_county": "Atoka"
+    },
+    {
+      "rank": 330,
+      "name": "Achille",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 331,
+      "name": "Paden",
+      "primary_county": "Okfuskee"
+    },
+    {
+      "rank": 332,
+      "name": "Chattanooga",
+      "primary_county": "ComancheTillman"
+    },
+    {
+      "rank": 333,
+      "name": "Depew",
+      "primary_county": "Creek"
+    },
+    {
+      "rank": 334,
+      "name": "Dill City",
+      "primary_county": "Washita"
+    },
+    {
+      "rank": 335,
+      "name": "Thackerville",
+      "primary_county": "Love"
+    },
+    {
+      "rank": 336,
+      "name": "Leedey",
+      "primary_county": "Dewey"
+    },
+    {
+      "rank": 337,
+      "name": "Dover",
+      "primary_county": "Kingfisher"
+    },
+    {
+      "rank": 338,
+      "name": "Bokoshe",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 339,
+      "name": "Silo",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 340,
+      "name": "Wapanucka",
+      "primary_county": "Johnston"
+    },
+    {
+      "rank": 341,
+      "name": "East Duke",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 342,
+      "name": "Ringwood",
+      "primary_county": "Major"
+    },
+    {
+      "rank": 343,
+      "name": "Tryon",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 344,
+      "name": "Prue",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 345,
+      "name": "Whitefield",
+      "primary_county": "Haskell"
+    },
+    {
+      "rank": 346,
+      "name": "Asher",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 347,
+      "name": "Wynona",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 348,
+      "name": "Lone Wolf",
+      "primary_county": "Kiowa"
+    },
+    {
+      "rank": 349,
+      "name": "Custer City",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 350,
+      "name": "McCurtain",
+      "primary_county": "Haskell"
+    },
+    {
+      "rank": 351,
+      "name": "Coyle",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 352,
+      "name": "Carmen",
+      "primary_county": "Alfalfa"
+    },
+    {
+      "rank": 353,
+      "name": "Bowlegs",
+      "primary_county": "Seminole"
+    },
+    {
+      "rank": 354,
+      "name": "Spavinaw",
+      "primary_county": "Mayes"
+    },
+    {
+      "rank": 355,
+      "name": "Ripley",
+      "primary_county": "Payne"
+    },
+    {
+      "rank": 356,
+      "name": "Oktaha",
+      "primary_county": "Muskogee"
+    },
+    {
+      "rank": 357,
+      "name": "Bridge Creek",
+      "primary_county": "Grady"
+    },
+    {
+      "rank": 358,
+      "name": "Fort Coffee",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 359,
+      "name": "Tribbey",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 360,
+      "name": "Sawyer",
+      "primary_county": "Choctaw"
+    },
+    {
+      "rank": 361,
+      "name": "Webbers Falls",
+      "primary_county": "Muskogee"
+    },
+    {
+      "rank": 362,
+      "name": "Katie",
+      "primary_county": "Garvin"
+    },
+    {
+      "rank": 363,
+      "name": "Vera",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 364,
+      "name": "Kaw City",
+      "primary_county": "Kay"
+    },
+    {
+      "rank": 365,
+      "name": "Shidler",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 366,
+      "name": "Dustin",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 367,
+      "name": "Tupelo",
+      "primary_county": "Coal"
+    },
+    {
+      "rank": 368,
+      "name": "Cameron",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 369,
+      "name": "Optima",
+      "primary_county": "Texas"
+    },
+    {
+      "rank": 370,
+      "name": "Agra",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 371,
+      "name": "Sportsmen Acres",
+      "primary_county": "Mayes"
+    },
+    {
+      "rank": 372,
+      "name": "Mountain Park",
+      "primary_county": "Kiowa"
+    },
+    {
+      "rank": 373,
+      "name": "Eldorado",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 374,
+      "name": "Fanshawe",
+      "primary_county": "LeFloreLatimer"
+    },
+    {
+      "rank": 375,
+      "name": "Fort Supply",
+      "primary_county": "Woodward"
+    },
+    {
+      "rank": 376,
+      "name": "Calvin",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 377,
+      "name": "Bennington",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 378,
+      "name": "Fargo",
+      "primary_county": "Ellis"
+    },
+    {
+      "rank": 379,
+      "name": "Wakita",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 380,
+      "name": "Avant",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 381,
+      "name": "Crowder",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 382,
+      "name": "Mill Creek",
+      "primary_county": "Johnston"
+    },
+    {
+      "rank": 383,
+      "name": "North Miami",
+      "primary_county": "Ottawa"
+    },
+    {
+      "rank": 384,
+      "name": "Lamont",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 385,
+      "name": "Randlett",
+      "primary_county": "Cotton"
+    },
+    {
+      "rank": 386,
+      "name": "Jennings",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 387,
+      "name": "Eakly",
+      "primary_county": "Caddo"
+    },
+    {
+      "rank": 388,
+      "name": "Taloga",
+      "primary_county": "Dewey"
+    },
+    {
+      "rank": 389,
+      "name": "Haworth",
+      "primary_county": "McCurtain"
+    },
+    {
+      "rank": 390,
+      "name": "Kinta",
+      "primary_county": "Haskell"
+    },
+    {
+      "rank": 391,
+      "name": "Indiahoma",
+      "primary_county": "Comanche"
+    },
+    {
+      "rank": 392,
+      "name": "Wanette",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 393,
+      "name": "Lenapah",
+      "primary_county": "Nowata"
+    },
+    {
+      "rank": 394,
+      "name": "Terral",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 395,
+      "name": "Rattan",
+      "primary_county": "Pushmataha"
+    },
+    {
+      "rank": 396,
+      "name": "Watts",
+      "primary_county": "Adair"
+    },
+    {
+      "rank": 397,
+      "name": "Gracemont",
+      "primary_county": "Caddo"
+    },
+    {
+      "rank": 398,
+      "name": "Lehigh",
+      "primary_county": "Coal"
+    },
+    {
+      "rank": 399,
+      "name": "Cleo Springs",
+      "primary_county": "Major"
+    },
+    {
+      "rank": 400,
+      "name": "Delaware",
+      "primary_county": "Nowata"
+    },
+    {
+      "rank": 401,
+      "name": "Oaks",
+      "primary_county": "DelawareCherokee"
+    },
+    {
+      "rank": 402,
+      "name": "Ralston",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 403,
+      "name": "Keyes",
+      "primary_county": "Cimarron"
+    },
+    {
+      "rank": 404,
+      "name": "Braggs",
+      "primary_county": "Muskogee"
+    },
+    {
+      "rank": 405,
+      "name": "Talala",
+      "primary_county": "Rogers"
+    },
+    {
+      "rank": 406,
+      "name": "Milburn",
+      "primary_county": "Johnston"
+    },
+    {
+      "rank": 407,
+      "name": "Roosevelt",
+      "primary_county": "Kiowa"
+    },
+    {
+      "rank": 408,
+      "name": "Gans",
+      "primary_county": "Sequoyah"
+    },
+    {
+      "rank": 409,
+      "name": "Goltry",
+      "primary_county": "Alfalfa"
+    },
+    {
+      "rank": 410,
+      "name": "Red Rock",
+      "primary_county": "Noble"
+    },
+    {
+      "rank": 411,
+      "name": "Davidson",
+      "primary_county": "Tillman"
+    },
+    {
+      "rank": 412,
+      "name": "Francis",
+      "primary_county": "Pontotoc"
+    },
+    {
+      "rank": 413,
+      "name": "Foster",
+      "primary_county": "Garvin"
+    },
+    {
+      "rank": 414,
+      "name": "Kremlin",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 415,
+      "name": "Bluejacket",
+      "primary_county": "Craig"
+    },
+    {
+      "rank": 416,
+      "name": "Cromwell",
+      "primary_county": "Seminole"
+    },
+    {
+      "rank": 417,
+      "name": "Mead",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 418,
+      "name": "Soper",
+      "primary_county": "Choctaw"
+    },
+    {
+      "rank": 419,
+      "name": "Mulhall",
+      "primary_county": "PayneLogan"
+    },
+    {
+      "rank": 420,
+      "name": "Disney",
+      "primary_county": "Mayes"
+    },
+    {
+      "rank": 421,
+      "name": "Marshall",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 422,
+      "name": "Alderson",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 423,
+      "name": "Millerton",
+      "primary_county": "McCurtain"
+    },
+    {
+      "rank": 424,
+      "name": "Butler",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 425,
+      "name": "Breckenridge",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 426,
+      "name": "Byars",
+      "primary_county": "McClain"
+    },
+    {
+      "rank": 427,
+      "name": "Hardesty",
+      "primary_county": "Texas"
+    },
+    {
+      "rank": 428,
+      "name": "Stuart",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 429,
+      "name": "Jet",
+      "primary_county": "Alfalfa"
+    },
+    {
+      "rank": 430,
+      "name": "Dougherty",
+      "primary_county": "Murray"
+    },
+    {
+      "rank": 431,
+      "name": "Meno",
+      "primary_county": "Major"
+    },
+    {
+      "rank": 432,
+      "name": "Nash",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 433,
+      "name": "Ames",
+      "primary_county": "Major"
+    },
+    {
+      "rank": 434,
+      "name": "Camargo",
+      "primary_county": "Dewey"
+    },
+    {
+      "rank": 435,
+      "name": "Caney",
+      "primary_county": "Atoka"
+    },
+    {
+      "rank": 436,
+      "name": "Pocasset",
+      "primary_county": "Grady"
+    },
+    {
+      "rank": 437,
+      "name": "Fitzhugh",
+      "primary_county": "Pontotoc"
+    },
+    {
+      "rank": 438,
+      "name": "Marble City",
+      "primary_county": "Sequoyah"
+    },
+    {
+      "rank": 439,
+      "name": "Marland",
+      "primary_county": "Noble"
+    },
+    {
+      "rank": 440,
+      "name": "Bessie",
+      "primary_county": "Washita"
+    },
+    {
+      "rank": 441,
+      "name": "Longdale",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 442,
+      "name": "Pittsburg",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 443,
+      "name": "Freedom",
+      "primary_county": "Woods"
+    },
+    {
+      "rank": 444,
+      "name": "Carter",
+      "primary_county": "Beckham"
+    },
+    {
+      "rank": 445,
+      "name": "Garvin",
+      "primary_county": "McCurtain"
+    },
+    {
+      "rank": 446,
+      "name": "Osage",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 447,
+      "name": "Arcadia",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 448,
+      "name": "Taft",
+      "primary_county": "Muskogee"
+    },
+    {
+      "rank": 449,
+      "name": "Big Cabin",
+      "primary_county": "Craig"
+    },
+    {
+      "rank": 450,
+      "name": "Manitou",
+      "primary_county": "Tillman"
+    },
+    {
+      "rank": 451,
+      "name": "Warwick",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 452,
+      "name": "Castle",
+      "primary_county": "Okfuskee"
+    },
+    {
+      "rank": 453,
+      "name": "Aline",
+      "primary_county": "Alfalfa"
+    },
+    {
+      "rank": 454,
+      "name": "Gotebo",
+      "primary_county": "Kiowa"
+    },
+    {
+      "rank": 455,
+      "name": "Braman",
+      "primary_county": "Kay"
+    },
+    {
+      "rank": 456,
+      "name": "Boynton",
+      "primary_county": "Muskogee"
+    },
+    {
+      "rank": 457,
+      "name": "Cimarron City",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 458,
+      "name": "Etowah",
+      "primary_county": "Cleveland"
+    },
+    {
+      "rank": 459,
+      "name": "Martha",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 460,
+      "name": "Slick",
+      "primary_county": "Creek"
+    },
+    {
+      "rank": 461,
+      "name": "Gene Autry",
+      "primary_county": "Carter"
+    },
+    {
+      "rank": 462,
+      "name": "Kenefic",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 463,
+      "name": "Woodlawn Park",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 464,
+      "name": "Liberty",
+      "primary_county": "TulsaOkmulgee"
+    },
+    {
+      "rank": 465,
+      "name": "Tamaha",
+      "primary_county": "Haskell"
+    },
+    {
+      "rank": 466,
+      "name": "Le Flore",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 467,
+      "name": "Spaulding",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 468,
+      "name": "Indianola",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 469,
+      "name": "Canadian",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 470,
+      "name": "Hunter",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 471,
+      "name": "Bearden",
+      "primary_county": "Okfuskee"
+    },
+    {
+      "rank": 472,
+      "name": "Reydon",
+      "primary_county": "Roger Mills"
+    },
+    {
+      "rank": 473,
+      "name": "Kemp",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 474,
+      "name": "Orlando",
+      "primary_county": "LoganPayne"
+    },
+    {
+      "rank": 475,
+      "name": "Grayson",
+      "primary_county": "Okmulgee"
+    },
+    {
+      "rank": 476,
+      "name": "Peoria",
+      "primary_county": "Ottawa"
+    },
+    {
+      "rank": 477,
+      "name": "Fairmont",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 478,
+      "name": "Sharon",
+      "primary_county": "Woodward"
+    },
+    {
+      "rank": 479,
+      "name": "Rocky",
+      "primary_county": "Washita"
+    },
+    {
+      "rank": 480,
+      "name": "Phillips",
+      "primary_county": "Coal"
+    },
+    {
+      "rank": 481,
+      "name": "St. Louis",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 482,
+      "name": "Burlington",
+      "primary_county": "Alfalfa"
+    },
+    {
+      "rank": 483,
+      "name": "Burbank",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 484,
+      "name": "Lawrence Creek",
+      "primary_county": "Creek"
+    },
+    {
+      "rank": 485,
+      "name": "Norge",
+      "primary_county": "Grady"
+    },
+    {
+      "rank": 486,
+      "name": "Bromide",
+      "primary_county": "JohnstonCoal"
+    },
+    {
+      "rank": 487,
+      "name": "Lamar",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 488,
+      "name": "Sparks",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 489,
+      "name": "Willow",
+      "primary_county": "Greer"
+    },
+    {
+      "rank": 490,
+      "name": "Tatums",
+      "primary_county": "Carter"
+    },
+    {
+      "rank": 491,
+      "name": "Armstrong",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 492,
+      "name": "Cornish",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 493,
+      "name": "Faxon",
+      "primary_county": "Comanche"
+    },
+    {
+      "rank": 494,
+      "name": "Greenfield",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 495,
+      "name": "Hallett",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 496,
+      "name": "Council Hill",
+      "primary_county": "Muskogee"
+    },
+    {
+      "rank": 497,
+      "name": "Summit",
+      "primary_county": "Muskogee"
+    },
+    {
+      "rank": 498,
+      "name": "Colony",
+      "primary_county": "Washita"
+    },
+    {
+      "rank": 499,
+      "name": "Dacoma",
+      "primary_county": "Woods"
+    },
+    {
+      "rank": 500,
+      "name": "Rentiesville",
+      "primary_county": "McIntosh"
+    },
+    {
+      "rank": 501,
+      "name": "Carlton Landing",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 502,
+      "name": "Hastings",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 503,
+      "name": "Hanna",
+      "primary_county": "McIntosh"
+    },
+    {
+      "rank": 504,
+      "name": "Pensacola",
+      "primary_county": "Mayes"
+    },
+    {
+      "rank": 505,
+      "name": "Tullahassee",
+      "primary_county": "Wagoner"
+    },
+    {
+      "rank": 506,
+      "name": "Loco",
+      "primary_county": "Stephens"
+    },
+    {
+      "rank": 507,
+      "name": "Sweetwater",
+      "primary_county": "BeckhamRoger Mills"
+    },
+    {
+      "rank": 508,
+      "name": "Foss",
+      "primary_county": "Washita"
+    },
+    {
+      "rank": 509,
+      "name": "Gould",
+      "primary_county": "Harmon"
+    },
+    {
+      "rank": 510,
+      "name": "Wann",
+      "primary_county": "Nowata"
+    },
+    {
+      "rank": 511,
+      "name": "Hitchcock",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 512,
+      "name": "Horntown",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 513,
+      "name": "Bridgeport",
+      "primary_county": "Caddo"
+    },
+    {
+      "rank": 514,
+      "name": "Gerty",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 515,
+      "name": "Wainwright",
+      "primary_county": "Muskogee"
+    },
+    {
+      "rank": 516,
+      "name": "Redbird",
+      "primary_county": "Wagoner"
+    },
+    {
+      "rank": 517,
+      "name": "Devol",
+      "primary_county": "Cotton"
+    },
+    {
+      "rank": 518,
+      "name": "Kendrick",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 519,
+      "name": "Lake Aluma",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 520,
+      "name": "Kildare",
+      "primary_county": "Kay"
+    },
+    {
+      "rank": 521,
+      "name": "Manchester",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 522,
+      "name": "New Alluwe",
+      "primary_county": "Nowata"
+    },
+    {
+      "rank": 523,
+      "name": "Addington",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 524,
+      "name": "Carrier",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 525,
+      "name": "Centrahoma",
+      "primary_county": "Coal"
+    },
+    {
+      "rank": 526,
+      "name": "Hoffman",
+      "primary_county": "Okfuskee"
+    },
+    {
+      "rank": 527,
+      "name": "Atwood",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 528,
+      "name": "Bradley",
+      "primary_county": "Grady"
+    },
+    {
+      "rank": 529,
+      "name": "Hickory",
+      "primary_county": "Murray"
+    },
+    {
+      "rank": 530,
+      "name": "Fair Oaks",
+      "primary_county": "RogersWagoner"
+    },
+    {
+      "rank": 531,
+      "name": "Grand Lake Towne",
+      "primary_county": "Mayes"
+    },
+    {
+      "rank": 532,
+      "name": "Terlton",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 533,
+      "name": "Sasakwa",
+      "primary_county": "Seminole"
+    },
+    {
+      "rank": 534,
+      "name": "Lone Chimney",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 535,
+      "name": "Deer Creek",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 536,
+      "name": "Leon",
+      "primary_county": "Love"
+    },
+    {
+      "rank": 537,
+      "name": "Headrick",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 538,
+      "name": "Lookeba",
+      "primary_county": "Caddo"
+    },
+    {
+      "rank": 539,
+      "name": "Paradise Hill",
+      "primary_county": "Sequoyah"
+    },
+    {
+      "rank": 540,
+      "name": "Brooksville",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 541,
+      "name": "Hillsdale",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 542,
+      "name": "Oakwood",
+      "primary_county": "Dewey"
+    },
+    {
+      "rank": 543,
+      "name": "Loyal",
+      "primary_county": "Kingfisher"
+    },
+    {
+      "rank": 544,
+      "name": "Maramec",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 545,
+      "name": "Strang",
+      "primary_county": "Mayes"
+    },
+    {
+      "rank": 546,
+      "name": "Blackburn",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 547,
+      "name": "Lima",
+      "primary_county": "Seminole"
+    },
+    {
+      "rank": 548,
+      "name": "Rosedale",
+      "primary_county": "McClain"
+    },
+    {
+      "rank": 549,
+      "name": "Hendrix",
+      "primary_county": "Bryan"
+    },
+    {
+      "rank": 550,
+      "name": "Ratliff City",
+      "primary_county": "Carter"
+    },
+    {
+      "rank": 551,
+      "name": "Skedee",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 552,
+      "name": "Elmer",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 553,
+      "name": "Hitchita",
+      "primary_county": "McIntosh"
+    },
+    {
+      "rank": 554,
+      "name": "Mutual",
+      "primary_county": "Woodward"
+    },
+    {
+      "rank": 555,
+      "name": "Albion",
+      "primary_county": "Pushmataha"
+    },
+    {
+      "rank": 556,
+      "name": "Webb City",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 557,
+      "name": "IXL",
+      "primary_county": "Okfuskee"
+    },
+    {
+      "rank": 558,
+      "name": "Gate",
+      "primary_county": "Beaver"
+    },
+    {
+      "rank": 559,
+      "name": "Rosston",
+      "primary_county": "Harper"
+    },
+    {
+      "rank": 560,
+      "name": "Smith Village",
+      "primary_county": "Oklahoma"
+    },
+    {
+      "rank": 561,
+      "name": "Douglas",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 562,
+      "name": "Yeager",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 563,
+      "name": "Texola",
+      "primary_county": "Beckham"
+    },
+    {
+      "rank": 564,
+      "name": "Amorita",
+      "primary_county": "Alfalfa"
+    },
+    {
+      "rank": 565,
+      "name": "Byron",
+      "primary_county": "Alfalfa"
+    },
+    {
+      "rank": 566,
+      "name": "Hollister",
+      "primary_county": "Tillman"
+    },
+    {
+      "rank": 567,
+      "name": "Clearview",
+      "primary_county": "Okfuskee"
+    },
+    {
+      "rank": 568,
+      "name": "Moffett",
+      "primary_county": "Sequoyah"
+    },
+    {
+      "rank": 569,
+      "name": "Ashland",
+      "primary_county": "Pittsburg"
+    },
+    {
+      "rank": 570,
+      "name": "Grainola",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 571,
+      "name": "May",
+      "primary_county": "Harper"
+    },
+    {
+      "rank": 572,
+      "name": "Strong City",
+      "primary_county": "Roger Mills"
+    },
+    {
+      "rank": 573,
+      "name": "Putnam",
+      "primary_county": "Dewey"
+    },
+    {
+      "rank": 574,
+      "name": "Friendship",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 575,
+      "name": "Macomb",
+      "primary_county": "Pottawatomie"
+    },
+    {
+      "rank": 576,
+      "name": "Fallis",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 577,
+      "name": "Sugden",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 578,
+      "name": "Stidham",
+      "primary_county": "McIntosh"
+    },
+    {
+      "rank": 579,
+      "name": "Valley Park",
+      "primary_county": "Rogers"
+    },
+    {
+      "rank": 580,
+      "name": "Loveland",
+      "primary_county": "Tillman"
+    },
+    {
+      "rank": 581,
+      "name": "Meridia",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 582,
+      "name": "Renfrow",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 583,
+      "name": "Foraker",
+      "primary_county": "Osage"
+    },
+    {
+      "rank": 584,
+      "name": "Jefferson",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 585,
+      "name": "Lambert",
+      "primary_county": "Alfalfa"
+    },
+    {
+      "rank": 586,
+      "name": "Knowles",
+      "primary_county": "Beaver"
+    },
+    {
+      "rank": 587,
+      "name": "Mule Barn",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 588,
+      "name": "Lotsee",
+      "primary_county": "Tulsa"
+    },
+    {
+      "rank": 589,
+      "name": "Cooperton",
+      "primary_county": "Kiowa"
+    },
+    {
+      "rank": 590,
+      "name": "Capron",
+      "primary_county": "Woods"
+    },
+    {
+      "rank": 591,
+      "name": "Cowlington",
+      "primary_county": "LeFlore"
+    },
+    {
+      "rank": 592,
+      "name": "Erin Springs",
+      "primary_county": "Garvin"
+    },
+    {
+      "rank": 593,
+      "name": "Hoot Owl",
+      "primary_county": "Mayes"
+    },
+    {
+      "rank": 594,
+      "name": "New Woodville",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 595,
+      "name": "Oak Grove",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 596,
+      "name": "Smithville",
+      "primary_county": "McCurtain"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "state": "Rhode Island",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Rhode_Island",
+    "scraped_at": "2025-11-24 20:32:37",
+    "scraper_version": "2.0_generic",
+    "description": "Rhode Island municipalities scraped from Wikipedia",
+    "total_municipalities": 41,
+    "statistics": {
+      "total_found": 41,
+      "with_population": 0,
+      "with_counties": 40,
+      "unique_counties": 6,
+      "population_stats": {}
+    },
+    "counties": [
+      "Bristol",
+      "Kent",
+      "Newport",
+      "Providence",
+      "Washington",
+      "—"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi",
+      "designation": "km2"
+    },
+    {
+      "name": "Barrington",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "incorporated": "1653"
+    },
+    {
+      "name": "Bristol",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "incorporated": "1680"
+    },
+    {
+      "name": "Burrillville",
+      "designation": "Town",
+      "primary_county": "Providence",
+      "incorporated": "1730"
+    },
+    {
+      "name": "Central Falls",
+      "designation": "City",
+      "primary_county": "Providence",
+      "incorporated": "1730"
+    },
+    {
+      "name": "Charlestown",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "incorporated": "1669"
+    },
+    {
+      "name": "Coventry",
+      "designation": "Town",
+      "primary_county": "Kent",
+      "incorporated": "1639"
+    },
+    {
+      "name": "Cranston",
+      "designation": "City",
+      "primary_county": "Providence",
+      "incorporated": "1754"
+    },
+    {
+      "name": "Cumberland",
+      "designation": "Town",
+      "primary_county": "Providence",
+      "incorporated": "1746"
+    },
+    {
+      "name": "East Greenwich",
+      "designation": "Town",
+      "primary_county": "Kent",
+      "incorporated": "1677"
+    },
+    {
+      "name": "East Providence",
+      "designation": "City",
+      "primary_county": "Providence",
+      "incorporated": "1812"
+    },
+    {
+      "name": "Exeter",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "incorporated": "1641"
+    },
+    {
+      "name": "Foster",
+      "designation": "Town",
+      "primary_county": "Providence",
+      "incorporated": "1636"
+    },
+    {
+      "name": "Glocester",
+      "designation": "Town",
+      "primary_county": "Providence",
+      "incorporated": "1639"
+    },
+    {
+      "name": "Hopkinton",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "incorporated": "1639"
+    },
+    {
+      "name": "Jamestown",
+      "designation": "Town",
+      "primary_county": "Newport",
+      "incorporated": "1639"
+    },
+    {
+      "name": "Johnston",
+      "designation": "Town",
+      "primary_county": "Providence",
+      "incorporated": "1636"
+    },
+    {
+      "name": "Lincoln",
+      "designation": "Town",
+      "primary_county": "Providence",
+      "incorporated": "1650"
+    },
+    {
+      "name": "Little Compton",
+      "designation": "Town",
+      "primary_county": "Newport",
+      "incorporated": "1682"
+    },
+    {
+      "name": "Middletown",
+      "designation": "Town",
+      "primary_county": "Newport",
+      "incorporated": "1639"
+    },
+    {
+      "name": "Narragansett",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "incorporated": "1888"
+    },
+    {
+      "name": "Newport",
+      "designation": "City",
+      "primary_county": "Newport",
+      "incorporated": "1639"
+    },
+    {
+      "name": "New Shoreham",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "incorporated": "1664"
+    },
+    {
+      "name": "North Kingstown",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "incorporated": "1641"
+    },
+    {
+      "name": "North Providence",
+      "designation": "Town",
+      "primary_county": "Providence",
+      "incorporated": "1636"
+    },
+    {
+      "name": "North Smithfield",
+      "designation": "Town",
+      "primary_county": "Providence",
+      "incorporated": "1730"
+    },
+    {
+      "name": "Pawtucket",
+      "designation": "City",
+      "primary_county": "Providence",
+      "incorporated": "1671"
+    },
+    {
+      "name": "Portsmouth",
+      "designation": "Town",
+      "primary_county": "Newport",
+      "incorporated": "1638"
+    },
+    {
+      "name": "Providence†",
+      "designation": "City",
+      "primary_county": "Providence",
+      "incorporated": "1636"
+    },
+    {
+      "name": "Richmond",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "incorporated": "1636"
+    },
+    {
+      "name": "Scituate",
+      "designation": "Town",
+      "primary_county": "Providence",
+      "incorporated": "1636"
+    },
+    {
+      "name": "Smithfield",
+      "designation": "Town",
+      "primary_county": "Providence",
+      "incorporated": "1636"
+    },
+    {
+      "name": "South Kingstown",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "incorporated": "1657"
+    },
+    {
+      "name": "Tiverton",
+      "designation": "Town",
+      "primary_county": "Newport",
+      "incorporated": "1694"
+    },
+    {
+      "name": "Warren",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "incorporated": "1620"
+    },
+    {
+      "name": "Warwick",
+      "designation": "City",
+      "primary_county": "Kent",
+      "incorporated": "1642"
+    },
+    {
+      "name": "Westerly",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "incorporated": "1661"
+    },
+    {
+      "name": "West Greenwich",
+      "designation": "Town",
+      "primary_county": "Kent",
+      "incorporated": "1639"
+    },
+    {
+      "name": "West Warwick",
+      "designation": "Town",
+      "primary_county": "Kent",
+      "incorporated": "1648"
+    },
+    {
+      "name": "Woonsocket",
+      "designation": "City",
+      "primary_county": "Providence",
+      "incorporated": "1867"
+    },
+    {
+      "name": "Total",
+      "designation": "—",
+      "primary_county": "—",
+      "incorporated": "—"
+    }
+  ]
+}

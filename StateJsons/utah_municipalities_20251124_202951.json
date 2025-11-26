@@ -1,0 +1,1592 @@
+{
+  "metadata": {
+    "state": "Utah",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Utah",
+    "scraped_at": "2025-11-24 20:29:51",
+    "scraper_version": "2.0_generic",
+    "description": "Utah municipalities scraped from Wikipedia",
+    "total_municipalities": 255,
+    "statistics": {
+      "total_found": 255,
+      "with_population": 0,
+      "with_counties": 255,
+      "unique_counties": 29,
+      "population_stats": {}
+    },
+    "counties": [
+      "Beaver",
+      "Box Elder",
+      "Cache",
+      "Carbon",
+      "Daggett",
+      "Davis",
+      "Duchesne",
+      "Emery",
+      "Garfield",
+      "Grand",
+      "Iron",
+      "Juab",
+      "Kane",
+      "Millard",
+      "Morgan",
+      "Piute",
+      "Rich",
+      "Salt Lake",
+      "San Juan",
+      "Sanpete",
+      "Sevier",
+      "Summit",
+      "Tooele",
+      "Uintah",
+      "Utah",
+      "Wasatch",
+      "Washington",
+      "Wayne",
+      "Weber"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "Alpine",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 7.96
+    },
+    {
+      "name": "Alta",
+      "designation": "Town",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 4.56
+    },
+    {
+      "name": "Altamont",
+      "designation": "Town",
+      "primary_county": "Duchesne",
+      "area_sq_mi": 0.21
+    },
+    {
+      "name": "Alton",
+      "designation": "Town",
+      "primary_county": "Kane",
+      "area_sq_mi": 2.29
+    },
+    {
+      "name": "Amalga",
+      "designation": "Town",
+      "primary_county": "Cache",
+      "area_sq_mi": 3.49
+    },
+    {
+      "name": "American Fork",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 11.2
+    },
+    {
+      "name": "Annabella",
+      "designation": "Town",
+      "primary_county": "Sevier",
+      "area_sq_mi": 0.65
+    },
+    {
+      "name": "Antimony",
+      "designation": "Town",
+      "primary_county": "Garfield",
+      "area_sq_mi": 9.82
+    },
+    {
+      "name": "Apple Valley",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "area_sq_mi": 39.74
+    },
+    {
+      "name": "Aurora",
+      "designation": "City",
+      "primary_county": "Sevier",
+      "area_sq_mi": 0.92
+    },
+    {
+      "name": "Ballard",
+      "designation": "Town",
+      "primary_county": "Uintah",
+      "area_sq_mi": 13.98
+    },
+    {
+      "name": "Bear River City",
+      "designation": "City",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 1.8
+    },
+    {
+      "name": "Beaver*",
+      "designation": "City",
+      "primary_county": "Beaver",
+      "area_sq_mi": 6.68
+    },
+    {
+      "name": "Bicknell",
+      "designation": "Town",
+      "primary_county": "Wayne",
+      "area_sq_mi": 0.57
+    },
+    {
+      "name": "Big Water",
+      "designation": "Town",
+      "primary_county": "Kane",
+      "area_sq_mi": 5.99
+    },
+    {
+      "name": "Blanding",
+      "designation": "City",
+      "primary_county": "San Juan",
+      "area_sq_mi": 13.18
+    },
+    {
+      "name": "Bluff",
+      "designation": "Town",
+      "primary_county": "San Juan",
+      "area_sq_mi": 36.47
+    },
+    {
+      "name": "Bluffdale",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "secondary_counties": [
+        "Utah"
+      ],
+      "area_sq_mi": 11.14
+    },
+    {
+      "name": "Boulder",
+      "designation": "Town",
+      "primary_county": "Garfield",
+      "area_sq_mi": 20.93
+    },
+    {
+      "name": "Bountiful",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 13.19
+    },
+    {
+      "name": "Brian Head",
+      "designation": "Town",
+      "primary_county": "Iron",
+      "area_sq_mi": 3.65
+    },
+    {
+      "name": "Brigham City*",
+      "designation": "City",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 24.58
+    },
+    {
+      "name": "Brighton",
+      "designation": "Town",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 15.77
+    },
+    {
+      "name": "Bryce Canyon City",
+      "designation": "Town",
+      "primary_county": "Garfield",
+      "area_sq_mi": 3.35
+    },
+    {
+      "name": "Cannonville",
+      "designation": "Town",
+      "primary_county": "Garfield",
+      "area_sq_mi": 2.57
+    },
+    {
+      "name": "Castle Dale*",
+      "designation": "City",
+      "primary_county": "Emery",
+      "area_sq_mi": 2.23
+    },
+    {
+      "name": "Castle Valley",
+      "designation": "Town",
+      "primary_county": "Grand",
+      "area_sq_mi": 9.28
+    },
+    {
+      "name": "Cedar City",
+      "designation": "City",
+      "primary_county": "Iron",
+      "area_sq_mi": 35.86
+    },
+    {
+      "name": "Cedar Fort",
+      "designation": "Town",
+      "primary_county": "Utah",
+      "area_sq_mi": 21.38
+    },
+    {
+      "name": "Cedar Hills",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 2.73
+    },
+    {
+      "name": "Centerfield",
+      "designation": "City",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 1.91
+    },
+    {
+      "name": "Centerville",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 5.96
+    },
+    {
+      "name": "Central Valley",
+      "designation": "Town",
+      "primary_county": "Sevier",
+      "area_sq_mi": 2.11
+    },
+    {
+      "name": "Charleston",
+      "designation": "Town",
+      "primary_county": "Wasatch",
+      "area_sq_mi": 2.86
+    },
+    {
+      "name": "Circleville",
+      "designation": "Town",
+      "primary_county": "Piute",
+      "area_sq_mi": 11.04
+    },
+    {
+      "name": "Clarkston",
+      "designation": "Town",
+      "primary_county": "Cache",
+      "area_sq_mi": 0.93
+    },
+    {
+      "name": "Clawson",
+      "designation": "Town",
+      "primary_county": "Emery",
+      "area_sq_mi": 1.01
+    },
+    {
+      "name": "Clearfield",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 7.71
+    },
+    {
+      "name": "Cleveland",
+      "designation": "Town",
+      "primary_county": "Emery",
+      "area_sq_mi": 0.87
+    },
+    {
+      "name": "Clinton",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 5.93
+    },
+    {
+      "name": "Coalville*",
+      "designation": "City",
+      "primary_county": "Summit",
+      "area_sq_mi": 6.23
+    },
+    {
+      "name": "Copperton",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 0.31
+    },
+    {
+      "name": "Corinne",
+      "designation": "Town",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 3.78
+    },
+    {
+      "name": "Cornish",
+      "designation": "Town",
+      "primary_county": "Cache",
+      "area_sq_mi": 5.39
+    },
+    {
+      "name": "Cottonwood Heights",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 9.23
+    },
+    {
+      "name": "Daniel",
+      "designation": "Town",
+      "primary_county": "Wasatch",
+      "area_sq_mi": 3.29
+    },
+    {
+      "name": "Delta",
+      "designation": "City",
+      "primary_county": "Millard",
+      "area_sq_mi": 8.6
+    },
+    {
+      "name": "Deweyville",
+      "designation": "Town",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 6.38
+    },
+    {
+      "name": "Draper",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "secondary_counties": [
+        "Utah"
+      ],
+      "area_sq_mi": 29.95
+    },
+    {
+      "name": "Duchesne*",
+      "designation": "City",
+      "primary_county": "Duchesne",
+      "area_sq_mi": 2.8
+    },
+    {
+      "name": "Dutch John",
+      "designation": "Town",
+      "primary_county": "Daggett",
+      "area_sq_mi": 5.9
+    },
+    {
+      "name": "Eagle Mountain",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 50.43
+    },
+    {
+      "name": "East Carbon",
+      "designation": "City",
+      "primary_county": "Carbon",
+      "area_sq_mi": 11.29
+    },
+    {
+      "name": "Elk Ridge",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 2.82
+    },
+    {
+      "name": "Elmo",
+      "designation": "Town",
+      "primary_county": "Emery",
+      "area_sq_mi": 0.71
+    },
+    {
+      "name": "Elsinore",
+      "designation": "Town",
+      "primary_county": "Sevier",
+      "area_sq_mi": 1.34
+    },
+    {
+      "name": "Elwood",
+      "designation": "Town",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 8.06
+    },
+    {
+      "name": "Emery",
+      "designation": "Town",
+      "primary_county": "Emery",
+      "area_sq_mi": 1.23
+    },
+    {
+      "name": "Emigration Canyon",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 18.22
+    },
+    {
+      "name": "Enoch",
+      "designation": "City",
+      "primary_county": "Iron",
+      "area_sq_mi": 7.84
+    },
+    {
+      "name": "Enterprise",
+      "designation": "City",
+      "primary_county": "Washington",
+      "area_sq_mi": 8.74
+    },
+    {
+      "name": "Ephraim",
+      "designation": "City",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 4.45
+    },
+    {
+      "name": "Erda",
+      "designation": "City",
+      "primary_county": "Tooele",
+      "area_sq_mi": 22.5
+    },
+    {
+      "name": "Escalante",
+      "designation": "City",
+      "primary_county": "Garfield",
+      "area_sq_mi": 3.3
+    },
+    {
+      "name": "Eureka",
+      "designation": "City",
+      "primary_county": "Juab",
+      "area_sq_mi": 1.48
+    },
+    {
+      "name": "Fairfield",
+      "designation": "Town",
+      "primary_county": "Utah",
+      "area_sq_mi": 26.09
+    },
+    {
+      "name": "Fairview",
+      "designation": "City",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 1.26
+    },
+    {
+      "name": "Farmington*",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 9.95
+    },
+    {
+      "name": "Farr West",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 5.92
+    },
+    {
+      "name": "Fayette",
+      "designation": "Town",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 0.4
+    },
+    {
+      "name": "Ferron",
+      "designation": "City",
+      "primary_county": "Emery",
+      "area_sq_mi": 2.33
+    },
+    {
+      "name": "Fielding",
+      "designation": "Town",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 0.51
+    },
+    {
+      "name": "Fillmore*",
+      "designation": "City",
+      "primary_county": "Millard",
+      "area_sq_mi": 6.97
+    },
+    {
+      "name": "Fountain Green",
+      "designation": "City",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 1.25
+    },
+    {
+      "name": "Francis",
+      "designation": "Town",
+      "primary_county": "Summit",
+      "area_sq_mi": 2.98
+    },
+    {
+      "name": "Fruit Heights",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 2.29
+    },
+    {
+      "name": "Garden City",
+      "designation": "Town",
+      "primary_county": "Rich",
+      "area_sq_mi": 8.78
+    },
+    {
+      "name": "Garland",
+      "designation": "City",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 1.81
+    },
+    {
+      "name": "Genola",
+      "designation": "Town",
+      "primary_county": "Utah",
+      "area_sq_mi": 13.76
+    },
+    {
+      "name": "Glendale",
+      "designation": "Town",
+      "primary_county": "Kane",
+      "area_sq_mi": 7.0
+    },
+    {
+      "name": "Glenwood",
+      "designation": "Town",
+      "primary_county": "Sevier",
+      "area_sq_mi": 0.52
+    },
+    {
+      "name": "Goshen",
+      "designation": "Town",
+      "primary_county": "Utah",
+      "area_sq_mi": 0.83
+    },
+    {
+      "name": "Grantsville",
+      "designation": "City",
+      "primary_county": "Tooele",
+      "area_sq_mi": 37.47
+    },
+    {
+      "name": "Green River",
+      "designation": "City",
+      "primary_county": "Emery",
+      "area_sq_mi": 27.14
+    },
+    {
+      "name": "Gunnison",
+      "designation": "City",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 4.79
+    },
+    {
+      "name": "Hanksville",
+      "designation": "Town",
+      "primary_county": "Wayne",
+      "area_sq_mi": 1.69
+    },
+    {
+      "name": "Harrisville",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 2.98
+    },
+    {
+      "name": "Hatch",
+      "designation": "Town",
+      "primary_county": "Garfield",
+      "area_sq_mi": 1.82
+    },
+    {
+      "name": "Heber City*",
+      "designation": "City",
+      "primary_county": "Wasatch",
+      "area_sq_mi": 8.99
+    },
+    {
+      "name": "Helper",
+      "designation": "City",
+      "primary_county": "Carbon",
+      "area_sq_mi": 1.81
+    },
+    {
+      "name": "Henefer",
+      "designation": "Town",
+      "primary_county": "Summit",
+      "area_sq_mi": 2.48
+    },
+    {
+      "name": "Henrieville",
+      "designation": "Town",
+      "primary_county": "Garfield",
+      "area_sq_mi": 1.35
+    },
+    {
+      "name": "Herriman",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 21.63
+    },
+    {
+      "name": "Hideout",
+      "designation": "Town",
+      "primary_county": "Wasatch",
+      "area_sq_mi": 3.48
+    },
+    {
+      "name": "Highland",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 8.7
+    },
+    {
+      "name": "Hildale",
+      "designation": "City",
+      "primary_county": "Washington",
+      "area_sq_mi": 5.6
+    },
+    {
+      "name": "Hinckley",
+      "designation": "Town",
+      "primary_county": "Millard",
+      "area_sq_mi": 4.99
+    },
+    {
+      "name": "Holden",
+      "designation": "Town",
+      "primary_county": "Millard",
+      "area_sq_mi": 0.54
+    },
+    {
+      "name": "Holladay",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 8.5
+    },
+    {
+      "name": "Honeyville",
+      "designation": "City",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 11.74
+    },
+    {
+      "name": "Hooper",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 26.1
+    },
+    {
+      "name": "Howell",
+      "designation": "Town",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 35.28
+    },
+    {
+      "name": "Huntington",
+      "designation": "City",
+      "primary_county": "Emery",
+      "area_sq_mi": 2.26
+    },
+    {
+      "name": "Huntsville",
+      "designation": "Town",
+      "primary_county": "Weber",
+      "area_sq_mi": 0.83
+    },
+    {
+      "name": "Hurricane",
+      "designation": "City",
+      "primary_county": "Washington",
+      "area_sq_mi": 52.76
+    },
+    {
+      "name": "Hyde Park",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 4.41
+    },
+    {
+      "name": "Hyrum",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 6.19
+    },
+    {
+      "name": "Independence",
+      "designation": "Town",
+      "primary_county": "Wasatch",
+      "area_sq_mi": 30.55
+    },
+    {
+      "name": "Interlaken",
+      "designation": "Town",
+      "primary_county": "Wasatch",
+      "area_sq_mi": 0.22
+    },
+    {
+      "name": "Ivins",
+      "designation": "City",
+      "primary_county": "Washington",
+      "area_sq_mi": 9.44
+    },
+    {
+      "name": "Joseph",
+      "designation": "Town",
+      "primary_county": "Sevier",
+      "area_sq_mi": 0.87
+    },
+    {
+      "name": "Junction*",
+      "designation": "Town",
+      "primary_county": "Piute",
+      "area_sq_mi": 13.19
+    },
+    {
+      "name": "Kamas",
+      "designation": "City",
+      "primary_county": "Summit",
+      "area_sq_mi": 3.69
+    },
+    {
+      "name": "Kanab*",
+      "designation": "City",
+      "primary_county": "Kane",
+      "area_sq_mi": 14.44
+    },
+    {
+      "name": "Kanarraville",
+      "designation": "Town",
+      "primary_county": "Iron",
+      "area_sq_mi": 0.45
+    },
+    {
+      "name": "Kanosh",
+      "designation": "Town",
+      "primary_county": "Millard",
+      "area_sq_mi": 0.77
+    },
+    {
+      "name": "Kaysville",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 10.5
+    },
+    {
+      "name": "Kearns",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 4.63
+    },
+    {
+      "name": "Kingston",
+      "designation": "Town",
+      "primary_county": "Piute",
+      "area_sq_mi": 5.4
+    },
+    {
+      "name": "Koosharem",
+      "designation": "Town",
+      "primary_county": "Sevier",
+      "area_sq_mi": 0.83
+    },
+    {
+      "name": "La Verkin",
+      "designation": "City",
+      "primary_county": "Washington",
+      "area_sq_mi": 12.78
+    },
+    {
+      "name": "Laketown",
+      "designation": "Town",
+      "primary_county": "Rich",
+      "area_sq_mi": 2.52
+    },
+    {
+      "name": "Lake Point",
+      "designation": "City",
+      "primary_county": "Tooele",
+      "area_sq_mi": 4.6
+    },
+    {
+      "name": "Layton",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 22.5
+    },
+    {
+      "name": "Leamington",
+      "designation": "Town",
+      "primary_county": "Millard",
+      "area_sq_mi": 1.53
+    },
+    {
+      "name": "Leeds",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "area_sq_mi": 6.3
+    },
+    {
+      "name": "Lehi",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 28.11
+    },
+    {
+      "name": "Levan",
+      "designation": "Town",
+      "primary_county": "Juab",
+      "area_sq_mi": 0.81
+    },
+    {
+      "name": "Lewiston",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 25.84
+    },
+    {
+      "name": "Lindon",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 8.35
+    },
+    {
+      "name": "Loa*",
+      "designation": "Town",
+      "primary_county": "Wayne",
+      "area_sq_mi": 0.95
+    },
+    {
+      "name": "Logan*",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 17.85
+    },
+    {
+      "name": "Lyman",
+      "designation": "Town",
+      "primary_county": "Wayne",
+      "area_sq_mi": 1.81
+    },
+    {
+      "name": "Lynndyl",
+      "designation": "Town",
+      "primary_county": "Millard",
+      "area_sq_mi": 3.12
+    },
+    {
+      "name": "Magna",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 15.11
+    },
+    {
+      "name": "Manila*",
+      "designation": "Town",
+      "primary_county": "Daggett",
+      "area_sq_mi": 1.04
+    },
+    {
+      "name": "Manti*",
+      "designation": "City",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 3.16
+    },
+    {
+      "name": "Mantua",
+      "designation": "Town",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 4.91
+    },
+    {
+      "name": "Mapleton",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 13.35
+    },
+    {
+      "name": "Marriott-Slaterville",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 7.21
+    },
+    {
+      "name": "Marysvale",
+      "designation": "Town",
+      "primary_county": "Piute",
+      "area_sq_mi": 17.98
+    },
+    {
+      "name": "Mayfield",
+      "designation": "Town",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 0.9
+    },
+    {
+      "name": "Meadow",
+      "designation": "Town",
+      "primary_county": "Millard",
+      "area_sq_mi": 0.51
+    },
+    {
+      "name": "Mendon",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 1.43
+    },
+    {
+      "name": "Midvale",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 5.91
+    },
+    {
+      "name": "Midway",
+      "designation": "City",
+      "primary_county": "Wasatch",
+      "area_sq_mi": 5.55
+    },
+    {
+      "name": "Milford",
+      "designation": "City",
+      "primary_county": "Beaver",
+      "area_sq_mi": 2.14
+    },
+    {
+      "name": "Millcreek",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 12.77
+    },
+    {
+      "name": "Millville",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 2.51
+    },
+    {
+      "name": "Minersville",
+      "designation": "Town",
+      "primary_county": "Beaver",
+      "area_sq_mi": 2.18
+    },
+    {
+      "name": "Moab*",
+      "designation": "City",
+      "primary_county": "Grand",
+      "area_sq_mi": 4.8
+    },
+    {
+      "name": "Mona",
+      "designation": "City",
+      "primary_county": "Juab",
+      "area_sq_mi": 2.65
+    },
+    {
+      "name": "Monroe",
+      "designation": "City",
+      "primary_county": "Sevier",
+      "area_sq_mi": 3.57
+    },
+    {
+      "name": "Monticello*",
+      "designation": "City",
+      "primary_county": "San Juan",
+      "area_sq_mi": 3.66
+    },
+    {
+      "name": "Morgan*",
+      "designation": "City",
+      "primary_county": "Morgan",
+      "area_sq_mi": 2.97
+    },
+    {
+      "name": "Moroni",
+      "designation": "City",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 1.07
+    },
+    {
+      "name": "Mount Pleasant",
+      "designation": "City",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 2.93
+    },
+    {
+      "name": "Murray",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 12.32
+    },
+    {
+      "name": "Myton",
+      "designation": "City",
+      "primary_county": "Duchesne",
+      "area_sq_mi": 1.01
+    },
+    {
+      "name": "Naples",
+      "designation": "City",
+      "primary_county": "Uintah",
+      "area_sq_mi": 6.6
+    },
+    {
+      "name": "Nephi*",
+      "designation": "City",
+      "primary_county": "Juab",
+      "area_sq_mi": 4.75
+    },
+    {
+      "name": "New Harmony",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "area_sq_mi": 0.61
+    },
+    {
+      "name": "Newton",
+      "designation": "Town",
+      "primary_county": "Cache",
+      "area_sq_mi": 0.86
+    },
+    {
+      "name": "Nibley",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 4.39
+    },
+    {
+      "name": "North Logan",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 7.13
+    },
+    {
+      "name": "North Ogden",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 7.51
+    },
+    {
+      "name": "North Salt Lake",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 8.47
+    },
+    {
+      "name": "Oak City",
+      "designation": "Town",
+      "primary_county": "Millard",
+      "area_sq_mi": 0.94
+    },
+    {
+      "name": "Oakley",
+      "designation": "City",
+      "primary_county": "Summit",
+      "area_sq_mi": 7.08
+    },
+    {
+      "name": "Ogden*",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 27.55
+    },
+    {
+      "name": "Orangeville",
+      "designation": "City",
+      "primary_county": "Emery",
+      "area_sq_mi": 1.43
+    },
+    {
+      "name": "Orderville",
+      "designation": "Town",
+      "primary_county": "Kane",
+      "area_sq_mi": 8.72
+    },
+    {
+      "name": "Orem",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 18.61
+    },
+    {
+      "name": "Panguitch*",
+      "designation": "City",
+      "primary_county": "Garfield",
+      "area_sq_mi": 3.08
+    },
+    {
+      "name": "Paradise",
+      "designation": "Town",
+      "primary_county": "Cache",
+      "area_sq_mi": 1.45
+    },
+    {
+      "name": "Paragonah",
+      "designation": "Town",
+      "primary_county": "Iron",
+      "area_sq_mi": 0.67
+    },
+    {
+      "name": "Park City",
+      "designation": "City",
+      "primary_county": "Summit",
+      "secondary_counties": [
+        "Wasatch"
+      ],
+      "area_sq_mi": 20.42
+    },
+    {
+      "name": "Parowan*",
+      "designation": "City",
+      "primary_county": "Iron",
+      "area_sq_mi": 6.89
+    },
+    {
+      "name": "Payson",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 13.04
+    },
+    {
+      "name": "Perry",
+      "designation": "City",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 8.0
+    },
+    {
+      "name": "Plain City",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 11.99
+    },
+    {
+      "name": "Pleasant Grove",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 9.18
+    },
+    {
+      "name": "Pleasant View",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 6.98
+    },
+    {
+      "name": "Plymouth",
+      "designation": "Town",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 0.83
+    },
+    {
+      "name": "Portage",
+      "designation": "Town",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 2.55
+    },
+    {
+      "name": "Price*",
+      "designation": "City",
+      "primary_county": "Carbon",
+      "area_sq_mi": 5.04
+    },
+    {
+      "name": "Providence",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 3.9
+    },
+    {
+      "name": "Provo*",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 41.69
+    },
+    {
+      "name": "Randolph*",
+      "designation": "Town",
+      "primary_county": "Rich",
+      "area_sq_mi": 1.29
+    },
+    {
+      "name": "Redmond",
+      "designation": "Town",
+      "primary_county": "Sevier",
+      "area_sq_mi": 0.94
+    },
+    {
+      "name": "Richfield*",
+      "designation": "City",
+      "primary_county": "Sevier",
+      "area_sq_mi": 5.93
+    },
+    {
+      "name": "Richmond",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 3.46
+    },
+    {
+      "name": "Riverdale",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 4.63
+    },
+    {
+      "name": "River Heights",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 0.66
+    },
+    {
+      "name": "Riverton",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 12.58
+    },
+    {
+      "name": "Rockville",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "area_sq_mi": 8.47
+    },
+    {
+      "name": "Rocky Ridge",
+      "designation": "Town",
+      "primary_county": "Juab",
+      "area_sq_mi": 1.71
+    },
+    {
+      "name": "Roosevelt",
+      "designation": "City",
+      "primary_county": "Duchesne",
+      "area_sq_mi": 6.76
+    },
+    {
+      "name": "Roy",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 8.14
+    },
+    {
+      "name": "Rush Valley",
+      "designation": "Town",
+      "primary_county": "Tooele",
+      "area_sq_mi": 18.08
+    },
+    {
+      "name": "Salem",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 10.5
+    },
+    {
+      "name": "Salina",
+      "designation": "City",
+      "primary_county": "Sevier",
+      "area_sq_mi": 5.83
+    },
+    {
+      "name": "Salt Lake City*",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 110.34
+    },
+    {
+      "name": "Sandy",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 24.15
+    },
+    {
+      "name": "Santa Clara",
+      "designation": "City",
+      "primary_county": "Washington",
+      "area_sq_mi": 6.12
+    },
+    {
+      "name": "Santaquin",
+      "designation": "City",
+      "primary_county": "Utah",
+      "secondary_counties": [
+        "Juab"
+      ],
+      "area_sq_mi": 10.44
+    },
+    {
+      "name": "Saratoga Springs",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 23.23
+    },
+    {
+      "name": "Scipio",
+      "designation": "Town",
+      "primary_county": "Millard",
+      "area_sq_mi": 1.04
+    },
+    {
+      "name": "Scofield",
+      "designation": "Town",
+      "primary_county": "Carbon",
+      "area_sq_mi": 0.92
+    },
+    {
+      "name": "Sigurd",
+      "designation": "Town",
+      "primary_county": "Sevier",
+      "area_sq_mi": 0.98
+    },
+    {
+      "name": "Smithfield",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 5.35
+    },
+    {
+      "name": "Snowville",
+      "designation": "Town",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 1.55
+    },
+    {
+      "name": "South Jordan",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 22.19
+    },
+    {
+      "name": "South Ogden",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 3.9
+    },
+    {
+      "name": "South Salt Lake",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 6.94
+    },
+    {
+      "name": "South Weber",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 4.64
+    },
+    {
+      "name": "Spanish Fork",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 16.21
+    },
+    {
+      "name": "Spring City",
+      "designation": "City",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 1.41
+    },
+    {
+      "name": "Springdale",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "area_sq_mi": 4.62
+    },
+    {
+      "name": "Springville",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 14.38
+    },
+    {
+      "name": "St. George*",
+      "designation": "City",
+      "primary_county": "Washington",
+      "area_sq_mi": 78.46
+    },
+    {
+      "name": "Sterling",
+      "designation": "Town",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 0.32
+    },
+    {
+      "name": "Stockton",
+      "designation": "Town",
+      "primary_county": "Tooele",
+      "area_sq_mi": 1.68
+    },
+    {
+      "name": "Sunset",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 1.46
+    },
+    {
+      "name": "Syracuse",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 10.18
+    },
+    {
+      "name": "Tabiona",
+      "designation": "Town",
+      "primary_county": "Duchesne",
+      "area_sq_mi": 0.1
+    },
+    {
+      "name": "Taylorsville",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 10.85
+    },
+    {
+      "name": "Tooele*",
+      "designation": "City",
+      "primary_county": "Tooele",
+      "area_sq_mi": 24.14
+    },
+    {
+      "name": "Toquerville",
+      "designation": "City",
+      "primary_county": "Washington",
+      "area_sq_mi": 22.2
+    },
+    {
+      "name": "Torrey",
+      "designation": "Town",
+      "primary_county": "Wayne",
+      "area_sq_mi": 1.66
+    },
+    {
+      "name": "Tremonton",
+      "designation": "City",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 8.02
+    },
+    {
+      "name": "Trenton",
+      "designation": "Town",
+      "primary_county": "Cache",
+      "area_sq_mi": 8.21
+    },
+    {
+      "name": "Tropic",
+      "designation": "Town",
+      "primary_county": "Garfield",
+      "area_sq_mi": 7.91
+    },
+    {
+      "name": "Uintah",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 1.24
+    },
+    {
+      "name": "Vernal*",
+      "designation": "City",
+      "primary_county": "Uintah",
+      "area_sq_mi": 4.62
+    },
+    {
+      "name": "Vernon",
+      "designation": "Town",
+      "primary_county": "Tooele",
+      "area_sq_mi": 8.06
+    },
+    {
+      "name": "Vineyard",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 4.8
+    },
+    {
+      "name": "Virgin",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "area_sq_mi": 12.72
+    },
+    {
+      "name": "Wales",
+      "designation": "Town",
+      "primary_county": "Sanpete",
+      "area_sq_mi": 0.4
+    },
+    {
+      "name": "Wallsburg",
+      "designation": "Town",
+      "primary_county": "Wasatch",
+      "area_sq_mi": 0.63
+    },
+    {
+      "name": "Washington",
+      "designation": "City",
+      "primary_county": "Washington",
+      "area_sq_mi": 34.79
+    },
+    {
+      "name": "Washington Terrace",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 2.04
+    },
+    {
+      "name": "Wellington",
+      "designation": "City",
+      "primary_county": "Carbon",
+      "area_sq_mi": 5.11
+    },
+    {
+      "name": "Wellsville",
+      "designation": "City",
+      "primary_county": "Cache",
+      "area_sq_mi": 7.27
+    },
+    {
+      "name": "Wendover",
+      "designation": "City",
+      "primary_county": "Tooele",
+      "area_sq_mi": 8.93
+    },
+    {
+      "name": "West Bountiful",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 3.31
+    },
+    {
+      "name": "West Haven",
+      "designation": "City",
+      "primary_county": "Weber",
+      "area_sq_mi": 10.64
+    },
+    {
+      "name": "West Jordan",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 32.33
+    },
+    {
+      "name": "West Point",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 7.11
+    },
+    {
+      "name": "West Valley City",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 35.83
+    },
+    {
+      "name": "White City",
+      "designation": "City",
+      "primary_county": "Salt Lake",
+      "area_sq_mi": 0.87
+    },
+    {
+      "name": "Willard",
+      "designation": "City",
+      "primary_county": "Box Elder",
+      "area_sq_mi": 5.56
+    },
+    {
+      "name": "Woodland Hills",
+      "designation": "City",
+      "primary_county": "Utah",
+      "area_sq_mi": 2.53
+    },
+    {
+      "name": "Woodruff",
+      "designation": "Town",
+      "primary_county": "Rich",
+      "area_sq_mi": 0.72
+    },
+    {
+      "name": "Woods Cross",
+      "designation": "City",
+      "primary_county": "Davis",
+      "area_sq_mi": 3.83
+    }
+  ]
+}

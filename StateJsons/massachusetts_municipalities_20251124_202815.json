@@ -1,0 +1,2505 @@
+{
+  "metadata": {
+    "state": "Massachusetts",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Massachusetts",
+    "scraped_at": "2025-11-24 20:28:15",
+    "scraper_version": "2.0_generic",
+    "description": "Massachusetts municipalities scraped from Wikipedia",
+    "total_municipalities": 351,
+    "statistics": {
+      "total_found": 351,
+      "with_population": 0,
+      "with_counties": 351,
+      "unique_counties": 27,
+      "population_stats": {}
+    },
+    "counties": [
+      "Barnstable",
+      "Barnstable (seat)",
+      "Berkshire",
+      "Berkshire (seat)",
+      "Bristol",
+      "Bristol (seat)",
+      "Dukes",
+      "Dukes (seat)",
+      "Essex",
+      "Essex (seat)",
+      "Franklin",
+      "Franklin (seat)",
+      "Hampden",
+      "Hampden (seat)",
+      "Hampshire",
+      "Hampshire (seat)",
+      "Middlesex",
+      "Middlesex (seat)",
+      "Nantucket (seat)",
+      "Norfolk",
+      "Norfolk (seat)",
+      "Plymouth",
+      "Plymouth (seat)",
+      "Suffolk",
+      "Suffolk (seat)",
+      "Worcester",
+      "Worcester (seat)"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "Boston",
+      "designation": "City (capital)",
+      "primary_county": "Suffolk (seat)",
+      "area_sq_mi": 48.3,
+      "incorporated": "1630"
+    },
+    {
+      "name": "Worcester",
+      "designation": "City",
+      "primary_county": "Worcester (seat)",
+      "area_sq_mi": 37.4,
+      "incorporated": "1722"
+    },
+    {
+      "name": "Springfield",
+      "designation": "City",
+      "primary_county": "Hampden (seat)",
+      "area_sq_mi": 31.9,
+      "incorporated": "1636"
+    },
+    {
+      "name": "Cambridge",
+      "designation": "City",
+      "primary_county": "Middlesex (seat)",
+      "area_sq_mi": 6.4,
+      "incorporated": "1636"
+    },
+    {
+      "name": "Lowell",
+      "designation": "City",
+      "primary_county": "Middlesex (seat)",
+      "area_sq_mi": 13.6,
+      "incorporated": "1826"
+    },
+    {
+      "name": "Brockton",
+      "designation": "City",
+      "primary_county": "Plymouth (seat)",
+      "area_sq_mi": 21.3,
+      "incorporated": "1821"
+    },
+    {
+      "name": "Quincy",
+      "designation": "City",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 16.6,
+      "incorporated": "1792"
+    },
+    {
+      "name": "Lynn",
+      "designation": "City",
+      "primary_county": "Essex",
+      "area_sq_mi": 10.7,
+      "incorporated": "1629"
+    },
+    {
+      "name": "New Bedford",
+      "designation": "City",
+      "primary_county": "Bristol",
+      "area_sq_mi": 20.0,
+      "incorporated": "1787"
+    },
+    {
+      "name": "Fall River",
+      "designation": "City",
+      "primary_county": "Bristol",
+      "area_sq_mi": 33.1,
+      "incorporated": "1803"
+    },
+    {
+      "name": "Lawrence",
+      "designation": "City",
+      "primary_county": "Essex (seat)",
+      "area_sq_mi": 6.9,
+      "incorporated": "1847"
+    },
+    {
+      "name": "Newton",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 17.8,
+      "incorporated": "1688"
+    },
+    {
+      "name": "Somerville",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 4.1,
+      "incorporated": "1842"
+    },
+    {
+      "name": "Framingham",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 25.0,
+      "incorporated": "1700"
+    },
+    {
+      "name": "Haverhill",
+      "designation": "City",
+      "primary_county": "Essex",
+      "area_sq_mi": 33.0,
+      "incorporated": "1641"
+    },
+    {
+      "name": "Malden",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 5.0,
+      "incorporated": "1649"
+    },
+    {
+      "name": "Waltham",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 12.7,
+      "incorporated": "1738"
+    },
+    {
+      "name": "Brookline",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 6.8,
+      "incorporated": "1705"
+    },
+    {
+      "name": "Revere",
+      "designation": "City",
+      "primary_county": "Suffolk",
+      "area_sq_mi": 5.7,
+      "incorporated": "1846"
+    },
+    {
+      "name": "Plymouth",
+      "designation": "Town",
+      "primary_county": "Plymouth (seat)",
+      "area_sq_mi": 96.5,
+      "incorporated": "1620"
+    },
+    {
+      "name": "Medford",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 8.1,
+      "incorporated": "1630"
+    },
+    {
+      "name": "Taunton",
+      "designation": "City",
+      "primary_county": "Bristol (seat)",
+      "area_sq_mi": 46.7,
+      "incorporated": "1639"
+    },
+    {
+      "name": "Weymouth",
+      "designation": "City",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 16.8,
+      "incorporated": "1635"
+    },
+    {
+      "name": "Chicopee",
+      "designation": "City",
+      "primary_county": "Hampden",
+      "area_sq_mi": 22.9,
+      "incorporated": "1848"
+    },
+    {
+      "name": "Peabody",
+      "designation": "City",
+      "primary_county": "Essex",
+      "area_sq_mi": 16.2,
+      "incorporated": "1868"
+    },
+    {
+      "name": "Methuen",
+      "designation": "City",
+      "primary_county": "Essex",
+      "area_sq_mi": 22.2,
+      "incorporated": "1725"
+    },
+    {
+      "name": "Everett",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 3.4,
+      "incorporated": "1870"
+    },
+    {
+      "name": "Barnstable",
+      "designation": "City",
+      "primary_county": "Barnstable (seat)",
+      "area_sq_mi": 59.3,
+      "incorporated": "1639"
+    },
+    {
+      "name": "Attleboro",
+      "designation": "City",
+      "primary_county": "Bristol",
+      "area_sq_mi": 26.8,
+      "incorporated": "1694"
+    },
+    {
+      "name": "Arlington",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 5.0,
+      "incorporated": "1807"
+    },
+    {
+      "name": "Salem",
+      "designation": "City",
+      "primary_county": "Essex (seat)",
+      "area_sq_mi": 8.3,
+      "incorporated": "1626"
+    },
+    {
+      "name": "Pittsfield",
+      "designation": "City",
+      "primary_county": "Berkshire (seat)",
+      "area_sq_mi": 40.5,
+      "incorporated": "1761"
+    },
+    {
+      "name": "Leominster",
+      "designation": "City",
+      "primary_county": "Worcester",
+      "area_sq_mi": 28.9,
+      "incorporated": "1740"
+    },
+    {
+      "name": "Beverly",
+      "designation": "City",
+      "primary_county": "Essex",
+      "area_sq_mi": 15.1,
+      "incorporated": "1668"
+    },
+    {
+      "name": "Billerica",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 25.9,
+      "incorporated": "1655"
+    },
+    {
+      "name": "Fitchburg",
+      "designation": "City",
+      "primary_county": "Worcester",
+      "area_sq_mi": 27.8,
+      "incorporated": "1764"
+    },
+    {
+      "name": "Marlborough",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 20.9,
+      "incorporated": "1660"
+    },
+    {
+      "name": "Woburn",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 12.7,
+      "incorporated": "1642"
+    },
+    {
+      "name": "Westfield",
+      "designation": "City",
+      "primary_county": "Hampden",
+      "area_sq_mi": 46.3,
+      "incorporated": "1669"
+    },
+    {
+      "name": "Chelsea",
+      "designation": "City",
+      "primary_county": "Suffolk",
+      "area_sq_mi": 2.2,
+      "incorporated": "1739"
+    },
+    {
+      "name": "Amherst",
+      "designation": "City",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 27.6,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Braintree",
+      "designation": "City",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 13.8,
+      "incorporated": "1640"
+    },
+    {
+      "name": "Shrewsbury",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 20.7,
+      "incorporated": "1727"
+    },
+    {
+      "name": "Holyoke",
+      "designation": "City",
+      "primary_county": "Hampden",
+      "area_sq_mi": 21.2,
+      "incorporated": "1850"
+    },
+    {
+      "name": "Natick",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 15.1,
+      "incorporated": "1781"
+    },
+    {
+      "name": "Andover",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 31.0,
+      "incorporated": "1646"
+    },
+    {
+      "name": "Chelmsford",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 22.7,
+      "incorporated": "1655"
+    },
+    {
+      "name": "Watertown",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 4.0,
+      "incorporated": "1630"
+    },
+    {
+      "name": "Randolph",
+      "designation": "City",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 10.1,
+      "incorporated": "1793"
+    },
+    {
+      "name": "Lexington",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 16.4,
+      "incorporated": "1713"
+    },
+    {
+      "name": "Dartmouth",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 60.9,
+      "incorporated": "1664"
+    },
+    {
+      "name": "Franklin",
+      "designation": "City",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 26.6,
+      "incorporated": "1778"
+    },
+    {
+      "name": "Dracut",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 20.9,
+      "incorporated": "1701"
+    },
+    {
+      "name": "Falmouth",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 44.1,
+      "incorporated": "1686"
+    },
+    {
+      "name": "Needham",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 12.6,
+      "incorporated": "1711"
+    },
+    {
+      "name": "Norwood",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 10.5,
+      "incorporated": "1872"
+    },
+    {
+      "name": "Tewksbury",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 20.7,
+      "incorporated": "1734"
+    },
+    {
+      "name": "North Andover",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 26.3,
+      "incorporated": "1855"
+    },
+    {
+      "name": "North Attleborough",
+      "designation": "City",
+      "primary_county": "Bristol",
+      "area_sq_mi": 18.6,
+      "incorporated": "1887"
+    },
+    {
+      "name": "Milford",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 14.6,
+      "incorporated": "1780"
+    },
+    {
+      "name": "Melrose",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 4.7,
+      "incorporated": "1850"
+    },
+    {
+      "name": "Gloucester",
+      "designation": "City",
+      "primary_county": "Essex",
+      "area_sq_mi": 26.2,
+      "incorporated": "1623"
+    },
+    {
+      "name": "Northampton",
+      "designation": "City",
+      "primary_county": "Hampshire (seat)",
+      "area_sq_mi": 34.2,
+      "incorporated": "1654"
+    },
+    {
+      "name": "Wellesley",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 10.2,
+      "incorporated": "1881"
+    },
+    {
+      "name": "Stoughton",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 16.0,
+      "incorporated": "1726"
+    },
+    {
+      "name": "West Springfield",
+      "designation": "City",
+      "primary_county": "Hampden",
+      "area_sq_mi": 16.7,
+      "incorporated": "1774"
+    },
+    {
+      "name": "Agawam",
+      "designation": "City",
+      "primary_county": "Hampden",
+      "area_sq_mi": 23.3,
+      "incorporated": "1855"
+    },
+    {
+      "name": "Bridgewater",
+      "designation": "City",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 27.5,
+      "incorporated": "1656"
+    },
+    {
+      "name": "Milton",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 13.0,
+      "incorporated": "1662"
+    },
+    {
+      "name": "Saugus",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 10.8,
+      "incorporated": "1815"
+    },
+    {
+      "name": "Danvers",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 13.3,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Belmont",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 4.7,
+      "incorporated": "1859"
+    },
+    {
+      "name": "Wakefield",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 7.5,
+      "incorporated": "1812"
+    },
+    {
+      "name": "Walpole",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 20.5,
+      "incorporated": "1724"
+    },
+    {
+      "name": "Burlington",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 11.8,
+      "incorporated": "1799"
+    },
+    {
+      "name": "Marshfield",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 28.5,
+      "incorporated": "1640"
+    },
+    {
+      "name": "Reading",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 9.9,
+      "incorporated": "1644"
+    },
+    {
+      "name": "Dedham",
+      "designation": "Town",
+      "primary_county": "Norfolk (seat)",
+      "area_sq_mi": 10.5,
+      "incorporated": "1636"
+    },
+    {
+      "name": "Easton",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 28.4,
+      "incorporated": "1725"
+    },
+    {
+      "name": "Yarmouth",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 24.1,
+      "incorporated": "1639"
+    },
+    {
+      "name": "Westford",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 30.6,
+      "incorporated": "1729"
+    },
+    {
+      "name": "Canton",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 18.9,
+      "incorporated": "1797"
+    },
+    {
+      "name": "Hingham",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 22.2,
+      "incorporated": "1635"
+    },
+    {
+      "name": "Middleborough",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 69.1,
+      "incorporated": "1669"
+    },
+    {
+      "name": "Acton",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 20.0,
+      "incorporated": "1735"
+    },
+    {
+      "name": "Mansfield",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 20.5,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Wilmington",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 17.1,
+      "incorporated": "1730"
+    },
+    {
+      "name": "Wareham",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 35.8,
+      "incorporated": "1739"
+    },
+    {
+      "name": "Stoneham",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 6.2,
+      "incorporated": "1725"
+    },
+    {
+      "name": "Winchester",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 6.0,
+      "incorporated": "1850"
+    },
+    {
+      "name": "Westborough",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 20.5,
+      "incorporated": "1717"
+    },
+    {
+      "name": "Gardner",
+      "designation": "City",
+      "primary_county": "Worcester",
+      "area_sq_mi": 22.1,
+      "incorporated": "1785"
+    },
+    {
+      "name": "Ludlow",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 27.2,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Bourne",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 40.7,
+      "incorporated": "1884"
+    },
+    {
+      "name": "Marblehead",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 4.4,
+      "incorporated": "1629"
+    },
+    {
+      "name": "Sandwich",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 42.7,
+      "incorporated": "1638"
+    },
+    {
+      "name": "Hudson",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 11.5,
+      "incorporated": "1866"
+    },
+    {
+      "name": "Holden",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 35.0,
+      "incorporated": "1741"
+    },
+    {
+      "name": "Grafton",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 22.7,
+      "incorporated": "1735"
+    },
+    {
+      "name": "Winthrop",
+      "designation": "City",
+      "primary_county": "Suffolk",
+      "area_sq_mi": 2.0,
+      "incorporated": "1852"
+    },
+    {
+      "name": "Norton",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 28.7,
+      "incorporated": "1711"
+    },
+    {
+      "name": "Scituate",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 17.6,
+      "incorporated": "1636"
+    },
+    {
+      "name": "Sudbury",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 24.4,
+      "incorporated": "1639"
+    },
+    {
+      "name": "Ashland",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 12.4,
+      "incorporated": "1846"
+    },
+    {
+      "name": "Hopkinton",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 26.6,
+      "incorporated": "1715"
+    },
+    {
+      "name": "Foxborough",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 20.1,
+      "incorporated": "1778"
+    },
+    {
+      "name": "Sharon",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 23.3,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Concord",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 24.9,
+      "incorporated": "1635"
+    },
+    {
+      "name": "Pembroke",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 21.8,
+      "incorporated": "1712"
+    },
+    {
+      "name": "Somerset",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 8.1,
+      "incorporated": "1790"
+    },
+    {
+      "name": "Newburyport",
+      "designation": "City",
+      "primary_county": "Essex",
+      "area_sq_mi": 8.3,
+      "incorporated": "1764"
+    },
+    {
+      "name": "South Hadley",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 17.7,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Rockland",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 10.0,
+      "incorporated": "1874"
+    },
+    {
+      "name": "Webster",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 12.5,
+      "incorporated": "1832"
+    },
+    {
+      "name": "Greenfield",
+      "designation": "City",
+      "primary_county": "Franklin (seat)",
+      "area_sq_mi": 21.4,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Southbridge",
+      "designation": "City",
+      "primary_county": "Worcester",
+      "area_sq_mi": 20.2,
+      "incorporated": "1816"
+    },
+    {
+      "name": "Amesbury",
+      "designation": "City",
+      "primary_county": "Essex",
+      "area_sq_mi": 12.3,
+      "incorporated": "1668"
+    },
+    {
+      "name": "Swansea",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 23.1,
+      "incorporated": "1667"
+    },
+    {
+      "name": "Abington",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 9.7,
+      "incorporated": "1712"
+    },
+    {
+      "name": "Bellingham",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 18.5,
+      "incorporated": "1719"
+    },
+    {
+      "name": "Auburn",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 15.4,
+      "incorporated": "1778"
+    },
+    {
+      "name": "East Longmeadow",
+      "designation": "City",
+      "primary_county": "Hampden",
+      "area_sq_mi": 13.0,
+      "incorporated": "1894"
+    },
+    {
+      "name": "Westport",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 50.1,
+      "incorporated": "1787"
+    },
+    {
+      "name": "Northbridge",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 17.2,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Westwood",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 11.0,
+      "incorporated": "1897"
+    },
+    {
+      "name": "Easthampton",
+      "designation": "City",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 13.3,
+      "incorporated": "1809"
+    },
+    {
+      "name": "Duxbury",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 23.8,
+      "incorporated": "1637"
+    },
+    {
+      "name": "Fairhaven",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 12.4,
+      "incorporated": "1812"
+    },
+    {
+      "name": "Longmeadow",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 9.1,
+      "incorporated": "1783"
+    },
+    {
+      "name": "Northborough",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 18.5,
+      "incorporated": "1775"
+    },
+    {
+      "name": "North Reading",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 13.3,
+      "incorporated": "1853"
+    },
+    {
+      "name": "Seekonk",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 18.2,
+      "incorporated": "1812"
+    },
+    {
+      "name": "Clinton",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 5.7,
+      "incorporated": "1850"
+    },
+    {
+      "name": "Belchertown",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 52.7,
+      "incorporated": "1761"
+    },
+    {
+      "name": "Raynham",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 20.5,
+      "incorporated": "1731"
+    },
+    {
+      "name": "Whitman",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 7.0,
+      "incorporated": "1875"
+    },
+    {
+      "name": "Swampscott",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 3.1,
+      "incorporated": "1852"
+    },
+    {
+      "name": "Mashpee",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 23.4,
+      "incorporated": "1870"
+    },
+    {
+      "name": "Holliston",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 18.7,
+      "incorporated": "1724"
+    },
+    {
+      "name": "Hanover",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 15.6,
+      "incorporated": "1727"
+    },
+    {
+      "name": "Dennis",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 20.5,
+      "incorporated": "1793"
+    },
+    {
+      "name": "Wilbraham",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 22.2,
+      "incorporated": "1763"
+    },
+    {
+      "name": "East Bridgewater",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 17.2,
+      "incorporated": "1823"
+    },
+    {
+      "name": "Bedford",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 13.7,
+      "incorporated": "1729"
+    },
+    {
+      "name": "Nantucket",
+      "designation": "Town",
+      "primary_county": "Nantucket (seat)",
+      "area_sq_mi": 47.8,
+      "incorporated": "1671"
+    },
+    {
+      "name": "Uxbridge",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 29.5,
+      "incorporated": "1727"
+    },
+    {
+      "name": "Wayland",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 15.2,
+      "incorporated": "1780"
+    },
+    {
+      "name": "Millbury",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 15.7,
+      "incorporated": "1813"
+    },
+    {
+      "name": "Ipswich",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 32.1,
+      "incorporated": "1634"
+    },
+    {
+      "name": "Kingston",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 18.6,
+      "incorporated": "1726"
+    },
+    {
+      "name": "Harwich",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 20.9,
+      "incorporated": "1694"
+    },
+    {
+      "name": "Oxford",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 26.6,
+      "incorporated": "1713"
+    },
+    {
+      "name": "Charlton",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 42.5,
+      "incorporated": "1755"
+    },
+    {
+      "name": "Medway",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 11.5,
+      "incorporated": "1713"
+    },
+    {
+      "name": "Lynnfield",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 9.9,
+      "incorporated": "1814"
+    },
+    {
+      "name": "North Adams",
+      "designation": "City",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 20.4,
+      "incorporated": "1878"
+    },
+    {
+      "name": "Medfield",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 14.5,
+      "incorporated": "1651"
+    },
+    {
+      "name": "Rehoboth",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 46.5,
+      "incorporated": "1645"
+    },
+    {
+      "name": "Palmer",
+      "designation": "City",
+      "primary_county": "Hampden",
+      "area_sq_mi": 31.6,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Tyngsborough",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 16.9,
+      "incorporated": "1809"
+    },
+    {
+      "name": "Wrentham",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 22.2,
+      "incorporated": "1673"
+    },
+    {
+      "name": "Spencer",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 32.9,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Athol",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 32.6,
+      "incorporated": "1762"
+    },
+    {
+      "name": "Dudley",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 21.1,
+      "incorporated": "1732"
+    },
+    {
+      "name": "Weston",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 17.0,
+      "incorporated": "1713"
+    },
+    {
+      "name": "Lunenburg",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 26.4,
+      "incorporated": "1728"
+    },
+    {
+      "name": "Norfolk",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 14.8,
+      "incorporated": "1870"
+    },
+    {
+      "name": "Carver",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 37.4,
+      "incorporated": "1790"
+    },
+    {
+      "name": "Pepperell",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 22.6,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Lakeville",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 29.6,
+      "incorporated": "1853"
+    },
+    {
+      "name": "Holbrook",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 7.4,
+      "incorporated": "1872"
+    },
+    {
+      "name": "Norwell",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 20.9,
+      "incorporated": "1849"
+    },
+    {
+      "name": "Groton",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 32.8,
+      "incorporated": "1655"
+    },
+    {
+      "name": "Leicester",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 23.4,
+      "incorporated": "1714"
+    },
+    {
+      "name": "Maynard",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 5.2,
+      "incorporated": "1871"
+    },
+    {
+      "name": "Hanson",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 15.0,
+      "incorporated": "1820"
+    },
+    {
+      "name": "Acushnet",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 18.4,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Southborough",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 14.2,
+      "incorporated": "1727"
+    },
+    {
+      "name": "Winchendon",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 43.3,
+      "incorporated": "1764"
+    },
+    {
+      "name": "Brewster",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 22.9,
+      "incorporated": "1803"
+    },
+    {
+      "name": "Littleton",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 16.6,
+      "incorporated": "1715"
+    },
+    {
+      "name": "Hull",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 2.8,
+      "incorporated": "1644"
+    },
+    {
+      "name": "Ware",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 34.4,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Plainville",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 11.0,
+      "incorporated": "1905"
+    },
+    {
+      "name": "Sturbridge",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 37.4,
+      "incorporated": "1738"
+    },
+    {
+      "name": "Middleton",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 14.0,
+      "incorporated": "1728"
+    },
+    {
+      "name": "Sutton",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 32.4,
+      "incorporated": "1714"
+    },
+    {
+      "name": "Salisbury",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 15.4,
+      "incorporated": "1639"
+    },
+    {
+      "name": "Southwick",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 30.8,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Blackstone",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 10.9,
+      "incorporated": "1845"
+    },
+    {
+      "name": "Freetown",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 36.6,
+      "incorporated": "1683"
+    },
+    {
+      "name": "Townsend",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 32.9,
+      "incorporated": "1732"
+    },
+    {
+      "name": "Rutland",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 35.3,
+      "incorporated": "1713"
+    },
+    {
+      "name": "Douglas",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 36.4,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Montague",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 30.2,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Ayer",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 9.0,
+      "incorporated": "1871"
+    },
+    {
+      "name": "Georgetown",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 12.9,
+      "incorporated": "1838"
+    },
+    {
+      "name": "Millis",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 12.2,
+      "incorporated": "1885"
+    },
+    {
+      "name": "Lancaster",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 27.7,
+      "incorporated": "1653"
+    },
+    {
+      "name": "Cohasset",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 9.8,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Westminster",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 35.3,
+      "incorporated": "1770"
+    },
+    {
+      "name": "Boxford",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 23.6,
+      "incorporated": "1685"
+    },
+    {
+      "name": "Adams",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 22.9,
+      "incorporated": "1778"
+    },
+    {
+      "name": "Monson",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 44.1,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Templeton",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 32.0,
+      "incorporated": "1762"
+    },
+    {
+      "name": "Dighton",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 22.0,
+      "incorporated": "1712"
+    },
+    {
+      "name": "Upton",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 21.5,
+      "incorporated": "1735"
+    },
+    {
+      "name": "Sterling",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 30.5,
+      "incorporated": "1781"
+    },
+    {
+      "name": "West Boylston",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 12.9,
+      "incorporated": "1808"
+    },
+    {
+      "name": "Halifax",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 16.2,
+      "incorporated": "1734"
+    },
+    {
+      "name": "West Bridgewater",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 15.3,
+      "incorporated": "1822"
+    },
+    {
+      "name": "Orange",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 35.1,
+      "incorporated": "1810"
+    },
+    {
+      "name": "Hamilton",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 14.2,
+      "incorporated": "1793"
+    },
+    {
+      "name": "Williamstown",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 46.8,
+      "incorporated": "1765"
+    },
+    {
+      "name": "Shirley",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 15.8,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Stow",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 17.6,
+      "incorporated": "1683"
+    },
+    {
+      "name": "Great Barrington",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 44.8,
+      "incorporated": "1761"
+    },
+    {
+      "name": "Lincoln",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 14.4,
+      "incorporated": "1754"
+    },
+    {
+      "name": "Rockport",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 7.0,
+      "incorporated": "1840"
+    },
+    {
+      "name": "Harvard",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 26.4,
+      "incorporated": "1732"
+    },
+    {
+      "name": "Berkley",
+      "designation": "Town",
+      "primary_county": "Bristol",
+      "area_sq_mi": 16.5,
+      "incorporated": "1735"
+    },
+    {
+      "name": "Groveland",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 9.0,
+      "incorporated": "1850"
+    },
+    {
+      "name": "Merrimac",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 8.5,
+      "incorporated": "1876"
+    },
+    {
+      "name": "Newbury",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 23.4,
+      "incorporated": "1635"
+    },
+    {
+      "name": "Chatham",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 16.3,
+      "incorporated": "1712"
+    },
+    {
+      "name": "Topsfield",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 11.9,
+      "incorporated": "1650"
+    },
+    {
+      "name": "Mattapoisett",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 17.4,
+      "incorporated": "1857"
+    },
+    {
+      "name": "Dalton",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 21.8,
+      "incorporated": "1784"
+    },
+    {
+      "name": "Ashburnham",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 38.7,
+      "incorporated": "1765"
+    },
+    {
+      "name": "Orleans",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 14.1,
+      "incorporated": "1797"
+    },
+    {
+      "name": "Mendon",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 18.1,
+      "incorporated": "1667"
+    },
+    {
+      "name": "Southampton",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 28.2,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Rowley",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 18.2,
+      "incorporated": "1639"
+    },
+    {
+      "name": "Granby",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 27.8,
+      "incorporated": "1768"
+    },
+    {
+      "name": "Hopedale",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 5.2,
+      "incorporated": "1886"
+    },
+    {
+      "name": "Dover",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 15.3,
+      "incorporated": "1836"
+    },
+    {
+      "name": "Lee",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 26.1,
+      "incorporated": "1777"
+    },
+    {
+      "name": "Eastham",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 14.0,
+      "incorporated": "1646"
+    },
+    {
+      "name": "Rochester",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 33.9,
+      "incorporated": "1686"
+    },
+    {
+      "name": "Bolton",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 19.9,
+      "incorporated": "1738"
+    },
+    {
+      "name": "Barre",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 44.3,
+      "incorporated": "1774"
+    },
+    {
+      "name": "Boxborough",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 10.4,
+      "incorporated": "1835"
+    },
+    {
+      "name": "Manchester-by-the-Sea",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 9.2,
+      "incorporated": "1645"
+    },
+    {
+      "name": "Marion",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 12.1,
+      "incorporated": "1852"
+    },
+    {
+      "name": "Oak Bluffs",
+      "designation": "Town",
+      "primary_county": "Dukes",
+      "area_sq_mi": 7.4,
+      "incorporated": "1880"
+    },
+    {
+      "name": "Hadley",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 23.1,
+      "incorporated": "1661"
+    },
+    {
+      "name": "Carlisle",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 15.4,
+      "incorporated": "1780"
+    },
+    {
+      "name": "Edgartown",
+      "designation": "Town",
+      "primary_county": "Dukes (seat)",
+      "area_sq_mi": 27.0,
+      "incorporated": "1671"
+    },
+    {
+      "name": "Lenox",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 21.2,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Deerfield",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 32.4,
+      "incorporated": "1677"
+    },
+    {
+      "name": "Paxton",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 14.7,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Wenham",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 7.6,
+      "incorporated": "1643"
+    },
+    {
+      "name": "Warren",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 27.5,
+      "incorporated": "1742"
+    },
+    {
+      "name": "Hampden",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 19.6,
+      "incorporated": "1878"
+    },
+    {
+      "name": "Boylston",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 16.0,
+      "incorporated": "1785"
+    },
+    {
+      "name": "Tisbury",
+      "designation": "Town",
+      "primary_county": "Dukes",
+      "area_sq_mi": 6.5,
+      "incorporated": "1671"
+    },
+    {
+      "name": "Avon",
+      "designation": "Town",
+      "primary_county": "Norfolk",
+      "area_sq_mi": 4.4,
+      "incorporated": "1888"
+    },
+    {
+      "name": "North Brookfield",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 21.1,
+      "incorporated": "1812"
+    },
+    {
+      "name": "West Newbury",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 13.4,
+      "incorporated": "1819"
+    },
+    {
+      "name": "Sherborn",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 16.0,
+      "incorporated": "1674"
+    },
+    {
+      "name": "Hubbardston",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 41.0,
+      "incorporated": "1775"
+    },
+    {
+      "name": "West Brookfield",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 20.5,
+      "incorporated": "1848"
+    },
+    {
+      "name": "Brimfield",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 34.7,
+      "incorporated": "1731"
+    },
+    {
+      "name": "Essex",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 14.0,
+      "incorporated": "1819"
+    },
+    {
+      "name": "Provincetown",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 9.7,
+      "incorporated": "1727"
+    },
+    {
+      "name": "Sunderland",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 14.2,
+      "incorporated": "1714"
+    },
+    {
+      "name": "Wellfleet",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 19.8,
+      "incorporated": "1775"
+    },
+    {
+      "name": "West Tisbury",
+      "designation": "Town",
+      "primary_county": "Dukes",
+      "area_sq_mi": 25.0,
+      "incorporated": "1892"
+    },
+    {
+      "name": "Princeton",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 35.4,
+      "incorporated": "1771"
+    },
+    {
+      "name": "Brookfield",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 15.5,
+      "incorporated": "1718"
+    },
+    {
+      "name": "Dunstable",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 16.6,
+      "incorporated": "1673"
+    },
+    {
+      "name": "Hatfield",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 15.9,
+      "incorporated": "1670"
+    },
+    {
+      "name": "Nahant",
+      "designation": "Town",
+      "primary_county": "Essex",
+      "area_sq_mi": 1.0,
+      "incorporated": "1853"
+    },
+    {
+      "name": "Sheffield",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 47.5,
+      "incorporated": "1733"
+    },
+    {
+      "name": "Cheshire",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 26.8,
+      "incorporated": "1793"
+    },
+    {
+      "name": "Ashby",
+      "designation": "Town",
+      "primary_county": "Middlesex",
+      "area_sq_mi": 23.8,
+      "incorporated": "1767"
+    },
+    {
+      "name": "Millville",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 4.9,
+      "incorporated": "1916"
+    },
+    {
+      "name": "Berlin",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 12.9,
+      "incorporated": "1812"
+    },
+    {
+      "name": "Lanesborough",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 28.8,
+      "incorporated": "1765"
+    },
+    {
+      "name": "Plympton",
+      "designation": "Town",
+      "primary_county": "Plymouth",
+      "area_sq_mi": 14.8,
+      "incorporated": "1707"
+    },
+    {
+      "name": "Northfield",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 34.3,
+      "incorporated": "1723"
+    },
+    {
+      "name": "Hardwick",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 38.6,
+      "incorporated": "1739"
+    },
+    {
+      "name": "Holland",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 12.3,
+      "incorporated": "1835"
+    },
+    {
+      "name": "Williamsburg",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 25.6,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Truro",
+      "designation": "Town",
+      "primary_county": "Barnstable",
+      "area_sq_mi": 21.1,
+      "incorporated": "1709"
+    },
+    {
+      "name": "East Brookfield",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 9.8,
+      "incorporated": "1920"
+    },
+    {
+      "name": "Bernardston",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 23.4,
+      "incorporated": "1762"
+    },
+    {
+      "name": "Huntington",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 26.3,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Stockbridge",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 22.7,
+      "incorporated": "1739"
+    },
+    {
+      "name": "Becket",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 46.1,
+      "incorporated": "1765"
+    },
+    {
+      "name": "Hinsdale",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 20.7,
+      "incorporated": "1804"
+    },
+    {
+      "name": "Shelburne",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 23.2,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Leverett",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 22.9,
+      "incorporated": "1774"
+    },
+    {
+      "name": "Oakham",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 21.1,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Wales",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 15.7,
+      "incorporated": "1762"
+    },
+    {
+      "name": "Buckland",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 19.7,
+      "incorporated": "1779"
+    },
+    {
+      "name": "Conway",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 37.7,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Phillipston",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 24.3,
+      "incorporated": "1786"
+    },
+    {
+      "name": "Shutesbury",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 26.6,
+      "incorporated": "1761"
+    },
+    {
+      "name": "Ashfield",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 40.0,
+      "incorporated": "1765"
+    },
+    {
+      "name": "Erving",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 13.9,
+      "incorporated": "1838"
+    },
+    {
+      "name": "Clarksburg",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 12.8,
+      "incorporated": "1798"
+    },
+    {
+      "name": "Russell",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 17.3,
+      "incorporated": "1792"
+    },
+    {
+      "name": "Otis",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 35.6,
+      "incorporated": "1773"
+    },
+    {
+      "name": "Westhampton",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 27.2,
+      "incorporated": "1778"
+    },
+    {
+      "name": "Whately",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 20.2,
+      "incorporated": "1771"
+    },
+    {
+      "name": "Colrain",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 43.1,
+      "incorporated": "1761"
+    },
+    {
+      "name": "Gill",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 13.7,
+      "incorporated": "1793"
+    },
+    {
+      "name": "Granville",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 42.2,
+      "incorporated": "1775"
+    },
+    {
+      "name": "New Marlborough",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 46.9,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Richmond",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 18.7,
+      "incorporated": "1765"
+    },
+    {
+      "name": "Egremont",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 18.7,
+      "incorporated": "1775"
+    },
+    {
+      "name": "West Stockbridge",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 18.5,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Pelham",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 25.1,
+      "incorporated": "1743"
+    },
+    {
+      "name": "Royalston",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 41.9,
+      "incorporated": "1765"
+    },
+    {
+      "name": "Chester",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 36.6,
+      "incorporated": "1765"
+    },
+    {
+      "name": "Blandford",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 51.6,
+      "incorporated": "1741"
+    },
+    {
+      "name": "Chilmark",
+      "designation": "Town",
+      "primary_county": "Dukes",
+      "area_sq_mi": 19.0,
+      "incorporated": "1714"
+    },
+    {
+      "name": "Petersham",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 54.2,
+      "incorporated": "1754"
+    },
+    {
+      "name": "Worthington",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 31.9,
+      "incorporated": "1768"
+    },
+    {
+      "name": "Chesterfield",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 30.8,
+      "incorporated": "1762"
+    },
+    {
+      "name": "Charlemont",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 25.9,
+      "incorporated": "1765"
+    },
+    {
+      "name": "Monterey",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 26.4,
+      "incorporated": "1847"
+    },
+    {
+      "name": "New Braintree",
+      "designation": "Town",
+      "primary_county": "Worcester",
+      "area_sq_mi": 20.7,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Sandisfield",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 51.8,
+      "incorporated": "1762"
+    },
+    {
+      "name": "New Salem",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 44.8,
+      "incorporated": "1775"
+    },
+    {
+      "name": "Goshen",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 17.4,
+      "incorporated": "1781"
+    },
+    {
+      "name": "Wendell",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 31.9,
+      "incorporated": "1781"
+    },
+    {
+      "name": "Windsor",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 35.0,
+      "incorporated": "1771"
+    },
+    {
+      "name": "Cummington",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 22.9,
+      "incorporated": "1779"
+    },
+    {
+      "name": "Montgomery",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 15.1,
+      "incorporated": "1780"
+    },
+    {
+      "name": "Peru",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 25.9,
+      "incorporated": "1771"
+    },
+    {
+      "name": "Warwick",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 37.3,
+      "incorporated": "1763"
+    },
+    {
+      "name": "Hancock",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 35.7,
+      "incorporated": "1776"
+    },
+    {
+      "name": "Leyden",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 17.9,
+      "incorporated": "1809"
+    },
+    {
+      "name": "Heath",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 24.9,
+      "incorporated": "1785"
+    },
+    {
+      "name": "Florida",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 24.4,
+      "incorporated": "1805"
+    },
+    {
+      "name": "Savoy",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 35.8,
+      "incorporated": "1797"
+    },
+    {
+      "name": "Plainfield",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 21.1,
+      "incorporated": "1807"
+    },
+    {
+      "name": "Washington",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 38.0,
+      "incorporated": "1777"
+    },
+    {
+      "name": "Alford",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 11.5,
+      "incorporated": "1773"
+    },
+    {
+      "name": "Tolland",
+      "designation": "Town",
+      "primary_county": "Hampden",
+      "area_sq_mi": 31.5,
+      "incorporated": "1810"
+    },
+    {
+      "name": "Aquinnah",
+      "designation": "Town",
+      "primary_county": "Dukes",
+      "area_sq_mi": 5.4,
+      "incorporated": "1870"
+    },
+    {
+      "name": "Tyringham",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 18.6,
+      "incorporated": "1762"
+    },
+    {
+      "name": "Rowe",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 23.4,
+      "incorporated": "1785"
+    },
+    {
+      "name": "Middlefield",
+      "designation": "Town",
+      "primary_county": "Hampshire",
+      "area_sq_mi": 24.2,
+      "incorporated": "1783"
+    },
+    {
+      "name": "Hawley",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 30.9,
+      "incorporated": "1792"
+    },
+    {
+      "name": "New Ashford",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 13.4,
+      "incorporated": "1835"
+    },
+    {
+      "name": "Mount Washington",
+      "designation": "Town",
+      "primary_county": "Berkshire",
+      "area_sq_mi": 22.2,
+      "incorporated": "1779"
+    },
+    {
+      "name": "Monroe",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 10.7,
+      "incorporated": "1822"
+    },
+    {
+      "name": "Gosnold",
+      "designation": "Town",
+      "primary_county": "Dukes",
+      "area_sq_mi": 13.2,
+      "incorporated": "1864"
+    }
+  ]
+}

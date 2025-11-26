@@ -1,0 +1,1248 @@
+{
+  "metadata": {
+    "state": "Louisiana",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Louisiana",
+    "scraped_at": "2025-11-24 20:29:34",
+    "scraper_version": "2.0_generic",
+    "description": "Louisiana municipalities scraped from Wikipedia",
+    "total_municipalities": 307,
+    "statistics": {
+      "total_found": 307,
+      "with_population": 0,
+      "with_counties": 0,
+      "unique_counties": 0,
+      "population_stats": {}
+    },
+    "counties": []
+  },
+  "municipalities": [
+    {
+      "name": "sq mi",
+      "designation": "km2"
+    },
+    {
+      "name": "Abbeville†",
+      "designation": "City"
+    },
+    {
+      "name": "Abita Springs",
+      "designation": "Town"
+    },
+    {
+      "name": "Addis",
+      "designation": "Town"
+    },
+    {
+      "name": "Albany",
+      "designation": "Town"
+    },
+    {
+      "name": "Alexandria†",
+      "designation": "City"
+    },
+    {
+      "name": "Amite City†",
+      "designation": "Town"
+    },
+    {
+      "name": "Anacoco",
+      "designation": "Village"
+    },
+    {
+      "name": "Angie",
+      "designation": "Village"
+    },
+    {
+      "name": "Arcadia†",
+      "designation": "Town"
+    },
+    {
+      "name": "Arnaudville",
+      "designation": "Town"
+    },
+    {
+      "name": "Ashland",
+      "designation": "Village"
+    },
+    {
+      "name": "Athens",
+      "designation": "Village"
+    },
+    {
+      "name": "Atlanta",
+      "designation": "Village"
+    },
+    {
+      "name": "Baker",
+      "designation": "City"
+    },
+    {
+      "name": "Baldwin",
+      "designation": "Town"
+    },
+    {
+      "name": "Ball",
+      "designation": "Town"
+    },
+    {
+      "name": "Basile",
+      "designation": "Town"
+    },
+    {
+      "name": "Baskin",
+      "designation": "Village"
+    },
+    {
+      "name": "Bastrop†",
+      "designation": "City"
+    },
+    {
+      "name": "Baton Rouge‡[a]",
+      "designation": "Consolidated Government"
+    },
+    {
+      "name": "Belcher",
+      "designation": "Village"
+    },
+    {
+      "name": "Benton†",
+      "designation": "Town"
+    },
+    {
+      "name": "Bernice",
+      "designation": "Town"
+    },
+    {
+      "name": "Berwick",
+      "designation": "Town"
+    },
+    {
+      "name": "Bienville",
+      "designation": "Village"
+    },
+    {
+      "name": "Blanchard",
+      "designation": "Town"
+    },
+    {
+      "name": "Bogalusa",
+      "designation": "City"
+    },
+    {
+      "name": "Bonita",
+      "designation": "Village"
+    },
+    {
+      "name": "Bossier City",
+      "designation": "City"
+    },
+    {
+      "name": "Boyce",
+      "designation": "Town"
+    },
+    {
+      "name": "Breaux Bridge",
+      "designation": "City"
+    },
+    {
+      "name": "Broussard",
+      "designation": "City"
+    },
+    {
+      "name": "Brusly",
+      "designation": "Town"
+    },
+    {
+      "name": "Bryceland",
+      "designation": "Village"
+    },
+    {
+      "name": "Bunkie",
+      "designation": "City"
+    },
+    {
+      "name": "Calvin",
+      "designation": "Village"
+    },
+    {
+      "name": "Campti",
+      "designation": "Town"
+    },
+    {
+      "name": "Cankton",
+      "designation": "Village"
+    },
+    {
+      "name": "Carencro",
+      "designation": "City"
+    },
+    {
+      "name": "Castor",
+      "designation": "Village"
+    },
+    {
+      "name": "Central",
+      "designation": "City"
+    },
+    {
+      "name": "Chataignier",
+      "designation": "Village"
+    },
+    {
+      "name": "Chatham",
+      "designation": "Town"
+    },
+    {
+      "name": "Cheneyville",
+      "designation": "Town"
+    },
+    {
+      "name": "Choudrant",
+      "designation": "Village"
+    },
+    {
+      "name": "Church Point",
+      "designation": "Town"
+    },
+    {
+      "name": "Clarence",
+      "designation": "Village"
+    },
+    {
+      "name": "Clarks",
+      "designation": "Village"
+    },
+    {
+      "name": "Clayton",
+      "designation": "Town"
+    },
+    {
+      "name": "Clinton†",
+      "designation": "Town"
+    },
+    {
+      "name": "Colfax†",
+      "designation": "Town"
+    },
+    {
+      "name": "Collinston",
+      "designation": "Village"
+    },
+    {
+      "name": "Columbia†",
+      "designation": "Town"
+    },
+    {
+      "name": "Converse",
+      "designation": "Village"
+    },
+    {
+      "name": "Cottonport",
+      "designation": "Town"
+    },
+    {
+      "name": "Cotton Valley",
+      "designation": "Town"
+    },
+    {
+      "name": "Coushatta†",
+      "designation": "Town"
+    },
+    {
+      "name": "Covington†",
+      "designation": "City"
+    },
+    {
+      "name": "Creola",
+      "designation": "Village"
+    },
+    {
+      "name": "Crowley†",
+      "designation": "City"
+    },
+    {
+      "name": "Cullen",
+      "designation": "Town"
+    },
+    {
+      "name": "Delcambre",
+      "designation": "Town"
+    },
+    {
+      "name": "Delhi",
+      "designation": "Town"
+    },
+    {
+      "name": "Delta",
+      "designation": "Village"
+    },
+    {
+      "name": "Denham Springs",
+      "designation": "City"
+    },
+    {
+      "name": "DeQuincy",
+      "designation": "City"
+    },
+    {
+      "name": "DeRidder†",
+      "designation": "City"
+    },
+    {
+      "name": "Dixie Inn",
+      "designation": "Village"
+    },
+    {
+      "name": "Dodson",
+      "designation": "Village"
+    },
+    {
+      "name": "Donaldsonville†",
+      "designation": "City"
+    },
+    {
+      "name": "Downsville",
+      "designation": "Village"
+    },
+    {
+      "name": "Doyline",
+      "designation": "Village"
+    },
+    {
+      "name": "Dry Prong",
+      "designation": "Village"
+    },
+    {
+      "name": "Dubach",
+      "designation": "Town"
+    },
+    {
+      "name": "Dubberly",
+      "designation": "Village"
+    },
+    {
+      "name": "Duson",
+      "designation": "Town"
+    },
+    {
+      "name": "East Hodge",
+      "designation": "Village"
+    },
+    {
+      "name": "Edgefield",
+      "designation": "Village"
+    },
+    {
+      "name": "Elizabeth",
+      "designation": "Village"
+    },
+    {
+      "name": "Elton",
+      "designation": "Town"
+    },
+    {
+      "name": "Epps",
+      "designation": "Village"
+    },
+    {
+      "name": "Erath",
+      "designation": "Town"
+    },
+    {
+      "name": "Eros",
+      "designation": "Town"
+    },
+    {
+      "name": "Estherwood",
+      "designation": "Village"
+    },
+    {
+      "name": "Eunice",
+      "designation": "City"
+    },
+    {
+      "name": "Evergreen",
+      "designation": "Town"
+    },
+    {
+      "name": "Farmerville†",
+      "designation": "Town"
+    },
+    {
+      "name": "Fenton",
+      "designation": "Village"
+    },
+    {
+      "name": "Ferriday",
+      "designation": "Town"
+    },
+    {
+      "name": "Fisher",
+      "designation": "Village"
+    },
+    {
+      "name": "Florien",
+      "designation": "Village"
+    },
+    {
+      "name": "Folsom",
+      "designation": "Village"
+    },
+    {
+      "name": "Fordoche",
+      "designation": "Town"
+    },
+    {
+      "name": "Forest",
+      "designation": "Village"
+    },
+    {
+      "name": "Forest Hill",
+      "designation": "Village"
+    },
+    {
+      "name": "Franklin†",
+      "designation": "City"
+    },
+    {
+      "name": "Franklinton†",
+      "designation": "Town"
+    },
+    {
+      "name": "French Settlement",
+      "designation": "Village"
+    },
+    {
+      "name": "Georgetown",
+      "designation": "Town"
+    },
+    {
+      "name": "Gibsland",
+      "designation": "Town"
+    },
+    {
+      "name": "Gilbert",
+      "designation": "Village"
+    },
+    {
+      "name": "Gilliam",
+      "designation": "Village"
+    },
+    {
+      "name": "Glenmora",
+      "designation": "Town"
+    },
+    {
+      "name": "Golden Meadow",
+      "designation": "Town"
+    },
+    {
+      "name": "Goldonna",
+      "designation": "Village"
+    },
+    {
+      "name": "Gonzales",
+      "designation": "City"
+    },
+    {
+      "name": "Grambling",
+      "designation": "City"
+    },
+    {
+      "name": "Gramercy",
+      "designation": "Town"
+    },
+    {
+      "name": "Grand Cane",
+      "designation": "Village"
+    },
+    {
+      "name": "Grand Coteau",
+      "designation": "Town"
+    },
+    {
+      "name": "Grand Isle",
+      "designation": "Town"
+    },
+    {
+      "name": "Grayson",
+      "designation": "Village"
+    },
+    {
+      "name": "Greensburg†",
+      "designation": "Town"
+    },
+    {
+      "name": "Greenwood",
+      "designation": "Town"
+    },
+    {
+      "name": "Gretna†",
+      "designation": "City"
+    },
+    {
+      "name": "Grosse Tete",
+      "designation": "Village"
+    },
+    {
+      "name": "Gueydan",
+      "designation": "Town"
+    },
+    {
+      "name": "Hall Summit",
+      "designation": "Village"
+    },
+    {
+      "name": "Hammond",
+      "designation": "City"
+    },
+    {
+      "name": "Harahan",
+      "designation": "City"
+    },
+    {
+      "name": "Harrisonburg†",
+      "designation": "Village"
+    },
+    {
+      "name": "Haughton",
+      "designation": "Town"
+    },
+    {
+      "name": "Haynesville",
+      "designation": "Town"
+    },
+    {
+      "name": "Heflin",
+      "designation": "Village"
+    },
+    {
+      "name": "Henderson",
+      "designation": "Town"
+    },
+    {
+      "name": "Hessmer",
+      "designation": "Village"
+    },
+    {
+      "name": "Hodge",
+      "designation": "Village"
+    },
+    {
+      "name": "Homer†",
+      "designation": "Town"
+    },
+    {
+      "name": "Hornbeck",
+      "designation": "Town"
+    },
+    {
+      "name": "Hosston",
+      "designation": "Village"
+    },
+    {
+      "name": "Houma†[b]",
+      "designation": "Consolidated Government"
+    },
+    {
+      "name": "Ida",
+      "designation": "Village"
+    },
+    {
+      "name": "Independence",
+      "designation": "Town"
+    },
+    {
+      "name": "Iota",
+      "designation": "Town"
+    },
+    {
+      "name": "Iowa",
+      "designation": "Town"
+    },
+    {
+      "name": "Jackson",
+      "designation": "Town"
+    },
+    {
+      "name": "Jamestown",
+      "designation": "Town"
+    },
+    {
+      "name": "Jeanerette",
+      "designation": "City"
+    },
+    {
+      "name": "Jean Lafitte",
+      "designation": "Town"
+    },
+    {
+      "name": "Jena†",
+      "designation": "Town"
+    },
+    {
+      "name": "Jennings†",
+      "designation": "City"
+    },
+    {
+      "name": "Jonesboro†",
+      "designation": "Town"
+    },
+    {
+      "name": "Jonesville",
+      "designation": "Town"
+    },
+    {
+      "name": "Junction City",
+      "designation": "Village"
+    },
+    {
+      "name": "Kaplan",
+      "designation": "City"
+    },
+    {
+      "name": "Keachi",
+      "designation": "Town"
+    },
+    {
+      "name": "Kenner",
+      "designation": "City"
+    },
+    {
+      "name": "Kentwood",
+      "designation": "Town"
+    },
+    {
+      "name": "Kilbourne",
+      "designation": "Village"
+    },
+    {
+      "name": "Killian",
+      "designation": "Town"
+    },
+    {
+      "name": "Kinder",
+      "designation": "Town"
+    },
+    {
+      "name": "Krotz Springs",
+      "designation": "Town"
+    },
+    {
+      "name": "Lafayette†[c]",
+      "designation": "Consolidated Government"
+    },
+    {
+      "name": "Lake Arthur",
+      "designation": "Town"
+    },
+    {
+      "name": "Lake Charles†",
+      "designation": "City"
+    },
+    {
+      "name": "Lake Providence†",
+      "designation": "Town"
+    },
+    {
+      "name": "Lecompte",
+      "designation": "Town"
+    },
+    {
+      "name": "Leesville†",
+      "designation": "City"
+    },
+    {
+      "name": "Leonville",
+      "designation": "Town"
+    },
+    {
+      "name": "Lillie",
+      "designation": "Village"
+    },
+    {
+      "name": "Lisbon",
+      "designation": "Village"
+    },
+    {
+      "name": "Livingston†",
+      "designation": "Town"
+    },
+    {
+      "name": "Livonia",
+      "designation": "Town"
+    },
+    {
+      "name": "Lockport",
+      "designation": "Town"
+    },
+    {
+      "name": "Logansport",
+      "designation": "Town"
+    },
+    {
+      "name": "Longstreet",
+      "designation": "Village"
+    },
+    {
+      "name": "Loreauville",
+      "designation": "Village"
+    },
+    {
+      "name": "Lucky",
+      "designation": "Village"
+    },
+    {
+      "name": "Lutcher",
+      "designation": "Town"
+    },
+    {
+      "name": "McNary",
+      "designation": "Village"
+    },
+    {
+      "name": "Madisonville",
+      "designation": "Town"
+    },
+    {
+      "name": "Mamou",
+      "designation": "Town"
+    },
+    {
+      "name": "Mandeville",
+      "designation": "City"
+    },
+    {
+      "name": "Mangham",
+      "designation": "Village"
+    },
+    {
+      "name": "Mansfield†",
+      "designation": "City"
+    },
+    {
+      "name": "Mansura",
+      "designation": "Town"
+    },
+    {
+      "name": "Many†",
+      "designation": "Town"
+    },
+    {
+      "name": "Maringouin",
+      "designation": "Town"
+    },
+    {
+      "name": "Marion",
+      "designation": "Town"
+    },
+    {
+      "name": "Marksville†",
+      "designation": "City"
+    },
+    {
+      "name": "Martin",
+      "designation": "Village"
+    },
+    {
+      "name": "Maurice",
+      "designation": "Village"
+    },
+    {
+      "name": "Melville",
+      "designation": "Town"
+    },
+    {
+      "name": "Mermentau",
+      "designation": "Village"
+    },
+    {
+      "name": "Mer Rouge",
+      "designation": "Village"
+    },
+    {
+      "name": "Merryville",
+      "designation": "Town"
+    },
+    {
+      "name": "Minden†",
+      "designation": "City"
+    },
+    {
+      "name": "Monroe†",
+      "designation": "City"
+    },
+    {
+      "name": "Montgomery",
+      "designation": "Town"
+    },
+    {
+      "name": "Montpelier",
+      "designation": "Village"
+    },
+    {
+      "name": "Mooringsport",
+      "designation": "Town"
+    },
+    {
+      "name": "Moreauville",
+      "designation": "Village"
+    },
+    {
+      "name": "Morgan City",
+      "designation": "City"
+    },
+    {
+      "name": "Morganza",
+      "designation": "Village"
+    },
+    {
+      "name": "Morse",
+      "designation": "Village"
+    },
+    {
+      "name": "Mound",
+      "designation": "Village"
+    },
+    {
+      "name": "Mount Lebanon",
+      "designation": "Town"
+    },
+    {
+      "name": "Napoleonville†",
+      "designation": "Village"
+    },
+    {
+      "name": "Natchez",
+      "designation": "Village"
+    },
+    {
+      "name": "Natchitoches†",
+      "designation": "City"
+    },
+    {
+      "name": "Newellton",
+      "designation": "Town"
+    },
+    {
+      "name": "New Iberia†",
+      "designation": "City"
+    },
+    {
+      "name": "New Llano",
+      "designation": "Town"
+    },
+    {
+      "name": "New Orleans†",
+      "designation": "Consolidated Government"
+    },
+    {
+      "name": "New Roads†",
+      "designation": "City"
+    },
+    {
+      "name": "Noble",
+      "designation": "Village"
+    },
+    {
+      "name": "North Hodge",
+      "designation": "Village"
+    },
+    {
+      "name": "Norwood",
+      "designation": "Village"
+    },
+    {
+      "name": "Oakdale",
+      "designation": "City"
+    },
+    {
+      "name": "Oak Grove†",
+      "designation": "Town"
+    },
+    {
+      "name": "Oak Ridge",
+      "designation": "Village"
+    },
+    {
+      "name": "Oberlin†",
+      "designation": "Town"
+    },
+    {
+      "name": "Oil City",
+      "designation": "Town"
+    },
+    {
+      "name": "Olla",
+      "designation": "Town"
+    },
+    {
+      "name": "Opelousas†",
+      "designation": "City"
+    },
+    {
+      "name": "Palmetto",
+      "designation": "Village"
+    },
+    {
+      "name": "Parks",
+      "designation": "Village"
+    },
+    {
+      "name": "Patterson",
+      "designation": "City"
+    },
+    {
+      "name": "Pearl River",
+      "designation": "Town"
+    },
+    {
+      "name": "Pine Prairie",
+      "designation": "Village"
+    },
+    {
+      "name": "Pineville",
+      "designation": "City"
+    },
+    {
+      "name": "Pioneer",
+      "designation": "Village"
+    },
+    {
+      "name": "Plain Dealing",
+      "designation": "Town"
+    },
+    {
+      "name": "Plaquemine†",
+      "designation": "City"
+    },
+    {
+      "name": "Plaucheville",
+      "designation": "Village"
+    },
+    {
+      "name": "Pleasant Hill",
+      "designation": "Village"
+    },
+    {
+      "name": "Pollock",
+      "designation": "Town"
+    },
+    {
+      "name": "Ponchatoula",
+      "designation": "City"
+    },
+    {
+      "name": "Port Allen†",
+      "designation": "City"
+    },
+    {
+      "name": "Port Barre",
+      "designation": "Town"
+    },
+    {
+      "name": "Port Vincent",
+      "designation": "Village"
+    },
+    {
+      "name": "Powhatan",
+      "designation": "Village"
+    },
+    {
+      "name": "Provencal",
+      "designation": "Village"
+    },
+    {
+      "name": "Quitman",
+      "designation": "Village"
+    },
+    {
+      "name": "Rayne",
+      "designation": "City"
+    },
+    {
+      "name": "Rayville†",
+      "designation": "Town"
+    },
+    {
+      "name": "Reeves",
+      "designation": "Village"
+    },
+    {
+      "name": "Richmond",
+      "designation": "Village"
+    },
+    {
+      "name": "Richwood",
+      "designation": "Town"
+    },
+    {
+      "name": "Ridgecrest",
+      "designation": "Town"
+    },
+    {
+      "name": "Ringgold",
+      "designation": "Town"
+    },
+    {
+      "name": "Robeline",
+      "designation": "Village"
+    },
+    {
+      "name": "Rodessa",
+      "designation": "Village"
+    },
+    {
+      "name": "Rosedale",
+      "designation": "Village"
+    },
+    {
+      "name": "Roseland",
+      "designation": "Town"
+    },
+    {
+      "name": "Rosepine",
+      "designation": "Town"
+    },
+    {
+      "name": "Ruston†",
+      "designation": "City"
+    },
+    {
+      "name": "St. Francisville†",
+      "designation": "Town"
+    },
+    {
+      "name": "St. Gabriel",
+      "designation": "City"
+    },
+    {
+      "name": "St. George",
+      "designation": "City"
+    },
+    {
+      "name": "St. Joseph†",
+      "designation": "Town"
+    },
+    {
+      "name": "St. Martinville†",
+      "designation": "City"
+    },
+    {
+      "name": "Saline",
+      "designation": "Village"
+    },
+    {
+      "name": "Sarepta",
+      "designation": "Town"
+    },
+    {
+      "name": "Scott",
+      "designation": "City"
+    },
+    {
+      "name": "Shongaloo",
+      "designation": "Village"
+    },
+    {
+      "name": "Shreveport†",
+      "designation": "City"
+    },
+    {
+      "name": "Sibley",
+      "designation": "Town"
+    },
+    {
+      "name": "Sicily Island",
+      "designation": "Village"
+    },
+    {
+      "name": "Sikes",
+      "designation": "Village"
+    },
+    {
+      "name": "Simmesport",
+      "designation": "Town"
+    },
+    {
+      "name": "Simpson",
+      "designation": "Village"
+    },
+    {
+      "name": "Simsboro",
+      "designation": "Village"
+    },
+    {
+      "name": "Slaughter",
+      "designation": "Town"
+    },
+    {
+      "name": "Slidell",
+      "designation": "City"
+    },
+    {
+      "name": "Sorrento",
+      "designation": "Town"
+    },
+    {
+      "name": "South Mansfield",
+      "designation": "Village"
+    },
+    {
+      "name": "Spearsville",
+      "designation": "Village"
+    },
+    {
+      "name": "Springfield",
+      "designation": "Town"
+    },
+    {
+      "name": "Springhill",
+      "designation": "City"
+    },
+    {
+      "name": "Stanley",
+      "designation": "Village"
+    },
+    {
+      "name": "Sterlington",
+      "designation": "Town"
+    },
+    {
+      "name": "Stonewall",
+      "designation": "Town"
+    },
+    {
+      "name": "Sulphur",
+      "designation": "City"
+    },
+    {
+      "name": "Sun",
+      "designation": "Village"
+    },
+    {
+      "name": "Sunset",
+      "designation": "Town"
+    },
+    {
+      "name": "Tallulah†",
+      "designation": "City"
+    },
+    {
+      "name": "Tangipahoa",
+      "designation": "Village"
+    },
+    {
+      "name": "Thibodaux†",
+      "designation": "City"
+    },
+    {
+      "name": "Tickfaw",
+      "designation": "Village"
+    },
+    {
+      "name": "Tullos",
+      "designation": "Town"
+    },
+    {
+      "name": "Turkey Creek",
+      "designation": "Village"
+    },
+    {
+      "name": "Urania",
+      "designation": "Town"
+    },
+    {
+      "name": "Varnado",
+      "designation": "Village"
+    },
+    {
+      "name": "Vidalia†",
+      "designation": "Town"
+    },
+    {
+      "name": "Vienna",
+      "designation": "Town"
+    },
+    {
+      "name": "Ville Platte†",
+      "designation": "City"
+    },
+    {
+      "name": "Vinton",
+      "designation": "Town"
+    },
+    {
+      "name": "Vivian",
+      "designation": "Town"
+    },
+    {
+      "name": "Walker",
+      "designation": "Town"
+    },
+    {
+      "name": "Washington",
+      "designation": "Town"
+    },
+    {
+      "name": "Waterproof",
+      "designation": "Town"
+    },
+    {
+      "name": "Welsh",
+      "designation": "Town"
+    },
+    {
+      "name": "Westlake",
+      "designation": "City"
+    },
+    {
+      "name": "West Monroe",
+      "designation": "City"
+    },
+    {
+      "name": "Westwego",
+      "designation": "City"
+    },
+    {
+      "name": "White Castle",
+      "designation": "Town"
+    },
+    {
+      "name": "Wilson",
+      "designation": "Village"
+    },
+    {
+      "name": "Winnfield†",
+      "designation": "City"
+    },
+    {
+      "name": "Winnsboro†",
+      "designation": "Town"
+    },
+    {
+      "name": "Wisner",
+      "designation": "Town"
+    },
+    {
+      "name": "Woodworth",
+      "designation": "Town"
+    },
+    {
+      "name": "Youngsville",
+      "designation": "City"
+    },
+    {
+      "name": "Zachary",
+      "designation": "City"
+    },
+    {
+      "name": "Zwolle",
+      "designation": "Town"
+    },
+    {
+      "name": "Total",
+      "designation": "—"
+    }
+  ]
+}

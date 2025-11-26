@@ -1,0 +1,873 @@
+{
+  "metadata": {
+    "state": "Wisconsin",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_Wisconsin",
+    "scraped_at": "2025-11-23 21:18:17",
+    "scraper_version": "2.0_generic",
+    "description": "Wisconsin municipalities scraped from Wikipedia",
+    "total_municipalities": 190,
+    "statistics": {
+      "total_found": 190,
+      "with_population": 0,
+      "with_counties": 190,
+      "unique_counties": 92,
+      "population_stats": {}
+    },
+    "counties": [
+      "Adams",
+      "AdamsColumbiaJuneauSauk",
+      "Ashland",
+      "AshlandBayfield",
+      "Barron",
+      "Bayfield",
+      "Brown",
+      "Buffalo",
+      "Calumet",
+      "CalumetManitowoc",
+      "CalumetOutagamieWinnebago",
+      "CalumetWinnebago",
+      "Chippewa",
+      "ChippewaClark",
+      "ChippewaEau Claire",
+      "Clark",
+      "ClarkMarathon",
+      "Columbia",
+      "ColumbiaDodge",
+      "Crawford",
+      "Dane",
+      "DaneRock",
+      "Dodge",
+      "DodgeFond du Lac",
+      "DodgeJefferson",
+      "DodgeWashington",
+      "Door",
+      "Douglas",
+      "Dunn",
+      "Eau Claire",
+      "Fond du Lac",
+      "Forest",
+      "Grant",
+      "GrantLafayette",
+      "Green",
+      "Green Lake",
+      "Green LakeWaushara",
+      "GreenRock",
+      "Iowa",
+      "Iron",
+      "Jackson",
+      "Jefferson",
+      "JeffersonWalworth",
+      "Juneau",
+      "Kenosha",
+      "Kewaunee",
+      "La Crosse",
+      "Lafayette",
+      "Langlade",
+      "Lincoln",
+      "Manitowoc",
+      "Marathon",
+      "MarathonWood",
+      "Marinette",
+      "Marquette",
+      "Milwaukee",
+      "MilwaukeeWashingtonWaukesha Ozaukee",
+      "Monroe",
+      "Oconto",
+      "Oneida",
+      "Outagamie",
+      "OutagamieWaupaca",
+      "Ozaukee",
+      "Pepin",
+      "Pierce",
+      "PierceSt. Croix",
+      "Polk",
+      "Portage",
+      "Price",
+      "Racine",
+      "RacineWalworth",
+      "Richland",
+      "Rock",
+      "Rusk",
+      "Sauk",
+      "Sawyer",
+      "Shawano",
+      "ShawanoWaupaca",
+      "Sheboygan",
+      "St. Croix",
+      "Taylor",
+      "Trempealeau",
+      "Vernon",
+      "Vilas",
+      "Walworth",
+      "Washburn",
+      "Washington",
+      "Waukesha",
+      "Waupaca",
+      "Waushara",
+      "Winnebago",
+      "Wood"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "Abbotsford",
+      "primary_county": "ClarkMarathon"
+    },
+    {
+      "name": "Adams",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Algoma",
+      "primary_county": "Kewaunee"
+    },
+    {
+      "name": "Alma",
+      "primary_county": "Buffalo"
+    },
+    {
+      "name": "Altoona",
+      "primary_county": "Eau Claire"
+    },
+    {
+      "name": "Amery",
+      "primary_county": "Polk"
+    },
+    {
+      "name": "Antigo",
+      "primary_county": "Langlade"
+    },
+    {
+      "name": "Appleton",
+      "primary_county": "CalumetOutagamieWinnebago"
+    },
+    {
+      "name": "Arcadia",
+      "primary_county": "Trempealeau"
+    },
+    {
+      "name": "Ashland",
+      "primary_county": "AshlandBayfield"
+    },
+    {
+      "name": "Augusta",
+      "primary_county": "Eau Claire"
+    },
+    {
+      "name": "Baraboo",
+      "primary_county": "Sauk"
+    },
+    {
+      "name": "Barron",
+      "primary_county": "Barron"
+    },
+    {
+      "name": "Bayfield",
+      "primary_county": "Bayfield"
+    },
+    {
+      "name": "Beaver Dam",
+      "primary_county": "Dodge"
+    },
+    {
+      "name": "Beloit",
+      "primary_county": "Rock"
+    },
+    {
+      "name": "Berlin",
+      "primary_county": "Green LakeWaushara"
+    },
+    {
+      "name": "Black River Falls",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Blair",
+      "primary_county": "Trempealeau"
+    },
+    {
+      "name": "Bloomer",
+      "primary_county": "Chippewa"
+    },
+    {
+      "name": "Boscobel",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Brillion",
+      "primary_county": "Calumet"
+    },
+    {
+      "name": "Brodhead",
+      "primary_county": "GreenRock"
+    },
+    {
+      "name": "Brookfield",
+      "primary_county": "Waukesha"
+    },
+    {
+      "name": "Buffalo City",
+      "primary_county": "Buffalo"
+    },
+    {
+      "name": "Burlington",
+      "primary_county": "RacineWalworth"
+    },
+    {
+      "name": "Cedarburg",
+      "primary_county": "Ozaukee"
+    },
+    {
+      "name": "Chetek",
+      "primary_county": "Barron"
+    },
+    {
+      "name": "Chilton",
+      "primary_county": "Calumet"
+    },
+    {
+      "name": "Chippewa Falls",
+      "primary_county": "Chippewa"
+    },
+    {
+      "name": "Clintonville",
+      "primary_county": "Waupaca"
+    },
+    {
+      "name": "Colby",
+      "primary_county": "ClarkMarathon"
+    },
+    {
+      "name": "Columbus",
+      "primary_county": "ColumbiaDodge"
+    },
+    {
+      "name": "Cornell",
+      "primary_county": "Chippewa"
+    },
+    {
+      "name": "Crandon",
+      "primary_county": "Forest"
+    },
+    {
+      "name": "Cuba City",
+      "primary_county": "GrantLafayette"
+    },
+    {
+      "name": "Cudahy",
+      "primary_county": "Milwaukee"
+    },
+    {
+      "name": "Cumberland",
+      "primary_county": "Barron"
+    },
+    {
+      "name": "Darlington",
+      "primary_county": "Lafayette"
+    },
+    {
+      "name": "Delafield",
+      "primary_county": "Waukesha"
+    },
+    {
+      "name": "Delavan",
+      "primary_county": "Walworth"
+    },
+    {
+      "name": "De Pere",
+      "primary_county": "Brown"
+    },
+    {
+      "name": "Dodgeville",
+      "primary_county": "Iowa"
+    },
+    {
+      "name": "Durand",
+      "primary_county": "Pepin"
+    },
+    {
+      "name": "Eagle River",
+      "primary_county": "Vilas"
+    },
+    {
+      "name": "Eau Claire",
+      "primary_county": "ChippewaEau Claire"
+    },
+    {
+      "name": "Edgerton",
+      "primary_county": "DaneRock"
+    },
+    {
+      "name": "Elkhorn",
+      "primary_county": "Walworth"
+    },
+    {
+      "name": "Elroy",
+      "primary_county": "Juneau"
+    },
+    {
+      "name": "Evansville",
+      "primary_county": "Rock"
+    },
+    {
+      "name": "Fennimore",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Fitchburg",
+      "primary_county": "Dane"
+    },
+    {
+      "name": "Fond du Lac",
+      "primary_county": "Fond du Lac"
+    },
+    {
+      "name": "Fort Atkinson",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Fountain City",
+      "primary_county": "Buffalo"
+    },
+    {
+      "name": "Fox Lake",
+      "primary_county": "Dodge"
+    },
+    {
+      "name": "Franklin",
+      "primary_county": "Milwaukee"
+    },
+    {
+      "name": "Galesville",
+      "primary_county": "Trempealeau"
+    },
+    {
+      "name": "Gillett",
+      "primary_county": "Oconto"
+    },
+    {
+      "name": "Glendale",
+      "primary_county": "Milwaukee"
+    },
+    {
+      "name": "Glenwood City",
+      "primary_county": "St. Croix"
+    },
+    {
+      "name": "Green Bay",
+      "primary_county": "Brown"
+    },
+    {
+      "name": "Green Lake",
+      "primary_county": "Green Lake"
+    },
+    {
+      "name": "Greenfield",
+      "primary_county": "Milwaukee"
+    },
+    {
+      "name": "Greenwood",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Hartford",
+      "primary_county": "DodgeWashington"
+    },
+    {
+      "name": "Hayward",
+      "primary_county": "Sawyer"
+    },
+    {
+      "name": "Hillsboro",
+      "primary_county": "Vernon"
+    },
+    {
+      "name": "Horicon",
+      "primary_county": "Dodge"
+    },
+    {
+      "name": "Hudson",
+      "primary_county": "St. Croix"
+    },
+    {
+      "name": "Hurley",
+      "primary_county": "Iron"
+    },
+    {
+      "name": "Independence",
+      "primary_county": "Trempealeau"
+    },
+    {
+      "name": "Janesville",
+      "primary_county": "Rock"
+    },
+    {
+      "name": "Jefferson",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Juneau",
+      "primary_county": "Dodge"
+    },
+    {
+      "name": "Kaukauna",
+      "primary_county": "Outagamie"
+    },
+    {
+      "name": "Kenosha",
+      "primary_county": "Kenosha"
+    },
+    {
+      "name": "Kewaunee",
+      "primary_county": "Kewaunee"
+    },
+    {
+      "name": "Kiel",
+      "primary_county": "CalumetManitowoc"
+    },
+    {
+      "name": "La Crosse",
+      "primary_county": "La Crosse"
+    },
+    {
+      "name": "Ladysmith",
+      "primary_county": "Rusk"
+    },
+    {
+      "name": "Lake Geneva",
+      "primary_county": "Walworth"
+    },
+    {
+      "name": "Lake Mills",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Lancaster",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Lodi",
+      "primary_county": "Columbia"
+    },
+    {
+      "name": "Loyal",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Madison",
+      "primary_county": "Dane"
+    },
+    {
+      "name": "Manawa",
+      "primary_county": "Waupaca"
+    },
+    {
+      "name": "Manitowoc",
+      "primary_county": "Manitowoc"
+    },
+    {
+      "name": "Marinette",
+      "primary_county": "Marinette"
+    },
+    {
+      "name": "Marion",
+      "primary_county": "ShawanoWaupaca"
+    },
+    {
+      "name": "Markesan",
+      "primary_county": "Green Lake"
+    },
+    {
+      "name": "Marshfield",
+      "primary_county": "MarathonWood"
+    },
+    {
+      "name": "Mauston",
+      "primary_county": "Juneau"
+    },
+    {
+      "name": "Mayville",
+      "primary_county": "Dodge"
+    },
+    {
+      "name": "Medford",
+      "primary_county": "Taylor"
+    },
+    {
+      "name": "Mellen",
+      "primary_county": "Ashland"
+    },
+    {
+      "name": "Menasha",
+      "primary_county": "CalumetWinnebago"
+    },
+    {
+      "name": "Menomonie",
+      "primary_county": "Dunn"
+    },
+    {
+      "name": "Mequon",
+      "primary_county": "Ozaukee"
+    },
+    {
+      "name": "Merrill",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Middleton",
+      "primary_county": "Dane"
+    },
+    {
+      "name": "Milton",
+      "primary_county": "Rock"
+    },
+    {
+      "name": "Milwaukee",
+      "primary_county": "MilwaukeeWashingtonWaukesha Ozaukee"
+    },
+    {
+      "name": "Mineral Point",
+      "primary_county": "Iowa"
+    },
+    {
+      "name": "Mondovi",
+      "primary_county": "Buffalo"
+    },
+    {
+      "name": "Monona",
+      "primary_county": "Dane"
+    },
+    {
+      "name": "Monroe",
+      "primary_county": "Green"
+    },
+    {
+      "name": "Montello",
+      "primary_county": "Marquette"
+    },
+    {
+      "name": "Montreal",
+      "primary_county": "Iron"
+    },
+    {
+      "name": "Mosinee",
+      "primary_county": "Marathon"
+    },
+    {
+      "name": "Muskego",
+      "primary_county": "Waukesha"
+    },
+    {
+      "name": "Neenah",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "Neillsville",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Nekoosa",
+      "primary_county": "Wood"
+    },
+    {
+      "name": "New Berlin",
+      "primary_county": "Waukesha"
+    },
+    {
+      "name": "New Holstein",
+      "primary_county": "Calumet"
+    },
+    {
+      "name": "New Lisbon",
+      "primary_county": "Juneau"
+    },
+    {
+      "name": "New London",
+      "primary_county": "OutagamieWaupaca"
+    },
+    {
+      "name": "New Richmond",
+      "primary_county": "St. Croix"
+    },
+    {
+      "name": "Niagara",
+      "primary_county": "Marinette"
+    },
+    {
+      "name": "Oak Creek",
+      "primary_county": "Milwaukee"
+    },
+    {
+      "name": "Oconomowoc",
+      "primary_county": "Waukesha"
+    },
+    {
+      "name": "Oconto",
+      "primary_county": "Oconto"
+    },
+    {
+      "name": "Oconto Falls",
+      "primary_county": "Oconto"
+    },
+    {
+      "name": "Omro",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "Onalaska",
+      "primary_county": "La Crosse"
+    },
+    {
+      "name": "Oshkosh",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "Osseo",
+      "primary_county": "Trempealeau"
+    },
+    {
+      "name": "Owen",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Park Falls",
+      "primary_county": "Price"
+    },
+    {
+      "name": "Peshtigo",
+      "primary_county": "Marinette"
+    },
+    {
+      "name": "Pewaukee",
+      "primary_county": "Waukesha"
+    },
+    {
+      "name": "Phillips",
+      "primary_county": "Price"
+    },
+    {
+      "name": "Pittsville",
+      "primary_county": "Wood"
+    },
+    {
+      "name": "Platteville",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Plymouth",
+      "primary_county": "Sheboygan"
+    },
+    {
+      "name": "Port Washington",
+      "primary_county": "Ozaukee"
+    },
+    {
+      "name": "Portage",
+      "primary_county": "Columbia"
+    },
+    {
+      "name": "Prairie du Chien",
+      "primary_county": "Crawford"
+    },
+    {
+      "name": "Prescott",
+      "primary_county": "Pierce"
+    },
+    {
+      "name": "Princeton",
+      "primary_county": "Green Lake"
+    },
+    {
+      "name": "Racine",
+      "primary_county": "Racine"
+    },
+    {
+      "name": "Reedsburg",
+      "primary_county": "Sauk"
+    },
+    {
+      "name": "Rhinelander",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Rice Lake",
+      "primary_county": "Barron"
+    },
+    {
+      "name": "Richland Center",
+      "primary_county": "Richland"
+    },
+    {
+      "name": "Ripon",
+      "primary_county": "Fond du Lac"
+    },
+    {
+      "name": "River Falls",
+      "primary_county": "PierceSt. Croix"
+    },
+    {
+      "name": "St. Croix Falls",
+      "primary_county": "Polk"
+    },
+    {
+      "name": "St. Francis",
+      "primary_county": "Milwaukee"
+    },
+    {
+      "name": "Schofield",
+      "primary_county": "Marathon"
+    },
+    {
+      "name": "Seymour",
+      "primary_county": "Outagamie"
+    },
+    {
+      "name": "Shawano",
+      "primary_county": "Shawano"
+    },
+    {
+      "name": "Sheboygan",
+      "primary_county": "Sheboygan"
+    },
+    {
+      "name": "Sheboygan Falls",
+      "primary_county": "Sheboygan"
+    },
+    {
+      "name": "Shell Lake",
+      "primary_county": "Washburn"
+    },
+    {
+      "name": "Shullsburg",
+      "primary_county": "Lafayette"
+    },
+    {
+      "name": "South Milwaukee",
+      "primary_county": "Milwaukee"
+    },
+    {
+      "name": "Sparta",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Spooner",
+      "primary_county": "Washburn"
+    },
+    {
+      "name": "Stanley",
+      "primary_county": "ChippewaClark"
+    },
+    {
+      "name": "Stevens Point",
+      "primary_county": "Portage"
+    },
+    {
+      "name": "Stoughton",
+      "primary_county": "Dane"
+    },
+    {
+      "name": "Sturgeon Bay",
+      "primary_county": "Door"
+    },
+    {
+      "name": "Sun Prairie",
+      "primary_county": "Dane"
+    },
+    {
+      "name": "Superior",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Thorp",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Tomah",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Tomahawk",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Two Rivers",
+      "primary_county": "Manitowoc"
+    },
+    {
+      "name": "Verona",
+      "primary_county": "Dane"
+    },
+    {
+      "name": "Viroqua",
+      "primary_county": "Vernon"
+    },
+    {
+      "name": "Washburn",
+      "primary_county": "Bayfield"
+    },
+    {
+      "name": "Waterloo",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Watertown",
+      "primary_county": "DodgeJefferson"
+    },
+    {
+      "name": "Waukesha",
+      "primary_county": "Waukesha"
+    },
+    {
+      "name": "Waupaca",
+      "primary_county": "Waupaca"
+    },
+    {
+      "name": "Waupun",
+      "primary_county": "DodgeFond du Lac"
+    },
+    {
+      "name": "Wausau",
+      "primary_county": "Marathon"
+    },
+    {
+      "name": "Wautoma",
+      "primary_county": "Waushara"
+    },
+    {
+      "name": "Wauwatosa",
+      "primary_county": "Milwaukee"
+    },
+    {
+      "name": "West Allis",
+      "primary_county": "Milwaukee"
+    },
+    {
+      "name": "West Bend",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Westby",
+      "primary_county": "Vernon"
+    },
+    {
+      "name": "Weyauwega",
+      "primary_county": "Waupaca"
+    },
+    {
+      "name": "Whitehall",
+      "primary_county": "Trempealeau"
+    },
+    {
+      "name": "Whitewater",
+      "primary_county": "JeffersonWalworth"
+    },
+    {
+      "name": "Wisconsin Dells",
+      "primary_county": "AdamsColumbiaJuneauSauk"
+    },
+    {
+      "name": "Wisconsin Rapids",
+      "primary_county": "Wood"
+    }
+  ]
+}

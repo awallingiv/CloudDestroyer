@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "state": "Nevada",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_Nevada",
+    "scraped_at": "2025-11-24 20:30:35",
+    "scraper_version": "2.0_generic",
+    "description": "Nevada municipalities scraped from Wikipedia",
+    "total_municipalities": 22,
+    "statistics": {
+      "total_found": 22,
+      "with_population": 0,
+      "with_counties": 21,
+      "unique_counties": 11,
+      "population_stats": {}
+    },
+    "counties": [
+      "Churchill",
+      "Clark",
+      "Elko",
+      "Humboldt",
+      "Lincoln",
+      "Lyon",
+      "None",
+      "Pershing",
+      "Washoe",
+      "White Pine",
+      "—"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi",
+      "designation": "km2"
+    },
+    {
+      "name": "Boulder City",
+      "designation": "City",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Caliente",
+      "designation": "City",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Carlin",
+      "designation": "City",
+      "primary_county": "Elko"
+    },
+    {
+      "name": "Carson City‡",
+      "designation": "—",
+      "primary_county": "None"
+    },
+    {
+      "name": "Elko†",
+      "designation": "City",
+      "primary_county": "Elko"
+    },
+    {
+      "name": "Ely†",
+      "designation": "City",
+      "primary_county": "White Pine"
+    },
+    {
+      "name": "Fallon†",
+      "designation": "City",
+      "primary_county": "Churchill"
+    },
+    {
+      "name": "Fernley",
+      "designation": "City",
+      "primary_county": "Lyon"
+    },
+    {
+      "name": "Henderson",
+      "designation": "City",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Las Vegas†",
+      "designation": "City",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Lovelock†",
+      "designation": "City",
+      "primary_county": "Pershing"
+    },
+    {
+      "name": "Mesquite",
+      "designation": "City",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "North Las Vegas",
+      "designation": "City",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Reno†",
+      "designation": "City",
+      "primary_county": "Washoe"
+    },
+    {
+      "name": "Sparks",
+      "designation": "City",
+      "primary_county": "Washoe"
+    },
+    {
+      "name": "Wells",
+      "designation": "City",
+      "primary_county": "Elko"
+    },
+    {
+      "name": "West Wendover",
+      "designation": "City",
+      "primary_county": "Elko"
+    },
+    {
+      "name": "Winnemucca†",
+      "designation": "City",
+      "primary_county": "Humboldt"
+    },
+    {
+      "name": "Yerington†",
+      "designation": "City",
+      "primary_county": "Lyon"
+    },
+    {
+      "name": "Total cities",
+      "designation": "—",
+      "primary_county": "—"
+    },
+    {
+      "name": "Nevada",
+      "designation": "—",
+      "primary_county": "—"
+    }
+  ]
+}

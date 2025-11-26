@@ -1,0 +1,1849 @@
+{
+  "metadata": {
+    "state": "North Dakota",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_North_Dakota",
+    "scraped_at": "2025-11-24 20:31:28",
+    "scraper_version": "2.0_generic",
+    "description": "North Dakota municipalities scraped from Wikipedia",
+    "total_municipalities": 355,
+    "statistics": {
+      "total_found": 355,
+      "with_population": 0,
+      "with_counties": 355,
+      "unique_counties": 53,
+      "population_stats": {}
+    },
+    "counties": [
+      "Adams",
+      "Barnes",
+      "Benson",
+      "Billings",
+      "Bottineau",
+      "Bowman",
+      "Burke",
+      "Burleigh",
+      "Cass",
+      "Cavalier",
+      "Dickey",
+      "Divide",
+      "Dunn",
+      "Eddy",
+      "Emmons",
+      "Foster",
+      "Golden Valley",
+      "Grand Forks",
+      "Grant",
+      "Griggs",
+      "Hettinger",
+      "Kidder",
+      "LaMoure",
+      "Logan",
+      "McHenry",
+      "McIntosh",
+      "McKenzie",
+      "McLean",
+      "Mercer",
+      "Morton",
+      "Mountrail",
+      "Nelson",
+      "Oliver",
+      "Pembina",
+      "Pierce",
+      "Ramsey",
+      "Ransom",
+      "Renville",
+      "Richland",
+      "Rolette",
+      "Sargent",
+      "Sheridan",
+      "Sioux",
+      "Slope",
+      "Stark",
+      "Steele",
+      "Stutsman",
+      "Towner",
+      "Traill",
+      "Walsh",
+      "Ward",
+      "Wells",
+      "Williams"
+    ]
+  },
+  "municipalities": [
+    {
+      "rank": 1,
+      "name": "Fargo",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 2,
+      "name": "Bismarck",
+      "primary_county": "Burleigh"
+    },
+    {
+      "rank": 3,
+      "name": "Grand Forks",
+      "primary_county": "Grand Forks"
+    },
+    {
+      "rank": 4,
+      "name": "Minot",
+      "primary_county": "Ward"
+    },
+    {
+      "rank": 5,
+      "name": "West Fargo",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 6,
+      "name": "Williston",
+      "primary_county": "Williams"
+    },
+    {
+      "rank": 7,
+      "name": "Dickinson",
+      "primary_county": "Stark"
+    },
+    {
+      "rank": 8,
+      "name": "Mandan",
+      "primary_county": "Morton"
+    },
+    {
+      "rank": 9,
+      "name": "Jamestown",
+      "primary_county": "Stutsman"
+    },
+    {
+      "rank": 10,
+      "name": "Wahpeton",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 11,
+      "name": "Devils Lake",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 12,
+      "name": "Valley City",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 13,
+      "name": "Horace",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 14,
+      "name": "Watford City",
+      "primary_county": "McKenzie"
+    },
+    {
+      "rank": 15,
+      "name": "Lincoln",
+      "primary_county": "Burleigh"
+    },
+    {
+      "rank": 16,
+      "name": "Grafton",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 17,
+      "name": "Beulah",
+      "primary_county": "Mercer"
+    },
+    {
+      "rank": 18,
+      "name": "New Town",
+      "primary_county": "Mountrail"
+    },
+    {
+      "rank": 19,
+      "name": "Casselton",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 20,
+      "name": "Rugby",
+      "primary_county": "Pierce"
+    },
+    {
+      "rank": 21,
+      "name": "Hazen",
+      "primary_county": "Mercer"
+    },
+    {
+      "rank": 22,
+      "name": "Stanley",
+      "primary_county": "Mountrail"
+    },
+    {
+      "rank": 23,
+      "name": "Bottineau",
+      "primary_county": "Bottineau"
+    },
+    {
+      "rank": 24,
+      "name": "Tioga",
+      "primary_county": "Williams"
+    },
+    {
+      "rank": 25,
+      "name": "Lisbon",
+      "primary_county": "Ransom"
+    },
+    {
+      "rank": 26,
+      "name": "Carrington",
+      "primary_county": "Foster"
+    },
+    {
+      "rank": 27,
+      "name": "Langdon",
+      "primary_county": "Cavalier"
+    },
+    {
+      "rank": 28,
+      "name": "Mayville",
+      "primary_county": "Traill"
+    },
+    {
+      "rank": 29,
+      "name": "Oakes",
+      "primary_county": "Dickey"
+    },
+    {
+      "rank": 30,
+      "name": "Hillsboro",
+      "primary_county": "Traill"
+    },
+    {
+      "rank": 31,
+      "name": "Harvey",
+      "primary_county": "Wells"
+    },
+    {
+      "rank": 32,
+      "name": "Mapleton",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 33,
+      "name": "Garrison",
+      "primary_county": "McLean"
+    },
+    {
+      "rank": 34,
+      "name": "Surrey",
+      "primary_county": "Ward"
+    },
+    {
+      "rank": 35,
+      "name": "Bowman",
+      "primary_county": "Bowman"
+    },
+    {
+      "rank": 36,
+      "name": "Park River",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 37,
+      "name": "Burlington",
+      "primary_county": "Ward"
+    },
+    {
+      "rank": 38,
+      "name": "New Rockford",
+      "primary_county": "Eddy"
+    },
+    {
+      "rank": 39,
+      "name": "Washburn",
+      "primary_county": "McLean"
+    },
+    {
+      "rank": 40,
+      "name": "Larimore",
+      "primary_county": "Grand Forks"
+    },
+    {
+      "rank": 41,
+      "name": "Cavalier",
+      "primary_county": "Pembina"
+    },
+    {
+      "rank": 42,
+      "name": "Rolla",
+      "primary_county": "Rolette"
+    },
+    {
+      "rank": 43,
+      "name": "Ellendale",
+      "primary_county": "Dickey"
+    },
+    {
+      "rank": 44,
+      "name": "Thompson",
+      "primary_county": "Grand Forks"
+    },
+    {
+      "rank": 45,
+      "name": "New Salem",
+      "primary_county": "Morton"
+    },
+    {
+      "rank": 46,
+      "name": "Cando",
+      "primary_county": "Towner"
+    },
+    {
+      "rank": 47,
+      "name": "Hettinger",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 48,
+      "name": "Velva",
+      "primary_county": "McHenry"
+    },
+    {
+      "rank": 49,
+      "name": "Linton",
+      "primary_county": "Emmons"
+    },
+    {
+      "rank": 50,
+      "name": "Crosby",
+      "primary_county": "Divide"
+    },
+    {
+      "rank": 51,
+      "name": "Kindred",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 52,
+      "name": "Beach",
+      "primary_county": "Golden Valley"
+    },
+    {
+      "rank": 53,
+      "name": "Belfield",
+      "primary_county": "Stark"
+    },
+    {
+      "rank": 54,
+      "name": "Cooperstown",
+      "primary_county": "Griggs"
+    },
+    {
+      "rank": 55,
+      "name": "Northwood",
+      "primary_county": "Grand Forks"
+    },
+    {
+      "rank": 56,
+      "name": "Hankinson",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 57,
+      "name": "Kenmare",
+      "primary_county": "Ward"
+    },
+    {
+      "rank": 58,
+      "name": "Killdeer",
+      "primary_county": "Dunn"
+    },
+    {
+      "rank": 59,
+      "name": "Parshall",
+      "primary_county": "Mountrail"
+    },
+    {
+      "rank": 60,
+      "name": "Gwinner",
+      "primary_county": "Sargent"
+    },
+    {
+      "rank": 61,
+      "name": "Walhalla",
+      "primary_county": "Pembina"
+    },
+    {
+      "rank": 62,
+      "name": "Reile's Acres",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 63,
+      "name": "Enderlin",
+      "primary_county": "Ransom"
+    },
+    {
+      "rank": 64,
+      "name": "Harwood",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 65,
+      "name": "Wishek",
+      "primary_county": "McIntosh"
+    },
+    {
+      "rank": 66,
+      "name": "Hebron",
+      "primary_county": "Morton"
+    },
+    {
+      "rank": 67,
+      "name": "Underwood",
+      "primary_county": "McLean"
+    },
+    {
+      "rank": 68,
+      "name": "Ray",
+      "primary_county": "Williams"
+    },
+    {
+      "rank": 69,
+      "name": "Napoleon",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 70,
+      "name": "LaMoure",
+      "primary_county": "LaMoure"
+    },
+    {
+      "rank": 71,
+      "name": "Drayton",
+      "primary_county": "Pembina"
+    },
+    {
+      "rank": 72,
+      "name": "Mohall",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 73,
+      "name": "Hatton",
+      "primary_county": "Traill"
+    },
+    {
+      "rank": 74,
+      "name": "Wilton",
+      "primary_county": "McLean"
+    },
+    {
+      "rank": 75,
+      "name": "Glen Ullin",
+      "primary_county": "Morton"
+    },
+    {
+      "rank": 76,
+      "name": "New England",
+      "primary_county": "Hettinger"
+    },
+    {
+      "rank": 77,
+      "name": "Lakota",
+      "primary_county": "Nelson"
+    },
+    {
+      "rank": 78,
+      "name": "Richardton",
+      "primary_county": "Stark"
+    },
+    {
+      "rank": 79,
+      "name": "Steele",
+      "primary_county": "Kidder"
+    },
+    {
+      "rank": 80,
+      "name": "Mott",
+      "primary_county": "Hettinger"
+    },
+    {
+      "rank": 81,
+      "name": "Minto",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 82,
+      "name": "Dunseith",
+      "primary_county": "Rolette"
+    },
+    {
+      "rank": 83,
+      "name": "Milnor",
+      "primary_county": "Sargent"
+    },
+    {
+      "rank": 84,
+      "name": "Ashley",
+      "primary_county": "McIntosh"
+    },
+    {
+      "rank": 85,
+      "name": "Lidgerwood",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 86,
+      "name": "Center",
+      "primary_county": "Oliver"
+    },
+    {
+      "rank": 87,
+      "name": "Portland",
+      "primary_county": "Traill"
+    },
+    {
+      "rank": 88,
+      "name": "Edgeley",
+      "primary_county": "LaMoure"
+    },
+    {
+      "rank": 89,
+      "name": "Turtle Lake",
+      "primary_county": "McLean"
+    },
+    {
+      "rank": 90,
+      "name": "Elgin",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 91,
+      "name": "Pembina",
+      "primary_county": "Pembina"
+    },
+    {
+      "rank": 92,
+      "name": "Forman",
+      "primary_county": "Sargent"
+    },
+    {
+      "rank": 93,
+      "name": "Argusville",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 94,
+      "name": "Berthold",
+      "primary_county": "Ward"
+    },
+    {
+      "rank": 95,
+      "name": "Rolette",
+      "primary_county": "Rolette"
+    },
+    {
+      "rank": 96,
+      "name": "Towner",
+      "primary_county": "McHenry"
+    },
+    {
+      "rank": 97,
+      "name": "Emerado",
+      "primary_county": "Grand Forks"
+    },
+    {
+      "rank": 98,
+      "name": "Fessenden",
+      "primary_county": "Wells"
+    },
+    {
+      "rank": 99,
+      "name": "Wyndmere",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 100,
+      "name": "Leeds",
+      "primary_county": "Benson"
+    },
+    {
+      "rank": 101,
+      "name": "Glenburn",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 102,
+      "name": "South Heart",
+      "primary_county": "Stark"
+    },
+    {
+      "rank": 103,
+      "name": "Finley",
+      "primary_county": "Steele"
+    },
+    {
+      "rank": 104,
+      "name": "McVille",
+      "primary_county": "Nelson"
+    },
+    {
+      "rank": 105,
+      "name": "Maddock",
+      "primary_county": "Benson"
+    },
+    {
+      "rank": 106,
+      "name": "Powers Lake",
+      "primary_county": "Burke"
+    },
+    {
+      "rank": 107,
+      "name": "Oxbow",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 108,
+      "name": "Westhope",
+      "primary_county": "Bottineau"
+    },
+    {
+      "rank": 109,
+      "name": "Manvel",
+      "primary_county": "Grand Forks"
+    },
+    {
+      "rank": 110,
+      "name": "Kulm",
+      "primary_county": "LaMoure"
+    },
+    {
+      "rank": 111,
+      "name": "Stanton",
+      "primary_county": "Mercer"
+    },
+    {
+      "rank": 112,
+      "name": "Strasburg",
+      "primary_county": "Emmons"
+    },
+    {
+      "rank": 113,
+      "name": "Buxton",
+      "primary_county": "Traill"
+    },
+    {
+      "rank": 114,
+      "name": "Neche",
+      "primary_county": "Pembina"
+    },
+    {
+      "rank": 115,
+      "name": "Fairmount",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 116,
+      "name": "Hunter",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 117,
+      "name": "Arthur",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 118,
+      "name": "Max",
+      "primary_county": "McLean"
+    },
+    {
+      "rank": 119,
+      "name": "Alexander",
+      "primary_county": "McKenzie"
+    },
+    {
+      "rank": 120,
+      "name": "McClusky",
+      "primary_county": "Sheridan"
+    },
+    {
+      "rank": 121,
+      "name": "St. John",
+      "primary_county": "Rolette"
+    },
+    {
+      "rank": 122,
+      "name": "Sawyer",
+      "primary_county": "Ward"
+    },
+    {
+      "rank": 123,
+      "name": "St. Thomas",
+      "primary_county": "Pembina"
+    },
+    {
+      "rank": 124,
+      "name": "Arnegard",
+      "primary_county": "McKenzie"
+    },
+    {
+      "rank": 125,
+      "name": "Bowbells",
+      "primary_county": "Burke"
+    },
+    {
+      "rank": 126,
+      "name": "Gackle",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 127,
+      "name": "Gladstone",
+      "primary_county": "Stark"
+    },
+    {
+      "rank": 128,
+      "name": "Drake",
+      "primary_county": "McHenry"
+    },
+    {
+      "rank": 129,
+      "name": "Hope",
+      "primary_county": "Steele"
+    },
+    {
+      "rank": 130,
+      "name": "Tower City",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 131,
+      "name": "Reynolds",
+      "primary_county": "Traill"
+    },
+    {
+      "rank": 132,
+      "name": "Walcott",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 133,
+      "name": "Medina",
+      "primary_county": "Stutsman"
+    },
+    {
+      "rank": 134,
+      "name": "Michigan City",
+      "primary_county": "Nelson"
+    },
+    {
+      "rank": 135,
+      "name": "Abercrombie",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 136,
+      "name": "Davenport",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 137,
+      "name": "Scranton",
+      "primary_county": "Bowman"
+    },
+    {
+      "rank": 138,
+      "name": "Carson",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 139,
+      "name": "Leonard",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 140,
+      "name": "Gilby",
+      "primary_county": "Grand Forks"
+    },
+    {
+      "rank": 141,
+      "name": "Hoople",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 142,
+      "name": "Aneta",
+      "primary_county": "Nelson"
+    },
+    {
+      "rank": 143,
+      "name": "Lansford",
+      "primary_county": "Bottineau"
+    },
+    {
+      "rank": 144,
+      "name": "Halliday",
+      "primary_county": "Dunn"
+    },
+    {
+      "rank": 145,
+      "name": "Granville",
+      "primary_county": "McHenry"
+    },
+    {
+      "rank": 146,
+      "name": "Flasher",
+      "primary_county": "Morton"
+    },
+    {
+      "rank": 147,
+      "name": "Dunn Center",
+      "primary_county": "Dunn"
+    },
+    {
+      "rank": 148,
+      "name": "Taylor",
+      "primary_county": "Stark"
+    },
+    {
+      "rank": 149,
+      "name": "Zap",
+      "primary_county": "Mercer"
+    },
+    {
+      "rank": 150,
+      "name": "Riverdale",
+      "primary_county": "McLean"
+    },
+    {
+      "rank": 151,
+      "name": "Grenora",
+      "primary_county": "Williams"
+    },
+    {
+      "rank": 152,
+      "name": "Hazelton",
+      "primary_county": "Emmons"
+    },
+    {
+      "rank": 153,
+      "name": "Anamoose",
+      "primary_county": "McHenry"
+    },
+    {
+      "rank": 154,
+      "name": "Tappen",
+      "primary_county": "Kidder"
+    },
+    {
+      "rank": 155,
+      "name": "Colfax",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 156,
+      "name": "New Leipzig",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 157,
+      "name": "Plaza",
+      "primary_county": "Mountrail"
+    },
+    {
+      "rank": 158,
+      "name": "Fordville",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 159,
+      "name": "Sherwood",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 160,
+      "name": "Frontier",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 161,
+      "name": "Grandin",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 162,
+      "name": "Edinburg",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 163,
+      "name": "Buffalo",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 164,
+      "name": "Golden Valley",
+      "primary_county": "Mercer"
+    },
+    {
+      "rank": 165,
+      "name": "Minnewaukan",
+      "primary_county": "Benson"
+    },
+    {
+      "rank": 166,
+      "name": "Page",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 167,
+      "name": "Munich",
+      "primary_county": "Cavalier"
+    },
+    {
+      "rank": 168,
+      "name": "Sheyenne",
+      "primary_county": "Eddy"
+    },
+    {
+      "rank": 169,
+      "name": "Wimbledon",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 170,
+      "name": "Des Lacs",
+      "primary_county": "Ward"
+    },
+    {
+      "rank": 171,
+      "name": "Mooreton",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 172,
+      "name": "Fort Yates",
+      "primary_county": "Sioux"
+    },
+    {
+      "rank": 173,
+      "name": "Litchville",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 174,
+      "name": "Regent",
+      "primary_county": "Hettinger"
+    },
+    {
+      "rank": 175,
+      "name": "Sanborn",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 176,
+      "name": "Binford",
+      "primary_county": "Griggs"
+    },
+    {
+      "rank": 177,
+      "name": "Medora",
+      "primary_county": "Billings"
+    },
+    {
+      "rank": 178,
+      "name": "Petersburg",
+      "primary_county": "Nelson"
+    },
+    {
+      "rank": 179,
+      "name": "Rhame",
+      "primary_county": "Bowman"
+    },
+    {
+      "rank": 180,
+      "name": "Rutland",
+      "primary_county": "Sargent"
+    },
+    {
+      "rank": 181,
+      "name": "Streeter",
+      "primary_county": "Stutsman"
+    },
+    {
+      "rank": 182,
+      "name": "Kensal",
+      "primary_county": "Stutsman"
+    },
+    {
+      "rank": 183,
+      "name": "Christine",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 184,
+      "name": "Willow City",
+      "primary_county": "Bottineau"
+    },
+    {
+      "rank": 185,
+      "name": "Makoti",
+      "primary_county": "Ward"
+    },
+    {
+      "rank": 186,
+      "name": "Carpio",
+      "primary_county": "Ward"
+    },
+    {
+      "rank": 187,
+      "name": "Wing",
+      "primary_county": "Burleigh"
+    },
+    {
+      "rank": 188,
+      "name": "Edmore",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 189,
+      "name": "Bowdon",
+      "primary_county": "Wells"
+    },
+    {
+      "rank": 190,
+      "name": "Lignite",
+      "primary_county": "Burke"
+    },
+    {
+      "rank": 191,
+      "name": "Noonan",
+      "primary_county": "Divide"
+    },
+    {
+      "rank": 192,
+      "name": "Tolna",
+      "primary_county": "Nelson"
+    },
+    {
+      "rank": 193,
+      "name": "Columbus",
+      "primary_county": "Burke"
+    },
+    {
+      "rank": 194,
+      "name": "Pick City",
+      "primary_county": "Mercer"
+    },
+    {
+      "rank": 195,
+      "name": "Upham",
+      "primary_county": "McHenry"
+    },
+    {
+      "rank": 196,
+      "name": "Mercer",
+      "primary_county": "McLean"
+    },
+    {
+      "rank": 197,
+      "name": "Gardner",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 198,
+      "name": "Marion",
+      "primary_county": "LaMoure"
+    },
+    {
+      "rank": 199,
+      "name": "Reeder",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 200,
+      "name": "Adams",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 201,
+      "name": "Palermo",
+      "primary_county": "Mountrail"
+    },
+    {
+      "rank": 202,
+      "name": "Selfridge",
+      "primary_county": "Sioux"
+    },
+    {
+      "rank": 203,
+      "name": "Portal",
+      "primary_county": "Burke"
+    },
+    {
+      "rank": 204,
+      "name": "Hannaford",
+      "primary_county": "Griggs"
+    },
+    {
+      "rank": 205,
+      "name": "Galesburg",
+      "primary_county": "Traill"
+    },
+    {
+      "rank": 206,
+      "name": "Oriska",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 207,
+      "name": "Wildrose",
+      "primary_county": "Williams"
+    },
+    {
+      "rank": 208,
+      "name": "Crary",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 209,
+      "name": "Crystal",
+      "primary_county": "Pembina"
+    },
+    {
+      "rank": 210,
+      "name": "Forest River",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 211,
+      "name": "Goodrich",
+      "primary_county": "Sheridan"
+    },
+    {
+      "rank": 212,
+      "name": "Ryder",
+      "primary_county": "Ward"
+    },
+    {
+      "rank": 213,
+      "name": "Lankin",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 214,
+      "name": "Bisbee",
+      "primary_county": "Towner"
+    },
+    {
+      "rank": 215,
+      "name": "Fort Ransom",
+      "primary_county": "Ransom"
+    },
+    {
+      "rank": 216,
+      "name": "Sykeston",
+      "primary_county": "Wells"
+    },
+    {
+      "rank": 217,
+      "name": "Almont",
+      "primary_county": "Morton"
+    },
+    {
+      "rank": 218,
+      "name": "Starkweather",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 219,
+      "name": "Glenfield",
+      "primary_county": "Foster"
+    },
+    {
+      "rank": 220,
+      "name": "Osnabrock",
+      "primary_county": "Cavalier"
+    },
+    {
+      "rank": 221,
+      "name": "Marmarth",
+      "primary_county": "Slope"
+    },
+    {
+      "rank": 222,
+      "name": "Newburg",
+      "primary_county": "Bottineau"
+    },
+    {
+      "rank": 223,
+      "name": "Spiritwood Lake",
+      "primary_county": "Stutsman"
+    },
+    {
+      "rank": 224,
+      "name": "White Earth",
+      "primary_county": "Mountrail"
+    },
+    {
+      "rank": 225,
+      "name": "Oberon",
+      "primary_county": "Benson"
+    },
+    {
+      "rank": 226,
+      "name": "Deering",
+      "primary_county": "McHenry"
+    },
+    {
+      "rank": 227,
+      "name": "Sheldon",
+      "primary_county": "Ransom"
+    },
+    {
+      "rank": 228,
+      "name": "Douglas",
+      "primary_county": "Ward"
+    },
+    {
+      "rank": 229,
+      "name": "Fingal",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 230,
+      "name": "Golva",
+      "primary_county": "Golden Valley"
+    },
+    {
+      "rank": 231,
+      "name": "Rocklake",
+      "primary_county": "Towner"
+    },
+    {
+      "rank": 232,
+      "name": "Esmond",
+      "primary_county": "Benson"
+    },
+    {
+      "rank": 233,
+      "name": "Ross",
+      "primary_county": "Mountrail"
+    },
+    {
+      "rank": 234,
+      "name": "Amenia",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 235,
+      "name": "Epping",
+      "primary_county": "Williams"
+    },
+    {
+      "rank": 236,
+      "name": "Maxbass",
+      "primary_county": "Bottineau"
+    },
+    {
+      "rank": 237,
+      "name": "Sharon",
+      "primary_county": "Steele"
+    },
+    {
+      "rank": 238,
+      "name": "Pisek",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 239,
+      "name": "Buchanan",
+      "primary_county": "Stutsman"
+    },
+    {
+      "rank": 240,
+      "name": "Karlsruhe",
+      "primary_county": "McHenry"
+    },
+    {
+      "rank": 241,
+      "name": "Montpelier",
+      "primary_county": "Stutsman"
+    },
+    {
+      "rank": 242,
+      "name": "Dodge",
+      "primary_county": "Dunn"
+    },
+    {
+      "rank": 243,
+      "name": "Mountain",
+      "primary_county": "Pembina"
+    },
+    {
+      "rank": 244,
+      "name": "Zeeland",
+      "primary_county": "McIntosh"
+    },
+    {
+      "rank": 245,
+      "name": "Dwight",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 246,
+      "name": "Lehr",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 247,
+      "name": "Dawson",
+      "primary_county": "Kidder"
+    },
+    {
+      "rank": 248,
+      "name": "Pekin",
+      "primary_county": "Nelson"
+    },
+    {
+      "rank": 249,
+      "name": "Dazey",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 250,
+      "name": "Donnybrook",
+      "primary_county": "Ward"
+    },
+    {
+      "rank": 251,
+      "name": "Butte",
+      "primary_county": "McLean"
+    },
+    {
+      "rank": 252,
+      "name": "Cleveland",
+      "primary_county": "Stutsman"
+    },
+    {
+      "rank": 253,
+      "name": "Sentinel Butte",
+      "primary_county": "Golden Valley"
+    },
+    {
+      "rank": 254,
+      "name": "Cogswell",
+      "primary_county": "Sargent"
+    },
+    {
+      "rank": 255,
+      "name": "Mantador",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 256,
+      "name": "Solen",
+      "primary_county": "Sioux"
+    },
+    {
+      "rank": 257,
+      "name": "Benedict",
+      "primary_county": "McLean"
+    },
+    {
+      "rank": 258,
+      "name": "Hague",
+      "primary_county": "Emmons"
+    },
+    {
+      "rank": 259,
+      "name": "Kathryn",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 260,
+      "name": "Jud",
+      "primary_county": "LaMoure"
+    },
+    {
+      "rank": 261,
+      "name": "Balta",
+      "primary_county": "Pierce"
+    },
+    {
+      "rank": 262,
+      "name": "Havana",
+      "primary_county": "Sargent"
+    },
+    {
+      "rank": 263,
+      "name": "McHenry",
+      "primary_county": "Foster"
+    },
+    {
+      "rank": 264,
+      "name": "Coleharbor",
+      "primary_county": "McLean"
+    },
+    {
+      "rank": 265,
+      "name": "Verona",
+      "primary_county": "LaMoure"
+    },
+    {
+      "rank": 266,
+      "name": "Martin",
+      "primary_county": "Sheridan"
+    },
+    {
+      "rank": 267,
+      "name": "Flaxton",
+      "primary_county": "Burke"
+    },
+    {
+      "rank": 268,
+      "name": "Hurdsfield",
+      "primary_county": "Wells"
+    },
+    {
+      "rank": 269,
+      "name": "Tuttle",
+      "primary_county": "Kidder"
+    },
+    {
+      "rank": 270,
+      "name": "Fullerton",
+      "primary_county": "Dickey"
+    },
+    {
+      "rank": 271,
+      "name": "Pettibone",
+      "primary_county": "Kidder"
+    },
+    {
+      "rank": 272,
+      "name": "Rogers",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 273,
+      "name": "Alamo",
+      "primary_county": "Williams"
+    },
+    {
+      "rank": 274,
+      "name": "North River",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 275,
+      "name": "Great Bend",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 276,
+      "name": "Briarwood",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 277,
+      "name": "Grace City",
+      "primary_county": "Foster"
+    },
+    {
+      "rank": 278,
+      "name": "Prairie Rose",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 279,
+      "name": "Nome",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 280,
+      "name": "Warwick",
+      "primary_county": "Benson"
+    },
+    {
+      "rank": 281,
+      "name": "Bathgate",
+      "primary_county": "Pembina"
+    },
+    {
+      "rank": 282,
+      "name": "Dickey",
+      "primary_county": "LaMoure"
+    },
+    {
+      "rank": 283,
+      "name": "Barney",
+      "primary_county": "Richland"
+    },
+    {
+      "rank": 284,
+      "name": "Woodworth",
+      "primary_county": "Stutsman"
+    },
+    {
+      "rank": 285,
+      "name": "Alice",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 286,
+      "name": "Pingree",
+      "primary_county": "Stutsman"
+    },
+    {
+      "rank": 287,
+      "name": "Tolley",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 288,
+      "name": "Voltaire",
+      "primary_county": "McHenry"
+    },
+    {
+      "rank": 289,
+      "name": "Hamilton",
+      "primary_county": "Pembina"
+    },
+    {
+      "rank": 290,
+      "name": "Niagara",
+      "primary_county": "Grand Forks"
+    },
+    {
+      "rank": 291,
+      "name": "Wolford",
+      "primary_county": "Pierce"
+    },
+    {
+      "rank": 292,
+      "name": "Milton",
+      "primary_county": "Cavalier"
+    },
+    {
+      "rank": 293,
+      "name": "Cayuga",
+      "primary_county": "Sargent"
+    },
+    {
+      "rank": 294,
+      "name": "Souris",
+      "primary_county": "Bottineau"
+    },
+    {
+      "rank": 295,
+      "name": "Courtenay",
+      "primary_county": "Stutsman"
+    },
+    {
+      "rank": 296,
+      "name": "Forbes",
+      "primary_county": "Dickey"
+    },
+    {
+      "rank": 297,
+      "name": "Landa",
+      "primary_county": "Bottineau"
+    },
+    {
+      "rank": 298,
+      "name": "Inkster",
+      "primary_county": "Grand Forks"
+    },
+    {
+      "rank": 299,
+      "name": "Fredonia",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 300,
+      "name": "Springbrook",
+      "primary_county": "Williams"
+    },
+    {
+      "rank": 301,
+      "name": "Regan",
+      "primary_county": "Burleigh"
+    },
+    {
+      "rank": 302,
+      "name": "Robinson",
+      "primary_county": "Kidder"
+    },
+    {
+      "rank": 303,
+      "name": "Ardoch",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 304,
+      "name": "Berlin",
+      "primary_county": "LaMoure"
+    },
+    {
+      "rank": 305,
+      "name": "Brocket",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 306,
+      "name": "Canton City",
+      "primary_county": "Pembina"
+    },
+    {
+      "rank": 307,
+      "name": "Egeland",
+      "primary_county": "Towner"
+    },
+    {
+      "rank": 308,
+      "name": "Clifford",
+      "primary_county": "Traill"
+    },
+    {
+      "rank": 309,
+      "name": "Alsen",
+      "primary_county": "Cavalier"
+    },
+    {
+      "rank": 310,
+      "name": "Fortuna",
+      "primary_county": "Divide"
+    },
+    {
+      "rank": 311,
+      "name": "Hampden",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 312,
+      "name": "Monango",
+      "primary_county": "Dickey"
+    },
+    {
+      "rank": 313,
+      "name": "Nekoma",
+      "primary_county": "Cavalier"
+    },
+    {
+      "rank": 314,
+      "name": "Brinsmade",
+      "primary_county": "Benson"
+    },
+    {
+      "rank": 315,
+      "name": "Fairdale",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 316,
+      "name": "Luverne",
+      "primary_county": "Steele"
+    },
+    {
+      "rank": 317,
+      "name": "Leal",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 318,
+      "name": "Leith",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 319,
+      "name": "Kramer",
+      "primary_county": "Bottineau"
+    },
+    {
+      "rank": 320,
+      "name": "Gardena",
+      "primary_county": "Bottineau"
+    },
+    {
+      "rank": 321,
+      "name": "Amidon",
+      "primary_county": "Slope"
+    },
+    {
+      "rank": 322,
+      "name": "Antler",
+      "primary_county": "Bottineau"
+    },
+    {
+      "rank": 323,
+      "name": "Elliott",
+      "primary_county": "Ransom"
+    },
+    {
+      "rank": 324,
+      "name": "Knox",
+      "primary_county": "Benson"
+    },
+    {
+      "rank": 325,
+      "name": "Sarles",
+      "primary_county": "Cavalier"
+    },
+    {
+      "rank": 326,
+      "name": "Gascoyne",
+      "primary_county": "Bowman"
+    },
+    {
+      "rank": 327,
+      "name": "Mylo",
+      "primary_county": "Rolette"
+    },
+    {
+      "rank": 328,
+      "name": "Sibley",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 329,
+      "name": "Venturia",
+      "primary_county": "McIntosh"
+    },
+    {
+      "rank": 330,
+      "name": "Cathay",
+      "primary_county": "Wells"
+    },
+    {
+      "rank": 331,
+      "name": "Ludden",
+      "primary_county": "Dickey"
+    },
+    {
+      "rank": 332,
+      "name": "Braddock",
+      "primary_county": "Emmons"
+    },
+    {
+      "rank": 333,
+      "name": "Haynes",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 334,
+      "name": "Ambrose",
+      "primary_county": "Divide"
+    },
+    {
+      "rank": 335,
+      "name": "Balfour",
+      "primary_county": "McHenry"
+    },
+    {
+      "rank": 336,
+      "name": "Bucyrus",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 337,
+      "name": "Hansboro",
+      "primary_county": "Towner"
+    },
+    {
+      "rank": 338,
+      "name": "Lawton",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 339,
+      "name": "York",
+      "primary_county": "Benson"
+    },
+    {
+      "rank": 340,
+      "name": "Conway",
+      "primary_county": "Walsh"
+    },
+    {
+      "rank": 341,
+      "name": "Calvin",
+      "primary_county": "Cavalier"
+    },
+    {
+      "rank": 342,
+      "name": "Ayr",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 343,
+      "name": "Hamberg",
+      "primary_county": "Wells"
+    },
+    {
+      "rank": 344,
+      "name": "Pillsbury",
+      "primary_county": "Barnes"
+    },
+    {
+      "rank": 345,
+      "name": "Bergen",
+      "primary_county": "McHenry"
+    },
+    {
+      "rank": 346,
+      "name": "Overly",
+      "primary_county": "Bottineau"
+    },
+    {
+      "rank": 347,
+      "name": "Grano",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 348,
+      "name": "Hannah",
+      "primary_county": "Cavalier"
+    },
+    {
+      "rank": 349,
+      "name": "Loma",
+      "primary_county": "Cavalier"
+    },
+    {
+      "rank": 350,
+      "name": "Loraine",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 351,
+      "name": "Wales",
+      "primary_county": "Cavalier"
+    },
+    {
+      "rank": 352,
+      "name": "Kief",
+      "primary_county": "McHenry"
+    },
+    {
+      "rank": 353,
+      "name": "Calio",
+      "primary_county": "Cavalier"
+    },
+    {
+      "rank": 354,
+      "name": "Perth",
+      "primary_county": "Towner"
+    },
+    {
+      "rank": 355,
+      "name": "Ruso",
+      "primary_county": "McLean"
+    }
+  ]
+}

@@ -1,0 +1,4970 @@
+{
+  "metadata": {
+    "state": "Ohio",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Ohio",
+    "scraped_at": "2025-11-23 21:16:01",
+    "scraper_version": "2.0_generic",
+    "description": "Ohio municipalities scraped from Wikipedia",
+    "total_municipalities": 925,
+    "statistics": {
+      "total_found": 925,
+      "with_population": 925,
+      "with_counties": 925,
+      "unique_counties": 91,
+      "population_stats": {
+        "min": 28,
+        "max": 905748,
+        "average": 8289,
+        "total": 7667685
+      }
+    },
+    "counties": [
+      "Adams",
+      "Allen",
+      "Ashland",
+      "Ashtabula",
+      "Athens",
+      "Auglaize",
+      "Belmont",
+      "Brown",
+      "Butler",
+      "Carroll",
+      "Champaign",
+      "Clark",
+      "Clermont",
+      "Clinton",
+      "Columbiana",
+      "Coshocton",
+      "Crawford",
+      "Cuyahoga",
+      "Darke",
+      "Defiance",
+      "Delaware",
+      "Erie",
+      "Fairfield",
+      "Fayette",
+      "Franklin",
+      "Franklin (seat)",
+      "Fulton",
+      "Gallia",
+      "Geauga",
+      "Greene",
+      "Guernsey",
+      "Hamilton",
+      "Hancock",
+      "Hardin",
+      "Harrison",
+      "Henry",
+      "Highland",
+      "Hocking",
+      "Holmes",
+      "Huron",
+      "Jackson",
+      "Jefferson",
+      "Knox",
+      "Lake",
+      "Lawrence",
+      "Licking",
+      "Logan",
+      "Lorain",
+      "Lucas",
+      "Madison",
+      "Mahoning",
+      "Mahoning (seat)",
+      "Marion",
+      "Medina",
+      "Meigs",
+      "Mercer",
+      "Miami",
+      "Monroe",
+      "Montgomery",
+      "Montgomery (seat)",
+      "Morgan",
+      "Morrow",
+      "Muskingum",
+      "Noble",
+      "Ottawa",
+      "Paulding",
+      "Perry",
+      "Pickaway",
+      "Pike",
+      "Portage",
+      "Preble",
+      "Putnam",
+      "Richland",
+      "Ross",
+      "Sandusky",
+      "Scioto",
+      "Seneca",
+      "Shelby",
+      "Stark",
+      "Summit",
+      "Trumbull",
+      "Tuscarawas",
+      "Union",
+      "Van Wert",
+      "Vinton",
+      "Warren",
+      "Washington",
+      "Wayne",
+      "Williams",
+      "Wood",
+      "Wyandot"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "Aberdeen",
+      "primary_county": "Brown",
+      "population": 1515
+    },
+    {
+      "name": "Ada",
+      "primary_county": "Hardin",
+      "population": 5334
+    },
+    {
+      "name": "Adamsville",
+      "primary_county": "Muskingum",
+      "population": 140
+    },
+    {
+      "name": "Addyston",
+      "primary_county": "Hamilton",
+      "population": 927
+    },
+    {
+      "name": "Adelphi",
+      "primary_county": "Ross",
+      "population": 322
+    },
+    {
+      "name": "Adena",
+      "primary_county": "Jefferson",
+      "secondary_counties": [
+        "Harrison"
+      ],
+      "population": 664
+    },
+    {
+      "name": "Akron †",
+      "primary_county": "Summit",
+      "population": 190469
+    },
+    {
+      "name": "Albany",
+      "primary_county": "Athens",
+      "population": 917
+    },
+    {
+      "name": "Alexandria",
+      "primary_county": "Licking",
+      "population": 483
+    },
+    {
+      "name": "Alger",
+      "primary_county": "Hardin",
+      "population": 837
+    },
+    {
+      "name": "Alliance",
+      "primary_county": "Stark",
+      "secondary_counties": [
+        "Mahoning"
+      ],
+      "population": 21672
+    },
+    {
+      "name": "Amanda",
+      "primary_county": "Fairfield",
+      "population": 673
+    },
+    {
+      "name": "Amberley",
+      "primary_county": "Hamilton",
+      "population": 3840
+    },
+    {
+      "name": "Amesville",
+      "primary_county": "Athens",
+      "population": 171
+    },
+    {
+      "name": "Amherst",
+      "primary_county": "Lorain",
+      "population": 12681
+    },
+    {
+      "name": "Amsterdam",
+      "primary_county": "Jefferson",
+      "population": 436
+    },
+    {
+      "name": "Andover",
+      "primary_county": "Ashtabula",
+      "population": 972
+    },
+    {
+      "name": "Anna",
+      "primary_county": "Shelby",
+      "population": 1470
+    },
+    {
+      "name": "Ansonia",
+      "primary_county": "Darke",
+      "population": 1160
+    },
+    {
+      "name": "Antioch",
+      "primary_county": "Monroe",
+      "population": 71
+    },
+    {
+      "name": "Antwerp",
+      "primary_county": "Paulding",
+      "population": 1676
+    },
+    {
+      "name": "Apple Creek",
+      "primary_county": "Wayne",
+      "population": 1188
+    },
+    {
+      "name": "Arcadia",
+      "primary_county": "Hancock",
+      "population": 564
+    },
+    {
+      "name": "Arcanum",
+      "primary_county": "Darke",
+      "population": 2347
+    },
+    {
+      "name": "Archbold",
+      "primary_county": "Fulton",
+      "population": 4516
+    },
+    {
+      "name": "Arlington",
+      "primary_county": "Hancock",
+      "population": 1492
+    },
+    {
+      "name": "Arlington Heights",
+      "primary_county": "Hamilton",
+      "population": 823
+    },
+    {
+      "name": "Ashland †",
+      "primary_county": "Ashland",
+      "population": 19225
+    },
+    {
+      "name": "Ashley",
+      "primary_county": "Delaware",
+      "population": 1198
+    },
+    {
+      "name": "Ashtabula",
+      "primary_county": "Ashtabula",
+      "population": 17975
+    },
+    {
+      "name": "Ashville",
+      "primary_county": "Pickaway",
+      "population": 4529
+    },
+    {
+      "name": "Athalia",
+      "primary_county": "Lawrence",
+      "population": 279
+    },
+    {
+      "name": "Athens †",
+      "primary_county": "Athens",
+      "population": 23849
+    },
+    {
+      "name": "Attica",
+      "primary_county": "Seneca",
+      "population": 873
+    },
+    {
+      "name": "Aurora",
+      "primary_county": "Portage",
+      "population": 17239
+    },
+    {
+      "name": "Avon",
+      "primary_county": "Lorain",
+      "population": 24847
+    },
+    {
+      "name": "Avon Lake",
+      "primary_county": "Lorain",
+      "population": 25206
+    },
+    {
+      "name": "Bailey Lakes",
+      "primary_county": "Ashland",
+      "population": 349
+    },
+    {
+      "name": "Bainbridge",
+      "primary_county": "Ross",
+      "population": 765
+    },
+    {
+      "name": "Bairdstown",
+      "primary_county": "Wood",
+      "population": 115
+    },
+    {
+      "name": "Baltic",
+      "primary_county": "Tuscarawas",
+      "secondary_counties": [
+        "Holmes",
+        "Coshocton"
+      ],
+      "population": 851
+    },
+    {
+      "name": "Baltimore",
+      "primary_county": "Fairfield",
+      "population": 2981
+    },
+    {
+      "name": "Barberton",
+      "primary_county": "Summit",
+      "population": 25191
+    },
+    {
+      "name": "Barnesville",
+      "primary_county": "Belmont",
+      "population": 4008
+    },
+    {
+      "name": "Barnhill",
+      "primary_county": "Tuscarawas",
+      "population": 383
+    },
+    {
+      "name": "Batavia †",
+      "primary_county": "Clermont",
+      "population": 1972
+    },
+    {
+      "name": "Batesville",
+      "primary_county": "Noble",
+      "population": 101
+    },
+    {
+      "name": "Bay View",
+      "primary_county": "Erie",
+      "population": 608
+    },
+    {
+      "name": "Bay Village",
+      "primary_county": "Cuyahoga",
+      "population": 16163
+    },
+    {
+      "name": "Beach City",
+      "primary_county": "Stark",
+      "population": 940
+    },
+    {
+      "name": "Beachwood",
+      "primary_county": "Cuyahoga",
+      "population": 14040
+    },
+    {
+      "name": "Beallsville",
+      "primary_county": "Monroe",
+      "population": 355
+    },
+    {
+      "name": "Beaver",
+      "primary_county": "Pike",
+      "population": 442
+    },
+    {
+      "name": "Beavercreek",
+      "primary_county": "Greene",
+      "population": 46549
+    },
+    {
+      "name": "Beaverdam",
+      "primary_county": "Allen",
+      "population": 319
+    },
+    {
+      "name": "Bedford",
+      "primary_county": "Cuyahoga",
+      "population": 13149
+    },
+    {
+      "name": "Bedford Heights",
+      "primary_county": "Cuyahoga",
+      "population": 11020
+    },
+    {
+      "name": "Bellaire",
+      "primary_county": "Belmont",
+      "population": 3870
+    },
+    {
+      "name": "Bellbrook",
+      "primary_county": "Greene",
+      "population": 7317
+    },
+    {
+      "name": "Belle Center",
+      "primary_county": "Logan",
+      "population": 809
+    },
+    {
+      "name": "Belle Valley",
+      "primary_county": "Noble",
+      "population": 201
+    },
+    {
+      "name": "Bellefontaine †",
+      "primary_county": "Logan",
+      "population": 14115
+    },
+    {
+      "name": "Bellevue",
+      "primary_county": "Sandusky",
+      "secondary_counties": [
+        "Huron",
+        "Erie"
+      ],
+      "population": 8249
+    },
+    {
+      "name": "Bellville",
+      "primary_county": "Richland",
+      "population": 1963
+    },
+    {
+      "name": "Belmont",
+      "primary_county": "Belmont",
+      "population": 414
+    },
+    {
+      "name": "Belmore",
+      "primary_county": "Putnam",
+      "population": 65
+    },
+    {
+      "name": "Beloit",
+      "primary_county": "Mahoning",
+      "population": 903
+    },
+    {
+      "name": "Belpre",
+      "primary_county": "Washington",
+      "population": 6728
+    },
+    {
+      "name": "Bentleyville",
+      "primary_county": "Cuyahoga",
+      "population": 897
+    },
+    {
+      "name": "Benton Ridge",
+      "primary_county": "Hancock",
+      "population": 272
+    },
+    {
+      "name": "Berea",
+      "primary_county": "Cuyahoga",
+      "population": 18545
+    },
+    {
+      "name": "Bergholz",
+      "primary_county": "Jefferson",
+      "population": 544
+    },
+    {
+      "name": "Berkey",
+      "primary_county": "Lucas",
+      "population": 275
+    },
+    {
+      "name": "Berlin Heights",
+      "primary_county": "Erie",
+      "population": 651
+    },
+    {
+      "name": "Bethel",
+      "primary_county": "Clermont",
+      "population": 2620
+    },
+    {
+      "name": "Bethesda",
+      "primary_county": "Belmont",
+      "population": 1211
+    },
+    {
+      "name": "Bettsville",
+      "primary_county": "Seneca",
+      "population": 595
+    },
+    {
+      "name": "Beverly",
+      "primary_county": "Washington",
+      "population": 1233
+    },
+    {
+      "name": "Bexley",
+      "primary_county": "Franklin",
+      "population": 13928
+    },
+    {
+      "name": "Blakeslee",
+      "primary_county": "Williams",
+      "population": 104
+    },
+    {
+      "name": "Blanchester",
+      "primary_county": "Clinton",
+      "secondary_counties": [
+        "Warren"
+      ],
+      "population": 4224
+    },
+    {
+      "name": "Bloomdale",
+      "primary_county": "Wood",
+      "population": 665
+    },
+    {
+      "name": "Bloomingburg",
+      "primary_county": "Fayette",
+      "population": 878
+    },
+    {
+      "name": "Bloomingdale",
+      "primary_county": "Jefferson",
+      "population": 145
+    },
+    {
+      "name": "Bloomville",
+      "primary_county": "Seneca",
+      "population": 867
+    },
+    {
+      "name": "Blue Ash",
+      "primary_county": "Hamilton",
+      "population": 13394
+    },
+    {
+      "name": "Bluffton",
+      "primary_county": "Allen",
+      "secondary_counties": [
+        "Hancock"
+      ],
+      "population": 3967
+    },
+    {
+      "name": "Bolivar",
+      "primary_county": "Tuscarawas",
+      "population": 1000
+    },
+    {
+      "name": "Boston Heights",
+      "primary_county": "Summit",
+      "population": 1402
+    },
+    {
+      "name": "Botkins",
+      "primary_county": "Shelby",
+      "population": 1155
+    },
+    {
+      "name": "Bowerston",
+      "primary_county": "Harrison",
+      "population": 356
+    },
+    {
+      "name": "Bowersville",
+      "primary_county": "Greene",
+      "population": 261
+    },
+    {
+      "name": "Bowling Green †",
+      "primary_county": "Wood",
+      "population": 30808
+    },
+    {
+      "name": "Bradford",
+      "primary_county": "Miami",
+      "secondary_counties": [
+        "Darke"
+      ],
+      "population": 1796
+    },
+    {
+      "name": "Bradner",
+      "primary_county": "Wood",
+      "population": 971
+    },
+    {
+      "name": "Bratenahl",
+      "primary_county": "Cuyahoga",
+      "population": 1430
+    },
+    {
+      "name": "Brecksville",
+      "primary_county": "Cuyahoga",
+      "population": 13635
+    },
+    {
+      "name": "Bremen",
+      "primary_county": "Fairfield",
+      "population": 1479
+    },
+    {
+      "name": "Brewster",
+      "primary_county": "Stark",
+      "population": 2113
+    },
+    {
+      "name": "Brice",
+      "primary_county": "Franklin",
+      "population": 93
+    },
+    {
+      "name": "Bridgeport",
+      "primary_county": "Belmont",
+      "population": 1582
+    },
+    {
+      "name": "Broadview Heights",
+      "primary_county": "Cuyahoga",
+      "population": 19936
+    },
+    {
+      "name": "Brook Park",
+      "primary_county": "Cuyahoga",
+      "population": 18595
+    },
+    {
+      "name": "Brooklyn",
+      "primary_county": "Cuyahoga",
+      "population": 11359
+    },
+    {
+      "name": "Brooklyn Heights",
+      "primary_county": "Cuyahoga",
+      "population": 1519
+    },
+    {
+      "name": "Brookside",
+      "primary_county": "Belmont",
+      "population": 538
+    },
+    {
+      "name": "Brookville",
+      "primary_county": "Montgomery",
+      "population": 5989
+    },
+    {
+      "name": "Broughton",
+      "primary_county": "Paulding",
+      "population": 116
+    },
+    {
+      "name": "Brunswick",
+      "primary_county": "Medina",
+      "population": 35426
+    },
+    {
+      "name": "Bryan †",
+      "primary_county": "Williams",
+      "population": 8729
+    },
+    {
+      "name": "Buchtel",
+      "primary_county": "Athens",
+      "secondary_counties": [
+        "Hocking"
+      ],
+      "population": 518
+    },
+    {
+      "name": "Buckeye Lake",
+      "primary_county": "Licking",
+      "secondary_counties": [
+        "Fairfield"
+      ],
+      "population": 2520
+    },
+    {
+      "name": "Buckland",
+      "primary_county": "Auglaize",
+      "population": 233
+    },
+    {
+      "name": "Bucyrus †",
+      "primary_county": "Crawford",
+      "population": 11684
+    },
+    {
+      "name": "Burbank",
+      "primary_county": "Wayne",
+      "population": 296
+    },
+    {
+      "name": "Burgoon",
+      "primary_county": "Sandusky",
+      "population": 183
+    },
+    {
+      "name": "Burkettsville",
+      "primary_county": "Mercer",
+      "secondary_counties": [
+        "Darke"
+      ],
+      "population": 272
+    },
+    {
+      "name": "Burton",
+      "primary_county": "Geauga",
+      "population": 1407
+    },
+    {
+      "name": "Butler",
+      "primary_county": "Richland",
+      "population": 941
+    },
+    {
+      "name": "Butlerville",
+      "primary_county": "Warren",
+      "population": 155
+    },
+    {
+      "name": "Byesville",
+      "primary_county": "Guernsey",
+      "population": 2364
+    },
+    {
+      "name": "Cadiz †",
+      "primary_county": "Harrison",
+      "population": 3051
+    },
+    {
+      "name": "Cairo",
+      "primary_county": "Allen",
+      "population": 517
+    },
+    {
+      "name": "Caldwell †",
+      "primary_county": "Noble",
+      "population": 1691
+    },
+    {
+      "name": "Caledonia",
+      "primary_county": "Marion",
+      "population": 560
+    },
+    {
+      "name": "Cambridge †",
+      "primary_county": "Guernsey",
+      "population": 10089
+    },
+    {
+      "name": "Camden",
+      "primary_county": "Preble",
+      "population": 1989
+    },
+    {
+      "name": "Campbell",
+      "primary_county": "Mahoning",
+      "population": 7852
+    },
+    {
+      "name": "Canal Fulton",
+      "primary_county": "Stark",
+      "population": 5325
+    },
+    {
+      "name": "Canal Winchester",
+      "primary_county": "Franklin",
+      "secondary_counties": [
+        "Fairfield"
+      ],
+      "population": 9107
+    },
+    {
+      "name": "Canfield",
+      "primary_county": "Mahoning",
+      "population": 7699
+    },
+    {
+      "name": "Canton †",
+      "primary_county": "Stark",
+      "population": 70872
+    },
+    {
+      "name": "Cardington",
+      "primary_county": "Morrow",
+      "population": 2079
+    },
+    {
+      "name": "Carey",
+      "primary_county": "Wyandot",
+      "population": 3565
+    },
+    {
+      "name": "Carlisle",
+      "primary_county": "Warren",
+      "secondary_counties": [
+        "Montgomery"
+      ],
+      "population": 5501
+    },
+    {
+      "name": "Carroll",
+      "primary_county": "Fairfield",
+      "population": 501
+    },
+    {
+      "name": "Carrollton †",
+      "primary_county": "Carroll",
+      "population": 3087
+    },
+    {
+      "name": "Casstown",
+      "primary_county": "Miami",
+      "population": 270
+    },
+    {
+      "name": "Castalia",
+      "primary_county": "Erie",
+      "population": 774
+    },
+    {
+      "name": "Castine",
+      "primary_county": "Darke",
+      "population": 110
+    },
+    {
+      "name": "Catawba",
+      "primary_county": "Clark",
+      "population": 245
+    },
+    {
+      "name": "Cecil",
+      "primary_county": "Paulding",
+      "population": 146
+    },
+    {
+      "name": "Cedarville",
+      "primary_county": "Greene",
+      "population": 4257
+    },
+    {
+      "name": "Celina †",
+      "primary_county": "Mercer",
+      "population": 10935
+    },
+    {
+      "name": "Centerburg",
+      "primary_county": "Knox",
+      "population": 1690
+    },
+    {
+      "name": "Centerville",
+      "primary_county": "Montgomery",
+      "secondary_counties": [
+        "Greene"
+      ],
+      "population": 24240
+    },
+    {
+      "name": "Centerville",
+      "primary_county": "Gallia",
+      "population": 87
+    },
+    {
+      "name": "Chagrin Falls",
+      "primary_county": "Cuyahoga",
+      "population": 4188
+    },
+    {
+      "name": "Chardon †",
+      "primary_county": "Geauga",
+      "population": 5242
+    },
+    {
+      "name": "Chatfield",
+      "primary_county": "Crawford",
+      "population": 205
+    },
+    {
+      "name": "Chauncey",
+      "primary_county": "Athens",
+      "population": 959
+    },
+    {
+      "name": "Chesapeake",
+      "primary_county": "Lawrence",
+      "population": 765
+    },
+    {
+      "name": "Cheshire",
+      "primary_county": "Gallia",
+      "population": 123
+    },
+    {
+      "name": "Chesterhill",
+      "primary_county": "Morgan",
+      "population": 276
+    },
+    {
+      "name": "Chesterville",
+      "primary_county": "Morrow",
+      "population": 191
+    },
+    {
+      "name": "Cheviot",
+      "primary_county": "Hamilton",
+      "population": 8658
+    },
+    {
+      "name": "Chickasaw",
+      "primary_county": "Mercer",
+      "population": 358
+    },
+    {
+      "name": "Chillicothe †",
+      "primary_county": "Ross",
+      "population": 22059
+    },
+    {
+      "name": "Chilo",
+      "primary_county": "Clermont",
+      "population": 71
+    },
+    {
+      "name": "Chippewa Lake",
+      "primary_county": "Medina",
+      "population": 654
+    },
+    {
+      "name": "Christiansburg",
+      "primary_county": "Champaign",
+      "population": 505
+    },
+    {
+      "name": "Cincinnati †",
+      "primary_county": "Hamilton",
+      "population": 309317
+    },
+    {
+      "name": "Circleville †",
+      "primary_county": "Pickaway",
+      "population": 13927
+    },
+    {
+      "name": "Clarington",
+      "primary_county": "Monroe",
+      "population": 280
+    },
+    {
+      "name": "Clarksburg",
+      "primary_county": "Ross",
+      "population": 409
+    },
+    {
+      "name": "Clarksville",
+      "primary_county": "Clinton",
+      "population": 534
+    },
+    {
+      "name": "Clay Center",
+      "primary_county": "Ottawa",
+      "population": 262
+    },
+    {
+      "name": "Clayton",
+      "primary_county": "Montgomery",
+      "population": 13310
+    },
+    {
+      "name": "Cleveland †",
+      "primary_county": "Cuyahoga",
+      "population": 372624
+    },
+    {
+      "name": "Cleveland Heights",
+      "primary_county": "Cuyahoga",
+      "population": 45312
+    },
+    {
+      "name": "Cleves",
+      "primary_county": "Hamilton",
+      "population": 3414
+    },
+    {
+      "name": "Clifton",
+      "primary_county": "Greene",
+      "secondary_counties": [
+        "Clark"
+      ],
+      "population": 131
+    },
+    {
+      "name": "Clinton",
+      "primary_county": "Summit",
+      "population": 1197
+    },
+    {
+      "name": "Cloverdale",
+      "primary_county": "Putnam",
+      "population": 170
+    },
+    {
+      "name": "Clyde",
+      "primary_county": "Sandusky",
+      "population": 6294
+    },
+    {
+      "name": "Coal Grove",
+      "primary_county": "Lawrence",
+      "population": 1889
+    },
+    {
+      "name": "Coalton",
+      "primary_county": "Jackson",
+      "population": 445
+    },
+    {
+      "name": "Coldwater",
+      "primary_county": "Mercer",
+      "population": 4774
+    },
+    {
+      "name": "College Corner",
+      "primary_county": "Preble",
+      "secondary_counties": [
+        "Butler"
+      ],
+      "population": 387
+    },
+    {
+      "name": "Columbiana",
+      "primary_county": "Columbiana",
+      "secondary_counties": [
+        "Mahoning"
+      ],
+      "population": 6559
+    },
+    {
+      "name": "Columbus ‡",
+      "primary_county": "Franklin (seat)",
+      "secondary_counties": [
+        "Delaware",
+        "Fairfield"
+      ],
+      "population": 905748
+    },
+    {
+      "name": "Columbus Grove",
+      "primary_county": "Putnam",
+      "population": 2160
+    },
+    {
+      "name": "Commercial Point",
+      "primary_county": "Pickaway",
+      "population": 3078
+    },
+    {
+      "name": "Conesville",
+      "primary_county": "Coshocton",
+      "population": 328
+    },
+    {
+      "name": "Congress",
+      "primary_county": "Wayne",
+      "population": 132
+    },
+    {
+      "name": "Conneaut",
+      "primary_county": "Ashtabula",
+      "population": 12318
+    },
+    {
+      "name": "Continental",
+      "primary_county": "Putnam",
+      "population": 1102
+    },
+    {
+      "name": "Convoy",
+      "primary_county": "Van Wert",
+      "population": 1012
+    },
+    {
+      "name": "Coolville",
+      "primary_county": "Athens",
+      "population": 454
+    },
+    {
+      "name": "Corning",
+      "primary_county": "Perry",
+      "population": 488
+    },
+    {
+      "name": "Cortland",
+      "primary_county": "Trumbull",
+      "population": 7105
+    },
+    {
+      "name": "Corwin",
+      "primary_county": "Warren",
+      "population": 484
+    },
+    {
+      "name": "Coshocton †",
+      "primary_county": "Coshocton",
+      "population": 11050
+    },
+    {
+      "name": "Covington",
+      "primary_county": "Miami",
+      "population": 2548
+    },
+    {
+      "name": "Craig Beach",
+      "primary_county": "Mahoning",
+      "population": 1076
+    },
+    {
+      "name": "Crestline",
+      "primary_county": "Crawford",
+      "secondary_counties": [
+        "Richland"
+      ],
+      "population": 4525
+    },
+    {
+      "name": "Creston",
+      "primary_county": "Wayne",
+      "secondary_counties": [
+        "Medina"
+      ],
+      "population": 2139
+    },
+    {
+      "name": "Cridersville",
+      "primary_county": "Auglaize",
+      "population": 1791
+    },
+    {
+      "name": "Crooksville",
+      "primary_county": "Perry",
+      "population": 2418
+    },
+    {
+      "name": "Crown City",
+      "primary_county": "Gallia",
+      "population": 424
+    },
+    {
+      "name": "Cumberland",
+      "primary_county": "Guernsey",
+      "population": 317
+    },
+    {
+      "name": "Custar",
+      "primary_county": "Wood",
+      "population": 178
+    },
+    {
+      "name": "Cuyahoga Falls",
+      "primary_county": "Summit",
+      "population": 51114
+    },
+    {
+      "name": "Cuyahoga Heights",
+      "primary_county": "Cuyahoga",
+      "population": 573
+    },
+    {
+      "name": "Cygnet",
+      "primary_county": "Wood",
+      "population": 543
+    },
+    {
+      "name": "Dalton",
+      "primary_county": "Wayne",
+      "population": 1927
+    },
+    {
+      "name": "Danville",
+      "primary_county": "Knox",
+      "population": 1019
+    },
+    {
+      "name": "Darbyville",
+      "primary_county": "Pickaway",
+      "population": 186
+    },
+    {
+      "name": "Dayton †",
+      "primary_county": "Montgomery (seat)",
+      "secondary_counties": [
+        "Greene"
+      ],
+      "population": 137644
+    },
+    {
+      "name": "De Graff",
+      "primary_county": "Logan",
+      "population": 1250
+    },
+    {
+      "name": "Deer Park",
+      "primary_county": "Hamilton",
+      "population": 5432
+    },
+    {
+      "name": "Deersville",
+      "primary_county": "Harrison",
+      "population": 69
+    },
+    {
+      "name": "Defiance †",
+      "primary_county": "Defiance",
+      "population": 17066
+    },
+    {
+      "name": "Delaware †",
+      "primary_county": "Delaware",
+      "population": 41302
+    },
+    {
+      "name": "Dellroy",
+      "primary_county": "Carroll",
+      "population": 268
+    },
+    {
+      "name": "Delphos",
+      "primary_county": "Allen",
+      "secondary_counties": [
+        "Van Wert"
+      ],
+      "population": 7117
+    },
+    {
+      "name": "Delta",
+      "primary_county": "Fulton",
+      "population": 3316
+    },
+    {
+      "name": "Dennison",
+      "primary_county": "Tuscarawas",
+      "population": 2709
+    },
+    {
+      "name": "Deshler",
+      "primary_county": "Henry",
+      "population": 1588
+    },
+    {
+      "name": "Dexter City",
+      "primary_county": "Noble",
+      "population": 81
+    },
+    {
+      "name": "Dillonvale",
+      "primary_county": "Jefferson",
+      "population": 589
+    },
+    {
+      "name": "Donnelsville",
+      "primary_county": "Clark",
+      "population": 255
+    },
+    {
+      "name": "Dover",
+      "primary_county": "Tuscarawas",
+      "population": 13112
+    },
+    {
+      "name": "Doylestown",
+      "primary_county": "Wayne",
+      "population": 3051
+    },
+    {
+      "name": "Dresden",
+      "primary_county": "Muskingum",
+      "population": 1650
+    },
+    {
+      "name": "Dublin",
+      "primary_county": "Franklin",
+      "secondary_counties": [
+        "Union",
+        "Delaware"
+      ],
+      "population": 49328
+    },
+    {
+      "name": "Dunkirk",
+      "primary_county": "Hardin",
+      "population": 774
+    },
+    {
+      "name": "Dupont",
+      "primary_county": "Putnam",
+      "population": 212
+    },
+    {
+      "name": "East Canton",
+      "primary_county": "Stark",
+      "population": 1521
+    },
+    {
+      "name": "East Cleveland",
+      "primary_county": "Cuyahoga",
+      "population": 13792
+    },
+    {
+      "name": "East Liverpool",
+      "primary_county": "Columbiana",
+      "population": 9958
+    },
+    {
+      "name": "East Palestine",
+      "primary_county": "Columbiana",
+      "population": 4761
+    },
+    {
+      "name": "East Sparta",
+      "primary_county": "Stark",
+      "population": 749
+    },
+    {
+      "name": "Eastlake",
+      "primary_county": "Lake",
+      "population": 17670
+    },
+    {
+      "name": "Eaton †",
+      "primary_county": "Preble",
+      "population": 8375
+    },
+    {
+      "name": "Edgerton",
+      "primary_county": "Williams",
+      "population": 1881
+    },
+    {
+      "name": "Edison",
+      "primary_county": "Morrow",
+      "population": 422
+    },
+    {
+      "name": "Edon",
+      "primary_county": "Williams",
+      "population": 796
+    },
+    {
+      "name": "Eldorado",
+      "primary_county": "Preble",
+      "population": 458
+    },
+    {
+      "name": "Elgin",
+      "primary_county": "Van Wert",
+      "population": 49
+    },
+    {
+      "name": "Elida",
+      "primary_county": "Allen",
+      "population": 1923
+    },
+    {
+      "name": "Elmore",
+      "primary_county": "Ottawa",
+      "secondary_counties": [
+        "Sandusky"
+      ],
+      "population": 1370
+    },
+    {
+      "name": "Elmwood Place",
+      "primary_county": "Hamilton",
+      "population": 2087
+    },
+    {
+      "name": "Elyria †",
+      "primary_county": "Lorain",
+      "population": 52656
+    },
+    {
+      "name": "Empire",
+      "primary_county": "Jefferson",
+      "population": 232
+    },
+    {
+      "name": "Englewood",
+      "primary_county": "Montgomery",
+      "population": 13463
+    },
+    {
+      "name": "Enon",
+      "primary_county": "Clark",
+      "population": 2449
+    },
+    {
+      "name": "Euclid",
+      "primary_county": "Cuyahoga",
+      "population": 49692
+    },
+    {
+      "name": "Evendale",
+      "primary_county": "Hamilton",
+      "population": 2669
+    },
+    {
+      "name": "Fairborn",
+      "primary_county": "Greene",
+      "population": 34510
+    },
+    {
+      "name": "Fairfax",
+      "primary_county": "Hamilton",
+      "population": 1768
+    },
+    {
+      "name": "Fairfield",
+      "primary_county": "Butler",
+      "secondary_counties": [
+        "Hamilton"
+      ],
+      "population": 44907
+    },
+    {
+      "name": "Fairlawn",
+      "primary_county": "Summit",
+      "population": 7710
+    },
+    {
+      "name": "Fairport Harbor",
+      "primary_county": "Lake",
+      "population": 3108
+    },
+    {
+      "name": "Fairview",
+      "primary_county": "Guernsey",
+      "secondary_counties": [
+        "Belmont"
+      ],
+      "population": 67
+    },
+    {
+      "name": "Fairview Park",
+      "primary_county": "Cuyahoga",
+      "population": 17291
+    },
+    {
+      "name": "Farmersville",
+      "primary_county": "Montgomery",
+      "population": 975
+    },
+    {
+      "name": "Fayette",
+      "primary_county": "Fulton",
+      "population": 1305
+    },
+    {
+      "name": "Fayetteville",
+      "primary_county": "Brown",
+      "population": 317
+    },
+    {
+      "name": "Felicity",
+      "primary_county": "Clermont",
+      "population": 651
+    },
+    {
+      "name": "Findlay †",
+      "primary_county": "Hancock",
+      "population": 40313
+    },
+    {
+      "name": "Fletcher",
+      "primary_county": "Miami",
+      "population": 451
+    },
+    {
+      "name": "Florida",
+      "primary_county": "Henry",
+      "population": 215
+    },
+    {
+      "name": "Flushing",
+      "primary_county": "Belmont",
+      "population": 830
+    },
+    {
+      "name": "Forest",
+      "primary_county": "Hardin",
+      "population": 1350
+    },
+    {
+      "name": "Forest Park",
+      "primary_county": "Hamilton",
+      "population": 20189
+    },
+    {
+      "name": "Fort Jennings",
+      "primary_county": "Putnam",
+      "population": 525
+    },
+    {
+      "name": "Fort Loramie",
+      "primary_county": "Shelby",
+      "population": 1590
+    },
+    {
+      "name": "Fort Recovery",
+      "primary_county": "Mercer",
+      "population": 1501
+    },
+    {
+      "name": "Fostoria",
+      "primary_county": "Seneca",
+      "secondary_counties": [
+        "Hancock",
+        "Wood"
+      ],
+      "population": 13046
+    },
+    {
+      "name": "Frankfort",
+      "primary_county": "Ross",
+      "population": 1084
+    },
+    {
+      "name": "Franklin",
+      "primary_county": "Warren",
+      "population": 11690
+    },
+    {
+      "name": "Frazeysburg",
+      "primary_county": "Muskingum",
+      "population": 1354
+    },
+    {
+      "name": "Fredericksburg",
+      "primary_county": "Wayne",
+      "population": 409
+    },
+    {
+      "name": "Fredericktown",
+      "primary_county": "Knox",
+      "population": 2648
+    },
+    {
+      "name": "Freeport",
+      "primary_county": "Harrison",
+      "population": 321
+    },
+    {
+      "name": "Fremont †",
+      "primary_county": "Sandusky",
+      "population": 15930
+    },
+    {
+      "name": "Fulton",
+      "primary_county": "Morrow",
+      "population": 250
+    },
+    {
+      "name": "Fultonham",
+      "primary_county": "Muskingum",
+      "population": 115
+    },
+    {
+      "name": "Gahanna",
+      "primary_county": "Franklin",
+      "population": 35726
+    },
+    {
+      "name": "Galena",
+      "primary_county": "Delaware",
+      "population": 924
+    },
+    {
+      "name": "Galion",
+      "primary_county": "Crawford",
+      "secondary_counties": [
+        "Richland",
+        "Morrow"
+      ],
+      "population": 10453
+    },
+    {
+      "name": "Gallipolis †",
+      "primary_county": "Gallia",
+      "population": 3313
+    },
+    {
+      "name": "Gambier",
+      "primary_county": "Knox",
+      "population": 2213
+    },
+    {
+      "name": "Gann",
+      "primary_county": "Knox",
+      "population": 114
+    },
+    {
+      "name": "Garfield Heights",
+      "primary_county": "Cuyahoga",
+      "population": 29781
+    },
+    {
+      "name": "Garrettsville",
+      "primary_county": "Portage",
+      "population": 2449
+    },
+    {
+      "name": "Gates Mills",
+      "primary_county": "Cuyahoga",
+      "population": 2264
+    },
+    {
+      "name": "Geneva",
+      "primary_county": "Ashtabula",
+      "population": 5924
+    },
+    {
+      "name": "Geneva-on-the-Lake",
+      "primary_county": "Ashtabula",
+      "population": 916
+    },
+    {
+      "name": "Genoa",
+      "primary_county": "Ottawa",
+      "population": 2232
+    },
+    {
+      "name": "Georgetown †",
+      "primary_county": "Brown",
+      "population": 4453
+    },
+    {
+      "name": "Germantown",
+      "primary_county": "Montgomery",
+      "population": 5796
+    },
+    {
+      "name": "Gettysburg",
+      "primary_county": "Darke",
+      "population": 463
+    },
+    {
+      "name": "Gibsonburg",
+      "primary_county": "Sandusky",
+      "population": 2452
+    },
+    {
+      "name": "Gilboa",
+      "primary_county": "Putnam",
+      "population": 168
+    },
+    {
+      "name": "Girard",
+      "primary_county": "Trumbull",
+      "population": 9603
+    },
+    {
+      "name": "Glandorf",
+      "primary_county": "Putnam",
+      "population": 969
+    },
+    {
+      "name": "Glendale",
+      "primary_county": "Hamilton",
+      "population": 2298
+    },
+    {
+      "name": "Glenford",
+      "primary_county": "Perry",
+      "population": 165
+    },
+    {
+      "name": "Glenmont",
+      "primary_county": "Holmes",
+      "population": 240
+    },
+    {
+      "name": "Glenwillow",
+      "primary_county": "Cuyahoga",
+      "population": 994
+    },
+    {
+      "name": "Gloria Glens Park",
+      "primary_county": "Medina",
+      "population": 369
+    },
+    {
+      "name": "Glouster",
+      "primary_county": "Athens",
+      "population": 1659
+    },
+    {
+      "name": "Gnadenhutten",
+      "primary_county": "Tuscarawas",
+      "population": 1240
+    },
+    {
+      "name": "Golf Manor",
+      "primary_county": "Hamilton",
+      "population": 3814
+    },
+    {
+      "name": "Gordon",
+      "primary_county": "Darke",
+      "population": 245
+    },
+    {
+      "name": "Grafton",
+      "primary_county": "Lorain",
+      "population": 5895
+    },
+    {
+      "name": "Grand Rapids",
+      "primary_county": "Wood",
+      "population": 925
+    },
+    {
+      "name": "Grand River",
+      "primary_county": "Lake",
+      "population": 394
+    },
+    {
+      "name": "Grandview Heights",
+      "primary_county": "Franklin",
+      "population": 8085
+    },
+    {
+      "name": "Granville",
+      "primary_county": "Licking",
+      "population": 5946
+    },
+    {
+      "name": "Gratiot",
+      "primary_county": "Licking",
+      "secondary_counties": [
+        "Muskingum"
+      ],
+      "population": 215
+    },
+    {
+      "name": "Gratis",
+      "primary_county": "Preble",
+      "population": 842
+    },
+    {
+      "name": "Graysville",
+      "primary_county": "Monroe",
+      "population": 70
+    },
+    {
+      "name": "Green",
+      "primary_county": "Summit",
+      "population": 27475
+    },
+    {
+      "name": "Green Camp",
+      "primary_county": "Marion",
+      "population": 310
+    },
+    {
+      "name": "Green Springs",
+      "primary_county": "Seneca",
+      "secondary_counties": [
+        "Sandusky"
+      ],
+      "population": 1233
+    },
+    {
+      "name": "Greenfield",
+      "primary_county": "Highland",
+      "secondary_counties": [
+        "Ross"
+      ],
+      "population": 4339
+    },
+    {
+      "name": "Greenhills",
+      "primary_county": "Hamilton",
+      "population": 3741
+    },
+    {
+      "name": "Greenville †",
+      "primary_county": "Darke",
+      "population": 12786
+    },
+    {
+      "name": "Greenwich",
+      "primary_county": "Huron",
+      "population": 1409
+    },
+    {
+      "name": "Grove City",
+      "primary_county": "Franklin",
+      "population": 41252
+    },
+    {
+      "name": "Groveport",
+      "primary_county": "Franklin",
+      "population": 6009
+    },
+    {
+      "name": "Grover Hill",
+      "primary_county": "Paulding",
+      "population": 382
+    },
+    {
+      "name": "Hamden",
+      "primary_county": "Vinton",
+      "population": 727
+    },
+    {
+      "name": "Hamersville",
+      "primary_county": "Brown",
+      "population": 485
+    },
+    {
+      "name": "Hamilton †",
+      "primary_county": "Butler",
+      "population": 63399
+    },
+    {
+      "name": "Hamler",
+      "primary_county": "Henry",
+      "population": 600
+    },
+    {
+      "name": "Hanging Rock",
+      "primary_county": "Lawrence",
+      "population": 204
+    },
+    {
+      "name": "Hanover",
+      "primary_county": "Licking",
+      "population": 1270
+    },
+    {
+      "name": "Hanoverton",
+      "primary_county": "Columbiana",
+      "population": 354
+    },
+    {
+      "name": "Harbor View",
+      "primary_county": "Lucas",
+      "population": 89
+    },
+    {
+      "name": "Harpster",
+      "primary_county": "Wyandot",
+      "population": 160
+    },
+    {
+      "name": "Harrisburg",
+      "primary_county": "Franklin",
+      "secondary_counties": [
+        "Pickaway"
+      ],
+      "population": 315
+    },
+    {
+      "name": "Harrison",
+      "primary_county": "Hamilton",
+      "population": 12563
+    },
+    {
+      "name": "Harrisville",
+      "primary_county": "Harrison",
+      "population": 179
+    },
+    {
+      "name": "Harrod",
+      "primary_county": "Allen",
+      "population": 423
+    },
+    {
+      "name": "Hartford",
+      "primary_county": "Licking",
+      "population": 404
+    },
+    {
+      "name": "Hartville",
+      "primary_county": "Stark",
+      "population": 3329
+    },
+    {
+      "name": "Harveysburg",
+      "primary_county": "Warren",
+      "population": 554
+    },
+    {
+      "name": "Haskins",
+      "primary_county": "Wood",
+      "population": 1245
+    },
+    {
+      "name": "Haviland",
+      "primary_county": "Paulding",
+      "population": 160
+    },
+    {
+      "name": "Hayesville",
+      "primary_county": "Ashland",
+      "population": 447
+    },
+    {
+      "name": "Heath",
+      "primary_county": "Licking",
+      "population": 10412
+    },
+    {
+      "name": "Hebron",
+      "primary_county": "Licking",
+      "population": 2326
+    },
+    {
+      "name": "Helena",
+      "primary_county": "Sandusky",
+      "population": 211
+    },
+    {
+      "name": "Hemlock",
+      "primary_county": "Perry",
+      "population": 142
+    },
+    {
+      "name": "Hicksville",
+      "primary_county": "Defiance",
+      "population": 3431
+    },
+    {
+      "name": "Higginsport",
+      "primary_county": "Brown",
+      "population": 213
+    },
+    {
+      "name": "Highland",
+      "primary_county": "Highland",
+      "population": 232
+    },
+    {
+      "name": "Highland Heights",
+      "primary_county": "Cuyahoga",
+      "population": 8719
+    },
+    {
+      "name": "Highland Hills",
+      "primary_county": "Cuyahoga",
+      "population": 662
+    },
+    {
+      "name": "Hilliard",
+      "primary_county": "Franklin",
+      "population": 37114
+    },
+    {
+      "name": "Hills and Dales",
+      "primary_county": "Stark",
+      "population": 250
+    },
+    {
+      "name": "Hillsboro †",
+      "primary_county": "Highland",
+      "population": 6481
+    },
+    {
+      "name": "Hiram",
+      "primary_county": "Portage",
+      "population": 996
+    },
+    {
+      "name": "Holgate",
+      "primary_county": "Henry",
+      "population": 1061
+    },
+    {
+      "name": "Holiday City",
+      "primary_county": "Williams",
+      "population": 48
+    },
+    {
+      "name": "Holland",
+      "primary_county": "Lucas",
+      "population": 1820
+    },
+    {
+      "name": "Hollansburg",
+      "primary_county": "Darke",
+      "population": 243
+    },
+    {
+      "name": "Holloway",
+      "primary_county": "Belmont",
+      "population": 330
+    },
+    {
+      "name": "Holmesville",
+      "primary_county": "Holmes",
+      "population": 371
+    },
+    {
+      "name": "Hopedale",
+      "primary_county": "Harrison",
+      "population": 920
+    },
+    {
+      "name": "Hoytville",
+      "primary_county": "Wood",
+      "population": 220
+    },
+    {
+      "name": "Hubbard",
+      "primary_county": "Trumbull",
+      "population": 7636
+    },
+    {
+      "name": "Huber Heights",
+      "primary_county": "Montgomery",
+      "secondary_counties": [
+        "Miami"
+      ],
+      "population": 43439
+    },
+    {
+      "name": "Hudson",
+      "primary_county": "Summit",
+      "population": 23110
+    },
+    {
+      "name": "Hunting Valley",
+      "primary_county": "Cuyahoga",
+      "secondary_counties": [
+        "Geauga"
+      ],
+      "population": 763
+    },
+    {
+      "name": "Huntsville",
+      "primary_county": "Logan",
+      "population": 408
+    },
+    {
+      "name": "Huron",
+      "primary_county": "Erie",
+      "population": 6922
+    },
+    {
+      "name": "Independence",
+      "primary_county": "Cuyahoga",
+      "population": 7584
+    },
+    {
+      "name": "Irondale",
+      "primary_county": "Jefferson",
+      "population": 326
+    },
+    {
+      "name": "Ironton †",
+      "primary_county": "Lawrence",
+      "population": 10571
+    },
+    {
+      "name": "Ithaca",
+      "primary_county": "Darke",
+      "population": 81
+    },
+    {
+      "name": "Jackson †",
+      "primary_county": "Jackson",
+      "population": 6252
+    },
+    {
+      "name": "Jackson Center",
+      "primary_county": "Shelby",
+      "population": 1441
+    },
+    {
+      "name": "Jacksonburg",
+      "primary_county": "Butler",
+      "population": 55
+    },
+    {
+      "name": "Jacksonville",
+      "primary_county": "Athens",
+      "population": 400
+    },
+    {
+      "name": "Jamestown",
+      "primary_county": "Greene",
+      "population": 2052
+    },
+    {
+      "name": "Jefferson †",
+      "primary_county": "Ashtabula",
+      "population": 3226
+    },
+    {
+      "name": "Jeffersonville",
+      "primary_county": "Fayette",
+      "population": 1258
+    },
+    {
+      "name": "Jenera",
+      "primary_county": "Hancock",
+      "population": 257
+    },
+    {
+      "name": "Jeromesville",
+      "primary_county": "Ashland",
+      "population": 531
+    },
+    {
+      "name": "Jerry City",
+      "primary_county": "Wood",
+      "population": 454
+    },
+    {
+      "name": "Jerusalem",
+      "primary_county": "Monroe",
+      "population": 121
+    },
+    {
+      "name": "Jewett",
+      "primary_county": "Harrison",
+      "population": 554
+    },
+    {
+      "name": "Johnstown",
+      "primary_county": "Licking",
+      "population": 5182
+    },
+    {
+      "name": "Junction City",
+      "primary_county": "Perry",
+      "population": 721
+    },
+    {
+      "name": "Kalida",
+      "primary_county": "Putnam",
+      "population": 1455
+    },
+    {
+      "name": "Kelleys Island",
+      "primary_county": "Erie",
+      "population": 256
+    },
+    {
+      "name": "Kent",
+      "primary_county": "Portage",
+      "population": 28215
+    },
+    {
+      "name": "Kenton †",
+      "primary_county": "Hardin",
+      "population": 7947
+    },
+    {
+      "name": "Kettering",
+      "primary_county": "Montgomery",
+      "secondary_counties": [
+        "Greene"
+      ],
+      "population": 57862
+    },
+    {
+      "name": "Kettlersville",
+      "primary_county": "Shelby",
+      "population": 164
+    },
+    {
+      "name": "Killbuck",
+      "primary_county": "Holmes",
+      "population": 810
+    },
+    {
+      "name": "Kingston",
+      "primary_county": "Ross",
+      "population": 1262
+    },
+    {
+      "name": "Kipton",
+      "primary_county": "Lorain",
+      "population": 209
+    },
+    {
+      "name": "Kirby",
+      "primary_county": "Wyandot",
+      "population": 120
+    },
+    {
+      "name": "Kirkersville",
+      "primary_county": "Licking",
+      "population": 471
+    },
+    {
+      "name": "Kirtland",
+      "primary_county": "Lake",
+      "population": 6937
+    },
+    {
+      "name": "Kirtland Hills",
+      "primary_county": "Lake",
+      "population": 692
+    },
+    {
+      "name": "Lafayette",
+      "primary_county": "Allen",
+      "population": 406
+    },
+    {
+      "name": "LaGrange",
+      "primary_county": "Lorain",
+      "population": 2595
+    },
+    {
+      "name": "Lakeline",
+      "primary_county": "Lake",
+      "population": 216
+    },
+    {
+      "name": "Lakemore",
+      "primary_county": "Summit",
+      "population": 2926
+    },
+    {
+      "name": "Lakeview",
+      "primary_county": "Logan",
+      "population": 1184
+    },
+    {
+      "name": "Lakewood",
+      "primary_county": "Cuyahoga",
+      "population": 50942
+    },
+    {
+      "name": "Lancaster †",
+      "primary_county": "Fairfield",
+      "population": 40552
+    },
+    {
+      "name": "LaRue",
+      "primary_county": "Marion",
+      "population": 676
+    },
+    {
+      "name": "Latty",
+      "primary_county": "Paulding",
+      "population": 165
+    },
+    {
+      "name": "Laura",
+      "primary_county": "Miami",
+      "population": 398
+    },
+    {
+      "name": "Laurelville",
+      "primary_county": "Hocking",
+      "population": 512
+    },
+    {
+      "name": "Lebanon †",
+      "primary_county": "Warren",
+      "population": 20841
+    },
+    {
+      "name": "Leesburg",
+      "primary_county": "Highland",
+      "population": 1273
+    },
+    {
+      "name": "Leesville",
+      "primary_county": "Carroll",
+      "population": 127
+    },
+    {
+      "name": "Leetonia",
+      "primary_county": "Columbiana",
+      "population": 1833
+    },
+    {
+      "name": "Leipsic",
+      "primary_county": "Putnam",
+      "population": 2177
+    },
+    {
+      "name": "Lewisburg",
+      "primary_county": "Preble",
+      "population": 1745
+    },
+    {
+      "name": "Lewisville",
+      "primary_county": "Monroe",
+      "population": 184
+    },
+    {
+      "name": "Lexington",
+      "primary_county": "Richland",
+      "population": 4848
+    },
+    {
+      "name": "Liberty Center",
+      "primary_county": "Henry",
+      "population": 1108
+    },
+    {
+      "name": "Lima †",
+      "primary_county": "Allen",
+      "population": 35579
+    },
+    {
+      "name": "Lincoln Heights",
+      "primary_county": "Hamilton",
+      "population": 3144
+    },
+    {
+      "name": "Lindsey",
+      "primary_county": "Sandusky",
+      "population": 457
+    },
+    {
+      "name": "Linndale",
+      "primary_county": "Cuyahoga",
+      "population": 108
+    },
+    {
+      "name": "Lisbon †",
+      "primary_county": "Columbiana",
+      "population": 2597
+    },
+    {
+      "name": "Lithopolis",
+      "primary_county": "Fairfield",
+      "secondary_counties": [
+        "Franklin"
+      ],
+      "population": 2134
+    },
+    {
+      "name": "Lockbourne",
+      "primary_county": "Franklin",
+      "secondary_counties": [
+        "Pickaway"
+      ],
+      "population": 236
+    },
+    {
+      "name": "Lockington",
+      "primary_county": "Shelby",
+      "population": 162
+    },
+    {
+      "name": "Lockland",
+      "primary_county": "Hamilton",
+      "population": 3514
+    },
+    {
+      "name": "Lodi",
+      "primary_county": "Medina",
+      "population": 2746
+    },
+    {
+      "name": "Logan †",
+      "primary_county": "Hocking",
+      "population": 7296
+    },
+    {
+      "name": "London †",
+      "primary_county": "Madison",
+      "population": 10279
+    },
+    {
+      "name": "Lorain",
+      "primary_county": "Lorain",
+      "population": 65211
+    },
+    {
+      "name": "Lordstown",
+      "primary_county": "Trumbull",
+      "population": 3332
+    },
+    {
+      "name": "Lore City",
+      "primary_county": "Guernsey",
+      "population": 282
+    },
+    {
+      "name": "Loudonville",
+      "primary_county": "Ashland",
+      "secondary_counties": [
+        "Holmes"
+      ],
+      "population": 2786
+    },
+    {
+      "name": "Louisville",
+      "primary_county": "Stark",
+      "population": 9521
+    },
+    {
+      "name": "Loveland",
+      "primary_county": "Hamilton",
+      "secondary_counties": [
+        "Clermont",
+        "Warren"
+      ],
+      "population": 13307
+    },
+    {
+      "name": "Lowell",
+      "primary_county": "Washington",
+      "population": 565
+    },
+    {
+      "name": "Lowellville",
+      "primary_county": "Mahoning",
+      "population": 996
+    },
+    {
+      "name": "Lower Salem",
+      "primary_county": "Washington",
+      "population": 75
+    },
+    {
+      "name": "Lucas",
+      "primary_county": "Richland",
+      "population": 589
+    },
+    {
+      "name": "Luckey",
+      "primary_county": "Wood",
+      "population": 1009
+    },
+    {
+      "name": "Ludlow Falls",
+      "primary_county": "Miami",
+      "population": 175
+    },
+    {
+      "name": "Lynchburg",
+      "primary_county": "Highland",
+      "secondary_counties": [
+        "Clinton"
+      ],
+      "population": 1510
+    },
+    {
+      "name": "Lyndhurst",
+      "primary_county": "Cuyahoga",
+      "population": 14050
+    },
+    {
+      "name": "Lyons",
+      "primary_county": "Fulton",
+      "population": 602
+    },
+    {
+      "name": "Macedonia",
+      "primary_county": "Summit",
+      "population": 12168
+    },
+    {
+      "name": "Macksburg",
+      "primary_county": "Washington",
+      "population": 120
+    },
+    {
+      "name": "Madeira",
+      "primary_county": "Hamilton",
+      "population": 9487
+    },
+    {
+      "name": "Madison",
+      "primary_county": "Lake",
+      "population": 3435
+    },
+    {
+      "name": "Magnetic Springs",
+      "primary_county": "Union",
+      "population": 267
+    },
+    {
+      "name": "Magnolia",
+      "primary_county": "Stark",
+      "secondary_counties": [
+        "Carroll"
+      ],
+      "population": 1013
+    },
+    {
+      "name": "Maineville",
+      "primary_county": "Warren",
+      "population": 1405
+    },
+    {
+      "name": "Malinta",
+      "primary_county": "Henry",
+      "population": 236
+    },
+    {
+      "name": "Malta",
+      "primary_county": "Morgan",
+      "population": 559
+    },
+    {
+      "name": "Malvern",
+      "primary_county": "Carroll",
+      "population": 1110
+    },
+    {
+      "name": "Manchester",
+      "primary_county": "Adams",
+      "population": 1839
+    },
+    {
+      "name": "Mansfield †",
+      "primary_county": "Richland",
+      "population": 47534
+    },
+    {
+      "name": "Mantua",
+      "primary_county": "Portage",
+      "population": 1001
+    },
+    {
+      "name": "Maple Heights",
+      "primary_county": "Cuyahoga",
+      "population": 23701
+    },
+    {
+      "name": "Marble Cliff",
+      "primary_county": "Franklin",
+      "population": 634
+    },
+    {
+      "name": "Marblehead",
+      "primary_county": "Ottawa",
+      "population": 865
+    },
+    {
+      "name": "Marengo",
+      "primary_county": "Morrow",
+      "population": 283
+    },
+    {
+      "name": "Mariemont",
+      "primary_county": "Hamilton",
+      "population": 3518
+    },
+    {
+      "name": "Marietta †",
+      "primary_county": "Washington",
+      "population": 13385
+    },
+    {
+      "name": "Marion †",
+      "primary_county": "Marion",
+      "population": 35999
+    },
+    {
+      "name": "Marseilles",
+      "primary_county": "Wyandot",
+      "population": 93
+    },
+    {
+      "name": "Marshallville",
+      "primary_county": "Wayne",
+      "population": 789
+    },
+    {
+      "name": "Martins Ferry",
+      "primary_county": "Belmont",
+      "population": 6260
+    },
+    {
+      "name": "Martinsburg",
+      "primary_county": "Knox",
+      "population": 222
+    },
+    {
+      "name": "Martinsville",
+      "primary_county": "Clinton",
+      "population": 416
+    },
+    {
+      "name": "Marysville †",
+      "primary_county": "Union",
+      "population": 25571
+    },
+    {
+      "name": "Mason",
+      "primary_county": "Warren",
+      "population": 34792
+    },
+    {
+      "name": "Massillon",
+      "primary_county": "Stark",
+      "population": 32146
+    },
+    {
+      "name": "Matamoras",
+      "primary_county": "Washington",
+      "population": 702
+    },
+    {
+      "name": "Maumee",
+      "primary_county": "Lucas",
+      "population": 13896
+    },
+    {
+      "name": "Mayfield",
+      "primary_county": "Cuyahoga",
+      "population": 3356
+    },
+    {
+      "name": "Mayfield Heights",
+      "primary_county": "Cuyahoga",
+      "population": 20351
+    },
+    {
+      "name": "McArthur †",
+      "primary_county": "Vinton",
+      "population": 1783
+    },
+    {
+      "name": "McClure",
+      "primary_county": "Henry",
+      "population": 700
+    },
+    {
+      "name": "McComb",
+      "primary_county": "Hancock",
+      "population": 1558
+    },
+    {
+      "name": "McConnelsville †",
+      "primary_county": "Morgan",
+      "population": 1667
+    },
+    {
+      "name": "McDonald",
+      "primary_county": "Trumbull",
+      "population": 3172
+    },
+    {
+      "name": "McGuffey",
+      "primary_county": "Hardin",
+      "population": 466
+    },
+    {
+      "name": "Mechanicsburg",
+      "primary_county": "Champaign",
+      "population": 1681
+    },
+    {
+      "name": "Medina †",
+      "primary_county": "Medina",
+      "population": 26094
+    },
+    {
+      "name": "Melrose",
+      "primary_county": "Paulding",
+      "population": 233
+    },
+    {
+      "name": "Mendon",
+      "primary_county": "Mercer",
+      "population": 628
+    },
+    {
+      "name": "Mentor",
+      "primary_county": "Lake",
+      "population": 47450
+    },
+    {
+      "name": "Mentor-on-the-Lake",
+      "primary_county": "Lake",
+      "population": 7131
+    },
+    {
+      "name": "Metamora",
+      "primary_county": "Fulton",
+      "population": 566
+    },
+    {
+      "name": "Meyers Lake",
+      "primary_county": "Stark",
+      "population": 724
+    },
+    {
+      "name": "Miamisburg",
+      "primary_county": "Montgomery",
+      "population": 19923
+    },
+    {
+      "name": "Middle Point",
+      "primary_county": "Van Wert",
+      "population": 566
+    },
+    {
+      "name": "Middleburg Heights",
+      "primary_county": "Cuyahoga",
+      "population": 16004
+    },
+    {
+      "name": "Middlefield",
+      "primary_county": "Geauga",
+      "population": 2748
+    },
+    {
+      "name": "Middleport",
+      "primary_county": "Meigs",
+      "population": 2208
+    },
+    {
+      "name": "Middletown",
+      "primary_county": "Butler",
+      "secondary_counties": [
+        "Warren"
+      ],
+      "population": 50987
+    },
+    {
+      "name": "Midland",
+      "primary_county": "Clinton",
+      "population": 307
+    },
+    {
+      "name": "Midvale",
+      "primary_county": "Tuscarawas",
+      "population": 673
+    },
+    {
+      "name": "Midway",
+      "primary_county": "Madison",
+      "population": 269
+    },
+    {
+      "name": "Mifflin",
+      "primary_county": "Ashland",
+      "population": 158
+    },
+    {
+      "name": "Milan",
+      "primary_county": "Erie",
+      "secondary_counties": [
+        "Huron"
+      ],
+      "population": 1371
+    },
+    {
+      "name": "Milford",
+      "primary_county": "Clermont",
+      "secondary_counties": [
+        "Hamilton"
+      ],
+      "population": 6582
+    },
+    {
+      "name": "Milford Center",
+      "primary_county": "Union",
+      "population": 807
+    },
+    {
+      "name": "Millbury",
+      "primary_county": "Wood",
+      "population": 1193
+    },
+    {
+      "name": "Milledgeville",
+      "primary_county": "Fayette",
+      "population": 98
+    },
+    {
+      "name": "Miller City",
+      "primary_county": "Putnam",
+      "population": 134
+    },
+    {
+      "name": "Millersburg †",
+      "primary_county": "Holmes",
+      "population": 3151
+    },
+    {
+      "name": "Millersport",
+      "primary_county": "Fairfield",
+      "population": 978
+    },
+    {
+      "name": "Millville",
+      "primary_county": "Butler",
+      "population": 634
+    },
+    {
+      "name": "Milton Center",
+      "primary_county": "Wood",
+      "population": 137
+    },
+    {
+      "name": "Miltonsburg",
+      "primary_county": "Monroe",
+      "population": 42
+    },
+    {
+      "name": "Mineral City",
+      "primary_county": "Tuscarawas",
+      "population": 652
+    },
+    {
+      "name": "Minerva",
+      "primary_county": "Stark",
+      "secondary_counties": [
+        "Carroll",
+        "Columbiana"
+      ],
+      "population": 3684
+    },
+    {
+      "name": "Minerva Park",
+      "primary_county": "Franklin",
+      "population": 2009
+    },
+    {
+      "name": "Mingo Junction",
+      "primary_county": "Jefferson",
+      "population": 3347
+    },
+    {
+      "name": "Minster",
+      "primary_county": "Auglaize",
+      "secondary_counties": [
+        "Shelby"
+      ],
+      "population": 3046
+    },
+    {
+      "name": "Mogadore",
+      "primary_county": "Summit",
+      "secondary_counties": [
+        "Portage"
+      ],
+      "population": 3811
+    },
+    {
+      "name": "Monroe",
+      "primary_county": "Butler",
+      "secondary_counties": [
+        "Warren"
+      ],
+      "population": 15412
+    },
+    {
+      "name": "Monroeville",
+      "primary_county": "Huron",
+      "population": 1300
+    },
+    {
+      "name": "Montezuma",
+      "primary_county": "Mercer",
+      "population": 152
+    },
+    {
+      "name": "Montgomery",
+      "primary_county": "Hamilton",
+      "population": 10853
+    },
+    {
+      "name": "Montpelier",
+      "primary_county": "Williams",
+      "population": 3942
+    },
+    {
+      "name": "Moraine",
+      "primary_county": "Montgomery",
+      "population": 6393
+    },
+    {
+      "name": "Moreland Hills",
+      "primary_county": "Cuyahoga",
+      "population": 3466
+    },
+    {
+      "name": "Morral",
+      "primary_county": "Marion",
+      "population": 373
+    },
+    {
+      "name": "Morristown",
+      "primary_county": "Belmont",
+      "population": 248
+    },
+    {
+      "name": "Morrow",
+      "primary_county": "Warren",
+      "population": 2049
+    },
+    {
+      "name": "Moscow",
+      "primary_county": "Clermont",
+      "population": 155
+    },
+    {
+      "name": "Mount Blanchard",
+      "primary_county": "Hancock",
+      "population": 471
+    },
+    {
+      "name": "Mount Cory",
+      "primary_county": "Hancock",
+      "population": 225
+    },
+    {
+      "name": "Mount Eaton",
+      "primary_county": "Wayne",
+      "population": 171
+    },
+    {
+      "name": "Mount Gilead †",
+      "primary_county": "Morrow",
+      "population": 3503
+    },
+    {
+      "name": "Mount Healthy",
+      "primary_county": "Hamilton",
+      "population": 6996
+    },
+    {
+      "name": "Mount Orab",
+      "primary_county": "Brown",
+      "population": 4347
+    },
+    {
+      "name": "Mount Pleasant",
+      "primary_county": "Jefferson",
+      "population": 394
+    },
+    {
+      "name": "Mount Sterling",
+      "primary_county": "Madison",
+      "population": 1945
+    },
+    {
+      "name": "Mount Vernon †",
+      "primary_county": "Knox",
+      "population": 16956
+    },
+    {
+      "name": "Mount Victory",
+      "primary_county": "Hardin",
+      "population": 601
+    },
+    {
+      "name": "Mowrystown",
+      "primary_county": "Highland",
+      "population": 385
+    },
+    {
+      "name": "Munroe Falls",
+      "primary_county": "Summit",
+      "population": 5044
+    },
+    {
+      "name": "Murray City",
+      "primary_county": "Hocking",
+      "population": 341
+    },
+    {
+      "name": "Mutual",
+      "primary_county": "Champaign",
+      "population": 127
+    },
+    {
+      "name": "Napoleon †",
+      "primary_county": "Henry",
+      "population": 8862
+    },
+    {
+      "name": "Nashville",
+      "primary_county": "Holmes",
+      "population": 183
+    },
+    {
+      "name": "Navarre",
+      "primary_county": "Stark",
+      "population": 1846
+    },
+    {
+      "name": "Nellie",
+      "primary_county": "Coshocton",
+      "population": 122
+    },
+    {
+      "name": "Nelsonville",
+      "primary_county": "Athens",
+      "population": 5373
+    },
+    {
+      "name": "Nevada",
+      "primary_county": "Wyandot",
+      "population": 706
+    },
+    {
+      "name": "Neville",
+      "primary_county": "Clermont",
+      "population": 87
+    },
+    {
+      "name": "New Albany",
+      "primary_county": "Franklin",
+      "secondary_counties": [
+        "Licking"
+      ],
+      "population": 10825
+    },
+    {
+      "name": "New Alexandria",
+      "primary_county": "Jefferson",
+      "population": 232
+    },
+    {
+      "name": "New Athens",
+      "primary_county": "Harrison",
+      "population": 222
+    },
+    {
+      "name": "New Bavaria",
+      "primary_county": "Henry",
+      "population": 86
+    },
+    {
+      "name": "New Bloomington",
+      "primary_county": "Marion",
+      "population": 413
+    },
+    {
+      "name": "New Boston",
+      "primary_county": "Scioto",
+      "population": 2297
+    },
+    {
+      "name": "New Bremen",
+      "primary_county": "Auglaize",
+      "population": 3034
+    },
+    {
+      "name": "New Carlisle",
+      "primary_county": "Clark",
+      "population": 5559
+    },
+    {
+      "name": "New Concord",
+      "primary_county": "Muskingum",
+      "population": 2361
+    },
+    {
+      "name": "New Franklin",
+      "primary_county": "Summit",
+      "population": 13877
+    },
+    {
+      "name": "New Holland",
+      "primary_county": "Pickaway",
+      "secondary_counties": [
+        "Fayette"
+      ],
+      "population": 804
+    },
+    {
+      "name": "New Knoxville",
+      "primary_county": "Auglaize",
+      "population": 946
+    },
+    {
+      "name": "New Lebanon",
+      "primary_county": "Montgomery",
+      "population": 3796
+    },
+    {
+      "name": "New Lexington †",
+      "primary_county": "Perry",
+      "population": 4435
+    },
+    {
+      "name": "New London",
+      "primary_county": "Huron",
+      "population": 2416
+    },
+    {
+      "name": "New Madison",
+      "primary_county": "Darke",
+      "population": 840
+    },
+    {
+      "name": "New Miami",
+      "primary_county": "Butler",
+      "population": 2217
+    },
+    {
+      "name": "New Middletown",
+      "primary_county": "Mahoning",
+      "population": 1507
+    },
+    {
+      "name": "New Paris",
+      "primary_county": "Preble",
+      "population": 1494
+    },
+    {
+      "name": "New Philadelphia †",
+      "primary_county": "Tuscarawas",
+      "population": 17677
+    },
+    {
+      "name": "New Richmond",
+      "primary_county": "Clermont",
+      "population": 2727
+    },
+    {
+      "name": "New Riegel",
+      "primary_county": "Seneca",
+      "population": 286
+    },
+    {
+      "name": "New Straitsville",
+      "primary_county": "Perry",
+      "population": 652
+    },
+    {
+      "name": "New Vienna",
+      "primary_county": "Clinton",
+      "population": 1108
+    },
+    {
+      "name": "New Washington",
+      "primary_county": "Crawford",
+      "population": 873
+    },
+    {
+      "name": "New Waterford",
+      "primary_county": "Columbiana",
+      "population": 1194
+    },
+    {
+      "name": "New Weston",
+      "primary_county": "Darke",
+      "population": 124
+    },
+    {
+      "name": "Newark †",
+      "primary_county": "Licking",
+      "population": 49934
+    },
+    {
+      "name": "Newburgh Heights",
+      "primary_county": "Cuyahoga",
+      "population": 1862
+    },
+    {
+      "name": "Newcomerstown",
+      "primary_county": "Tuscarawas",
+      "population": 3702
+    },
+    {
+      "name": "Newton Falls",
+      "primary_county": "Trumbull",
+      "population": 4557
+    },
+    {
+      "name": "Newtown",
+      "primary_county": "Hamilton",
+      "population": 2702
+    },
+    {
+      "name": "Ney",
+      "primary_county": "Defiance",
+      "population": 303
+    },
+    {
+      "name": "Niles",
+      "primary_county": "Trumbull",
+      "population": 18443
+    },
+    {
+      "name": "North Baltimore",
+      "primary_county": "Wood",
+      "population": 3369
+    },
+    {
+      "name": "North Bend",
+      "primary_county": "Hamilton",
+      "population": 835
+    },
+    {
+      "name": "North Canton",
+      "primary_county": "Stark",
+      "population": 17842
+    },
+    {
+      "name": "North College Hill",
+      "primary_county": "Hamilton",
+      "population": 9663
+    },
+    {
+      "name": "North Fairfield",
+      "primary_county": "Huron",
+      "population": 465
+    },
+    {
+      "name": "North Hampton",
+      "primary_county": "Clark",
+      "population": 457
+    },
+    {
+      "name": "North Kingsville",
+      "primary_county": "Ashtabula",
+      "population": 2742
+    },
+    {
+      "name": "North Lewisburg",
+      "primary_county": "Champaign",
+      "population": 1636
+    },
+    {
+      "name": "North Olmsted",
+      "primary_county": "Cuyahoga",
+      "population": 32442
+    },
+    {
+      "name": "North Perry",
+      "primary_county": "Lake",
+      "population": 915
+    },
+    {
+      "name": "North Randall",
+      "primary_county": "Cuyahoga",
+      "population": 954
+    },
+    {
+      "name": "North Ridgeville",
+      "primary_county": "Lorain",
+      "population": 35280
+    },
+    {
+      "name": "North Robinson",
+      "primary_county": "Crawford",
+      "population": 219
+    },
+    {
+      "name": "North Royalton",
+      "primary_county": "Cuyahoga",
+      "population": 31322
+    },
+    {
+      "name": "North Star",
+      "primary_county": "Darke",
+      "population": 224
+    },
+    {
+      "name": "Northfield",
+      "primary_county": "Summit",
+      "population": 3541
+    },
+    {
+      "name": "Northwood",
+      "primary_county": "Wood",
+      "population": 5160
+    },
+    {
+      "name": "Norton",
+      "primary_county": "Summit",
+      "population": 11673
+    },
+    {
+      "name": "Norwalk †",
+      "primary_county": "Huron",
+      "population": 17068
+    },
+    {
+      "name": "Norwich",
+      "primary_county": "Muskingum",
+      "population": 87
+    },
+    {
+      "name": "Norwood",
+      "primary_county": "Hamilton",
+      "population": 19043
+    },
+    {
+      "name": "Oak Harbor",
+      "primary_county": "Ottawa",
+      "population": 2821
+    },
+    {
+      "name": "Oak Hill",
+      "primary_county": "Jackson",
+      "population": 1407
+    },
+    {
+      "name": "Oakwood",
+      "primary_county": "Montgomery",
+      "population": 9572
+    },
+    {
+      "name": "Oakwood",
+      "primary_county": "Cuyahoga",
+      "population": 3572
+    },
+    {
+      "name": "Oakwood",
+      "primary_county": "Paulding",
+      "population": 546
+    },
+    {
+      "name": "Oberlin",
+      "primary_county": "Lorain",
+      "population": 8555
+    },
+    {
+      "name": "Obetz",
+      "primary_county": "Franklin",
+      "population": 5489
+    },
+    {
+      "name": "Octa",
+      "primary_county": "Fayette",
+      "population": 58
+    },
+    {
+      "name": "Ohio City",
+      "primary_county": "Van Wert",
+      "population": 651
+    },
+    {
+      "name": "Old Washington",
+      "primary_county": "Guernsey",
+      "population": 223
+    },
+    {
+      "name": "Olmsted Falls",
+      "primary_county": "Cuyahoga",
+      "population": 8582
+    },
+    {
+      "name": "Ontario",
+      "primary_county": "Richland",
+      "population": 6656
+    },
+    {
+      "name": "Orange",
+      "primary_county": "Cuyahoga",
+      "population": 3421
+    },
+    {
+      "name": "Orangeville",
+      "primary_county": "Trumbull",
+      "population": 174
+    },
+    {
+      "name": "Oregon",
+      "primary_county": "Lucas",
+      "population": 19950
+    },
+    {
+      "name": "Orrville",
+      "primary_county": "Wayne",
+      "population": 8452
+    },
+    {
+      "name": "Orwell",
+      "primary_county": "Ashtabula",
+      "population": 1533
+    },
+    {
+      "name": "Osgood",
+      "primary_county": "Darke",
+      "population": 306
+    },
+    {
+      "name": "Ostrander",
+      "primary_county": "Delaware",
+      "population": 1094
+    },
+    {
+      "name": "Ottawa †",
+      "primary_county": "Putnam",
+      "population": 4456
+    },
+    {
+      "name": "Ottawa Hills",
+      "primary_county": "Lucas",
+      "population": 4790
+    },
+    {
+      "name": "Ottoville",
+      "primary_county": "Putnam",
+      "population": 966
+    },
+    {
+      "name": "Otway",
+      "primary_county": "Scioto",
+      "population": 92
+    },
+    {
+      "name": "Owensville",
+      "primary_county": "Clermont",
+      "population": 786
+    },
+    {
+      "name": "Oxford",
+      "primary_county": "Butler",
+      "population": 23035
+    },
+    {
+      "name": "Painesville †",
+      "primary_county": "Lake",
+      "population": 20312
+    },
+    {
+      "name": "Palestine",
+      "primary_county": "Darke",
+      "population": 180
+    },
+    {
+      "name": "Pandora",
+      "primary_county": "Putnam",
+      "population": 1204
+    },
+    {
+      "name": "Parma",
+      "primary_county": "Cuyahoga",
+      "population": 81146
+    },
+    {
+      "name": "Parma Heights",
+      "primary_county": "Cuyahoga",
+      "population": 20863
+    },
+    {
+      "name": "Parral",
+      "primary_county": "Tuscarawas",
+      "population": 205
+    },
+    {
+      "name": "Pataskala",
+      "primary_county": "Licking",
+      "population": 17886
+    },
+    {
+      "name": "Patterson",
+      "primary_county": "Hardin",
+      "population": 130
+    },
+    {
+      "name": "Paulding †",
+      "primary_county": "Paulding",
+      "population": 3555
+    },
+    {
+      "name": "Payne",
+      "primary_county": "Paulding",
+      "population": 1192
+    },
+    {
+      "name": "Peebles",
+      "primary_county": "Adams",
+      "population": 1774
+    },
+    {
+      "name": "Pemberville",
+      "primary_county": "Wood",
+      "population": 1326
+    },
+    {
+      "name": "Peninsula",
+      "primary_county": "Summit",
+      "population": 536
+    },
+    {
+      "name": "Pepper Pike",
+      "primary_county": "Cuyahoga",
+      "population": 6796
+    },
+    {
+      "name": "Perry",
+      "primary_county": "Lake",
+      "population": 1602
+    },
+    {
+      "name": "Perrysburg",
+      "primary_county": "Wood",
+      "population": 25041
+    },
+    {
+      "name": "Perrysville",
+      "primary_county": "Ashland",
+      "population": 729
+    },
+    {
+      "name": "Phillipsburg",
+      "primary_county": "Montgomery",
+      "population": 498
+    },
+    {
+      "name": "Philo",
+      "primary_county": "Muskingum",
+      "population": 720
+    },
+    {
+      "name": "Pickerington",
+      "primary_county": "Fairfield",
+      "secondary_counties": [
+        "Franklin"
+      ],
+      "population": 23094
+    },
+    {
+      "name": "Piketon",
+      "primary_county": "Pike",
+      "population": 2111
+    },
+    {
+      "name": "Pioneer",
+      "primary_county": "Williams",
+      "population": 1429
+    },
+    {
+      "name": "Piqua",
+      "primary_county": "Miami",
+      "population": 20354
+    },
+    {
+      "name": "Pitsburg",
+      "primary_county": "Darke",
+      "population": 381
+    },
+    {
+      "name": "Plain City",
+      "primary_county": "Madison",
+      "secondary_counties": [
+        "Union"
+      ],
+      "population": 4065
+    },
+    {
+      "name": "Plainfield",
+      "primary_county": "Coshocton",
+      "population": 141
+    },
+    {
+      "name": "Pleasant City",
+      "primary_county": "Guernsey",
+      "population": 400
+    },
+    {
+      "name": "Pleasant Hill",
+      "primary_county": "Miami",
+      "population": 1241
+    },
+    {
+      "name": "Pleasant Plain",
+      "primary_county": "Warren",
+      "population": 129
+    },
+    {
+      "name": "Pleasantville",
+      "primary_county": "Fairfield",
+      "population": 934
+    },
+    {
+      "name": "Plymouth",
+      "primary_county": "Richland",
+      "secondary_counties": [
+        "Huron"
+      ],
+      "population": 1707
+    },
+    {
+      "name": "Poland",
+      "primary_county": "Mahoning",
+      "population": 2463
+    },
+    {
+      "name": "Polk",
+      "primary_county": "Ashland",
+      "population": 310
+    },
+    {
+      "name": "Pomeroy †",
+      "primary_county": "Meigs",
+      "population": 1573
+    },
+    {
+      "name": "Port Clinton †",
+      "primary_county": "Ottawa",
+      "population": 6025
+    },
+    {
+      "name": "Port Jefferson",
+      "primary_county": "Shelby",
+      "population": 308
+    },
+    {
+      "name": "Port Washington",
+      "primary_county": "Tuscarawas",
+      "population": 548
+    },
+    {
+      "name": "Port William",
+      "primary_county": "Clinton",
+      "population": 229
+    },
+    {
+      "name": "Portage",
+      "primary_county": "Wood",
+      "population": 398
+    },
+    {
+      "name": "Portsmouth †",
+      "primary_county": "Scioto",
+      "population": 18252
+    },
+    {
+      "name": "Potsdam",
+      "primary_county": "Miami",
+      "population": 225
+    },
+    {
+      "name": "Powell",
+      "primary_county": "Delaware",
+      "population": 14163
+    },
+    {
+      "name": "Powhatan Point",
+      "primary_county": "Belmont",
+      "population": 1461
+    },
+    {
+      "name": "Proctorville",
+      "primary_county": "Lawrence",
+      "population": 523
+    },
+    {
+      "name": "Prospect",
+      "primary_county": "Marion",
+      "population": 1067
+    },
+    {
+      "name": "Put-in-Bay",
+      "primary_county": "Ottawa",
+      "population": 154
+    },
+    {
+      "name": "Quaker City",
+      "primary_county": "Guernsey",
+      "population": 379
+    },
+    {
+      "name": "Quincy",
+      "primary_county": "Logan",
+      "population": 536
+    },
+    {
+      "name": "Racine",
+      "primary_county": "Meigs",
+      "population": 683
+    },
+    {
+      "name": "Rarden",
+      "primary_county": "Scioto",
+      "population": 146
+    },
+    {
+      "name": "Ravenna †",
+      "primary_county": "Portage",
+      "population": 11323
+    },
+    {
+      "name": "Rawson",
+      "primary_county": "Hancock",
+      "population": 567
+    },
+    {
+      "name": "Rayland",
+      "primary_county": "Jefferson",
+      "population": 395
+    },
+    {
+      "name": "Reading",
+      "primary_county": "Hamilton",
+      "population": 10600
+    },
+    {
+      "name": "Reminderville",
+      "primary_county": "Summit",
+      "population": 5412
+    },
+    {
+      "name": "Rendville",
+      "primary_county": "Perry",
+      "population": 28
+    },
+    {
+      "name": "Republic",
+      "primary_county": "Seneca",
+      "population": 556
+    },
+    {
+      "name": "Reynoldsburg",
+      "primary_county": "Franklin",
+      "secondary_counties": [
+        "Licking",
+        "Fairfield"
+      ],
+      "population": 41076
+    },
+    {
+      "name": "Richfield",
+      "primary_county": "Summit",
+      "population": 3729
+    },
+    {
+      "name": "Richmond",
+      "primary_county": "Jefferson",
+      "population": 412
+    },
+    {
+      "name": "Richmond Heights",
+      "primary_county": "Cuyahoga",
+      "population": 10801
+    },
+    {
+      "name": "Richwood",
+      "primary_county": "Union",
+      "population": 2222
+    },
+    {
+      "name": "Ridgeway",
+      "primary_county": "Hardin",
+      "secondary_counties": [
+        "Logan"
+      ],
+      "population": 314
+    },
+    {
+      "name": "Rio Grande",
+      "primary_county": "Gallia",
+      "population": 724
+    },
+    {
+      "name": "Ripley",
+      "primary_county": "Brown",
+      "population": 1591
+    },
+    {
+      "name": "Risingsun",
+      "primary_county": "Wood",
+      "population": 541
+    },
+    {
+      "name": "Rittman",
+      "primary_county": "Wayne",
+      "secondary_counties": [
+        "Medina"
+      ],
+      "population": 6131
+    },
+    {
+      "name": "Riverlea",
+      "primary_county": "Franklin",
+      "population": 599
+    },
+    {
+      "name": "Riverside",
+      "primary_county": "Montgomery",
+      "population": 24474
+    },
+    {
+      "name": "Roaming Shores",
+      "primary_county": "Ashtabula",
+      "population": 1586
+    },
+    {
+      "name": "Rochester",
+      "primary_county": "Lorain",
+      "population": 159
+    },
+    {
+      "name": "Rock Creek",
+      "primary_county": "Ashtabula",
+      "population": 667
+    },
+    {
+      "name": "Rockford",
+      "primary_county": "Mercer",
+      "population": 1051
+    },
+    {
+      "name": "Rocky Ridge",
+      "primary_county": "Ottawa",
+      "population": 312
+    },
+    {
+      "name": "Rocky River",
+      "primary_county": "Cuyahoga",
+      "population": 21755
+    },
+    {
+      "name": "Rogers",
+      "primary_county": "Columbiana",
+      "population": 194
+    },
+    {
+      "name": "Rome",
+      "primary_county": "Adams",
+      "population": 83
+    },
+    {
+      "name": "Roseville",
+      "primary_county": "Perry",
+      "secondary_counties": [
+        "Muskingum"
+      ],
+      "population": 1746
+    },
+    {
+      "name": "Rossburg",
+      "primary_county": "Darke",
+      "population": 159
+    },
+    {
+      "name": "Rossford",
+      "primary_county": "Wood",
+      "population": 6299
+    },
+    {
+      "name": "Roswell",
+      "primary_county": "Tuscarawas",
+      "population": 219
+    },
+    {
+      "name": "Rushsylvania",
+      "primary_county": "Logan",
+      "population": 491
+    },
+    {
+      "name": "Rushville",
+      "primary_county": "Fairfield",
+      "population": 304
+    },
+    {
+      "name": "Russells Point",
+      "primary_county": "Logan",
+      "population": 1320
+    },
+    {
+      "name": "Russellville",
+      "primary_county": "Brown",
+      "population": 542
+    },
+    {
+      "name": "Russia",
+      "primary_county": "Shelby",
+      "population": 712
+    },
+    {
+      "name": "Rutland",
+      "primary_county": "Meigs",
+      "population": 427
+    },
+    {
+      "name": "Sabina",
+      "primary_county": "Clinton",
+      "population": 2499
+    },
+    {
+      "name": "St. Bernard",
+      "primary_county": "Hamilton",
+      "population": 4070
+    },
+    {
+      "name": "St. Clairsville †",
+      "primary_county": "Belmont",
+      "population": 5096
+    },
+    {
+      "name": "St. Henry",
+      "primary_county": "Mercer",
+      "population": 2596
+    },
+    {
+      "name": "St. Louisville",
+      "primary_county": "Licking",
+      "population": 352
+    },
+    {
+      "name": "St. Marys",
+      "primary_county": "Auglaize",
+      "population": 8397
+    },
+    {
+      "name": "St. Paris",
+      "primary_county": "Champaign",
+      "population": 1882
+    },
+    {
+      "name": "Salem",
+      "primary_county": "Columbiana",
+      "secondary_counties": [
+        "Mahoning"
+      ],
+      "population": 11915
+    },
+    {
+      "name": "Salineville",
+      "primary_county": "Columbiana",
+      "population": 1206
+    },
+    {
+      "name": "Sandusky †",
+      "primary_county": "Erie",
+      "population": 25095
+    },
+    {
+      "name": "Sarahsville",
+      "primary_county": "Noble",
+      "population": 147
+    },
+    {
+      "name": "Sardinia",
+      "primary_county": "Brown",
+      "secondary_counties": [
+        "Highland"
+      ],
+      "population": 1083
+    },
+    {
+      "name": "Savannah",
+      "primary_county": "Ashland",
+      "population": 329
+    },
+    {
+      "name": "Scio",
+      "primary_county": "Harrison",
+      "population": 673
+    },
+    {
+      "name": "Scott",
+      "primary_county": "Van Wert",
+      "secondary_counties": [
+        "Paulding"
+      ],
+      "population": 242
+    },
+    {
+      "name": "Seaman",
+      "primary_county": "Adams",
+      "population": 973
+    },
+    {
+      "name": "Sebring",
+      "primary_county": "Mahoning",
+      "population": 4191
+    },
+    {
+      "name": "Senecaville",
+      "primary_county": "Guernsey",
+      "population": 422
+    },
+    {
+      "name": "Seven Hills",
+      "primary_county": "Cuyahoga",
+      "population": 11720
+    },
+    {
+      "name": "Seven Mile",
+      "primary_county": "Butler",
+      "population": 712
+    },
+    {
+      "name": "Seville",
+      "primary_county": "Medina",
+      "population": 2335
+    },
+    {
+      "name": "Shadyside",
+      "primary_county": "Belmont",
+      "population": 3454
+    },
+    {
+      "name": "Shaker Heights",
+      "primary_county": "Cuyahoga",
+      "population": 29439
+    },
+    {
+      "name": "Sharonville",
+      "primary_county": "Hamilton",
+      "secondary_counties": [
+        "Butler"
+      ],
+      "population": 14117
+    },
+    {
+      "name": "Shawnee",
+      "primary_county": "Perry",
+      "population": 505
+    },
+    {
+      "name": "Shawnee Hills",
+      "primary_county": "Delaware",
+      "population": 835
+    },
+    {
+      "name": "Sheffield",
+      "primary_county": "Lorain",
+      "population": 4135
+    },
+    {
+      "name": "Sheffield Lake",
+      "primary_county": "Lorain",
+      "population": 8957
+    },
+    {
+      "name": "Shelby",
+      "primary_county": "Richland",
+      "population": 9282
+    },
+    {
+      "name": "Sherrodsville",
+      "primary_county": "Carroll",
+      "population": 222
+    },
+    {
+      "name": "Sherwood",
+      "primary_county": "Defiance",
+      "population": 802
+    },
+    {
+      "name": "Shiloh",
+      "primary_county": "Richland",
+      "population": 619
+    },
+    {
+      "name": "Shreve",
+      "primary_county": "Wayne",
+      "population": 1497
+    },
+    {
+      "name": "Sidney †",
+      "primary_county": "Shelby",
+      "population": 20589
+    },
+    {
+      "name": "Silver Lake",
+      "primary_county": "Summit",
+      "population": 2516
+    },
+    {
+      "name": "Silverton",
+      "primary_county": "Hamilton",
+      "population": 4908
+    },
+    {
+      "name": "Sinking Spring",
+      "primary_county": "Highland",
+      "population": 118
+    },
+    {
+      "name": "Smithville",
+      "primary_county": "Wayne",
+      "population": 1338
+    },
+    {
+      "name": "Solon",
+      "primary_county": "Cuyahoga",
+      "population": 24262
+    },
+    {
+      "name": "Somerset",
+      "primary_county": "Perry",
+      "population": 1796
+    },
+    {
+      "name": "South Amherst",
+      "primary_county": "Lorain",
+      "population": 1581
+    },
+    {
+      "name": "South Bloomfield",
+      "primary_county": "Pickaway",
+      "population": 2143
+    },
+    {
+      "name": "South Charleston",
+      "primary_county": "Clark",
+      "population": 1706
+    },
+    {
+      "name": "South Euclid",
+      "primary_county": "Cuyahoga",
+      "population": 21883
+    },
+    {
+      "name": "South Lebanon",
+      "primary_county": "Warren",
+      "population": 6384
+    },
+    {
+      "name": "South Point",
+      "primary_county": "Lawrence",
+      "population": 3836
+    },
+    {
+      "name": "South Russell",
+      "primary_county": "Geauga",
+      "population": 3972
+    },
+    {
+      "name": "South Salem",
+      "primary_county": "Ross",
+      "population": 219
+    },
+    {
+      "name": "South Solon",
+      "primary_county": "Madison",
+      "population": 329
+    },
+    {
+      "name": "South Vienna",
+      "primary_county": "Clark",
+      "population": 402
+    },
+    {
+      "name": "South Webster",
+      "primary_county": "Scioto",
+      "population": 670
+    },
+    {
+      "name": "South Zanesville",
+      "primary_county": "Muskingum",
+      "population": 1894
+    },
+    {
+      "name": "Sparta",
+      "primary_county": "Morrow",
+      "population": 121
+    },
+    {
+      "name": "Spencer",
+      "primary_county": "Medina",
+      "population": 684
+    },
+    {
+      "name": "Spencerville",
+      "primary_county": "Allen",
+      "population": 2198
+    },
+    {
+      "name": "Spring Valley",
+      "primary_county": "Greene",
+      "population": 415
+    },
+    {
+      "name": "Springboro",
+      "primary_county": "Warren",
+      "secondary_counties": [
+        "Montgomery"
+      ],
+      "population": 19062
+    },
+    {
+      "name": "Springdale",
+      "primary_county": "Hamilton",
+      "population": 11007
+    },
+    {
+      "name": "Springfield †",
+      "primary_county": "Clark",
+      "population": 58662
+    },
+    {
+      "name": "Stafford",
+      "primary_county": "Monroe",
+      "population": 71
+    },
+    {
+      "name": "Steubenville †",
+      "primary_county": "Jefferson",
+      "population": 18161
+    },
+    {
+      "name": "Stockport",
+      "primary_county": "Morgan",
+      "population": 483
+    },
+    {
+      "name": "Stone Creek",
+      "primary_county": "Tuscarawas",
+      "population": 153
+    },
+    {
+      "name": "Stoutsville",
+      "primary_county": "Fairfield",
+      "population": 579
+    },
+    {
+      "name": "Stow",
+      "primary_county": "Summit",
+      "population": 34483
+    },
+    {
+      "name": "Strasburg",
+      "primary_county": "Tuscarawas",
+      "population": 2735
+    },
+    {
+      "name": "Stratton",
+      "primary_county": "Jefferson",
+      "population": 267
+    },
+    {
+      "name": "Streetsboro",
+      "primary_county": "Portage",
+      "population": 17260
+    },
+    {
+      "name": "Strongsville",
+      "primary_county": "Cuyahoga",
+      "population": 46491
+    },
+    {
+      "name": "Struthers",
+      "primary_county": "Mahoning",
+      "population": 10063
+    },
+    {
+      "name": "Stryker",
+      "primary_county": "Williams",
+      "population": 1259
+    },
+    {
+      "name": "Sugar Bush Knolls",
+      "primary_county": "Portage",
+      "population": 217
+    },
+    {
+      "name": "Sugar Grove",
+      "primary_county": "Fairfield",
+      "population": 429
+    },
+    {
+      "name": "Sugarcreek",
+      "primary_county": "Tuscarawas",
+      "population": 2373
+    },
+    {
+      "name": "Summerfield",
+      "primary_county": "Noble",
+      "population": 237
+    },
+    {
+      "name": "Summitville",
+      "primary_county": "Columbiana",
+      "population": 110
+    },
+    {
+      "name": "Sunbury",
+      "primary_county": "Delaware",
+      "population": 6614
+    },
+    {
+      "name": "Swanton",
+      "primary_county": "Fulton",
+      "secondary_counties": [
+        "Lucas"
+      ],
+      "population": 3897
+    },
+    {
+      "name": "Sycamore",
+      "primary_county": "Wyandot",
+      "population": 793
+    },
+    {
+      "name": "Sylvania",
+      "primary_county": "Lucas",
+      "population": 19011
+    },
+    {
+      "name": "Syracuse",
+      "primary_county": "Meigs",
+      "population": 781
+    },
+    {
+      "name": "Tallmadge",
+      "primary_county": "Summit",
+      "secondary_counties": [
+        "Portage"
+      ],
+      "population": 18394
+    },
+    {
+      "name": "Tarlton",
+      "primary_county": "Pickaway",
+      "secondary_counties": [
+        "Fairfield"
+      ],
+      "population": 254
+    },
+    {
+      "name": "Terrace Park",
+      "primary_county": "Hamilton",
+      "population": 2355
+    },
+    {
+      "name": "The Village of Indian Hill",
+      "primary_county": "Hamilton",
+      "population": 6087
+    },
+    {
+      "name": "Thornville",
+      "primary_county": "Perry",
+      "population": 1087
+    },
+    {
+      "name": "Thurston",
+      "primary_county": "Fairfield",
+      "population": 603
+    },
+    {
+      "name": "Tiffin †",
+      "primary_county": "Seneca",
+      "population": 17953
+    },
+    {
+      "name": "Tiltonsville",
+      "primary_county": "Jefferson",
+      "population": 1259
+    },
+    {
+      "name": "Timberlake",
+      "primary_county": "Lake",
+      "population": 629
+    },
+    {
+      "name": "Tipp City",
+      "primary_county": "Miami",
+      "population": 10274
+    },
+    {
+      "name": "Tiro",
+      "primary_county": "Crawford",
+      "population": 219
+    },
+    {
+      "name": "Toledo †",
+      "primary_county": "Lucas",
+      "population": 270871
+    },
+    {
+      "name": "Tontogany",
+      "primary_county": "Wood",
+      "population": 387
+    },
+    {
+      "name": "Toronto",
+      "primary_county": "Jefferson",
+      "population": 5303
+    },
+    {
+      "name": "Tremont City",
+      "primary_county": "Clark",
+      "population": 352
+    },
+    {
+      "name": "Trenton",
+      "primary_county": "Butler",
+      "population": 13021
+    },
+    {
+      "name": "Trimble",
+      "primary_county": "Athens",
+      "population": 329
+    },
+    {
+      "name": "Trotwood",
+      "primary_county": "Montgomery",
+      "population": 23070
+    },
+    {
+      "name": "Troy †",
+      "primary_county": "Miami",
+      "population": 26305
+    },
+    {
+      "name": "Tuscarawas",
+      "primary_county": "Tuscarawas",
+      "population": 1035
+    },
+    {
+      "name": "Twinsburg",
+      "primary_county": "Summit",
+      "population": 19248
+    },
+    {
+      "name": "Uhrichsville",
+      "primary_county": "Tuscarawas",
+      "population": 5272
+    },
+    {
+      "name": "Union",
+      "primary_county": "Montgomery",
+      "secondary_counties": [
+        "Miami"
+      ],
+      "population": 6859
+    },
+    {
+      "name": "Union City",
+      "primary_county": "Darke",
+      "population": 1582
+    },
+    {
+      "name": "Unionville Center",
+      "primary_county": "Union",
+      "population": 241
+    },
+    {
+      "name": "University Heights",
+      "primary_county": "Cuyahoga",
+      "population": 13914
+    },
+    {
+      "name": "Upper Arlington",
+      "primary_county": "Franklin",
+      "population": 36800
+    },
+    {
+      "name": "Upper Sandusky †",
+      "primary_county": "Wyandot",
+      "population": 6698
+    },
+    {
+      "name": "Urbana †",
+      "primary_county": "Champaign",
+      "population": 11115
+    },
+    {
+      "name": "Urbancrest",
+      "primary_county": "Franklin",
+      "population": 1031
+    },
+    {
+      "name": "Utica",
+      "primary_county": "Licking",
+      "secondary_counties": [
+        "Knox"
+      ],
+      "population": 2064
+    },
+    {
+      "name": "Valley Hi",
+      "primary_county": "Logan",
+      "population": 228
+    },
+    {
+      "name": "Valley View",
+      "primary_county": "Cuyahoga",
+      "population": 1897
+    },
+    {
+      "name": "Valleyview",
+      "primary_county": "Franklin",
+      "population": 669
+    },
+    {
+      "name": "Van Buren",
+      "primary_county": "Hancock",
+      "population": 396
+    },
+    {
+      "name": "Van Wert †",
+      "primary_county": "Van Wert",
+      "population": 11092
+    },
+    {
+      "name": "Vandalia",
+      "primary_county": "Montgomery",
+      "population": 15209
+    },
+    {
+      "name": "Vanlue",
+      "primary_county": "Hancock",
+      "population": 341
+    },
+    {
+      "name": "Venedocia",
+      "primary_county": "Van Wert",
+      "population": 140
+    },
+    {
+      "name": "Vermilion",
+      "primary_county": "Lorain",
+      "secondary_counties": [
+        "Erie"
+      ],
+      "population": 10659
+    },
+    {
+      "name": "Verona",
+      "primary_county": "Preble",
+      "secondary_counties": [
+        "Montgomery"
+      ],
+      "population": 403
+    },
+    {
+      "name": "Versailles",
+      "primary_county": "Darke",
+      "population": 2692
+    },
+    {
+      "name": "Vinton",
+      "primary_county": "Gallia",
+      "population": 224
+    },
+    {
+      "name": "Wadsworth",
+      "primary_county": "Medina",
+      "population": 24007
+    },
+    {
+      "name": "Waite Hill",
+      "primary_county": "Lake",
+      "population": 543
+    },
+    {
+      "name": "Wakeman",
+      "primary_county": "Huron",
+      "population": 990
+    },
+    {
+      "name": "Walbridge",
+      "primary_county": "Wood",
+      "population": 3011
+    },
+    {
+      "name": "Waldo",
+      "primary_county": "Marion",
+      "population": 326
+    },
+    {
+      "name": "Walton Hills",
+      "primary_county": "Cuyahoga",
+      "population": 2033
+    },
+    {
+      "name": "Wapakoneta †",
+      "primary_county": "Auglaize",
+      "population": 9957
+    },
+    {
+      "name": "Warren †",
+      "primary_county": "Trumbull",
+      "population": 39201
+    },
+    {
+      "name": "Warrensville Heights",
+      "primary_county": "Cuyahoga",
+      "population": 13789
+    },
+    {
+      "name": "Warsaw",
+      "primary_county": "Coshocton",
+      "population": 634
+    },
+    {
+      "name": "Washington Court House †",
+      "primary_county": "Fayette",
+      "population": 14401
+    },
+    {
+      "name": "Washingtonville",
+      "primary_county": "Columbiana",
+      "secondary_counties": [
+        "Mahoning"
+      ],
+      "population": 712
+    },
+    {
+      "name": "Waterville",
+      "primary_county": "Lucas",
+      "population": 6003
+    },
+    {
+      "name": "Wauseon †",
+      "primary_county": "Fulton",
+      "population": 7568
+    },
+    {
+      "name": "Waverly †",
+      "primary_county": "Pike",
+      "population": 4165
+    },
+    {
+      "name": "Wayne",
+      "primary_county": "Wood",
+      "population": 841
+    },
+    {
+      "name": "Wayne Lakes",
+      "primary_county": "Darke",
+      "population": 693
+    },
+    {
+      "name": "Waynesburg",
+      "primary_county": "Stark",
+      "population": 925
+    },
+    {
+      "name": "Waynesfield",
+      "primary_county": "Auglaize",
+      "population": 749
+    },
+    {
+      "name": "Waynesville",
+      "primary_county": "Warren",
+      "population": 2669
+    },
+    {
+      "name": "Wellington",
+      "primary_county": "Lorain",
+      "population": 4799
+    },
+    {
+      "name": "Wellston",
+      "primary_county": "Jackson",
+      "population": 5412
+    },
+    {
+      "name": "Wellsville",
+      "primary_county": "Columbiana",
+      "population": 3113
+    },
+    {
+      "name": "West Alexandria",
+      "primary_county": "Preble",
+      "population": 1334
+    },
+    {
+      "name": "West Carrollton",
+      "primary_county": "Montgomery",
+      "population": 13129
+    },
+    {
+      "name": "West Elkton",
+      "primary_county": "Preble",
+      "population": 164
+    },
+    {
+      "name": "West Farmington",
+      "primary_county": "Trumbull",
+      "population": 542
+    },
+    {
+      "name": "West Jefferson",
+      "primary_county": "Madison",
+      "population": 4137
+    },
+    {
+      "name": "West Lafayette",
+      "primary_county": "Coshocton",
+      "population": 2417
+    },
+    {
+      "name": "West Leipsic",
+      "primary_county": "Putnam",
+      "population": 226
+    },
+    {
+      "name": "West Liberty",
+      "primary_county": "Logan",
+      "population": 1770
+    },
+    {
+      "name": "West Manchester",
+      "primary_county": "Preble",
+      "population": 415
+    },
+    {
+      "name": "West Mansfield",
+      "primary_county": "Logan",
+      "population": 749
+    },
+    {
+      "name": "West Millgrove",
+      "primary_county": "Wood",
+      "population": 131
+    },
+    {
+      "name": "West Milton",
+      "primary_county": "Miami",
+      "population": 4697
+    },
+    {
+      "name": "West Rushville",
+      "primary_county": "Fairfield",
+      "population": 166
+    },
+    {
+      "name": "West Salem",
+      "primary_county": "Wayne",
+      "population": 1430
+    },
+    {
+      "name": "West Union †",
+      "primary_county": "Adams",
+      "population": 3004
+    },
+    {
+      "name": "West Unity",
+      "primary_county": "Williams",
+      "population": 1763
+    },
+    {
+      "name": "Westerville",
+      "primary_county": "Franklin",
+      "secondary_counties": [
+        "Delaware"
+      ],
+      "population": 39190
+    },
+    {
+      "name": "Westfield Center",
+      "primary_county": "Medina",
+      "population": 1184
+    },
+    {
+      "name": "Westlake",
+      "primary_county": "Cuyahoga",
+      "population": 34228
+    },
+    {
+      "name": "Weston",
+      "primary_county": "Wood",
+      "population": 1455
+    },
+    {
+      "name": "Wharton",
+      "primary_county": "Wyandot",
+      "population": 328
+    },
+    {
+      "name": "Whitehall",
+      "primary_county": "Franklin",
+      "population": 20127
+    },
+    {
+      "name": "Whitehouse",
+      "primary_county": "Lucas",
+      "population": 4990
+    },
+    {
+      "name": "Wickliffe",
+      "primary_county": "Lake",
+      "population": 12652
+    },
+    {
+      "name": "Wilkesville",
+      "primary_county": "Vinton",
+      "population": 116
+    },
+    {
+      "name": "Willard",
+      "primary_county": "Huron",
+      "population": 6197
+    },
+    {
+      "name": "Williamsburg",
+      "primary_county": "Clermont",
+      "population": 2570
+    },
+    {
+      "name": "Williamsport",
+      "primary_county": "Pickaway",
+      "population": 970
+    },
+    {
+      "name": "Willoughby",
+      "primary_county": "Lake",
+      "population": 23959
+    },
+    {
+      "name": "Willoughby Hills",
+      "primary_county": "Lake",
+      "population": 10019
+    },
+    {
+      "name": "Willowick",
+      "primary_county": "Lake",
+      "population": 14204
+    },
+    {
+      "name": "Willshire",
+      "primary_county": "Van Wert",
+      "population": 405
+    },
+    {
+      "name": "Wilmington †",
+      "primary_county": "Clinton",
+      "population": 12664
+    },
+    {
+      "name": "Wilmot",
+      "primary_county": "Stark",
+      "population": 282
+    },
+    {
+      "name": "Wilson",
+      "primary_county": "Monroe",
+      "secondary_counties": [
+        "Belmont"
+      ],
+      "population": 129
+    },
+    {
+      "name": "Winchester",
+      "primary_county": "Adams",
+      "population": 987
+    },
+    {
+      "name": "Windham",
+      "primary_county": "Portage",
+      "population": 1666
+    },
+    {
+      "name": "Wintersville",
+      "primary_county": "Jefferson",
+      "population": 3765
+    },
+    {
+      "name": "Woodlawn",
+      "primary_county": "Hamilton",
+      "population": 3916
+    },
+    {
+      "name": "Woodmere",
+      "primary_county": "Cuyahoga",
+      "population": 641
+    },
+    {
+      "name": "Woodsfield †",
+      "primary_county": "Monroe",
+      "population": 2210
+    },
+    {
+      "name": "Woodstock",
+      "primary_county": "Champaign",
+      "population": 287
+    },
+    {
+      "name": "Woodville",
+      "primary_county": "Sandusky",
+      "population": 2006
+    },
+    {
+      "name": "Wooster †",
+      "primary_county": "Wayne",
+      "population": 27232
+    },
+    {
+      "name": "Worthington",
+      "primary_county": "Franklin",
+      "population": 14786
+    },
+    {
+      "name": "Wren",
+      "primary_county": "Van Wert",
+      "population": 165
+    },
+    {
+      "name": "Wyoming",
+      "primary_county": "Hamilton",
+      "population": 8756
+    },
+    {
+      "name": "Xenia †",
+      "primary_county": "Greene",
+      "population": 25441
+    },
+    {
+      "name": "Yankee Lake",
+      "primary_county": "Trumbull",
+      "population": 75
+    },
+    {
+      "name": "Yellow Springs",
+      "primary_county": "Greene",
+      "population": 3697
+    },
+    {
+      "name": "Yorkshire",
+      "primary_county": "Darke",
+      "population": 95
+    },
+    {
+      "name": "Yorkville",
+      "primary_county": "Jefferson",
+      "secondary_counties": [
+        "Belmont"
+      ],
+      "population": 968
+    },
+    {
+      "name": "Youngstown †",
+      "primary_county": "Mahoning (seat)",
+      "secondary_counties": [
+        "Trumbull"
+      ],
+      "population": 60068
+    },
+    {
+      "name": "Zaleski",
+      "primary_county": "Vinton",
+      "population": 230
+    },
+    {
+      "name": "Zanesfield",
+      "primary_county": "Logan",
+      "population": 194
+    },
+    {
+      "name": "Zanesville †",
+      "primary_county": "Muskingum",
+      "population": 24765
+    },
+    {
+      "name": "Zoar",
+      "primary_county": "Tuscarawas",
+      "population": 172
+    }
+  ]
+}

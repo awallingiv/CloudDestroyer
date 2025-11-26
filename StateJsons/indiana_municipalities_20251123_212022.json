@@ -1,0 +1,3280 @@
+{
+  "metadata": {
+    "state": "Indiana",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Indiana",
+    "scraped_at": "2025-11-23 21:20:22",
+    "scraper_version": "2.0_generic",
+    "description": "Indiana municipalities scraped from Wikipedia",
+    "total_municipalities": 566,
+    "statistics": {
+      "total_found": 566,
+      "with_population": 0,
+      "with_counties": 566,
+      "unique_counties": 92,
+      "population_stats": {}
+    },
+    "counties": [
+      "Adams",
+      "Allen",
+      "Bartholomew",
+      "Benton",
+      "Blackford",
+      "Boone",
+      "Brown",
+      "Carroll",
+      "Cass",
+      "Clark",
+      "Clay",
+      "Clinton",
+      "Crawford",
+      "Daviess",
+      "DeKalb",
+      "Dearborn",
+      "Decatur",
+      "Delaware",
+      "Dubois",
+      "Elkhart",
+      "Fayette",
+      "Floyd",
+      "Fountain",
+      "Franklin",
+      "Fulton",
+      "Gibson",
+      "Grant",
+      "Greene",
+      "Hamilton",
+      "Hancock",
+      "Harrison",
+      "Hendricks",
+      "Henry",
+      "Howard",
+      "Huntington",
+      "Jackson",
+      "Jasper",
+      "Jay",
+      "Jefferson",
+      "Jennings",
+      "Johnson",
+      "Knox",
+      "Kosciusko",
+      "LaGrange",
+      "LaPorte",
+      "Lake",
+      "Lawrence",
+      "Madison",
+      "Marion",
+      "Marshall",
+      "Martin",
+      "Miami",
+      "Monroe",
+      "Montgomery",
+      "Morgan",
+      "Newton",
+      "Noble",
+      "Ohio",
+      "Orange",
+      "Owen",
+      "Parke",
+      "Perry",
+      "Pike",
+      "Porter",
+      "Posey",
+      "Pulaski",
+      "Putnam",
+      "Randolph",
+      "Ripley",
+      "Rush",
+      "Scott",
+      "Shelby",
+      "Spencer",
+      "St. Joseph",
+      "Starke",
+      "Steuben",
+      "Sullivan",
+      "Switzerland",
+      "Tippecanoe",
+      "Tipton",
+      "Union",
+      "Vanderburgh",
+      "Vermillion",
+      "Vigo",
+      "Wabash",
+      "Warren",
+      "Warrick",
+      "Washington",
+      "Wayne",
+      "Wells",
+      "White",
+      "Whitley"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "Advance",
+      "designation": "Town",
+      "primary_county": "Boone",
+      "area_sq_mi": 0.59
+    },
+    {
+      "name": "Akron",
+      "designation": "Town",
+      "primary_county": "Fulton",
+      "area_sq_mi": 0.46
+    },
+    {
+      "name": "Alamo",
+      "designation": "Town",
+      "primary_county": "Montgomery",
+      "area_sq_mi": 0.06
+    },
+    {
+      "name": "Albany",
+      "designation": "Town",
+      "primary_county": "Delaware",
+      "secondary_counties": [
+        "Randolph"
+      ],
+      "area_sq_mi": 1.99
+    },
+    {
+      "name": "Albion †",
+      "designation": "Town",
+      "primary_county": "Noble",
+      "area_sq_mi": 1.91
+    },
+    {
+      "name": "Alexandria",
+      "designation": "City",
+      "primary_county": "Madison",
+      "area_sq_mi": 3.02
+    },
+    {
+      "name": "Alfordsville",
+      "designation": "Town",
+      "primary_county": "Daviess",
+      "area_sq_mi": 0.07
+    },
+    {
+      "name": "Alton",
+      "designation": "Town",
+      "primary_county": "Crawford",
+      "area_sq_mi": 0.2
+    },
+    {
+      "name": "Altona",
+      "designation": "Town",
+      "primary_county": "DeKalb",
+      "area_sq_mi": 0.2
+    },
+    {
+      "name": "Ambia",
+      "designation": "Town",
+      "primary_county": "Benton",
+      "area_sq_mi": 0.15
+    },
+    {
+      "name": "Amboy",
+      "designation": "Town",
+      "primary_county": "Miami",
+      "area_sq_mi": 0.34
+    },
+    {
+      "name": "Amo",
+      "designation": "Town",
+      "primary_county": "Hendricks",
+      "area_sq_mi": 0.61
+    },
+    {
+      "name": "Anderson †",
+      "designation": "City",
+      "primary_county": "Madison",
+      "area_sq_mi": 42.77
+    },
+    {
+      "name": "Andrews",
+      "designation": "Town",
+      "primary_county": "Huntington",
+      "area_sq_mi": 0.64
+    },
+    {
+      "name": "Angola †",
+      "designation": "City",
+      "primary_county": "Steuben",
+      "area_sq_mi": 6.54
+    },
+    {
+      "name": "Arcadia",
+      "designation": "Town",
+      "primary_county": "Hamilton",
+      "area_sq_mi": 0.55
+    },
+    {
+      "name": "Argos",
+      "designation": "Town",
+      "primary_county": "Marshall",
+      "area_sq_mi": 1.3
+    },
+    {
+      "name": "Ashley",
+      "designation": "Town",
+      "primary_county": "DeKalb",
+      "secondary_counties": [
+        "Steuben"
+      ],
+      "area_sq_mi": 1.9
+    },
+    {
+      "name": "Atlanta",
+      "designation": "Town",
+      "primary_county": "Hamilton"
+    },
+    {
+      "name": "Attica",
+      "designation": "City",
+      "primary_county": "Fountain",
+      "area_sq_mi": 1.8
+    },
+    {
+      "name": "Auburn †",
+      "designation": "City",
+      "primary_county": "DeKalb",
+      "area_sq_mi": 8.08
+    },
+    {
+      "name": "Aurora",
+      "designation": "City",
+      "primary_county": "Dearborn",
+      "area_sq_mi": 3.54
+    },
+    {
+      "name": "Austin",
+      "designation": "City",
+      "primary_county": "Scott",
+      "area_sq_mi": 2.66
+    },
+    {
+      "name": "Avilla",
+      "designation": "Town",
+      "primary_county": "Noble",
+      "area_sq_mi": 1.71
+    },
+    {
+      "name": "Avon",
+      "designation": "Town",
+      "primary_county": "Hendricks",
+      "area_sq_mi": 19.41
+    },
+    {
+      "name": "Bainbridge",
+      "designation": "Town",
+      "primary_county": "Putnam",
+      "area_sq_mi": 0.4
+    },
+    {
+      "name": "Bargersville",
+      "designation": "Town",
+      "primary_county": "Johnson",
+      "area_sq_mi": 18.73
+    },
+    {
+      "name": "Batesville",
+      "designation": "City",
+      "primary_county": "Ripley",
+      "secondary_counties": [
+        "Franklin"
+      ],
+      "area_sq_mi": 6.17
+    },
+    {
+      "name": "Battle Ground",
+      "designation": "Town",
+      "primary_county": "Tippecanoe",
+      "area_sq_mi": 1.02
+    },
+    {
+      "name": "Bedford †",
+      "designation": "City",
+      "primary_county": "Lawrence",
+      "area_sq_mi": 12.21
+    },
+    {
+      "name": "Beech Grove",
+      "designation": "City",
+      "primary_county": "Marion",
+      "area_sq_mi": 4.47
+    },
+    {
+      "name": "Berne",
+      "designation": "City",
+      "primary_county": "Adams",
+      "area_sq_mi": 2.33
+    },
+    {
+      "name": "Bethany",
+      "designation": "Town",
+      "primary_county": "Morgan",
+      "area_sq_mi": 0.1
+    },
+    {
+      "name": "Beverly Shores",
+      "designation": "Town",
+      "primary_county": "Porter",
+      "area_sq_mi": 5.83
+    },
+    {
+      "name": "Bicknell",
+      "designation": "City",
+      "primary_county": "Knox",
+      "area_sq_mi": 1.35
+    },
+    {
+      "name": "Birdseye",
+      "designation": "Town",
+      "primary_county": "Dubois",
+      "area_sq_mi": 0.64
+    },
+    {
+      "name": "Bloomfield †",
+      "designation": "Town",
+      "primary_county": "Greene",
+      "area_sq_mi": 1.41
+    },
+    {
+      "name": "Bloomingdale",
+      "designation": "Town",
+      "primary_county": "Parke",
+      "area_sq_mi": 0.58
+    },
+    {
+      "name": "Bloomington †",
+      "designation": "City",
+      "primary_county": "Monroe",
+      "area_sq_mi": 23.16
+    },
+    {
+      "name": "Blountsville",
+      "designation": "Town",
+      "primary_county": "Henry",
+      "area_sq_mi": 0.11
+    },
+    {
+      "name": "Bluffton †",
+      "designation": "City",
+      "primary_county": "Wells",
+      "area_sq_mi": 8.52
+    },
+    {
+      "name": "Boonville †",
+      "designation": "City",
+      "primary_county": "Warrick",
+      "area_sq_mi": 5.77
+    },
+    {
+      "name": "Borden",
+      "designation": "Town",
+      "primary_county": "Clark",
+      "area_sq_mi": 1.39
+    },
+    {
+      "name": "Boston",
+      "designation": "Town",
+      "primary_county": "Wayne",
+      "area_sq_mi": 0.22
+    },
+    {
+      "name": "Boswell",
+      "designation": "Town",
+      "primary_county": "Benton",
+      "area_sq_mi": 0.88
+    },
+    {
+      "name": "Bourbon",
+      "designation": "Town",
+      "primary_county": "Marshall",
+      "area_sq_mi": 1.16
+    },
+    {
+      "name": "Brazil †",
+      "designation": "City",
+      "primary_county": "Clay",
+      "area_sq_mi": 3.72
+    },
+    {
+      "name": "Bremen",
+      "designation": "Town",
+      "primary_county": "Marshall",
+      "area_sq_mi": 2.84
+    },
+    {
+      "name": "Bristol",
+      "designation": "Town",
+      "primary_county": "Elkhart",
+      "area_sq_mi": 4.16
+    },
+    {
+      "name": "Brook",
+      "designation": "Town",
+      "primary_county": "Newton",
+      "area_sq_mi": 0.69
+    },
+    {
+      "name": "Brooklyn",
+      "designation": "Town",
+      "primary_county": "Morgan",
+      "area_sq_mi": 1.0
+    },
+    {
+      "name": "Brooksburg",
+      "designation": "Town",
+      "primary_county": "Jefferson",
+      "area_sq_mi": 0.11
+    },
+    {
+      "name": "Brookston",
+      "designation": "Town",
+      "primary_county": "White",
+      "area_sq_mi": 0.66
+    },
+    {
+      "name": "Brookville †",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 1.45
+    },
+    {
+      "name": "Brownsburg",
+      "designation": "Town",
+      "primary_county": "Hendricks",
+      "area_sq_mi": 16.35
+    },
+    {
+      "name": "Brownstown †",
+      "designation": "Town",
+      "primary_county": "Jackson",
+      "area_sq_mi": 1.62
+    },
+    {
+      "name": "Bruceville",
+      "designation": "Town",
+      "primary_county": "Knox",
+      "area_sq_mi": 0.34
+    },
+    {
+      "name": "Bryant",
+      "designation": "Town",
+      "primary_county": "Jay",
+      "area_sq_mi": 0.32
+    },
+    {
+      "name": "Bunker Hill",
+      "designation": "Town",
+      "primary_county": "Miami",
+      "area_sq_mi": 0.39
+    },
+    {
+      "name": "Burket",
+      "designation": "Town",
+      "primary_county": "Kosciusko",
+      "area_sq_mi": 0.07
+    },
+    {
+      "name": "Burlington",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "area_sq_mi": 0.61
+    },
+    {
+      "name": "Burnettsville",
+      "designation": "Town",
+      "primary_county": "White",
+      "area_sq_mi": 0.75
+    },
+    {
+      "name": "Burns Harbor",
+      "designation": "Town",
+      "primary_county": "Porter",
+      "area_sq_mi": 6.44
+    },
+    {
+      "name": "Butler",
+      "designation": "City",
+      "primary_county": "DeKalb",
+      "area_sq_mi": 1.97
+    },
+    {
+      "name": "Cadiz",
+      "designation": "Town",
+      "primary_county": "Henry",
+      "area_sq_mi": 0.14
+    },
+    {
+      "name": "Cambridge City",
+      "designation": "Town",
+      "primary_county": "Wayne",
+      "area_sq_mi": 1.02
+    },
+    {
+      "name": "Camden",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "area_sq_mi": 0.26
+    },
+    {
+      "name": "Campbellsburg",
+      "designation": "Town",
+      "primary_county": "Washington",
+      "area_sq_mi": 0.99
+    },
+    {
+      "name": "Cannelburg",
+      "designation": "Town",
+      "primary_county": "Daviess",
+      "area_sq_mi": 0.21
+    },
+    {
+      "name": "Cannelton",
+      "designation": "City",
+      "primary_county": "Perry",
+      "area_sq_mi": 1.57
+    },
+    {
+      "name": "Carbon",
+      "designation": "Town",
+      "primary_county": "Clay",
+      "area_sq_mi": 0.15
+    },
+    {
+      "name": "Carlisle",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "area_sq_mi": 0.52
+    },
+    {
+      "name": "Carmel",
+      "designation": "City",
+      "primary_county": "Hamilton",
+      "area_sq_mi": 47.46
+    },
+    {
+      "name": "Carthage",
+      "designation": "Town",
+      "primary_county": "Rush",
+      "area_sq_mi": 0.56
+    },
+    {
+      "name": "Cayuga",
+      "designation": "Town",
+      "primary_county": "Vermillion",
+      "area_sq_mi": 1.01
+    },
+    {
+      "name": "Cedar Grove",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "area_sq_mi": 0.16
+    },
+    {
+      "name": "Cedar Lake",
+      "designation": "Town",
+      "primary_county": "Lake",
+      "area_sq_mi": 10.17
+    },
+    {
+      "name": "Center Point",
+      "designation": "Town",
+      "primary_county": "Clay",
+      "area_sq_mi": 0.76
+    },
+    {
+      "name": "Centerville",
+      "designation": "Town",
+      "primary_county": "Wayne",
+      "area_sq_mi": 3.52
+    },
+    {
+      "name": "Chalmers",
+      "designation": "Town",
+      "primary_county": "White",
+      "area_sq_mi": 0.3
+    },
+    {
+      "name": "Chandler",
+      "designation": "Town",
+      "primary_county": "Warrick",
+      "area_sq_mi": 2.91
+    },
+    {
+      "name": "Charlestown",
+      "designation": "City",
+      "primary_county": "Clark",
+      "area_sq_mi": 11.49
+    },
+    {
+      "name": "Chesterfield",
+      "designation": "Town",
+      "primary_county": "Madison",
+      "secondary_counties": [
+        "Delaware"
+      ],
+      "area_sq_mi": 1.37
+    },
+    {
+      "name": "Chesterton",
+      "designation": "Town",
+      "primary_county": "Porter",
+      "area_sq_mi": 9.49
+    },
+    {
+      "name": "Chrisney",
+      "designation": "Town",
+      "primary_county": "Spencer",
+      "area_sq_mi": 0.73
+    },
+    {
+      "name": "Churubusco",
+      "designation": "Town",
+      "primary_county": "Whitley",
+      "area_sq_mi": 1.05
+    },
+    {
+      "name": "Cicero",
+      "designation": "Town",
+      "primary_county": "Hamilton",
+      "area_sq_mi": 2.04
+    },
+    {
+      "name": "Clarks Hill",
+      "designation": "Town",
+      "primary_county": "Tippecanoe",
+      "area_sq_mi": 0.27
+    },
+    {
+      "name": "Clarksville",
+      "designation": "Town",
+      "primary_county": "Clark",
+      "area_sq_mi": 10.23
+    },
+    {
+      "name": "Clay City",
+      "designation": "Town",
+      "primary_county": "Clay",
+      "area_sq_mi": 0.54
+    },
+    {
+      "name": "Claypool",
+      "designation": "Town",
+      "primary_county": "Kosciusko",
+      "area_sq_mi": 0.25
+    },
+    {
+      "name": "Clayton",
+      "designation": "Town",
+      "primary_county": "Hendricks"
+    },
+    {
+      "name": "Clear Lake",
+      "designation": "Town",
+      "primary_county": "Steuben",
+      "area_sq_mi": 2.46
+    },
+    {
+      "name": "Clermont",
+      "designation": "Town",
+      "primary_county": "Marion",
+      "area_sq_mi": 0.67
+    },
+    {
+      "name": "Clifford",
+      "designation": "Town",
+      "primary_county": "Bartholomew",
+      "area_sq_mi": 0.09
+    },
+    {
+      "name": "Clinton",
+      "designation": "City",
+      "primary_county": "Vermillion",
+      "area_sq_mi": 2.28
+    },
+    {
+      "name": "Cloverdale",
+      "designation": "Town",
+      "primary_county": "Putnam",
+      "area_sq_mi": 3.49
+    },
+    {
+      "name": "Coatesville",
+      "designation": "Town",
+      "primary_county": "Hendricks",
+      "area_sq_mi": 0.67
+    },
+    {
+      "name": "Colfax",
+      "designation": "Town",
+      "primary_county": "Clinton",
+      "area_sq_mi": 0.37
+    },
+    {
+      "name": "Columbia City †",
+      "designation": "City",
+      "primary_county": "Whitley",
+      "area_sq_mi": 5.47
+    },
+    {
+      "name": "Columbus †",
+      "designation": "City",
+      "primary_county": "Bartholomew",
+      "area_sq_mi": 28.41
+    },
+    {
+      "name": "Connersville †",
+      "designation": "City",
+      "primary_county": "Fayette",
+      "area_sq_mi": 7.7
+    },
+    {
+      "name": "Converse",
+      "designation": "Town",
+      "primary_county": "Miami",
+      "secondary_counties": [
+        "Grant"
+      ],
+      "area_sq_mi": 0.99
+    },
+    {
+      "name": "Corunna",
+      "designation": "Town",
+      "primary_county": "DeKalb",
+      "area_sq_mi": 0.18
+    },
+    {
+      "name": "Corydon †",
+      "designation": "Town",
+      "primary_county": "Harrison",
+      "area_sq_mi": 1.64
+    },
+    {
+      "name": "Country Club Heights",
+      "designation": "Town",
+      "primary_county": "Madison",
+      "area_sq_mi": 0.29
+    },
+    {
+      "name": "Covington †",
+      "designation": "City",
+      "primary_county": "Fountain",
+      "area_sq_mi": 1.29
+    },
+    {
+      "name": "Crandall",
+      "designation": "Town",
+      "primary_county": "Harrison",
+      "area_sq_mi": 0.1
+    },
+    {
+      "name": "Crane",
+      "designation": "Town",
+      "primary_county": "Martin",
+      "area_sq_mi": 0.12
+    },
+    {
+      "name": "Crawfordsville †",
+      "designation": "City",
+      "primary_county": "Montgomery",
+      "area_sq_mi": 9.7
+    },
+    {
+      "name": "Cromwell",
+      "designation": "Town",
+      "primary_county": "Noble",
+      "area_sq_mi": 0.29
+    },
+    {
+      "name": "Crothersville",
+      "designation": "Town",
+      "primary_county": "Jackson",
+      "area_sq_mi": 1.16
+    },
+    {
+      "name": "Crown Point †",
+      "designation": "City",
+      "primary_county": "Lake",
+      "area_sq_mi": 17.84
+    },
+    {
+      "name": "Crows Nest",
+      "designation": "Town",
+      "primary_county": "Marion",
+      "area_sq_mi": 0.43
+    },
+    {
+      "name": "Culver",
+      "designation": "Town",
+      "primary_county": "Marshall",
+      "area_sq_mi": 1.16
+    },
+    {
+      "name": "Cumberland",
+      "designation": "Town",
+      "primary_county": "Hancock",
+      "secondary_counties": [
+        "Marion"
+      ],
+      "area_sq_mi": 2.82
+    },
+    {
+      "name": "Cynthiana",
+      "designation": "Town",
+      "primary_county": "Posey",
+      "area_sq_mi": 0.4
+    },
+    {
+      "name": "Dale",
+      "designation": "Town",
+      "primary_county": "Spencer",
+      "area_sq_mi": 2.43
+    },
+    {
+      "name": "Daleville",
+      "designation": "Town",
+      "primary_county": "Delaware",
+      "area_sq_mi": 2.15
+    },
+    {
+      "name": "Dana",
+      "designation": "Town",
+      "primary_county": "Vermillion",
+      "area_sq_mi": 0.29
+    },
+    {
+      "name": "Danville †",
+      "designation": "Town",
+      "primary_county": "Hendricks",
+      "area_sq_mi": 8.8
+    },
+    {
+      "name": "Darlington",
+      "designation": "Town",
+      "primary_county": "Montgomery",
+      "area_sq_mi": 0.34
+    },
+    {
+      "name": "Darmstadt",
+      "designation": "Town",
+      "primary_county": "Vanderburgh"
+    },
+    {
+      "name": "Dayton",
+      "designation": "Town",
+      "primary_county": "Tippecanoe"
+    },
+    {
+      "name": "Decatur †",
+      "designation": "City",
+      "primary_county": "Adams",
+      "area_sq_mi": 6.11
+    },
+    {
+      "name": "Decker",
+      "designation": "Town",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Delphi †",
+      "designation": "City",
+      "primary_county": "Carroll",
+      "area_sq_mi": 2.71
+    },
+    {
+      "name": "DeMotte",
+      "designation": "Town",
+      "primary_county": "Jasper",
+      "area_sq_mi": 3.59
+    },
+    {
+      "name": "Denver",
+      "designation": "Town",
+      "primary_county": "Miami"
+    },
+    {
+      "name": "Dillsboro",
+      "designation": "Town",
+      "primary_county": "Dearborn"
+    },
+    {
+      "name": "Dublin",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Dugger",
+      "designation": "Town",
+      "primary_county": "Sullivan"
+    },
+    {
+      "name": "Dune Acres",
+      "designation": "Town",
+      "primary_county": "Porter"
+    },
+    {
+      "name": "Dunkirk",
+      "designation": "City",
+      "primary_county": "Blackford",
+      "secondary_counties": [
+        "Jay"
+      ],
+      "area_sq_mi": 1.19
+    },
+    {
+      "name": "Dunreith",
+      "designation": "Town",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Dupont",
+      "designation": "Town",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Dyer",
+      "designation": "Town",
+      "primary_county": "Lake",
+      "area_sq_mi": 6.18
+    },
+    {
+      "name": "Earl Park",
+      "designation": "Town",
+      "primary_county": "Benton"
+    },
+    {
+      "name": "East Chicago",
+      "designation": "City",
+      "primary_county": "Lake",
+      "area_sq_mi": 14.09
+    },
+    {
+      "name": "East Germantown",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Eaton",
+      "designation": "Town",
+      "primary_county": "Delaware"
+    },
+    {
+      "name": "Economy",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Edgewood",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Edinburgh",
+      "designation": "Town",
+      "primary_county": "Johnson",
+      "secondary_counties": [
+        "Bartholomew",
+        "Shelby"
+      ],
+      "area_sq_mi": 3.11
+    },
+    {
+      "name": "Edwardsport",
+      "designation": "Town",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Elberfeld",
+      "designation": "Town",
+      "primary_county": "Warrick"
+    },
+    {
+      "name": "Elizabeth",
+      "designation": "Town",
+      "primary_county": "Harrison"
+    },
+    {
+      "name": "Elizabethtown",
+      "designation": "Town",
+      "primary_county": "Bartholomew"
+    },
+    {
+      "name": "Elkhart",
+      "designation": "City",
+      "primary_county": "Elkhart",
+      "area_sq_mi": 27.26
+    },
+    {
+      "name": "Ellettsville",
+      "designation": "Town",
+      "primary_county": "Monroe",
+      "area_sq_mi": 5.17
+    },
+    {
+      "name": "Elnora",
+      "designation": "Town",
+      "primary_county": "Daviess"
+    },
+    {
+      "name": "Elwood",
+      "designation": "City",
+      "primary_county": "Madison",
+      "secondary_counties": [
+        "Tipton"
+      ],
+      "area_sq_mi": 3.97
+    },
+    {
+      "name": "English †",
+      "designation": "Town",
+      "primary_county": "Crawford"
+    },
+    {
+      "name": "Etna Green",
+      "designation": "Town",
+      "primary_county": "Kosciusko"
+    },
+    {
+      "name": "Evansville †",
+      "designation": "City",
+      "primary_county": "Vanderburgh",
+      "area_sq_mi": 44.15
+    },
+    {
+      "name": "Fairland",
+      "designation": "Town",
+      "primary_county": "Shelby"
+    },
+    {
+      "name": "Fairmount",
+      "designation": "Town",
+      "primary_county": "Grant",
+      "area_sq_mi": 1.59
+    },
+    {
+      "name": "Fairview Park",
+      "designation": "Town",
+      "primary_county": "Vermillion"
+    },
+    {
+      "name": "Farmersburg",
+      "designation": "Town",
+      "primary_county": "Sullivan"
+    },
+    {
+      "name": "Farmland",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Ferdinand",
+      "designation": "Town",
+      "primary_county": "Dubois",
+      "area_sq_mi": 2.3
+    },
+    {
+      "name": "Fillmore",
+      "designation": "Town",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "Fishers",
+      "designation": "City",
+      "primary_county": "Hamilton",
+      "area_sq_mi": 33.59
+    },
+    {
+      "name": "Flora",
+      "designation": "Town",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Fort Branch",
+      "designation": "Town",
+      "primary_county": "Gibson",
+      "area_sq_mi": 1.09
+    },
+    {
+      "name": "Fort Wayne †",
+      "designation": "City",
+      "primary_county": "Allen",
+      "area_sq_mi": 110.62
+    },
+    {
+      "name": "Fortville",
+      "designation": "Town",
+      "primary_county": "Hancock",
+      "area_sq_mi": 3.45
+    },
+    {
+      "name": "Fountain City",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Fowler †",
+      "designation": "Town",
+      "primary_county": "Benton",
+      "area_sq_mi": 1.41
+    },
+    {
+      "name": "Fowlerton",
+      "designation": "Town",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Francesville",
+      "designation": "Town",
+      "primary_county": "Pulaski"
+    },
+    {
+      "name": "Francisco",
+      "designation": "Town",
+      "primary_county": "Gibson"
+    },
+    {
+      "name": "Frankfort †",
+      "designation": "City",
+      "primary_county": "Clinton",
+      "area_sq_mi": 8.05
+    },
+    {
+      "name": "Franklin †",
+      "designation": "City",
+      "primary_county": "Johnson",
+      "area_sq_mi": 14.76
+    },
+    {
+      "name": "Frankton",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Fremont",
+      "designation": "Town",
+      "primary_county": "Steuben",
+      "area_sq_mi": 1.29
+    },
+    {
+      "name": "French Lick",
+      "designation": "Town",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Fulton",
+      "designation": "Town",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Galveston",
+      "designation": "Town",
+      "primary_county": "Cass"
+    },
+    {
+      "name": "Garrett",
+      "designation": "City",
+      "primary_county": "DeKalb",
+      "area_sq_mi": 4.17
+    },
+    {
+      "name": "Gary",
+      "designation": "City",
+      "primary_county": "Lake",
+      "area_sq_mi": 49.87
+    },
+    {
+      "name": "Gas City",
+      "designation": "City",
+      "primary_county": "Grant",
+      "area_sq_mi": 5.03
+    },
+    {
+      "name": "Gaston",
+      "designation": "Town",
+      "primary_county": "Delaware"
+    },
+    {
+      "name": "Geneva",
+      "designation": "Town",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Gentryville",
+      "designation": "Town",
+      "primary_county": "Spencer"
+    },
+    {
+      "name": "Georgetown",
+      "designation": "Town",
+      "primary_county": "Floyd",
+      "area_sq_mi": 2.18
+    },
+    {
+      "name": "Glenwood",
+      "designation": "Town",
+      "primary_county": "Rush",
+      "secondary_counties": [
+        "Fayette"
+      ]
+    },
+    {
+      "name": "Goodland",
+      "designation": "Town",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "Goshen †",
+      "designation": "City",
+      "primary_county": "Elkhart",
+      "area_sq_mi": 17.03
+    },
+    {
+      "name": "Gosport",
+      "designation": "Town",
+      "primary_county": "Owen"
+    },
+    {
+      "name": "Grabill",
+      "designation": "Town",
+      "primary_county": "Allen"
+    },
+    {
+      "name": "Grandview",
+      "designation": "Town",
+      "primary_county": "Spencer"
+    },
+    {
+      "name": "Greencastle †",
+      "designation": "City",
+      "primary_county": "Putnam",
+      "area_sq_mi": 5.26
+    },
+    {
+      "name": "Greendale",
+      "designation": "City",
+      "primary_county": "Dearborn",
+      "area_sq_mi": 5.73
+    },
+    {
+      "name": "Greenfield †",
+      "designation": "City",
+      "primary_county": "Hancock",
+      "area_sq_mi": 13.71
+    },
+    {
+      "name": "Greens Fork",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Greensboro",
+      "designation": "Town",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Greensburg †",
+      "designation": "City",
+      "primary_county": "Decatur",
+      "area_sq_mi": 9.41
+    },
+    {
+      "name": "Greentown",
+      "designation": "Town",
+      "primary_county": "Howard",
+      "area_sq_mi": 1.29
+    },
+    {
+      "name": "Greenville",
+      "designation": "Town",
+      "primary_county": "Floyd"
+    },
+    {
+      "name": "Greenwood",
+      "designation": "City",
+      "primary_county": "Johnson",
+      "area_sq_mi": 27.91
+    },
+    {
+      "name": "Griffin",
+      "designation": "Town",
+      "primary_county": "Posey"
+    },
+    {
+      "name": "Griffith",
+      "designation": "Town",
+      "primary_county": "Lake",
+      "area_sq_mi": 7.77
+    },
+    {
+      "name": "Hagerstown",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Hamilton",
+      "designation": "Town",
+      "primary_county": "Steuben",
+      "secondary_counties": [
+        "DeKalb"
+      ]
+    },
+    {
+      "name": "Hamlet",
+      "designation": "Town",
+      "primary_county": "Starke"
+    },
+    {
+      "name": "Hammond",
+      "designation": "City",
+      "primary_county": "Lake",
+      "area_sq_mi": 22.78
+    },
+    {
+      "name": "Hanover",
+      "designation": "Town",
+      "primary_county": "Jefferson",
+      "area_sq_mi": 2.22
+    },
+    {
+      "name": "Harmony",
+      "designation": "Town",
+      "primary_county": "Clay"
+    },
+    {
+      "name": "Hartford City †",
+      "designation": "City",
+      "primary_county": "Blackford",
+      "area_sq_mi": 3.9
+    },
+    {
+      "name": "Hartsville",
+      "designation": "Town",
+      "primary_county": "Bartholomew"
+    },
+    {
+      "name": "Haubstadt",
+      "designation": "Town",
+      "primary_county": "Gibson"
+    },
+    {
+      "name": "Hazleton",
+      "designation": "Town",
+      "primary_county": "Gibson"
+    },
+    {
+      "name": "Hebron",
+      "designation": "Town",
+      "primary_county": "Porter",
+      "area_sq_mi": 1.93
+    },
+    {
+      "name": "Highland",
+      "designation": "Town",
+      "primary_county": "Lake",
+      "area_sq_mi": 6.97
+    },
+    {
+      "name": "Hillsboro",
+      "designation": "Town",
+      "primary_county": "Fountain"
+    },
+    {
+      "name": "Hobart",
+      "designation": "City",
+      "primary_county": "Lake",
+      "area_sq_mi": 26.22
+    },
+    {
+      "name": "Holland",
+      "designation": "Town",
+      "primary_county": "Dubois"
+    },
+    {
+      "name": "Holton",
+      "designation": "Town",
+      "primary_county": "Ripley"
+    },
+    {
+      "name": "Homecroft",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Hope",
+      "designation": "Town",
+      "primary_county": "Bartholomew"
+    },
+    {
+      "name": "Hudson",
+      "designation": "Town",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Huntertown",
+      "designation": "Town",
+      "primary_county": "Allen",
+      "area_sq_mi": 5.34
+    },
+    {
+      "name": "Huntingburg",
+      "designation": "City",
+      "primary_county": "Dubois",
+      "area_sq_mi": 5.27
+    },
+    {
+      "name": "Huntington †",
+      "designation": "City",
+      "primary_county": "Huntington",
+      "area_sq_mi": 9.45
+    },
+    {
+      "name": "Hymera",
+      "designation": "Town",
+      "primary_county": "Sullivan"
+    },
+    {
+      "name": "Indian Village",
+      "designation": "Town",
+      "primary_county": "St. Joseph"
+    },
+    {
+      "name": "Indianapolis ‡",
+      "designation": "City",
+      "primary_county": "Marion",
+      "area_sq_mi": 361.51
+    },
+    {
+      "name": "Ingalls",
+      "designation": "Town",
+      "primary_county": "Madison",
+      "area_sq_mi": 3.01
+    },
+    {
+      "name": "Jamestown",
+      "designation": "Town",
+      "primary_county": "Boone",
+      "secondary_counties": [
+        "Hendricks"
+      ]
+    },
+    {
+      "name": "Jasonville",
+      "designation": "City",
+      "primary_county": "Greene",
+      "area_sq_mi": 1.27
+    },
+    {
+      "name": "Jasper †",
+      "designation": "City",
+      "primary_county": "Dubois",
+      "area_sq_mi": 13.34
+    },
+    {
+      "name": "Jeffersonville †",
+      "designation": "City",
+      "primary_county": "Clark",
+      "area_sq_mi": 34.38
+    },
+    {
+      "name": "Jonesboro",
+      "designation": "City",
+      "primary_county": "Grant",
+      "area_sq_mi": 0.89
+    },
+    {
+      "name": "Jonesville",
+      "designation": "Town",
+      "primary_county": "Bartholomew"
+    },
+    {
+      "name": "Kempton",
+      "designation": "Town",
+      "primary_county": "Tipton"
+    },
+    {
+      "name": "Kendallville",
+      "designation": "City",
+      "primary_county": "Noble",
+      "area_sq_mi": 6.34
+    },
+    {
+      "name": "Kennard",
+      "designation": "Town",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Kentland †",
+      "designation": "Town",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "Kewanna",
+      "designation": "Town",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Kingman",
+      "designation": "Town",
+      "primary_county": "Fountain"
+    },
+    {
+      "name": "Kingsbury",
+      "designation": "Town",
+      "primary_county": "LaPorte"
+    },
+    {
+      "name": "Kingsford Heights",
+      "designation": "Town",
+      "primary_county": "LaPorte"
+    },
+    {
+      "name": "Kirklin",
+      "designation": "Town",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Knightstown",
+      "designation": "Town",
+      "primary_county": "Henry",
+      "area_sq_mi": 1.03
+    },
+    {
+      "name": "Knightsville",
+      "designation": "Town",
+      "primary_county": "Clay"
+    },
+    {
+      "name": "Knox †",
+      "designation": "City",
+      "primary_county": "Starke",
+      "area_sq_mi": 3.96
+    },
+    {
+      "name": "Kokomo †",
+      "designation": "City",
+      "primary_county": "Howard",
+      "area_sq_mi": 36.76
+    },
+    {
+      "name": "Kouts",
+      "designation": "Town",
+      "primary_county": "Porter"
+    },
+    {
+      "name": "La Crosse",
+      "designation": "Town",
+      "primary_county": "LaPorte"
+    },
+    {
+      "name": "La Fontaine",
+      "designation": "Town",
+      "primary_county": "Wabash"
+    },
+    {
+      "name": "La Paz",
+      "designation": "Town",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "La Porte †",
+      "designation": "City",
+      "primary_county": "LaPorte",
+      "area_sq_mi": 12.68
+    },
+    {
+      "name": "Laconia",
+      "designation": "Town",
+      "primary_county": "Harrison"
+    },
+    {
+      "name": "Ladoga",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Lafayette †",
+      "designation": "City",
+      "primary_county": "Tippecanoe",
+      "area_sq_mi": 27.74
+    },
+    {
+      "name": "LaGrange †",
+      "designation": "Town",
+      "primary_county": "LaGrange",
+      "area_sq_mi": 1.79
+    },
+    {
+      "name": "Lagro",
+      "designation": "Town",
+      "primary_county": "Wabash"
+    },
+    {
+      "name": "Lake Station",
+      "designation": "City",
+      "primary_county": "Lake",
+      "area_sq_mi": 8.42
+    },
+    {
+      "name": "Lakeville",
+      "designation": "Town",
+      "primary_county": "St. Joseph"
+    },
+    {
+      "name": "Lanesville",
+      "designation": "Town",
+      "primary_county": "Harrison"
+    },
+    {
+      "name": "Lapel",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Larwill",
+      "designation": "Town",
+      "primary_county": "Whitley"
+    },
+    {
+      "name": "Laurel",
+      "designation": "Town",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Lawrence",
+      "designation": "City",
+      "primary_county": "Marion",
+      "area_sq_mi": 20.25
+    },
+    {
+      "name": "Lawrenceburg †",
+      "designation": "City",
+      "primary_county": "Dearborn",
+      "area_sq_mi": 5.55
+    },
+    {
+      "name": "Leavenworth",
+      "designation": "Town",
+      "primary_county": "Crawford"
+    },
+    {
+      "name": "Lebanon †",
+      "designation": "City",
+      "primary_county": "Boone",
+      "area_sq_mi": 17.32
+    },
+    {
+      "name": "Leesburg",
+      "designation": "Town",
+      "primary_county": "Kosciusko"
+    },
+    {
+      "name": "Leo-Cedarville",
+      "designation": "Town",
+      "primary_county": "Allen",
+      "area_sq_mi": 3.72
+    },
+    {
+      "name": "Lewisville",
+      "designation": "Town",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Liberty †",
+      "designation": "Town",
+      "primary_county": "Union",
+      "area_sq_mi": 0.86
+    },
+    {
+      "name": "Ligonier",
+      "designation": "City",
+      "primary_county": "Noble",
+      "area_sq_mi": 2.8
+    },
+    {
+      "name": "Linden",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Linton",
+      "designation": "City",
+      "primary_county": "Greene",
+      "area_sq_mi": 3.2
+    },
+    {
+      "name": "Little York",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Livonia",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Lizton",
+      "designation": "Town",
+      "primary_county": "Hendricks"
+    },
+    {
+      "name": "Logansport †",
+      "designation": "City",
+      "primary_county": "Cass",
+      "area_sq_mi": 10.72
+    },
+    {
+      "name": "Long Beach",
+      "designation": "Town",
+      "primary_county": "LaPorte"
+    },
+    {
+      "name": "Loogootee",
+      "designation": "City",
+      "primary_county": "Martin",
+      "area_sq_mi": 1.57
+    },
+    {
+      "name": "Losantville",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Lowell",
+      "designation": "Town",
+      "primary_county": "Lake",
+      "area_sq_mi": 6.58
+    },
+    {
+      "name": "Lynn",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Lynnville",
+      "designation": "Town",
+      "primary_county": "Warrick"
+    },
+    {
+      "name": "Lyons",
+      "designation": "Town",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Mackey",
+      "designation": "Town",
+      "primary_county": "Gibson"
+    },
+    {
+      "name": "Macy",
+      "designation": "Town",
+      "primary_county": "Miami"
+    },
+    {
+      "name": "Madison †",
+      "designation": "City",
+      "primary_county": "Jefferson",
+      "area_sq_mi": 8.92
+    },
+    {
+      "name": "Marengo",
+      "designation": "Town",
+      "primary_county": "Crawford"
+    },
+    {
+      "name": "Marion †",
+      "designation": "City",
+      "primary_county": "Grant",
+      "area_sq_mi": 15.58
+    },
+    {
+      "name": "Markle",
+      "designation": "Town",
+      "primary_county": "Huntington",
+      "secondary_counties": [
+        "Wells"
+      ]
+    },
+    {
+      "name": "Markleville",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Marshall",
+      "designation": "Town",
+      "primary_county": "Parke"
+    },
+    {
+      "name": "Martinsville †",
+      "designation": "City",
+      "primary_county": "Morgan",
+      "area_sq_mi": 9.27
+    },
+    {
+      "name": "Matthews",
+      "designation": "Town",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Mauckport",
+      "designation": "Town",
+      "primary_county": "Harrison"
+    },
+    {
+      "name": "McCordsville",
+      "designation": "Town",
+      "primary_county": "Hancock",
+      "area_sq_mi": 7.2
+    },
+    {
+      "name": "Mecca",
+      "designation": "Town",
+      "primary_county": "Parke"
+    },
+    {
+      "name": "Medaryville",
+      "designation": "Town",
+      "primary_county": "Pulaski"
+    },
+    {
+      "name": "Medora",
+      "designation": "Town",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Mellott",
+      "designation": "Town",
+      "primary_county": "Fountain"
+    },
+    {
+      "name": "Mentone",
+      "designation": "Town",
+      "primary_county": "Kosciusko"
+    },
+    {
+      "name": "Meridian Hills",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Merom",
+      "designation": "Town",
+      "primary_county": "Sullivan"
+    },
+    {
+      "name": "Merrillville",
+      "designation": "Town",
+      "primary_county": "Lake",
+      "area_sq_mi": 33.29
+    },
+    {
+      "name": "Michiana Shores",
+      "designation": "Town",
+      "primary_county": "LaPorte"
+    },
+    {
+      "name": "Michigan City",
+      "designation": "City",
+      "primary_county": "LaPorte",
+      "area_sq_mi": 22.93
+    },
+    {
+      "name": "Michigantown",
+      "designation": "Town",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Middlebury",
+      "designation": "Town",
+      "primary_county": "Elkhart",
+      "area_sq_mi": 4.33
+    },
+    {
+      "name": "Middletown",
+      "designation": "Town",
+      "primary_county": "Henry",
+      "area_sq_mi": 1.16
+    },
+    {
+      "name": "Milan",
+      "designation": "Town",
+      "primary_county": "Ripley"
+    },
+    {
+      "name": "Milford",
+      "designation": "Town",
+      "primary_county": "Kosciusko"
+    },
+    {
+      "name": "Millersburg",
+      "designation": "Town",
+      "primary_county": "Elkhart"
+    },
+    {
+      "name": "Millhousen",
+      "designation": "Town",
+      "primary_county": "Decatur"
+    },
+    {
+      "name": "Milltown",
+      "designation": "Town",
+      "primary_county": "Crawford",
+      "secondary_counties": [
+        "Harrison"
+      ]
+    },
+    {
+      "name": "Milton",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Mishawaka",
+      "designation": "City",
+      "primary_county": "St. Joseph",
+      "area_sq_mi": 17.93
+    },
+    {
+      "name": "Mitchell",
+      "designation": "City",
+      "primary_county": "Lawrence",
+      "area_sq_mi": 3.6
+    },
+    {
+      "name": "Modoc",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Monon",
+      "designation": "Town",
+      "primary_county": "White"
+    },
+    {
+      "name": "Monroe",
+      "designation": "Town",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Monroe City",
+      "designation": "Town",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Monroeville",
+      "designation": "Town",
+      "primary_county": "Allen"
+    },
+    {
+      "name": "Monrovia",
+      "designation": "Town",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Monterey",
+      "designation": "Town",
+      "primary_county": "Pulaski"
+    },
+    {
+      "name": "Montezuma",
+      "designation": "Town",
+      "primary_county": "Parke"
+    },
+    {
+      "name": "Montgomery",
+      "designation": "Town",
+      "primary_county": "Daviess"
+    },
+    {
+      "name": "Monticello †",
+      "designation": "City",
+      "primary_county": "White",
+      "area_sq_mi": 3.68
+    },
+    {
+      "name": "Montpelier",
+      "designation": "City",
+      "primary_county": "Blackford",
+      "area_sq_mi": 1.5
+    },
+    {
+      "name": "Mooreland",
+      "designation": "Town",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Moores Hill",
+      "designation": "Town",
+      "primary_county": "Dearborn"
+    },
+    {
+      "name": "Mooresville",
+      "designation": "Town",
+      "primary_county": "Morgan",
+      "area_sq_mi": 6.76
+    },
+    {
+      "name": "Morgantown",
+      "designation": "Town",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Morocco",
+      "designation": "Town",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "Morristown",
+      "designation": "Town",
+      "primary_county": "Shelby"
+    },
+    {
+      "name": "Mount Auburn",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Mount Ayr",
+      "designation": "Town",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "Mount Carmel",
+      "designation": "Town",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Mount Etna",
+      "designation": "Town",
+      "primary_county": "Huntington"
+    },
+    {
+      "name": "Mount Summit",
+      "designation": "Town",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Mount Vernon †",
+      "designation": "City",
+      "primary_county": "Posey",
+      "area_sq_mi": 2.92
+    },
+    {
+      "name": "Mulberry",
+      "designation": "Town",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Muncie †",
+      "designation": "City",
+      "primary_county": "Delaware",
+      "area_sq_mi": 27.6
+    },
+    {
+      "name": "Munster",
+      "designation": "Town",
+      "primary_county": "Lake",
+      "area_sq_mi": 7.63
+    },
+    {
+      "name": "Napoleon",
+      "designation": "Town",
+      "primary_county": "Ripley"
+    },
+    {
+      "name": "Nappanee",
+      "designation": "City",
+      "primary_county": "Elkhart",
+      "secondary_counties": [
+        "Kosciusko"
+      ],
+      "area_sq_mi": 4.78
+    },
+    {
+      "name": "Nashville †",
+      "designation": "Town",
+      "primary_county": "Brown"
+    },
+    {
+      "name": "New Albany †",
+      "designation": "City",
+      "primary_county": "Floyd",
+      "area_sq_mi": 15.11
+    },
+    {
+      "name": "New Amsterdam",
+      "designation": "Town",
+      "primary_county": "Harrison"
+    },
+    {
+      "name": "New Carlisle",
+      "designation": "Town",
+      "primary_county": "St. Joseph"
+    },
+    {
+      "name": "New Castle †",
+      "designation": "City",
+      "primary_county": "Henry",
+      "area_sq_mi": 7.34
+    },
+    {
+      "name": "New Chicago",
+      "designation": "Town",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "New Harmony",
+      "designation": "Town",
+      "primary_county": "Posey"
+    },
+    {
+      "name": "New Haven",
+      "designation": "City",
+      "primary_county": "Allen",
+      "area_sq_mi": 11.83
+    },
+    {
+      "name": "New Market",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "New Middletown",
+      "designation": "Town",
+      "primary_county": "Harrison"
+    },
+    {
+      "name": "New Palestine",
+      "designation": "Town",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "New Pekin",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "New Point",
+      "designation": "Town",
+      "primary_county": "Decatur"
+    },
+    {
+      "name": "New Richmond",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "New Ross",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "New Whiteland",
+      "designation": "Town",
+      "primary_county": "Johnson",
+      "area_sq_mi": 1.45
+    },
+    {
+      "name": "Newberry",
+      "designation": "Town",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Newburgh",
+      "designation": "Town",
+      "primary_county": "Warrick",
+      "area_sq_mi": 1.49
+    },
+    {
+      "name": "Newport †",
+      "designation": "Town",
+      "primary_county": "Vermillion"
+    },
+    {
+      "name": "Newtown",
+      "designation": "Town",
+      "primary_county": "Fountain"
+    },
+    {
+      "name": "Noblesville †",
+      "designation": "City",
+      "primary_county": "Hamilton",
+      "area_sq_mi": 33.56
+    },
+    {
+      "name": "North Crows Nest",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "North Judson",
+      "designation": "Town",
+      "primary_county": "Starke"
+    },
+    {
+      "name": "North Liberty",
+      "designation": "Town",
+      "primary_county": "St. Joseph"
+    },
+    {
+      "name": "North Manchester",
+      "designation": "Town",
+      "primary_county": "Wabash",
+      "area_sq_mi": 3.63
+    },
+    {
+      "name": "North Salem",
+      "designation": "Town",
+      "primary_county": "Hendricks"
+    },
+    {
+      "name": "North Vernon",
+      "designation": "City",
+      "primary_county": "Jennings",
+      "area_sq_mi": 7.68
+    },
+    {
+      "name": "North Webster",
+      "designation": "Town",
+      "primary_county": "Kosciusko"
+    },
+    {
+      "name": "Oakland City",
+      "designation": "City",
+      "primary_county": "Gibson",
+      "area_sq_mi": 1.02
+    },
+    {
+      "name": "Oaktown",
+      "designation": "Town",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Odon",
+      "designation": "Town",
+      "primary_county": "Daviess"
+    },
+    {
+      "name": "Ogden Dunes",
+      "designation": "Town",
+      "primary_county": "Porter"
+    },
+    {
+      "name": "Oldenburg",
+      "designation": "Town",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Onward",
+      "designation": "Town",
+      "primary_county": "Cass"
+    },
+    {
+      "name": "Oolitic",
+      "designation": "Town",
+      "primary_county": "Lawrence"
+    },
+    {
+      "name": "Orestes",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Orland",
+      "designation": "Town",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Orleans",
+      "designation": "Town",
+      "primary_county": "Orange",
+      "area_sq_mi": 1.71
+    },
+    {
+      "name": "Osceola",
+      "designation": "Town",
+      "primary_county": "St. Joseph",
+      "area_sq_mi": 1.36
+    },
+    {
+      "name": "Osgood",
+      "designation": "Town",
+      "primary_county": "Ripley"
+    },
+    {
+      "name": "Ossian",
+      "designation": "Town",
+      "primary_county": "Wells",
+      "area_sq_mi": 1.67
+    },
+    {
+      "name": "Otterbein",
+      "designation": "Town",
+      "primary_county": "Tippecanoe",
+      "secondary_counties": [
+        "Benton"
+      ]
+    },
+    {
+      "name": "Owensville",
+      "designation": "Town",
+      "primary_county": "Gibson"
+    },
+    {
+      "name": "Oxford",
+      "designation": "Town",
+      "primary_county": "Benton"
+    },
+    {
+      "name": "Palmyra",
+      "designation": "Town",
+      "primary_county": "Harrison"
+    },
+    {
+      "name": "Paoli †",
+      "designation": "Town",
+      "primary_county": "Orange",
+      "area_sq_mi": 3.74
+    },
+    {
+      "name": "Paragon",
+      "designation": "Town",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Parker City",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Patoka",
+      "designation": "Town",
+      "primary_county": "Gibson"
+    },
+    {
+      "name": "Patriot",
+      "designation": "Town",
+      "primary_county": "Switzerland"
+    },
+    {
+      "name": "Pendleton",
+      "designation": "Town",
+      "primary_county": "Madison",
+      "area_sq_mi": 13.43
+    },
+    {
+      "name": "Pennville",
+      "designation": "Town",
+      "primary_county": "Jay"
+    },
+    {
+      "name": "Perrysville",
+      "designation": "Town",
+      "primary_county": "Vermillion"
+    },
+    {
+      "name": "Peru †",
+      "designation": "City",
+      "primary_county": "Miami",
+      "area_sq_mi": 5.65
+    },
+    {
+      "name": "Petersburg †",
+      "designation": "City",
+      "primary_county": "Pike",
+      "area_sq_mi": 1.47
+    },
+    {
+      "name": "Pierceton",
+      "designation": "Town",
+      "primary_county": "Kosciusko"
+    },
+    {
+      "name": "Pine Village",
+      "designation": "Town",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Pittsboro",
+      "designation": "Town",
+      "primary_county": "Hendricks",
+      "area_sq_mi": 3.78
+    },
+    {
+      "name": "Plainfield",
+      "designation": "Town",
+      "primary_county": "Hendricks",
+      "area_sq_mi": 26.12
+    },
+    {
+      "name": "Plainville",
+      "designation": "Town",
+      "primary_county": "Daviess"
+    },
+    {
+      "name": "Plymouth †",
+      "designation": "City",
+      "primary_county": "Marshall",
+      "area_sq_mi": 7.62
+    },
+    {
+      "name": "Poneto",
+      "designation": "Town",
+      "primary_county": "Wells"
+    },
+    {
+      "name": "Portage",
+      "designation": "City",
+      "primary_county": "Porter",
+      "area_sq_mi": 27.61
+    },
+    {
+      "name": "Porter",
+      "designation": "Town",
+      "primary_county": "Porter",
+      "area_sq_mi": 6.44
+    },
+    {
+      "name": "Portland †",
+      "designation": "City",
+      "primary_county": "Jay",
+      "area_sq_mi": 4.88
+    },
+    {
+      "name": "Poseyville",
+      "designation": "Town",
+      "primary_county": "Posey"
+    },
+    {
+      "name": "Pottawattamie Park",
+      "designation": "Town",
+      "primary_county": "LaPorte"
+    },
+    {
+      "name": "Prince's Lakes",
+      "designation": "Town",
+      "primary_county": "Johnson"
+    },
+    {
+      "name": "Princeton †",
+      "designation": "City",
+      "primary_county": "Gibson",
+      "area_sq_mi": 5.48
+    },
+    {
+      "name": "Redkey",
+      "designation": "Town",
+      "primary_county": "Jay"
+    },
+    {
+      "name": "Remington",
+      "designation": "Town",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Rensselaer †",
+      "designation": "City",
+      "primary_county": "Jasper",
+      "area_sq_mi": 6.73
+    },
+    {
+      "name": "Reynolds",
+      "designation": "Town",
+      "primary_county": "White"
+    },
+    {
+      "name": "Richland",
+      "designation": "Town",
+      "primary_county": "Spencer"
+    },
+    {
+      "name": "Richmond †",
+      "designation": "City",
+      "primary_county": "Wayne",
+      "area_sq_mi": 24.16
+    },
+    {
+      "name": "Ridgeville",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Riley",
+      "designation": "Town",
+      "primary_county": "Vigo"
+    },
+    {
+      "name": "Rising Sun †",
+      "designation": "City",
+      "primary_county": "Ohio",
+      "area_sq_mi": 1.63
+    },
+    {
+      "name": "River Forest",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Roachdale",
+      "designation": "Town",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "Roann",
+      "designation": "Town",
+      "primary_county": "Wabash"
+    },
+    {
+      "name": "Roanoke",
+      "designation": "Town",
+      "primary_county": "Huntington"
+    },
+    {
+      "name": "Rochester †",
+      "designation": "City",
+      "primary_county": "Fulton",
+      "area_sq_mi": 5.68
+    },
+    {
+      "name": "Rockport †",
+      "designation": "City",
+      "primary_county": "Spencer",
+      "area_sq_mi": 1.69
+    },
+    {
+      "name": "Rockville †",
+      "designation": "Town",
+      "primary_county": "Parke",
+      "area_sq_mi": 1.49
+    },
+    {
+      "name": "Rocky Ripple",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Rome City",
+      "designation": "Town",
+      "primary_county": "Noble"
+    },
+    {
+      "name": "Rosedale",
+      "designation": "Town",
+      "primary_county": "Parke"
+    },
+    {
+      "name": "Roseland",
+      "designation": "Town",
+      "primary_county": "St. Joseph"
+    },
+    {
+      "name": "Rossville",
+      "designation": "Town",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Royal Center",
+      "designation": "Town",
+      "primary_county": "Cass"
+    },
+    {
+      "name": "Rushville †",
+      "designation": "City",
+      "primary_county": "Rush",
+      "area_sq_mi": 3.31
+    },
+    {
+      "name": "Russellville",
+      "designation": "Town",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "Russiaville",
+      "designation": "Town",
+      "primary_county": "Howard"
+    },
+    {
+      "name": "St. Joe",
+      "designation": "Town",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "St. John",
+      "designation": "Town",
+      "primary_county": "Lake",
+      "area_sq_mi": 12.75
+    },
+    {
+      "name": "St. Leon",
+      "designation": "Town",
+      "primary_county": "Dearborn"
+    },
+    {
+      "name": "St. Paul",
+      "designation": "Town",
+      "primary_county": "Decatur",
+      "secondary_counties": [
+        "Shelby"
+      ]
+    },
+    {
+      "name": "Salamonia",
+      "designation": "Town",
+      "primary_county": "Jay"
+    },
+    {
+      "name": "Salem †",
+      "designation": "City",
+      "primary_county": "Washington",
+      "area_sq_mi": 4.02
+    },
+    {
+      "name": "Saltillo",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Sandborn",
+      "designation": "Town",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Santa Claus",
+      "designation": "Town",
+      "primary_county": "Spencer",
+      "area_sq_mi": 6.44
+    },
+    {
+      "name": "Saratoga",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Schererville",
+      "designation": "Town",
+      "primary_county": "Lake",
+      "area_sq_mi": 15.15
+    },
+    {
+      "name": "Schneider",
+      "designation": "Town",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Scottsburg †",
+      "designation": "City",
+      "primary_county": "Scott",
+      "area_sq_mi": 5.56
+    },
+    {
+      "name": "Seelyville",
+      "designation": "Town",
+      "primary_county": "Vigo"
+    },
+    {
+      "name": "Sellersburg",
+      "designation": "Town",
+      "primary_county": "Clark",
+      "area_sq_mi": 7.47
+    },
+    {
+      "name": "Selma",
+      "designation": "Town",
+      "primary_county": "Delaware"
+    },
+    {
+      "name": "Seymour",
+      "designation": "City",
+      "primary_county": "Jackson",
+      "area_sq_mi": 11.425
+    },
+    {
+      "name": "Shadeland",
+      "designation": "Town",
+      "primary_county": "Tippecanoe"
+    },
+    {
+      "name": "Shamrock Lakes",
+      "designation": "Town",
+      "primary_county": "Blackford"
+    },
+    {
+      "name": "Sharpsville",
+      "designation": "Town",
+      "primary_county": "Tipton"
+    },
+    {
+      "name": "Shelburn",
+      "designation": "Town",
+      "primary_county": "Sullivan"
+    },
+    {
+      "name": "Shelbyville †",
+      "designation": "City",
+      "primary_county": "Shelby",
+      "area_sq_mi": 12.81
+    },
+    {
+      "name": "Sheridan",
+      "designation": "Town",
+      "primary_county": "Hamilton",
+      "area_sq_mi": 2.07
+    },
+    {
+      "name": "Shipshewana",
+      "designation": "Town",
+      "primary_county": "LaGrange"
+    },
+    {
+      "name": "Shirley",
+      "designation": "Town",
+      "primary_county": "Hancock",
+      "secondary_counties": [
+        "Henry"
+      ]
+    },
+    {
+      "name": "Shoals †",
+      "designation": "Town",
+      "primary_county": "Martin"
+    },
+    {
+      "name": "Sidney",
+      "designation": "Town",
+      "primary_county": "Kosciusko"
+    },
+    {
+      "name": "Silver Lake",
+      "designation": "Town",
+      "primary_county": "Kosciusko"
+    },
+    {
+      "name": "Somerville",
+      "designation": "Town",
+      "primary_county": "Gibson"
+    },
+    {
+      "name": "South Bend †",
+      "designation": "City",
+      "primary_county": "St. Joseph",
+      "area_sq_mi": 41.46
+    },
+    {
+      "name": "South Whitley",
+      "designation": "Town",
+      "primary_county": "Whitley"
+    },
+    {
+      "name": "Southport",
+      "designation": "City",
+      "primary_county": "Marion",
+      "area_sq_mi": 0.63
+    },
+    {
+      "name": "Speedway",
+      "designation": "Town",
+      "primary_county": "Marion",
+      "area_sq_mi": 4.79
+    },
+    {
+      "name": "Spencer †",
+      "designation": "Town",
+      "primary_county": "Owen",
+      "area_sq_mi": 1.59
+    },
+    {
+      "name": "Spiceland",
+      "designation": "Town",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Spring Grove",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Spring Hill",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Spring Lake",
+      "designation": "Town",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Springport",
+      "designation": "Town",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Spurgeon",
+      "designation": "Town",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "State Line City",
+      "designation": "Town",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Staunton",
+      "designation": "Town",
+      "primary_county": "Clay"
+    },
+    {
+      "name": "Stilesville",
+      "designation": "Town",
+      "primary_county": "Hendricks"
+    },
+    {
+      "name": "Stinesville",
+      "designation": "Town",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Straughn",
+      "designation": "Town",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Sullivan †",
+      "designation": "City",
+      "primary_county": "Sullivan",
+      "area_sq_mi": 1.88
+    },
+    {
+      "name": "Sulphur Springs",
+      "designation": "Town",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Summitville",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Sunman",
+      "designation": "Town",
+      "primary_county": "Ripley"
+    },
+    {
+      "name": "Swayzee",
+      "designation": "Town",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Sweetser",
+      "designation": "Town",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Switz City",
+      "designation": "Town",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Syracuse",
+      "designation": "Town",
+      "primary_county": "Kosciusko",
+      "area_sq_mi": 1.97
+    },
+    {
+      "name": "Tell City †",
+      "designation": "City",
+      "primary_county": "Perry",
+      "area_sq_mi": 4.65
+    },
+    {
+      "name": "Tennyson",
+      "designation": "Town",
+      "primary_county": "Warrick"
+    },
+    {
+      "name": "Terre Haute †",
+      "designation": "City",
+      "primary_county": "Vigo",
+      "area_sq_mi": 35.27
+    },
+    {
+      "name": "Thorntown",
+      "designation": "Town",
+      "primary_county": "Boone"
+    },
+    {
+      "name": "Tipton †",
+      "designation": "City",
+      "primary_county": "Tipton",
+      "area_sq_mi": 2.63
+    },
+    {
+      "name": "Topeka",
+      "designation": "Town",
+      "primary_county": "LaGrange"
+    },
+    {
+      "name": "Town of Pines",
+      "designation": "Town",
+      "primary_county": "Porter"
+    },
+    {
+      "name": "Trafalgar",
+      "designation": "Town",
+      "primary_county": "Johnson"
+    },
+    {
+      "name": "Trail Creek",
+      "designation": "Town",
+      "primary_county": "LaPorte"
+    },
+    {
+      "name": "Troy",
+      "designation": "Town",
+      "primary_county": "Perry"
+    },
+    {
+      "name": "Ulen",
+      "designation": "Town",
+      "primary_county": "Boone"
+    },
+    {
+      "name": "Union City",
+      "designation": "City",
+      "primary_county": "Randolph",
+      "area_sq_mi": 2.27
+    },
+    {
+      "name": "Uniondale",
+      "designation": "Town",
+      "primary_county": "Wells"
+    },
+    {
+      "name": "Universal",
+      "designation": "Town",
+      "primary_county": "Vermillion"
+    },
+    {
+      "name": "Upland",
+      "designation": "Town",
+      "primary_county": "Grant",
+      "area_sq_mi": 6.44
+    },
+    {
+      "name": "Utica",
+      "designation": "Town",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Valparaiso †",
+      "designation": "City",
+      "primary_county": "Porter",
+      "area_sq_mi": 16.31
+    },
+    {
+      "name": "Van Buren",
+      "designation": "Town",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Veedersburg",
+      "designation": "Town",
+      "primary_county": "Fountain",
+      "area_sq_mi": 3.0
+    },
+    {
+      "name": "Vera Cruz",
+      "designation": "Town",
+      "primary_county": "Wells"
+    },
+    {
+      "name": "Vernon †",
+      "designation": "Town",
+      "primary_county": "Jennings"
+    },
+    {
+      "name": "Versailles †",
+      "designation": "Town",
+      "primary_county": "Ripley",
+      "area_sq_mi": 1.57
+    },
+    {
+      "name": "Vevay †",
+      "designation": "Town",
+      "primary_county": "Switzerland"
+    },
+    {
+      "name": "Vincennes †",
+      "designation": "City",
+      "primary_county": "Knox",
+      "area_sq_mi": 7.48
+    },
+    {
+      "name": "Wabash †",
+      "designation": "City",
+      "primary_county": "Wabash",
+      "area_sq_mi": 9.87
+    },
+    {
+      "name": "Wakarusa",
+      "designation": "Town",
+      "primary_county": "Elkhart"
+    },
+    {
+      "name": "Walkerton",
+      "designation": "Town",
+      "primary_county": "St. Joseph",
+      "area_sq_mi": 1.9
+    },
+    {
+      "name": "Wallace",
+      "designation": "Town",
+      "primary_county": "Fountain"
+    },
+    {
+      "name": "Walton",
+      "designation": "Town",
+      "primary_county": "Cass"
+    },
+    {
+      "name": "Wanatah",
+      "designation": "Town",
+      "primary_county": "LaPorte"
+    },
+    {
+      "name": "Warren",
+      "designation": "Town",
+      "primary_county": "Huntington"
+    },
+    {
+      "name": "Warren Park",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Warsaw †",
+      "designation": "City",
+      "primary_county": "Kosciusko",
+      "area_sq_mi": 14.75
+    },
+    {
+      "name": "Washington †",
+      "designation": "City",
+      "primary_county": "Daviess",
+      "area_sq_mi": 6.67
+    },
+    {
+      "name": "Waterloo",
+      "designation": "Town",
+      "primary_county": "DeKalb",
+      "area_sq_mi": 2.11
+    },
+    {
+      "name": "Waveland",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Waynetown",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "West Baden Springs",
+      "designation": "Town",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "West College Corner",
+      "designation": "Town",
+      "primary_county": "Union"
+    },
+    {
+      "name": "West Harrison",
+      "designation": "Town",
+      "primary_county": "Dearborn"
+    },
+    {
+      "name": "West Lafayette",
+      "designation": "City",
+      "primary_county": "Tippecanoe",
+      "area_sq_mi": 13.81
+    },
+    {
+      "name": "West Lebanon",
+      "designation": "Town",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "West Terre Haute",
+      "designation": "Town",
+      "primary_county": "Vigo",
+      "area_sq_mi": 0.75
+    },
+    {
+      "name": "Westfield",
+      "designation": "City",
+      "primary_county": "Hamilton",
+      "area_sq_mi": 29.92
+    },
+    {
+      "name": "Westport",
+      "designation": "Town",
+      "primary_county": "Decatur"
+    },
+    {
+      "name": "Westville",
+      "designation": "Town",
+      "primary_county": "LaPorte",
+      "area_sq_mi": 3.25
+    },
+    {
+      "name": "Wheatfield",
+      "designation": "Town",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Wheatland",
+      "designation": "Town",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Whiteland",
+      "designation": "Town",
+      "primary_county": "Johnson",
+      "area_sq_mi": 5.49
+    },
+    {
+      "name": "Whitestown",
+      "designation": "Town",
+      "primary_county": "Boone",
+      "area_sq_mi": 14.02
+    },
+    {
+      "name": "Whitewater",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Whiting",
+      "designation": "City",
+      "primary_county": "Lake",
+      "area_sq_mi": 1.8
+    },
+    {
+      "name": "Wilkinson",
+      "designation": "Town",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Williams Creek",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Williamsport †",
+      "designation": "Town",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Winamac †",
+      "designation": "Town",
+      "primary_county": "Pulaski",
+      "area_sq_mi": 1.36
+    },
+    {
+      "name": "Winchester †",
+      "designation": "City",
+      "primary_county": "Randolph",
+      "area_sq_mi": 3.47
+    },
+    {
+      "name": "Windfall",
+      "designation": "Town",
+      "primary_county": "Tipton"
+    },
+    {
+      "name": "Winfield",
+      "designation": "Town",
+      "primary_county": "Lake",
+      "area_sq_mi": 12.46
+    },
+    {
+      "name": "Wingate",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Winona Lake",
+      "designation": "Town",
+      "primary_county": "Kosciusko",
+      "area_sq_mi": 3.43
+    },
+    {
+      "name": "Winslow",
+      "designation": "Town",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Wolcott",
+      "designation": "Town",
+      "primary_county": "White"
+    },
+    {
+      "name": "Wolcottville",
+      "designation": "Town",
+      "primary_county": "Noble",
+      "secondary_counties": [
+        "LaGrange"
+      ]
+    },
+    {
+      "name": "Woodburn",
+      "designation": "City",
+      "primary_county": "Allen",
+      "area_sq_mi": 0.96
+    },
+    {
+      "name": "Woodlawn Heights",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Worthington",
+      "designation": "Town",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Wynnedale",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Yeoman",
+      "designation": "Town",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Yorktown",
+      "designation": "Town",
+      "primary_county": "Delaware",
+      "area_sq_mi": 32.17
+    },
+    {
+      "name": "Zanesville",
+      "designation": "Town",
+      "primary_county": "Wells",
+      "secondary_counties": [
+        "Allen"
+      ]
+    },
+    {
+      "name": "Zionsville",
+      "designation": "Town",
+      "primary_county": "Boone",
+      "area_sq_mi": 67.34
+    }
+  ]
+}

@@ -1,0 +1,1669 @@
+{
+  "metadata": {
+    "state": "Mississippi",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Mississippi",
+    "scraped_at": "2025-11-24 20:29:40",
+    "scraper_version": "2.0_generic",
+    "description": "Mississippi municipalities scraped from Wikipedia",
+    "total_municipalities": 302,
+    "statistics": {
+      "total_found": 302,
+      "with_population": 0,
+      "with_counties": 301,
+      "unique_counties": 83,
+      "population_stats": {}
+    },
+    "counties": [
+      "Adams",
+      "Alcorn",
+      "Amite",
+      "Attala",
+      "Benton",
+      "Bolivar",
+      "Calhoun",
+      "Carroll",
+      "Chickasaw",
+      "Choctaw",
+      "Claiborne",
+      "Clarke",
+      "Clay",
+      "Coahoma",
+      "Copiah",
+      "Covington",
+      "DeSoto",
+      "Forrest",
+      "Franklin",
+      "George",
+      "Greene",
+      "Grenada",
+      "Hancock",
+      "Harrison",
+      "Hinds",
+      "Holmes",
+      "Humphreys",
+      "Issaquena",
+      "Itawamba",
+      "Jackson",
+      "Jasper",
+      "Jefferson",
+      "Jefferson Davis",
+      "Jones",
+      "Kemper",
+      "Lafayette",
+      "Lamar",
+      "Lauderdale",
+      "Lawrence",
+      "Leake",
+      "Lee",
+      "Leflore",
+      "Lincoln",
+      "Lowndes",
+      "Madison",
+      "Marion",
+      "Marshall",
+      "Monroe",
+      "Montgomery",
+      "Neshoba",
+      "Newton",
+      "Noxubee",
+      "Oktibbeha",
+      "Panola",
+      "Pearl River",
+      "Perry",
+      "Pike",
+      "Pontotoc",
+      "Prentiss",
+      "Quitman",
+      "Rankin",
+      "Scott",
+      "Sharkey",
+      "Simpson",
+      "Smith",
+      "Stone",
+      "Sunflower",
+      "Tallahatchie",
+      "Tate",
+      "Tippah",
+      "Tishomingo",
+      "Tunica",
+      "Union",
+      "Walthall",
+      "Warren",
+      "Washington",
+      "Wayne",
+      "Webster",
+      "Wilkinson",
+      "Winston",
+      "Yalobusha",
+      "Yazoo",
+      "—"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi",
+      "designation": "km2"
+    },
+    {
+      "name": "Abbeville",
+      "designation": "Town",
+      "primary_county": "Lafayette"
+    },
+    {
+      "name": "Aberdeen†",
+      "designation": "City",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Ackerman†",
+      "designation": "Town",
+      "primary_county": "Choctaw"
+    },
+    {
+      "name": "Algoma",
+      "designation": "Town",
+      "primary_county": "Pontotoc"
+    },
+    {
+      "name": "Alligator",
+      "designation": "Town",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Amory",
+      "designation": "City",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Anguilla",
+      "designation": "Town",
+      "primary_county": "Sharkey"
+    },
+    {
+      "name": "Arcola",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Artesia",
+      "designation": "Town",
+      "primary_county": "Lowndes"
+    },
+    {
+      "name": "Ashland†",
+      "designation": "Town",
+      "primary_county": "Benton"
+    },
+    {
+      "name": "Baldwyn",
+      "designation": "City",
+      "primary_county": "Lee",
+      "secondary_counties": [
+        "Prentiss"
+      ]
+    },
+    {
+      "name": "Bassfield",
+      "designation": "Town",
+      "primary_county": "Jefferson Davis"
+    },
+    {
+      "name": "Batesville†",
+      "designation": "City",
+      "primary_county": "Panola"
+    },
+    {
+      "name": "Bay St. Louis†",
+      "designation": "City",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Bay Springs†",
+      "designation": "City",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Beaumont",
+      "designation": "Town",
+      "primary_county": "Perry"
+    },
+    {
+      "name": "Beauregard",
+      "designation": "Village",
+      "primary_county": "Copiah"
+    },
+    {
+      "name": "Belmont",
+      "designation": "Town",
+      "primary_county": "Tishomingo"
+    },
+    {
+      "name": "Belzoni†",
+      "designation": "City",
+      "primary_county": "Humphreys"
+    },
+    {
+      "name": "Benoit",
+      "designation": "Town",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Bentonia",
+      "designation": "Town",
+      "primary_county": "Yazoo"
+    },
+    {
+      "name": "Beulah",
+      "designation": "Town",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Big Creek",
+      "designation": "Village",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Biloxi†",
+      "designation": "City",
+      "primary_county": "Harrison"
+    },
+    {
+      "name": "Blue Mountain",
+      "designation": "Town",
+      "primary_county": "Tippah"
+    },
+    {
+      "name": "Blue Springs",
+      "designation": "Village",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Bolton",
+      "designation": "Town",
+      "primary_county": "Hinds"
+    },
+    {
+      "name": "Booneville†",
+      "designation": "City",
+      "primary_county": "Prentiss"
+    },
+    {
+      "name": "Boyle",
+      "designation": "Town",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Brandon†",
+      "designation": "City",
+      "primary_county": "Rankin"
+    },
+    {
+      "name": "Braxton",
+      "designation": "Village",
+      "primary_county": "Simpson"
+    },
+    {
+      "name": "Brookhaven†",
+      "designation": "City",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Brooksville",
+      "designation": "Town",
+      "primary_county": "Noxubee"
+    },
+    {
+      "name": "Bruce",
+      "designation": "Town",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Bude",
+      "designation": "Town",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Burnsville",
+      "designation": "Town",
+      "primary_county": "Tishomingo"
+    },
+    {
+      "name": "Byhalia",
+      "designation": "Town",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "Byram",
+      "designation": "City",
+      "primary_county": "Hinds"
+    },
+    {
+      "name": "Caledonia",
+      "designation": "Town",
+      "primary_county": "Lowndes"
+    },
+    {
+      "name": "Calhoun City",
+      "designation": "Town",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Canton†",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Carrollton†",
+      "designation": "Town",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Carthage†",
+      "designation": "City",
+      "primary_county": "Leake"
+    },
+    {
+      "name": "Cary",
+      "designation": "Town",
+      "primary_county": "Sharkey"
+    },
+    {
+      "name": "Centreville",
+      "designation": "Town",
+      "primary_county": "Amite",
+      "secondary_counties": [
+        "Wilkinson"
+      ]
+    },
+    {
+      "name": "Charleston†",
+      "designation": "City",
+      "primary_county": "Tallahatchie"
+    },
+    {
+      "name": "Chunky",
+      "designation": "Town",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "Clarksdale†",
+      "designation": "City",
+      "primary_county": "Coahoma"
+    },
+    {
+      "name": "Cleveland†",
+      "designation": "City",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Clinton",
+      "designation": "City",
+      "primary_county": "Hinds"
+    },
+    {
+      "name": "Coahoma",
+      "designation": "Town",
+      "primary_county": "Coahoma"
+    },
+    {
+      "name": "Coffeeville†",
+      "designation": "Town",
+      "primary_county": "Yalobusha"
+    },
+    {
+      "name": "Coldwater",
+      "designation": "Town",
+      "primary_county": "Tate"
+    },
+    {
+      "name": "Collins†",
+      "designation": "City",
+      "primary_county": "Covington"
+    },
+    {
+      "name": "Columbia†",
+      "designation": "City",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Columbus†",
+      "designation": "City",
+      "primary_county": "Lowndes"
+    },
+    {
+      "name": "Como",
+      "designation": "Town",
+      "primary_county": "Panola"
+    },
+    {
+      "name": "Corinth†",
+      "designation": "City",
+      "primary_county": "Alcorn"
+    },
+    {
+      "name": "Courtland",
+      "designation": "Town",
+      "primary_county": "Panola"
+    },
+    {
+      "name": "Crawford",
+      "designation": "Town",
+      "primary_county": "Lowndes"
+    },
+    {
+      "name": "Crenshaw",
+      "designation": "Town",
+      "primary_county": "Panola",
+      "secondary_counties": [
+        "Quitman"
+      ]
+    },
+    {
+      "name": "Crosby",
+      "designation": "Town",
+      "primary_county": "Amite",
+      "secondary_counties": [
+        "Wilkinson"
+      ]
+    },
+    {
+      "name": "Crowder",
+      "designation": "Town",
+      "primary_county": "Panola",
+      "secondary_counties": [
+        "Quitman"
+      ]
+    },
+    {
+      "name": "Cruger",
+      "designation": "Town",
+      "primary_county": "Holmes"
+    },
+    {
+      "name": "Crystal Springs",
+      "designation": "City",
+      "primary_county": "Copiah"
+    },
+    {
+      "name": "Decatur†",
+      "designation": "Town",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "De Kalb†",
+      "designation": "Town",
+      "primary_county": "Kemper"
+    },
+    {
+      "name": "Derma",
+      "designation": "Town",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "D'Iberville",
+      "designation": "City",
+      "primary_county": "Harrison"
+    },
+    {
+      "name": "D'Lo",
+      "designation": "Town",
+      "primary_county": "Simpson"
+    },
+    {
+      "name": "Diamondhead[a]",
+      "designation": "City",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Doddsville",
+      "designation": "Town",
+      "primary_county": "Sunflower"
+    },
+    {
+      "name": "Drew",
+      "designation": "City",
+      "primary_county": "Sunflower"
+    },
+    {
+      "name": "Duck Hill",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Dumas",
+      "designation": "Town",
+      "primary_county": "Tippah"
+    },
+    {
+      "name": "Duncan",
+      "designation": "Town",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Durant",
+      "designation": "City",
+      "primary_county": "Holmes"
+    },
+    {
+      "name": "Ecru",
+      "designation": "Town",
+      "primary_county": "Pontotoc"
+    },
+    {
+      "name": "Eden",
+      "designation": "Village",
+      "primary_county": "Yazoo"
+    },
+    {
+      "name": "Edwards",
+      "designation": "Town",
+      "primary_county": "Hinds"
+    },
+    {
+      "name": "Ellisville†",
+      "designation": "City",
+      "primary_county": "Jones"
+    },
+    {
+      "name": "Enterprise",
+      "designation": "Town",
+      "primary_county": "Clarke"
+    },
+    {
+      "name": "Ethel",
+      "designation": "Town",
+      "primary_county": "Attala"
+    },
+    {
+      "name": "Eupora",
+      "designation": "City",
+      "primary_county": "Webster"
+    },
+    {
+      "name": "Falcon",
+      "designation": "Town",
+      "primary_county": "Quitman"
+    },
+    {
+      "name": "Falkner",
+      "designation": "Town",
+      "primary_county": "Tippah"
+    },
+    {
+      "name": "Farmington",
+      "designation": "Town",
+      "primary_county": "Alcorn"
+    },
+    {
+      "name": "Fayette†",
+      "designation": "City",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Flora",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Florence",
+      "designation": "Town",
+      "primary_county": "Rankin"
+    },
+    {
+      "name": "Flowood",
+      "designation": "City",
+      "primary_county": "Rankin"
+    },
+    {
+      "name": "Forest†",
+      "designation": "City",
+      "primary_county": "Scott"
+    },
+    {
+      "name": "French Camp",
+      "designation": "Town",
+      "primary_county": "Choctaw"
+    },
+    {
+      "name": "Friars Point",
+      "designation": "Town",
+      "primary_county": "Coahoma"
+    },
+    {
+      "name": "Fulton†",
+      "designation": "City",
+      "primary_county": "Itawamba"
+    },
+    {
+      "name": "Gattman",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Gautier",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Georgetown",
+      "designation": "Town",
+      "primary_county": "Copiah"
+    },
+    {
+      "name": "Glen",
+      "designation": "Town",
+      "primary_county": "Alcorn"
+    },
+    {
+      "name": "Glendora",
+      "designation": "Village",
+      "primary_county": "Tallahatchie"
+    },
+    {
+      "name": "Gloster",
+      "designation": "Town",
+      "primary_county": "Amite"
+    },
+    {
+      "name": "Gluckstadt[b]",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Golden",
+      "designation": "Town",
+      "primary_county": "Tishomingo"
+    },
+    {
+      "name": "Goodman",
+      "designation": "Town",
+      "primary_county": "Holmes"
+    },
+    {
+      "name": "Greenville†",
+      "designation": "City",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Greenwood†",
+      "designation": "City",
+      "primary_county": "Leflore"
+    },
+    {
+      "name": "Grenada†",
+      "designation": "City",
+      "primary_county": "Grenada"
+    },
+    {
+      "name": "Gulfport†",
+      "designation": "City",
+      "primary_county": "Harrison"
+    },
+    {
+      "name": "Gunnison",
+      "designation": "Town",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Guntown",
+      "designation": "City",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Hatley",
+      "designation": "Town",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Hattiesburg†",
+      "designation": "City",
+      "primary_county": "Forrest",
+      "secondary_counties": [
+        "Lamar"
+      ]
+    },
+    {
+      "name": "Hazlehurst†",
+      "designation": "City",
+      "primary_county": "Copiah"
+    },
+    {
+      "name": "Heidelberg",
+      "designation": "Town",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Hernando†",
+      "designation": "City",
+      "primary_county": "DeSoto"
+    },
+    {
+      "name": "Hickory",
+      "designation": "Town",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "Hickory Flat",
+      "designation": "Town",
+      "primary_county": "Benton"
+    },
+    {
+      "name": "Hollandale",
+      "designation": "City",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Holly Springs†",
+      "designation": "City",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "Horn Lake",
+      "designation": "City",
+      "primary_county": "DeSoto"
+    },
+    {
+      "name": "Houston†",
+      "designation": "City",
+      "primary_county": "Chickasaw"
+    },
+    {
+      "name": "Indianola†",
+      "designation": "City",
+      "primary_county": "Sunflower"
+    },
+    {
+      "name": "Inverness",
+      "designation": "Town",
+      "primary_county": "Sunflower"
+    },
+    {
+      "name": "Isola",
+      "designation": "Town",
+      "primary_county": "Humphreys"
+    },
+    {
+      "name": "Itta Bena",
+      "designation": "City",
+      "primary_county": "Leflore"
+    },
+    {
+      "name": "Iuka†",
+      "designation": "City",
+      "primary_county": "Tishomingo"
+    },
+    {
+      "name": "Jackson‡",
+      "designation": "City",
+      "primary_county": "Hinds",
+      "secondary_counties": [
+        "Madison",
+        "Rankin"
+      ]
+    },
+    {
+      "name": "Jonestown",
+      "designation": "Town",
+      "primary_county": "Coahoma"
+    },
+    {
+      "name": "Jumpertown",
+      "designation": "Town",
+      "primary_county": "Prentiss"
+    },
+    {
+      "name": "Kilmichael",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Kosciusko†",
+      "designation": "City",
+      "primary_county": "Attala"
+    },
+    {
+      "name": "Kossuth",
+      "designation": "Village",
+      "primary_county": "Alcorn"
+    },
+    {
+      "name": "Lake",
+      "designation": "Town",
+      "primary_county": "Newton",
+      "secondary_counties": [
+        "Scott"
+      ]
+    },
+    {
+      "name": "Lambert",
+      "designation": "Town",
+      "primary_county": "Quitman"
+    },
+    {
+      "name": "Laurel†",
+      "designation": "City",
+      "primary_county": "Jones"
+    },
+    {
+      "name": "Leakesville†",
+      "designation": "Town",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Learned",
+      "designation": "Town",
+      "primary_county": "Hinds"
+    },
+    {
+      "name": "Leland",
+      "designation": "City",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Lena",
+      "designation": "Town",
+      "primary_county": "Leake"
+    },
+    {
+      "name": "Lexington†",
+      "designation": "City",
+      "primary_county": "Holmes"
+    },
+    {
+      "name": "Liberty†",
+      "designation": "Town",
+      "primary_county": "Amite"
+    },
+    {
+      "name": "Long Beach",
+      "designation": "City",
+      "primary_county": "Harrison"
+    },
+    {
+      "name": "Louin",
+      "designation": "Town",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Louise",
+      "designation": "Town",
+      "primary_county": "Humphreys"
+    },
+    {
+      "name": "Louisville†",
+      "designation": "City",
+      "primary_county": "Winston"
+    },
+    {
+      "name": "Lucedale†",
+      "designation": "City",
+      "primary_county": "George"
+    },
+    {
+      "name": "Lula",
+      "designation": "Town",
+      "primary_county": "Coahoma"
+    },
+    {
+      "name": "Lumberton",
+      "designation": "City",
+      "primary_county": "Lamar",
+      "secondary_counties": [
+        "Pearl River"
+      ]
+    },
+    {
+      "name": "Lyon",
+      "designation": "Town",
+      "primary_county": "Coahoma"
+    },
+    {
+      "name": "Maben",
+      "designation": "Town",
+      "primary_county": "Oktibbeha",
+      "secondary_counties": [
+        "Webster"
+      ]
+    },
+    {
+      "name": "McComb",
+      "designation": "City",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "McCool",
+      "designation": "Town",
+      "primary_county": "Attala"
+    },
+    {
+      "name": "McLain",
+      "designation": "Town",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Macon†",
+      "designation": "City",
+      "primary_county": "Noxubee"
+    },
+    {
+      "name": "Madison",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Magee",
+      "designation": "City",
+      "primary_county": "Simpson"
+    },
+    {
+      "name": "Magnolia†",
+      "designation": "City",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Mantachie",
+      "designation": "Town",
+      "primary_county": "Itawamba"
+    },
+    {
+      "name": "Mantee",
+      "designation": "Village",
+      "primary_county": "Webster"
+    },
+    {
+      "name": "Marietta",
+      "designation": "Town",
+      "primary_county": "Prentiss"
+    },
+    {
+      "name": "Marion",
+      "designation": "Town",
+      "primary_county": "Lauderdale"
+    },
+    {
+      "name": "Marks†",
+      "designation": "City",
+      "primary_county": "Quitman"
+    },
+    {
+      "name": "Mathiston",
+      "designation": "Town",
+      "primary_county": "Choctaw",
+      "secondary_counties": [
+        "Webster"
+      ]
+    },
+    {
+      "name": "Mayersville†",
+      "designation": "Town",
+      "primary_county": "Issaquena"
+    },
+    {
+      "name": "Meadville†",
+      "designation": "Town",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Mendenhall†",
+      "designation": "City",
+      "primary_county": "Simpson"
+    },
+    {
+      "name": "Meridian†",
+      "designation": "City",
+      "primary_county": "Lauderdale"
+    },
+    {
+      "name": "Merigold",
+      "designation": "Town",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Metcalfe",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Mize",
+      "designation": "Town",
+      "primary_county": "Smith"
+    },
+    {
+      "name": "Monticello†",
+      "designation": "Town",
+      "primary_county": "Lawrence"
+    },
+    {
+      "name": "Montrose",
+      "designation": "Town",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Moorhead",
+      "designation": "City",
+      "primary_county": "Sunflower"
+    },
+    {
+      "name": "Morgan City",
+      "designation": "Town",
+      "primary_county": "Leflore"
+    },
+    {
+      "name": "Morton",
+      "designation": "City",
+      "primary_county": "Scott"
+    },
+    {
+      "name": "Moss Point",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Mound Bayou",
+      "designation": "City",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Mount Olive",
+      "designation": "Town",
+      "primary_county": "Covington"
+    },
+    {
+      "name": "Myrtle",
+      "designation": "Town",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Natchez†",
+      "designation": "City",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Nettleton",
+      "designation": "City",
+      "primary_county": "Lee",
+      "secondary_counties": [
+        "Monroe"
+      ]
+    },
+    {
+      "name": "New Albany†",
+      "designation": "City",
+      "primary_county": "Union"
+    },
+    {
+      "name": "New Augusta†",
+      "designation": "Town",
+      "primary_county": "Perry"
+    },
+    {
+      "name": "New Hebron",
+      "designation": "Town",
+      "primary_county": "Lawrence"
+    },
+    {
+      "name": "New Houlka",
+      "designation": "Town",
+      "primary_county": "Chickasaw"
+    },
+    {
+      "name": "Newton",
+      "designation": "City",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "North Carrollton",
+      "designation": "Town",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Noxapater",
+      "designation": "Town",
+      "primary_county": "Winston"
+    },
+    {
+      "name": "Oakland",
+      "designation": "Town",
+      "primary_county": "Yalobusha"
+    },
+    {
+      "name": "Ocean Springs",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Okolona†",
+      "designation": "City",
+      "primary_county": "Chickasaw"
+    },
+    {
+      "name": "Olive Branch",
+      "designation": "City",
+      "primary_county": "DeSoto"
+    },
+    {
+      "name": "Osyka",
+      "designation": "Town",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Oxford†",
+      "designation": "City",
+      "primary_county": "Lafayette"
+    },
+    {
+      "name": "Pace",
+      "designation": "Town",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Pachuta",
+      "designation": "Town",
+      "primary_county": "Clarke"
+    },
+    {
+      "name": "Paden",
+      "designation": "Village",
+      "primary_county": "Tishomingo"
+    },
+    {
+      "name": "Pascagoula†",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Pass Christian",
+      "designation": "City",
+      "primary_county": "Harrison"
+    },
+    {
+      "name": "Pearl",
+      "designation": "City",
+      "primary_county": "Rankin"
+    },
+    {
+      "name": "Pelahatchie",
+      "designation": "Town",
+      "primary_county": "Rankin"
+    },
+    {
+      "name": "Petal",
+      "designation": "City",
+      "primary_county": "Forrest"
+    },
+    {
+      "name": "Philadelphia†",
+      "designation": "City",
+      "primary_county": "Neshoba"
+    },
+    {
+      "name": "Picayune",
+      "designation": "City",
+      "primary_county": "Pearl River"
+    },
+    {
+      "name": "Pickens",
+      "designation": "Town",
+      "primary_county": "Holmes"
+    },
+    {
+      "name": "Pittsboro†",
+      "designation": "Village",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Plantersville",
+      "designation": "Town",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Polkville",
+      "designation": "Town",
+      "primary_county": "Smith"
+    },
+    {
+      "name": "Pontotoc†",
+      "designation": "City",
+      "primary_county": "Pontotoc"
+    },
+    {
+      "name": "Pope",
+      "designation": "Village",
+      "primary_county": "Panola"
+    },
+    {
+      "name": "Poplarville†",
+      "designation": "City",
+      "primary_county": "Pearl River"
+    },
+    {
+      "name": "Port Gibson†",
+      "designation": "City",
+      "primary_county": "Claiborne"
+    },
+    {
+      "name": "Potts Camp",
+      "designation": "Town",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "Prentiss†",
+      "designation": "Town",
+      "primary_county": "Jefferson Davis"
+    },
+    {
+      "name": "Puckett",
+      "designation": "Village",
+      "primary_county": "Rankin"
+    },
+    {
+      "name": "Purvis†",
+      "designation": "City",
+      "primary_county": "Lamar"
+    },
+    {
+      "name": "Quitman†",
+      "designation": "City",
+      "primary_county": "Clarke"
+    },
+    {
+      "name": "Raleigh†",
+      "designation": "Town",
+      "primary_county": "Smith"
+    },
+    {
+      "name": "Raymond†",
+      "designation": "City",
+      "primary_county": "Hinds"
+    },
+    {
+      "name": "Renova",
+      "designation": "Town",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Richland",
+      "designation": "City",
+      "primary_county": "Rankin"
+    },
+    {
+      "name": "Richton",
+      "designation": "Town",
+      "primary_county": "Perry"
+    },
+    {
+      "name": "Ridgeland",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Rienzi",
+      "designation": "Town",
+      "primary_county": "Alcorn"
+    },
+    {
+      "name": "Ripley†",
+      "designation": "City",
+      "primary_county": "Tippah"
+    },
+    {
+      "name": "Rolling Fork†",
+      "designation": "City",
+      "primary_county": "Sharkey"
+    },
+    {
+      "name": "Rosedale†",
+      "designation": "City",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Roxie",
+      "designation": "Town",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Ruleville",
+      "designation": "City",
+      "primary_county": "Sunflower"
+    },
+    {
+      "name": "Sallis",
+      "designation": "Town",
+      "primary_county": "Attala"
+    },
+    {
+      "name": "Saltillo",
+      "designation": "City",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Sandersville",
+      "designation": "Town",
+      "primary_county": "Jones"
+    },
+    {
+      "name": "Sardis†",
+      "designation": "Town",
+      "primary_county": "Panola"
+    },
+    {
+      "name": "Satartia",
+      "designation": "Village",
+      "primary_county": "Yazoo"
+    },
+    {
+      "name": "Schlater",
+      "designation": "Town",
+      "primary_county": "Leflore"
+    },
+    {
+      "name": "Scooba",
+      "designation": "Town",
+      "primary_county": "Kemper"
+    },
+    {
+      "name": "Sebastopol",
+      "designation": "Town",
+      "primary_county": "Scott",
+      "secondary_counties": [
+        "Leake"
+      ]
+    },
+    {
+      "name": "Seminary",
+      "designation": "Town",
+      "primary_county": "Covington"
+    },
+    {
+      "name": "Senatobia†",
+      "designation": "City",
+      "primary_county": "Tate"
+    },
+    {
+      "name": "Shannon",
+      "designation": "Town",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Shaw",
+      "designation": "City",
+      "primary_county": "Bolivar",
+      "secondary_counties": [
+        "Sunflower"
+      ]
+    },
+    {
+      "name": "Shelby",
+      "designation": "City",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Sherman",
+      "designation": "Town",
+      "primary_county": "Lee",
+      "secondary_counties": [
+        "Pontotoc",
+        "Union"
+      ]
+    },
+    {
+      "name": "Shubuta",
+      "designation": "Town",
+      "primary_county": "Clarke"
+    },
+    {
+      "name": "Shuqualak",
+      "designation": "Town",
+      "primary_county": "Noxubee"
+    },
+    {
+      "name": "Sidon",
+      "designation": "Town",
+      "primary_county": "Leflore"
+    },
+    {
+      "name": "Silver City",
+      "designation": "Town",
+      "primary_county": "Humphreys"
+    },
+    {
+      "name": "Silver Creek",
+      "designation": "Town",
+      "primary_county": "Lawrence"
+    },
+    {
+      "name": "Slate Springs",
+      "designation": "Village",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Sledge",
+      "designation": "Town",
+      "primary_county": "Quitman"
+    },
+    {
+      "name": "Smithville",
+      "designation": "Town",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Snow Lake Shores",
+      "designation": "Town",
+      "primary_county": "Benton"
+    },
+    {
+      "name": "Soso",
+      "designation": "Town",
+      "primary_county": "Jones"
+    },
+    {
+      "name": "Southaven",
+      "designation": "City",
+      "primary_county": "DeSoto"
+    },
+    {
+      "name": "Starkville†",
+      "designation": "City",
+      "primary_county": "Oktibbeha"
+    },
+    {
+      "name": "State Line",
+      "designation": "Town",
+      "primary_county": "Greene",
+      "secondary_counties": [
+        "Wayne"
+      ]
+    },
+    {
+      "name": "Stonewall",
+      "designation": "Town",
+      "primary_county": "Clarke"
+    },
+    {
+      "name": "Sturgis",
+      "designation": "Town",
+      "primary_county": "Oktibbeha"
+    },
+    {
+      "name": "Summit",
+      "designation": "Town",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Sumner†",
+      "designation": "Town",
+      "primary_county": "Tallahatchie"
+    },
+    {
+      "name": "Sumrall",
+      "designation": "Town",
+      "primary_county": "Lamar"
+    },
+    {
+      "name": "Sunflower",
+      "designation": "Town",
+      "primary_county": "Sunflower"
+    },
+    {
+      "name": "Sylvarena",
+      "designation": "Village",
+      "primary_county": "Smith"
+    },
+    {
+      "name": "Taylor",
+      "designation": "Village",
+      "primary_county": "Lafayette"
+    },
+    {
+      "name": "Taylorsville",
+      "designation": "Town",
+      "primary_county": "Smith"
+    },
+    {
+      "name": "Tchula",
+      "designation": "Town",
+      "primary_county": "Holmes"
+    },
+    {
+      "name": "Terry",
+      "designation": "Town",
+      "primary_county": "Hinds"
+    },
+    {
+      "name": "Thaxton",
+      "designation": "Town",
+      "primary_county": "Pontotoc"
+    },
+    {
+      "name": "Tillatoba",
+      "designation": "Town",
+      "primary_county": "Yalobusha"
+    },
+    {
+      "name": "Tishomingo",
+      "designation": "Town",
+      "primary_county": "Tishomingo"
+    },
+    {
+      "name": "Toccopola",
+      "designation": "Town",
+      "primary_county": "Pontotoc"
+    },
+    {
+      "name": "Tremont",
+      "designation": "Town",
+      "primary_county": "Itawamba"
+    },
+    {
+      "name": "Tunica†",
+      "designation": "Town",
+      "primary_county": "Tunica"
+    },
+    {
+      "name": "Tupelo†",
+      "designation": "City",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Tutwiler",
+      "designation": "Town",
+      "primary_county": "Tallahatchie"
+    },
+    {
+      "name": "Tylertown†",
+      "designation": "Town",
+      "primary_county": "Walthall"
+    },
+    {
+      "name": "Union",
+      "designation": "Town",
+      "primary_county": "Neshoba",
+      "secondary_counties": [
+        "Newton"
+      ]
+    },
+    {
+      "name": "Utica",
+      "designation": "Town",
+      "primary_county": "Hinds"
+    },
+    {
+      "name": "Vaiden†",
+      "designation": "Town",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Vardaman",
+      "designation": "Town",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Verona",
+      "designation": "City",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Vicksburg†",
+      "designation": "City",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Walls[c]",
+      "designation": "Town",
+      "primary_county": "DeSoto"
+    },
+    {
+      "name": "Walnut",
+      "designation": "Town",
+      "primary_county": "Tippah"
+    },
+    {
+      "name": "Walnut Grove",
+      "designation": "Town",
+      "primary_county": "Leake"
+    },
+    {
+      "name": "Walthall†",
+      "designation": "Village",
+      "primary_county": "Webster"
+    },
+    {
+      "name": "Water Valley†",
+      "designation": "City",
+      "primary_county": "Yalobusha"
+    },
+    {
+      "name": "Waveland",
+      "designation": "City",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Waynesboro†",
+      "designation": "City",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Webb",
+      "designation": "Town",
+      "primary_county": "Tallahatchie"
+    },
+    {
+      "name": "Weir",
+      "designation": "Town",
+      "primary_county": "Choctaw"
+    },
+    {
+      "name": "Wesson",
+      "designation": "Town",
+      "primary_county": "Copiah",
+      "secondary_counties": [
+        "Lincoln"
+      ]
+    },
+    {
+      "name": "West",
+      "designation": "Town",
+      "primary_county": "Holmes"
+    },
+    {
+      "name": "West Point†",
+      "designation": "City",
+      "primary_county": "Clay"
+    },
+    {
+      "name": "Wiggins†",
+      "designation": "City",
+      "primary_county": "Stone"
+    },
+    {
+      "name": "Winona†",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Winstonville",
+      "designation": "Town",
+      "primary_county": "Bolivar"
+    },
+    {
+      "name": "Woodland",
+      "designation": "Village",
+      "primary_county": "Chickasaw"
+    },
+    {
+      "name": "Woodville†",
+      "designation": "Town",
+      "primary_county": "Wilkinson"
+    },
+    {
+      "name": "Yazoo City†",
+      "designation": "City",
+      "primary_county": "Yazoo"
+    },
+    {
+      "name": "Total",
+      "designation": "—",
+      "primary_county": "—"
+    }
+  ]
+}

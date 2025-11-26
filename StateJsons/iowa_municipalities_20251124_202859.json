@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "state": "Iowa",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_Iowa",
+    "scraped_at": "2025-11-24 20:28:59",
+    "scraper_version": "2.0_generic",
+    "description": "Iowa municipalities scraped from Wikipedia",
+    "total_municipalities": 30,
+    "statistics": {
+      "total_found": 30,
+      "with_population": 0,
+      "with_counties": 30,
+      "unique_counties": 20,
+      "population_stats": {}
+    },
+    "counties": [
+      "Black Hawk",
+      "Cerro Gordo",
+      "Clinton",
+      "Dallas",
+      "Des Moines",
+      "Dubuque",
+      "Jasper",
+      "Johnson",
+      "Linn",
+      "Marshall",
+      "Muscatine",
+      "Plymouth",
+      "Polk",
+      "Pottawattamie",
+      "Scott",
+      "Story",
+      "Wapello",
+      "Warren",
+      "Webster",
+      "Woodbury"
+    ]
+  },
+  "municipalities": [
+    {
+      "rank": 1,
+      "name": "Des Moines",
+      "primary_county": "Polk",
+      "secondary_counties": [
+        "Warren"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Cedar Rapids",
+      "primary_county": "Linn"
+    },
+    {
+      "rank": 3,
+      "name": "Davenport",
+      "primary_county": "Scott"
+    },
+    {
+      "rank": 4,
+      "name": "Sioux City",
+      "primary_county": "Woodbury",
+      "secondary_counties": [
+        "Plymouth"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Iowa City",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 6,
+      "name": "West Des Moines",
+      "primary_county": "Polk",
+      "secondary_counties": [
+        "Warren",
+        "Dallas"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Ankeny",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 8,
+      "name": "Waterloo",
+      "primary_county": "Black Hawk"
+    },
+    {
+      "rank": 9,
+      "name": "Ames",
+      "primary_county": "Story"
+    },
+    {
+      "rank": 10,
+      "name": "Council Bluffs",
+      "primary_county": "Pottawattamie"
+    },
+    {
+      "rank": 11,
+      "name": "Dubuque",
+      "primary_county": "Dubuque"
+    },
+    {
+      "rank": 12,
+      "name": "Urbandale",
+      "primary_county": "Polk",
+      "secondary_counties": [
+        "Dallas"
+      ]
+    },
+    {
+      "rank": 13,
+      "name": "Marion",
+      "primary_county": "Linn"
+    },
+    {
+      "rank": 14,
+      "name": "Cedar Falls",
+      "primary_county": "Black Hawk"
+    },
+    {
+      "rank": 15,
+      "name": "Bettendorf",
+      "primary_county": "Scott"
+    },
+    {
+      "rank": 16,
+      "name": "Waukee",
+      "primary_county": "Dallas"
+    },
+    {
+      "rank": 17,
+      "name": "Marshalltown",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 18,
+      "name": "Mason City",
+      "primary_county": "Cerro Gordo"
+    },
+    {
+      "rank": 19,
+      "name": "Ottumwa",
+      "primary_county": "Wapello"
+    },
+    {
+      "rank": 20,
+      "name": "Fort Dodge",
+      "primary_county": "Webster"
+    },
+    {
+      "rank": 21,
+      "name": "Clinton",
+      "primary_county": "Clinton"
+    },
+    {
+      "rank": 22,
+      "name": "Johnston",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 23,
+      "name": "Burlington",
+      "primary_county": "Des Moines"
+    },
+    {
+      "rank": 24,
+      "name": "Muscatine",
+      "primary_county": "Muscatine"
+    },
+    {
+      "rank": 25,
+      "name": "Coralville",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 26,
+      "name": "North Liberty",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 27,
+      "name": "Altoona",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 28,
+      "name": "Clive",
+      "primary_county": "Dallas",
+      "secondary_counties": [
+        "Polk"
+      ]
+    },
+    {
+      "rank": 29,
+      "name": "Indianola",
+      "primary_county": "Warren"
+    },
+    {
+      "rank": 30,
+      "name": "Newton",
+      "primary_county": "Jasper"
+    }
+  ]
+}

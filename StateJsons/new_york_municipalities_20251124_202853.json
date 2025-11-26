@@ -1,0 +1,3087 @@
+{
+  "metadata": {
+    "state": "New York",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_New_York",
+    "scraped_at": "2025-11-24 20:28:53",
+    "scraper_version": "2.0_generic",
+    "description": "New York municipalities scraped from Wikipedia",
+    "total_municipalities": 594,
+    "statistics": {
+      "total_found": 594,
+      "with_population": 0,
+      "with_counties": 594,
+      "unique_counties": 63,
+      "population_stats": {}
+    },
+    "counties": [
+      "Albany",
+      "Allegany",
+      "Bronx",
+      "Broome",
+      "Cattaraugus",
+      "Cayuga",
+      "Chautauqua",
+      "Chemung",
+      "Chenango",
+      "Clinton",
+      "Columbia",
+      "Cortland",
+      "Delaware",
+      "Dutchess",
+      "Erie",
+      "Essex",
+      "Franklin",
+      "Fulton",
+      "Genesee",
+      "Genesse",
+      "Greene",
+      "Hamilton",
+      "Herkimer",
+      "Jefferson",
+      "Kings",
+      "Lewis",
+      "Livingston",
+      "Madison",
+      "Monroe",
+      "Montgomery",
+      "Nassau",
+      "New York",
+      "Niagara",
+      "Oneida",
+      "Onondaga",
+      "Ontario",
+      "Orange",
+      "Orleans",
+      "Oswego",
+      "Otsego",
+      "Putnam",
+      "Queens",
+      "Rensselaer",
+      "Richmond",
+      "Rockland",
+      "Saratoga",
+      "Schenectady",
+      "Schoharie",
+      "Schuyler",
+      "Seneca",
+      "St. Lawrence",
+      "Steuben",
+      "Suffolk",
+      "Sullivan",
+      "Tioga",
+      "Tompkins",
+      "Ulster",
+      "Warren",
+      "Washington",
+      "Wayne",
+      "Westchester",
+      "Wyoming",
+      "Yates"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "Adams",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Addison",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Afton",
+      "designation": "Village",
+      "primary_county": "Chenango"
+    },
+    {
+      "name": "Airmont",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Akron",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Albany",
+      "designation": "City",
+      "primary_county": "Albany"
+    },
+    {
+      "name": "Albion",
+      "designation": "Village",
+      "primary_county": "Orleans"
+    },
+    {
+      "name": "Alden",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Alexander",
+      "designation": "Village",
+      "primary_county": "Genesee"
+    },
+    {
+      "name": "Alexandria Bay",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Alfred",
+      "designation": "Village",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Allegany",
+      "designation": "Village",
+      "primary_county": "Cattaraugus"
+    },
+    {
+      "name": "Almond",
+      "designation": "Village",
+      "primary_county": "Allegany",
+      "secondary_counties": [
+        "Steuben"
+      ]
+    },
+    {
+      "name": "Altamont",
+      "designation": "Village",
+      "primary_county": "Albany"
+    },
+    {
+      "name": "Ames",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Amityville",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Amsterdam",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Andover",
+      "designation": "Village",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Angelica",
+      "designation": "Village",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Angola",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Antwerp",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Arcade",
+      "designation": "Village",
+      "primary_county": "Wyoming"
+    },
+    {
+      "name": "Ardsley",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Argyle",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Arkport",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Asharoken",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Athens",
+      "designation": "Village",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Atlantic Beach",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Attica",
+      "designation": "Village",
+      "primary_county": "Wyoming",
+      "secondary_counties": [
+        "Genesse"
+      ]
+    },
+    {
+      "name": "Auburn",
+      "designation": "City",
+      "primary_county": "Cayuga"
+    },
+    {
+      "name": "Aurora",
+      "designation": "Village",
+      "primary_county": "Cayuga"
+    },
+    {
+      "name": "Avoca",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Avon",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Babylon",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Bainbridge",
+      "designation": "Village",
+      "primary_county": "Chenango"
+    },
+    {
+      "name": "Baldwinsville",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Ballston Spa",
+      "designation": "Village",
+      "primary_county": "Saratoga"
+    },
+    {
+      "name": "Barker",
+      "designation": "Village",
+      "primary_county": "Niagara"
+    },
+    {
+      "name": "Batavia",
+      "designation": "City",
+      "primary_county": "Genesee"
+    },
+    {
+      "name": "Bath",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Baxter Estates",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Bayville",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Beacon",
+      "designation": "City",
+      "primary_county": "Dutchess"
+    },
+    {
+      "name": "Belle Terre",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Bellerose",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Bellport",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Belmont",
+      "designation": "Village",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Bemus Point",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Bergen",
+      "designation": "Village",
+      "primary_county": "Genesee"
+    },
+    {
+      "name": "Binghamton",
+      "designation": "City",
+      "primary_county": "Broome"
+    },
+    {
+      "name": "Black River",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Blasdell",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Bloomfield",
+      "designation": "Village",
+      "primary_county": "Ontario"
+    },
+    {
+      "name": "Bloomingburg",
+      "designation": "Village",
+      "primary_county": "Sullivan"
+    },
+    {
+      "name": "Bolivar",
+      "designation": "Village",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Boonville",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Brewster",
+      "designation": "Village",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "Briarcliff Manor",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Brightwaters",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Broadalbin",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Brockport",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Brocton",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Bronxville",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Brookville",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Brownville",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Brushton",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Buchanan",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Buffalo",
+      "designation": "City",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Burdett",
+      "designation": "Village",
+      "primary_county": "Schuyler"
+    },
+    {
+      "name": "Burke",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Caledonia",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Cambridge",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Camden",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Camillus",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Canajoharie",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Canandaigua",
+      "designation": "City",
+      "primary_county": "Ontario"
+    },
+    {
+      "name": "Canaseraga",
+      "designation": "Village",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Canastota",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Candor",
+      "designation": "Village",
+      "primary_county": "Tioga"
+    },
+    {
+      "name": "Canisteo",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Canton",
+      "designation": "Village",
+      "primary_county": "St. Lawrence"
+    },
+    {
+      "name": "Cape Vincent",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Carthage",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Cassadaga",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Castile",
+      "designation": "Village",
+      "primary_county": "Wyoming"
+    },
+    {
+      "name": "Castleton-on-Hudson",
+      "designation": "Village",
+      "primary_county": "Rensselaer"
+    },
+    {
+      "name": "Castorland",
+      "designation": "Village",
+      "primary_county": "Lewis"
+    },
+    {
+      "name": "Cato",
+      "designation": "Village",
+      "primary_county": "Cayuga"
+    },
+    {
+      "name": "Catskill",
+      "designation": "Village",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Cattaraugus",
+      "designation": "Village",
+      "primary_county": "Cattaraugus"
+    },
+    {
+      "name": "Cayuga",
+      "designation": "Village",
+      "primary_county": "Cayuga"
+    },
+    {
+      "name": "Cayuga Heights",
+      "designation": "Village",
+      "primary_county": "Tompkins"
+    },
+    {
+      "name": "Cazenovia",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Cedarhurst",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Celoron",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Central Square",
+      "designation": "Village",
+      "primary_county": "Oswego"
+    },
+    {
+      "name": "Centre Island",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Champlain",
+      "designation": "Village",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Chateaugay",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Chatham",
+      "designation": "Village",
+      "primary_county": "Columbia"
+    },
+    {
+      "name": "Chaumont",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Cherry Valley",
+      "designation": "Village",
+      "primary_county": "Otsego"
+    },
+    {
+      "name": "Chester",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Chestnut Ridge",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Chittenango",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Churchville",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Clayton",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Clayville",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Cleveland",
+      "designation": "Village",
+      "primary_county": "Oswego"
+    },
+    {
+      "name": "Clifton Springs",
+      "designation": "Village",
+      "primary_county": "Ontario"
+    },
+    {
+      "name": "Clinton",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Clyde",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Cobleskill",
+      "designation": "Village",
+      "primary_county": "Schoharie"
+    },
+    {
+      "name": "Cohocton",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Cohoes",
+      "designation": "City",
+      "primary_county": "Albany"
+    },
+    {
+      "name": "Cold Brook",
+      "designation": "Village",
+      "primary_county": "Herkimer"
+    },
+    {
+      "name": "Cold Spring",
+      "designation": "Village",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "Colonie",
+      "designation": "Village",
+      "primary_county": "Albany"
+    },
+    {
+      "name": "Constableville",
+      "designation": "Village",
+      "primary_county": "Lewis"
+    },
+    {
+      "name": "Cooperstown",
+      "designation": "Village",
+      "primary_county": "Otsego"
+    },
+    {
+      "name": "Copenhagen",
+      "designation": "Village",
+      "primary_county": "Lewis"
+    },
+    {
+      "name": "Corfu",
+      "designation": "Village",
+      "primary_county": "Genesee"
+    },
+    {
+      "name": "Corinth",
+      "designation": "Village",
+      "primary_county": "Saratoga"
+    },
+    {
+      "name": "Corning",
+      "designation": "City",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Cornwall-on-Hudson",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Cortland",
+      "designation": "City",
+      "primary_county": "Cortland"
+    },
+    {
+      "name": "Cove Neck",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Coxsackie",
+      "designation": "Village",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Croghan",
+      "designation": "Village",
+      "primary_county": "Lewis"
+    },
+    {
+      "name": "Croton-on-Hudson",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Cuba",
+      "designation": "Village",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Dannemora",
+      "designation": "Village",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Dansville",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Deferiet",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Delanson",
+      "designation": "Village",
+      "primary_county": "Schenectady"
+    },
+    {
+      "name": "Delevan",
+      "designation": "Village",
+      "primary_county": "Cattaraugus"
+    },
+    {
+      "name": "Delhi",
+      "designation": "Village",
+      "primary_county": "Delaware"
+    },
+    {
+      "name": "Depew",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Deposit",
+      "designation": "Village",
+      "primary_county": "Broome",
+      "secondary_counties": [
+        "Delaware"
+      ]
+    },
+    {
+      "name": "Dering Harbor",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "DeRuyter",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Dexter",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Dobbs Ferry",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Dolgeville",
+      "designation": "Village",
+      "primary_county": "Herkimer",
+      "secondary_counties": [
+        "Fulton"
+      ]
+    },
+    {
+      "name": "Dresden",
+      "designation": "Village",
+      "primary_county": "Yates"
+    },
+    {
+      "name": "Dryden",
+      "designation": "Village",
+      "primary_county": "Tompkins"
+    },
+    {
+      "name": "Dundee",
+      "designation": "Village",
+      "primary_county": "Yates"
+    },
+    {
+      "name": "Dunkirk",
+      "designation": "City",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Earlville",
+      "designation": "Village",
+      "primary_county": "Chenango",
+      "secondary_counties": [
+        "Madison"
+      ]
+    },
+    {
+      "name": "East Aurora",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "East Hampton",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "East Hills",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "East Nassau",
+      "designation": "Village",
+      "primary_county": "Rensselaer"
+    },
+    {
+      "name": "East Rochester",
+      "designation": "Coterminous Town-Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "East Rockaway",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "East Syracuse",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "East Williston",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Elba",
+      "designation": "Village",
+      "primary_county": "Genesee"
+    },
+    {
+      "name": "Elbridge",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Ellenville",
+      "designation": "Village",
+      "primary_county": "Ulster"
+    },
+    {
+      "name": "Ellicottville",
+      "designation": "Village",
+      "primary_county": "Cattaraugus"
+    },
+    {
+      "name": "Ellisburg",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Elmira",
+      "designation": "City",
+      "primary_county": "Chemung"
+    },
+    {
+      "name": "Elmira Heights",
+      "designation": "Village",
+      "primary_county": "Chemung"
+    },
+    {
+      "name": "Elmsford",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Endicott",
+      "designation": "Village",
+      "primary_county": "Broome"
+    },
+    {
+      "name": "Esperance",
+      "designation": "Village",
+      "primary_county": "Schoharie"
+    },
+    {
+      "name": "Evans Mills",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Fabius",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Fair Haven",
+      "designation": "Village",
+      "primary_county": "Cayuga"
+    },
+    {
+      "name": "Fairport",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Falconer",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Farmingdale",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Farnham",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Fayetteville",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Fishkill",
+      "designation": "Village",
+      "primary_county": "Dutchess"
+    },
+    {
+      "name": "Fleischmanns",
+      "designation": "Village",
+      "primary_county": "Delaware"
+    },
+    {
+      "name": "Floral Park",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Florida",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Flower Hill",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Fonda",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Fort Ann",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Fort Edward",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Fort Plain",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Frankfort",
+      "designation": "Village",
+      "primary_county": "Herkimer"
+    },
+    {
+      "name": "Franklin",
+      "designation": "Village",
+      "primary_county": "Delaware"
+    },
+    {
+      "name": "Franklinville",
+      "designation": "Village",
+      "primary_county": "Cattaraugus"
+    },
+    {
+      "name": "Fredonia",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Freeport",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Freeville",
+      "designation": "Village",
+      "primary_county": "Tompkins"
+    },
+    {
+      "name": "Fulton",
+      "designation": "City",
+      "primary_county": "Oswego"
+    },
+    {
+      "name": "Fultonville",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Gainesville",
+      "designation": "Village",
+      "primary_county": "Wyoming"
+    },
+    {
+      "name": "Galway",
+      "designation": "Village",
+      "primary_county": "Saratoga"
+    },
+    {
+      "name": "Garden City",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Geneseo",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Geneva",
+      "designation": "City",
+      "primary_county": "Ontario",
+      "secondary_counties": [
+        "Seneca"
+      ]
+    },
+    {
+      "name": "Gilbertsville",
+      "designation": "Village",
+      "primary_county": "Otsego"
+    },
+    {
+      "name": "Glen Cove",
+      "designation": "City",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Glens Falls",
+      "designation": "City",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Glen Park",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Gloversville",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Goshen",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Gouverneur",
+      "designation": "Village",
+      "primary_county": "St. Lawrence"
+    },
+    {
+      "name": "Gowanda",
+      "designation": "Village",
+      "primary_county": "Erie",
+      "secondary_counties": [
+        "Cattaraugus"
+      ]
+    },
+    {
+      "name": "Grand View-on-Hudson",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Granville",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Great Neck",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Great Neck Estates",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Great Neck Plaza",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Green Island",
+      "designation": "Coterminous Town-Village",
+      "primary_county": "Albany"
+    },
+    {
+      "name": "Greene",
+      "designation": "Village",
+      "primary_county": "Chenango"
+    },
+    {
+      "name": "Greenport",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Greenwich",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Greenwood Lake",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Groton",
+      "designation": "Village",
+      "primary_county": "Tompkins"
+    },
+    {
+      "name": "Hagaman",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Hamburg",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Hamilton",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Hammond",
+      "designation": "Village",
+      "primary_county": "St. Lawrence"
+    },
+    {
+      "name": "Hammondsport",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Hancock",
+      "designation": "Village",
+      "primary_county": "Delaware"
+    },
+    {
+      "name": "Hannibal",
+      "designation": "Village",
+      "primary_county": "Oswego"
+    },
+    {
+      "name": "Harriman",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Harrison",
+      "designation": "Coterminous Town-Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Hastings-on-Hudson",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Haverstraw",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Head of the Harbor",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Hempstead",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Herkimer",
+      "designation": "Village",
+      "primary_county": "Herkimer"
+    },
+    {
+      "name": "Heuvelton",
+      "designation": "Village",
+      "primary_county": "St. Lawrence"
+    },
+    {
+      "name": "Hewlett Bay Park",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Hewlett Harbor",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Hewlett Neck",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Highland Falls",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Hillburn",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Hilton",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Hobart",
+      "designation": "Village",
+      "primary_county": "Delaware"
+    },
+    {
+      "name": "Holland Patent",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Holley",
+      "designation": "Village",
+      "primary_county": "Orleans"
+    },
+    {
+      "name": "Homer",
+      "designation": "Village",
+      "primary_county": "Cortland"
+    },
+    {
+      "name": "Honeoye Falls",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Hoosick Falls",
+      "designation": "Village",
+      "primary_county": "Rensselaer"
+    },
+    {
+      "name": "Hornell",
+      "designation": "City",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Horseheads",
+      "designation": "Village",
+      "primary_county": "Chemung"
+    },
+    {
+      "name": "Hudson",
+      "designation": "City",
+      "primary_county": "Columbia"
+    },
+    {
+      "name": "Hudson Falls",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Hunter",
+      "designation": "Village",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Huntington Bay",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Ilion",
+      "designation": "Village",
+      "primary_county": "Herkimer"
+    },
+    {
+      "name": "Interlaken",
+      "designation": "Village",
+      "primary_county": "Seneca"
+    },
+    {
+      "name": "Irvington",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Island Park",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Islandia",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Ithaca",
+      "designation": "City",
+      "primary_county": "Tompkins"
+    },
+    {
+      "name": "Jamestown",
+      "designation": "City",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Jeffersonville",
+      "designation": "Village",
+      "primary_county": "Sullivan"
+    },
+    {
+      "name": "Johnstown",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Johnson City",
+      "designation": "Village",
+      "primary_county": "Broome"
+    },
+    {
+      "name": "Jordan",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Kaser",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Kenmore",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Kensington",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Kinderhook",
+      "designation": "Village",
+      "primary_county": "Columbia"
+    },
+    {
+      "name": "Kings Point",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Kingston",
+      "designation": "City",
+      "primary_county": "Ulster"
+    },
+    {
+      "name": "Kiryas Joel",
+      "designation": "Coterminous Town-Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Lacona",
+      "designation": "Village",
+      "primary_county": "Oswego"
+    },
+    {
+      "name": "Lackawanna",
+      "designation": "City",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Lake George",
+      "designation": "Village",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Lake Grove",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Lake Placid",
+      "designation": "Village",
+      "primary_county": "Essex"
+    },
+    {
+      "name": "Lake Success",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Lakewood",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Lancaster",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Lansing",
+      "designation": "Village",
+      "primary_county": "Tompkins"
+    },
+    {
+      "name": "Larchmont",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Lattingtown",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Laurel Hollow",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Laurens",
+      "designation": "Village",
+      "primary_county": "Otsego"
+    },
+    {
+      "name": "Lawrence",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Le Roy",
+      "designation": "Village",
+      "primary_county": "Genesee"
+    },
+    {
+      "name": "Leicester",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Lewiston",
+      "designation": "Village",
+      "primary_county": "Niagara"
+    },
+    {
+      "name": "Liberty",
+      "designation": "Village",
+      "primary_county": "Sullivan"
+    },
+    {
+      "name": "Lima",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Lindenhurst",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Lisle",
+      "designation": "Village",
+      "primary_county": "Broome"
+    },
+    {
+      "name": "Little Falls",
+      "designation": "City",
+      "primary_county": "Herkimer"
+    },
+    {
+      "name": "Little Valley",
+      "designation": "Village",
+      "primary_county": "Cattaraugus"
+    },
+    {
+      "name": "Liverpool",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Livonia",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Lloyd Harbor",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Lockport",
+      "designation": "City",
+      "primary_county": "Niagara"
+    },
+    {
+      "name": "Lodi",
+      "designation": "Village",
+      "primary_county": "Seneca"
+    },
+    {
+      "name": "Long Beach",
+      "designation": "City",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Lowville",
+      "designation": "Village",
+      "primary_county": "Lewis"
+    },
+    {
+      "name": "Lynbrook",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Lyndonville",
+      "designation": "Village",
+      "primary_county": "Orleans"
+    },
+    {
+      "name": "Lyons Falls",
+      "designation": "Village",
+      "primary_county": "Lewis"
+    },
+    {
+      "name": "Madison",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Malone",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Malverne",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Mamaroneck",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Manchester",
+      "designation": "Village",
+      "primary_county": "Ontario"
+    },
+    {
+      "name": "Manlius",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Mannsville",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Manorhaven",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Marathon",
+      "designation": "Village",
+      "primary_county": "Cortland"
+    },
+    {
+      "name": "Marcellus",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Margaretville",
+      "designation": "Village",
+      "primary_county": "Delaware"
+    },
+    {
+      "name": "Massapequa Park",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Massena",
+      "designation": "Village",
+      "primary_county": "St. Lawrence"
+    },
+    {
+      "name": "Matinecock",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Maybrook",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Mayfield",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Mayville",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "McGraw",
+      "designation": "Village",
+      "primary_county": "Cortland"
+    },
+    {
+      "name": "Mechanicville",
+      "designation": "City",
+      "primary_county": "Saratoga"
+    },
+    {
+      "name": "Medina",
+      "designation": "Village",
+      "primary_county": "Orleans"
+    },
+    {
+      "name": "Menands",
+      "designation": "Village",
+      "primary_county": "Albany"
+    },
+    {
+      "name": "Meridian",
+      "designation": "Village",
+      "primary_county": "Cayuga"
+    },
+    {
+      "name": "Mexico",
+      "designation": "Village",
+      "primary_county": "Oswego"
+    },
+    {
+      "name": "Middleburgh",
+      "designation": "Village",
+      "primary_county": "Schoharie"
+    },
+    {
+      "name": "Middleport",
+      "designation": "Village",
+      "primary_county": "Niagara"
+    },
+    {
+      "name": "Middletown",
+      "designation": "City",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Middleville",
+      "designation": "Village",
+      "primary_county": "Herkimer"
+    },
+    {
+      "name": "Milford",
+      "designation": "Village",
+      "primary_county": "Otsego"
+    },
+    {
+      "name": "Mill Neck",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Millbrook",
+      "designation": "Village",
+      "primary_county": "Dutchess"
+    },
+    {
+      "name": "Millerton",
+      "designation": "Village",
+      "primary_county": "Dutchess"
+    },
+    {
+      "name": "Millport",
+      "designation": "Village",
+      "primary_county": "Chemung"
+    },
+    {
+      "name": "Mineola",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Minoa",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Mohawk",
+      "designation": "Village",
+      "primary_county": "Herkimer"
+    },
+    {
+      "name": "Monroe",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Montebello",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Montgomery",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Monticello",
+      "designation": "Village",
+      "primary_county": "Sullivan"
+    },
+    {
+      "name": "Montour Falls",
+      "designation": "Village",
+      "primary_county": "Schuyler"
+    },
+    {
+      "name": "Moravia",
+      "designation": "Village",
+      "primary_county": "Cayuga"
+    },
+    {
+      "name": "Morris",
+      "designation": "Village",
+      "primary_county": "Otsego"
+    },
+    {
+      "name": "Morrisville",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Mount Kisco",
+      "designation": "Coterminous Town-Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Mount Morris",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Mount Vernon",
+      "designation": "City",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Munnsville",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Munsey Park",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Muttontown",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Naples",
+      "designation": "Village",
+      "primary_county": "Ontario"
+    },
+    {
+      "name": "Nassau",
+      "designation": "Village",
+      "primary_county": "Rensselaer"
+    },
+    {
+      "name": "Nelliston",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Nelsonville",
+      "designation": "Village",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "New Berlin",
+      "designation": "Village",
+      "primary_county": "Chenango"
+    },
+    {
+      "name": "New Hartford",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "New Hempstead",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "New Hyde Park",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "New Paltz",
+      "designation": "Village",
+      "primary_county": "Ulster"
+    },
+    {
+      "name": "New Rochelle",
+      "designation": "City",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "New Square",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "New York City",
+      "designation": "City",
+      "primary_county": "Bronx",
+      "secondary_counties": [
+        "Kings",
+        "New York",
+        "Queens",
+        "Richmond"
+      ]
+    },
+    {
+      "name": "New York Mills",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Newark",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Newark Valley",
+      "designation": "Village",
+      "primary_county": "Tioga"
+    },
+    {
+      "name": "Newburgh",
+      "designation": "City",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Newport",
+      "designation": "Village",
+      "primary_county": "Herkimer"
+    },
+    {
+      "name": "Niagara Falls",
+      "designation": "City",
+      "primary_county": "Niagara"
+    },
+    {
+      "name": "Nichols",
+      "designation": "Village",
+      "primary_county": "Tioga"
+    },
+    {
+      "name": "Nissequogue",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "North Collins",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "North Haven",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "North Hills",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "North Hornell",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "North Syracuse",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "North Tonawanda",
+      "designation": "City",
+      "primary_county": "Niagara"
+    },
+    {
+      "name": "Northport",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Northville",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Norwich",
+      "designation": "City",
+      "primary_county": "Chenango"
+    },
+    {
+      "name": "Norwood",
+      "designation": "Village",
+      "primary_county": "St. Lawrence"
+    },
+    {
+      "name": "Nunda",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Nyack",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Oakfield",
+      "designation": "Village",
+      "primary_county": "Genesee"
+    },
+    {
+      "name": "Ocean Beach",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Odessa",
+      "designation": "Village",
+      "primary_county": "Schuyler"
+    },
+    {
+      "name": "Ogdensburg",
+      "designation": "City",
+      "primary_county": "St. Lawrence"
+    },
+    {
+      "name": "Old Brookville",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Old Field",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Old Westbury",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Olean",
+      "designation": "City",
+      "primary_county": "Cattaraugus"
+    },
+    {
+      "name": "Oneida",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Oneida Castle",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Oneonta",
+      "designation": "City",
+      "primary_county": "Otsego"
+    },
+    {
+      "name": "Orchard Park",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Oriskany",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Oriskany Falls",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Ossining",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Oswego",
+      "designation": "City",
+      "primary_county": "Oswego"
+    },
+    {
+      "name": "Otego",
+      "designation": "Village",
+      "primary_county": "Otsego"
+    },
+    {
+      "name": "Otisville",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Ovid",
+      "designation": "Village",
+      "primary_county": "Seneca"
+    },
+    {
+      "name": "Owego",
+      "designation": "Village",
+      "primary_county": "Tioga"
+    },
+    {
+      "name": "Oxford",
+      "designation": "Village",
+      "primary_county": "Chenango"
+    },
+    {
+      "name": "Oyster Bay Cove",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Painted Post",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Palatine Bridge",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Palmyra",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Panama",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Parish",
+      "designation": "Village",
+      "primary_county": "Oswego"
+    },
+    {
+      "name": "Patchogue",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Pawling",
+      "designation": "Village",
+      "primary_county": "Dutchess"
+    },
+    {
+      "name": "Peekskill",
+      "designation": "City",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Pelham",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Pelham Manor",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Penn Yan",
+      "designation": "Village",
+      "primary_county": "Yates"
+    },
+    {
+      "name": "Perry",
+      "designation": "Village",
+      "primary_county": "Wyoming"
+    },
+    {
+      "name": "Phelps",
+      "designation": "Village",
+      "primary_county": "Ontario"
+    },
+    {
+      "name": "Philadelphia",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Philmont",
+      "designation": "Village",
+      "primary_county": "Columbia"
+    },
+    {
+      "name": "Phoenix",
+      "designation": "Village",
+      "primary_county": "Oswego"
+    },
+    {
+      "name": "Piermont",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Pittsford",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Plandome",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Plandome Heights",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Plandome Manor",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Plattsburgh",
+      "designation": "City",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Pleasantville",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Poland",
+      "designation": "Village",
+      "primary_county": "Herkimer"
+    },
+    {
+      "name": "Pomona",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Poquott",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Port Byron",
+      "designation": "Village",
+      "primary_county": "Cayuga"
+    },
+    {
+      "name": "Port Chester",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Port Dickinson",
+      "designation": "Village",
+      "primary_county": "Broome"
+    },
+    {
+      "name": "Port Jefferson",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Port Jervis",
+      "designation": "City",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Port Leyden",
+      "designation": "Village",
+      "primary_county": "Lewis"
+    },
+    {
+      "name": "Port Washington North",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Portville",
+      "designation": "Village",
+      "primary_county": "Cattaraugus"
+    },
+    {
+      "name": "Potsdam",
+      "designation": "Village",
+      "primary_county": "St. Lawrence"
+    },
+    {
+      "name": "Poughkeepsie",
+      "designation": "City",
+      "primary_county": "Dutchess"
+    },
+    {
+      "name": "Pulaski",
+      "designation": "Village",
+      "primary_county": "Oswego"
+    },
+    {
+      "name": "Quogue",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Ravena",
+      "designation": "Village",
+      "primary_county": "Albany"
+    },
+    {
+      "name": "Red Creek",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Red Hook",
+      "designation": "Village",
+      "primary_county": "Dutchess"
+    },
+    {
+      "name": "Remsen",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Rensselaer",
+      "designation": "City",
+      "primary_county": "Rensselaer"
+    },
+    {
+      "name": "Rensselaer Falls",
+      "designation": "Village",
+      "primary_county": "St. Lawrence"
+    },
+    {
+      "name": "Rhinebeck",
+      "designation": "Village",
+      "primary_county": "Dutchess"
+    },
+    {
+      "name": "Richburg",
+      "designation": "Village",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Richfield Springs",
+      "designation": "Village",
+      "primary_county": "Otsego"
+    },
+    {
+      "name": "Richmondville",
+      "designation": "Village",
+      "primary_county": "Schoharie"
+    },
+    {
+      "name": "Richville",
+      "designation": "Village",
+      "primary_county": "St. Lawrence"
+    },
+    {
+      "name": "Riverside",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Rochester",
+      "designation": "City",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Rockville Centre",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Rome",
+      "designation": "City",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Roslyn",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Roslyn Estates",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Roslyn Harbor",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Round Lake",
+      "designation": "Village",
+      "primary_county": "Saratoga"
+    },
+    {
+      "name": "Rouses Point",
+      "designation": "Village",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Rushville",
+      "designation": "Village",
+      "primary_county": "Yates",
+      "secondary_counties": [
+        "Ontario"
+      ]
+    },
+    {
+      "name": "Russell Gardens",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Rye",
+      "designation": "City",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Rye Brook",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Sackets Harbor",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Saddle Rock",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Sag Harbor",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Sagaponack",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Salamanca",
+      "designation": "City",
+      "primary_county": "Cattaraugus"
+    },
+    {
+      "name": "Saltaire",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Sands Point",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Sandy Creek",
+      "designation": "Village",
+      "primary_county": "Oswego"
+    },
+    {
+      "name": "Saranac Lake",
+      "designation": "Village",
+      "primary_county": "Essex",
+      "secondary_counties": [
+        "Franklin"
+      ]
+    },
+    {
+      "name": "Saratoga Springs",
+      "designation": "City",
+      "primary_county": "Saratoga"
+    },
+    {
+      "name": "Saugerties",
+      "designation": "Village",
+      "primary_county": "Ulster"
+    },
+    {
+      "name": "Savona",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Scarsdale",
+      "designation": "Coterminous Town-Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Schaghticoke",
+      "designation": "Village",
+      "primary_county": "Rensselaer"
+    },
+    {
+      "name": "Schenectady",
+      "designation": "City",
+      "primary_county": "Schenectady"
+    },
+    {
+      "name": "Schoharie",
+      "designation": "Village",
+      "primary_county": "Schoharie"
+    },
+    {
+      "name": "Schuylerville",
+      "designation": "Village",
+      "primary_county": "Saratoga"
+    },
+    {
+      "name": "Scotia",
+      "designation": "Village",
+      "primary_county": "Schenectady"
+    },
+    {
+      "name": "Scottsville",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Sea Cliff",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Sharon Springs",
+      "designation": "Village",
+      "primary_county": "Schoharie"
+    },
+    {
+      "name": "Sherburne",
+      "designation": "Village",
+      "primary_county": "Chenango"
+    },
+    {
+      "name": "Sherman",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Sherrill",
+      "designation": "City",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Shoreham",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Shortsville",
+      "designation": "Village",
+      "primary_county": "Ontario"
+    },
+    {
+      "name": "Sidney",
+      "designation": "Village",
+      "primary_county": "Delaware"
+    },
+    {
+      "name": "Silver Creek",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Silver Springs",
+      "designation": "Village",
+      "primary_county": "Wyoming"
+    },
+    {
+      "name": "Sinclairville",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Skaneateles",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Sleepy Hollow",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Sloan",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Sloatsburg",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Smyrna",
+      "designation": "Village",
+      "primary_county": "Chenango"
+    },
+    {
+      "name": "Sodus",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Sodus Point",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Solvay",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "South Blooming Grove",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "South Corning",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "South Dayton",
+      "designation": "Village",
+      "primary_county": "Cattaraugus"
+    },
+    {
+      "name": "South Floral Park",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "South Glens Falls",
+      "designation": "Village",
+      "primary_county": "Saratoga"
+    },
+    {
+      "name": "Southampton",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Speculator",
+      "designation": "Village",
+      "primary_county": "Hamilton"
+    },
+    {
+      "name": "Spencer",
+      "designation": "Village",
+      "primary_county": "Tioga"
+    },
+    {
+      "name": "Spencerport",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Spring Valley",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Springville",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "St. Johnsville",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Stamford",
+      "designation": "Village",
+      "primary_county": "Delaware"
+    },
+    {
+      "name": "Stewart Manor",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Stillwater",
+      "designation": "Village",
+      "primary_county": "Saratoga"
+    },
+    {
+      "name": "Suffern",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Sylvan Beach",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Syracuse",
+      "designation": "City",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Tannersville",
+      "designation": "Village",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Tarrytown",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Theresa",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Thomaston",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Tivoli",
+      "designation": "Village",
+      "primary_county": "Dutchess"
+    },
+    {
+      "name": "Tonawanda",
+      "designation": "City",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Troy",
+      "designation": "City",
+      "primary_county": "Rensselaer"
+    },
+    {
+      "name": "Trumansburg",
+      "designation": "Village",
+      "primary_county": "Tompkins"
+    },
+    {
+      "name": "Tuckahoe",
+      "designation": "Village",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Tully",
+      "designation": "Village",
+      "primary_county": "Onondaga"
+    },
+    {
+      "name": "Tupper Lake",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Turin",
+      "designation": "Village",
+      "primary_county": "Lewis"
+    },
+    {
+      "name": "Tuxedo",
+      "designation": "Consolidated Town-Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Tuxedo Park",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Unadilla",
+      "designation": "Village",
+      "primary_county": "Otsego"
+    },
+    {
+      "name": "Union Springs",
+      "designation": "Village",
+      "primary_county": "Cayuga"
+    },
+    {
+      "name": "Unionville",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Upper Brookville",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Upper Nyack",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "Utica",
+      "designation": "City",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Valatie",
+      "designation": "Village",
+      "primary_county": "Columbia"
+    },
+    {
+      "name": "Valley Falls",
+      "designation": "Village",
+      "primary_county": "Rensselaer"
+    },
+    {
+      "name": "Valley Stream",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Vernon",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Victor",
+      "designation": "Village",
+      "primary_county": "Ontario"
+    },
+    {
+      "name": "Victory",
+      "designation": "Village",
+      "primary_county": "Saratoga"
+    },
+    {
+      "name": "Village of the Branch",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "Voorheesville",
+      "designation": "Village",
+      "primary_county": "Albany"
+    },
+    {
+      "name": "Waddington",
+      "designation": "Village",
+      "primary_county": "St. Lawrence"
+    },
+    {
+      "name": "Walden",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Walton",
+      "designation": "Village",
+      "primary_county": "Delaware"
+    },
+    {
+      "name": "Wampsville",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Wappingers Falls",
+      "designation": "Village",
+      "primary_county": "Dutchess"
+    },
+    {
+      "name": "Warsaw",
+      "designation": "Village",
+      "primary_county": "Wyoming"
+    },
+    {
+      "name": "Warwick",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Washingtonville",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Waterford",
+      "designation": "Village",
+      "primary_county": "Saratoga"
+    },
+    {
+      "name": "Waterloo",
+      "designation": "Village",
+      "primary_county": "Seneca"
+    },
+    {
+      "name": "Watertown",
+      "designation": "City",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Waterville",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Watervliet",
+      "designation": "City",
+      "primary_county": "Albany"
+    },
+    {
+      "name": "Watkins Glen",
+      "designation": "Village",
+      "primary_county": "Schuyler"
+    },
+    {
+      "name": "Waverly",
+      "designation": "Village",
+      "primary_county": "Tioga"
+    },
+    {
+      "name": "Wayland",
+      "designation": "Village",
+      "primary_county": "Steuben"
+    },
+    {
+      "name": "Webster",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Weedsport",
+      "designation": "Village",
+      "primary_county": "Cayuga"
+    },
+    {
+      "name": "Wellsburg",
+      "designation": "Village",
+      "primary_county": "Chemung"
+    },
+    {
+      "name": "Wellsville",
+      "designation": "Village",
+      "primary_county": "Allegany"
+    },
+    {
+      "name": "Wesley Hills",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "West Carthage",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "West Hampton Dunes",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "West Haverstraw",
+      "designation": "Village",
+      "primary_county": "Rockland"
+    },
+    {
+      "name": "West Winfield",
+      "designation": "Village",
+      "primary_county": "Herkimer"
+    },
+    {
+      "name": "Westbury",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Westfield",
+      "designation": "Village",
+      "primary_county": "Chautauqua"
+    },
+    {
+      "name": "Westhampton Beach",
+      "designation": "Village",
+      "primary_county": "Suffolk"
+    },
+    {
+      "name": "White Plains",
+      "designation": "City",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Whitehall",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Whitesboro",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Whitney Point",
+      "designation": "Village",
+      "primary_county": "Broome"
+    },
+    {
+      "name": "Williamsville",
+      "designation": "Village",
+      "primary_county": "Erie"
+    },
+    {
+      "name": "Williston Park",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Wilson",
+      "designation": "Village",
+      "primary_county": "Niagara"
+    },
+    {
+      "name": "Windsor",
+      "designation": "Village",
+      "primary_county": "Broome"
+    },
+    {
+      "name": "Wolcott",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Woodbury",
+      "designation": "Village",
+      "primary_county": "Orange"
+    },
+    {
+      "name": "Woodridge",
+      "designation": "Village",
+      "primary_county": "Sullivan"
+    },
+    {
+      "name": "Woodsburgh",
+      "designation": "Village",
+      "primary_county": "Nassau"
+    },
+    {
+      "name": "Wurtsboro",
+      "designation": "Village",
+      "primary_county": "Sullivan"
+    },
+    {
+      "name": "Wyoming",
+      "designation": "Village",
+      "primary_county": "Wyoming"
+    },
+    {
+      "name": "Yonkers",
+      "designation": "City",
+      "primary_county": "Westchester"
+    },
+    {
+      "name": "Yorkville",
+      "designation": "Village",
+      "primary_county": "Oneida"
+    },
+    {
+      "name": "Youngstown",
+      "designation": "Village",
+      "primary_county": "Niagara"
+    }
+  ]
+}

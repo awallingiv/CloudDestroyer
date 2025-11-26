@@ -1,0 +1,3457 @@
+{
+  "metadata": {
+    "state": "California",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_California",
+    "scraped_at": "2025-11-21 21:59:09",
+    "scraper_version": "2.0_generic",
+    "description": "California municipalities scraped from Wikipedia",
+    "total_municipalities": 483,
+    "statistics": {
+      "total_found": 483,
+      "with_population": 0,
+      "with_counties": 483,
+      "unique_counties": 55,
+      "population_stats": {}
+    },
+    "counties": [
+      "Alameda",
+      "Amador",
+      "Butte",
+      "Calaveras",
+      "Colusa",
+      "Contra Costa",
+      "Del Norte",
+      "El Dorado",
+      "Fresno",
+      "Glenn",
+      "Humboldt",
+      "Imperial",
+      "Inyo",
+      "Kern",
+      "Kings",
+      "Lake",
+      "Lassen",
+      "Los Angeles",
+      "Madera",
+      "Marin",
+      "Mendocino",
+      "Merced",
+      "Modoc",
+      "Mono",
+      "Monterey",
+      "Napa",
+      "Nevada",
+      "Orange",
+      "Placer",
+      "Plumas",
+      "Riverside",
+      "Sacramento",
+      "San Benito",
+      "San Bernardino",
+      "San Diego",
+      "San Francisco",
+      "San Joaquin",
+      "San Luis Obispo",
+      "San Mateo",
+      "Santa Barbara",
+      "Santa Clara",
+      "Santa Cruz",
+      "Shasta",
+      "Sierra",
+      "Siskiyou",
+      "Solano",
+      "Sonoma",
+      "Stanislaus",
+      "Sutter",
+      "Tehama",
+      "Tulare",
+      "Tuolumne",
+      "Ventura",
+      "Yolo",
+      "Yuba"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "Adelanto",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 52.87,
+      "incorporated": "December 22, 1970"
+    },
+    {
+      "name": "Agoura Hills",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 7.8,
+      "incorporated": "December 8, 1982"
+    },
+    {
+      "name": "Alameda",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 10.45,
+      "incorporated": "April 19, 1854"
+    },
+    {
+      "name": "Albany",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 1.79,
+      "incorporated": "September 22, 1908"
+    },
+    {
+      "name": "Alhambra",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 7.63,
+      "incorporated": "July 11, 1903"
+    },
+    {
+      "name": "Aliso Viejo",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 6.93,
+      "incorporated": "July 1, 2001"
+    },
+    {
+      "name": "Alturas†",
+      "designation": "City",
+      "primary_county": "Modoc",
+      "area_sq_mi": 2.84,
+      "incorporated": "September 16, 1901"
+    },
+    {
+      "name": "Amador City",
+      "designation": "City",
+      "primary_county": "Amador",
+      "area_sq_mi": 0.31,
+      "incorporated": "June 2, 1915"
+    },
+    {
+      "name": "American Canyon",
+      "designation": "City",
+      "primary_county": "Napa",
+      "area_sq_mi": 6.09,
+      "incorporated": "January 1, 1992"
+    },
+    {
+      "name": "Anaheim",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 50.27,
+      "incorporated": "March 18, 1876"
+    },
+    {
+      "name": "Anderson",
+      "designation": "City",
+      "primary_county": "Shasta",
+      "area_sq_mi": 7.03,
+      "incorporated": "January 16, 1956"
+    },
+    {
+      "name": "Angels Camp",
+      "designation": "City",
+      "primary_county": "Calaveras",
+      "area_sq_mi": 3.63,
+      "incorporated": "January 16, 1912"
+    },
+    {
+      "name": "Antioch",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 29.17,
+      "incorporated": "February 6, 1872"
+    },
+    {
+      "name": "Apple Valley",
+      "designation": "Town",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 77.01,
+      "incorporated": "November 28, 1988"
+    },
+    {
+      "name": "Arcadia",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 10.93,
+      "incorporated": "August 5, 1903"
+    },
+    {
+      "name": "Arcata",
+      "designation": "City",
+      "primary_county": "Humboldt",
+      "area_sq_mi": 9.42,
+      "incorporated": "February 2, 1858"
+    },
+    {
+      "name": "Arroyo Grande",
+      "designation": "City",
+      "primary_county": "San Luis Obispo",
+      "area_sq_mi": 5.94,
+      "incorporated": "July 10, 1911"
+    },
+    {
+      "name": "Artesia",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 1.62,
+      "incorporated": "May 29, 1959"
+    },
+    {
+      "name": "Arvin",
+      "designation": "City",
+      "primary_county": "Kern",
+      "area_sq_mi": 4.82,
+      "incorporated": "December 21, 1960"
+    },
+    {
+      "name": "Atascadero",
+      "designation": "City",
+      "primary_county": "San Luis Obispo",
+      "area_sq_mi": 26.07,
+      "incorporated": "July 2, 1979"
+    },
+    {
+      "name": "Atherton",
+      "designation": "Town",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 5.02,
+      "incorporated": "September 12, 1923"
+    },
+    {
+      "name": "Atwater",
+      "designation": "City",
+      "primary_county": "Merced",
+      "area_sq_mi": 6.57,
+      "incorporated": "August 16, 1922"
+    },
+    {
+      "name": "Auburn†",
+      "designation": "City",
+      "primary_county": "Placer",
+      "area_sq_mi": 7.18,
+      "incorporated": "May 2, 1888"
+    },
+    {
+      "name": "Avalon",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 2.89,
+      "incorporated": "June 26, 1913"
+    },
+    {
+      "name": "Avenal",
+      "designation": "City",
+      "primary_county": "Kings",
+      "area_sq_mi": 19.48,
+      "incorporated": "September 11, 1979"
+    },
+    {
+      "name": "Azusa",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 9.66,
+      "incorporated": "December 29, 1898"
+    },
+    {
+      "name": "Bakersfield†",
+      "designation": "City",
+      "primary_county": "Kern",
+      "area_sq_mi": 149.78,
+      "incorporated": "January 11, 1898"
+    },
+    {
+      "name": "Baldwin Park",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 6.63,
+      "incorporated": "January 25, 1956"
+    },
+    {
+      "name": "Banning",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 23.24,
+      "incorporated": "February 6, 1913"
+    },
+    {
+      "name": "Barstow",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 41.3,
+      "incorporated": "September 30, 1947"
+    },
+    {
+      "name": "Beaumont",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 30.32,
+      "incorporated": "November 18, 1912"
+    },
+    {
+      "name": "Bell",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 2.51,
+      "incorporated": "November 7, 1927"
+    },
+    {
+      "name": "Bell Gardens",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 2.46,
+      "incorporated": "August 1, 1961"
+    },
+    {
+      "name": "Bellflower",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 6.12,
+      "incorporated": "September 3, 1957"
+    },
+    {
+      "name": "Belmont",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 4.63,
+      "incorporated": "October 29, 1926"
+    },
+    {
+      "name": "Belvedere",
+      "designation": "City",
+      "primary_county": "Marin",
+      "area_sq_mi": 0.52,
+      "incorporated": "December 24, 1896"
+    },
+    {
+      "name": "Benicia",
+      "designation": "City",
+      "primary_county": "Solano",
+      "area_sq_mi": 12.81,
+      "incorporated": "March 27, 1850"
+    },
+    {
+      "name": "Berkeley",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 10.43,
+      "incorporated": "April 4, 1878"
+    },
+    {
+      "name": "Beverly Hills",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 5.71,
+      "incorporated": "January 28, 1914"
+    },
+    {
+      "name": "Big Bear Lake",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 6.24,
+      "incorporated": "November 28, 1980"
+    },
+    {
+      "name": "Biggs",
+      "designation": "City",
+      "primary_county": "Butte",
+      "area_sq_mi": 0.9,
+      "incorporated": "June 26, 1903"
+    },
+    {
+      "name": "Bishop",
+      "designation": "City",
+      "primary_county": "Inyo",
+      "area_sq_mi": 1.86,
+      "incorporated": "May 6, 1903"
+    },
+    {
+      "name": "Blue Lake",
+      "designation": "City",
+      "primary_county": "Humboldt",
+      "area_sq_mi": 0.59,
+      "incorporated": "April 23, 1910"
+    },
+    {
+      "name": "Blythe",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 26.58,
+      "incorporated": "July 21, 1916"
+    },
+    {
+      "name": "Bradbury",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 1.96,
+      "incorporated": "July 26, 1957"
+    },
+    {
+      "name": "Brawley",
+      "designation": "City",
+      "primary_county": "Imperial",
+      "area_sq_mi": 8.12,
+      "incorporated": "April 6, 1908"
+    },
+    {
+      "name": "Brea",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 12.17,
+      "incorporated": "February 23, 1917"
+    },
+    {
+      "name": "Brentwood",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 14.87,
+      "incorporated": "January 21, 1948"
+    },
+    {
+      "name": "Brisbane",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 2.99,
+      "incorporated": "November 27, 1961"
+    },
+    {
+      "name": "Buellton",
+      "designation": "City",
+      "primary_county": "Santa Barbara",
+      "area_sq_mi": 1.58,
+      "incorporated": "February 1, 1992"
+    },
+    {
+      "name": "Buena Park",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 10.53,
+      "incorporated": "January 27, 1953"
+    },
+    {
+      "name": "Burbank",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 17.32,
+      "incorporated": "July 8, 1911"
+    },
+    {
+      "name": "Burlingame",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 4.39,
+      "incorporated": "June 6, 1908"
+    },
+    {
+      "name": "Calabasas",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 13.71,
+      "incorporated": "April 5, 1991"
+    },
+    {
+      "name": "Calexico",
+      "designation": "City",
+      "primary_county": "Imperial",
+      "area_sq_mi": 8.62,
+      "incorporated": "April 16, 1908"
+    },
+    {
+      "name": "California City",
+      "designation": "City",
+      "primary_county": "Kern",
+      "area_sq_mi": 203.61,
+      "incorporated": "December 10, 1965"
+    },
+    {
+      "name": "Calimesa",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 14.86,
+      "incorporated": "December 1, 1990"
+    },
+    {
+      "name": "Calipatria",
+      "designation": "City",
+      "primary_county": "Imperial",
+      "area_sq_mi": 3.7,
+      "incorporated": "February 28, 1919"
+    },
+    {
+      "name": "Calistoga",
+      "designation": "City",
+      "primary_county": "Napa",
+      "area_sq_mi": 2.58,
+      "incorporated": "January 6, 1886"
+    },
+    {
+      "name": "Camarillo",
+      "designation": "City",
+      "primary_county": "Ventura",
+      "area_sq_mi": 19.69,
+      "incorporated": "March 28, 1964"
+    },
+    {
+      "name": "Campbell",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 6.08,
+      "incorporated": "March 28, 1952"
+    },
+    {
+      "name": "Canyon Lake",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 3.92,
+      "incorporated": "December 1, 1990"
+    },
+    {
+      "name": "Capitola",
+      "designation": "City",
+      "primary_county": "Santa Cruz",
+      "area_sq_mi": 1.59,
+      "incorporated": "January 11, 1949"
+    },
+    {
+      "name": "Carlsbad",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 37.77,
+      "incorporated": "July 16, 1952"
+    },
+    {
+      "name": "Carmel-by-the-Sea",
+      "designation": "City",
+      "primary_county": "Monterey",
+      "area_sq_mi": 1.06,
+      "incorporated": "October 31, 1916"
+    },
+    {
+      "name": "Carpinteria",
+      "designation": "City",
+      "primary_county": "Santa Barbara",
+      "area_sq_mi": 2.59,
+      "incorporated": "September 28, 1965"
+    },
+    {
+      "name": "Carson",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 18.73,
+      "incorporated": "February 20, 1968"
+    },
+    {
+      "name": "Cathedral City",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 22.49,
+      "incorporated": "November 16, 1981"
+    },
+    {
+      "name": "Ceres",
+      "designation": "City",
+      "primary_county": "Stanislaus",
+      "area_sq_mi": 9.5,
+      "incorporated": "February 25, 1918"
+    },
+    {
+      "name": "Cerritos",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 8.73,
+      "incorporated": "April 24, 1956"
+    },
+    {
+      "name": "Chico",
+      "designation": "City",
+      "primary_county": "Butte",
+      "area_sq_mi": 34.14,
+      "incorporated": "January 8, 1872"
+    },
+    {
+      "name": "Chino",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 29.61,
+      "incorporated": "February 28, 1910"
+    },
+    {
+      "name": "Chino Hills",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 44.65,
+      "incorporated": "December 1, 1991"
+    },
+    {
+      "name": "Chowchilla",
+      "designation": "City",
+      "primary_county": "Madera",
+      "area_sq_mi": 11.09,
+      "incorporated": "February 7, 1923"
+    },
+    {
+      "name": "Chula Vista",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 49.64,
+      "incorporated": "November 28, 1911"
+    },
+    {
+      "name": "Citrus Heights",
+      "designation": "City",
+      "primary_county": "Sacramento",
+      "area_sq_mi": 14.22,
+      "incorporated": "January 1, 1997"
+    },
+    {
+      "name": "Claremont",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 13.34,
+      "incorporated": "October 3, 1907"
+    },
+    {
+      "name": "Clayton",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 3.84,
+      "incorporated": "March 18, 1964"
+    },
+    {
+      "name": "Clearlake",
+      "designation": "City",
+      "primary_county": "Lake",
+      "area_sq_mi": 10.13,
+      "incorporated": "November 14, 1980"
+    },
+    {
+      "name": "Cloverdale",
+      "designation": "City",
+      "primary_county": "Sonoma",
+      "area_sq_mi": 3.14,
+      "incorporated": "February 28, 1872"
+    },
+    {
+      "name": "Clovis",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 25.42,
+      "incorporated": "February 27, 1912"
+    },
+    {
+      "name": "Coachella",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 30.08,
+      "incorporated": "December 13, 1946"
+    },
+    {
+      "name": "Coalinga",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 6.85,
+      "incorporated": "April 3, 1906"
+    },
+    {
+      "name": "Colfax",
+      "designation": "City",
+      "primary_county": "Placer",
+      "area_sq_mi": 1.41,
+      "incorporated": "February 23, 1910"
+    },
+    {
+      "name": "Colma",
+      "designation": "Town",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 1.89,
+      "incorporated": "August 5, 1924"
+    },
+    {
+      "name": "Colton",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 15.55,
+      "incorporated": "July 11, 1887"
+    },
+    {
+      "name": "Colusa†",
+      "designation": "City",
+      "primary_county": "Colusa",
+      "area_sq_mi": 3.42,
+      "incorporated": "June 16, 1868"
+    },
+    {
+      "name": "Commerce",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 6.53,
+      "incorporated": "January 28, 1960"
+    },
+    {
+      "name": "Compton",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 10.03,
+      "incorporated": "May 11, 1888"
+    },
+    {
+      "name": "Concord",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 30.55,
+      "incorporated": "February 9, 1905"
+    },
+    {
+      "name": "Corcoran",
+      "designation": "City",
+      "primary_county": "Kings",
+      "area_sq_mi": 7.46,
+      "incorporated": "August 11, 1914"
+    },
+    {
+      "name": "Corning",
+      "designation": "City",
+      "primary_county": "Tehama",
+      "area_sq_mi": 3.55,
+      "incorporated": "August 6, 1907"
+    },
+    {
+      "name": "Corona",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 39.94,
+      "incorporated": "July 13, 1896"
+    },
+    {
+      "name": "Coronado",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 7.81,
+      "incorporated": "December 11, 1890"
+    },
+    {
+      "name": "Corte Madera",
+      "designation": "Town",
+      "primary_county": "Marin",
+      "area_sq_mi": 3.16,
+      "incorporated": "June 10, 1916"
+    },
+    {
+      "name": "Costa Mesa",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 15.81,
+      "incorporated": "June 29, 1953"
+    },
+    {
+      "name": "Cotati",
+      "designation": "City",
+      "primary_county": "Sonoma",
+      "area_sq_mi": 1.87,
+      "incorporated": "July 16, 1963"
+    },
+    {
+      "name": "Covina",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 7.04,
+      "incorporated": "August 14, 1901"
+    },
+    {
+      "name": "Crescent City†",
+      "designation": "City",
+      "primary_county": "Del Norte",
+      "area_sq_mi": 1.96,
+      "incorporated": "April 13, 1854"
+    },
+    {
+      "name": "Cudahy",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 1.18,
+      "incorporated": "November 10, 1960"
+    },
+    {
+      "name": "Culver City",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 5.11,
+      "incorporated": "September 7, 1917"
+    },
+    {
+      "name": "Cupertino",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 11.33,
+      "incorporated": "October 10, 1955"
+    },
+    {
+      "name": "Cypress",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 6.61,
+      "incorporated": "July 24, 1956"
+    },
+    {
+      "name": "Daly City",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 7.64,
+      "incorporated": "March 22, 1911"
+    },
+    {
+      "name": "Dana Point",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 6.49,
+      "incorporated": "January 1, 1989"
+    },
+    {
+      "name": "Danville",
+      "designation": "Town",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 18.08,
+      "incorporated": "July 1, 1982"
+    },
+    {
+      "name": "Davis",
+      "designation": "City",
+      "primary_county": "Yolo",
+      "area_sq_mi": 9.97,
+      "incorporated": "March 28, 1917"
+    },
+    {
+      "name": "Del Mar",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 1.72,
+      "incorporated": "July 15, 1959"
+    },
+    {
+      "name": "Del Rey Oaks",
+      "designation": "City",
+      "primary_county": "Monterey",
+      "area_sq_mi": 1.05,
+      "incorporated": "September 3, 1953"
+    },
+    {
+      "name": "Delano",
+      "designation": "City",
+      "primary_county": "Kern",
+      "area_sq_mi": 14.72,
+      "incorporated": "April 13, 1915"
+    },
+    {
+      "name": "Desert Hot Springs",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 30.27,
+      "incorporated": "September 25, 1963"
+    },
+    {
+      "name": "Diamond Bar",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 14.87,
+      "incorporated": "April 18, 1989"
+    },
+    {
+      "name": "Dinuba",
+      "designation": "City",
+      "primary_county": "Tulare",
+      "area_sq_mi": 6.51,
+      "incorporated": "January 6, 1906"
+    },
+    {
+      "name": "Dixon",
+      "designation": "City",
+      "primary_county": "Solano",
+      "area_sq_mi": 7.1,
+      "incorporated": "March 30, 1878"
+    },
+    {
+      "name": "Dorris",
+      "designation": "City",
+      "primary_county": "Siskiyou",
+      "area_sq_mi": 0.7,
+      "incorporated": "December 23, 1908"
+    },
+    {
+      "name": "Dos Palos",
+      "designation": "City",
+      "primary_county": "Merced",
+      "area_sq_mi": 1.35,
+      "incorporated": "May 24, 1935"
+    },
+    {
+      "name": "Downey",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 12.41,
+      "incorporated": "December 17, 1956"
+    },
+    {
+      "name": "Duarte",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 6.71,
+      "incorporated": "August 22, 1957"
+    },
+    {
+      "name": "Dublin",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 15.23,
+      "incorporated": "February 1, 1982"
+    },
+    {
+      "name": "Dunsmuir",
+      "designation": "City",
+      "primary_county": "Siskiyou",
+      "area_sq_mi": 1.6,
+      "incorporated": "August 7, 1909"
+    },
+    {
+      "name": "East Palo Alto",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 2.53,
+      "incorporated": "July 1, 1983"
+    },
+    {
+      "name": "Eastvale",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 12.67,
+      "incorporated": "October 1, 2010"
+    },
+    {
+      "name": "El Cajon",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 14.51,
+      "incorporated": "November 12, 1912"
+    },
+    {
+      "name": "El Centro†",
+      "designation": "City",
+      "primary_county": "Imperial",
+      "area_sq_mi": 11.84,
+      "incorporated": "April 16, 1908"
+    },
+    {
+      "name": "El Cerrito",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 3.67,
+      "incorporated": "August 23, 1917"
+    },
+    {
+      "name": "El Monte",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 9.56,
+      "incorporated": "November 18, 1912"
+    },
+    {
+      "name": "El Segundo",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 5.46,
+      "incorporated": "January 18, 1917"
+    },
+    {
+      "name": "Elk Grove",
+      "designation": "City",
+      "primary_county": "Sacramento",
+      "area_sq_mi": 41.99,
+      "incorporated": "July 1, 2000"
+    },
+    {
+      "name": "Emeryville",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 1.27,
+      "incorporated": "December 8, 1896"
+    },
+    {
+      "name": "Encinitas",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 19.06,
+      "incorporated": "October 1, 1986"
+    },
+    {
+      "name": "Escalon",
+      "designation": "City",
+      "primary_county": "San Joaquin",
+      "area_sq_mi": 2.28,
+      "incorporated": "March 12, 1957"
+    },
+    {
+      "name": "Escondido",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 37.35,
+      "incorporated": "October 8, 1888"
+    },
+    {
+      "name": "Etna",
+      "designation": "City",
+      "primary_county": "Siskiyou",
+      "area_sq_mi": 0.76,
+      "incorporated": "March 13, 1878"
+    },
+    {
+      "name": "Eureka†",
+      "designation": "City",
+      "primary_county": "Humboldt",
+      "area_sq_mi": 9.54,
+      "incorporated": "April 18, 1856"
+    },
+    {
+      "name": "Exeter",
+      "designation": "City",
+      "primary_county": "Tulare",
+      "area_sq_mi": 2.46,
+      "incorporated": "March 2, 1911"
+    },
+    {
+      "name": "Fairfax",
+      "designation": "Town",
+      "primary_county": "Marin",
+      "area_sq_mi": 2.23,
+      "incorporated": "March 2, 1931"
+    },
+    {
+      "name": "Fairfield†",
+      "designation": "City",
+      "primary_county": "Solano",
+      "area_sq_mi": 41.59,
+      "incorporated": "December 12, 1903"
+    },
+    {
+      "name": "Farmersville",
+      "designation": "City",
+      "primary_county": "Tulare",
+      "area_sq_mi": 2.2,
+      "incorporated": "October 5, 1960"
+    },
+    {
+      "name": "Ferndale",
+      "designation": "City",
+      "primary_county": "Humboldt",
+      "area_sq_mi": 1.2,
+      "incorporated": "August 28, 1893"
+    },
+    {
+      "name": "Fillmore",
+      "designation": "City",
+      "primary_county": "Ventura",
+      "area_sq_mi": 3.3,
+      "incorporated": "July 10, 1914"
+    },
+    {
+      "name": "Firebaugh",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 3.52,
+      "incorporated": "September 17, 1914"
+    },
+    {
+      "name": "Folsom",
+      "designation": "City",
+      "primary_county": "Sacramento",
+      "area_sq_mi": 27.88,
+      "incorporated": "April 20, 1946"
+    },
+    {
+      "name": "Fontana",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 43.07,
+      "incorporated": "June 25, 1952"
+    },
+    {
+      "name": "Fort Bragg",
+      "designation": "City",
+      "primary_county": "Mendocino",
+      "area_sq_mi": 2.9,
+      "incorporated": "August 5, 1889"
+    },
+    {
+      "name": "Fort Jones",
+      "designation": "Town",
+      "primary_county": "Siskiyou",
+      "area_sq_mi": 0.6,
+      "incorporated": "March 16, 1872"
+    },
+    {
+      "name": "Fortuna",
+      "designation": "City",
+      "primary_county": "Humboldt",
+      "area_sq_mi": 5.25,
+      "incorporated": "January 20, 1906"
+    },
+    {
+      "name": "Foster City",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 3.79,
+      "incorporated": "April 27, 1971"
+    },
+    {
+      "name": "Fountain Valley",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 9.07,
+      "incorporated": "June 13, 1957"
+    },
+    {
+      "name": "Fowler",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 2.53,
+      "incorporated": "June 15, 1908"
+    },
+    {
+      "name": "Fremont",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 78.31,
+      "incorporated": "January 23, 1956"
+    },
+    {
+      "name": "Fresno†",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 115.18,
+      "incorporated": "October 12, 1885"
+    },
+    {
+      "name": "Fullerton",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 22.42,
+      "incorporated": "February 15, 1904"
+    },
+    {
+      "name": "Galt",
+      "designation": "City",
+      "primary_county": "Sacramento",
+      "area_sq_mi": 7.15,
+      "incorporated": "August 16, 1946"
+    },
+    {
+      "name": "Garden Grove",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 17.96,
+      "incorporated": "June 18, 1956"
+    },
+    {
+      "name": "Gardena",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 5.83,
+      "incorporated": "September 11, 1930"
+    },
+    {
+      "name": "Gilroy",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 16.54,
+      "incorporated": "March 12, 1870"
+    },
+    {
+      "name": "Glendale",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 30.48,
+      "incorporated": "February 15, 1906"
+    },
+    {
+      "name": "Glendora",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 19.51,
+      "incorporated": "November 13, 1911"
+    },
+    {
+      "name": "Goleta",
+      "designation": "City",
+      "primary_county": "Santa Barbara",
+      "area_sq_mi": 7.85,
+      "incorporated": "February 1, 2002"
+    },
+    {
+      "name": "Gonzales",
+      "designation": "City",
+      "primary_county": "Monterey",
+      "area_sq_mi": 1.91,
+      "incorporated": "January 14, 1947"
+    },
+    {
+      "name": "Grand Terrace",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 3.5,
+      "incorporated": "November 30, 1978"
+    },
+    {
+      "name": "Grass Valley",
+      "designation": "City",
+      "primary_county": "Nevada",
+      "area_sq_mi": 5.25,
+      "incorporated": "March 13, 1893"
+    },
+    {
+      "name": "Greenfield",
+      "designation": "City",
+      "primary_county": "Monterey",
+      "area_sq_mi": 2.91,
+      "incorporated": "January 7, 1947"
+    },
+    {
+      "name": "Gridley",
+      "designation": "City",
+      "primary_county": "Butte",
+      "area_sq_mi": 2.09,
+      "incorporated": "November 23, 1905"
+    },
+    {
+      "name": "Grover Beach",
+      "designation": "City",
+      "primary_county": "San Luis Obispo",
+      "area_sq_mi": 2.31,
+      "incorporated": "December 21, 1959"
+    },
+    {
+      "name": "Guadalupe",
+      "designation": "City",
+      "primary_county": "Santa Barbara",
+      "area_sq_mi": 1.31,
+      "incorporated": "August 3, 1946"
+    },
+    {
+      "name": "Gustine",
+      "designation": "City",
+      "primary_county": "Merced",
+      "area_sq_mi": 1.55,
+      "incorporated": "November 11, 1915"
+    },
+    {
+      "name": "Half Moon Bay",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 6.24,
+      "incorporated": "July 15, 1959"
+    },
+    {
+      "name": "Hanford†",
+      "designation": "City",
+      "primary_county": "Kings",
+      "area_sq_mi": 17.4,
+      "incorporated": "August 12, 1891"
+    },
+    {
+      "name": "Hawaiian Gardens",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 0.95,
+      "incorporated": "April 9, 1964"
+    },
+    {
+      "name": "Hawthorne",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 6.09,
+      "incorporated": "July 12, 1922"
+    },
+    {
+      "name": "Hayward",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 45.82,
+      "incorporated": "March 11, 1876"
+    },
+    {
+      "name": "Healdsburg",
+      "designation": "City",
+      "primary_county": "Sonoma",
+      "area_sq_mi": 4.42,
+      "incorporated": "February 20, 1867"
+    },
+    {
+      "name": "Hemet",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 29.28,
+      "incorporated": "January 20, 1910"
+    },
+    {
+      "name": "Hercules",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 6.41,
+      "incorporated": "December 15, 1900"
+    },
+    {
+      "name": "Hermosa Beach",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 1.43,
+      "incorporated": "January 14, 1907"
+    },
+    {
+      "name": "Hesperia",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 72.68,
+      "incorporated": "July 1, 1988"
+    },
+    {
+      "name": "Hidden Hills",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 1.69,
+      "incorporated": "January 19, 1961"
+    },
+    {
+      "name": "Highland",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 18.57,
+      "incorporated": "November 24, 1987"
+    },
+    {
+      "name": "Hillsborough",
+      "designation": "Town",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 6.17,
+      "incorporated": "May 5, 1910"
+    },
+    {
+      "name": "Hollister†",
+      "designation": "City",
+      "primary_county": "San Benito",
+      "area_sq_mi": 7.96,
+      "incorporated": "March 26, 1872"
+    },
+    {
+      "name": "Holtville",
+      "designation": "City",
+      "primary_county": "Imperial",
+      "area_sq_mi": 1.15,
+      "incorporated": "July 1, 1908"
+    },
+    {
+      "name": "Hughson",
+      "designation": "City",
+      "primary_county": "Stanislaus",
+      "area_sq_mi": 1.91,
+      "incorporated": "December 9, 1972"
+    },
+    {
+      "name": "Huntington Beach",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 27.0,
+      "incorporated": "February 17, 1909"
+    },
+    {
+      "name": "Huntington Park",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 3.01,
+      "incorporated": "September 1, 1906"
+    },
+    {
+      "name": "Huron",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 1.6,
+      "incorporated": "May 3, 1951"
+    },
+    {
+      "name": "Imperial",
+      "designation": "City",
+      "primary_county": "Imperial",
+      "area_sq_mi": 6.29,
+      "incorporated": "July 12, 1904"
+    },
+    {
+      "name": "Imperial Beach",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 4.29,
+      "incorporated": "July 18, 1956"
+    },
+    {
+      "name": "Indian Wells",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 14.32,
+      "incorporated": "July 14, 1967"
+    },
+    {
+      "name": "Indio",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 33.23,
+      "incorporated": "May 16, 1930"
+    },
+    {
+      "name": "City of Industry",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 11.78,
+      "incorporated": "June 18, 1957"
+    },
+    {
+      "name": "Inglewood",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 9.07,
+      "incorporated": "February 7, 1908"
+    },
+    {
+      "name": "Ione",
+      "designation": "City",
+      "primary_county": "Amador",
+      "area_sq_mi": 4.58,
+      "incorporated": "March 23, 1953"
+    },
+    {
+      "name": "Irvine",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 65.61,
+      "incorporated": "December 28, 1971"
+    },
+    {
+      "name": "Irwindale",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 8.83,
+      "incorporated": "August 6, 1957"
+    },
+    {
+      "name": "Isleton",
+      "designation": "City",
+      "primary_county": "Sacramento",
+      "area_sq_mi": 0.44,
+      "incorporated": "May 14, 1923"
+    },
+    {
+      "name": "Jackson†",
+      "designation": "City",
+      "primary_county": "Amador",
+      "area_sq_mi": 3.58,
+      "incorporated": "December 5, 1905"
+    },
+    {
+      "name": "Jurupa Valley",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 42.94,
+      "incorporated": "July 1, 2011"
+    },
+    {
+      "name": "Kerman",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 3.27,
+      "incorporated": "July 2, 1946"
+    },
+    {
+      "name": "King City",
+      "designation": "City",
+      "primary_county": "Monterey",
+      "area_sq_mi": 3.8,
+      "incorporated": "February 9, 1911"
+    },
+    {
+      "name": "Kingsburg",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 3.72,
+      "incorporated": "May 29, 1908"
+    },
+    {
+      "name": "La Cañada Flintridge",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 8.63,
+      "incorporated": "November 30, 1976"
+    },
+    {
+      "name": "La Habra",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 7.56,
+      "incorporated": "January 20, 1925"
+    },
+    {
+      "name": "La Habra Heights",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 6.16,
+      "incorporated": "December 4, 1978"
+    },
+    {
+      "name": "La Mesa",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 9.09,
+      "incorporated": "February 16, 1912"
+    },
+    {
+      "name": "La Mirada",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 7.82,
+      "incorporated": "March 23, 1960"
+    },
+    {
+      "name": "La Palma",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 1.78,
+      "incorporated": "October 26, 1955"
+    },
+    {
+      "name": "La Puente",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 3.48,
+      "incorporated": "August 1, 1956"
+    },
+    {
+      "name": "La Quinta",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 35.26,
+      "incorporated": "May 1, 1982"
+    },
+    {
+      "name": "La Verne",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 8.42,
+      "incorporated": "August 20, 1906"
+    },
+    {
+      "name": "Lafayette",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 15.02,
+      "incorporated": "July 29, 1968"
+    },
+    {
+      "name": "Laguna Beach",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 8.89,
+      "incorporated": "June 29, 1927"
+    },
+    {
+      "name": "Laguna Hills",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 6.55,
+      "incorporated": "December 20, 1991"
+    },
+    {
+      "name": "Laguna Niguel",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 14.74,
+      "incorporated": "December 1, 1989"
+    },
+    {
+      "name": "Laguna Woods",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 3.34,
+      "incorporated": "March 24, 1999"
+    },
+    {
+      "name": "Lake Elsinore",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 38.24,
+      "incorporated": "April 9, 1888"
+    },
+    {
+      "name": "Lake Forest",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 16.71,
+      "incorporated": "December 20, 1991"
+    },
+    {
+      "name": "Lakeport†",
+      "designation": "City",
+      "primary_county": "Lake",
+      "area_sq_mi": 3.06,
+      "incorporated": "April 30, 1888"
+    },
+    {
+      "name": "Lakewood",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 9.4,
+      "incorporated": "April 16, 1954"
+    },
+    {
+      "name": "Lancaster",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 94.27,
+      "incorporated": "November 22, 1977"
+    },
+    {
+      "name": "Larkspur",
+      "designation": "City",
+      "primary_county": "Marin",
+      "area_sq_mi": 3.0,
+      "incorporated": "March 1, 1908"
+    },
+    {
+      "name": "Lathrop",
+      "designation": "City",
+      "primary_county": "San Joaquin",
+      "area_sq_mi": 19.83,
+      "incorporated": "July 1, 1989"
+    },
+    {
+      "name": "Lawndale",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 1.97,
+      "incorporated": "December 28, 1959"
+    },
+    {
+      "name": "Lemon Grove",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 3.88,
+      "incorporated": "July 1, 1977"
+    },
+    {
+      "name": "Lemoore",
+      "designation": "City",
+      "primary_county": "Kings",
+      "area_sq_mi": 8.81,
+      "incorporated": "July 4, 1900"
+    },
+    {
+      "name": "Lincoln",
+      "designation": "City",
+      "primary_county": "Placer",
+      "area_sq_mi": 24.17,
+      "incorporated": "August 7, 1890"
+    },
+    {
+      "name": "Lindsay",
+      "designation": "City",
+      "primary_county": "Tulare",
+      "area_sq_mi": 2.72,
+      "incorporated": "February 28, 1910"
+    },
+    {
+      "name": "Live Oak",
+      "designation": "City",
+      "primary_county": "Sutter",
+      "area_sq_mi": 3.12,
+      "incorporated": "January 22, 1947"
+    },
+    {
+      "name": "Livermore",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 26.45,
+      "incorporated": "April 1, 1876"
+    },
+    {
+      "name": "Livingston",
+      "designation": "City",
+      "primary_county": "Merced",
+      "area_sq_mi": 3.68,
+      "incorporated": "September 11, 1922"
+    },
+    {
+      "name": "Lodi",
+      "designation": "City",
+      "primary_county": "San Joaquin",
+      "area_sq_mi": 13.64,
+      "incorporated": "December 6, 1906"
+    },
+    {
+      "name": "Loma Linda",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 7.64,
+      "incorporated": "September 29, 1970"
+    },
+    {
+      "name": "Lomita",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 1.91,
+      "incorporated": "June 30, 1964"
+    },
+    {
+      "name": "Lompoc",
+      "designation": "City",
+      "primary_county": "Santa Barbara",
+      "area_sq_mi": 11.62,
+      "incorporated": "August 13, 1888"
+    },
+    {
+      "name": "Long Beach",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 50.71,
+      "incorporated": "December 13, 1897"
+    },
+    {
+      "name": "Loomis",
+      "designation": "Town",
+      "primary_county": "Placer",
+      "area_sq_mi": 7.27,
+      "incorporated": "December 17, 1984"
+    },
+    {
+      "name": "Los Alamitos",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 4.01,
+      "incorporated": "March 1, 1960"
+    },
+    {
+      "name": "Los Altos",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 6.54,
+      "incorporated": "December 1, 1952"
+    },
+    {
+      "name": "Los Altos Hills",
+      "designation": "Town",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 9.03,
+      "incorporated": "January 27, 1956"
+    },
+    {
+      "name": "Los Angeles†",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 469.49,
+      "incorporated": "April 4, 1850"
+    },
+    {
+      "name": "Los Banos",
+      "designation": "City",
+      "primary_county": "Merced",
+      "area_sq_mi": 9.99,
+      "incorporated": "May 8, 1907"
+    },
+    {
+      "name": "Los Gatos",
+      "designation": "Town",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 11.55,
+      "incorporated": "August 10, 1887"
+    },
+    {
+      "name": "Loyalton",
+      "designation": "City",
+      "primary_county": "Sierra",
+      "area_sq_mi": 0.36,
+      "incorporated": "July 21, 1901"
+    },
+    {
+      "name": "Lynwood",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 4.84,
+      "incorporated": "July 21, 1921"
+    },
+    {
+      "name": "Madera†",
+      "designation": "City",
+      "primary_county": "Madera",
+      "area_sq_mi": 16.48,
+      "incorporated": "March 27, 1907"
+    },
+    {
+      "name": "Malibu",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 19.85,
+      "incorporated": "March 28, 1991"
+    },
+    {
+      "name": "Mammoth Lakes",
+      "designation": "Town",
+      "primary_county": "Mono",
+      "area_sq_mi": 24.87,
+      "incorporated": "August 20, 1984"
+    },
+    {
+      "name": "Manhattan Beach",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 3.93,
+      "incorporated": "December 12, 1912"
+    },
+    {
+      "name": "Manteca",
+      "designation": "City",
+      "primary_county": "San Joaquin",
+      "area_sq_mi": 21.39,
+      "incorporated": "June 5, 1918"
+    },
+    {
+      "name": "Maricopa",
+      "designation": "City",
+      "primary_county": "Kern",
+      "area_sq_mi": 1.57,
+      "incorporated": "July 25, 1911"
+    },
+    {
+      "name": "Marina",
+      "designation": "City",
+      "primary_county": "Monterey",
+      "area_sq_mi": 8.91,
+      "incorporated": "November 13, 1975"
+    },
+    {
+      "name": "Martinez†",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 12.63,
+      "incorporated": "April 1, 1876"
+    },
+    {
+      "name": "Marysville†",
+      "designation": "City",
+      "primary_county": "Yuba",
+      "area_sq_mi": 3.46,
+      "incorporated": "February 5, 1851"
+    },
+    {
+      "name": "Maywood",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 1.17,
+      "incorporated": "September 2, 1924"
+    },
+    {
+      "name": "McFarland",
+      "designation": "City",
+      "primary_county": "Kern",
+      "area_sq_mi": 2.68,
+      "incorporated": "July 18, 1957"
+    },
+    {
+      "name": "Mendota",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 3.39,
+      "incorporated": "June 17, 1942"
+    },
+    {
+      "name": "Menifee",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 46.48,
+      "incorporated": "October 1, 2008"
+    },
+    {
+      "name": "Menlo Park",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 9.99,
+      "incorporated": "November 23, 1927"
+    },
+    {
+      "name": "Merced†",
+      "designation": "City",
+      "primary_county": "Merced",
+      "area_sq_mi": 23.25,
+      "incorporated": "April 1, 1889"
+    },
+    {
+      "name": "Mill Valley",
+      "designation": "City",
+      "primary_county": "Marin",
+      "area_sq_mi": 4.78,
+      "incorporated": "September 1, 1900"
+    },
+    {
+      "name": "Millbrae",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 3.27,
+      "incorporated": "January 14, 1948"
+    },
+    {
+      "name": "Milpitas",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 13.48,
+      "incorporated": "January 26, 1954"
+    },
+    {
+      "name": "Mission Viejo",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 17.66,
+      "incorporated": "March 31, 1988"
+    },
+    {
+      "name": "Modesto†",
+      "designation": "City",
+      "primary_county": "Stanislaus",
+      "area_sq_mi": 43.05,
+      "incorporated": "August 6, 1884"
+    },
+    {
+      "name": "Monrovia",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 13.63,
+      "incorporated": "December 15, 1887"
+    },
+    {
+      "name": "Montague",
+      "designation": "City",
+      "primary_county": "Siskiyou",
+      "area_sq_mi": 1.78,
+      "incorporated": "January 28, 1909"
+    },
+    {
+      "name": "Montclair",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 5.53,
+      "incorporated": "April 25, 1956"
+    },
+    {
+      "name": "Monte Sereno",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 1.63,
+      "incorporated": "May 14, 1957"
+    },
+    {
+      "name": "Montebello",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 8.33,
+      "incorporated": "October 16, 1920"
+    },
+    {
+      "name": "Monterey",
+      "designation": "City",
+      "primary_county": "Monterey",
+      "area_sq_mi": 8.65,
+      "incorporated": "June 14, 1890"
+    },
+    {
+      "name": "Monterey Park",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 7.67,
+      "incorporated": "May 29, 1916"
+    },
+    {
+      "name": "Moorpark",
+      "designation": "City",
+      "primary_county": "Ventura",
+      "area_sq_mi": 12.28,
+      "incorporated": "July 1, 1983"
+    },
+    {
+      "name": "Moraga",
+      "designation": "Town",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 9.46,
+      "incorporated": "November 13, 1974"
+    },
+    {
+      "name": "Moreno Valley",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 51.33,
+      "incorporated": "December 3, 1984"
+    },
+    {
+      "name": "Morgan Hill",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 12.94,
+      "incorporated": "November 10, 1906"
+    },
+    {
+      "name": "Morro Bay",
+      "designation": "City",
+      "primary_county": "San Luis Obispo",
+      "area_sq_mi": 5.33,
+      "incorporated": "July 17, 1964"
+    },
+    {
+      "name": "Mount Shasta",
+      "designation": "City",
+      "primary_county": "Siskiyou",
+      "area_sq_mi": 3.77,
+      "incorporated": "May 31, 1905"
+    },
+    {
+      "name": "Mountain House",
+      "designation": "City",
+      "primary_county": "San Joaquin",
+      "area_sq_mi": 4.558,
+      "incorporated": "July 1, 2024"
+    },
+    {
+      "name": "Mountain View",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 11.96,
+      "incorporated": "November 7, 1902"
+    },
+    {
+      "name": "Murrieta",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 33.61,
+      "incorporated": "July 1, 1991"
+    },
+    {
+      "name": "Napa†",
+      "designation": "City",
+      "primary_county": "Napa",
+      "area_sq_mi": 18.05,
+      "incorporated": "March 23, 1872"
+    },
+    {
+      "name": "National City",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 7.3,
+      "incorporated": "September 17, 1887"
+    },
+    {
+      "name": "Needles",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 30.58,
+      "incorporated": "October 30, 1913"
+    },
+    {
+      "name": "Nevada City†",
+      "designation": "City",
+      "primary_county": "Nevada",
+      "area_sq_mi": 2.19,
+      "incorporated": "April 19, 1856"
+    },
+    {
+      "name": "Newark",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 13.92,
+      "incorporated": "September 22, 1955"
+    },
+    {
+      "name": "Newman",
+      "designation": "City",
+      "primary_county": "Stanislaus",
+      "area_sq_mi": 2.06,
+      "incorporated": "June 10, 1908"
+    },
+    {
+      "name": "Newport Beach",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 23.79,
+      "incorporated": "September 1, 1906"
+    },
+    {
+      "name": "Norco",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 13.86,
+      "incorporated": "December 28, 1964"
+    },
+    {
+      "name": "Norwalk",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 9.71,
+      "incorporated": "August 26, 1957"
+    },
+    {
+      "name": "Novato",
+      "designation": "City",
+      "primary_county": "Marin",
+      "area_sq_mi": 27.48,
+      "incorporated": "January 20, 1960"
+    },
+    {
+      "name": "Oakdale",
+      "designation": "City",
+      "primary_county": "Stanislaus",
+      "area_sq_mi": 6.23,
+      "incorporated": "November 24, 1906"
+    },
+    {
+      "name": "Oakland†",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 55.93,
+      "incorporated": "May 4, 1852"
+    },
+    {
+      "name": "Oakley",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 15.87,
+      "incorporated": "July 1, 1999"
+    },
+    {
+      "name": "Oceanside",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 41.27,
+      "incorporated": "July 3, 1888"
+    },
+    {
+      "name": "Ojai",
+      "designation": "City",
+      "primary_county": "Ventura",
+      "area_sq_mi": 4.36,
+      "incorporated": "August 5, 1921"
+    },
+    {
+      "name": "Ontario",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 49.97,
+      "incorporated": "December 10, 1891"
+    },
+    {
+      "name": "Orange",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 25.67,
+      "incorporated": "April 6, 1888"
+    },
+    {
+      "name": "Orange Cove",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 1.79,
+      "incorporated": "January 20, 1948"
+    },
+    {
+      "name": "Orinda",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 12.85,
+      "incorporated": "July 1, 1985"
+    },
+    {
+      "name": "Orland",
+      "designation": "City",
+      "primary_county": "Glenn",
+      "area_sq_mi": 2.99,
+      "incorporated": "November 11, 1909"
+    },
+    {
+      "name": "Oroville†",
+      "designation": "City",
+      "primary_county": "Butte",
+      "area_sq_mi": 13.83,
+      "incorporated": "January 3, 1906"
+    },
+    {
+      "name": "Oxnard",
+      "designation": "City",
+      "primary_county": "Ventura",
+      "area_sq_mi": 26.53,
+      "incorporated": "June 30, 1903"
+    },
+    {
+      "name": "Pacific Grove",
+      "designation": "City",
+      "primary_county": "Monterey",
+      "area_sq_mi": 2.87,
+      "incorporated": "July 5, 1889"
+    },
+    {
+      "name": "Pacifica",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 12.58,
+      "incorporated": "November 22, 1957"
+    },
+    {
+      "name": "Palm Desert",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 26.81,
+      "incorporated": "November 26, 1973"
+    },
+    {
+      "name": "Palm Springs",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 94.55,
+      "incorporated": "April 20, 1938"
+    },
+    {
+      "name": "Palmdale",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 106.06,
+      "incorporated": "August 24, 1962"
+    },
+    {
+      "name": "Palo Alto",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 24.1,
+      "incorporated": "April 23, 1894"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 4.78,
+      "incorporated": "December 20, 1939"
+    },
+    {
+      "name": "Paradise",
+      "designation": "Town",
+      "primary_county": "Butte",
+      "area_sq_mi": 18.32,
+      "incorporated": "November 27, 1979"
+    },
+    {
+      "name": "Paramount",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 4.73,
+      "incorporated": "January 30, 1957"
+    },
+    {
+      "name": "Pasadena",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 22.96,
+      "incorporated": "June 19, 1886"
+    },
+    {
+      "name": "Parlier",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 2.41,
+      "incorporated": "November 15, 1921"
+    },
+    {
+      "name": "Paso Robles",
+      "designation": "City",
+      "primary_county": "San Luis Obispo",
+      "area_sq_mi": 19.65,
+      "incorporated": "March 11, 1889"
+    },
+    {
+      "name": "Patterson",
+      "designation": "City",
+      "primary_county": "Stanislaus",
+      "area_sq_mi": 7.79,
+      "incorporated": "December 22, 1919"
+    },
+    {
+      "name": "Perris",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 31.53,
+      "incorporated": "May 26, 1911"
+    },
+    {
+      "name": "Petaluma",
+      "designation": "City",
+      "primary_county": "Sonoma",
+      "area_sq_mi": 14.42,
+      "incorporated": "April 12, 1858"
+    },
+    {
+      "name": "Pico Rivera",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 8.32,
+      "incorporated": "January 29, 1958"
+    },
+    {
+      "name": "Piedmont",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 1.7,
+      "incorporated": "January 31, 1907"
+    },
+    {
+      "name": "Pinole",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 5.1,
+      "incorporated": "June 25, 1903"
+    },
+    {
+      "name": "Pismo Beach",
+      "designation": "City",
+      "primary_county": "San Luis Obispo",
+      "area_sq_mi": 3.5,
+      "incorporated": "April 25, 1946"
+    },
+    {
+      "name": "Pittsburg",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 17.68,
+      "incorporated": "June 25, 1903"
+    },
+    {
+      "name": "Placentia",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 6.61,
+      "incorporated": "December 2, 1926"
+    },
+    {
+      "name": "Placerville†",
+      "designation": "City",
+      "primary_county": "El Dorado",
+      "area_sq_mi": 5.84,
+      "incorporated": "May 13, 1854"
+    },
+    {
+      "name": "Pleasant Hill",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 7.08,
+      "incorporated": "November 14, 1961"
+    },
+    {
+      "name": "Pleasanton",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 24.14,
+      "incorporated": "June 18, 1894"
+    },
+    {
+      "name": "Plymouth",
+      "designation": "City",
+      "primary_county": "Amador",
+      "area_sq_mi": 2.65,
+      "incorporated": "February 8, 1917"
+    },
+    {
+      "name": "Point Arena",
+      "designation": "City",
+      "primary_county": "Mendocino",
+      "area_sq_mi": 1.37,
+      "incorporated": "July 11, 1908"
+    },
+    {
+      "name": "Pomona",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 22.99,
+      "incorporated": "January 6, 1888"
+    },
+    {
+      "name": "Port Hueneme",
+      "designation": "City",
+      "primary_county": "Ventura",
+      "area_sq_mi": 4.42,
+      "incorporated": "March 24, 1948"
+    },
+    {
+      "name": "Porterville",
+      "designation": "City",
+      "primary_county": "Tulare",
+      "area_sq_mi": 18.65,
+      "incorporated": "May 7, 1902"
+    },
+    {
+      "name": "Portola",
+      "designation": "City",
+      "primary_county": "Plumas",
+      "area_sq_mi": 5.41,
+      "incorporated": "May 16, 1946"
+    },
+    {
+      "name": "Portola Valley",
+      "designation": "Town",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 9.08,
+      "incorporated": "July 14, 1964"
+    },
+    {
+      "name": "Poway",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 39.08,
+      "incorporated": "December 1, 1980"
+    },
+    {
+      "name": "Rancho Cordova",
+      "designation": "City",
+      "primary_county": "Sacramento",
+      "area_sq_mi": 34.57,
+      "incorporated": "July 1, 2003"
+    },
+    {
+      "name": "Rancho Cucamonga",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 40.11,
+      "incorporated": "November 30, 1977"
+    },
+    {
+      "name": "Rancho Mirage",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 25.35,
+      "incorporated": "August 3, 1973"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 13.47,
+      "incorporated": "September 7, 1973"
+    },
+    {
+      "name": "Rancho Santa Margarita",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 12.9,
+      "incorporated": "January 1, 2000"
+    },
+    {
+      "name": "Red Bluff†",
+      "designation": "City",
+      "primary_county": "Tehama",
+      "area_sq_mi": 7.56,
+      "incorporated": "March 31, 1876"
+    },
+    {
+      "name": "Redding†",
+      "designation": "City",
+      "primary_county": "Shasta",
+      "area_sq_mi": 59.65,
+      "incorporated": "October 4, 1887"
+    },
+    {
+      "name": "Redlands",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 35.99,
+      "incorporated": "December 3, 1888"
+    },
+    {
+      "name": "Redondo Beach",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 6.21,
+      "incorporated": "April 29, 1892"
+    },
+    {
+      "name": "Redwood City†",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 19.34,
+      "incorporated": "May 11, 1867"
+    },
+    {
+      "name": "Reedley",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 5.51,
+      "incorporated": "February 18, 1913"
+    },
+    {
+      "name": "Rialto",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 24.09,
+      "incorporated": "November 17, 1911"
+    },
+    {
+      "name": "Richmond",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 30.05,
+      "incorporated": "August 7, 1905"
+    },
+    {
+      "name": "Ridgecrest",
+      "designation": "City",
+      "primary_county": "Kern",
+      "area_sq_mi": 20.86,
+      "incorporated": "November 29, 1963"
+    },
+    {
+      "name": "Rio Dell",
+      "designation": "City",
+      "primary_county": "Humboldt",
+      "area_sq_mi": 2.28,
+      "incorporated": "February 23, 1965"
+    },
+    {
+      "name": "Rio Vista",
+      "designation": "City",
+      "primary_county": "Solano",
+      "area_sq_mi": 6.6,
+      "incorporated": "January 6, 1894"
+    },
+    {
+      "name": "Ripon",
+      "designation": "City",
+      "primary_county": "San Joaquin",
+      "area_sq_mi": 5.33,
+      "incorporated": "November 27, 1945"
+    },
+    {
+      "name": "Riverbank",
+      "designation": "City",
+      "primary_county": "Stanislaus",
+      "area_sq_mi": 4.71,
+      "incorporated": "August 23, 1922"
+    },
+    {
+      "name": "Riverside†",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 81.23,
+      "incorporated": "October 11, 1883"
+    },
+    {
+      "name": "Rocklin",
+      "designation": "City",
+      "primary_county": "Placer",
+      "area_sq_mi": 19.81,
+      "incorporated": "February 24, 1893"
+    },
+    {
+      "name": "Rohnert Park",
+      "designation": "City",
+      "primary_county": "Sonoma",
+      "area_sq_mi": 7.29,
+      "incorporated": "August 28, 1962"
+    },
+    {
+      "name": "Rolling Hills",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 2.99,
+      "incorporated": "January 24, 1957"
+    },
+    {
+      "name": "Rolling Hills Estates",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 3.58,
+      "incorporated": "September 18, 1957"
+    },
+    {
+      "name": "Rosemead",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 5.16,
+      "incorporated": "August 4, 1959"
+    },
+    {
+      "name": "Roseville",
+      "designation": "City",
+      "primary_county": "Placer",
+      "area_sq_mi": 44.08,
+      "incorporated": "April 10, 1909"
+    },
+    {
+      "name": "Ross",
+      "designation": "Town",
+      "primary_county": "Marin",
+      "area_sq_mi": 1.56,
+      "incorporated": "August 21, 1908"
+    },
+    {
+      "name": "Sacramento‡",
+      "designation": "City",
+      "primary_county": "Sacramento",
+      "area_sq_mi": 98.61,
+      "incorporated": "February 27, 1850"
+    },
+    {
+      "name": "St. Helena",
+      "designation": "City",
+      "primary_county": "Napa",
+      "area_sq_mi": 4.96,
+      "incorporated": "March 24, 1876"
+    },
+    {
+      "name": "Salinas†",
+      "designation": "City",
+      "primary_county": "Monterey",
+      "area_sq_mi": 23.52,
+      "incorporated": "March 4, 1874"
+    },
+    {
+      "name": "San Anselmo",
+      "designation": "Town",
+      "primary_county": "Marin",
+      "area_sq_mi": 2.68,
+      "incorporated": "April 9, 1907"
+    },
+    {
+      "name": "San Bernardino†",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 62.13,
+      "incorporated": "August 10, 1869"
+    },
+    {
+      "name": "San Bruno",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 5.49,
+      "incorporated": "December 23, 1914"
+    },
+    {
+      "name": "San Carlos",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 5.41,
+      "incorporated": "July 8, 1925"
+    },
+    {
+      "name": "San Clemente",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 18.36,
+      "incorporated": "February 28, 1928"
+    },
+    {
+      "name": "San Diego†",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 325.88,
+      "incorporated": "March 27, 1850"
+    },
+    {
+      "name": "San Dimas",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 15.03,
+      "incorporated": "August 4, 1960"
+    },
+    {
+      "name": "San Fernando",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 2.37,
+      "incorporated": "August 31, 1911"
+    },
+    {
+      "name": "San Francisco†",
+      "designation": "City and county",
+      "primary_county": "San Francisco",
+      "area_sq_mi": 46.91,
+      "incorporated": "April 15, 1850"
+    },
+    {
+      "name": "San Gabriel",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 4.14,
+      "incorporated": "April 24, 1913"
+    },
+    {
+      "name": "San Jacinto",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 25.96,
+      "incorporated": "April 20, 1888"
+    },
+    {
+      "name": "San Joaquin",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 1.2,
+      "incorporated": "February 14, 1920"
+    },
+    {
+      "name": "San Jose†",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 178.26,
+      "incorporated": "March 27, 1850"
+    },
+    {
+      "name": "San Juan Bautista",
+      "designation": "City",
+      "primary_county": "San Benito",
+      "area_sq_mi": 0.79,
+      "incorporated": "May 4, 1896"
+    },
+    {
+      "name": "San Juan Capistrano",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 14.43,
+      "incorporated": "April 19, 1961"
+    },
+    {
+      "name": "San Leandro",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 13.32,
+      "incorporated": "March 21, 1872"
+    },
+    {
+      "name": "San Luis Obispo†",
+      "designation": "City",
+      "primary_county": "San Luis Obispo",
+      "area_sq_mi": 13.31,
+      "incorporated": "February 16, 1856"
+    },
+    {
+      "name": "San Marcos",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 24.36,
+      "incorporated": "January 28, 1963"
+    },
+    {
+      "name": "San Marino",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 3.77,
+      "incorporated": "April 25, 1913"
+    },
+    {
+      "name": "San Mateo",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 12.13,
+      "incorporated": "September 4, 1894"
+    },
+    {
+      "name": "San Pablo",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 2.62,
+      "incorporated": "April 27, 1948"
+    },
+    {
+      "name": "San Rafael†",
+      "designation": "City",
+      "primary_county": "Marin",
+      "area_sq_mi": 16.59,
+      "incorporated": "February 18, 1874"
+    },
+    {
+      "name": "San Ramon",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 18.69,
+      "incorporated": "July 1, 1983"
+    },
+    {
+      "name": "Sand City",
+      "designation": "City",
+      "primary_county": "Monterey",
+      "area_sq_mi": 0.55,
+      "incorporated": "May 31, 1960"
+    },
+    {
+      "name": "Sanger",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 5.77,
+      "incorporated": "May 9, 1911"
+    },
+    {
+      "name": "Santa Ana†",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 27.34,
+      "incorporated": "June 1, 1886"
+    },
+    {
+      "name": "Santa Barbara†",
+      "designation": "City",
+      "primary_county": "Santa Barbara",
+      "area_sq_mi": 19.51,
+      "incorporated": "April 9, 1850"
+    },
+    {
+      "name": "Santa Clara",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 18.28,
+      "incorporated": "July 5, 1852"
+    },
+    {
+      "name": "Santa Clarita",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 70.75,
+      "incorporated": "December 15, 1987"
+    },
+    {
+      "name": "Santa Cruz†",
+      "designation": "City",
+      "primary_county": "Santa Cruz",
+      "area_sq_mi": 12.74,
+      "incorporated": "March 31, 1866"
+    },
+    {
+      "name": "Santa Fe Springs",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 8.86,
+      "incorporated": "May 15, 1957"
+    },
+    {
+      "name": "Santa Maria",
+      "designation": "City",
+      "primary_county": "Santa Barbara",
+      "area_sq_mi": 22.81,
+      "incorporated": "September 12, 1905"
+    },
+    {
+      "name": "Santa Monica",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 8.41,
+      "incorporated": "November 30, 1886"
+    },
+    {
+      "name": "Santa Paula",
+      "designation": "City",
+      "primary_county": "Ventura",
+      "area_sq_mi": 5.53,
+      "incorporated": "April 22, 1902"
+    },
+    {
+      "name": "Santa Rosa†",
+      "designation": "City",
+      "primary_county": "Sonoma",
+      "area_sq_mi": 42.53,
+      "incorporated": "March 26, 1868"
+    },
+    {
+      "name": "Santee",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 16.54,
+      "incorporated": "December 1, 1980"
+    },
+    {
+      "name": "Saratoga",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 12.78,
+      "incorporated": "October 22, 1956"
+    },
+    {
+      "name": "Sausalito",
+      "designation": "City",
+      "primary_county": "Marin",
+      "area_sq_mi": 1.76,
+      "incorporated": "September 4, 1893"
+    },
+    {
+      "name": "Scotts Valley",
+      "designation": "City",
+      "primary_county": "Santa Cruz",
+      "area_sq_mi": 4.62,
+      "incorporated": "August 2, 1966"
+    },
+    {
+      "name": "Seal Beach",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 11.27,
+      "incorporated": "October 27, 1915"
+    },
+    {
+      "name": "Seaside",
+      "designation": "City",
+      "primary_county": "Monterey",
+      "area_sq_mi": 8.92,
+      "incorporated": "October 13, 1954"
+    },
+    {
+      "name": "Sebastopol",
+      "designation": "City",
+      "primary_county": "Sonoma",
+      "area_sq_mi": 1.88,
+      "incorporated": "June 13, 1902"
+    },
+    {
+      "name": "Selma",
+      "designation": "City",
+      "primary_county": "Fresno",
+      "area_sq_mi": 5.81,
+      "incorporated": "March 15, 1893"
+    },
+    {
+      "name": "Shafter",
+      "designation": "City",
+      "primary_county": "Kern",
+      "area_sq_mi": 38.7,
+      "incorporated": "January 20, 1938"
+    },
+    {
+      "name": "Shasta Lake",
+      "designation": "City",
+      "primary_county": "Shasta",
+      "area_sq_mi": 10.92,
+      "incorporated": "July 2, 1993"
+    },
+    {
+      "name": "Sierra Madre",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 2.95,
+      "incorporated": "February 2, 1907"
+    },
+    {
+      "name": "Signal Hill",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 2.19,
+      "incorporated": "April 22, 1924"
+    },
+    {
+      "name": "Simi Valley",
+      "designation": "City",
+      "primary_county": "Ventura",
+      "area_sq_mi": 41.55,
+      "incorporated": "October 10, 1969"
+    },
+    {
+      "name": "Solana Beach",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 3.41,
+      "incorporated": "July 1, 1986"
+    },
+    {
+      "name": "Soledad",
+      "designation": "City",
+      "primary_county": "Monterey",
+      "area_sq_mi": 4.46,
+      "incorporated": "March 9, 1921"
+    },
+    {
+      "name": "Solvang",
+      "designation": "City",
+      "primary_county": "Santa Barbara",
+      "area_sq_mi": 2.43,
+      "incorporated": "May 1, 1985"
+    },
+    {
+      "name": "Sonoma",
+      "designation": "City",
+      "primary_county": "Sonoma",
+      "area_sq_mi": 2.74,
+      "incorporated": "September 3, 1883"
+    },
+    {
+      "name": "Sonora†",
+      "designation": "City",
+      "primary_county": "Tuolumne",
+      "area_sq_mi": 3.16,
+      "incorporated": "May 1, 1851"
+    },
+    {
+      "name": "South El Monte",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 2.84,
+      "incorporated": "July 30, 1958"
+    },
+    {
+      "name": "South Gate",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 7.24,
+      "incorporated": "January 20, 1923"
+    },
+    {
+      "name": "South Lake Tahoe",
+      "designation": "City",
+      "primary_county": "El Dorado",
+      "area_sq_mi": 10.19,
+      "incorporated": "November 30, 1965"
+    },
+    {
+      "name": "South Pasadena",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 3.41,
+      "incorporated": "March 2, 1888"
+    },
+    {
+      "name": "South San Francisco",
+      "designation": "City",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 9.2,
+      "incorporated": "September 19, 1908"
+    },
+    {
+      "name": "Stanton",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 3.1,
+      "incorporated": "June 4, 1956"
+    },
+    {
+      "name": "Stockton†",
+      "designation": "City",
+      "primary_county": "San Joaquin",
+      "area_sq_mi": 62.21,
+      "incorporated": "July 23, 1850"
+    },
+    {
+      "name": "Suisun City",
+      "designation": "City",
+      "primary_county": "Solano",
+      "area_sq_mi": 4.01,
+      "incorporated": "October 9, 1868"
+    },
+    {
+      "name": "Sunnyvale",
+      "designation": "City",
+      "primary_county": "Santa Clara",
+      "area_sq_mi": 22.06,
+      "incorporated": "December 24, 1912"
+    },
+    {
+      "name": "Susanville†",
+      "designation": "City",
+      "primary_county": "Lassen",
+      "area_sq_mi": 7.92,
+      "incorporated": "August 24, 1900"
+    },
+    {
+      "name": "Sutter Creek",
+      "designation": "City",
+      "primary_county": "Amador",
+      "area_sq_mi": 2.7,
+      "incorporated": "February 11, 1913"
+    },
+    {
+      "name": "Taft",
+      "designation": "City",
+      "primary_county": "Kern",
+      "area_sq_mi": 15.27,
+      "incorporated": "November 7, 1910"
+    },
+    {
+      "name": "Tehachapi",
+      "designation": "City",
+      "primary_county": "Kern",
+      "area_sq_mi": 10.26,
+      "incorporated": "August 13, 1909"
+    },
+    {
+      "name": "Tehama",
+      "designation": "City",
+      "primary_county": "Tehama",
+      "area_sq_mi": 0.79,
+      "incorporated": "July 5, 1906"
+    },
+    {
+      "name": "Temecula",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 37.27,
+      "incorporated": "December 1, 1989"
+    },
+    {
+      "name": "Temple City",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 4.0,
+      "incorporated": "May 25, 1960"
+    },
+    {
+      "name": "Thousand Oaks",
+      "designation": "City",
+      "primary_county": "Ventura",
+      "area_sq_mi": 55.26,
+      "incorporated": "October 7, 1964"
+    },
+    {
+      "name": "Tiburon",
+      "designation": "Town",
+      "primary_county": "Marin",
+      "area_sq_mi": 4.48,
+      "incorporated": "June 23, 1964"
+    },
+    {
+      "name": "Torrance",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 20.52,
+      "incorporated": "May 21, 1921"
+    },
+    {
+      "name": "Tracy",
+      "designation": "City",
+      "primary_county": "San Joaquin",
+      "area_sq_mi": 25.89,
+      "incorporated": "July 22, 1910"
+    },
+    {
+      "name": "Trinidad",
+      "designation": "City",
+      "primary_county": "Humboldt",
+      "area_sq_mi": 0.49,
+      "incorporated": "November 7, 1870"
+    },
+    {
+      "name": "Truckee",
+      "designation": "Town",
+      "primary_county": "Nevada",
+      "area_sq_mi": 32.33,
+      "incorporated": "March 23, 1993"
+    },
+    {
+      "name": "Tulare",
+      "designation": "City",
+      "primary_county": "Tulare",
+      "area_sq_mi": 20.39,
+      "incorporated": "April 5, 1888"
+    },
+    {
+      "name": "Tulelake",
+      "designation": "City",
+      "primary_county": "Siskiyou",
+      "area_sq_mi": 0.41,
+      "incorporated": "March 1, 1937"
+    },
+    {
+      "name": "Turlock",
+      "designation": "City",
+      "primary_county": "Stanislaus",
+      "area_sq_mi": 16.91,
+      "incorporated": "February 15, 1908"
+    },
+    {
+      "name": "Tustin",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 11.16,
+      "incorporated": "September 21, 1927"
+    },
+    {
+      "name": "Twentynine Palms",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 58.75,
+      "incorporated": "November 23, 1987"
+    },
+    {
+      "name": "Ukiah†",
+      "designation": "City",
+      "primary_county": "Mendocino",
+      "area_sq_mi": 4.78,
+      "incorporated": "March 8, 1876"
+    },
+    {
+      "name": "Union City",
+      "designation": "City",
+      "primary_county": "Alameda",
+      "area_sq_mi": 19.18,
+      "incorporated": "January 26, 1959"
+    },
+    {
+      "name": "Upland",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 15.58,
+      "incorporated": "May 15, 1906"
+    },
+    {
+      "name": "Vacaville",
+      "designation": "City",
+      "primary_county": "Solano",
+      "area_sq_mi": 29.87,
+      "incorporated": "August 9, 1892"
+    },
+    {
+      "name": "Vallejo",
+      "designation": "City",
+      "primary_county": "Solano",
+      "area_sq_mi": 30.42,
+      "incorporated": "March 30, 1868"
+    },
+    {
+      "name": "Ventura†",
+      "designation": "City",
+      "primary_county": "Ventura",
+      "area_sq_mi": 21.89,
+      "incorporated": "April 2, 1866"
+    },
+    {
+      "name": "Vernon",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 4.98,
+      "incorporated": "September 22, 1905"
+    },
+    {
+      "name": "Victorville",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 73.71,
+      "incorporated": "September 21, 1962"
+    },
+    {
+      "name": "Villa Park",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 2.08,
+      "incorporated": "January 11, 1962"
+    },
+    {
+      "name": "Visalia†",
+      "designation": "City",
+      "primary_county": "Tulare",
+      "area_sq_mi": 37.94,
+      "incorporated": "February 27, 1874"
+    },
+    {
+      "name": "Vista",
+      "designation": "City",
+      "primary_county": "San Diego",
+      "area_sq_mi": 18.75,
+      "incorporated": "January 28, 1963"
+    },
+    {
+      "name": "Walnut",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 8.99,
+      "incorporated": "January 19, 1959"
+    },
+    {
+      "name": "Walnut Creek",
+      "designation": "City",
+      "primary_county": "Contra Costa",
+      "area_sq_mi": 19.76,
+      "incorporated": "October 21, 1914"
+    },
+    {
+      "name": "Wasco",
+      "designation": "City",
+      "primary_county": "Kern",
+      "area_sq_mi": 9.39,
+      "incorporated": "December 22, 1945"
+    },
+    {
+      "name": "Waterford",
+      "designation": "City",
+      "primary_county": "Stanislaus",
+      "area_sq_mi": 2.36,
+      "incorporated": "November 7, 1969"
+    },
+    {
+      "name": "Watsonville",
+      "designation": "City",
+      "primary_county": "Santa Cruz",
+      "area_sq_mi": 6.71,
+      "incorporated": "March 30, 1868"
+    },
+    {
+      "name": "Weed",
+      "designation": "City",
+      "primary_county": "Siskiyou",
+      "area_sq_mi": 4.82,
+      "incorporated": "January 25, 1961"
+    },
+    {
+      "name": "West Covina",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 16.04,
+      "incorporated": "February 17, 1923"
+    },
+    {
+      "name": "West Hollywood",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 1.89,
+      "incorporated": "November 29, 1984"
+    },
+    {
+      "name": "West Sacramento",
+      "designation": "City",
+      "primary_county": "Yolo",
+      "area_sq_mi": 21.47,
+      "incorporated": "January 1, 1987"
+    },
+    {
+      "name": "Westlake Village",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 5.19,
+      "incorporated": "December 11, 1981"
+    },
+    {
+      "name": "Westminster",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 10.04,
+      "incorporated": "March 27, 1957"
+    },
+    {
+      "name": "Westmorland",
+      "designation": "City",
+      "primary_county": "Imperial",
+      "area_sq_mi": 0.59,
+      "incorporated": "June 30, 1934"
+    },
+    {
+      "name": "Wheatland",
+      "designation": "City",
+      "primary_county": "Yuba",
+      "area_sq_mi": 8.12,
+      "incorporated": "April 23, 1874"
+    },
+    {
+      "name": "Whittier",
+      "designation": "City",
+      "primary_county": "Los Angeles",
+      "area_sq_mi": 14.65,
+      "incorporated": "February 25, 1898"
+    },
+    {
+      "name": "Wildomar",
+      "designation": "City",
+      "primary_county": "Riverside",
+      "area_sq_mi": 23.7,
+      "incorporated": "July 1, 2008"
+    },
+    {
+      "name": "Williams",
+      "designation": "City",
+      "primary_county": "Colusa",
+      "area_sq_mi": 4.95,
+      "incorporated": "May 17, 1920"
+    },
+    {
+      "name": "Willits",
+      "designation": "City",
+      "primary_county": "Mendocino",
+      "area_sq_mi": 2.82,
+      "incorporated": "November 19, 1888"
+    },
+    {
+      "name": "Willows†",
+      "designation": "City",
+      "primary_county": "Glenn",
+      "area_sq_mi": 2.84,
+      "incorporated": "January 16, 1886"
+    },
+    {
+      "name": "Windsor",
+      "designation": "Town",
+      "primary_county": "Sonoma",
+      "area_sq_mi": 7.44,
+      "incorporated": "July 1, 1992"
+    },
+    {
+      "name": "Winters",
+      "designation": "City",
+      "primary_county": "Yolo",
+      "area_sq_mi": 2.94,
+      "incorporated": "February 9, 1898"
+    },
+    {
+      "name": "Woodlake",
+      "designation": "City",
+      "primary_county": "Tulare",
+      "area_sq_mi": 2.61,
+      "incorporated": "September 23, 1941"
+    },
+    {
+      "name": "Woodland†",
+      "designation": "City",
+      "primary_county": "Yolo",
+      "area_sq_mi": 15.32,
+      "incorporated": "February 22, 1871"
+    },
+    {
+      "name": "Woodside",
+      "designation": "Town",
+      "primary_county": "San Mateo",
+      "area_sq_mi": 11.47,
+      "incorporated": "November 16, 1956"
+    },
+    {
+      "name": "Yorba Linda",
+      "designation": "City",
+      "primary_county": "Orange",
+      "area_sq_mi": 19.95,
+      "incorporated": "November 2, 1967"
+    },
+    {
+      "name": "Yountville",
+      "designation": "Town",
+      "primary_county": "Napa",
+      "area_sq_mi": 1.49,
+      "incorporated": "February 4, 1965"
+    },
+    {
+      "name": "Yreka†",
+      "designation": "City",
+      "primary_county": "Siskiyou",
+      "area_sq_mi": 9.99,
+      "incorporated": "April 21, 1857"
+    },
+    {
+      "name": "Yuba City†",
+      "designation": "City",
+      "primary_county": "Sutter",
+      "area_sq_mi": 14.98,
+      "incorporated": "January 23, 1908"
+    },
+    {
+      "name": "Yucaipa",
+      "designation": "City",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 28.27,
+      "incorporated": "November 27, 1989"
+    },
+    {
+      "name": "Yucca Valley",
+      "designation": "Town",
+      "primary_county": "San Bernardino",
+      "area_sq_mi": 39.83,
+      "incorporated": "November 27, 1991"
+    }
+  ]
+}

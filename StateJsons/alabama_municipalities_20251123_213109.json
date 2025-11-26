@@ -1,0 +1,2453 @@
+{
+  "metadata": {
+    "state": "Alabama",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Alabama",
+    "scraped_at": "2025-11-23 21:31:09",
+    "scraper_version": "2.0_generic",
+    "description": "Alabama municipalities scraped from Wikipedia",
+    "total_municipalities": 465,
+    "statistics": {
+      "total_found": 465,
+      "with_population": 0,
+      "with_counties": 464,
+      "unique_counties": 108,
+      "population_stats": {}
+    },
+    "counties": [
+      "Autauga County",
+      "Autauga CountyElmore County",
+      "Baldwin County",
+      "Barbour County",
+      "Bibb County",
+      "Bibb CountyTuscaloosa County",
+      "Blount County",
+      "Blount CountyJefferson County",
+      "Bullock County",
+      "Butler County",
+      "Butler CountyConecuh County",
+      "Calhoun County",
+      "Calhoun CountyCherokee County",
+      "Calhoun CountyTalladega County",
+      "Chambers County",
+      "Chambers CountyLee County",
+      "Cherokee County",
+      "Cherokee CountyDeKalb County",
+      "Chilton County",
+      "Choctaw County",
+      "Clarke County",
+      "Clay County",
+      "Cleburne County",
+      "Coffee County",
+      "Coffee CountyDale County",
+      "Colbert County",
+      "Conecuh County",
+      "Coosa County",
+      "Covington County",
+      "Crenshaw County",
+      "Cullman County",
+      "Cullman CountyBlount County",
+      "Dale County",
+      "Dallas County",
+      "DeKalb County",
+      "DeKalb CountyCherokee County",
+      "Elmore County",
+      "Elmore CountyAutauga County",
+      "Elmore CountyTallapoosa County",
+      "Escambia County",
+      "Etowah County",
+      "Etowah CountyBlount County",
+      "Etowah CountyCalhoun County",
+      "Fayette County",
+      "Fayette CountyMarion County",
+      "Franklin County",
+      "Geneva County",
+      "Greene County",
+      "Hale County",
+      "Hale CountyTuscaloosa County",
+      "Henry County",
+      "Houston County",
+      "Houston CountyDale CountyHenry County",
+      "Houston CountyGeneva County",
+      "Jackson County",
+      "Jefferson County",
+      "Jefferson CountyBlount County",
+      "Jefferson CountyShelby County",
+      "Jefferson CountySt. Clair County",
+      "Jefferson CountySt. Clair CountyShelby County",
+      "Lamar County",
+      "Lauderdale County",
+      "Lawrence County",
+      "Lee County",
+      "Limestone County",
+      "Lowndes County",
+      "Macon County",
+      "Macon CountyLee County",
+      "Madison County",
+      "Madison CountyLimestone County",
+      "Madison CountyLimestone CountyMorgan County",
+      "Marengo County",
+      "Marion County",
+      "Marion CountyFayette County",
+      "Marshall County",
+      "Marshall CountyCullman County",
+      "Marshall CountyEtowah County",
+      "Mobile County",
+      "Monroe County",
+      "Montgomery County",
+      "Morgan County",
+      "Morgan CountyLimestone County",
+      "Perry County",
+      "Pickens County",
+      "Pike County",
+      "Randolph County",
+      "Russell County",
+      "Russell CountyLee County",
+      "Shelby County",
+      "Shelby CountyChilton County",
+      "Shelby CountyJefferson County",
+      "Shelby CountySt. Clair CountyTalladega County",
+      "St. Clair County",
+      "St. Clair CountyJefferson County",
+      "Sumter County",
+      "Talladega County",
+      "Talladega CountyShelby County",
+      "Tallapoosa County",
+      "Tuscaloosa County",
+      "Tuscaloosa CountyBibb County",
+      "Walker County",
+      "Walker CountyJefferson County",
+      "Walker CountyWinston County",
+      "Washington County",
+      "Wilcox County",
+      "Winston County",
+      "Winston CountyMarion County",
+      "—"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi",
+      "designation": "km2"
+    },
+    {
+      "name": "Abbeville†",
+      "designation": "City",
+      "primary_county": "Henry County"
+    },
+    {
+      "name": "Adamsville",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Addison",
+      "designation": "Town",
+      "primary_county": "Winston County"
+    },
+    {
+      "name": "Akron",
+      "designation": "Town",
+      "primary_county": "Hale County"
+    },
+    {
+      "name": "Alabaster",
+      "designation": "City",
+      "primary_county": "Shelby County"
+    },
+    {
+      "name": "Albertville",
+      "designation": "City",
+      "primary_county": "Marshall County"
+    },
+    {
+      "name": "Alexander City",
+      "designation": "City",
+      "primary_county": "Tallapoosa County"
+    },
+    {
+      "name": "Aliceville",
+      "designation": "City",
+      "primary_county": "Pickens County"
+    },
+    {
+      "name": "Allgood",
+      "designation": "Town",
+      "primary_county": "Blount County"
+    },
+    {
+      "name": "Altoona",
+      "designation": "Town",
+      "primary_county": "Etowah CountyBlount County"
+    },
+    {
+      "name": "Andalusia†",
+      "designation": "City",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Anderson",
+      "designation": "Town",
+      "primary_county": "Lauderdale County"
+    },
+    {
+      "name": "Anniston†",
+      "designation": "City",
+      "primary_county": "Calhoun County"
+    },
+    {
+      "name": "Arab",
+      "designation": "City",
+      "primary_county": "Marshall CountyCullman County"
+    },
+    {
+      "name": "Ardmore",
+      "designation": "Town",
+      "primary_county": "Limestone County"
+    },
+    {
+      "name": "Argo",
+      "designation": "City",
+      "primary_county": "St. Clair CountyJefferson County"
+    },
+    {
+      "name": "Ariton",
+      "designation": "Town",
+      "primary_county": "Dale County"
+    },
+    {
+      "name": "Arley",
+      "designation": "Town",
+      "primary_county": "Winston County"
+    },
+    {
+      "name": "Ashford",
+      "designation": "Town",
+      "primary_county": "Houston County"
+    },
+    {
+      "name": "Ashland†",
+      "designation": "City",
+      "primary_county": "Clay County"
+    },
+    {
+      "name": "Ashville†",
+      "designation": "City",
+      "primary_county": "St. Clair County"
+    },
+    {
+      "name": "Athens†",
+      "designation": "City",
+      "primary_county": "Limestone County"
+    },
+    {
+      "name": "Atmore",
+      "designation": "City",
+      "primary_county": "Escambia County"
+    },
+    {
+      "name": "Attalla",
+      "designation": "City",
+      "primary_county": "Etowah County"
+    },
+    {
+      "name": "Auburn",
+      "designation": "City",
+      "primary_county": "Lee County"
+    },
+    {
+      "name": "Autaugaville",
+      "designation": "Town",
+      "primary_county": "Autauga County"
+    },
+    {
+      "name": "Avon",
+      "designation": "Town",
+      "primary_county": "Houston County"
+    },
+    {
+      "name": "Babbie",
+      "designation": "Town",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Baileyton",
+      "designation": "Town",
+      "primary_county": "Cullman County"
+    },
+    {
+      "name": "Bakerhill",
+      "designation": "Town",
+      "primary_county": "Barbour County"
+    },
+    {
+      "name": "Banks",
+      "designation": "Town",
+      "primary_county": "Pike County"
+    },
+    {
+      "name": "Bay Minette†",
+      "designation": "City",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Bayou La Batre",
+      "designation": "City",
+      "primary_county": "Mobile County"
+    },
+    {
+      "name": "Bear Creek",
+      "designation": "Town",
+      "primary_county": "Marion County"
+    },
+    {
+      "name": "Beatrice",
+      "designation": "Town",
+      "primary_county": "Monroe County"
+    },
+    {
+      "name": "Beaverton",
+      "designation": "Town",
+      "primary_county": "Lamar County"
+    },
+    {
+      "name": "Belk",
+      "designation": "Town",
+      "primary_county": "Fayette County"
+    },
+    {
+      "name": "Benton",
+      "designation": "Town",
+      "primary_county": "Lowndes County"
+    },
+    {
+      "name": "Berlin[b]",
+      "designation": "Town",
+      "primary_county": "Cullman County"
+    },
+    {
+      "name": "Berry",
+      "designation": "Town",
+      "primary_county": "Fayette County"
+    },
+    {
+      "name": "Bessemer",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Billingsley",
+      "designation": "Town",
+      "primary_county": "Autauga County"
+    },
+    {
+      "name": "Birmingham†",
+      "designation": "City",
+      "primary_county": "Jefferson CountyShelby County"
+    },
+    {
+      "name": "Black",
+      "designation": "Town",
+      "primary_county": "Geneva County"
+    },
+    {
+      "name": "Blountsville",
+      "designation": "Town",
+      "primary_county": "Blount County"
+    },
+    {
+      "name": "Blue Springs",
+      "designation": "Town",
+      "primary_county": "Barbour County"
+    },
+    {
+      "name": "Boaz",
+      "designation": "City",
+      "primary_county": "Marshall CountyEtowah County"
+    },
+    {
+      "name": "Boligee",
+      "designation": "Town",
+      "primary_county": "Greene County"
+    },
+    {
+      "name": "Bon Air",
+      "designation": "Town",
+      "primary_county": "Talladega County"
+    },
+    {
+      "name": "Brantley",
+      "designation": "Town",
+      "primary_county": "Crenshaw County"
+    },
+    {
+      "name": "Brent",
+      "designation": "City",
+      "primary_county": "Bibb County"
+    },
+    {
+      "name": "Brewton†",
+      "designation": "City",
+      "primary_county": "Escambia County"
+    },
+    {
+      "name": "Bridgeport",
+      "designation": "City",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "Brighton",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Brilliant",
+      "designation": "Town",
+      "primary_county": "Marion County"
+    },
+    {
+      "name": "Brookside",
+      "designation": "Town",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Brookwood",
+      "designation": "City",
+      "primary_county": "Tuscaloosa County"
+    },
+    {
+      "name": "Brundidge",
+      "designation": "City",
+      "primary_county": "Pike County"
+    },
+    {
+      "name": "Butler†",
+      "designation": "Town",
+      "primary_county": "Choctaw County"
+    },
+    {
+      "name": "Calera",
+      "designation": "City",
+      "primary_county": "Shelby CountyChilton County"
+    },
+    {
+      "name": "Camden†",
+      "designation": "City",
+      "primary_county": "Wilcox County"
+    },
+    {
+      "name": "Camp Hill",
+      "designation": "Town",
+      "primary_county": "Tallapoosa County"
+    },
+    {
+      "name": "Carbon Hill",
+      "designation": "City",
+      "primary_county": "Walker County"
+    },
+    {
+      "name": "Cardiff",
+      "designation": "Town",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Carolina",
+      "designation": "Town",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Carrollton†",
+      "designation": "Town",
+      "primary_county": "Pickens County"
+    },
+    {
+      "name": "Castleberry",
+      "designation": "Town",
+      "primary_county": "Conecuh County"
+    },
+    {
+      "name": "Cedar Bluff",
+      "designation": "Town",
+      "primary_county": "Cherokee County"
+    },
+    {
+      "name": "Center Point",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Centre†",
+      "designation": "City",
+      "primary_county": "Cherokee County"
+    },
+    {
+      "name": "Centreville†",
+      "designation": "City",
+      "primary_county": "Bibb County"
+    },
+    {
+      "name": "Chatom†",
+      "designation": "Town",
+      "primary_county": "Washington County"
+    },
+    {
+      "name": "Chelsea",
+      "designation": "City",
+      "primary_county": "Shelby County"
+    },
+    {
+      "name": "Cherokee",
+      "designation": "Town",
+      "primary_county": "Colbert County"
+    },
+    {
+      "name": "Chickasaw",
+      "designation": "City",
+      "primary_county": "Mobile County"
+    },
+    {
+      "name": "Childersburg",
+      "designation": "City",
+      "primary_county": "Talladega CountyShelby County"
+    },
+    {
+      "name": "Citronelle",
+      "designation": "City",
+      "primary_county": "Mobile County"
+    },
+    {
+      "name": "Clanton†",
+      "designation": "City",
+      "primary_county": "Chilton County"
+    },
+    {
+      "name": "Clay",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Clayhatchee",
+      "designation": "Town",
+      "primary_county": "Dale County"
+    },
+    {
+      "name": "Clayton†",
+      "designation": "Town",
+      "primary_county": "Barbour County"
+    },
+    {
+      "name": "Cleveland",
+      "designation": "Town",
+      "primary_county": "Blount County"
+    },
+    {
+      "name": "Clio",
+      "designation": "City",
+      "primary_county": "Barbour County"
+    },
+    {
+      "name": "Coaling",
+      "designation": "Town",
+      "primary_county": "Tuscaloosa County"
+    },
+    {
+      "name": "Coffee Springs",
+      "designation": "Town",
+      "primary_county": "Geneva County"
+    },
+    {
+      "name": "Coffeeville",
+      "designation": "Town",
+      "primary_county": "Clarke County"
+    },
+    {
+      "name": "Coker",
+      "designation": "Town",
+      "primary_county": "Tuscaloosa County"
+    },
+    {
+      "name": "Collinsville",
+      "designation": "Town",
+      "primary_county": "DeKalb CountyCherokee County"
+    },
+    {
+      "name": "Colony",
+      "designation": "Town",
+      "primary_county": "Cullman County"
+    },
+    {
+      "name": "Columbia",
+      "designation": "Town",
+      "primary_county": "Houston County"
+    },
+    {
+      "name": "Columbiana†",
+      "designation": "City",
+      "primary_county": "Shelby County"
+    },
+    {
+      "name": "Coosada",
+      "designation": "Town",
+      "primary_county": "Elmore County"
+    },
+    {
+      "name": "Cordova",
+      "designation": "City",
+      "primary_county": "Walker County"
+    },
+    {
+      "name": "Cottonwood",
+      "designation": "Town",
+      "primary_county": "Houston County"
+    },
+    {
+      "name": "County Line",
+      "designation": "Town",
+      "primary_county": "Blount CountyJefferson County"
+    },
+    {
+      "name": "Courtland",
+      "designation": "Town",
+      "primary_county": "Lawrence County"
+    },
+    {
+      "name": "Cowarts",
+      "designation": "Town",
+      "primary_county": "Houston County"
+    },
+    {
+      "name": "Creola",
+      "designation": "City",
+      "primary_county": "Mobile County"
+    },
+    {
+      "name": "Crossville",
+      "designation": "Town",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Cuba",
+      "designation": "Town",
+      "primary_county": "Sumter County"
+    },
+    {
+      "name": "Cullman†",
+      "designation": "City",
+      "primary_county": "Cullman County"
+    },
+    {
+      "name": "Cusseta",
+      "designation": "Town",
+      "primary_county": "Chambers County"
+    },
+    {
+      "name": "Dadeville†",
+      "designation": "City",
+      "primary_county": "Tallapoosa County"
+    },
+    {
+      "name": "Daleville",
+      "designation": "City",
+      "primary_county": "Dale County"
+    },
+    {
+      "name": "Daphne",
+      "designation": "City",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Dauphin Island",
+      "designation": "Town",
+      "primary_county": "Mobile County"
+    },
+    {
+      "name": "Daviston",
+      "designation": "Town",
+      "primary_county": "Tallapoosa County"
+    },
+    {
+      "name": "Dayton",
+      "designation": "Town",
+      "primary_county": "Marengo County"
+    },
+    {
+      "name": "Deatsville",
+      "designation": "Town",
+      "primary_county": "Elmore County"
+    },
+    {
+      "name": "Decatur†",
+      "designation": "City",
+      "primary_county": "Morgan CountyLimestone County"
+    },
+    {
+      "name": "Demopolis",
+      "designation": "City",
+      "primary_county": "Marengo County"
+    },
+    {
+      "name": "Detroit",
+      "designation": "Town",
+      "primary_county": "Lamar County"
+    },
+    {
+      "name": "Dodge City",
+      "designation": "Town",
+      "primary_county": "Cullman County"
+    },
+    {
+      "name": "Dora",
+      "designation": "City",
+      "primary_county": "Walker County"
+    },
+    {
+      "name": "Dothan†",
+      "designation": "City",
+      "primary_county": "Houston CountyDale CountyHenry County"
+    },
+    {
+      "name": "Double Springs†",
+      "designation": "Town",
+      "primary_county": "Winston County"
+    },
+    {
+      "name": "Douglas",
+      "designation": "Town",
+      "primary_county": "Marshall County"
+    },
+    {
+      "name": "Dozier",
+      "designation": "Town",
+      "primary_county": "Crenshaw County"
+    },
+    {
+      "name": "Dutton",
+      "designation": "Town",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "East Brewton",
+      "designation": "City",
+      "primary_county": "Escambia County"
+    },
+    {
+      "name": "Eclectic",
+      "designation": "Town",
+      "primary_county": "Elmore County"
+    },
+    {
+      "name": "Edwardsville",
+      "designation": "Town",
+      "primary_county": "Cleburne County"
+    },
+    {
+      "name": "Elba†",
+      "designation": "City",
+      "primary_county": "Coffee County"
+    },
+    {
+      "name": "Elberta",
+      "designation": "Town",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Eldridge",
+      "designation": "Town",
+      "primary_county": "Walker County"
+    },
+    {
+      "name": "Elkmont",
+      "designation": "Town",
+      "primary_county": "Limestone County"
+    },
+    {
+      "name": "Elmore",
+      "designation": "Town",
+      "primary_county": "Elmore County"
+    },
+    {
+      "name": "Emelle",
+      "designation": "Town",
+      "primary_county": "Sumter County"
+    },
+    {
+      "name": "Enterprise",
+      "designation": "City",
+      "primary_county": "Coffee CountyDale County"
+    },
+    {
+      "name": "Epes",
+      "designation": "Town",
+      "primary_county": "Sumter County"
+    },
+    {
+      "name": "Ethelsville",
+      "designation": "Town",
+      "primary_county": "Pickens County"
+    },
+    {
+      "name": "Eufaula",
+      "designation": "City",
+      "primary_county": "Barbour County"
+    },
+    {
+      "name": "Eutaw†",
+      "designation": "City",
+      "primary_county": "Greene County"
+    },
+    {
+      "name": "Eva",
+      "designation": "Town",
+      "primary_county": "Morgan County"
+    },
+    {
+      "name": "Evergreen†",
+      "designation": "City",
+      "primary_county": "Conecuh County"
+    },
+    {
+      "name": "Excel",
+      "designation": "Town",
+      "primary_county": "Monroe County"
+    },
+    {
+      "name": "Fairfield",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Fairhope",
+      "designation": "City",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Fairview",
+      "designation": "Town",
+      "primary_county": "Cullman County"
+    },
+    {
+      "name": "Falkville",
+      "designation": "Town",
+      "primary_county": "Morgan County"
+    },
+    {
+      "name": "Faunsdale",
+      "designation": "Town",
+      "primary_county": "Marengo County"
+    },
+    {
+      "name": "Fayette†",
+      "designation": "City",
+      "primary_county": "Fayette County"
+    },
+    {
+      "name": "Five Points",
+      "designation": "Town",
+      "primary_county": "Chambers County"
+    },
+    {
+      "name": "Flomaton",
+      "designation": "Town",
+      "primary_county": "Escambia County"
+    },
+    {
+      "name": "Florala",
+      "designation": "Town",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Florence†",
+      "designation": "City",
+      "primary_county": "Lauderdale County"
+    },
+    {
+      "name": "Foley",
+      "designation": "City",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Forkland",
+      "designation": "Town",
+      "primary_county": "Greene County"
+    },
+    {
+      "name": "Fort Deposit",
+      "designation": "Town",
+      "primary_county": "Lowndes County"
+    },
+    {
+      "name": "Fort Payne†",
+      "designation": "City",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Franklin",
+      "designation": "Town",
+      "primary_county": "Macon County"
+    },
+    {
+      "name": "Frisco City",
+      "designation": "Town",
+      "primary_county": "Monroe County"
+    },
+    {
+      "name": "Fruithurst",
+      "designation": "Town",
+      "primary_county": "Cleburne County"
+    },
+    {
+      "name": "Fulton",
+      "designation": "Town",
+      "primary_county": "Clarke County"
+    },
+    {
+      "name": "Fultondale",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Fyffe",
+      "designation": "Town",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Gadsden†",
+      "designation": "City",
+      "primary_county": "Etowah County"
+    },
+    {
+      "name": "Gainesville",
+      "designation": "Town",
+      "primary_county": "Sumter County"
+    },
+    {
+      "name": "Gantt",
+      "designation": "Town",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Garden City",
+      "designation": "Town",
+      "primary_county": "Cullman CountyBlount County"
+    },
+    {
+      "name": "Gardendale",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Gaylesville",
+      "designation": "Town",
+      "primary_county": "Cherokee County"
+    },
+    {
+      "name": "Geiger",
+      "designation": "Town",
+      "primary_county": "Sumter County"
+    },
+    {
+      "name": "Geneva†",
+      "designation": "City",
+      "primary_county": "Geneva County"
+    },
+    {
+      "name": "Georgiana",
+      "designation": "Town",
+      "primary_county": "Butler County"
+    },
+    {
+      "name": "Geraldine",
+      "designation": "Town",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Gilbertown",
+      "designation": "Town",
+      "primary_county": "Choctaw County"
+    },
+    {
+      "name": "Glen Allen",
+      "designation": "Town",
+      "primary_county": "Fayette CountyMarion County"
+    },
+    {
+      "name": "Glencoe",
+      "designation": "City",
+      "primary_county": "Etowah CountyCalhoun County"
+    },
+    {
+      "name": "Glenwood",
+      "designation": "Town",
+      "primary_county": "Crenshaw County"
+    },
+    {
+      "name": "Goldville",
+      "designation": "Town",
+      "primary_county": "Tallapoosa County"
+    },
+    {
+      "name": "Good Hope",
+      "designation": "City",
+      "primary_county": "Cullman County"
+    },
+    {
+      "name": "Goodwater",
+      "designation": "Town",
+      "primary_county": "Coosa County"
+    },
+    {
+      "name": "Gordo",
+      "designation": "Town",
+      "primary_county": "Pickens County"
+    },
+    {
+      "name": "Gordon",
+      "designation": "Town",
+      "primary_county": "Houston County"
+    },
+    {
+      "name": "Gordonville",
+      "designation": "Town",
+      "primary_county": "Lowndes County"
+    },
+    {
+      "name": "Goshen",
+      "designation": "Town",
+      "primary_county": "Pike County"
+    },
+    {
+      "name": "Grant",
+      "designation": "Town",
+      "primary_county": "Marshall County"
+    },
+    {
+      "name": "Graysville",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Greensboro†",
+      "designation": "City",
+      "primary_county": "Hale County"
+    },
+    {
+      "name": "Greenville†",
+      "designation": "City",
+      "primary_county": "Butler County"
+    },
+    {
+      "name": "Grimes",
+      "designation": "Town",
+      "primary_county": "Dale County"
+    },
+    {
+      "name": "Grove Hill†",
+      "designation": "Town",
+      "primary_county": "Clarke County"
+    },
+    {
+      "name": "Guin",
+      "designation": "City",
+      "primary_county": "Marion County"
+    },
+    {
+      "name": "Gulf Shores",
+      "designation": "City",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Guntersville†",
+      "designation": "City",
+      "primary_county": "Marshall County"
+    },
+    {
+      "name": "Gurley",
+      "designation": "Town",
+      "primary_county": "Madison County"
+    },
+    {
+      "name": "Gu-Win",
+      "designation": "Town",
+      "primary_county": "Marion CountyFayette County"
+    },
+    {
+      "name": "Hackleburg",
+      "designation": "Town",
+      "primary_county": "Marion County"
+    },
+    {
+      "name": "Haleburg",
+      "designation": "Town",
+      "primary_county": "Henry County"
+    },
+    {
+      "name": "Haleyville",
+      "designation": "City",
+      "primary_county": "Winston CountyMarion County"
+    },
+    {
+      "name": "Hamilton†",
+      "designation": "City",
+      "primary_county": "Marion County"
+    },
+    {
+      "name": "Hammondville",
+      "designation": "Town",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Hanceville",
+      "designation": "City",
+      "primary_county": "Cullman County"
+    },
+    {
+      "name": "Harpersville",
+      "designation": "Town",
+      "primary_county": "Shelby County"
+    },
+    {
+      "name": "Hartford",
+      "designation": "City",
+      "primary_county": "Geneva County"
+    },
+    {
+      "name": "Hartselle",
+      "designation": "City",
+      "primary_county": "Morgan County"
+    },
+    {
+      "name": "Hayden",
+      "designation": "Town",
+      "primary_county": "Blount County"
+    },
+    {
+      "name": "Hayneville†",
+      "designation": "Town",
+      "primary_county": "Lowndes County"
+    },
+    {
+      "name": "Headland",
+      "designation": "City",
+      "primary_county": "Henry County"
+    },
+    {
+      "name": "Heath",
+      "designation": "Town",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Heflin†",
+      "designation": "City",
+      "primary_county": "Cleburne County"
+    },
+    {
+      "name": "Helena",
+      "designation": "City",
+      "primary_county": "Shelby CountyJefferson County"
+    },
+    {
+      "name": "Henagar",
+      "designation": "City",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Highland Lake",
+      "designation": "Town",
+      "primary_county": "Blount County"
+    },
+    {
+      "name": "Hillsboro",
+      "designation": "Town",
+      "primary_county": "Lawrence County"
+    },
+    {
+      "name": "Hobson City",
+      "designation": "Town",
+      "primary_county": "Calhoun County"
+    },
+    {
+      "name": "Hodges",
+      "designation": "Town",
+      "primary_county": "Franklin County"
+    },
+    {
+      "name": "Hokes Bluff",
+      "designation": "City",
+      "primary_county": "Etowah County"
+    },
+    {
+      "name": "Holly Pond",
+      "designation": "Town",
+      "primary_county": "Cullman County"
+    },
+    {
+      "name": "Hollywood",
+      "designation": "Town",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "Homewood",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Hoover",
+      "designation": "City",
+      "primary_county": "Jefferson CountyShelby County"
+    },
+    {
+      "name": "Horn Hill",
+      "designation": "Town",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Hueytown",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Huntsville†",
+      "designation": "City",
+      "primary_county": "Madison CountyLimestone CountyMorgan County"
+    },
+    {
+      "name": "Hurtsboro",
+      "designation": "Town",
+      "primary_county": "Russell County"
+    },
+    {
+      "name": "Hytop",
+      "designation": "Town",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "Ider",
+      "designation": "Town",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Indian Springs Village",
+      "designation": "Town",
+      "primary_county": "Shelby County"
+    },
+    {
+      "name": "Irondale",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Jackson",
+      "designation": "City",
+      "primary_county": "Clarke County"
+    },
+    {
+      "name": "Jackson's Gap",
+      "designation": "Town",
+      "primary_county": "Tallapoosa County"
+    },
+    {
+      "name": "Jacksonville",
+      "designation": "City",
+      "primary_county": "Calhoun County"
+    },
+    {
+      "name": "Jasper†",
+      "designation": "City",
+      "primary_county": "Walker County"
+    },
+    {
+      "name": "Jemison",
+      "designation": "City",
+      "primary_county": "Chilton County"
+    },
+    {
+      "name": "Kansas",
+      "designation": "Town",
+      "primary_county": "Walker County"
+    },
+    {
+      "name": "Kellyton",
+      "designation": "Town",
+      "primary_county": "Coosa County"
+    },
+    {
+      "name": "Kennedy",
+      "designation": "Town",
+      "primary_county": "Lamar County"
+    },
+    {
+      "name": "Killen",
+      "designation": "Town",
+      "primary_county": "Lauderdale County"
+    },
+    {
+      "name": "Kimberly",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Kinsey",
+      "designation": "Town",
+      "primary_county": "Houston County"
+    },
+    {
+      "name": "Kinston",
+      "designation": "Town",
+      "primary_county": "Coffee County"
+    },
+    {
+      "name": "LaFayette†",
+      "designation": "City",
+      "primary_county": "Chambers County"
+    },
+    {
+      "name": "Lake View",
+      "designation": "City",
+      "primary_county": "Tuscaloosa County"
+    },
+    {
+      "name": "Lakeview",
+      "designation": "Town",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Lanett",
+      "designation": "City",
+      "primary_county": "Chambers County"
+    },
+    {
+      "name": "Langston",
+      "designation": "Town",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "Leeds",
+      "designation": "City",
+      "primary_county": "Jefferson CountySt. Clair CountyShelby County"
+    },
+    {
+      "name": "Leesburg",
+      "designation": "Town",
+      "primary_county": "Cherokee County"
+    },
+    {
+      "name": "Leighton",
+      "designation": "Town",
+      "primary_county": "Colbert County"
+    },
+    {
+      "name": "Lester",
+      "designation": "Town",
+      "primary_county": "Limestone County"
+    },
+    {
+      "name": "Level Plains",
+      "designation": "Town",
+      "primary_county": "Dale County"
+    },
+    {
+      "name": "Lexington",
+      "designation": "Town",
+      "primary_county": "Lauderdale County"
+    },
+    {
+      "name": "Libertyville",
+      "designation": "Town",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Lincoln",
+      "designation": "City",
+      "primary_county": "Talladega County"
+    },
+    {
+      "name": "Linden†",
+      "designation": "City",
+      "primary_county": "Marengo County"
+    },
+    {
+      "name": "Lineville",
+      "designation": "City",
+      "primary_county": "Clay County"
+    },
+    {
+      "name": "Lipscomb",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Lisman",
+      "designation": "Town",
+      "primary_county": "Choctaw County"
+    },
+    {
+      "name": "Littleville",
+      "designation": "Town",
+      "primary_county": "Colbert County"
+    },
+    {
+      "name": "Livingston†",
+      "designation": "City",
+      "primary_county": "Sumter County"
+    },
+    {
+      "name": "Loachapoka",
+      "designation": "Town",
+      "primary_county": "Lee County"
+    },
+    {
+      "name": "Lockhart",
+      "designation": "Town",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Locust Fork",
+      "designation": "Town",
+      "primary_county": "Blount County"
+    },
+    {
+      "name": "Louisville",
+      "designation": "Town",
+      "primary_county": "Barbour County"
+    },
+    {
+      "name": "Lowndesboro",
+      "designation": "Town",
+      "primary_county": "Lowndes County"
+    },
+    {
+      "name": "Loxley",
+      "designation": "City",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Luverne†",
+      "designation": "City",
+      "primary_county": "Crenshaw County"
+    },
+    {
+      "name": "Lynn",
+      "designation": "Town",
+      "primary_county": "Winston County"
+    },
+    {
+      "name": "Madison",
+      "designation": "City",
+      "primary_county": "Madison CountyLimestone County"
+    },
+    {
+      "name": "Madrid",
+      "designation": "Town",
+      "primary_county": "Houston County"
+    },
+    {
+      "name": "Magnolia Springs",
+      "designation": "Town",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Malvern",
+      "designation": "Town",
+      "primary_county": "Geneva County"
+    },
+    {
+      "name": "Maplesville",
+      "designation": "Town",
+      "primary_county": "Chilton County"
+    },
+    {
+      "name": "Margaret",
+      "designation": "City",
+      "primary_county": "St. Clair County"
+    },
+    {
+      "name": "Marion†",
+      "designation": "City",
+      "primary_county": "Perry County"
+    },
+    {
+      "name": "Maytown",
+      "designation": "Town",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "McIntosh",
+      "designation": "Town",
+      "primary_county": "Washington County"
+    },
+    {
+      "name": "McKenzie",
+      "designation": "Town",
+      "primary_county": "Butler CountyConecuh County"
+    },
+    {
+      "name": "McMullen",
+      "designation": "Town",
+      "primary_county": "Pickens County"
+    },
+    {
+      "name": "Memphis",
+      "designation": "Town",
+      "primary_county": "Pickens County"
+    },
+    {
+      "name": "Mentone",
+      "designation": "Town",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Midfield",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Midland City",
+      "designation": "Town",
+      "primary_county": "Dale County"
+    },
+    {
+      "name": "Midway",
+      "designation": "Town",
+      "primary_county": "Bullock County"
+    },
+    {
+      "name": "Millbrook",
+      "designation": "City",
+      "primary_county": "Elmore CountyAutauga County"
+    },
+    {
+      "name": "Millport",
+      "designation": "Town",
+      "primary_county": "Lamar County"
+    },
+    {
+      "name": "Millry",
+      "designation": "Town",
+      "primary_county": "Washington County"
+    },
+    {
+      "name": "Mobile†[c]",
+      "designation": "City",
+      "primary_county": "Mobile County"
+    },
+    {
+      "name": "Monroeville†",
+      "designation": "City",
+      "primary_county": "Monroe County"
+    },
+    {
+      "name": "Montevallo",
+      "designation": "City",
+      "primary_county": "Shelby County"
+    },
+    {
+      "name": "Montgomery‡",
+      "designation": "City",
+      "primary_county": "Montgomery County"
+    },
+    {
+      "name": "Moody",
+      "designation": "City",
+      "primary_county": "St. Clair County"
+    },
+    {
+      "name": "Mooresville",
+      "designation": "Town",
+      "primary_county": "Limestone County"
+    },
+    {
+      "name": "Morris",
+      "designation": "Town",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Mosses",
+      "designation": "Town",
+      "primary_county": "Lowndes County"
+    },
+    {
+      "name": "Moulton†",
+      "designation": "City",
+      "primary_county": "Lawrence County"
+    },
+    {
+      "name": "Moundville",
+      "designation": "City",
+      "primary_county": "Hale CountyTuscaloosa County"
+    },
+    {
+      "name": "Mount Vernon",
+      "designation": "Town",
+      "primary_county": "Mobile County"
+    },
+    {
+      "name": "Mountain Brook",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Mulga",
+      "designation": "Town",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Munford",
+      "designation": "Town",
+      "primary_county": "Talladega County"
+    },
+    {
+      "name": "Muscle Shoals",
+      "designation": "City",
+      "primary_county": "Colbert County"
+    },
+    {
+      "name": "Myrtlewood",
+      "designation": "Town",
+      "primary_county": "Marengo County"
+    },
+    {
+      "name": "Napier Field",
+      "designation": "Town",
+      "primary_county": "Dale County"
+    },
+    {
+      "name": "Natural Bridge",
+      "designation": "Town",
+      "primary_county": "Winston County"
+    },
+    {
+      "name": "Nauvoo",
+      "designation": "Town",
+      "primary_county": "Walker CountyWinston County"
+    },
+    {
+      "name": "Nectar",
+      "designation": "Town",
+      "primary_county": "Blount County"
+    },
+    {
+      "name": "Needham",
+      "designation": "Town",
+      "primary_county": "Choctaw County"
+    },
+    {
+      "name": "New Brockton",
+      "designation": "Town",
+      "primary_county": "Coffee County"
+    },
+    {
+      "name": "New Hope",
+      "designation": "City",
+      "primary_county": "Madison County"
+    },
+    {
+      "name": "New Site",
+      "designation": "Town",
+      "primary_county": "Tallapoosa County"
+    },
+    {
+      "name": "Newbern",
+      "designation": "Town",
+      "primary_county": "Hale County"
+    },
+    {
+      "name": "Newton",
+      "designation": "Town",
+      "primary_county": "Dale County"
+    },
+    {
+      "name": "Newville",
+      "designation": "Town",
+      "primary_county": "Henry County"
+    },
+    {
+      "name": "North Courtland",
+      "designation": "Town",
+      "primary_county": "Lawrence County"
+    },
+    {
+      "name": "North Johns",
+      "designation": "Town",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Northport",
+      "designation": "City",
+      "primary_county": "Tuscaloosa County"
+    },
+    {
+      "name": "Notasulga",
+      "designation": "Town",
+      "primary_county": "Macon CountyLee County"
+    },
+    {
+      "name": "Oak Grove",
+      "designation": "Town",
+      "primary_county": "Talladega County"
+    },
+    {
+      "name": "Oak Hill",
+      "designation": "Town",
+      "primary_county": "Wilcox County"
+    },
+    {
+      "name": "Oakman",
+      "designation": "Town",
+      "primary_county": "Walker County"
+    },
+    {
+      "name": "Odenville",
+      "designation": "City",
+      "primary_county": "St. Clair County"
+    },
+    {
+      "name": "Ohatchee",
+      "designation": "Town",
+      "primary_county": "Calhoun County"
+    },
+    {
+      "name": "Oneonta†",
+      "designation": "City",
+      "primary_county": "Blount County"
+    },
+    {
+      "name": "Onycha",
+      "designation": "Town",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Opelika†",
+      "designation": "City",
+      "primary_county": "Lee County"
+    },
+    {
+      "name": "Opp",
+      "designation": "City",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Orange Beach",
+      "designation": "City",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Orrville",
+      "designation": "Town",
+      "primary_county": "Dallas County"
+    },
+    {
+      "name": "Owens Cross Roads",
+      "designation": "City",
+      "primary_county": "Madison County"
+    },
+    {
+      "name": "Oxford",
+      "designation": "City",
+      "primary_county": "Calhoun CountyTalladega County"
+    },
+    {
+      "name": "Ozark†",
+      "designation": "City",
+      "primary_county": "Dale County"
+    },
+    {
+      "name": "Paint Rock",
+      "designation": "Town",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "Parrish",
+      "designation": "Town",
+      "primary_county": "Walker County"
+    },
+    {
+      "name": "Pelham",
+      "designation": "City",
+      "primary_county": "Shelby County"
+    },
+    {
+      "name": "Pell City†",
+      "designation": "City",
+      "primary_county": "St. Clair County"
+    },
+    {
+      "name": "Pennington",
+      "designation": "Town",
+      "primary_county": "Choctaw County"
+    },
+    {
+      "name": "Perdido Beach",
+      "designation": "Town",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Petrey",
+      "designation": "Town",
+      "primary_county": "Crenshaw County"
+    },
+    {
+      "name": "Phenix City†",
+      "designation": "City",
+      "primary_county": "Russell CountyLee County"
+    },
+    {
+      "name": "Phil Campbell",
+      "designation": "Town",
+      "primary_county": "Franklin County"
+    },
+    {
+      "name": "Pickensville",
+      "designation": "Town",
+      "primary_county": "Pickens County"
+    },
+    {
+      "name": "Piedmont",
+      "designation": "City",
+      "primary_county": "Calhoun CountyCherokee County"
+    },
+    {
+      "name": "Pike Road",
+      "designation": "Town",
+      "primary_county": "Montgomery County"
+    },
+    {
+      "name": "Pinckard",
+      "designation": "Town",
+      "primary_county": "Dale County"
+    },
+    {
+      "name": "Pine Apple",
+      "designation": "Town",
+      "primary_county": "Wilcox County"
+    },
+    {
+      "name": "Pine Hill",
+      "designation": "Town",
+      "primary_county": "Wilcox County"
+    },
+    {
+      "name": "Pine Level[d]",
+      "designation": "Town",
+      "primary_county": "Autauga County"
+    },
+    {
+      "name": "Pine Ridge",
+      "designation": "Town",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Pinson",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Pisgah",
+      "designation": "Town",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "Pleasant Grove",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Pleasant Groves",
+      "designation": "Town",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "Pollard",
+      "designation": "Town",
+      "primary_county": "Escambia County"
+    },
+    {
+      "name": "Powell",
+      "designation": "Town",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Prattville†",
+      "designation": "City",
+      "primary_county": "Autauga CountyElmore County"
+    },
+    {
+      "name": "Priceville",
+      "designation": "City",
+      "primary_county": "Morgan County"
+    },
+    {
+      "name": "Prichard",
+      "designation": "City",
+      "primary_county": "Mobile County"
+    },
+    {
+      "name": "Providence",
+      "designation": "Town",
+      "primary_county": "Marengo County"
+    },
+    {
+      "name": "Ragland",
+      "designation": "Town",
+      "primary_county": "St. Clair County"
+    },
+    {
+      "name": "Rainbow City",
+      "designation": "City",
+      "primary_county": "Etowah County"
+    },
+    {
+      "name": "Rainsville",
+      "designation": "City",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Ranburne",
+      "designation": "Town",
+      "primary_county": "Cleburne County"
+    },
+    {
+      "name": "Red Bay",
+      "designation": "City",
+      "primary_county": "Franklin County"
+    },
+    {
+      "name": "Red Level",
+      "designation": "Town",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Reece City",
+      "designation": "Town",
+      "primary_county": "Etowah County"
+    },
+    {
+      "name": "Reform",
+      "designation": "City",
+      "primary_county": "Pickens County"
+    },
+    {
+      "name": "Rehobeth",
+      "designation": "Town",
+      "primary_county": "Houston County"
+    },
+    {
+      "name": "Repton",
+      "designation": "Town",
+      "primary_county": "Conecuh County"
+    },
+    {
+      "name": "Ridgeville",
+      "designation": "Town",
+      "primary_county": "Etowah County"
+    },
+    {
+      "name": "River Falls",
+      "designation": "Town",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Riverside",
+      "designation": "City",
+      "primary_county": "St. Clair County"
+    },
+    {
+      "name": "Riverview",
+      "designation": "Town",
+      "primary_county": "Escambia County"
+    },
+    {
+      "name": "Roanoke",
+      "designation": "City",
+      "primary_county": "Randolph County"
+    },
+    {
+      "name": "Robertsdale",
+      "designation": "City",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Rockford†",
+      "designation": "Town",
+      "primary_county": "Coosa County"
+    },
+    {
+      "name": "Rogersville",
+      "designation": "Town",
+      "primary_county": "Lauderdale County"
+    },
+    {
+      "name": "Rosa",
+      "designation": "Town",
+      "primary_county": "Blount County"
+    },
+    {
+      "name": "Russellville†",
+      "designation": "City",
+      "primary_county": "Franklin County"
+    },
+    {
+      "name": "Rutledge",
+      "designation": "Town",
+      "primary_county": "Crenshaw County"
+    },
+    {
+      "name": "St. Florian",
+      "designation": "Town",
+      "primary_county": "Lauderdale County"
+    },
+    {
+      "name": "Samson",
+      "designation": "City",
+      "primary_county": "Geneva County"
+    },
+    {
+      "name": "Sand Rock",
+      "designation": "Town",
+      "primary_county": "Cherokee CountyDeKalb County"
+    },
+    {
+      "name": "Sanford",
+      "designation": "Town",
+      "primary_county": "Covington County"
+    },
+    {
+      "name": "Saraland",
+      "designation": "City",
+      "primary_county": "Mobile County"
+    },
+    {
+      "name": "Sardis City",
+      "designation": "Town",
+      "primary_county": "Etowah County"
+    },
+    {
+      "name": "Satsuma",
+      "designation": "City",
+      "primary_county": "Mobile County"
+    },
+    {
+      "name": "Scottsboro†",
+      "designation": "City",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "Section",
+      "designation": "Town",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "Selma†",
+      "designation": "City",
+      "primary_county": "Dallas County"
+    },
+    {
+      "name": "Sheffield",
+      "designation": "City",
+      "primary_county": "Colbert County"
+    },
+    {
+      "name": "Shiloh",
+      "designation": "Town",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Shorter",
+      "designation": "Town",
+      "primary_county": "Macon County"
+    },
+    {
+      "name": "Silas",
+      "designation": "Town",
+      "primary_county": "Choctaw County"
+    },
+    {
+      "name": "Silverhill",
+      "designation": "Town",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Sipsey",
+      "designation": "Town",
+      "primary_county": "Walker County"
+    },
+    {
+      "name": "Skyline",
+      "designation": "Town",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "Slocomb",
+      "designation": "City",
+      "primary_county": "Geneva County"
+    },
+    {
+      "name": "Smiths Station",
+      "designation": "City",
+      "primary_county": "Lee County"
+    },
+    {
+      "name": "Snead",
+      "designation": "Town",
+      "primary_county": "Blount County"
+    },
+    {
+      "name": "Somerville",
+      "designation": "Town",
+      "primary_county": "Morgan County"
+    },
+    {
+      "name": "South Vinemont",
+      "designation": "Town",
+      "primary_county": "Cullman County"
+    },
+    {
+      "name": "Southside",
+      "designation": "City",
+      "primary_county": "Etowah CountyCalhoun County"
+    },
+    {
+      "name": "Spanish Fort",
+      "designation": "City",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Springville",
+      "designation": "City",
+      "primary_county": "St. Clair County"
+    },
+    {
+      "name": "Steele",
+      "designation": "Town",
+      "primary_county": "St. Clair County"
+    },
+    {
+      "name": "Stevenson",
+      "designation": "City",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "Sulligent",
+      "designation": "City",
+      "primary_county": "Lamar County"
+    },
+    {
+      "name": "Sumiton",
+      "designation": "City",
+      "primary_county": "Walker CountyJefferson County"
+    },
+    {
+      "name": "Summerdale",
+      "designation": "Town",
+      "primary_county": "Baldwin County"
+    },
+    {
+      "name": "Susan Moore",
+      "designation": "Town",
+      "primary_county": "Blount County"
+    },
+    {
+      "name": "Sweet Water",
+      "designation": "Town",
+      "primary_county": "Marengo County"
+    },
+    {
+      "name": "Sylacauga",
+      "designation": "City",
+      "primary_county": "Talladega County"
+    },
+    {
+      "name": "Sylvan Springs",
+      "designation": "Town",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Sylvania",
+      "designation": "Town",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Talladega Springs",
+      "designation": "Town",
+      "primary_county": "Talladega County"
+    },
+    {
+      "name": "Talladega†",
+      "designation": "City",
+      "primary_county": "Talladega County"
+    },
+    {
+      "name": "Tallassee",
+      "designation": "City",
+      "primary_county": "Elmore CountyTallapoosa County"
+    },
+    {
+      "name": "Tarrant",
+      "designation": "City",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Taylor",
+      "designation": "Town",
+      "primary_county": "Houston CountyGeneva County"
+    },
+    {
+      "name": "Thomaston",
+      "designation": "Town",
+      "primary_county": "Marengo County"
+    },
+    {
+      "name": "Thomasville",
+      "designation": "City",
+      "primary_county": "Clarke County"
+    },
+    {
+      "name": "Thorsby",
+      "designation": "Town",
+      "primary_county": "Chilton County"
+    },
+    {
+      "name": "Town Creek",
+      "designation": "Town",
+      "primary_county": "Lawrence County"
+    },
+    {
+      "name": "Toxey",
+      "designation": "Town",
+      "primary_county": "Choctaw County"
+    },
+    {
+      "name": "Trafford",
+      "designation": "Town",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "Triana",
+      "designation": "Town",
+      "primary_county": "Madison County"
+    },
+    {
+      "name": "Trinity",
+      "designation": "Town",
+      "primary_county": "Morgan County"
+    },
+    {
+      "name": "Troy†",
+      "designation": "City",
+      "primary_county": "Pike County"
+    },
+    {
+      "name": "Trussville",
+      "designation": "City",
+      "primary_county": "Jefferson CountySt. Clair County"
+    },
+    {
+      "name": "Tuscaloosa†",
+      "designation": "City",
+      "primary_county": "Tuscaloosa County"
+    },
+    {
+      "name": "Tuscumbia†",
+      "designation": "City",
+      "primary_county": "Colbert County"
+    },
+    {
+      "name": "Tuskegee†",
+      "designation": "City",
+      "primary_county": "Macon County"
+    },
+    {
+      "name": "Twin",
+      "designation": "Town",
+      "primary_county": "Marion County"
+    },
+    {
+      "name": "Union Grove",
+      "designation": "Town",
+      "primary_county": "Marshall County"
+    },
+    {
+      "name": "Union Springs†",
+      "designation": "City",
+      "primary_county": "Bullock County"
+    },
+    {
+      "name": "Union",
+      "designation": "Town",
+      "primary_county": "Greene County"
+    },
+    {
+      "name": "Uniontown",
+      "designation": "City",
+      "primary_county": "Perry County"
+    },
+    {
+      "name": "Valley",
+      "designation": "City",
+      "primary_county": "Chambers County"
+    },
+    {
+      "name": "Valley Grande",
+      "designation": "City",
+      "primary_county": "Dallas County"
+    },
+    {
+      "name": "Valley Head",
+      "designation": "Town",
+      "primary_county": "DeKalb County"
+    },
+    {
+      "name": "Vance",
+      "designation": "Town",
+      "primary_county": "Tuscaloosa CountyBibb County"
+    },
+    {
+      "name": "Vernon†",
+      "designation": "City",
+      "primary_county": "Lamar County"
+    },
+    {
+      "name": "Vestavia Hills",
+      "designation": "City",
+      "primary_county": "Jefferson CountyShelby County"
+    },
+    {
+      "name": "Vina",
+      "designation": "Town",
+      "primary_county": "Franklin County"
+    },
+    {
+      "name": "Vincent",
+      "designation": "City",
+      "primary_county": "Shelby CountySt. Clair CountyTalladega County"
+    },
+    {
+      "name": "Vredenburgh",
+      "designation": "Town",
+      "primary_county": "Monroe County"
+    },
+    {
+      "name": "Wadley",
+      "designation": "Town",
+      "primary_county": "Randolph County"
+    },
+    {
+      "name": "Waldo",
+      "designation": "Town",
+      "primary_county": "Talladega County"
+    },
+    {
+      "name": "Walnut Grove",
+      "designation": "Town",
+      "primary_county": "Etowah County"
+    },
+    {
+      "name": "Warrior",
+      "designation": "City",
+      "primary_county": "Jefferson CountyBlount County"
+    },
+    {
+      "name": "Waterloo",
+      "designation": "Town",
+      "primary_county": "Lauderdale County"
+    },
+    {
+      "name": "Waverly",
+      "designation": "Town",
+      "primary_county": "Chambers CountyLee County"
+    },
+    {
+      "name": "Weaver",
+      "designation": "City",
+      "primary_county": "Calhoun County"
+    },
+    {
+      "name": "Webb",
+      "designation": "Town",
+      "primary_county": "Houston County"
+    },
+    {
+      "name": "Wedowee†",
+      "designation": "Town",
+      "primary_county": "Randolph County"
+    },
+    {
+      "name": "West Blocton",
+      "designation": "Town",
+      "primary_county": "Bibb County"
+    },
+    {
+      "name": "West Jefferson",
+      "designation": "Town",
+      "primary_county": "Jefferson County"
+    },
+    {
+      "name": "West Point",
+      "designation": "Town",
+      "primary_county": "Cullman County"
+    },
+    {
+      "name": "Westover",
+      "designation": "City",
+      "primary_county": "Shelby County"
+    },
+    {
+      "name": "Wetumpka†",
+      "designation": "City",
+      "primary_county": "Elmore County"
+    },
+    {
+      "name": "White Hall",
+      "designation": "Town",
+      "primary_county": "Lowndes County"
+    },
+    {
+      "name": "Wilsonville",
+      "designation": "Town",
+      "primary_county": "Shelby County"
+    },
+    {
+      "name": "Wilton",
+      "designation": "Town",
+      "primary_county": "Shelby County"
+    },
+    {
+      "name": "Winfield",
+      "designation": "City",
+      "primary_county": "Marion CountyFayette County"
+    },
+    {
+      "name": "Woodland",
+      "designation": "Town",
+      "primary_county": "Randolph County"
+    },
+    {
+      "name": "Woodstock",
+      "designation": "Town",
+      "primary_county": "Bibb CountyTuscaloosa County"
+    },
+    {
+      "name": "Woodville",
+      "designation": "Town",
+      "primary_county": "Jackson County"
+    },
+    {
+      "name": "Yellow Bluff",
+      "designation": "Town",
+      "primary_county": "Wilcox County"
+    },
+    {
+      "name": "York",
+      "designation": "City",
+      "primary_county": "Sumter County"
+    },
+    {
+      "name": "Total municipalities",
+      "designation": "—",
+      "primary_county": "—"
+    },
+    {
+      "name": "Alabama",
+      "designation": "—",
+      "primary_county": "—"
+    }
+  ]
+}

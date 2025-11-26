@@ -1,0 +1,1564 @@
+{
+  "metadata": {
+    "state": "South Dakota",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_South_Dakota",
+    "scraped_at": "2025-11-24 20:31:34",
+    "scraper_version": "2.0_generic",
+    "description": "South Dakota municipalities scraped from Wikipedia",
+    "total_municipalities": 310,
+    "statistics": {
+      "total_found": 310,
+      "with_population": 0,
+      "with_counties": 310,
+      "unique_counties": 73,
+      "population_stats": {}
+    },
+    "counties": [
+      "Aurora",
+      "Beadle",
+      "BeadleHand",
+      "Bennett",
+      "Bon Homme",
+      "Brookings",
+      "Brown",
+      "Brule",
+      "Butte",
+      "Campbell",
+      "Charles Mix",
+      "Clark",
+      "Clay",
+      "ClayTurnerYankton",
+      "Codington",
+      "Corson",
+      "Custer",
+      "Davison",
+      "Day",
+      "Deuel",
+      "Dewey",
+      "DeweyZiebach",
+      "Douglas",
+      "Edmunds",
+      "Fall River",
+      "Faulk",
+      "Grant",
+      "Gregory",
+      "Haakon",
+      "Hamlin",
+      "Hand",
+      "Hanson",
+      "Harding",
+      "Hughes",
+      "Hutchinson",
+      "Hyde",
+      "Jackson",
+      "Jerauld",
+      "Jones",
+      "Kingsbury",
+      "KingsburyBeadle",
+      "KingsburyBrookings",
+      "Lake",
+      "Lawrence",
+      "Lincoln",
+      "Lyman",
+      "Marshall",
+      "McCook",
+      "McPherson",
+      "Meade",
+      "Mellette",
+      "Miner",
+      "Minnehaha",
+      "MinnehahaLincoln",
+      "Moody",
+      "Oglala Lakota",
+      "Pennington",
+      "PenningtonMeade",
+      "Perkins",
+      "Potter",
+      "Roberts",
+      "Sanborn",
+      "Spink",
+      "Stanley",
+      "Sully",
+      "Todd",
+      "Tripp",
+      "Turner",
+      "Union",
+      "UnionLincoln",
+      "Walworth",
+      "Yankton",
+      "Ziebach"
+    ]
+  },
+  "municipalities": [
+    {
+      "rank": 1,
+      "name": "Sioux Falls †",
+      "primary_county": "MinnehahaLincoln"
+    },
+    {
+      "rank": 2,
+      "name": "Rapid City †",
+      "primary_county": "Pennington"
+    },
+    {
+      "rank": 3,
+      "name": "Aberdeen †",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 4,
+      "name": "Brookings †",
+      "primary_county": "Brookings"
+    },
+    {
+      "rank": 5,
+      "name": "Watertown †",
+      "primary_county": "Codington"
+    },
+    {
+      "rank": 6,
+      "name": "Yankton †",
+      "primary_county": "Yankton"
+    },
+    {
+      "rank": 7,
+      "name": "Mitchell †",
+      "primary_county": "Davison"
+    },
+    {
+      "rank": 8,
+      "name": "Huron †",
+      "primary_county": "Beadle"
+    },
+    {
+      "rank": 9,
+      "name": "Box Elder",
+      "primary_county": "PenningtonMeade"
+    },
+    {
+      "rank": 10,
+      "name": "Spearfish",
+      "primary_county": "Lawrence"
+    },
+    {
+      "rank": 11,
+      "name": "Pierre ‡",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 12,
+      "name": "Vermillion †",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 13,
+      "name": "Brandon",
+      "primary_county": "Minnehaha"
+    },
+    {
+      "rank": 14,
+      "name": "Harrisburg",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 15,
+      "name": "Tea",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 16,
+      "name": "Sturgis †",
+      "primary_county": "Meade"
+    },
+    {
+      "rank": 17,
+      "name": "Madison †",
+      "primary_county": "Lake"
+    },
+    {
+      "rank": 18,
+      "name": "Belle Fourche †",
+      "primary_county": "Butte"
+    },
+    {
+      "rank": 19,
+      "name": "Dell Rapids",
+      "primary_county": "Minnehaha"
+    },
+    {
+      "rank": 20,
+      "name": "Hot Springs †",
+      "primary_county": "Fall River"
+    },
+    {
+      "rank": 21,
+      "name": "Hartford",
+      "primary_county": "Minnehaha"
+    },
+    {
+      "rank": 22,
+      "name": "Milbank †",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 23,
+      "name": "Mobridge",
+      "primary_county": "Walworth"
+    },
+    {
+      "rank": 24,
+      "name": "North Sioux City",
+      "primary_county": "Union"
+    },
+    {
+      "rank": 25,
+      "name": "Lead",
+      "primary_county": "Lawrence"
+    },
+    {
+      "rank": 26,
+      "name": "Summerset",
+      "primary_county": "Meade"
+    },
+    {
+      "rank": 27,
+      "name": "Canton †",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 28,
+      "name": "Winner †",
+      "primary_county": "Tripp"
+    },
+    {
+      "rank": 29,
+      "name": "Lennox",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 30,
+      "name": "Chamberlain †",
+      "primary_county": "Brule"
+    },
+    {
+      "rank": 31,
+      "name": "Sisseton †",
+      "primary_county": "Roberts"
+    },
+    {
+      "rank": 32,
+      "name": "Volga",
+      "primary_county": "Brookings"
+    },
+    {
+      "rank": 33,
+      "name": "Flandreau †",
+      "primary_county": "Moody"
+    },
+    {
+      "rank": 34,
+      "name": "Fort Pierre †",
+      "primary_county": "Stanley"
+    },
+    {
+      "rank": 35,
+      "name": "Redfield †",
+      "primary_county": "Spink"
+    },
+    {
+      "rank": 36,
+      "name": "Beresford",
+      "primary_county": "UnionLincoln"
+    },
+    {
+      "rank": 37,
+      "name": "Elk Point †",
+      "primary_county": "Union"
+    },
+    {
+      "rank": 38,
+      "name": "Springfield",
+      "primary_county": "Bon Homme"
+    },
+    {
+      "rank": 39,
+      "name": "Custer †",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 40,
+      "name": "Webster †",
+      "primary_county": "Day"
+    },
+    {
+      "rank": 41,
+      "name": "Parkston",
+      "primary_county": "Hutchinson"
+    },
+    {
+      "rank": 42,
+      "name": "Wagner",
+      "primary_county": "Charles Mix"
+    },
+    {
+      "rank": 43,
+      "name": "Crooks",
+      "primary_county": "Minnehaha"
+    },
+    {
+      "rank": 44,
+      "name": "Deadwood †",
+      "primary_county": "Lawrence"
+    },
+    {
+      "rank": 45,
+      "name": "Groton",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 46,
+      "name": "Baltic",
+      "primary_county": "Minnehaha"
+    },
+    {
+      "rank": 47,
+      "name": "Salem †",
+      "primary_county": "McCook"
+    },
+    {
+      "rank": 48,
+      "name": "Freeman",
+      "primary_county": "Hutchinson"
+    },
+    {
+      "rank": 49,
+      "name": "Miller †",
+      "primary_county": "Hand"
+    },
+    {
+      "rank": 50,
+      "name": "Parker †",
+      "primary_county": "Turner"
+    },
+    {
+      "name": "Eagle Butte",
+      "primary_county": "DeweyZiebach"
+    },
+    {
+      "name": "Gregory",
+      "primary_county": "Gregory"
+    },
+    {
+      "rank": 53,
+      "name": "Platte",
+      "primary_county": "Charles Mix"
+    },
+    {
+      "rank": 54,
+      "name": "Clear Lake †",
+      "primary_county": "Deuel"
+    },
+    {
+      "rank": 55,
+      "name": "Britton †",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 56,
+      "name": "Garretson",
+      "primary_county": "Minnehaha"
+    },
+    {
+      "rank": 57,
+      "name": "Clark †",
+      "primary_county": "Clark"
+    },
+    {
+      "rank": 58,
+      "name": "Aurora",
+      "primary_county": "Brookings"
+    },
+    {
+      "rank": 59,
+      "name": "Lemmon",
+      "primary_county": "Perkins"
+    },
+    {
+      "rank": 60,
+      "name": "Mission",
+      "primary_county": "Todd"
+    },
+    {
+      "rank": 61,
+      "name": "Tyndall †",
+      "primary_county": "Bon Homme"
+    },
+    {
+      "rank": 62,
+      "name": "Gettysburg †",
+      "primary_county": "Potter"
+    },
+    {
+      "rank": 63,
+      "name": "De Smet †",
+      "primary_county": "Kingsbury"
+    },
+    {
+      "rank": 64,
+      "name": "Piedmont",
+      "primary_county": "Meade"
+    },
+    {
+      "rank": 65,
+      "name": "Whitewood",
+      "primary_county": "Lawrence"
+    },
+    {
+      "rank": 66,
+      "name": "Centerville",
+      "primary_county": "Turner"
+    },
+    {
+      "rank": 67,
+      "name": "Hill City",
+      "primary_county": "Pennington"
+    },
+    {
+      "rank": 68,
+      "name": "Ipswich †",
+      "primary_county": "Edmunds"
+    },
+    {
+      "rank": 69,
+      "name": "Arlington",
+      "primary_county": "KingsburyBrookings"
+    },
+    {
+      "rank": 70,
+      "name": "Martin †",
+      "primary_county": "Bennett"
+    },
+    {
+      "rank": 71,
+      "name": "Worthing",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 72,
+      "name": "Marion",
+      "primary_county": "Turner"
+    },
+    {
+      "rank": 73,
+      "name": "Valley Springs",
+      "primary_county": "Minnehaha"
+    },
+    {
+      "rank": 74,
+      "name": "Howard †",
+      "primary_county": "Miner"
+    },
+    {
+      "rank": 75,
+      "name": "Viborg",
+      "primary_county": "Turner"
+    },
+    {
+      "rank": 76,
+      "name": "Faulkton †",
+      "primary_county": "Faulk"
+    },
+    {
+      "rank": 77,
+      "name": "Scotland",
+      "primary_county": "Bon Homme"
+    },
+    {
+      "rank": 78,
+      "name": "Elkton",
+      "primary_county": "Brookings"
+    },
+    {
+      "rank": 79,
+      "name": "Wessington Springs †",
+      "primary_county": "Jerauld"
+    },
+    {
+      "rank": 80,
+      "name": "Alcester",
+      "primary_county": "Union"
+    },
+    {
+      "rank": 81,
+      "name": "Estelline",
+      "primary_county": "Hamlin"
+    },
+    {
+      "rank": 82,
+      "name": "Plankinton †",
+      "primary_county": "Aurora"
+    },
+    {
+      "name": "Edgemont",
+      "primary_county": "Fall River"
+    },
+    {
+      "name": "Eureka",
+      "primary_county": "McPherson"
+    },
+    {
+      "rank": 85,
+      "name": "Philip †",
+      "primary_county": "Haakon"
+    },
+    {
+      "rank": 86,
+      "name": "Castlewood",
+      "primary_county": "Hamlin"
+    },
+    {
+      "rank": 87,
+      "name": "Armour †",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 88,
+      "name": "Lake Andes †",
+      "primary_county": "Charles Mix"
+    },
+    {
+      "rank": 89,
+      "name": "Colton",
+      "primary_county": "Minnehaha"
+    },
+    {
+      "rank": 90,
+      "name": "Colman",
+      "primary_county": "Moody"
+    },
+    {
+      "rank": 91,
+      "name": "Wall",
+      "primary_county": "Pennington"
+    },
+    {
+      "rank": 92,
+      "name": "Alexandria †",
+      "primary_county": "Hanson"
+    },
+    {
+      "rank": 93,
+      "name": "Highmore †",
+      "primary_county": "Hyde"
+    },
+    {
+      "rank": 94,
+      "name": "Woonsocket †",
+      "primary_county": "Sanborn"
+    },
+    {
+      "rank": 95,
+      "name": "Onida †",
+      "primary_county": "Sully"
+    },
+    {
+      "rank": 96,
+      "name": "Canistota",
+      "primary_county": "McCook"
+    },
+    {
+      "rank": 97,
+      "name": "Lake Norden",
+      "primary_county": "Hamlin"
+    },
+    {
+      "rank": 98,
+      "name": "Menno",
+      "primary_county": "Hutchinson"
+    },
+    {
+      "rank": 99,
+      "name": "New Underwood",
+      "primary_county": "Pennington"
+    },
+    {
+      "name": "Avon",
+      "primary_county": "Bon Homme"
+    },
+    {
+      "name": "Selby †",
+      "primary_county": "Walworth"
+    },
+    {
+      "rank": 102,
+      "name": "Lake Preston",
+      "primary_county": "Kingsbury"
+    },
+    {
+      "rank": 103,
+      "name": "Burke †",
+      "primary_county": "Gregory"
+    },
+    {
+      "rank": 104,
+      "name": "Newell",
+      "primary_county": "Butte"
+    },
+    {
+      "rank": 105,
+      "name": "Kimball",
+      "primary_county": "Brule"
+    },
+    {
+      "rank": 106,
+      "name": "Humboldt",
+      "primary_county": "Minnehaha"
+    },
+    {
+      "rank": 107,
+      "name": "Tripp",
+      "primary_county": "Hutchinson"
+    },
+    {
+      "rank": 108,
+      "name": "Corsica",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 109,
+      "name": "White",
+      "primary_county": "Brookings"
+    },
+    {
+      "rank": 110,
+      "name": "McLaughlin",
+      "primary_county": "Corson"
+    },
+    {
+      "rank": 111,
+      "name": "Timber Lake †",
+      "primary_county": "Dewey"
+    },
+    {
+      "rank": 112,
+      "name": "Kadoka †",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 113,
+      "name": "White River †",
+      "primary_county": "Mellette"
+    },
+    {
+      "rank": 114,
+      "name": "Bridgewater",
+      "primary_county": "McCook"
+    },
+    {
+      "rank": 115,
+      "name": "Dupree †",
+      "primary_county": "Ziebach"
+    },
+    {
+      "rank": 116,
+      "name": "Bryant",
+      "primary_county": "Hamlin"
+    },
+    {
+      "rank": 117,
+      "name": "Waubay",
+      "primary_county": "Day"
+    },
+    {
+      "rank": 118,
+      "name": "Emery",
+      "primary_county": "Hanson"
+    },
+    {
+      "rank": 119,
+      "name": "Bowdle",
+      "primary_county": "Edmunds"
+    },
+    {
+      "rank": 120,
+      "name": "St. Francis",
+      "primary_county": "Todd"
+    },
+    {
+      "rank": 121,
+      "name": "Presho",
+      "primary_county": "Lyman"
+    },
+    {
+      "rank": 122,
+      "name": "Murdo †",
+      "primary_county": "Jones"
+    },
+    {
+      "name": "Montrose",
+      "primary_county": "McCook"
+    },
+    {
+      "name": "Wolsey",
+      "primary_county": "Beadle"
+    },
+    {
+      "rank": 125,
+      "name": "Mount Vernon",
+      "primary_county": "Davison"
+    },
+    {
+      "rank": 126,
+      "name": "Warner",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 127,
+      "name": "Jefferson",
+      "primary_county": "Union"
+    },
+    {
+      "rank": 128,
+      "name": "Hayti †",
+      "primary_county": "Hamlin"
+    },
+    {
+      "rank": 129,
+      "name": "Irene",
+      "primary_county": "ClayTurnerYankton"
+    },
+    {
+      "rank": 130,
+      "name": "Wilmot",
+      "primary_county": "Roberts"
+    },
+    {
+      "rank": 131,
+      "name": "Big Stone City",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 132,
+      "name": "Leola †",
+      "primary_county": "McPherson"
+    },
+    {
+      "rank": 133,
+      "name": "Herreid",
+      "primary_county": "Campbell"
+    },
+    {
+      "rank": 134,
+      "name": "Tabor",
+      "primary_county": "Bon Homme"
+    },
+    {
+      "rank": 135,
+      "name": "White Lake",
+      "primary_county": "Aurora"
+    },
+    {
+      "rank": 136,
+      "name": "Oacoma",
+      "primary_county": "Lyman"
+    },
+    {
+      "rank": 137,
+      "name": "Hurley",
+      "primary_county": "Turner"
+    },
+    {
+      "rank": 138,
+      "name": "Hermosa",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 139,
+      "name": "Gayville",
+      "primary_county": "Yankton"
+    },
+    {
+      "rank": 140,
+      "name": "Rosholt",
+      "primary_county": "Roberts"
+    },
+    {
+      "rank": 141,
+      "name": "Hoven",
+      "primary_county": "Potter"
+    },
+    {
+      "rank": 142,
+      "name": "Ethan",
+      "primary_county": "Davison"
+    },
+    {
+      "rank": 143,
+      "name": "Faith",
+      "primary_county": "Meade"
+    },
+    {
+      "rank": 144,
+      "name": "Buffalo †",
+      "primary_county": "Harding"
+    },
+    {
+      "rank": 145,
+      "name": "Wakonda",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 146,
+      "name": "Colome",
+      "primary_county": "Tripp"
+    },
+    {
+      "rank": 147,
+      "name": "Blunt",
+      "primary_county": "Hughes"
+    },
+    {
+      "rank": 148,
+      "name": "Florence",
+      "primary_county": "Codington"
+    },
+    {
+      "rank": 149,
+      "name": "Hudson",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Stickney",
+      "primary_county": "Aurora"
+    },
+    {
+      "name": "Veblen",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 152,
+      "name": "Chancellor",
+      "primary_county": "Turner"
+    },
+    {
+      "rank": 153,
+      "name": "Bison †",
+      "primary_county": "Perkins"
+    },
+    {
+      "rank": 154,
+      "name": "Iroquois",
+      "primary_county": "KingsburyBeadle"
+    },
+    {
+      "rank": 155,
+      "name": "Kennebec †",
+      "primary_county": "Lyman"
+    },
+    {
+      "rank": 156,
+      "name": "Roscoe",
+      "primary_county": "Edmunds"
+    },
+    {
+      "name": "Langford",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "Summit",
+      "primary_county": "Roberts"
+    },
+    {
+      "rank": 159,
+      "name": "Bristol",
+      "primary_county": "Day"
+    },
+    {
+      "rank": 160,
+      "name": "Willow Lake",
+      "primary_county": "Clark"
+    },
+    {
+      "rank": 161,
+      "name": "Henry",
+      "primary_county": "Codington"
+    },
+    {
+      "rank": 162,
+      "name": "Keystone",
+      "primary_county": "Pennington"
+    },
+    {
+      "rank": 163,
+      "name": "Bonesteel",
+      "primary_county": "Gregory"
+    },
+    {
+      "rank": 164,
+      "name": "Egan",
+      "primary_county": "Moody"
+    },
+    {
+      "rank": 165,
+      "name": "Trent",
+      "primary_county": "Moody"
+    },
+    {
+      "rank": 166,
+      "name": "Pukwana",
+      "primary_county": "Brule"
+    },
+    {
+      "rank": 167,
+      "name": "Gary",
+      "primary_county": "Deuel"
+    },
+    {
+      "rank": 168,
+      "name": "Pickstown",
+      "primary_county": "Charles Mix"
+    },
+    {
+      "rank": 169,
+      "name": "New Effington",
+      "primary_county": "Roberts"
+    },
+    {
+      "rank": 170,
+      "name": "Pollock",
+      "primary_county": "Campbell"
+    },
+    {
+      "rank": 171,
+      "name": "Alpena",
+      "primary_county": "Jerauld"
+    },
+    {
+      "rank": 172,
+      "name": "Bruce",
+      "primary_county": "Brookings"
+    },
+    {
+      "rank": 173,
+      "name": "Nisland",
+      "primary_county": "Butte"
+    },
+    {
+      "rank": 174,
+      "name": "Frederick",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 175,
+      "name": "Tulare",
+      "primary_county": "Spink"
+    },
+    {
+      "rank": 176,
+      "name": "Wessington",
+      "primary_county": "BeadleHand"
+    },
+    {
+      "name": "Doland",
+      "primary_county": "Spink"
+    },
+    {
+      "name": "Toronto",
+      "primary_county": "Deuel"
+    },
+    {
+      "rank": 179,
+      "name": "Mellette",
+      "primary_county": "Spink"
+    },
+    {
+      "rank": 180,
+      "name": "South Shore",
+      "primary_county": "Codington"
+    },
+    {
+      "rank": 181,
+      "name": "Hecla",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 182,
+      "name": "Mission Hill",
+      "primary_county": "Yankton"
+    },
+    {
+      "rank": 183,
+      "name": "Roslyn",
+      "primary_county": "Day"
+    },
+    {
+      "rank": 184,
+      "name": "Peever",
+      "primary_county": "Roberts"
+    },
+    {
+      "rank": 185,
+      "name": "Wentworth",
+      "primary_county": "Lake"
+    },
+    {
+      "rank": 186,
+      "name": "Kranzburg",
+      "primary_county": "Codington"
+    },
+    {
+      "rank": 187,
+      "name": "Monroe",
+      "primary_county": "Turner"
+    },
+    {
+      "name": "Ramona",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "St. Lawrence",
+      "primary_county": "Hand"
+    },
+    {
+      "name": "Hosmer",
+      "primary_county": "Edmunds"
+    },
+    {
+      "name": "Letcher",
+      "primary_county": "Sanborn"
+    },
+    {
+      "name": "Volin",
+      "primary_county": "Yankton"
+    },
+    {
+      "rank": 193,
+      "name": "Columbia",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 194,
+      "name": "Isabel",
+      "primary_county": "Dewey"
+    },
+    {
+      "name": "Buffalo Gap",
+      "primary_county": "Custer"
+    },
+    {
+      "name": "Delmont",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Dimock",
+      "primary_county": "Hutchinson"
+    },
+    {
+      "rank": 198,
+      "name": "Geddes",
+      "primary_county": "Charles Mix"
+    },
+    {
+      "rank": 199,
+      "name": "Goodwin",
+      "primary_county": "Deuel"
+    },
+    {
+      "rank": 200,
+      "name": "Conde",
+      "primary_county": "Spink"
+    },
+    {
+      "rank": 201,
+      "name": "Spencer",
+      "primary_county": "McCook"
+    },
+    {
+      "name": "Artesian",
+      "primary_county": "Sanborn"
+    },
+    {
+      "name": "Badger",
+      "primary_county": "Kingsbury"
+    },
+    {
+      "rank": 204,
+      "name": "Northville",
+      "primary_county": "Spink"
+    },
+    {
+      "rank": 205,
+      "name": "Frankfort",
+      "primary_county": "Spink"
+    },
+    {
+      "rank": 206,
+      "name": "Astoria",
+      "primary_county": "Deuel"
+    },
+    {
+      "rank": 207,
+      "name": "Cavour",
+      "primary_county": "Beadle"
+    },
+    {
+      "rank": 208,
+      "name": "Carthage",
+      "primary_county": "Miner"
+    },
+    {
+      "rank": 209,
+      "name": "Reliance",
+      "primary_county": "Lyman"
+    },
+    {
+      "rank": 210,
+      "name": "Oelrichs",
+      "primary_county": "Fall River"
+    },
+    {
+      "rank": 211,
+      "name": "Pierpont",
+      "primary_county": "Day"
+    },
+    {
+      "rank": 212,
+      "name": "Java",
+      "primary_county": "Walworth"
+    },
+    {
+      "rank": 213,
+      "name": "Brandt",
+      "primary_county": "Deuel"
+    },
+    {
+      "rank": 214,
+      "name": "Oldham",
+      "primary_county": "Kingsbury"
+    },
+    {
+      "rank": 215,
+      "name": "Lesterville",
+      "primary_county": "Yankton"
+    },
+    {
+      "rank": 216,
+      "name": "Yale",
+      "primary_county": "Beadle"
+    },
+    {
+      "rank": 217,
+      "name": "Midland",
+      "primary_county": "Haakon"
+    },
+    {
+      "name": "Central City",
+      "primary_county": "Lawrence"
+    },
+    {
+      "name": "McIntosh †",
+      "primary_county": "Corson"
+    },
+    {
+      "name": "Glenham",
+      "primary_county": "Walworth"
+    },
+    {
+      "name": "Pringle",
+      "primary_county": "Custer"
+    },
+    {
+      "name": "Claremont",
+      "primary_county": "Brown"
+    },
+    {
+      "name": "Hitchcock",
+      "primary_county": "Beadle"
+    },
+    {
+      "name": "Stockholm",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 225,
+      "name": "Ashton",
+      "primary_county": "Spink"
+    },
+    {
+      "rank": 226,
+      "name": "Fairfax",
+      "primary_county": "Gregory"
+    },
+    {
+      "rank": 227,
+      "name": "Cresbard",
+      "primary_county": "Faulk"
+    },
+    {
+      "rank": 228,
+      "name": "Sinai",
+      "primary_county": "Brookings"
+    },
+    {
+      "name": "Harrold",
+      "primary_county": "Hughes"
+    },
+    {
+      "name": "Hazel",
+      "primary_county": "Hamlin"
+    },
+    {
+      "name": "Revillo",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Canova",
+      "primary_county": "Miner"
+    },
+    {
+      "name": "Wallace",
+      "primary_county": "Codington"
+    },
+    {
+      "rank": 234,
+      "name": "Eden",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "Brentford",
+      "primary_county": "Spink"
+    },
+    {
+      "name": "Dallas",
+      "primary_county": "Gregory"
+    },
+    {
+      "rank": 237,
+      "name": "Fulton",
+      "primary_county": "Hanson"
+    },
+    {
+      "rank": 238,
+      "name": "Westport",
+      "primary_county": "Brown"
+    },
+    {
+      "name": "Akaska",
+      "primary_county": "Walworth"
+    },
+    {
+      "name": "Claire City",
+      "primary_county": "Roberts"
+    },
+    {
+      "rank": 241,
+      "name": "Fruitdale",
+      "primary_county": "Butte"
+    },
+    {
+      "rank": 242,
+      "name": "Herrick",
+      "primary_county": "Gregory"
+    },
+    {
+      "rank": 243,
+      "name": "Sherman",
+      "primary_county": "Minnehaha"
+    },
+    {
+      "name": "Batesland",
+      "primary_county": "Oglala Lakota"
+    },
+    {
+      "name": "Bushnell",
+      "primary_county": "Brookings"
+    },
+    {
+      "rank": 246,
+      "name": "Dante",
+      "primary_county": "Charles Mix"
+    },
+    {
+      "rank": 247,
+      "name": "Ravinia",
+      "primary_county": "Charles Mix"
+    },
+    {
+      "name": "Corona",
+      "primary_county": "Roberts"
+    },
+    {
+      "name": "Utica",
+      "primary_county": "Yankton"
+    },
+    {
+      "name": "Agar",
+      "primary_county": "Sully"
+    },
+    {
+      "name": "Andover",
+      "primary_county": "Day"
+    },
+    {
+      "name": "Camp Crook",
+      "primary_county": "Harding"
+    },
+    {
+      "name": "Fairburn",
+      "primary_county": "Custer"
+    },
+    {
+      "name": "Bradley",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Fairview",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Mound City †",
+      "primary_county": "Campbell"
+    },
+    {
+      "name": "Strandburg",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 258,
+      "name": "Interior",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Olivet †",
+      "primary_county": "Hutchinson"
+    },
+    {
+      "name": "Wasta",
+      "primary_county": "Pennington"
+    },
+    {
+      "rank": 261,
+      "name": "La Bolt",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 262,
+      "name": "Quinn",
+      "primary_county": "Pennington"
+    },
+    {
+      "rank": 263,
+      "name": "Stratford",
+      "primary_county": "Brown"
+    },
+    {
+      "name": "Brant Lake",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Raymond",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Davis",
+      "primary_county": "Turner"
+    },
+    {
+      "name": "Ree Heights",
+      "primary_county": "Hand"
+    },
+    {
+      "rank": 268,
+      "name": "New Witten",
+      "primary_county": "Tripp"
+    },
+    {
+      "rank": 269,
+      "name": "Vienna",
+      "primary_county": "Clark"
+    },
+    {
+      "rank": 270,
+      "name": "Turton",
+      "primary_county": "Spink"
+    },
+    {
+      "rank": 271,
+      "name": "Orient",
+      "primary_county": "Faulk"
+    },
+    {
+      "rank": 272,
+      "name": "Ortley",
+      "primary_county": "Roberts"
+    },
+    {
+      "rank": 273,
+      "name": "Nunda",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Lane",
+      "primary_county": "Jerauld"
+    },
+    {
+      "name": "Twin Brooks",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Grenville",
+      "primary_county": "Day"
+    },
+    {
+      "name": "Lake City",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 278,
+      "name": "Morristown",
+      "primary_county": "Corson"
+    },
+    {
+      "rank": 279,
+      "name": "Belvidere",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Draper",
+      "primary_county": "Jones"
+    },
+    {
+      "name": "Ward",
+      "primary_county": "Moody"
+    },
+    {
+      "name": "Wood",
+      "primary_county": "Mellette"
+    },
+    {
+      "rank": 283,
+      "name": "Naples",
+      "primary_county": "Clark"
+    },
+    {
+      "rank": 284,
+      "name": "Erwin",
+      "primary_county": "Kingsbury"
+    },
+    {
+      "rank": 285,
+      "name": "Tolstoy",
+      "primary_county": "Potter"
+    },
+    {
+      "name": "Dolton",
+      "primary_county": "Turner"
+    },
+    {
+      "name": "Garden City",
+      "primary_county": "Clark"
+    },
+    {
+      "rank": 288,
+      "name": "Altamont",
+      "primary_county": "Deuel"
+    },
+    {
+      "rank": 289,
+      "name": "Lebanon",
+      "primary_county": "Potter"
+    },
+    {
+      "rank": 290,
+      "name": "Broadland",
+      "primary_county": "Beadle"
+    },
+    {
+      "rank": 291,
+      "name": "Long Lake",
+      "primary_county": "McPherson"
+    },
+    {
+      "name": "Vilas",
+      "primary_county": "Miner"
+    },
+    {
+      "name": "Virgil",
+      "primary_county": "Beadle"
+    },
+    {
+      "rank": 294,
+      "name": "Seneca",
+      "primary_county": "Faulk"
+    },
+    {
+      "name": "Chelsea",
+      "primary_county": "Faulk"
+    },
+    {
+      "name": "Marvin",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Hetland",
+      "primary_county": "Kingsbury"
+    },
+    {
+      "name": "Rockham",
+      "primary_county": "Faulk"
+    },
+    {
+      "rank": 299,
+      "name": "Farmer",
+      "primary_county": "Hanson"
+    },
+    {
+      "rank": 300,
+      "name": "Onaka",
+      "primary_county": "Faulk"
+    },
+    {
+      "name": "Bancroft",
+      "primary_county": "Kingsbury"
+    },
+    {
+      "name": "Wetonka",
+      "primary_county": "McPherson"
+    },
+    {
+      "rank": 303,
+      "name": "Cottonwood",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 304,
+      "name": "Albee",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Artas",
+      "primary_county": "Campbell"
+    },
+    {
+      "name": "White Rock",
+      "primary_county": "Roberts"
+    },
+    {
+      "name": "Butler",
+      "primary_county": "Day"
+    },
+    {
+      "name": "Lowry",
+      "primary_county": "Walworth"
+    },
+    {
+      "name": "Verdon",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 310,
+      "name": "Hillsview",
+      "primary_county": "McPherson"
+    }
+  ]
+}

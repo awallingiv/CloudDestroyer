@@ -1,0 +1,1445 @@
+{
+  "metadata": {
+    "state": "New Hampshire",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_New_Hampshire",
+    "scraped_at": "2025-11-24 20:31:57",
+    "scraper_version": "2.0_generic",
+    "description": "New Hampshire municipalities scraped from Wikipedia",
+    "total_municipalities": 234,
+    "statistics": {
+      "total_found": 234,
+      "with_population": 0,
+      "with_counties": 234,
+      "unique_counties": 20,
+      "population_stats": {}
+    },
+    "counties": [
+      "Belknap",
+      "Belknap (seat)",
+      "Carroll",
+      "Carroll (seat)",
+      "Cheshire",
+      "Cheshire (seat)",
+      "Coös",
+      "Coös (seat)",
+      "Grafton",
+      "Grafton (seat)",
+      "Hillsborough",
+      "Hillsborough (seat)",
+      "Merrimack",
+      "Merrimack (seat)",
+      "Rockingham",
+      "Rockingham (seat)",
+      "Strafford",
+      "Strafford (seat)",
+      "Sullivan",
+      "Sullivan (seat)"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "Manchester",
+      "designation": "City",
+      "primary_county": "Hillsborough (seat)",
+      "incorporated": "1751"
+    },
+    {
+      "name": "Nashua",
+      "designation": "City",
+      "primary_county": "Hillsborough (seat)",
+      "incorporated": "1746"
+    },
+    {
+      "name": "Concord",
+      "designation": "City (capital)",
+      "primary_county": "Merrimack (seat)",
+      "incorporated": "1733"
+    },
+    {
+      "name": "Derry",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1827"
+    },
+    {
+      "name": "Dover",
+      "designation": "City",
+      "primary_county": "Strafford (seat)",
+      "incorporated": "1623"
+    },
+    {
+      "name": "Rochester",
+      "designation": "City",
+      "primary_county": "Strafford",
+      "incorporated": "1722"
+    },
+    {
+      "name": "Salem",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1750"
+    },
+    {
+      "name": "Merrimack",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1746"
+    },
+    {
+      "name": "Londonderry",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1722"
+    },
+    {
+      "name": "Hudson",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1746"
+    },
+    {
+      "name": "Bedford",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1750"
+    },
+    {
+      "name": "Keene",
+      "designation": "City",
+      "primary_county": "Cheshire (seat)",
+      "incorporated": "1753"
+    },
+    {
+      "name": "Portsmouth",
+      "designation": "City",
+      "primary_county": "Rockingham",
+      "incorporated": "1631"
+    },
+    {
+      "name": "Goffstown",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Laconia",
+      "designation": "City",
+      "primary_county": "Belknap (seat)",
+      "incorporated": "1855"
+    },
+    {
+      "name": "Hampton",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1639"
+    },
+    {
+      "name": "Milford",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1794"
+    },
+    {
+      "name": "Exeter",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1638"
+    },
+    {
+      "name": "Windham",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1742"
+    },
+    {
+      "name": "Durham",
+      "designation": "Town",
+      "primary_county": "Strafford",
+      "incorporated": "1732"
+    },
+    {
+      "name": "Hooksett",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1822"
+    },
+    {
+      "name": "Lebanon",
+      "designation": "City",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Pelham",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1746"
+    },
+    {
+      "name": "Claremont",
+      "designation": "City",
+      "primary_county": "Sullivan",
+      "incorporated": "1764"
+    },
+    {
+      "name": "Hanover",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Somersworth",
+      "designation": "City",
+      "primary_county": "Strafford",
+      "incorporated": "1754"
+    },
+    {
+      "name": "Amherst",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1760"
+    },
+    {
+      "name": "Raymond",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1764"
+    },
+    {
+      "name": "Conway",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1765"
+    },
+    {
+      "name": "Newmarket",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1727"
+    },
+    {
+      "name": "Berlin",
+      "designation": "City",
+      "primary_county": "Coös",
+      "incorporated": "1829"
+    },
+    {
+      "name": "Barrington",
+      "designation": "Town",
+      "primary_county": "Strafford",
+      "incorporated": "1722"
+    },
+    {
+      "name": "Weare",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1764"
+    },
+    {
+      "name": "Hampstead",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1749"
+    },
+    {
+      "name": "Franklin",
+      "designation": "City",
+      "primary_county": "Merrimack",
+      "incorporated": "1828"
+    },
+    {
+      "name": "Litchfield",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1734"
+    },
+    {
+      "name": "Seabrook",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1768"
+    },
+    {
+      "name": "Hollis",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1746"
+    },
+    {
+      "name": "Bow",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1727"
+    },
+    {
+      "name": "Plaistow",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1749"
+    },
+    {
+      "name": "Gilford",
+      "designation": "Town",
+      "primary_county": "Belknap",
+      "incorporated": "1812"
+    },
+    {
+      "name": "Stratham",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1716"
+    },
+    {
+      "name": "Belmont",
+      "designation": "Town",
+      "primary_county": "Belknap",
+      "incorporated": "1727"
+    },
+    {
+      "name": "Swanzey",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1753"
+    },
+    {
+      "name": "Pembroke",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1759"
+    },
+    {
+      "name": "Epping",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1741"
+    },
+    {
+      "name": "Atkinson",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1767"
+    },
+    {
+      "name": "Farmington",
+      "designation": "Town",
+      "primary_county": "Strafford",
+      "incorporated": "1798"
+    },
+    {
+      "name": "Plymouth",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1763"
+    },
+    {
+      "name": "Meredith",
+      "designation": "Town",
+      "primary_county": "Belknap",
+      "incorporated": "1768"
+    },
+    {
+      "name": "Sandown",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1756"
+    },
+    {
+      "name": "Rindge",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1768"
+    },
+    {
+      "name": "Peterborough",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1760"
+    },
+    {
+      "name": "Wolfeboro",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1770"
+    },
+    {
+      "name": "Newport",
+      "designation": "Town",
+      "primary_county": "Sullivan (seat)",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Kingston",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1694"
+    },
+    {
+      "name": "Henniker",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1768"
+    },
+    {
+      "name": "New Boston",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1763"
+    },
+    {
+      "name": "Littleton",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1784"
+    },
+    {
+      "name": "Auburn",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1845"
+    },
+    {
+      "name": "Hillsborough",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1772"
+    },
+    {
+      "name": "Hopkinton",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1765"
+    },
+    {
+      "name": "Alton",
+      "designation": "Town",
+      "primary_county": "Belknap",
+      "incorporated": "1796"
+    },
+    {
+      "name": "Brookline",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1769"
+    },
+    {
+      "name": "Loudon",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1773"
+    },
+    {
+      "name": "Rye",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1726"
+    },
+    {
+      "name": "Jaffrey",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1773"
+    },
+    {
+      "name": "Chester",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1722"
+    },
+    {
+      "name": "Nottingham",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1722"
+    },
+    {
+      "name": "New Ipswich",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1762"
+    },
+    {
+      "name": "Wakefield",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1774"
+    },
+    {
+      "name": "Moultonborough",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1777"
+    },
+    {
+      "name": "Barnstead",
+      "designation": "Town",
+      "primary_county": "Belknap",
+      "incorporated": "1727"
+    },
+    {
+      "name": "Northfield",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1780"
+    },
+    {
+      "name": "Deerfield",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1766"
+    },
+    {
+      "name": "Epsom",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1727"
+    },
+    {
+      "name": "Newton",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1749"
+    },
+    {
+      "name": "Charlestown",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1753"
+    },
+    {
+      "name": "Fremont",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1764"
+    },
+    {
+      "name": "Allenstown",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1831"
+    },
+    {
+      "name": "Northwood",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1773"
+    },
+    {
+      "name": "Haverhill",
+      "designation": "Town",
+      "primary_county": "Grafton (seat)",
+      "incorporated": "1763"
+    },
+    {
+      "name": "North Hampton",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1742"
+    },
+    {
+      "name": "Lee",
+      "designation": "Town",
+      "primary_county": "Strafford",
+      "incorporated": "1766"
+    },
+    {
+      "name": "Brentwood",
+      "designation": "Town",
+      "primary_county": "Rockingham (seat)",
+      "incorporated": "1742"
+    },
+    {
+      "name": "Milton",
+      "designation": "Town",
+      "primary_county": "Strafford",
+      "incorporated": "1802"
+    },
+    {
+      "name": "Enfield",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Danville",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1760"
+    },
+    {
+      "name": "New London",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1779"
+    },
+    {
+      "name": "Ossipee",
+      "designation": "Town",
+      "primary_county": "Carroll (seat)",
+      "incorporated": "1785"
+    },
+    {
+      "name": "Strafford",
+      "designation": "Town",
+      "primary_county": "Strafford",
+      "incorporated": "1820"
+    },
+    {
+      "name": "Winchester",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1753"
+    },
+    {
+      "name": "Pittsfield",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1782"
+    },
+    {
+      "name": "Greenland",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1721"
+    },
+    {
+      "name": "Candia",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1763"
+    },
+    {
+      "name": "Boscawen",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1760"
+    },
+    {
+      "name": "Tilton",
+      "designation": "Town",
+      "primary_county": "Belknap",
+      "incorporated": "1869"
+    },
+    {
+      "name": "Hinsdale",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1753"
+    },
+    {
+      "name": "Gilmanton",
+      "designation": "Town",
+      "primary_county": "Belknap",
+      "incorporated": "1727"
+    },
+    {
+      "name": "Wilton",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1762"
+    },
+    {
+      "name": "Canaan",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Walpole",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1752"
+    },
+    {
+      "name": "Chesterfield",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1752"
+    },
+    {
+      "name": "Grantham",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Campton",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Sunapee",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1781"
+    },
+    {
+      "name": "Bristol",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1819"
+    },
+    {
+      "name": "Lancaster",
+      "designation": "Town",
+      "primary_county": "Coös (seat)",
+      "incorporated": "1763"
+    },
+    {
+      "name": "Bartlett",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1790"
+    },
+    {
+      "name": "Sanbornton",
+      "designation": "Town",
+      "primary_county": "Belknap",
+      "incorporated": "1770"
+    },
+    {
+      "name": "Dunbarton",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1765"
+    },
+    {
+      "name": "Warner",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1774"
+    },
+    {
+      "name": "Tamworth",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1766"
+    },
+    {
+      "name": "Thornton",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1763"
+    },
+    {
+      "name": "Gorham",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1836"
+    },
+    {
+      "name": "New Durham",
+      "designation": "Town",
+      "primary_county": "Strafford",
+      "incorporated": "1762"
+    },
+    {
+      "name": "Chichester",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1727"
+    },
+    {
+      "name": "Antrim",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1777"
+    },
+    {
+      "name": "Rollinsford",
+      "designation": "Town",
+      "primary_county": "Strafford",
+      "incorporated": "1849"
+    },
+    {
+      "name": "Mont Vernon",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1803"
+    },
+    {
+      "name": "Madison",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1852"
+    },
+    {
+      "name": "Whitefield",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1804"
+    },
+    {
+      "name": "Bethlehem",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1799"
+    },
+    {
+      "name": "Tuftonboro",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1795"
+    },
+    {
+      "name": "Plainfield",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1761"
+    },
+    {
+      "name": "East Kingston",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1738"
+    },
+    {
+      "name": "Andover",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1779"
+    },
+    {
+      "name": "Hampton Falls",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1726"
+    },
+    {
+      "name": "Canterbury",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1741"
+    },
+    {
+      "name": "New Hampton",
+      "designation": "Town",
+      "primary_county": "Belknap",
+      "incorporated": "1777"
+    },
+    {
+      "name": "Fitzwilliam",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1773"
+    },
+    {
+      "name": "Newbury",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1778"
+    },
+    {
+      "name": "Troy",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1815"
+    },
+    {
+      "name": "Northumberland",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1779"
+    },
+    {
+      "name": "Marlborough",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1776"
+    },
+    {
+      "name": "Kensington",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1737"
+    },
+    {
+      "name": "Colebrook",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1796"
+    },
+    {
+      "name": "Holderness",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Sutton",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1784"
+    },
+    {
+      "name": "Greenville",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1872"
+    },
+    {
+      "name": "Ashland",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1868"
+    },
+    {
+      "name": "Madbury",
+      "designation": "Town",
+      "primary_county": "Strafford",
+      "incorporated": "1755"
+    },
+    {
+      "name": "Webster",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1860"
+    },
+    {
+      "name": "Deering",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1774"
+    },
+    {
+      "name": "Alstead",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1763"
+    },
+    {
+      "name": "Middleton",
+      "designation": "Town",
+      "primary_county": "Strafford",
+      "incorporated": "1778"
+    },
+    {
+      "name": "Alexandria",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1782"
+    },
+    {
+      "name": "Newfields",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1849"
+    },
+    {
+      "name": "Lyme",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Hancock",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1779"
+    },
+    {
+      "name": "Greenfield",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1791"
+    },
+    {
+      "name": "Westmoreland",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1752"
+    },
+    {
+      "name": "Lyndeborough",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1764"
+    },
+    {
+      "name": "Effingham",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1778"
+    },
+    {
+      "name": "Freedom",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1831"
+    },
+    {
+      "name": "Bradford",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1787"
+    },
+    {
+      "name": "Lincoln",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1764"
+    },
+    {
+      "name": "Lisbon",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1763"
+    },
+    {
+      "name": "Cornish",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1765"
+    },
+    {
+      "name": "Francestown",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1772"
+    },
+    {
+      "name": "Dublin",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1771"
+    },
+    {
+      "name": "Unity",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1764"
+    },
+    {
+      "name": "Bennington",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1842"
+    },
+    {
+      "name": "Rumney",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Sandwich",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1763"
+    },
+    {
+      "name": "Mason",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1768"
+    },
+    {
+      "name": "Woodstock",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1763"
+    },
+    {
+      "name": "Salisbury",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1768"
+    },
+    {
+      "name": "Wilmot",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1807"
+    },
+    {
+      "name": "Grafton",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1778"
+    },
+    {
+      "name": "Temple",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1768"
+    },
+    {
+      "name": "Stoddard",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1774"
+    },
+    {
+      "name": "Milan",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1824"
+    },
+    {
+      "name": "Springfield",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1794"
+    },
+    {
+      "name": "Danbury",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1795"
+    },
+    {
+      "name": "Orford",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Richmond",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1752"
+    },
+    {
+      "name": "Washington",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1776"
+    },
+    {
+      "name": "Bridgewater",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1788"
+    },
+    {
+      "name": "Lempster",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Franconia",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1764"
+    },
+    {
+      "name": "Bath",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Jefferson",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1796"
+    },
+    {
+      "name": "Center Harbor",
+      "designation": "Town",
+      "primary_county": "Belknap",
+      "incorporated": "1797"
+    },
+    {
+      "name": "Jackson",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1800"
+    },
+    {
+      "name": "Hill",
+      "designation": "Town",
+      "primary_county": "Merrimack",
+      "incorporated": "1778"
+    },
+    {
+      "name": "New Castle",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1693"
+    },
+    {
+      "name": "Harrisville",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1870"
+    },
+    {
+      "name": "Dalton",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1784"
+    },
+    {
+      "name": "South Hampton",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1742"
+    },
+    {
+      "name": "Monroe",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1854"
+    },
+    {
+      "name": "Acworth",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1766"
+    },
+    {
+      "name": "Wentworth",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1766"
+    },
+    {
+      "name": "Warren",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1763"
+    },
+    {
+      "name": "Carroll",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1832"
+    },
+    {
+      "name": "Surry",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1769"
+    },
+    {
+      "name": "Stewartstown",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1795"
+    },
+    {
+      "name": "Newington",
+      "designation": "Town",
+      "primary_county": "Rockingham",
+      "incorporated": "1764"
+    },
+    {
+      "name": "Croydon",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1763"
+    },
+    {
+      "name": "Pittsburg",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1840"
+    },
+    {
+      "name": "Goshen",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1791"
+    },
+    {
+      "name": "Piermont",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1764"
+    },
+    {
+      "name": "Albany",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1766"
+    },
+    {
+      "name": "Brookfield",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1794"
+    },
+    {
+      "name": "Gilsum",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1763"
+    },
+    {
+      "name": "Marlow",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Stratford",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1773"
+    },
+    {
+      "name": "Columbia",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1797"
+    },
+    {
+      "name": "Sullivan",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1787"
+    },
+    {
+      "name": "Langdon",
+      "designation": "Town",
+      "primary_county": "Sullivan",
+      "incorporated": "1787"
+    },
+    {
+      "name": "Sugar Hill",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1962"
+    },
+    {
+      "name": "Hebron",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1792"
+    },
+    {
+      "name": "Nelson",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1774"
+    },
+    {
+      "name": "Lyman",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Groton",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Waterville Valley",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1829"
+    },
+    {
+      "name": "Stark",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1795"
+    },
+    {
+      "name": "Landaff",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1774"
+    },
+    {
+      "name": "Eaton",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1766"
+    },
+    {
+      "name": "Benton",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1764"
+    },
+    {
+      "name": "Sharon",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1791"
+    },
+    {
+      "name": "Shelburne",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1820"
+    },
+    {
+      "name": "Chatham",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1767"
+    },
+    {
+      "name": "Dorchester",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1761"
+    },
+    {
+      "name": "Randolph",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1824"
+    },
+    {
+      "name": "Dummer",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1848"
+    },
+    {
+      "name": "Errol",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1836"
+    },
+    {
+      "name": "Clarksville",
+      "designation": "Town",
+      "primary_county": "Coös",
+      "incorporated": "1853"
+    },
+    {
+      "name": "Easton",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1876"
+    },
+    {
+      "name": "Orange",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1790"
+    },
+    {
+      "name": "Windsor",
+      "designation": "Town",
+      "primary_county": "Hillsborough",
+      "incorporated": "1798"
+    },
+    {
+      "name": "Roxbury",
+      "designation": "Town",
+      "primary_county": "Cheshire",
+      "incorporated": "1812"
+    },
+    {
+      "name": "Ellsworth",
+      "designation": "Town",
+      "primary_county": "Grafton",
+      "incorporated": "1802"
+    },
+    {
+      "name": "Hart's Location",
+      "designation": "Town",
+      "primary_county": "Carroll",
+      "incorporated": "1795"
+    }
+  ]
+}

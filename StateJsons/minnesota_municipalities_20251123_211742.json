@@ -1,0 +1,4427 @@
+{
+  "metadata": {
+    "state": "Minnesota",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_Minnesota",
+    "scraped_at": "2025-11-23 21:17:42",
+    "scraper_version": "2.0_generic",
+    "description": "Minnesota municipalities scraped from Wikipedia",
+    "total_municipalities": 855,
+    "statistics": {
+      "total_found": 855,
+      "with_population": 0,
+      "with_counties": 855,
+      "unique_counties": 131,
+      "population_stats": {}
+    },
+    "counties": [
+      "Aitkin",
+      "Anoka",
+      "AnokaIsanti",
+      "AnokaRamsey",
+      "Becker",
+      "Beltrami",
+      "Benton",
+      "Big Stone",
+      "Blue Earth",
+      "Blue EarthNicolletLe Sueur",
+      "Brown",
+      "BrownCottonwood",
+      "Carlton",
+      "Carver",
+      "CarverHennepin",
+      "Cass",
+      "Chippewa",
+      "Chisago",
+      "Clay",
+      "Clearwater",
+      "Cook",
+      "Cottonwood",
+      "Crow Wing",
+      "Dakota",
+      "DakotaWashington",
+      "Dodge",
+      "Douglas",
+      "DouglasTodd",
+      "Faribault",
+      "FaribaultBlue Earth",
+      "Fillmore",
+      "FillmoreOlmsted",
+      "Freeborn",
+      "Goodhue",
+      "GoodhueOlmsted",
+      "GoodhueRice",
+      "GoodhueWabasha",
+      "Grant",
+      "Hennepin",
+      "HennepinRamsey",
+      "HennepinWright",
+      "Houston",
+      "HoustonWinona",
+      "Hubbard",
+      "Isanti",
+      "IsantiKanabec",
+      "Itasca",
+      "Jackson",
+      "Kanabec",
+      "Kandiyohi",
+      "KandiyohiChippewa",
+      "Kittson",
+      "Koochiching",
+      "Lac qui Parle",
+      "Lake",
+      "Lake of the Woods",
+      "Le Sueur",
+      "Le SueurNicolletSibley",
+      "Le SueurWaseca",
+      "Lincoln",
+      "Lyon",
+      "Mahnomen",
+      "Marshall",
+      "Martin",
+      "McLeod",
+      "Meeker",
+      "MeekerStearns",
+      "Mille Lacs",
+      "Mille LacsSherburne",
+      "Morrison",
+      "MorrisonBenton",
+      "MorrisonCass",
+      "MorrisonTodd",
+      "Mower",
+      "Murray",
+      "Nicollet",
+      "NicolletBlue Earth",
+      "Nobles",
+      "Norman",
+      "Olmsted",
+      "Otter Tail",
+      "Pennington",
+      "Pine",
+      "Pipestone",
+      "PipestoneRock",
+      "Polk",
+      "Pope",
+      "Ramsey",
+      "RamseyWashington",
+      "Red Lake",
+      "Redwood",
+      "RedwoodRenville",
+      "Renville",
+      "Rice",
+      "RiceDakota",
+      "Rock",
+      "Roseau",
+      "RoseauLake of the Woods",
+      "Scott",
+      "ScottLe Sueur",
+      "Sherburne",
+      "Sibley",
+      "St. Louis",
+      "Stearns",
+      "StearnsBenton",
+      "StearnsBentonSherburne",
+      "StearnsPope",
+      "Steele",
+      "SteeleDodge",
+      "Stevens",
+      "Swift",
+      "Todd",
+      "ToddWadena",
+      "Traverse",
+      "Wabasha",
+      "WabashaGoodhue",
+      "WabashaWinona",
+      "Wadena",
+      "WadenaOtter Tail",
+      "Waseca",
+      "Washington",
+      "Watonwan",
+      "WatonwanMartin",
+      "Wilkin",
+      "WilkinOtter Tail",
+      "Winona",
+      "Wright",
+      "WrightHennepin",
+      "WrightStearns",
+      "Yellow Medicine",
+      "Yellow MedicineChippewa"
+    ]
+  },
+  "municipalities": [
+    {
+      "rank": 1,
+      "name": "Minneapolis †",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 2,
+      "name": "Saint Paul ††",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 3,
+      "name": "Rochester †",
+      "primary_county": "Olmsted"
+    },
+    {
+      "rank": 4,
+      "name": "Bloomington",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 5,
+      "name": "Duluth †",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 6,
+      "name": "Brooklyn Park",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 7,
+      "name": "Woodbury",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 8,
+      "name": "Plymouth",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 9,
+      "name": "Lakeville",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 10,
+      "name": "Blaine",
+      "primary_county": "AnokaRamsey"
+    },
+    {
+      "rank": 11,
+      "name": "Maple Grove",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 12,
+      "name": "St. Cloud †",
+      "primary_county": "StearnsBentonSherburne"
+    },
+    {
+      "rank": 13,
+      "name": "Eagan",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 14,
+      "name": "Burnsville",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 15,
+      "name": "Coon Rapids",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 16,
+      "name": "Eden Prairie",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 17,
+      "name": "Apple Valley",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 18,
+      "name": "Edina",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 19,
+      "name": "Minnetonka",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 20,
+      "name": "St. Louis Park",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 21,
+      "name": "Shakopee †",
+      "primary_county": "Scott"
+    },
+    {
+      "rank": 22,
+      "name": "Mankato †",
+      "primary_county": "Blue EarthNicolletLe Sueur"
+    },
+    {
+      "rank": 23,
+      "name": "Moorhead †",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 24,
+      "name": "Cottage Grove",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 25,
+      "name": "Maplewood",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 26,
+      "name": "Richfield",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 27,
+      "name": "Inver Grove Heights",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 28,
+      "name": "Roseville",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 29,
+      "name": "Andover",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 30,
+      "name": "Savage",
+      "primary_county": "Scott"
+    },
+    {
+      "rank": 31,
+      "name": "Brooklyn Center",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 32,
+      "name": "Fridley",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 33,
+      "name": "Rosemount",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 34,
+      "name": "Oakdale",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 35,
+      "name": "Chaska †",
+      "primary_county": "Carver"
+    },
+    {
+      "rank": 36,
+      "name": "Ramsey",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 37,
+      "name": "Prior Lake",
+      "primary_county": "Scott"
+    },
+    {
+      "rank": 38,
+      "name": "Elk River †",
+      "primary_county": "Sherburne"
+    },
+    {
+      "rank": 39,
+      "name": "Shoreview",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 40,
+      "name": "Austin †",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 41,
+      "name": "Owatonna †",
+      "primary_county": "Steele"
+    },
+    {
+      "rank": 42,
+      "name": "Winona †",
+      "primary_county": "Winona"
+    },
+    {
+      "rank": 43,
+      "name": "Chanhassen",
+      "primary_county": "CarverHennepin"
+    },
+    {
+      "rank": 44,
+      "name": "Faribault †",
+      "primary_county": "Rice"
+    },
+    {
+      "rank": 45,
+      "name": "Farmington",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 46,
+      "name": "Otsego",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 47,
+      "name": "White Bear Lake",
+      "primary_county": "RamseyWashington"
+    },
+    {
+      "rank": 48,
+      "name": "Champlin",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 49,
+      "name": "Lino Lakes",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 50,
+      "name": "Hastings †",
+      "primary_county": "DakotaWashington"
+    },
+    {
+      "rank": 51,
+      "name": "New Brighton",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 52,
+      "name": "Columbia Heights",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 53,
+      "name": "Crystal",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 54,
+      "name": "West St. Paul",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 55,
+      "name": "Willmar †",
+      "primary_county": "Kandiyohi"
+    },
+    {
+      "rank": 56,
+      "name": "St. Michael",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 57,
+      "name": "Northfield",
+      "primary_county": "RiceDakota"
+    },
+    {
+      "rank": 58,
+      "name": "Golden Valley",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 59,
+      "name": "New Hope",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 60,
+      "name": "Forest Lake",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 61,
+      "name": "South St. Paul",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 62,
+      "name": "Sartell",
+      "primary_county": "StearnsBenton"
+    },
+    {
+      "rank": 63,
+      "name": "Hopkins",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 64,
+      "name": "Stillwater †",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 65,
+      "name": "Albert Lea †",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 66,
+      "name": "Anoka †",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 67,
+      "name": "Ham Lake",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 68,
+      "name": "Red Wing †",
+      "primary_county": "Goodhue"
+    },
+    {
+      "rank": 69,
+      "name": "Hugo",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 70,
+      "name": "Buffalo †",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 71,
+      "name": "Hibbing",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 72,
+      "name": "Bemidji †",
+      "primary_county": "Beltrami"
+    },
+    {
+      "rank": 73,
+      "name": "Monticello",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 74,
+      "name": "Alexandria †",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 75,
+      "name": "Hutchinson",
+      "primary_county": "McLeod"
+    },
+    {
+      "rank": 76,
+      "name": "Rogers",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 77,
+      "name": "Brainerd †",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 78,
+      "name": "Fergus Falls †",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 79,
+      "name": "Lake Elmo",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 80,
+      "name": "North Mankato",
+      "primary_county": "NicolletBlue Earth"
+    },
+    {
+      "rank": 81,
+      "name": "Marshall †",
+      "primary_county": "Lyon"
+    },
+    {
+      "rank": 82,
+      "name": "Robbinsdale",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 83,
+      "name": "New Ulm †",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 84,
+      "name": "Sauk Rapids",
+      "primary_county": "Benton"
+    },
+    {
+      "rank": 85,
+      "name": "Waconia",
+      "primary_county": "Carver"
+    },
+    {
+      "rank": 86,
+      "name": "Worthington †",
+      "primary_county": "Nobles"
+    },
+    {
+      "rank": 87,
+      "name": "Vadnais Heights",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 88,
+      "name": "Big Lake",
+      "primary_county": "Sherburne"
+    },
+    {
+      "rank": 89,
+      "name": "Mounds View",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 90,
+      "name": "North St. Paul",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 91,
+      "name": "Cloquet",
+      "primary_county": "Carlton"
+    },
+    {
+      "rank": 92,
+      "name": "St. Peter †",
+      "primary_county": "Nicollet"
+    },
+    {
+      "rank": 93,
+      "name": "East Bethel",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 94,
+      "name": "North Branch",
+      "primary_county": "Chisago"
+    },
+    {
+      "rank": 95,
+      "name": "Victoria",
+      "primary_county": "Carver"
+    },
+    {
+      "rank": 96,
+      "name": "Mendota Heights",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 97,
+      "name": "Grand Rapids †",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 98,
+      "name": "Cambridge †",
+      "primary_county": "Isanti"
+    },
+    {
+      "rank": 99,
+      "name": "Dayton",
+      "primary_county": "HennepinWright"
+    },
+    {
+      "rank": 100,
+      "name": "Little Canada",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 101,
+      "name": "Hermantown",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 102,
+      "name": "Fairmont †",
+      "primary_county": "Martin"
+    },
+    {
+      "rank": 103,
+      "name": "Detroit Lakes †",
+      "primary_county": "Becker"
+    },
+    {
+      "rank": 104,
+      "name": "St. Anthony",
+      "primary_county": "HennepinRamsey"
+    },
+    {
+      "rank": 105,
+      "name": "Arden Hills",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 106,
+      "name": "Oak Grove",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 107,
+      "name": "Little Falls †",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 108,
+      "name": "Baxter",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 109,
+      "name": "Minnetrista",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 110,
+      "name": "Waseca †",
+      "primary_county": "Waseca"
+    },
+    {
+      "rank": 111,
+      "name": "Mound",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 112,
+      "name": "East Grand Forks",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 113,
+      "name": "Thief River Falls †",
+      "primary_county": "Pennington"
+    },
+    {
+      "rank": 114,
+      "name": "Albertville",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 115,
+      "name": "St. Francis",
+      "primary_county": "AnokaIsanti"
+    },
+    {
+      "rank": 116,
+      "name": "Waite Park",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 117,
+      "name": "Corcoran",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 118,
+      "name": "Virginia",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 119,
+      "name": "New Prague",
+      "primary_county": "ScottLe Sueur"
+    },
+    {
+      "rank": 120,
+      "name": "Orono",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 121,
+      "name": "Mahtomedi",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 122,
+      "name": "Wyoming",
+      "primary_county": "Chisago"
+    },
+    {
+      "rank": 123,
+      "name": "Shorewood",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 124,
+      "name": "Delano",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 125,
+      "name": "Isanti",
+      "primary_county": "Isanti"
+    },
+    {
+      "rank": 126,
+      "name": "Belle Plaine",
+      "primary_county": "Scott"
+    },
+    {
+      "rank": 127,
+      "name": "Crookston †",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 128,
+      "name": "Medina",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 129,
+      "name": "Kasson",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 130,
+      "name": "Spring Lake Park",
+      "primary_county": "AnokaRamsey"
+    },
+    {
+      "rank": 131,
+      "name": "St. Joseph",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 132,
+      "name": "Stewartville",
+      "primary_county": "Olmsted"
+    },
+    {
+      "rank": 133,
+      "name": "Jordan",
+      "primary_county": "Scott"
+    },
+    {
+      "rank": 134,
+      "name": "Carver",
+      "primary_county": "Carver"
+    },
+    {
+      "rank": 135,
+      "name": "Byron",
+      "primary_county": "Olmsted"
+    },
+    {
+      "rank": 136,
+      "name": "Zimmerman",
+      "primary_county": "Sherburne"
+    },
+    {
+      "rank": 137,
+      "name": "Litchfield †",
+      "primary_county": "Meeker"
+    },
+    {
+      "rank": 138,
+      "name": "Chisago City",
+      "primary_county": "Chisago"
+    },
+    {
+      "rank": 139,
+      "name": "Glencoe †",
+      "primary_county": "McLeod"
+    },
+    {
+      "rank": 140,
+      "name": "Credit River",
+      "primary_county": "Scott"
+    },
+    {
+      "rank": 141,
+      "name": "International Falls †",
+      "primary_county": "Koochiching"
+    },
+    {
+      "rank": 142,
+      "name": "Newport",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 143,
+      "name": "St. Paul Park",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 144,
+      "name": "Princeton",
+      "primary_county": "Mille LacsSherburne"
+    },
+    {
+      "rank": 145,
+      "name": "Lake City",
+      "primary_county": "WabashaGoodhue"
+    },
+    {
+      "rank": 146,
+      "name": "Montevideo †",
+      "primary_county": "Chippewa"
+    },
+    {
+      "rank": 147,
+      "name": "La Crescent",
+      "primary_county": "HoustonWinona"
+    },
+    {
+      "rank": 148,
+      "name": "Becker",
+      "primary_county": "Sherburne"
+    },
+    {
+      "rank": 149,
+      "name": "North Oaks",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 150,
+      "name": "Elko New Market",
+      "primary_county": "Scott"
+    },
+    {
+      "rank": 151,
+      "name": "Morris †",
+      "primary_county": "Stevens"
+    },
+    {
+      "rank": 152,
+      "name": "Lonsdale",
+      "primary_county": "Rice"
+    },
+    {
+      "rank": 153,
+      "name": "Redwood Falls †",
+      "primary_county": "RedwoodRenville"
+    },
+    {
+      "rank": 154,
+      "name": "Lindstrom",
+      "primary_county": "Chisago"
+    },
+    {
+      "rank": 155,
+      "name": "Falcon Heights",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 156,
+      "name": "Circle Pines",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 157,
+      "name": "Luverne †",
+      "primary_county": "Rock"
+    },
+    {
+      "rank": 158,
+      "name": "Dilworth",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 159,
+      "name": "Windom †",
+      "primary_county": "Cottonwood"
+    },
+    {
+      "rank": 160,
+      "name": "Rockford",
+      "primary_county": "WrightHennepin"
+    },
+    {
+      "rank": 161,
+      "name": "Watertown",
+      "primary_county": "Carver"
+    },
+    {
+      "rank": 162,
+      "name": "St. James †",
+      "primary_county": "Watonwan"
+    },
+    {
+      "rank": 163,
+      "name": "Sauk Centre",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 164,
+      "name": "Oak Park Heights",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 165,
+      "name": "Chisholm",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 166,
+      "name": "Nowthen",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 167,
+      "name": "Park Rapids †",
+      "primary_county": "Hubbard"
+    },
+    {
+      "rank": 168,
+      "name": "Stacy",
+      "primary_county": "Chisago"
+    },
+    {
+      "rank": 169,
+      "name": "Wadena †",
+      "primary_county": "WadenaOtter Tail"
+    },
+    {
+      "rank": 170,
+      "name": "Cold Spring",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 171,
+      "name": "Wayzata",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 172,
+      "name": "Columbus",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 173,
+      "name": "Le Sueur",
+      "primary_county": "Le SueurNicolletSibley"
+    },
+    {
+      "rank": 174,
+      "name": "Hanover",
+      "primary_county": "WrightHennepin"
+    },
+    {
+      "rank": 175,
+      "name": "Cannon Falls",
+      "primary_county": "Goodhue"
+    },
+    {
+      "rank": 176,
+      "name": "Rice Lake",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 177,
+      "name": "Goodview",
+      "primary_county": "Winona"
+    },
+    {
+      "rank": 178,
+      "name": "St. Charles",
+      "primary_county": "Winona"
+    },
+    {
+      "rank": 179,
+      "name": "Pipestone †",
+      "primary_county": "Pipestone"
+    },
+    {
+      "rank": 180,
+      "name": "Zumbrota",
+      "primary_county": "Goodhue"
+    },
+    {
+      "rank": 181,
+      "name": "Centerville",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 182,
+      "name": "Scandia",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 183,
+      "name": "Grant",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 184,
+      "name": "Montrose",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 185,
+      "name": "Melrose",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 186,
+      "name": "Pine Island",
+      "primary_county": "GoodhueOlmsted"
+    },
+    {
+      "rank": 187,
+      "name": "Pine City †",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 188,
+      "name": "Bayport",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 189,
+      "name": "Mora †",
+      "primary_county": "Kanabec"
+    },
+    {
+      "rank": 190,
+      "name": "Norwood Young America",
+      "primary_county": "Carver"
+    },
+    {
+      "rank": 191,
+      "name": "St. Augusta",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 192,
+      "name": "Deephaven",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 193,
+      "name": "Independence",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 194,
+      "name": "Long Prairie †",
+      "primary_county": "Todd"
+    },
+    {
+      "rank": 195,
+      "name": "Perham",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 196,
+      "name": "Montgomery",
+      "primary_county": "Le Sueur"
+    },
+    {
+      "rank": 197,
+      "name": "Plainview",
+      "primary_county": "Wabasha"
+    },
+    {
+      "rank": 198,
+      "name": "Sleepy Eye",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 199,
+      "name": "Annandale",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 200,
+      "name": "Two Harbors †",
+      "primary_county": "Lake"
+    },
+    {
+      "rank": 201,
+      "name": "Eveleth",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 202,
+      "name": "Benson †",
+      "primary_county": "Swift"
+    },
+    {
+      "rank": 203,
+      "name": "Rush City",
+      "primary_county": "Chisago"
+    },
+    {
+      "rank": 204,
+      "name": "Eagle Lake",
+      "primary_county": "Blue Earth"
+    },
+    {
+      "rank": 205,
+      "name": "Breckenridge †",
+      "primary_county": "Wilkin"
+    },
+    {
+      "rank": 206,
+      "name": "Jackson †",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 207,
+      "name": "Ely",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 208,
+      "name": "Blue Earth †",
+      "primary_county": "Faribault"
+    },
+    {
+      "rank": 209,
+      "name": "Proctor",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 210,
+      "name": "Staples",
+      "primary_county": "ToddWadena"
+    },
+    {
+      "rank": 211,
+      "name": "Empire",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 212,
+      "name": "Lexington",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 213,
+      "name": "Milaca †",
+      "primary_county": "Mille Lacs"
+    },
+    {
+      "rank": 214,
+      "name": "Chatfield",
+      "primary_county": "FillmoreOlmsted"
+    },
+    {
+      "rank": 215,
+      "name": "Moose Lake",
+      "primary_county": "Carlton"
+    },
+    {
+      "rank": 216,
+      "name": "Afton",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 217,
+      "name": "Dodge Center",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 218,
+      "name": "Greenfield",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 219,
+      "name": "Albany",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 220,
+      "name": "Mountain Iron",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 221,
+      "name": "Cokato",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 222,
+      "name": "Caledonia †",
+      "primary_county": "Houston"
+    },
+    {
+      "rank": 223,
+      "name": "Barnesville",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 224,
+      "name": "Breezy Point",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 225,
+      "name": "Cohasset",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 226,
+      "name": "Roseau †",
+      "primary_county": "Roseau"
+    },
+    {
+      "rank": 227,
+      "name": "Granite Falls †",
+      "primary_county": "Yellow MedicineChippewa"
+    },
+    {
+      "rank": 228,
+      "name": "Foley †",
+      "primary_county": "Benton"
+    },
+    {
+      "rank": 229,
+      "name": "Glenwood †",
+      "primary_county": "Pope"
+    },
+    {
+      "rank": 230,
+      "name": "Wabasha †",
+      "primary_county": "Wabasha"
+    },
+    {
+      "rank": 231,
+      "name": "Pelican Rapids",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 232,
+      "name": "Paynesville",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 233,
+      "name": "Mayer",
+      "primary_county": "Carver"
+    },
+    {
+      "rank": 234,
+      "name": "Le Center †",
+      "primary_county": "Le Sueur"
+    },
+    {
+      "rank": 235,
+      "name": "Osseo",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 236,
+      "name": "Lake Crystal",
+      "primary_county": "Blue Earth"
+    },
+    {
+      "rank": 237,
+      "name": "Rockville",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 238,
+      "name": "Sandstone",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 239,
+      "name": "Janesville",
+      "primary_county": "Waseca"
+    },
+    {
+      "rank": 240,
+      "name": "Pequot Lakes",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 241,
+      "name": "Spring Valley",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 242,
+      "name": "Madelia",
+      "primary_county": "Watonwan"
+    },
+    {
+      "rank": 243,
+      "name": "Crosslake",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 244,
+      "name": "Wells",
+      "primary_county": "Faribault"
+    },
+    {
+      "rank": 245,
+      "name": "Lauderdale",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 246,
+      "name": "Gaylord †",
+      "primary_county": "Sibley"
+    },
+    {
+      "rank": 247,
+      "name": "Crosby",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 248,
+      "name": "Arlington",
+      "primary_county": "Sibley"
+    },
+    {
+      "rank": 249,
+      "name": "Olivia †",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 250,
+      "name": "Excelsior",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 251,
+      "name": "Hawley",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 252,
+      "name": "Howard Lake",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 253,
+      "name": "Waverly",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 254,
+      "name": "Clearwater",
+      "primary_county": "WrightStearns"
+    },
+    {
+      "rank": 255,
+      "name": "Winsted",
+      "primary_county": "McLeod"
+    },
+    {
+      "rank": 256,
+      "name": "Maple Lake",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 257,
+      "name": "Rice",
+      "primary_county": "Benton"
+    },
+    {
+      "rank": 258,
+      "name": "Aitkin †",
+      "primary_county": "Aitkin"
+    },
+    {
+      "rank": 259,
+      "name": "St. Bonifacius",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 260,
+      "name": "Nisswa",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 261,
+      "name": "Cologne",
+      "primary_county": "Carver"
+    },
+    {
+      "rank": 262,
+      "name": "Tracy",
+      "primary_county": "Lyon"
+    },
+    {
+      "rank": 263,
+      "name": "Oronoco",
+      "primary_county": "Olmsted"
+    },
+    {
+      "rank": 264,
+      "name": "Eyota",
+      "primary_county": "Olmsted"
+    },
+    {
+      "rank": 265,
+      "name": "Coleraine",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 266,
+      "name": "Springfield",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 267,
+      "name": "Hoyt Lakes",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 268,
+      "name": "Warroad",
+      "primary_county": "Roseau"
+    },
+    {
+      "rank": 269,
+      "name": "Ortonville †",
+      "primary_county": "Big Stone"
+    },
+    {
+      "rank": 270,
+      "name": "Slayton †",
+      "primary_county": "Murray"
+    },
+    {
+      "rank": 271,
+      "name": "Mountain Lake",
+      "primary_county": "Cottonwood"
+    },
+    {
+      "rank": 272,
+      "name": "Blooming Prairie",
+      "primary_county": "SteeleDodge"
+    },
+    {
+      "rank": 273,
+      "name": "Long Lake",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 274,
+      "name": "Hinckley",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 275,
+      "name": "Lester Prairie",
+      "primary_county": "McLeod"
+    },
+    {
+      "rank": 276,
+      "name": "Kenyon",
+      "primary_county": "Goodhue"
+    },
+    {
+      "rank": 277,
+      "name": "Rushford",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 278,
+      "name": "Dundas",
+      "primary_county": "Rice"
+    },
+    {
+      "rank": 279,
+      "name": "Rock Creek",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 280,
+      "name": "Braham",
+      "primary_county": "IsantiKanabec"
+    },
+    {
+      "rank": 281,
+      "name": "Silver Bay",
+      "primary_county": "Lake"
+    },
+    {
+      "rank": 282,
+      "name": "Waterville",
+      "primary_county": "Le Sueur"
+    },
+    {
+      "rank": 283,
+      "name": "Osakis",
+      "primary_county": "DouglasTodd"
+    },
+    {
+      "rank": 284,
+      "name": "Avon",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 285,
+      "name": "Lakefield",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 286,
+      "name": "Ada †",
+      "primary_county": "Norman"
+    },
+    {
+      "rank": 287,
+      "name": "Canby",
+      "primary_county": "Yellow Medicine"
+    },
+    {
+      "rank": 288,
+      "name": "Lakeland",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 289,
+      "name": "Gilbert",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 290,
+      "name": "Aurora",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 291,
+      "name": "Maple Plain",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 292,
+      "name": "Spring Park",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 293,
+      "name": "Mapleton",
+      "primary_county": "Blue Earth"
+    },
+    {
+      "rank": 294,
+      "name": "Warren †",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 295,
+      "name": "Tonka Bay",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 296,
+      "name": "Richmond",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 297,
+      "name": "Dassel",
+      "primary_county": "Meeker"
+    },
+    {
+      "rank": 298,
+      "name": "Lewiston",
+      "primary_county": "Winona"
+    },
+    {
+      "rank": 299,
+      "name": "Madison †",
+      "primary_county": "Lac qui Parle"
+    },
+    {
+      "rank": 300,
+      "name": "New York Mills",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 301,
+      "name": "Pierz",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 302,
+      "name": "Dawson",
+      "primary_county": "Lac qui Parle"
+    },
+    {
+      "rank": 303,
+      "name": "Starbuck",
+      "primary_county": "Pope"
+    },
+    {
+      "rank": 304,
+      "name": "Clara City",
+      "primary_county": "Chippewa"
+    },
+    {
+      "rank": 305,
+      "name": "Winnebago",
+      "primary_county": "Faribault"
+    },
+    {
+      "rank": 306,
+      "name": "Fosston",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 307,
+      "name": "Babbitt",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 308,
+      "name": "Glyndon",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 309,
+      "name": "Menahga",
+      "primary_county": "Wadena"
+    },
+    {
+      "rank": 310,
+      "name": "Medford",
+      "primary_county": "Steele"
+    },
+    {
+      "rank": 311,
+      "name": "Hayfield",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 312,
+      "name": "Minneota",
+      "primary_county": "Lyon"
+    },
+    {
+      "rank": 313,
+      "name": "Appleton",
+      "primary_county": "Swift"
+    },
+    {
+      "rank": 314,
+      "name": "Medicine Lake",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 315,
+      "name": "Wheaton †",
+      "primary_county": "Traverse"
+    },
+    {
+      "rank": 316,
+      "name": "Winthrop",
+      "primary_county": "Sibley"
+    },
+    {
+      "rank": 317,
+      "name": "Red Lake Falls †",
+      "primary_county": "Red Lake"
+    },
+    {
+      "rank": 318,
+      "name": "Fulda",
+      "primary_county": "Murray"
+    },
+    {
+      "rank": 319,
+      "name": "New London",
+      "primary_county": "Kandiyohi"
+    },
+    {
+      "rank": 320,
+      "name": "Preston †",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 321,
+      "name": "Madison Lake",
+      "primary_county": "Blue Earth"
+    },
+    {
+      "rank": 322,
+      "name": "Frazee",
+      "primary_county": "Becker"
+    },
+    {
+      "rank": 323,
+      "name": "Grand Marais †",
+      "primary_county": "Cook"
+    },
+    {
+      "rank": 324,
+      "name": "Bagley †",
+      "primary_county": "Clearwater"
+    },
+    {
+      "rank": 325,
+      "name": "Royalton",
+      "primary_county": "MorrisonBenton"
+    },
+    {
+      "rank": 326,
+      "name": "Elbow Lake †",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 327,
+      "name": "Renville",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 328,
+      "name": "Goodhue",
+      "primary_county": "Goodhue"
+    },
+    {
+      "rank": 329,
+      "name": "Edgerton",
+      "primary_county": "Pipestone"
+    },
+    {
+      "rank": 330,
+      "name": "Fairfax",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 331,
+      "name": "Mahnomen †",
+      "primary_county": "Mahnomen"
+    },
+    {
+      "rank": 332,
+      "name": "Shafer",
+      "primary_county": "Chisago"
+    },
+    {
+      "rank": 333,
+      "name": "Spring Grove",
+      "primary_county": "Houston"
+    },
+    {
+      "rank": 334,
+      "name": "Adrian",
+      "primary_county": "Nobles"
+    },
+    {
+      "rank": 335,
+      "name": "New Richland",
+      "primary_county": "Waseca"
+    },
+    {
+      "rank": 336,
+      "name": "Grand Meadow",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 337,
+      "name": "Dellwood",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 338,
+      "name": "East Gull Lake",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 339,
+      "name": "Cottonwood",
+      "primary_county": "Lyon"
+    },
+    {
+      "rank": 340,
+      "name": "Harris",
+      "primary_county": "Chisago"
+    },
+    {
+      "rank": 341,
+      "name": "Elgin",
+      "primary_county": "Wabasha"
+    },
+    {
+      "rank": 342,
+      "name": "Lake Shore",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 343,
+      "name": "Nicollet",
+      "primary_county": "Nicollet"
+    },
+    {
+      "rank": 344,
+      "name": "Mantorville †",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 345,
+      "name": "Wanamingo",
+      "primary_county": "Goodhue"
+    },
+    {
+      "rank": 346,
+      "name": "Tyler",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 347,
+      "name": "Spicer",
+      "primary_county": "Kandiyohi"
+    },
+    {
+      "rank": 348,
+      "name": "Atwater",
+      "primary_county": "Kandiyohi"
+    },
+    {
+      "rank": 349,
+      "name": "Truman",
+      "primary_county": "Martin"
+    },
+    {
+      "rank": 350,
+      "name": "Eden Valley",
+      "primary_county": "MeekerStearns"
+    },
+    {
+      "rank": 351,
+      "name": "Taylors Falls",
+      "primary_county": "Chisago"
+    },
+    {
+      "rank": 352,
+      "name": "Sherburn",
+      "primary_county": "Martin"
+    },
+    {
+      "rank": 353,
+      "name": "Harmony",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 354,
+      "name": "Parkers Prairie",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 355,
+      "name": "Morristown",
+      "primary_county": "Rice"
+    },
+    {
+      "rank": 356,
+      "name": "Watkins",
+      "primary_county": "Meeker"
+    },
+    {
+      "rank": 357,
+      "name": "Lake St. Croix Beach",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 358,
+      "name": "Scanlon",
+      "primary_county": "Carlton"
+    },
+    {
+      "rank": 359,
+      "name": "Hector",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 360,
+      "name": "Henderson",
+      "primary_county": "Sibley"
+    },
+    {
+      "rank": 361,
+      "name": "Bird Island",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 362,
+      "name": "Walker †",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 363,
+      "name": "Houston",
+      "primary_county": "Houston"
+    },
+    {
+      "rank": 364,
+      "name": "Le Roy",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 365,
+      "name": "Keewatin",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 366,
+      "name": "Biwabik",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 367,
+      "name": "Carlton †",
+      "primary_county": "Carlton"
+    },
+    {
+      "rank": 368,
+      "name": "Nashwauk",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 369,
+      "name": "Hilltop",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 370,
+      "name": "Buhl",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 371,
+      "name": "Baudette †",
+      "primary_county": "Lake of the Woods"
+    },
+    {
+      "rank": 372,
+      "name": "Deer River",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 373,
+      "name": "Pine River",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 374,
+      "name": "Kimball",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 375,
+      "name": "Battle Lake",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 376,
+      "name": "Morgan",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 377,
+      "name": "Mazeppa",
+      "primary_county": "Wabasha"
+    },
+    {
+      "rank": 378,
+      "name": "Emily",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 379,
+      "name": "Henning",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 380,
+      "name": "Hancock",
+      "primary_county": "Stevens"
+    },
+    {
+      "rank": 381,
+      "name": "Silver Lake",
+      "primary_county": "McLeod"
+    },
+    {
+      "rank": 382,
+      "name": "Hallock †",
+      "primary_county": "Kittson"
+    },
+    {
+      "rank": 383,
+      "name": "Landfall",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 384,
+      "name": "West Concord",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 385,
+      "name": "Birchwood Village",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 386,
+      "name": "Onamia",
+      "primary_county": "Mille Lacs"
+    },
+    {
+      "rank": 387,
+      "name": "Browerville",
+      "primary_county": "Todd"
+    },
+    {
+      "rank": 388,
+      "name": "Stockton",
+      "primary_county": "Winona"
+    },
+    {
+      "rank": 389,
+      "name": "Isle",
+      "primary_county": "Mille Lacs"
+    },
+    {
+      "rank": 390,
+      "name": "Clarkfield",
+      "primary_county": "Yellow Medicine"
+    },
+    {
+      "rank": 391,
+      "name": "Blackduck",
+      "primary_county": "Beltrami"
+    },
+    {
+      "rank": 392,
+      "name": "Bovey",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 393,
+      "name": "St. Stephen",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 394,
+      "name": "Rushford Village",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 395,
+      "name": "Raymond",
+      "primary_county": "KandiyohiChippewa"
+    },
+    {
+      "rank": 396,
+      "name": "Gibbon",
+      "primary_county": "Sibley"
+    },
+    {
+      "rank": 397,
+      "name": "Kerkhoven",
+      "primary_county": "Swift"
+    },
+    {
+      "rank": 398,
+      "name": "Lamberton",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 399,
+      "name": "Fertile",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 400,
+      "name": "Lilydale",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 401,
+      "name": "Dover",
+      "primary_county": "Olmsted"
+    },
+    {
+      "rank": 402,
+      "name": "Cleveland",
+      "primary_county": "Le Sueur"
+    },
+    {
+      "rank": 403,
+      "name": "Elysian",
+      "primary_county": "Le SueurWaseca"
+    },
+    {
+      "rank": 404,
+      "name": "Sebeka",
+      "primary_county": "Wadena"
+    },
+    {
+      "rank": 405,
+      "name": "Holdingford",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 406,
+      "name": "Wabasso",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 407,
+      "name": "Belgrade",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 408,
+      "name": "Westbrook",
+      "primary_county": "Cottonwood"
+    },
+    {
+      "rank": 409,
+      "name": "Walnut Grove",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 410,
+      "name": "Courtland",
+      "primary_county": "Nicollet"
+    },
+    {
+      "rank": 411,
+      "name": "Ottertail",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 412,
+      "name": "Kasota",
+      "primary_county": "Le Sueur"
+    },
+    {
+      "rank": 413,
+      "name": "St. Clair",
+      "primary_county": "Blue Earth"
+    },
+    {
+      "rank": 414,
+      "name": "Hampton",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 415,
+      "name": "Lake Park",
+      "primary_county": "Becker"
+    },
+    {
+      "rank": 416,
+      "name": "Greenwood",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 417,
+      "name": "Lanesboro",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 418,
+      "name": "Hoffman",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 419,
+      "name": "Brownton",
+      "primary_county": "McLeod"
+    },
+    {
+      "rank": 420,
+      "name": "Mabel",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 421,
+      "name": "Adams",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 422,
+      "name": "Twin Valley",
+      "primary_county": "Norman"
+    },
+    {
+      "rank": 423,
+      "name": "Welcome",
+      "primary_county": "Martin"
+    },
+    {
+      "rank": 424,
+      "name": "Green Isle",
+      "primary_county": "Sibley"
+    },
+    {
+      "rank": 425,
+      "name": "Trimont",
+      "primary_county": "Martin"
+    },
+    {
+      "rank": 426,
+      "name": "Motley",
+      "primary_county": "MorrisonCass"
+    },
+    {
+      "rank": 427,
+      "name": "Freeport",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 428,
+      "name": "Cass Lake",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 429,
+      "name": "Clarks Grove",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 430,
+      "name": "Rollingstone",
+      "primary_county": "Winona"
+    },
+    {
+      "rank": 431,
+      "name": "Clear Lake",
+      "primary_county": "Sherburne"
+    },
+    {
+      "rank": 432,
+      "name": "Lake Benton",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 433,
+      "name": "Greenbush",
+      "primary_county": "Roseau"
+    },
+    {
+      "rank": 434,
+      "name": "Karlstad",
+      "primary_county": "Kittson"
+    },
+    {
+      "rank": 435,
+      "name": "La Prairie",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 436,
+      "name": "Hills",
+      "primary_county": "Rock"
+    },
+    {
+      "rank": 437,
+      "name": "Clarissa",
+      "primary_county": "Todd"
+    },
+    {
+      "rank": 438,
+      "name": "Minnesota Lake",
+      "primary_county": "FaribaultBlue Earth"
+    },
+    {
+      "rank": 439,
+      "name": "Ellendale",
+      "primary_county": "Steele"
+    },
+    {
+      "rank": 440,
+      "name": "Marine on St. Croix",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 441,
+      "name": "Brownsdale",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 442,
+      "name": "Brooten",
+      "primary_county": "StearnsPope"
+    },
+    {
+      "rank": 443,
+      "name": "Taconite",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 444,
+      "name": "Buffalo Lake",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 445,
+      "name": "Center City †",
+      "primary_county": "Chisago"
+    },
+    {
+      "rank": 446,
+      "name": "Grove City",
+      "primary_county": "Meeker"
+    },
+    {
+      "rank": 447,
+      "name": "Hill City",
+      "primary_county": "Aitkin"
+    },
+    {
+      "rank": 448,
+      "name": "Randall",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 449,
+      "name": "Barnum",
+      "primary_county": "Carlton"
+    },
+    {
+      "rank": 450,
+      "name": "Loretto",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 451,
+      "name": "Marble",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 452,
+      "name": "Hendricks",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 453,
+      "name": "Sabin",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 454,
+      "name": "Butterfield",
+      "primary_county": "Watonwan"
+    },
+    {
+      "rank": 455,
+      "name": "Heron Lake",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 456,
+      "name": "Evansville",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 457,
+      "name": "Balaton",
+      "primary_county": "Lyon"
+    },
+    {
+      "rank": 458,
+      "name": "McIntosh",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 459,
+      "name": "Foreston",
+      "primary_county": "Mille Lacs"
+    },
+    {
+      "rank": 460,
+      "name": "Jasper",
+      "primary_county": "PipestoneRock"
+    },
+    {
+      "rank": 461,
+      "name": "Alden",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 462,
+      "name": "Stephen",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 463,
+      "name": "Deerwood",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 464,
+      "name": "Audubon",
+      "primary_county": "Becker"
+    },
+    {
+      "rank": 465,
+      "name": "Kandiyohi",
+      "primary_county": "Kandiyohi"
+    },
+    {
+      "rank": 466,
+      "name": "Ironton",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 467,
+      "name": "Glenville",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 468,
+      "name": "Racine",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 469,
+      "name": "Halstad",
+      "primary_county": "Norman"
+    },
+    {
+      "rank": 470,
+      "name": "Bertha",
+      "primary_county": "Todd"
+    },
+    {
+      "rank": 471,
+      "name": "Hamburg",
+      "primary_county": "Carver"
+    },
+    {
+      "rank": 472,
+      "name": "Brownsville",
+      "primary_county": "Houston"
+    },
+    {
+      "rank": 473,
+      "name": "Elmore",
+      "primary_county": "Faribault"
+    },
+    {
+      "rank": 474,
+      "name": "Good Thunder",
+      "primary_county": "Blue Earth"
+    },
+    {
+      "rank": 475,
+      "name": "Eagle Bend",
+      "primary_county": "Todd"
+    },
+    {
+      "rank": 476,
+      "name": "Ivanhoe †",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 477,
+      "name": "Ranier",
+      "primary_county": "Koochiching"
+    },
+    {
+      "rank": 478,
+      "name": "Minnetonka Beach",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 479,
+      "name": "Hokah",
+      "primary_county": "Houston"
+    },
+    {
+      "rank": 480,
+      "name": "Pillager",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 481,
+      "name": "Argyle",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 482,
+      "name": "Littlefork",
+      "primary_county": "Koochiching"
+    },
+    {
+      "rank": 483,
+      "name": "Lyle",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 484,
+      "name": "Sunfish Lake",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 485,
+      "name": "Cook",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 486,
+      "name": "Floodwood",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 487,
+      "name": "Franklin",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 488,
+      "name": "Amboy",
+      "primary_county": "Blue Earth"
+    },
+    {
+      "rank": 489,
+      "name": "Gem Lake",
+      "primary_county": "Ramsey"
+    },
+    {
+      "rank": 490,
+      "name": "Verndale",
+      "primary_county": "Wadena"
+    },
+    {
+      "rank": 491,
+      "name": "Willernie",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 492,
+      "name": "Graceville",
+      "primary_county": "Big Stone"
+    },
+    {
+      "rank": 493,
+      "name": "Prinsburg",
+      "primary_county": "Kandiyohi"
+    },
+    {
+      "rank": 494,
+      "name": "Browns Valley",
+      "primary_county": "Traverse"
+    },
+    {
+      "rank": 495,
+      "name": "Brandon",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 496,
+      "name": "Brewster",
+      "primary_county": "Nobles"
+    },
+    {
+      "rank": 497,
+      "name": "Jenkins",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 498,
+      "name": "Claremont",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 499,
+      "name": "Geneva",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 500,
+      "name": "Cosmos",
+      "primary_county": "Meeker"
+    },
+    {
+      "rank": 501,
+      "name": "Sacred Heart",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 502,
+      "name": "Ellsworth",
+      "primary_county": "Nobles"
+    },
+    {
+      "rank": 503,
+      "name": "Kiester",
+      "primary_county": "Faribault"
+    },
+    {
+      "rank": 504,
+      "name": "Rothsay",
+      "primary_county": "WilkinOtter Tail"
+    },
+    {
+      "rank": 505,
+      "name": "Carlos",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 506,
+      "name": "Upsala",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 507,
+      "name": "Bethel",
+      "primary_county": "Anoka"
+    },
+    {
+      "rank": 508,
+      "name": "Pennock",
+      "primary_county": "Kandiyohi"
+    },
+    {
+      "rank": 509,
+      "name": "Ashby",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 510,
+      "name": "Ulen",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 511,
+      "name": "Stewart",
+      "primary_county": "McLeod"
+    },
+    {
+      "rank": 512,
+      "name": "Lafayette",
+      "primary_county": "Nicollet"
+    },
+    {
+      "rank": 513,
+      "name": "Clearbrook",
+      "primary_county": "Clearwater"
+    },
+    {
+      "rank": 514,
+      "name": "Sturgeon Lake",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 515,
+      "name": "Altura",
+      "primary_county": "Winona"
+    },
+    {
+      "rank": 516,
+      "name": "Randolph",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 517,
+      "name": "Wrenshall",
+      "primary_county": "Carlton"
+    },
+    {
+      "rank": 518,
+      "name": "Fifty Lakes",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 519,
+      "name": "New Germany",
+      "primary_county": "Carver"
+    },
+    {
+      "rank": 520,
+      "name": "Danube",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 521,
+      "name": "Miltona",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 522,
+      "name": "Lynd",
+      "primary_county": "Lyon"
+    },
+    {
+      "rank": 523,
+      "name": "Wykoff",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 524,
+      "name": "Vermillion",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 525,
+      "name": "Kellogg",
+      "primary_county": "Wabasha"
+    },
+    {
+      "rank": 526,
+      "name": "Tower",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 527,
+      "name": "Akeley",
+      "primary_county": "Hubbard"
+    },
+    {
+      "rank": 528,
+      "name": "Badger",
+      "primary_county": "Roseau"
+    },
+    {
+      "rank": 529,
+      "name": "Milan",
+      "primary_county": "Chippewa"
+    },
+    {
+      "rank": 530,
+      "name": "New Auburn",
+      "primary_county": "Sibley"
+    },
+    {
+      "rank": 531,
+      "name": "Chokio",
+      "primary_county": "Stevens"
+    },
+    {
+      "rank": 532,
+      "name": "Oklee",
+      "primary_county": "Red Lake"
+    },
+    {
+      "rank": 533,
+      "name": "Fountain",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 534,
+      "name": "Bigfork",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 535,
+      "name": "Fisher",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 536,
+      "name": "Rose Creek",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 537,
+      "name": "Morton",
+      "primary_county": "Renville"
+    },
+    {
+      "rank": 538,
+      "name": "Ogilvie",
+      "primary_county": "Kanabec"
+    },
+    {
+      "rank": 539,
+      "name": "Waubun",
+      "primary_county": "Mahnomen"
+    },
+    {
+      "rank": 540,
+      "name": "Remer",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 541,
+      "name": "Willow River",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 542,
+      "name": "Alvarado",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 543,
+      "name": "Erskine",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 544,
+      "name": "Herman",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 545,
+      "name": "Hanska",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 546,
+      "name": "Nevis",
+      "primary_county": "Hubbard"
+    },
+    {
+      "rank": 547,
+      "name": "Pine Springs",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 548,
+      "name": "Ghent",
+      "primary_county": "Lyon"
+    },
+    {
+      "rank": 549,
+      "name": "McGregor",
+      "primary_county": "Aitkin"
+    },
+    {
+      "rank": 550,
+      "name": "Barrett",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 551,
+      "name": "Woodland",
+      "primary_county": "Hennepin"
+    },
+    {
+      "rank": 552,
+      "name": "Comfrey",
+      "primary_county": "BrownCottonwood"
+    },
+    {
+      "rank": 553,
+      "name": "Wood Lake",
+      "primary_county": "Yellow Medicine"
+    },
+    {
+      "rank": 554,
+      "name": "Clinton",
+      "primary_county": "Big Stone"
+    },
+    {
+      "rank": 555,
+      "name": "New Munich",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 556,
+      "name": "Round Lake",
+      "primary_county": "Nobles"
+    },
+    {
+      "rank": 557,
+      "name": "Rushmore",
+      "primary_county": "Nobles"
+    },
+    {
+      "rank": 558,
+      "name": "Underwood",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 559,
+      "name": "Emmons",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 560,
+      "name": "Vergas",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 561,
+      "name": "Russell",
+      "primary_county": "Lyon"
+    },
+    {
+      "rank": 562,
+      "name": "Bricelyn",
+      "primary_county": "Faribault"
+    },
+    {
+      "rank": 563,
+      "name": "Newfolden",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 564,
+      "name": "St. Marys Point",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 565,
+      "name": "Lancaster",
+      "primary_county": "Kittson"
+    },
+    {
+      "rank": 566,
+      "name": "Long Beach",
+      "primary_county": "Pope"
+    },
+    {
+      "rank": 567,
+      "name": "Darwin",
+      "primary_county": "Meeker"
+    },
+    {
+      "rank": 568,
+      "name": "Jeffers",
+      "primary_county": "Cottonwood"
+    },
+    {
+      "rank": 569,
+      "name": "Garfield",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 570,
+      "name": "Swanville",
+      "primary_county": "MorrisonTodd"
+    },
+    {
+      "rank": 571,
+      "name": "Lowry",
+      "primary_county": "Pope"
+    },
+    {
+      "rank": 572,
+      "name": "Finlayson",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 573,
+      "name": "Deer Creek",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 574,
+      "name": "Askov",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 575,
+      "name": "Lakeland Shores",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 576,
+      "name": "Cuyuna",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 577,
+      "name": "Wilmont",
+      "primary_county": "Nobles"
+    },
+    {
+      "rank": 578,
+      "name": "Dexter",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 579,
+      "name": "Plato",
+      "primary_county": "McLeod"
+    },
+    {
+      "rank": 580,
+      "name": "Calumet",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 581,
+      "name": "Grey Eagle",
+      "primary_county": "Todd"
+    },
+    {
+      "rank": 582,
+      "name": "St. Martin",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 583,
+      "name": "Sanborn",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 584,
+      "name": "Vernon Center",
+      "primary_county": "Blue Earth"
+    },
+    {
+      "rank": 585,
+      "name": "Canton",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 586,
+      "name": "Cyrus",
+      "primary_county": "Pope"
+    },
+    {
+      "rank": 587,
+      "name": "Hartland",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 588,
+      "name": "Buckman",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 589,
+      "name": "Maynard",
+      "primary_county": "Chippewa"
+    },
+    {
+      "rank": 590,
+      "name": "Hollandale",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 591,
+      "name": "Hackensack",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 592,
+      "name": "Murdock",
+      "primary_county": "Swift"
+    },
+    {
+      "rank": 593,
+      "name": "Ceylon",
+      "primary_county": "Martin"
+    },
+    {
+      "rank": 594,
+      "name": "Middle River",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 595,
+      "name": "Dakota",
+      "primary_county": "Winona"
+    },
+    {
+      "rank": 596,
+      "name": "Belview",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 597,
+      "name": "Hendrum",
+      "primary_county": "Norman"
+    },
+    {
+      "rank": 598,
+      "name": "Skyline",
+      "primary_county": "Blue Earth"
+    },
+    {
+      "rank": 599,
+      "name": "Granada",
+      "primary_county": "Martin"
+    },
+    {
+      "rank": 600,
+      "name": "Nerstrand",
+      "primary_county": "Rice"
+    },
+    {
+      "rank": 601,
+      "name": "Plummer",
+      "primary_county": "Red Lake"
+    },
+    {
+      "rank": 602,
+      "name": "Beaver Creek",
+      "primary_county": "Rock"
+    },
+    {
+      "rank": 603,
+      "name": "Bowlus",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 604,
+      "name": "Kensington",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 605,
+      "name": "Chandler",
+      "primary_county": "Murray"
+    },
+    {
+      "rank": 606,
+      "name": "Vesta",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 607,
+      "name": "Backus",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 608,
+      "name": "Gonvick",
+      "primary_county": "Clearwater"
+    },
+    {
+      "rank": 609,
+      "name": "Utica",
+      "primary_county": "Winona"
+    },
+    {
+      "rank": 610,
+      "name": "Wilton",
+      "primary_county": "Beltrami"
+    },
+    {
+      "rank": 611,
+      "name": "Eitzen",
+      "primary_county": "Houston"
+    },
+    {
+      "rank": 612,
+      "name": "Freeborn",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 613,
+      "name": "St. Hilaire",
+      "primary_county": "Pennington"
+    },
+    {
+      "rank": 614,
+      "name": "Milroy",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 615,
+      "name": "Hewitt",
+      "primary_county": "Todd"
+    },
+    {
+      "rank": 616,
+      "name": "Hayward",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 617,
+      "name": "Kelliher",
+      "primary_county": "Beltrami"
+    },
+    {
+      "rank": 618,
+      "name": "Wahkon",
+      "primary_county": "Mille Lacs"
+    },
+    {
+      "rank": 619,
+      "name": "Cromwell",
+      "primary_county": "Carlton"
+    },
+    {
+      "rank": 620,
+      "name": "Lake Wilson",
+      "primary_county": "Murray"
+    },
+    {
+      "rank": 621,
+      "name": "Lake Lillian",
+      "primary_county": "Kandiyohi"
+    },
+    {
+      "rank": 622,
+      "name": "Pease",
+      "primary_county": "Mille Lacs"
+    },
+    {
+      "rank": 623,
+      "name": "Climax",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 624,
+      "name": "Oslo",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 625,
+      "name": "Hanley Falls",
+      "primary_county": "Yellow Medicine"
+    },
+    {
+      "rank": 626,
+      "name": "Echo",
+      "primary_county": "Yellow Medicine"
+    },
+    {
+      "rank": 627,
+      "name": "Peterson",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 628,
+      "name": "Ostrander",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 629,
+      "name": "Villard",
+      "primary_county": "Pope"
+    },
+    {
+      "rank": 630,
+      "name": "Donnelly",
+      "primary_county": "Stevens"
+    },
+    {
+      "rank": 631,
+      "name": "Gary",
+      "primary_county": "Norman"
+    },
+    {
+      "rank": 632,
+      "name": "Pemberton",
+      "primary_county": "Blue Earth"
+    },
+    {
+      "rank": 633,
+      "name": "Bigelow",
+      "primary_county": "Nobles"
+    },
+    {
+      "rank": 634,
+      "name": "Elrosa",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 635,
+      "name": "Gilman",
+      "primary_county": "Benton"
+    },
+    {
+      "rank": 636,
+      "name": "Dennison",
+      "primary_county": "GoodhueRice"
+    },
+    {
+      "rank": 637,
+      "name": "Sobieski",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 638,
+      "name": "Northrop",
+      "primary_county": "Martin"
+    },
+    {
+      "rank": 639,
+      "name": "Ruthton",
+      "primary_county": "Pipestone"
+    },
+    {
+      "rank": 640,
+      "name": "Currie",
+      "primary_county": "Murray"
+    },
+    {
+      "rank": 641,
+      "name": "Dalton",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 642,
+      "name": "Frost",
+      "primary_county": "Faribault"
+    },
+    {
+      "rank": 643,
+      "name": "Storden",
+      "primary_county": "Cottonwood"
+    },
+    {
+      "rank": 644,
+      "name": "Orr",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 645,
+      "name": "Bluffton",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 646,
+      "name": "Rutledge",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 647,
+      "name": "Flensburg",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 648,
+      "name": "Lewisville",
+      "primary_county": "Watonwan"
+    },
+    {
+      "rank": 649,
+      "name": "Beardsley",
+      "primary_county": "Big Stone"
+    },
+    {
+      "rank": 650,
+      "name": "Greenwald",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 651,
+      "name": "Lucan",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 652,
+      "name": "Ogema",
+      "primary_county": "Becker"
+    },
+    {
+      "rank": 653,
+      "name": "Waldorf",
+      "primary_county": "Waseca"
+    },
+    {
+      "rank": 654,
+      "name": "Hitterdal",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 655,
+      "name": "Lismore",
+      "primary_county": "Nobles"
+    },
+    {
+      "rank": 656,
+      "name": "Garrison",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 657,
+      "name": "Okabena",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 658,
+      "name": "Magnolia",
+      "primary_county": "Rock"
+    },
+    {
+      "rank": 659,
+      "name": "Forada",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 660,
+      "name": "Kingston",
+      "primary_county": "Meeker"
+    },
+    {
+      "rank": 661,
+      "name": "Meire Grove",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 662,
+      "name": "Mendota",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 663,
+      "name": "Warba",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 664,
+      "name": "Minnesota City",
+      "primary_county": "Winona"
+    },
+    {
+      "rank": 665,
+      "name": "Nelson",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 666,
+      "name": "South Haven",
+      "primary_county": "Wright"
+    },
+    {
+      "rank": 667,
+      "name": "Callaway",
+      "primary_county": "Becker"
+    },
+    {
+      "rank": 668,
+      "name": "Tenstrike",
+      "primary_county": "Beltrami"
+    },
+    {
+      "rank": 669,
+      "name": "Hardwick",
+      "primary_county": "Rock"
+    },
+    {
+      "rank": 670,
+      "name": "Easton",
+      "primary_county": "Faribault"
+    },
+    {
+      "rank": 671,
+      "name": "Bellechester",
+      "primary_county": "GoodhueWabasha"
+    },
+    {
+      "rank": 672,
+      "name": "Shelly",
+      "primary_county": "Norman"
+    },
+    {
+      "rank": 673,
+      "name": "Holland",
+      "primary_county": "Pipestone"
+    },
+    {
+      "rank": 674,
+      "name": "Kettle River",
+      "primary_county": "Carlton"
+    },
+    {
+      "rank": 675,
+      "name": "Watson",
+      "primary_county": "Chippewa"
+    },
+    {
+      "rank": 676,
+      "name": "Winger",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 677,
+      "name": "Big Falls",
+      "primary_county": "Koochiching"
+    },
+    {
+      "rank": 678,
+      "name": "Grygla",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 679,
+      "name": "Dent",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 680,
+      "name": "Lake Bronson",
+      "primary_county": "Kittson"
+    },
+    {
+      "rank": 681,
+      "name": "Delavan",
+      "primary_county": "Faribault"
+    },
+    {
+      "rank": 682,
+      "name": "Felton",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 683,
+      "name": "Palisade",
+      "primary_county": "Aitkin"
+    },
+    {
+      "rank": 684,
+      "name": "Wright",
+      "primary_county": "Carlton"
+    },
+    {
+      "rank": 685,
+      "name": "Waltham",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 686,
+      "name": "Wendell",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 687,
+      "name": "Kennedy",
+      "primary_county": "Kittson"
+    },
+    {
+      "rank": 688,
+      "name": "Elizabeth",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 689,
+      "name": "Campbell",
+      "primary_county": "Wilkin"
+    },
+    {
+      "rank": 690,
+      "name": "Iona",
+      "primary_county": "Murray"
+    },
+    {
+      "rank": 691,
+      "name": "Winton",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 692,
+      "name": "Porter",
+      "primary_county": "Yellow Medicine"
+    },
+    {
+      "rank": 693,
+      "name": "Steen",
+      "primary_county": "Rock"
+    },
+    {
+      "rank": 694,
+      "name": "Longville",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 695,
+      "name": "Grasston",
+      "primary_county": "Kanabec"
+    },
+    {
+      "rank": 696,
+      "name": "Roosevelt",
+      "primary_county": "RoseauLake of the Woods"
+    },
+    {
+      "rank": 697,
+      "name": "Williams",
+      "primary_county": "Lake of the Woods"
+    },
+    {
+      "rank": 698,
+      "name": "Northome",
+      "primary_county": "Koochiching"
+    },
+    {
+      "rank": 699,
+      "name": "Zumbro Falls",
+      "primary_county": "Wabasha"
+    },
+    {
+      "rank": 700,
+      "name": "Bena",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 701,
+      "name": "Conger",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 702,
+      "name": "Kilkenny",
+      "primary_county": "Le Sueur"
+    },
+    {
+      "rank": 703,
+      "name": "Clements",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 704,
+      "name": "Mapleview",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 705,
+      "name": "Kinney",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 706,
+      "name": "Millville",
+      "primary_county": "Wabasha"
+    },
+    {
+      "rank": 707,
+      "name": "Laporte",
+      "primary_county": "Hubbard"
+    },
+    {
+      "rank": 708,
+      "name": "Bellingham",
+      "primary_county": "Lac qui Parle"
+    },
+    {
+      "rank": 709,
+      "name": "Blomkest",
+      "primary_county": "Kandiyohi"
+    },
+    {
+      "rank": 710,
+      "name": "Boyd",
+      "primary_county": "Lac qui Parle"
+    },
+    {
+      "rank": 711,
+      "name": "Meadowlands",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 712,
+      "name": "Shevlin",
+      "primary_county": "Clearwater"
+    },
+    {
+      "rank": 713,
+      "name": "Coates",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 714,
+      "name": "Heidelberg",
+      "primary_county": "Le Sueur"
+    },
+    {
+      "rank": 715,
+      "name": "Roscoe",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 716,
+      "name": "Bingham Lake",
+      "primary_county": "Cottonwood"
+    },
+    {
+      "rank": 717,
+      "name": "Elkton",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 718,
+      "name": "Erhard",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 719,
+      "name": "Miesville",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 720,
+      "name": "Taunton",
+      "primary_county": "Lyon"
+    },
+    {
+      "rank": 721,
+      "name": "Brook Park",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 722,
+      "name": "Twin Lakes",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 723,
+      "name": "Hammond",
+      "primary_county": "Wabasha"
+    },
+    {
+      "rank": 724,
+      "name": "Chickamaw Beach",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 725,
+      "name": "Dunnell",
+      "primary_county": "Martin"
+    },
+    {
+      "rank": 726,
+      "name": "Elba",
+      "primary_county": "Winona"
+    },
+    {
+      "rank": 727,
+      "name": "Clontarf",
+      "primary_county": "Swift"
+    },
+    {
+      "rank": 728,
+      "name": "Odin",
+      "primary_county": "Watonwan"
+    },
+    {
+      "rank": 729,
+      "name": "Lastrup",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 730,
+      "name": "Ormsby",
+      "primary_county": "WatonwanMartin"
+    },
+    {
+      "rank": 731,
+      "name": "Beaver Bay",
+      "primary_county": "Lake"
+    },
+    {
+      "rank": 732,
+      "name": "Burtrum",
+      "primary_county": "Todd"
+    },
+    {
+      "rank": 733,
+      "name": "Harding",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 734,
+      "name": "Wolverton",
+      "primary_county": "Wilkin"
+    },
+    {
+      "rank": 735,
+      "name": "Foxhome",
+      "primary_county": "Wilkin"
+    },
+    {
+      "rank": 736,
+      "name": "Federal Dam",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 737,
+      "name": "Brooks",
+      "primary_county": "Red Lake"
+    },
+    {
+      "rank": 738,
+      "name": "Garvin",
+      "primary_county": "Lyon"
+    },
+    {
+      "rank": 739,
+      "name": "Brookston",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 740,
+      "name": "Marietta",
+      "primary_county": "Lac qui Parle"
+    },
+    {
+      "rank": 741,
+      "name": "Elmdale",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 742,
+      "name": "Riverton",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 743,
+      "name": "Trommald",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 744,
+      "name": "Biscay",
+      "primary_county": "McLeod"
+    },
+    {
+      "rank": 745,
+      "name": "Woodstock",
+      "primary_county": "Pipestone"
+    },
+    {
+      "rank": 746,
+      "name": "Avoca",
+      "primary_county": "Murray"
+    },
+    {
+      "rank": 747,
+      "name": "De Graff",
+      "primary_county": "Swift"
+    },
+    {
+      "rank": 748,
+      "name": "Effie",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 749,
+      "name": "Goodridge",
+      "primary_county": "Pennington"
+    },
+    {
+      "rank": 750,
+      "name": "Quamba",
+      "primary_county": "Kanabec"
+    },
+    {
+      "rank": 751,
+      "name": "Iron Junction",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 752,
+      "name": "Perley",
+      "primary_county": "Norman"
+    },
+    {
+      "rank": 753,
+      "name": "Mentor",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 754,
+      "name": "Odessa",
+      "primary_county": "Big Stone"
+    },
+    {
+      "rank": 755,
+      "name": "McKinley",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 756,
+      "name": "Squaw Lake",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 757,
+      "name": "Danvers",
+      "primary_county": "Swift"
+    },
+    {
+      "rank": 758,
+      "name": "Trosky",
+      "primary_county": "Pipestone"
+    },
+    {
+      "rank": 759,
+      "name": "Comstock",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 760,
+      "name": "Millerville",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 761,
+      "name": "Minneiska",
+      "primary_county": "WabashaWinona"
+    },
+    {
+      "rank": 762,
+      "name": "Alpha",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 763,
+      "name": "Sunburg",
+      "primary_county": "Kandiyohi"
+    },
+    {
+      "rank": 764,
+      "name": "Alberta",
+      "primary_county": "Stevens"
+    },
+    {
+      "rank": 765,
+      "name": "Borup",
+      "primary_county": "Norman"
+    },
+    {
+      "rank": 766,
+      "name": "St. Anthony",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 767,
+      "name": "St. Leo",
+      "primary_county": "Yellow Medicine"
+    },
+    {
+      "rank": 768,
+      "name": "West Union",
+      "primary_county": "Todd"
+    },
+    {
+      "rank": 769,
+      "name": "Beltrami",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 770,
+      "name": "Lengby",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 771,
+      "name": "Georgetown",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 772,
+      "name": "Holt",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 773,
+      "name": "Holloway",
+      "primary_county": "Swift"
+    },
+    {
+      "rank": 774,
+      "name": "Arco",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 775,
+      "name": "Revere",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 776,
+      "name": "Bejou",
+      "primary_county": "Mahnomen"
+    },
+    {
+      "rank": 777,
+      "name": "Bruno",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 778,
+      "name": "Darfur",
+      "primary_county": "Watonwan"
+    },
+    {
+      "rank": 779,
+      "name": "Fort Ripley",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 780,
+      "name": "Nimrod",
+      "primary_county": "Wadena"
+    },
+    {
+      "rank": 781,
+      "name": "Seaforth",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 782,
+      "name": "Turtle River",
+      "primary_county": "Beltrami"
+    },
+    {
+      "rank": 783,
+      "name": "Bock",
+      "primary_county": "Mille Lacs"
+    },
+    {
+      "rank": 784,
+      "name": "New Trier",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 785,
+      "name": "Dundee",
+      "primary_county": "Nobles"
+    },
+    {
+      "rank": 786,
+      "name": "Zemple",
+      "primary_county": "Itasca"
+    },
+    {
+      "rank": 787,
+      "name": "Nielsville",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 788,
+      "name": "Viking",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 789,
+      "name": "Lake Henry",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 790,
+      "name": "Richville",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 791,
+      "name": "Kerrick",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 792,
+      "name": "La Salle",
+      "primary_county": "Watonwan"
+    },
+    {
+      "rank": 793,
+      "name": "Solway",
+      "primary_county": "Beltrami"
+    },
+    {
+      "rank": 794,
+      "name": "Wanda",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 795,
+      "name": "Dumont",
+      "primary_county": "Traverse"
+    },
+    {
+      "rank": 796,
+      "name": "Evan",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 797,
+      "name": "Spring Hill",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 798,
+      "name": "Clitherall",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 799,
+      "name": "Genola",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 800,
+      "name": "Walters",
+      "primary_county": "Faribault"
+    },
+    {
+      "rank": 801,
+      "name": "Whalan",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 802,
+      "name": "Strandquist",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 803,
+      "name": "Taopi",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 804,
+      "name": "Wolf Lake",
+      "primary_county": "Becker"
+    },
+    {
+      "rank": 805,
+      "name": "Nassau",
+      "primary_county": "Lac qui Parle"
+    },
+    {
+      "rank": 806,
+      "name": "Sargeant",
+      "primary_county": "Mower"
+    },
+    {
+      "rank": 807,
+      "name": "Nashua",
+      "primary_county": "Wilkin"
+    },
+    {
+      "rank": 808,
+      "name": "Kent",
+      "primary_county": "Wilkin"
+    },
+    {
+      "rank": 809,
+      "name": "Manhattan Beach",
+      "primary_county": "Crow Wing"
+    },
+    {
+      "rank": 810,
+      "name": "Tamarack",
+      "primary_county": "Aitkin"
+    },
+    {
+      "rank": 811,
+      "name": "Tintah",
+      "primary_county": "Traverse"
+    },
+    {
+      "rank": 812,
+      "name": "Henriette",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 813,
+      "name": "Kenneth",
+      "primary_county": "Rock"
+    },
+    {
+      "rank": 814,
+      "name": "Cedar Mills",
+      "primary_county": "Meeker"
+    },
+    {
+      "rank": 815,
+      "name": "Vining",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 816,
+      "name": "Ihlen",
+      "primary_county": "Pipestone"
+    },
+    {
+      "rank": 817,
+      "name": "St. Rosa",
+      "primary_county": "Stearns"
+    },
+    {
+      "rank": 818,
+      "name": "Wilder",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 819,
+      "name": "Farwell",
+      "primary_county": "Pope"
+    },
+    {
+      "rank": 820,
+      "name": "Halma",
+      "primary_county": "Kittson"
+    },
+    {
+      "rank": 821,
+      "name": "Gully",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 822,
+      "name": "Hadley",
+      "primary_county": "Murray"
+    },
+    {
+      "rank": 823,
+      "name": "Hatfield",
+      "primary_county": "Pipestone"
+    },
+    {
+      "rank": 824,
+      "name": "Dovray",
+      "primary_county": "Murray"
+    },
+    {
+      "rank": 825,
+      "name": "Hazel Run",
+      "primary_county": "Yellow Medicine"
+    },
+    {
+      "rank": 826,
+      "name": "Mizpah",
+      "primary_county": "Koochiching"
+    },
+    {
+      "rank": 827,
+      "name": "Manchester",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 828,
+      "name": "Leonidas",
+      "primary_county": "St. Louis"
+    },
+    {
+      "rank": 829,
+      "name": "St. Vincent",
+      "primary_county": "Kittson"
+    },
+    {
+      "rank": 830,
+      "name": "Myrtle",
+      "primary_county": "Freeborn"
+    },
+    {
+      "rank": 831,
+      "name": "Norcross",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 832,
+      "name": "Urbank",
+      "primary_county": "Otter Tail"
+    },
+    {
+      "rank": 833,
+      "name": "Sedan",
+      "primary_county": "Pope"
+    },
+    {
+      "rank": 834,
+      "name": "Westport",
+      "primary_county": "Pope"
+    },
+    {
+      "rank": 835,
+      "name": "Delhi",
+      "primary_county": "Redwood"
+    },
+    {
+      "rank": 836,
+      "name": "Leonard",
+      "primary_county": "Clearwater"
+    },
+    {
+      "rank": 837,
+      "name": "McGrath",
+      "primary_county": "Aitkin"
+    },
+    {
+      "rank": 838,
+      "name": "Regal",
+      "primary_county": "Kandiyohi"
+    },
+    {
+      "rank": 839,
+      "name": "Denham",
+      "primary_county": "Pine"
+    },
+    {
+      "rank": 840,
+      "name": "Humboldt",
+      "primary_county": "Kittson"
+    },
+    {
+      "rank": 841,
+      "name": "Trail",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 842,
+      "name": "Aldrich",
+      "primary_county": "Wadena"
+    },
+    {
+      "rank": 843,
+      "name": "Cobden",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 844,
+      "name": "Doran",
+      "primary_county": "Wilkin"
+    },
+    {
+      "rank": 845,
+      "name": "Louisburg",
+      "primary_county": "Lac qui Parle"
+    },
+    {
+      "rank": 846,
+      "name": "Strathcona",
+      "primary_county": "Roseau"
+    },
+    {
+      "rank": 847,
+      "name": "Correll",
+      "primary_county": "Big Stone"
+    },
+    {
+      "rank": 848,
+      "name": "Boy River",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 849,
+      "name": "Johnson",
+      "primary_county": "Big Stone"
+    },
+    {
+      "rank": 850,
+      "name": "Florence",
+      "primary_county": "Lyon"
+    },
+    {
+      "rank": 851,
+      "name": "Hillman",
+      "primary_county": "Morrison"
+    },
+    {
+      "rank": 852,
+      "name": "Donaldson",
+      "primary_county": "Kittson"
+    },
+    {
+      "rank": 853,
+      "name": "Barry",
+      "primary_county": "Big Stone"
+    },
+    {
+      "rank": 854,
+      "name": "Funkley",
+      "primary_county": "Beltrami"
+    },
+    {
+      "rank": 855,
+      "name": "Kinbrae",
+      "primary_county": "Nobles"
+    }
+  ]
+}

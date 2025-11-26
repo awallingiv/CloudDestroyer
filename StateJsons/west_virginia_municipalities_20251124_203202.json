@@ -1,0 +1,1463 @@
+{
+  "metadata": {
+    "state": "West Virginia",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_West_Virginia",
+    "scraped_at": "2025-11-24 20:32:02",
+    "scraper_version": "2.0_generic",
+    "description": "West Virginia municipalities scraped from Wikipedia",
+    "total_municipalities": 230,
+    "statistics": {
+      "total_found": 230,
+      "with_population": 0,
+      "with_counties": 230,
+      "unique_counties": 62,
+      "population_stats": {}
+    },
+    "counties": [
+      "Barbour",
+      "Berkeley",
+      "Boone",
+      "Braxton",
+      "Brooke",
+      "Cabell",
+      "CabellWayne",
+      "Calhoun",
+      "Clay",
+      "Doddridge",
+      "Fayette",
+      "FayetteKanawha",
+      "Gilmer",
+      "Grant",
+      "Greenbrier",
+      "GreenbrierMonroe",
+      "Hampshire",
+      "Hancock",
+      "HancockBrooke",
+      "Hardy",
+      "Harrison",
+      "Jackson",
+      "Jefferson",
+      "Kanawha",
+      "KanawhaPutnam",
+      "Lewis",
+      "Lincoln",
+      "Logan",
+      "Marion",
+      "Marshall",
+      "Mason",
+      "McDowell",
+      "Mercer",
+      "Mineral",
+      "Mingo",
+      "Monongalia",
+      "Monroe",
+      "Morgan",
+      "Nicholas",
+      "Ohio",
+      "OhioMarshall",
+      "Pendleton",
+      "Pleasants",
+      "Pocahontas",
+      "Preston",
+      "Putnam",
+      "Raleigh",
+      "Randolph",
+      "Ritchie",
+      "Roane",
+      "Summers",
+      "Taylor",
+      "Tucker",
+      "Tyler",
+      "Upshur",
+      "Wayne",
+      "Webster",
+      "Wetzel",
+      "WetzelTyler",
+      "Wirt",
+      "Wood",
+      "Wyoming"
+    ]
+  },
+  "municipalities": [
+    {
+      "rank": 1,
+      "name": "Charleston ††",
+      "designation": "City",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 2,
+      "name": "Huntington †",
+      "designation": "City",
+      "primary_county": "CabellWayne"
+    },
+    {
+      "rank": 3,
+      "name": "Morgantown †",
+      "designation": "City",
+      "primary_county": "Monongalia"
+    },
+    {
+      "rank": 4,
+      "name": "Parkersburg †",
+      "designation": "City",
+      "primary_county": "Wood"
+    },
+    {
+      "rank": 5,
+      "name": "Wheeling †",
+      "designation": "City",
+      "primary_county": "OhioMarshall"
+    },
+    {
+      "rank": 6,
+      "name": "Martinsburg †",
+      "designation": "City",
+      "primary_county": "Berkeley"
+    },
+    {
+      "rank": 7,
+      "name": "Weirton",
+      "designation": "City",
+      "primary_county": "HancockBrooke"
+    },
+    {
+      "rank": 8,
+      "name": "Fairmont †",
+      "designation": "City",
+      "primary_county": "Marion"
+    },
+    {
+      "rank": 9,
+      "name": "Beckley †",
+      "designation": "City",
+      "primary_county": "Raleigh"
+    },
+    {
+      "rank": 10,
+      "name": "Clarksburg †",
+      "designation": "City",
+      "primary_county": "Harrison"
+    },
+    {
+      "rank": 11,
+      "name": "South Charleston",
+      "designation": "City",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 12,
+      "name": "Vienna",
+      "designation": "City",
+      "primary_county": "Wood"
+    },
+    {
+      "rank": 13,
+      "name": "St. Albans",
+      "designation": "City",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 14,
+      "name": "Bridgeport",
+      "designation": "City",
+      "primary_county": "Harrison"
+    },
+    {
+      "rank": 15,
+      "name": "Bluefield",
+      "designation": "City",
+      "primary_county": "Mercer"
+    },
+    {
+      "rank": 16,
+      "name": "Charles Town †",
+      "designation": "City",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 17,
+      "name": "Oak Hill",
+      "designation": "City",
+      "primary_county": "Fayette"
+    },
+    {
+      "rank": 18,
+      "name": "Moundsville †",
+      "designation": "City",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 19,
+      "name": "Dunbar",
+      "designation": "City",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 20,
+      "name": "Hurricane",
+      "designation": "City",
+      "primary_county": "Putnam"
+    },
+    {
+      "rank": 21,
+      "name": "Elkins †",
+      "designation": "City",
+      "primary_county": "Randolph"
+    },
+    {
+      "rank": 22,
+      "name": "Nitro",
+      "designation": "City",
+      "primary_county": "KanawhaPutnam"
+    },
+    {
+      "rank": 23,
+      "name": "Ranson",
+      "designation": "City",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 24,
+      "name": "Princeton †",
+      "designation": "City",
+      "primary_county": "Mercer"
+    },
+    {
+      "rank": 25,
+      "name": "Buckhannon †",
+      "designation": "City",
+      "primary_county": "Upshur"
+    },
+    {
+      "rank": 26,
+      "name": "New Martinsville †",
+      "designation": "City",
+      "primary_county": "Wetzel"
+    },
+    {
+      "rank": 27,
+      "name": "Keyser †",
+      "designation": "City",
+      "primary_county": "Mineral"
+    },
+    {
+      "rank": 28,
+      "name": "Grafton †",
+      "designation": "City",
+      "primary_county": "Taylor"
+    },
+    {
+      "rank": 29,
+      "name": "Barboursville",
+      "designation": "Village",
+      "primary_county": "Cabell"
+    },
+    {
+      "rank": 30,
+      "name": "Westover",
+      "designation": "City",
+      "primary_county": "Monongalia"
+    },
+    {
+      "rank": 31,
+      "name": "Point Pleasant †",
+      "designation": "City",
+      "primary_county": "Mason"
+    },
+    {
+      "rank": 32,
+      "name": "Ravenswood",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 33,
+      "name": "Lewisburg †",
+      "designation": "City",
+      "primary_county": "Greenbrier"
+    },
+    {
+      "rank": 34,
+      "name": "Weston †",
+      "designation": "City",
+      "primary_county": "Lewis"
+    },
+    {
+      "rank": 35,
+      "name": "Pleasant Valley",
+      "designation": "City",
+      "primary_county": "Marion"
+    },
+    {
+      "rank": 36,
+      "name": "Welch †",
+      "designation": "City",
+      "primary_county": "McDowell"
+    },
+    {
+      "rank": 37,
+      "name": "Summersville †",
+      "designation": "City",
+      "primary_county": "Nicholas"
+    },
+    {
+      "rank": 38,
+      "name": "Ripley †",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "rank": 39,
+      "name": "Kingwood †",
+      "designation": "City",
+      "primary_county": "Preston"
+    },
+    {
+      "rank": 40,
+      "name": "Williamstown",
+      "designation": "City",
+      "primary_county": "Wood"
+    },
+    {
+      "rank": 41,
+      "name": "Kenova",
+      "designation": "City",
+      "primary_county": "Wayne"
+    },
+    {
+      "rank": 42,
+      "name": "Philippi †",
+      "designation": "City",
+      "primary_county": "Barbour"
+    },
+    {
+      "rank": 43,
+      "name": "Milton",
+      "designation": "Town",
+      "primary_county": "Cabell"
+    },
+    {
+      "rank": 44,
+      "name": "Williamson †",
+      "designation": "City",
+      "primary_county": "Mingo"
+    },
+    {
+      "rank": 45,
+      "name": "Fayetteville †",
+      "designation": "Town",
+      "primary_county": "Fayette"
+    },
+    {
+      "rank": 46,
+      "name": "Madison †",
+      "designation": "City",
+      "primary_county": "Boone"
+    },
+    {
+      "rank": 47,
+      "name": "Follansbee",
+      "designation": "City",
+      "primary_county": "Brooke"
+    },
+    {
+      "rank": 48,
+      "name": "Moorefield †",
+      "designation": "Town",
+      "primary_county": "Hardy"
+    },
+    {
+      "rank": 49,
+      "name": "Bethlehem",
+      "designation": "Village",
+      "primary_county": "Ohio"
+    },
+    {
+      "rank": 50,
+      "name": "Winfield †",
+      "designation": "Town",
+      "primary_county": "Putnam"
+    },
+    {
+      "rank": 51,
+      "name": "Paden City",
+      "designation": "City",
+      "primary_county": "WetzelTyler"
+    },
+    {
+      "rank": 52,
+      "name": "Wellsburg †",
+      "designation": "City",
+      "primary_county": "Brooke"
+    },
+    {
+      "rank": 53,
+      "name": "Petersburg †",
+      "designation": "City",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 54,
+      "name": "Shinnston",
+      "designation": "City",
+      "primary_county": "Harrison"
+    },
+    {
+      "rank": 55,
+      "name": "Hinton †",
+      "designation": "City",
+      "primary_county": "Summers"
+    },
+    {
+      "rank": 56,
+      "name": "White Sulphur Springs",
+      "designation": "City",
+      "primary_county": "Greenbrier"
+    },
+    {
+      "rank": 57,
+      "name": "Chester",
+      "designation": "City",
+      "primary_county": "Hancock"
+    },
+    {
+      "rank": 58,
+      "name": "Spencer †",
+      "designation": "City",
+      "primary_county": "Roane"
+    },
+    {
+      "rank": 59,
+      "name": "Mannington",
+      "designation": "City",
+      "primary_county": "Marion"
+    },
+    {
+      "rank": 60,
+      "name": "Star City",
+      "designation": "Town",
+      "primary_county": "Monongalia"
+    },
+    {
+      "rank": 61,
+      "name": "Belington",
+      "designation": "Town",
+      "primary_county": "Barbour"
+    },
+    {
+      "rank": 62,
+      "name": "Romney †",
+      "designation": "City",
+      "primary_county": "Hampshire"
+    },
+    {
+      "rank": 63,
+      "name": "St. Marys †",
+      "designation": "City",
+      "primary_county": "Pleasants"
+    },
+    {
+      "rank": 64,
+      "name": "Stonewood",
+      "designation": "City",
+      "primary_county": "Harrison"
+    },
+    {
+      "rank": 65,
+      "name": "Richwood",
+      "designation": "City",
+      "primary_county": "Nicholas"
+    },
+    {
+      "rank": 66,
+      "name": "McMechen",
+      "designation": "City",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 67,
+      "name": "Harrisville †",
+      "designation": "Town",
+      "primary_county": "Ritchie"
+    },
+    {
+      "rank": 68,
+      "name": "Shepherdstown",
+      "designation": "Town",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 69,
+      "name": "Eleanor",
+      "designation": "Town",
+      "primary_county": "Putnam"
+    },
+    {
+      "rank": 70,
+      "name": "Ronceverte",
+      "designation": "City",
+      "primary_county": "Greenbrier"
+    },
+    {
+      "rank": 71,
+      "name": "Salem",
+      "designation": "City",
+      "primary_county": "Harrison"
+    },
+    {
+      "rank": 72,
+      "name": "Nutter Fort",
+      "designation": "Town",
+      "primary_county": "Harrison"
+    },
+    {
+      "rank": 73,
+      "name": "West Liberty",
+      "designation": "Town",
+      "primary_county": "Ohio"
+    },
+    {
+      "rank": 74,
+      "name": "Marmet",
+      "designation": "City",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 75,
+      "name": "New Haven",
+      "designation": "Town",
+      "primary_county": "Mason"
+    },
+    {
+      "rank": 76,
+      "name": "Glen Dale",
+      "designation": "City",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 77,
+      "name": "Terra Alta",
+      "designation": "Town",
+      "primary_county": "Preston"
+    },
+    {
+      "rank": 78,
+      "name": "Wayne †",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "rank": 79,
+      "name": "Granville",
+      "designation": "Town",
+      "primary_county": "Monongalia"
+    },
+    {
+      "rank": 80,
+      "name": "Oceana",
+      "designation": "Town",
+      "primary_county": "Wyoming"
+    },
+    {
+      "rank": 81,
+      "name": "Mullens",
+      "designation": "City",
+      "primary_county": "Wyoming"
+    },
+    {
+      "rank": 82,
+      "name": "Ceredo",
+      "designation": "City",
+      "primary_county": "Wayne"
+    },
+    {
+      "rank": 83,
+      "name": "Logan †",
+      "designation": "City",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 84,
+      "name": "Sistersville",
+      "designation": "City",
+      "primary_county": "Tyler"
+    },
+    {
+      "rank": 85,
+      "name": "Ansted",
+      "designation": "Town",
+      "primary_county": "Fayette"
+    },
+    {
+      "rank": 86,
+      "name": "Parsons †",
+      "designation": "City",
+      "primary_county": "Tucker"
+    },
+    {
+      "rank": 87,
+      "name": "Chesapeake",
+      "designation": "Town",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 88,
+      "name": "Mabscott",
+      "designation": "Town",
+      "primary_county": "Raleigh"
+    },
+    {
+      "rank": 89,
+      "name": "Mount Hope",
+      "designation": "City",
+      "primary_county": "Fayette"
+    },
+    {
+      "rank": 90,
+      "name": "Benwood",
+      "designation": "City",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 91,
+      "name": "Buffalo",
+      "designation": "Town",
+      "primary_county": "Putnam"
+    },
+    {
+      "rank": 92,
+      "name": "Montgomery",
+      "designation": "City",
+      "primary_county": "FayetteKanawha"
+    },
+    {
+      "rank": 93,
+      "name": "Barrackville",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "rank": 94,
+      "name": "Rainelle",
+      "designation": "Town",
+      "primary_county": "Greenbrier"
+    },
+    {
+      "rank": 95,
+      "name": "Athens",
+      "designation": "Town",
+      "primary_county": "Mercer"
+    },
+    {
+      "rank": 96,
+      "name": "Belle",
+      "designation": "Town",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 97,
+      "name": "Sophia",
+      "designation": "Town",
+      "primary_county": "Raleigh"
+    },
+    {
+      "rank": 98,
+      "name": "Glenville †",
+      "designation": "Town",
+      "primary_county": "Gilmer"
+    },
+    {
+      "rank": 99,
+      "name": "Monongah",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "rank": 100,
+      "name": "Pennsboro",
+      "designation": "City",
+      "primary_county": "Ritchie"
+    },
+    {
+      "rank": 101,
+      "name": "Bolivar",
+      "designation": "Town",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 102,
+      "name": "New Cumberland †",
+      "designation": "City",
+      "primary_county": "Hancock"
+    },
+    {
+      "rank": 103,
+      "name": "Hamlin †",
+      "designation": "Town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 104,
+      "name": "Marlinton †",
+      "designation": "Town",
+      "primary_county": "Pocahontas"
+    },
+    {
+      "rank": 105,
+      "name": "Chapmanville",
+      "designation": "Town",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 106,
+      "name": "Alderson",
+      "designation": "Town",
+      "primary_county": "GreenbrierMonroe"
+    },
+    {
+      "rank": 107,
+      "name": "Poca",
+      "designation": "Town",
+      "primary_county": "Putnam"
+    },
+    {
+      "rank": 108,
+      "name": "Clendenin",
+      "designation": "Town",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 109,
+      "name": "Carpendale",
+      "designation": "Town",
+      "primary_county": "Mineral"
+    },
+    {
+      "rank": 110,
+      "name": "Mason",
+      "designation": "Town",
+      "primary_county": "Mason"
+    },
+    {
+      "rank": 111,
+      "name": "Rupert",
+      "designation": "Town",
+      "primary_county": "Greenbrier"
+    },
+    {
+      "rank": 112,
+      "name": "Belmont",
+      "designation": "City",
+      "primary_county": "Pleasants"
+    },
+    {
+      "rank": 113,
+      "name": "Sutton †",
+      "designation": "Town",
+      "primary_county": "Braxton"
+    },
+    {
+      "rank": 114,
+      "name": "Cameron",
+      "designation": "City",
+      "primary_county": "Marshall"
+    },
+    {
+      "rank": 115,
+      "name": "North Hills",
+      "designation": "Town",
+      "primary_county": "Wood"
+    },
+    {
+      "rank": 116,
+      "name": "Rivesville",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "rank": 117,
+      "name": "East Bank",
+      "designation": "Town",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 118,
+      "name": "Bethany",
+      "designation": "Town",
+      "primary_county": "Brooke"
+    },
+    {
+      "rank": 119,
+      "name": "Berkeley Springs (Bath) †",
+      "designation": "Town",
+      "primary_county": "Morgan"
+    },
+    {
+      "rank": 120,
+      "name": "Gassaway",
+      "designation": "Town",
+      "primary_county": "Braxton"
+    },
+    {
+      "rank": 121,
+      "name": "Man",
+      "designation": "Town",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 122,
+      "name": "White Hall",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "rank": 123,
+      "name": "Smithers",
+      "designation": "City",
+      "primary_county": "FayetteKanawha"
+    },
+    {
+      "rank": 124,
+      "name": "Piedmont",
+      "designation": "Town",
+      "primary_county": "Mineral"
+    },
+    {
+      "rank": 125,
+      "name": "Lumberport",
+      "designation": "Town",
+      "primary_county": "Harrison"
+    },
+    {
+      "rank": 126,
+      "name": "Gary",
+      "designation": "City",
+      "primary_county": "McDowell"
+    },
+    {
+      "rank": 127,
+      "name": "Glasgow",
+      "designation": "Town",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 128,
+      "name": "Cedar Grove",
+      "designation": "Town",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 129,
+      "name": "Elizabeth †",
+      "designation": "Town",
+      "primary_county": "Wirt"
+    },
+    {
+      "rank": 130,
+      "name": "Webster Springs (Addison) †",
+      "designation": "Town",
+      "primary_county": "Webster"
+    },
+    {
+      "rank": 131,
+      "name": "Middlebourne †",
+      "designation": "Town",
+      "primary_county": "Tyler"
+    },
+    {
+      "rank": 132,
+      "name": "Grant Town",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "rank": 133,
+      "name": "Triadelphia",
+      "designation": "Town",
+      "primary_county": "Ohio"
+    },
+    {
+      "rank": 134,
+      "name": "Fort Gay",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "rank": 135,
+      "name": "Pineville †",
+      "designation": "Town",
+      "primary_county": "Wyoming"
+    },
+    {
+      "rank": 136,
+      "name": "West Union †",
+      "designation": "Town",
+      "primary_county": "Doddridge"
+    },
+    {
+      "rank": 137,
+      "name": "Danville",
+      "designation": "Town",
+      "primary_county": "Boone"
+    },
+    {
+      "rank": 138,
+      "name": "Thomas",
+      "designation": "City",
+      "primary_county": "Tucker"
+    },
+    {
+      "rank": 139,
+      "name": "Davis",
+      "designation": "Town",
+      "primary_county": "Tucker"
+    },
+    {
+      "rank": 140,
+      "name": "Beverly",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "rank": 141,
+      "name": "Ridgeley",
+      "designation": "Town",
+      "primary_county": "Mineral"
+    },
+    {
+      "rank": 142,
+      "name": "War",
+      "designation": "City",
+      "primary_county": "McDowell"
+    },
+    {
+      "rank": 143,
+      "name": "Franklin †",
+      "designation": "Town",
+      "primary_county": "Pendleton"
+    },
+    {
+      "rank": 144,
+      "name": "Mill Creek",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "rank": 145,
+      "name": "Reedsville",
+      "designation": "Town",
+      "primary_county": "Preston"
+    },
+    {
+      "rank": 146,
+      "name": "Gauley Bridge",
+      "designation": "Town",
+      "primary_county": "Fayette"
+    },
+    {
+      "rank": 147,
+      "name": "Beech Bottom",
+      "designation": "Village",
+      "primary_county": "Brooke"
+    },
+    {
+      "rank": 148,
+      "name": "Masontown",
+      "designation": "Town",
+      "primary_county": "Preston"
+    },
+    {
+      "rank": 149,
+      "name": "Anmoore",
+      "designation": "Town",
+      "primary_county": "Harrison"
+    },
+    {
+      "rank": 150,
+      "name": "Hartford City",
+      "designation": "Town",
+      "primary_county": "Mason"
+    },
+    {
+      "rank": 151,
+      "name": "West Hamlin",
+      "designation": "Town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 152,
+      "name": "Cowen",
+      "designation": "Town",
+      "primary_county": "Webster"
+    },
+    {
+      "rank": 153,
+      "name": "Grantsville †",
+      "designation": "Town",
+      "primary_county": "Calhoun"
+    },
+    {
+      "rank": 154,
+      "name": "Pratt",
+      "designation": "Town",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 155,
+      "name": "Clearview",
+      "designation": "Village",
+      "primary_county": "Ohio"
+    },
+    {
+      "rank": 156,
+      "name": "West Milford",
+      "designation": "Town",
+      "primary_county": "Harrison"
+    },
+    {
+      "rank": 157,
+      "name": "Peterstown",
+      "designation": "Town",
+      "primary_county": "Monroe"
+    },
+    {
+      "rank": 158,
+      "name": "Rowlesburg",
+      "designation": "Town",
+      "primary_county": "Preston"
+    },
+    {
+      "rank": 159,
+      "name": "Capon Bridge",
+      "designation": "Town",
+      "primary_county": "Hampshire"
+    },
+    {
+      "rank": 160,
+      "name": "Union †",
+      "designation": "Town",
+      "primary_county": "Monroe"
+    },
+    {
+      "rank": 161,
+      "name": "Paw Paw",
+      "designation": "Town",
+      "primary_county": "Morgan"
+    },
+    {
+      "rank": 162,
+      "name": "Jane Lew",
+      "designation": "Town",
+      "primary_county": "Lewis"
+    },
+    {
+      "rank": 163,
+      "name": "Farmington",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "rank": 164,
+      "name": "Delbarton",
+      "designation": "Town",
+      "primary_county": "Mingo"
+    },
+    {
+      "rank": 165,
+      "name": "Junior",
+      "designation": "Town",
+      "primary_county": "Barbour"
+    },
+    {
+      "rank": 166,
+      "name": "Burnsville",
+      "designation": "Town",
+      "primary_county": "Braxton"
+    },
+    {
+      "rank": 167,
+      "name": "Matewan",
+      "designation": "Town",
+      "primary_county": "Mingo"
+    },
+    {
+      "rank": 168,
+      "name": "Bancroft",
+      "designation": "Town",
+      "primary_county": "Putnam"
+    },
+    {
+      "rank": 169,
+      "name": "Clay †",
+      "designation": "Town",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 170,
+      "name": "West Logan",
+      "designation": "Town",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 171,
+      "name": "Fairview",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "rank": 172,
+      "name": "Lost Creek",
+      "designation": "Town",
+      "primary_county": "Harrison"
+    },
+    {
+      "rank": 173,
+      "name": "Whitesville",
+      "designation": "Town",
+      "primary_county": "Boone"
+    },
+    {
+      "rank": 174,
+      "name": "Pine Grove",
+      "designation": "Town",
+      "primary_county": "Wetzel"
+    },
+    {
+      "rank": 175,
+      "name": "Windsor Heights",
+      "designation": "Village",
+      "primary_county": "Brooke"
+    },
+    {
+      "rank": 176,
+      "name": "Lester",
+      "designation": "Town",
+      "primary_county": "Raleigh"
+    },
+    {
+      "rank": 177,
+      "name": "Meadow Bridge",
+      "designation": "Town",
+      "primary_county": "Fayette"
+    },
+    {
+      "rank": 178,
+      "name": "Flemington",
+      "designation": "Town",
+      "primary_county": "Taylor"
+    },
+    {
+      "rank": 179,
+      "name": "Gilbert",
+      "designation": "Town",
+      "primary_county": "Mingo"
+    },
+    {
+      "rank": 180,
+      "name": "Hedgesville",
+      "designation": "Town",
+      "primary_county": "Berkeley"
+    },
+    {
+      "rank": 181,
+      "name": "Mitchell Heights",
+      "designation": "Town",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 182,
+      "name": "Tunnelton",
+      "designation": "Town",
+      "primary_county": "Preston"
+    },
+    {
+      "rank": 183,
+      "name": "Kermit",
+      "designation": "Town",
+      "primary_county": "Mingo"
+    },
+    {
+      "rank": 184,
+      "name": "Valley Grove",
+      "designation": "Village",
+      "primary_county": "Ohio"
+    },
+    {
+      "rank": 185,
+      "name": "Bramwell",
+      "designation": "Town",
+      "primary_county": "Mercer"
+    },
+    {
+      "rank": 186,
+      "name": "Harpers Ferry",
+      "designation": "Town",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 187,
+      "name": "Wardensville",
+      "designation": "Town",
+      "primary_county": "Hardy"
+    },
+    {
+      "rank": 188,
+      "name": "Newburg",
+      "designation": "Town",
+      "primary_county": "Preston"
+    },
+    {
+      "rank": 189,
+      "name": "Flatwoods",
+      "designation": "Town",
+      "primary_county": "Braxton"
+    },
+    {
+      "rank": 190,
+      "name": "Ellenboro",
+      "designation": "Town",
+      "primary_county": "Ritchie"
+    },
+    {
+      "rank": 191,
+      "name": "Kimball",
+      "designation": "Town",
+      "primary_county": "McDowell"
+    },
+    {
+      "rank": 192,
+      "name": "Albright",
+      "designation": "Town",
+      "primary_county": "Preston"
+    },
+    {
+      "rank": 193,
+      "name": "Durbin",
+      "designation": "Town",
+      "primary_county": "Pocahontas"
+    },
+    {
+      "rank": 194,
+      "name": "Iaeger",
+      "designation": "Town",
+      "primary_county": "McDowell"
+    },
+    {
+      "rank": 195,
+      "name": "Hundred",
+      "designation": "Town",
+      "primary_county": "Wetzel"
+    },
+    {
+      "rank": 196,
+      "name": "Hillsboro",
+      "designation": "Town",
+      "primary_county": "Pocahontas"
+    },
+    {
+      "rank": 197,
+      "name": "Hambleton",
+      "designation": "Town",
+      "primary_county": "Tucker"
+    },
+    {
+      "rank": 198,
+      "name": "Henderson",
+      "designation": "Town",
+      "primary_county": "Mason"
+    },
+    {
+      "rank": 199,
+      "name": "Handley",
+      "designation": "Town",
+      "primary_county": "Kanawha"
+    },
+    {
+      "rank": 200,
+      "name": "Bayard",
+      "designation": "Town",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 201,
+      "name": "Elk Garden",
+      "designation": "Town",
+      "primary_county": "Mineral"
+    },
+    {
+      "rank": 202,
+      "name": "Hendricks",
+      "designation": "Town",
+      "primary_county": "Tucker"
+    },
+    {
+      "rank": 203,
+      "name": "Quinwood",
+      "designation": "Town",
+      "primary_county": "Greenbrier"
+    },
+    {
+      "rank": 204,
+      "name": "Northfork",
+      "designation": "Town",
+      "primary_county": "McDowell"
+    },
+    {
+      "rank": 205,
+      "name": "Davy",
+      "designation": "Town",
+      "primary_county": "McDowell"
+    },
+    {
+      "rank": 206,
+      "name": "Bradshaw",
+      "designation": "Town",
+      "primary_county": "McDowell"
+    },
+    {
+      "rank": 207,
+      "name": "Womelsdorf (Coalton)",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "rank": 208,
+      "name": "Worthington",
+      "designation": "Town",
+      "primary_county": "Marion"
+    },
+    {
+      "rank": 209,
+      "name": "Sand Fork",
+      "designation": "Town",
+      "primary_county": "Gilmer"
+    },
+    {
+      "rank": 210,
+      "name": "Cairo",
+      "designation": "Town",
+      "primary_county": "Ritchie"
+    },
+    {
+      "rank": 211,
+      "name": "Falling Spring",
+      "designation": "Town",
+      "primary_county": "Greenbrier"
+    },
+    {
+      "rank": 212,
+      "name": "Huttonsville",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "rank": 213,
+      "name": "Keystone",
+      "designation": "City",
+      "primary_county": "McDowell"
+    },
+    {
+      "rank": 214,
+      "name": "Sylvester",
+      "designation": "Town",
+      "primary_county": "Boone"
+    },
+    {
+      "rank": 215,
+      "name": "Anawalt",
+      "designation": "Town",
+      "primary_county": "McDowell"
+    },
+    {
+      "rank": 216,
+      "name": "Reedy",
+      "designation": "Town",
+      "primary_county": "Roane"
+    },
+    {
+      "rank": 217,
+      "name": "Montrose",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "rank": 218,
+      "name": "Pullman",
+      "designation": "Town",
+      "primary_county": "Ritchie"
+    },
+    {
+      "rank": 219,
+      "name": "Leon",
+      "designation": "Town",
+      "primary_county": "Mason"
+    },
+    {
+      "rank": 220,
+      "name": "Oakvale",
+      "designation": "Town",
+      "primary_county": "Mercer"
+    },
+    {
+      "rank": 221,
+      "name": "Brandonville",
+      "designation": "Town",
+      "primary_county": "Preston"
+    },
+    {
+      "rank": 222,
+      "name": "Camden-on-Gauley",
+      "designation": "Town",
+      "primary_county": "Webster"
+    },
+    {
+      "rank": 223,
+      "name": "Pax",
+      "designation": "Town",
+      "primary_county": "Fayette"
+    },
+    {
+      "rank": 224,
+      "name": "Blacksville",
+      "designation": "Town",
+      "primary_county": "Monongalia"
+    },
+    {
+      "rank": 225,
+      "name": "Smithfield",
+      "designation": "Town",
+      "primary_county": "Wetzel"
+    },
+    {
+      "rank": 226,
+      "name": "Friendly",
+      "designation": "Town",
+      "primary_county": "Tyler"
+    },
+    {
+      "rank": 227,
+      "name": "Harman",
+      "designation": "Town",
+      "primary_county": "Randolph"
+    },
+    {
+      "rank": 228,
+      "name": "Auburn",
+      "designation": "Town",
+      "primary_county": "Ritchie"
+    },
+    {
+      "rank": 229,
+      "name": "Bruceton Mills",
+      "designation": "Town",
+      "primary_county": "Preston"
+    },
+    {
+      "rank": 230,
+      "name": "Thurmond",
+      "designation": "Town",
+      "primary_county": "Fayette"
+    }
+  ]
+}

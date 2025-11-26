@@ -1,0 +1,1779 @@
+{
+  "metadata": {
+    "state": "Washington",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Washington",
+    "scraped_at": "2025-11-24 20:15:39",
+    "scraper_version": "2.0_generic",
+    "description": "Washington municipalities scraped from Wikipedia",
+    "total_municipalities": 282,
+    "statistics": {
+      "total_found": 282,
+      "with_population": 0,
+      "with_counties": 282,
+      "unique_counties": 45,
+      "population_stats": {}
+    },
+    "counties": [
+      "Adams",
+      "Asotin",
+      "Benton",
+      "Chelan",
+      "Clallam",
+      "Clark",
+      "Clark[a]",
+      "Columbia",
+      "Cowlitz",
+      "Douglas",
+      "Ferry",
+      "Franklin",
+      "Garfield",
+      "Grant",
+      "Grant[a]",
+      "Grays Harbor",
+      "Island",
+      "Jefferson",
+      "King",
+      "King[a]",
+      "Kitsap",
+      "Kittitas",
+      "Klickitat",
+      "Lewis",
+      "Lincoln",
+      "Mason",
+      "Okanogan",
+      "Pacific",
+      "Pend Oreille",
+      "Pierce",
+      "Pierce[a]",
+      "San Juan",
+      "Skagit",
+      "Skamania",
+      "Snohomish",
+      "Snohomish[a]",
+      "Spokane",
+      "Stevens",
+      "Thurston",
+      "Wahkiakum",
+      "Walla Walla",
+      "Whatcom",
+      "Whitman",
+      "Yakima",
+      "sq mi"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "2020 census",
+      "designation": "2010 census",
+      "primary_county": "sq mi"
+    },
+    {
+      "name": "Aberdeen",
+      "designation": "First-class city",
+      "primary_county": "Grays Harbor",
+      "incorporated": "28.2"
+    },
+    {
+      "name": "Airway Heights",
+      "designation": "Code city",
+      "primary_county": "Spokane",
+      "incorporated": "15.6"
+    },
+    {
+      "name": "Albion",
+      "designation": "Town",
+      "primary_county": "Whitman",
+      "incorporated": "1.0"
+    },
+    {
+      "name": "Algona",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "3.3"
+    },
+    {
+      "name": "Almira",
+      "designation": "Town",
+      "primary_county": "Lincoln",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Anacortes",
+      "designation": "Code city",
+      "primary_county": "Skagit",
+      "incorporated": "30.3"
+    },
+    {
+      "name": "Arlington",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "25.4"
+    },
+    {
+      "name": "Asotin †",
+      "designation": "Code city",
+      "primary_county": "Asotin",
+      "incorporated": "3.0"
+    },
+    {
+      "name": "Auburn",
+      "designation": "Code city",
+      "primary_county": "King",
+      "secondary_counties": [
+        "Pierce[a]"
+      ],
+      "incorporated": "76.6"
+    },
+    {
+      "name": "Bainbridge Island",
+      "designation": "Code city",
+      "primary_county": "Kitsap",
+      "incorporated": "71.5"
+    },
+    {
+      "name": "Battle Ground",
+      "designation": "Code city",
+      "primary_county": "Clark",
+      "incorporated": "22.1"
+    },
+    {
+      "name": "Beaux Arts Village",
+      "designation": "Town",
+      "primary_county": "King",
+      "incorporated": "0.21"
+    },
+    {
+      "name": "Bellevue",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "86.7"
+    },
+    {
+      "name": "Bellingham †",
+      "designation": "First-class city",
+      "primary_county": "Whatcom",
+      "incorporated": "72.9"
+    },
+    {
+      "name": "Benton City",
+      "designation": "Code city",
+      "primary_county": "Benton",
+      "incorporated": "6.4"
+    },
+    {
+      "name": "Bingen",
+      "designation": "Code city",
+      "primary_county": "Klickitat",
+      "incorporated": "1.6"
+    },
+    {
+      "name": "Black Diamond",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "17.0"
+    },
+    {
+      "name": "Blaine",
+      "designation": "Code city",
+      "primary_county": "Whatcom",
+      "incorporated": "14.5"
+    },
+    {
+      "name": "Bonney Lake",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "21.3"
+    },
+    {
+      "name": "Bothell",
+      "designation": "Code city",
+      "primary_county": "King",
+      "secondary_counties": [
+        "Snohomish[a]"
+      ],
+      "incorporated": "35.3"
+    },
+    {
+      "name": "Bremerton",
+      "designation": "First-class city",
+      "primary_county": "Kitsap",
+      "incorporated": "73.6"
+    },
+    {
+      "name": "Brewster",
+      "designation": "Code city",
+      "primary_county": "Okanogan",
+      "incorporated": "3.0"
+    },
+    {
+      "name": "Bridgeport",
+      "designation": "Code city",
+      "primary_county": "Douglas",
+      "incorporated": "2.8"
+    },
+    {
+      "name": "Brier",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "5.7"
+    },
+    {
+      "name": "Buckley",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "10.0"
+    },
+    {
+      "name": "Bucoda",
+      "designation": "Town",
+      "primary_county": "Thurston",
+      "incorporated": "1.5"
+    },
+    {
+      "name": "Burien",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "26.0"
+    },
+    {
+      "name": "Burlington",
+      "designation": "Code city",
+      "primary_county": "Skagit",
+      "incorporated": "11.1"
+    },
+    {
+      "name": "Camas",
+      "designation": "Code city",
+      "primary_county": "Clark",
+      "incorporated": "36.5"
+    },
+    {
+      "name": "Carbonado",
+      "designation": "Town",
+      "primary_county": "Pierce",
+      "incorporated": "1.1"
+    },
+    {
+      "name": "Carnation",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "3.0"
+    },
+    {
+      "name": "Cashmere",
+      "designation": "Code city",
+      "primary_county": "Chelan",
+      "incorporated": "3.0"
+    },
+    {
+      "name": "Castle Rock",
+      "designation": "Code city",
+      "primary_county": "Cowlitz",
+      "incorporated": "5.4"
+    },
+    {
+      "name": "Cathlamet †",
+      "designation": "Town",
+      "primary_county": "Wahkiakum",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Centralia",
+      "designation": "Code city",
+      "primary_county": "Lewis",
+      "incorporated": "19.7"
+    },
+    {
+      "name": "Chehalis †",
+      "designation": "Code city",
+      "primary_county": "Lewis",
+      "incorporated": "15.0"
+    },
+    {
+      "name": "Chelan",
+      "designation": "Code city",
+      "primary_county": "Chelan",
+      "incorporated": "17.3"
+    },
+    {
+      "name": "Cheney",
+      "designation": "Code city",
+      "primary_county": "Spokane",
+      "incorporated": "11.2"
+    },
+    {
+      "name": "Chewelah",
+      "designation": "Code city",
+      "primary_county": "Stevens",
+      "incorporated": "7.6"
+    },
+    {
+      "name": "Clarkston",
+      "designation": "Code city",
+      "primary_county": "Asotin",
+      "incorporated": "5.3"
+    },
+    {
+      "name": "Cle Elum",
+      "designation": "Code city",
+      "primary_county": "Kittitas",
+      "incorporated": "11.6"
+    },
+    {
+      "name": "Clyde Hill",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "2.7"
+    },
+    {
+      "name": "Colfax †",
+      "designation": "Code city",
+      "primary_county": "Whitman",
+      "incorporated": "9.8"
+    },
+    {
+      "name": "College Place",
+      "designation": "Code city",
+      "primary_county": "Walla Walla",
+      "incorporated": "7.8"
+    },
+    {
+      "name": "Colton",
+      "designation": "Town",
+      "primary_county": "Whitman",
+      "incorporated": "1.6"
+    },
+    {
+      "name": "Colville †",
+      "designation": "Code city",
+      "primary_county": "Stevens",
+      "incorporated": "8.0"
+    },
+    {
+      "name": "Conconully",
+      "designation": "Town",
+      "primary_county": "Okanogan",
+      "incorporated": "0.54"
+    },
+    {
+      "name": "Concrete",
+      "designation": "Town",
+      "primary_county": "Skagit",
+      "incorporated": "3.0"
+    },
+    {
+      "name": "Connell",
+      "designation": "Code city",
+      "primary_county": "Franklin",
+      "incorporated": "19.9"
+    },
+    {
+      "name": "Cosmopolis",
+      "designation": "Code city",
+      "primary_county": "Grays Harbor",
+      "incorporated": "3.6"
+    },
+    {
+      "name": "Coulee City",
+      "designation": "Town",
+      "primary_county": "Grant",
+      "incorporated": "2.4"
+    },
+    {
+      "name": "Coulee Dam",
+      "designation": "Code city",
+      "primary_county": "Okanogan",
+      "secondary_counties": [
+        "Douglas",
+        "Grant[a]"
+      ],
+      "incorporated": "1.9"
+    },
+    {
+      "name": "Coupeville †",
+      "designation": "Town",
+      "primary_county": "Island",
+      "incorporated": "3.3"
+    },
+    {
+      "name": "Covington",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "15.4"
+    },
+    {
+      "name": "Creston",
+      "designation": "Town",
+      "primary_county": "Lincoln",
+      "incorporated": "1.1"
+    },
+    {
+      "name": "Cusick",
+      "designation": "Town",
+      "primary_county": "Pend Oreille",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Darrington",
+      "designation": "Town",
+      "primary_county": "Snohomish",
+      "incorporated": "4.5"
+    },
+    {
+      "name": "Davenport †",
+      "designation": "Second-class city",
+      "primary_county": "Lincoln",
+      "incorporated": "4.3"
+    },
+    {
+      "name": "Dayton †",
+      "designation": "Code city",
+      "primary_county": "Columbia",
+      "incorporated": "3.7"
+    },
+    {
+      "name": "Deer Park",
+      "designation": "Code city",
+      "primary_county": "Spokane",
+      "incorporated": "17.8"
+    },
+    {
+      "name": "Des Moines",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "16.6"
+    },
+    {
+      "name": "DuPont",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "15.1"
+    },
+    {
+      "name": "Duvall",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "6.3"
+    },
+    {
+      "name": "East Wenatchee",
+      "designation": "Code city",
+      "primary_county": "Douglas",
+      "incorporated": "9.8"
+    },
+    {
+      "name": "Eatonville",
+      "designation": "Town",
+      "primary_county": "Pierce",
+      "incorporated": "4.7"
+    },
+    {
+      "name": "Edgewood",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "21.7"
+    },
+    {
+      "name": "Edmonds",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "23.1"
+    },
+    {
+      "name": "Electric City",
+      "designation": "Code city",
+      "primary_county": "Grant",
+      "incorporated": "5.2"
+    },
+    {
+      "name": "Ellensburg †",
+      "designation": "Code city",
+      "primary_county": "Kittitas",
+      "incorporated": "5.2"
+    },
+    {
+      "name": "Elma",
+      "designation": "Code city",
+      "primary_county": "Grays Harbor",
+      "incorporated": "6.6"
+    },
+    {
+      "name": "Elmer City",
+      "designation": "Town",
+      "primary_county": "Okanogan",
+      "incorporated": "0.62"
+    },
+    {
+      "name": "Endicott",
+      "designation": "Town",
+      "primary_county": "Whitman",
+      "incorporated": "0.78"
+    },
+    {
+      "name": "Entiat",
+      "designation": "Code city",
+      "primary_county": "Chelan",
+      "incorporated": "5.6"
+    },
+    {
+      "name": "Enumclaw",
+      "designation": "Code city",
+      "primary_county": "King",
+      "secondary_counties": [
+        "Pierce[a]"
+      ],
+      "incorporated": "13.4"
+    },
+    {
+      "name": "Ephrata †",
+      "designation": "Code city",
+      "primary_county": "Grant",
+      "incorporated": "27.0"
+    },
+    {
+      "name": "Everett †",
+      "designation": "First-class city",
+      "primary_county": "Snohomish",
+      "incorporated": "86.0"
+    },
+    {
+      "name": "Everson",
+      "designation": "Code city",
+      "primary_county": "Whatcom",
+      "incorporated": "3.5"
+    },
+    {
+      "name": "Fairfield",
+      "designation": "Town",
+      "primary_county": "Spokane",
+      "incorporated": "1.6"
+    },
+    {
+      "name": "Farmington",
+      "designation": "Town",
+      "primary_county": "Whitman",
+      "incorporated": "0.93"
+    },
+    {
+      "name": "Federal Way",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "57.8"
+    },
+    {
+      "name": "Ferndale",
+      "designation": "Code city",
+      "primary_county": "Whatcom",
+      "incorporated": "18.2"
+    },
+    {
+      "name": "Fife",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "14.9"
+    },
+    {
+      "name": "Fircrest",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "4.1"
+    },
+    {
+      "name": "Forks",
+      "designation": "Code city",
+      "primary_county": "Clallam",
+      "incorporated": "10.7"
+    },
+    {
+      "name": "Friday Harbor †",
+      "designation": "Town",
+      "primary_county": "San Juan",
+      "incorporated": "5.6"
+    },
+    {
+      "name": "Garfield",
+      "designation": "Town",
+      "primary_county": "Whitman",
+      "incorporated": "2.4"
+    },
+    {
+      "name": "George",
+      "designation": "Code city",
+      "primary_county": "Grant",
+      "incorporated": "3.6"
+    },
+    {
+      "name": "Gig Harbor",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "15.3"
+    },
+    {
+      "name": "Gold Bar",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "2.7"
+    },
+    {
+      "name": "Goldendale †",
+      "designation": "Code city",
+      "primary_county": "Klickitat",
+      "incorporated": "7.7"
+    },
+    {
+      "name": "Grand Coulee",
+      "designation": "Code city",
+      "primary_county": "Grant",
+      "incorporated": "3.3"
+    },
+    {
+      "name": "Grandview",
+      "designation": "Code city",
+      "primary_county": "Yakima",
+      "incorporated": "16.7"
+    },
+    {
+      "name": "Granger",
+      "designation": "Code city",
+      "primary_county": "Yakima",
+      "incorporated": "4.5"
+    },
+    {
+      "name": "Granite Falls",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "5.7"
+    },
+    {
+      "name": "Hamilton",
+      "designation": "Town",
+      "primary_county": "Skagit",
+      "incorporated": "3.1"
+    },
+    {
+      "name": "Harrah",
+      "designation": "Town",
+      "primary_county": "Yakima",
+      "incorporated": "0.70"
+    },
+    {
+      "name": "Harrington",
+      "designation": "Code city",
+      "primary_county": "Lincoln",
+      "incorporated": "1.0"
+    },
+    {
+      "name": "Hartline",
+      "designation": "Town",
+      "primary_county": "Grant",
+      "incorporated": "0.85"
+    },
+    {
+      "name": "Hatton",
+      "designation": "Town",
+      "primary_county": "Adams",
+      "incorporated": "0.96"
+    },
+    {
+      "name": "Hoquiam",
+      "designation": "Code city",
+      "primary_county": "Grays Harbor",
+      "incorporated": "24.7"
+    },
+    {
+      "name": "Hunts Point",
+      "designation": "Town",
+      "primary_county": "King",
+      "incorporated": "0.80"
+    },
+    {
+      "name": "Ilwaco",
+      "designation": "Code city",
+      "primary_county": "Pacific",
+      "incorporated": "5.4"
+    },
+    {
+      "name": "Index",
+      "designation": "Town",
+      "primary_county": "Snohomish",
+      "incorporated": "0.60"
+    },
+    {
+      "name": "Ione",
+      "designation": "Town",
+      "primary_county": "Pend Oreille",
+      "incorporated": "1.4"
+    },
+    {
+      "name": "Issaquah",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "31.4"
+    },
+    {
+      "name": "Kahlotus",
+      "designation": "Code city",
+      "primary_county": "Franklin",
+      "incorporated": "0.98"
+    },
+    {
+      "name": "Kalama",
+      "designation": "Code city",
+      "primary_county": "Cowlitz",
+      "incorporated": "9.2"
+    },
+    {
+      "name": "Kelso †",
+      "designation": "Code city",
+      "primary_county": "Cowlitz",
+      "incorporated": "21.1"
+    },
+    {
+      "name": "Kenmore",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "15.9"
+    },
+    {
+      "name": "Kennewick",
+      "designation": "Code city",
+      "primary_county": "Benton",
+      "incorporated": "71.1"
+    },
+    {
+      "name": "Kent",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "87.4"
+    },
+    {
+      "name": "Kettle Falls",
+      "designation": "Code city",
+      "primary_county": "Stevens",
+      "incorporated": "2.8"
+    },
+    {
+      "name": "Kirkland",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "46.1"
+    },
+    {
+      "name": "Kittitas",
+      "designation": "Code city",
+      "primary_county": "Kittitas",
+      "incorporated": "2.0"
+    },
+    {
+      "name": "Krupp[c]",
+      "designation": "Town",
+      "primary_county": "Grant",
+      "incorporated": "1.5"
+    },
+    {
+      "name": "La Center",
+      "designation": "Code city",
+      "primary_county": "Clark",
+      "incorporated": "6.7"
+    },
+    {
+      "name": "La Conner",
+      "designation": "Town",
+      "primary_county": "Skagit",
+      "incorporated": "1.0"
+    },
+    {
+      "name": "Lacey",
+      "designation": "Code city",
+      "primary_county": "Thurston",
+      "incorporated": "44.5"
+    },
+    {
+      "name": "LaCrosse",
+      "designation": "Town",
+      "primary_county": "Whitman",
+      "incorporated": "2.2"
+    },
+    {
+      "name": "Lake Forest Park",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "9.1"
+    },
+    {
+      "name": "Lake Stevens",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "23.8"
+    },
+    {
+      "name": "Lakewood",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "44.2"
+    },
+    {
+      "name": "Lamont",
+      "designation": "Town",
+      "primary_county": "Whitman",
+      "incorporated": "0.75"
+    },
+    {
+      "name": "Langley",
+      "designation": "Code city",
+      "primary_county": "Island",
+      "incorporated": "2.6"
+    },
+    {
+      "name": "Latah",
+      "designation": "Town",
+      "primary_county": "Spokane",
+      "incorporated": "0.83"
+    },
+    {
+      "name": "Leavenworth",
+      "designation": "Code city",
+      "primary_county": "Chelan",
+      "incorporated": "3.8"
+    },
+    {
+      "name": "Liberty Lake",
+      "designation": "Code city",
+      "primary_county": "Spokane",
+      "incorporated": "16.2"
+    },
+    {
+      "name": "Lind",
+      "designation": "Town",
+      "primary_county": "Adams",
+      "incorporated": "2.9"
+    },
+    {
+      "name": "Long Beach",
+      "designation": "Code city",
+      "primary_county": "Pacific",
+      "incorporated": "3.6"
+    },
+    {
+      "name": "Longview",
+      "designation": "Code city",
+      "primary_county": "Cowlitz",
+      "incorporated": "38.3"
+    },
+    {
+      "name": "Lyman",
+      "designation": "Town",
+      "primary_county": "Skagit",
+      "incorporated": "1.7"
+    },
+    {
+      "name": "Lynden",
+      "designation": "Code city",
+      "primary_county": "Whatcom",
+      "incorporated": "14.1"
+    },
+    {
+      "name": "Lynnwood",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "20.4"
+    },
+    {
+      "name": "Mabton",
+      "designation": "Code city",
+      "primary_county": "Yakima",
+      "incorporated": "2.2"
+    },
+    {
+      "name": "Malden",
+      "designation": "Town",
+      "primary_county": "Whitman",
+      "incorporated": "1.7"
+    },
+    {
+      "name": "Mansfield",
+      "designation": "Town",
+      "primary_county": "Douglas",
+      "incorporated": "0.83"
+    },
+    {
+      "name": "Maple Valley",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "15.5"
+    },
+    {
+      "name": "Marcus",
+      "designation": "Town",
+      "primary_county": "Stevens",
+      "incorporated": "0.57"
+    },
+    {
+      "name": "Marysville",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "53.7"
+    },
+    {
+      "name": "Mattawa",
+      "designation": "Code city",
+      "primary_county": "Grant",
+      "incorporated": "2.4"
+    },
+    {
+      "name": "McCleary",
+      "designation": "Code city",
+      "primary_county": "Grays Harbor",
+      "incorporated": "5.3"
+    },
+    {
+      "name": "Medical Lake",
+      "designation": "Code city",
+      "primary_county": "Spokane",
+      "incorporated": "8.7"
+    },
+    {
+      "name": "Medina",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "3.7"
+    },
+    {
+      "name": "Mercer Island",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "16.5"
+    },
+    {
+      "name": "Mesa",
+      "designation": "Code city",
+      "primary_county": "Franklin",
+      "incorporated": "4.3"
+    },
+    {
+      "name": "Metaline",
+      "designation": "Town",
+      "primary_county": "Pend Oreille",
+      "incorporated": "0.80"
+    },
+    {
+      "name": "Metaline Falls",
+      "designation": "Town",
+      "primary_county": "Pend Oreille",
+      "incorporated": "0.52"
+    },
+    {
+      "name": "Mill Creek",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "12.0"
+    },
+    {
+      "name": "Millwood",
+      "designation": "Code city",
+      "primary_county": "Spokane",
+      "incorporated": "1.8"
+    },
+    {
+      "name": "Milton",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "secondary_counties": [
+        "King[a]"
+      ],
+      "incorporated": "7.2"
+    },
+    {
+      "name": "Monroe",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "15.8"
+    },
+    {
+      "name": "Montesano †",
+      "designation": "Code city",
+      "primary_county": "Grays Harbor",
+      "incorporated": "26.9"
+    },
+    {
+      "name": "Morton",
+      "designation": "Code city",
+      "primary_county": "Lewis",
+      "incorporated": "2.1"
+    },
+    {
+      "name": "Moses Lake",
+      "designation": "Code city",
+      "primary_county": "Grant",
+      "incorporated": "46.5"
+    },
+    {
+      "name": "Mossyrock",
+      "designation": "Code city",
+      "primary_county": "Lewis",
+      "incorporated": "1.8"
+    },
+    {
+      "name": "Mount Vernon †",
+      "designation": "Code city",
+      "primary_county": "Skagit",
+      "incorporated": "31.9"
+    },
+    {
+      "name": "Mountlake Terrace",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "10.5"
+    },
+    {
+      "name": "Moxee",
+      "designation": "Code city",
+      "primary_county": "Yakima",
+      "incorporated": "6.1"
+    },
+    {
+      "name": "Mukilteo",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "16.2"
+    },
+    {
+      "name": "Naches",
+      "designation": "Town",
+      "primary_county": "Yakima",
+      "incorporated": "2.3"
+    },
+    {
+      "name": "Napavine",
+      "designation": "Code city",
+      "primary_county": "Lewis",
+      "incorporated": "7.5"
+    },
+    {
+      "name": "Nespelem",
+      "designation": "Town",
+      "primary_county": "Okanogan",
+      "incorporated": "0.49"
+    },
+    {
+      "name": "Newcastle",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "11.5"
+    },
+    {
+      "name": "Newport †",
+      "designation": "Code city",
+      "primary_county": "Pend Oreille",
+      "incorporated": "3.8"
+    },
+    {
+      "name": "Nooksack",
+      "designation": "Code city",
+      "primary_county": "Whatcom",
+      "incorporated": "2.3"
+    },
+    {
+      "name": "Normandy Park",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "6.4"
+    },
+    {
+      "name": "North Bend",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "11.3"
+    },
+    {
+      "name": "North Bonneville",
+      "designation": "Code city",
+      "primary_county": "Skamania",
+      "incorporated": "6.6"
+    },
+    {
+      "name": "Northport",
+      "designation": "Town",
+      "primary_county": "Stevens",
+      "incorporated": "1.5"
+    },
+    {
+      "name": "Oak Harbor",
+      "designation": "Code city",
+      "primary_county": "Island",
+      "incorporated": "25.0"
+    },
+    {
+      "name": "Oakesdale",
+      "designation": "Town",
+      "primary_county": "Whitman",
+      "incorporated": "2.7"
+    },
+    {
+      "name": "Oakville",
+      "designation": "Code city",
+      "primary_county": "Grays Harbor",
+      "incorporated": "1.4"
+    },
+    {
+      "name": "Ocean Shores",
+      "designation": "Code city",
+      "primary_county": "Grays Harbor",
+      "incorporated": "22.1"
+    },
+    {
+      "name": "Odessa",
+      "designation": "Town",
+      "primary_county": "Lincoln",
+      "incorporated": "2.1"
+    },
+    {
+      "name": "Okanogan †",
+      "designation": "Code city",
+      "primary_county": "Okanogan",
+      "incorporated": "5.2"
+    },
+    {
+      "name": "Olympia ‡",
+      "designation": "Code city",
+      "primary_county": "Thurston",
+      "incorporated": "47.2"
+    },
+    {
+      "name": "Omak",
+      "designation": "Code city",
+      "primary_county": "Okanogan",
+      "incorporated": "10.0"
+    },
+    {
+      "name": "Oroville",
+      "designation": "Code city",
+      "primary_county": "Okanogan",
+      "incorporated": "4.4"
+    },
+    {
+      "name": "Orting",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "7.0"
+    },
+    {
+      "name": "Othello",
+      "designation": "Code city",
+      "primary_county": "Adams",
+      "incorporated": "10.4"
+    },
+    {
+      "name": "Pacific",
+      "designation": "Code city",
+      "primary_county": "King",
+      "secondary_counties": [
+        "Pierce[a]"
+      ],
+      "incorporated": "6.3"
+    },
+    {
+      "name": "Palouse",
+      "designation": "Second-class city",
+      "primary_county": "Whitman",
+      "incorporated": "2.7"
+    },
+    {
+      "name": "Pasco †",
+      "designation": "Code city",
+      "primary_county": "Franklin",
+      "incorporated": "88.0"
+    },
+    {
+      "name": "Pateros",
+      "designation": "Code city",
+      "primary_county": "Okanogan",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Pe Ell",
+      "designation": "Town",
+      "primary_county": "Lewis",
+      "incorporated": "1.5"
+    },
+    {
+      "name": "Pomeroy †",
+      "designation": "Code city",
+      "primary_county": "Garfield",
+      "incorporated": "4.6"
+    },
+    {
+      "name": "Port Angeles †",
+      "designation": "Code city",
+      "primary_county": "Clallam",
+      "incorporated": "27.7"
+    },
+    {
+      "name": "Port Orchard †",
+      "designation": "Code city",
+      "primary_county": "Kitsap",
+      "incorporated": "25.0"
+    },
+    {
+      "name": "Port Townsend †",
+      "designation": "Code city",
+      "primary_county": "Jefferson",
+      "incorporated": "18.0"
+    },
+    {
+      "name": "Poulsbo",
+      "designation": "Code city",
+      "primary_county": "Kitsap",
+      "incorporated": "12.3"
+    },
+    {
+      "name": "Prescott",
+      "designation": "Code city",
+      "primary_county": "Walla Walla",
+      "incorporated": "1.0"
+    },
+    {
+      "name": "Prosser †",
+      "designation": "Code city",
+      "primary_county": "Benton",
+      "incorporated": "12.1"
+    },
+    {
+      "name": "Pullman",
+      "designation": "Code city",
+      "primary_county": "Whitman",
+      "incorporated": "28.3"
+    },
+    {
+      "name": "Puyallup",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "36.6"
+    },
+    {
+      "name": "Quincy",
+      "designation": "Code city",
+      "primary_county": "Grant",
+      "incorporated": "15.7"
+    },
+    {
+      "name": "Rainier",
+      "designation": "Code city",
+      "primary_county": "Thurston",
+      "incorporated": "4.5"
+    },
+    {
+      "name": "Raymond",
+      "designation": "Code city",
+      "primary_county": "Pacific",
+      "incorporated": "10.6"
+    },
+    {
+      "name": "Reardan",
+      "designation": "Town",
+      "primary_county": "Lincoln",
+      "incorporated": "1.3"
+    },
+    {
+      "name": "Redmond",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "42.9"
+    },
+    {
+      "name": "Renton",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "60.8"
+    },
+    {
+      "name": "Republic †",
+      "designation": "Code city",
+      "primary_county": "Ferry",
+      "incorporated": "3.7"
+    },
+    {
+      "name": "Richland",
+      "designation": "First-class city",
+      "primary_county": "Benton",
+      "incorporated": "101.6"
+    },
+    {
+      "name": "Ridgefield",
+      "designation": "Code city",
+      "primary_county": "Clark",
+      "incorporated": "19.0"
+    },
+    {
+      "name": "Ritzville †",
+      "designation": "Second-class city",
+      "primary_county": "Adams",
+      "incorporated": "4.5"
+    },
+    {
+      "name": "Riverside",
+      "designation": "Town",
+      "primary_county": "Okanogan",
+      "incorporated": "2.3"
+    },
+    {
+      "name": "Rock Island",
+      "designation": "Code city",
+      "primary_county": "Douglas",
+      "incorporated": "2.9"
+    },
+    {
+      "name": "Rockford",
+      "designation": "Town",
+      "primary_county": "Spokane",
+      "incorporated": "1.7"
+    },
+    {
+      "name": "Rosalia",
+      "designation": "Town",
+      "primary_county": "Whitman",
+      "incorporated": "1.6"
+    },
+    {
+      "name": "Roslyn",
+      "designation": "Code city",
+      "primary_county": "Kittitas",
+      "incorporated": "11.4"
+    },
+    {
+      "name": "Roy",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "1.2"
+    },
+    {
+      "name": "Royal City",
+      "designation": "Code city",
+      "primary_county": "Grant",
+      "incorporated": "3.0"
+    },
+    {
+      "name": "Ruston",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "0.67"
+    },
+    {
+      "name": "Sammamish",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "52.9"
+    },
+    {
+      "name": "SeaTac",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "26.1"
+    },
+    {
+      "name": "Seattle †",
+      "designation": "First-class city",
+      "primary_county": "King",
+      "incorporated": "217.1"
+    },
+    {
+      "name": "Sedro-Woolley",
+      "designation": "Code city",
+      "primary_county": "Skagit",
+      "incorporated": "11.2"
+    },
+    {
+      "name": "Selah",
+      "designation": "Code city",
+      "primary_county": "Yakima",
+      "incorporated": "11.9"
+    },
+    {
+      "name": "Sequim",
+      "designation": "Code city",
+      "primary_county": "Clallam",
+      "incorporated": "16.4"
+    },
+    {
+      "name": "Shelton †",
+      "designation": "Code city",
+      "primary_county": "Mason",
+      "incorporated": "15.1"
+    },
+    {
+      "name": "Shoreline",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "30.1"
+    },
+    {
+      "name": "Skykomish",
+      "designation": "Town",
+      "primary_county": "King",
+      "incorporated": "0.80"
+    },
+    {
+      "name": "Snohomish",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "9.1"
+    },
+    {
+      "name": "Snoqualmie",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "18.6"
+    },
+    {
+      "name": "Soap Lake",
+      "designation": "Code city",
+      "primary_county": "Grant",
+      "incorporated": "4.0"
+    },
+    {
+      "name": "South Bend †",
+      "designation": "Code city",
+      "primary_county": "Pacific",
+      "incorporated": "4.2"
+    },
+    {
+      "name": "South Cle Elum",
+      "designation": "Town",
+      "primary_county": "Kittitas",
+      "incorporated": "1.0"
+    },
+    {
+      "name": "South Prairie",
+      "designation": "Town",
+      "primary_county": "Pierce",
+      "incorporated": "0.98"
+    },
+    {
+      "name": "Spangle",
+      "designation": "Code city",
+      "primary_county": "Spokane",
+      "incorporated": "0.91"
+    },
+    {
+      "name": "Spokane †",
+      "designation": "First-class city",
+      "primary_county": "Spokane",
+      "incorporated": "178.1"
+    },
+    {
+      "name": "Spokane Valley",
+      "designation": "Code city",
+      "primary_county": "Spokane",
+      "incorporated": "97.7"
+    },
+    {
+      "name": "Sprague",
+      "designation": "Code city",
+      "primary_county": "Lincoln",
+      "incorporated": "2.7"
+    },
+    {
+      "name": "Springdale",
+      "designation": "Town",
+      "primary_county": "Stevens",
+      "incorporated": "2.9"
+    },
+    {
+      "name": "St. John",
+      "designation": "Town",
+      "primary_county": "Whitman",
+      "incorporated": "1.7"
+    },
+    {
+      "name": "Stanwood",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "7.6"
+    },
+    {
+      "name": "Starbuck",
+      "designation": "Town",
+      "primary_county": "Columbia",
+      "incorporated": "0.52"
+    },
+    {
+      "name": "Steilacoom",
+      "designation": "Town",
+      "primary_county": "Pierce",
+      "incorporated": "5.2"
+    },
+    {
+      "name": "Stevenson †",
+      "designation": "Code city",
+      "primary_county": "Skamania",
+      "incorporated": "5.0"
+    },
+    {
+      "name": "Sultan",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "8.5"
+    },
+    {
+      "name": "Sumas",
+      "designation": "Code city",
+      "primary_county": "Whatcom",
+      "incorporated": "3.8"
+    },
+    {
+      "name": "Sumner",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "19.5"
+    },
+    {
+      "name": "Sunnyside",
+      "designation": "Code city",
+      "primary_county": "Yakima",
+      "incorporated": "19.5"
+    },
+    {
+      "name": "Tacoma †",
+      "designation": "First-class city",
+      "primary_county": "Pierce",
+      "incorporated": "128.7"
+    },
+    {
+      "name": "Tekoa",
+      "designation": "Second-class city",
+      "primary_county": "Whitman",
+      "incorporated": "3.2"
+    },
+    {
+      "name": "Tenino",
+      "designation": "Code city",
+      "primary_county": "Thurston",
+      "incorporated": "3.8"
+    },
+    {
+      "name": "Tieton",
+      "designation": "Code city",
+      "primary_county": "Yakima",
+      "incorporated": "2.2"
+    },
+    {
+      "name": "Toledo",
+      "designation": "Code city",
+      "primary_county": "Lewis",
+      "incorporated": "1.0"
+    },
+    {
+      "name": "Tonasket",
+      "designation": "Code city",
+      "primary_county": "Okanogan",
+      "incorporated": "2.4"
+    },
+    {
+      "name": "Toppenish",
+      "designation": "Code city",
+      "primary_county": "Yakima",
+      "incorporated": "5.5"
+    },
+    {
+      "name": "Tukwila",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "23.8"
+    },
+    {
+      "name": "Tumwater",
+      "designation": "Code city",
+      "primary_county": "Thurston",
+      "incorporated": "45.3"
+    },
+    {
+      "name": "Twisp",
+      "designation": "Town",
+      "primary_county": "Okanogan",
+      "incorporated": "3.0"
+    },
+    {
+      "name": "Union Gap",
+      "designation": "Code city",
+      "primary_county": "Yakima",
+      "incorporated": "14.5"
+    },
+    {
+      "name": "Uniontown",
+      "designation": "Town",
+      "primary_county": "Whitman",
+      "incorporated": "2.4"
+    },
+    {
+      "name": "University Place",
+      "designation": "Code city",
+      "primary_county": "Pierce",
+      "incorporated": "21.6"
+    },
+    {
+      "name": "Vader",
+      "designation": "Code city",
+      "primary_county": "Lewis",
+      "incorporated": "2.4"
+    },
+    {
+      "name": "Vancouver †",
+      "designation": "First-class city",
+      "primary_county": "Clark",
+      "incorporated": "126.2"
+    },
+    {
+      "name": "Waitsburg",
+      "designation": "Unclassified city",
+      "primary_county": "Walla Walla",
+      "incorporated": "3.0"
+    },
+    {
+      "name": "Walla Walla †",
+      "designation": "Code city",
+      "primary_county": "Walla Walla",
+      "incorporated": "35.9"
+    },
+    {
+      "name": "Wapato",
+      "designation": "Second-class city",
+      "primary_county": "Yakima",
+      "incorporated": "3.0"
+    },
+    {
+      "name": "Warden",
+      "designation": "Code city",
+      "primary_county": "Grant",
+      "incorporated": "7.6"
+    },
+    {
+      "name": "Washougal",
+      "designation": "Code city",
+      "primary_county": "Clark",
+      "incorporated": "15.4"
+    },
+    {
+      "name": "Washtucna",
+      "designation": "Town",
+      "primary_county": "Adams",
+      "incorporated": "1.7"
+    },
+    {
+      "name": "Waterville †",
+      "designation": "Town",
+      "primary_county": "Douglas",
+      "incorporated": "2.3"
+    },
+    {
+      "name": "Waverly",
+      "designation": "Town",
+      "primary_county": "Spokane",
+      "incorporated": "1.1"
+    },
+    {
+      "name": "Wenatchee †",
+      "designation": "Code city",
+      "primary_county": "Chelan",
+      "incorporated": "27.4"
+    },
+    {
+      "name": "West Richland",
+      "designation": "Code city",
+      "primary_county": "Benton",
+      "incorporated": "57.3"
+    },
+    {
+      "name": "Westport",
+      "designation": "Code city",
+      "primary_county": "Grays Harbor",
+      "incorporated": "9.6"
+    },
+    {
+      "name": "White Salmon",
+      "designation": "Code city",
+      "primary_county": "Klickitat",
+      "incorporated": "4.0"
+    },
+    {
+      "name": "Wilbur",
+      "designation": "Town",
+      "primary_county": "Lincoln",
+      "incorporated": "3.4"
+    },
+    {
+      "name": "Wilkeson",
+      "designation": "Town",
+      "primary_county": "Pierce",
+      "incorporated": "1.2"
+    },
+    {
+      "name": "Wilson Creek",
+      "designation": "Town",
+      "primary_county": "Grant",
+      "incorporated": "2.5"
+    },
+    {
+      "name": "Winlock",
+      "designation": "Code city",
+      "primary_county": "Lewis",
+      "incorporated": "3.3"
+    },
+    {
+      "name": "Winthrop",
+      "designation": "Town",
+      "primary_county": "Okanogan",
+      "incorporated": "2.4"
+    },
+    {
+      "name": "Woodinville",
+      "designation": "Code city",
+      "primary_county": "King",
+      "incorporated": "14.6"
+    },
+    {
+      "name": "Woodland",
+      "designation": "Code city",
+      "primary_county": "Cowlitz",
+      "secondary_counties": [
+        "Clark[a]"
+      ],
+      "incorporated": "10.6"
+    },
+    {
+      "name": "Woodway",
+      "designation": "Code city",
+      "primary_county": "Snohomish",
+      "incorporated": "3.0"
+    },
+    {
+      "name": "Yacolt",
+      "designation": "Town",
+      "primary_county": "Clark",
+      "incorporated": "1.5"
+    },
+    {
+      "name": "Yakima †",
+      "designation": "First-class city",
+      "primary_county": "Yakima",
+      "incorporated": "72.0"
+    },
+    {
+      "name": "Yarrow Point",
+      "designation": "Town",
+      "primary_county": "King",
+      "incorporated": "0.96"
+    },
+    {
+      "name": "Yelm",
+      "designation": "Code city",
+      "primary_county": "Thurston",
+      "incorporated": "14.8"
+    },
+    {
+      "name": "Zillah",
+      "designation": "Code city",
+      "primary_county": "Yakima",
+      "incorporated": "4.7"
+    }
+  ]
+}

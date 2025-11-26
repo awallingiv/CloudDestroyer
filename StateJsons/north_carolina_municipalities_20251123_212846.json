@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "state": "North Carolina",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_North_Carolina",
+    "scraped_at": "2025-11-23 21:28:46",
+    "scraper_version": "2.0_generic",
+    "description": "North Carolina municipalities scraped from Wikipedia",
+    "total_municipalities": 50,
+    "statistics": {
+      "total_found": 50,
+      "with_population": 50,
+      "with_counties": 50,
+      "unique_counties": 35,
+      "population_stats": {
+        "min": 17797,
+        "max": 874579,
+        "average": 89837,
+        "total": 4491871
+      }
+    },
+    "counties": [
+      "Alamance",
+      "Brunswick",
+      "Buncombe",
+      "Burke",
+      "Cabarrus",
+      "Caldwell",
+      "Catawba",
+      "Chatham",
+      "Cleveland",
+      "Craven",
+      "Cumberland",
+      "Davidson",
+      "Durham",
+      "Durham (seat)",
+      "Edgecombe",
+      "Forsyth",
+      "Franklin",
+      "Gaston",
+      "Guilford",
+      "Iredell",
+      "Johnston",
+      "Lee",
+      "Mecklenburg",
+      "Nash",
+      "New Hanover",
+      "Onslow",
+      "Orange",
+      "Pitt",
+      "Randolph",
+      "Rowan",
+      "Union",
+      "Wake",
+      "Wake (seat)",
+      "Wayne",
+      "Wilson"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "Charlotte†",
+      "designation": "City",
+      "primary_county": "Mecklenburg",
+      "population": 874579
+    },
+    {
+      "name": "Raleigh‡",
+      "designation": "City",
+      "primary_county": "Wake (seat)",
+      "secondary_counties": [
+        "Durham"
+      ],
+      "population": 467665
+    },
+    {
+      "name": "Greensboro†",
+      "designation": "City",
+      "primary_county": "Guilford",
+      "population": 299035
+    },
+    {
+      "name": "Durham†",
+      "designation": "City",
+      "primary_county": "Durham (seat)",
+      "secondary_counties": [
+        "Wake",
+        "Orange"
+      ],
+      "population": 283506
+    },
+    {
+      "name": "Winston-Salem†",
+      "designation": "City",
+      "primary_county": "Forsyth",
+      "population": 249545
+    },
+    {
+      "name": "Fayetteville†",
+      "designation": "City",
+      "primary_county": "Cumberland",
+      "population": 208501
+    },
+    {
+      "name": "Cary",
+      "designation": "Town",
+      "primary_county": "Wake",
+      "secondary_counties": [
+        "Chatham",
+        "Durham"
+      ],
+      "population": 174721
+    },
+    {
+      "name": "Wilmington†",
+      "designation": "City",
+      "primary_county": "New Hanover",
+      "population": 115451
+    },
+    {
+      "name": "High Point",
+      "designation": "City",
+      "primary_county": "Guilford",
+      "secondary_counties": [
+        "Randolph",
+        "Davidson",
+        "Forsyth"
+      ],
+      "population": 114059
+    },
+    {
+      "name": "Concord†",
+      "designation": "City",
+      "primary_county": "Cabarrus",
+      "population": 105240
+    },
+    {
+      "name": "Asheville†",
+      "designation": "City",
+      "primary_county": "Buncombe",
+      "population": 94589
+    },
+    {
+      "name": "Greenville†",
+      "designation": "City",
+      "primary_county": "Pitt",
+      "population": 87521
+    },
+    {
+      "name": "Gastonia†",
+      "designation": "City",
+      "primary_county": "Gaston",
+      "population": 80411
+    },
+    {
+      "name": "Jacksonville†",
+      "designation": "City",
+      "primary_county": "Onslow",
+      "population": 72723
+    },
+    {
+      "name": "Apex",
+      "designation": "Town",
+      "primary_county": "Wake",
+      "population": 58780
+    },
+    {
+      "name": "Huntersville",
+      "designation": "Town",
+      "primary_county": "Mecklenburg",
+      "population": 61376
+    },
+    {
+      "name": "Chapel Hill",
+      "designation": "Town",
+      "primary_county": "Orange",
+      "secondary_counties": [
+        "Durham"
+      ],
+      "population": 61960
+    },
+    {
+      "name": "Burlington",
+      "designation": "City",
+      "primary_county": "Alamance",
+      "population": 57303
+    },
+    {
+      "name": "Kannapolis",
+      "designation": "City",
+      "primary_county": "Cabarrus",
+      "secondary_counties": [
+        "Rowan"
+      ],
+      "population": 53114
+    },
+    {
+      "name": "Wake Forest",
+      "designation": "Town",
+      "primary_county": "Wake",
+      "secondary_counties": [
+        "Franklin"
+      ],
+      "population": 47601
+    },
+    {
+      "name": "Rocky Mount",
+      "designation": "City",
+      "primary_county": "Edgecombe",
+      "secondary_counties": [
+        "Nash"
+      ],
+      "population": 54341
+    },
+    {
+      "name": "Mooresville",
+      "designation": "Town",
+      "primary_county": "Iredell",
+      "population": 50193
+    },
+    {
+      "name": "Wilson†",
+      "designation": "City",
+      "primary_county": "Wilson",
+      "population": 47851
+    },
+    {
+      "name": "Holly Springs",
+      "designation": "Town",
+      "primary_county": "Wake",
+      "population": 41239
+    },
+    {
+      "name": "Hickory",
+      "designation": "City",
+      "primary_county": "Catawba",
+      "secondary_counties": [
+        "Burke",
+        "Caldwell"
+      ],
+      "population": 43490
+    },
+    {
+      "name": "Fuquay-Varina",
+      "designation": "Town",
+      "primary_county": "Wake",
+      "population": 34152
+    },
+    {
+      "name": "Indian Trail",
+      "designation": "Town",
+      "primary_county": "Union",
+      "population": 39997
+    },
+    {
+      "name": "Monroe†",
+      "designation": "City",
+      "primary_county": "Union",
+      "population": 34562
+    },
+    {
+      "name": "Salisbury†",
+      "designation": "City",
+      "primary_county": "Rowan",
+      "population": 35540
+    },
+    {
+      "name": "Garner",
+      "designation": "Town",
+      "primary_county": "Wake",
+      "population": 31159
+    },
+    {
+      "name": "Goldsboro†",
+      "designation": "City",
+      "primary_county": "Wayne",
+      "population": 33657
+    },
+    {
+      "name": "Cornelius",
+      "designation": "Town",
+      "primary_county": "Mecklenburg",
+      "population": 31412
+    },
+    {
+      "name": "New Bern†",
+      "designation": "City",
+      "primary_county": "Craven",
+      "population": 31291
+    },
+    {
+      "name": "Sanford†",
+      "designation": "City",
+      "primary_county": "Lee",
+      "population": 30261
+    },
+    {
+      "name": "Morrisville",
+      "designation": "Town",
+      "primary_county": "Wake",
+      "secondary_counties": [
+        "Durham"
+      ],
+      "population": 29630
+    },
+    {
+      "name": "Matthews",
+      "designation": "Town",
+      "primary_county": "Mecklenburg",
+      "population": 29435
+    },
+    {
+      "name": "Leland",
+      "designation": "Town",
+      "primary_county": "Brunswick",
+      "population": 22908
+    },
+    {
+      "name": "Statesville†",
+      "designation": "City",
+      "primary_county": "Iredell",
+      "population": 28419
+    },
+    {
+      "name": "Clayton",
+      "designation": "Town",
+      "primary_county": "Johnston",
+      "secondary_counties": [
+        "Wake"
+      ],
+      "population": 26307
+    },
+    {
+      "name": "Kernersville",
+      "designation": "Town",
+      "primary_county": "Forsyth",
+      "secondary_counties": [
+        "Guilford"
+      ],
+      "population": 26449
+    },
+    {
+      "name": "Mint Hill",
+      "designation": "Town",
+      "primary_county": "Mecklenburg",
+      "secondary_counties": [
+        "Union"
+      ],
+      "population": 26450
+    },
+    {
+      "name": "Asheboro†",
+      "designation": "City",
+      "primary_county": "Randolph",
+      "population": 27156
+    },
+    {
+      "name": "Thomasville",
+      "designation": "City",
+      "primary_county": "Davidson",
+      "secondary_counties": [
+        "Randolph"
+      ],
+      "population": 27183
+    },
+    {
+      "name": "Waxhaw",
+      "designation": "Town",
+      "primary_county": "Union",
+      "population": 20534
+    },
+    {
+      "name": "Clemmons",
+      "designation": "Village",
+      "primary_county": "Forsyth",
+      "population": 21163
+    },
+    {
+      "name": "Shelby†",
+      "designation": "City",
+      "primary_county": "Cleveland",
+      "population": 21918
+    },
+    {
+      "name": "Carrboro",
+      "designation": "Town",
+      "primary_county": "Orange",
+      "population": 21295
+    },
+    {
+      "name": "Knightdale",
+      "designation": "Town",
+      "primary_county": "Wake",
+      "population": 19435
+    },
+    {
+      "name": "Mebane",
+      "designation": "City",
+      "primary_county": "Alamance",
+      "secondary_counties": [
+        "Orange"
+      ],
+      "population": 17797
+    },
+    {
+      "name": "Harrisburg",
+      "designation": "Town",
+      "primary_county": "Cabarrus",
+      "population": 18967
+    }
+  ]
+}

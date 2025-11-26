@@ -1,0 +1,998 @@
+{
+  "metadata": {
+    "state": "Hawaii",
+    "source": "https://en.wikipedia.org/wiki/List_of_places_in_Hawaii",
+    "scraped_at": "2025-11-24 20:30:39",
+    "scraper_version": "2.0_generic",
+    "description": "Hawaii municipalities scraped from Wikipedia",
+    "total_municipalities": 162,
+    "statistics": {
+      "total_found": 162,
+      "with_population": 162,
+      "with_counties": 162,
+      "unique_counties": 4,
+      "population_stats": {
+        "min": 7,
+        "max": 350964,
+        "average": 8698,
+        "total": 1409203
+      }
+    },
+    "counties": [
+      "Hawaii",
+      "Honolulu",
+      "Kauai",
+      "Maui"
+    ]
+  },
+  "municipalities": [
+    {
+      "rank": 1,
+      "name": "Honolulu ††",
+      "primary_county": "Honolulu",
+      "population": 350964
+    },
+    {
+      "rank": 2,
+      "name": "East Honolulu",
+      "primary_county": "Honolulu",
+      "population": 50922
+    },
+    {
+      "rank": 3,
+      "name": "Pearl City",
+      "primary_county": "Honolulu",
+      "population": 45295
+    },
+    {
+      "rank": 4,
+      "name": "Hilo †",
+      "primary_county": "Hawaii",
+      "population": 44186
+    },
+    {
+      "rank": 5,
+      "name": "Waipahu",
+      "primary_county": "Honolulu",
+      "population": 43485
+    },
+    {
+      "rank": 6,
+      "name": "Kailua",
+      "primary_county": "Honolulu",
+      "population": 40514
+    },
+    {
+      "rank": 7,
+      "name": "Kaneohe",
+      "primary_county": "Honolulu",
+      "population": 37430
+    },
+    {
+      "rank": 8,
+      "name": "Kahului",
+      "primary_county": "Maui",
+      "population": 28219
+    },
+    {
+      "rank": 9,
+      "name": "Mililani Town",
+      "primary_county": "Honolulu",
+      "population": 28121
+    },
+    {
+      "rank": 10,
+      "name": "Ewa Gentry",
+      "primary_county": "Honolulu",
+      "population": 25707
+    },
+    {
+      "rank": 11,
+      "name": "Kihei",
+      "primary_county": "Maui",
+      "population": 21423
+    },
+    {
+      "rank": 12,
+      "name": "Kapolei",
+      "primary_county": "Honolulu",
+      "population": 21411
+    },
+    {
+      "rank": 13,
+      "name": "Mililani Mauka",
+      "primary_county": "Honolulu",
+      "population": 21075
+    },
+    {
+      "rank": 14,
+      "name": "Makakilo",
+      "primary_county": "Honolulu",
+      "population": 19877
+    },
+    {
+      "rank": 15,
+      "name": "Kailua-Kona",
+      "primary_county": "Hawaii",
+      "population": 19713
+    },
+    {
+      "rank": 16,
+      "name": "Wahiawa",
+      "primary_county": "Honolulu",
+      "population": 18658
+    },
+    {
+      "rank": 17,
+      "name": "Wailuku †",
+      "primary_county": "Maui",
+      "population": 17697
+    },
+    {
+      "rank": 18,
+      "name": "Ewa Beach",
+      "primary_county": "Honolulu",
+      "population": 16415
+    },
+    {
+      "rank": 19,
+      "name": "Halawa",
+      "primary_county": "Honolulu",
+      "population": 15016
+    },
+    {
+      "rank": 20,
+      "name": "Ocean Pointe",
+      "primary_county": "Honolulu",
+      "population": 14965
+    },
+    {
+      "rank": 21,
+      "name": "Hawaiian Paradise Park",
+      "primary_county": "Hawaii",
+      "population": 14957
+    },
+    {
+      "rank": 22,
+      "name": "Schofield Barracks",
+      "primary_county": "Honolulu",
+      "population": 14904
+    },
+    {
+      "rank": 23,
+      "name": "Royal Kunia",
+      "primary_county": "Honolulu",
+      "population": 14896
+    },
+    {
+      "rank": 24,
+      "name": "Waimalu",
+      "primary_county": "Honolulu",
+      "population": 13817
+    },
+    {
+      "rank": 25,
+      "name": "Waianae",
+      "primary_county": "Honolulu",
+      "population": 13614
+    },
+    {
+      "rank": 26,
+      "name": "Lahaina",
+      "primary_county": "Maui",
+      "population": 12702
+    },
+    {
+      "rank": 27,
+      "name": "Kaiminani",
+      "primary_county": "Hawaii",
+      "population": 12590
+    },
+    {
+      "rank": 28,
+      "name": "Nanakuli",
+      "primary_county": "Honolulu",
+      "population": 12195
+    },
+    {
+      "rank": 29,
+      "name": "Waipio",
+      "primary_county": "Honolulu",
+      "population": 12082
+    },
+    {
+      "rank": 30,
+      "name": "Kapaa",
+      "primary_county": "Kauai",
+      "population": 11652
+    },
+    {
+      "rank": 31,
+      "name": "Maili",
+      "primary_county": "Honolulu",
+      "population": 11535
+    },
+    {
+      "rank": 32,
+      "name": "Aiea",
+      "primary_county": "Honolulu",
+      "population": 10408
+    },
+    {
+      "rank": 33,
+      "name": "Makaha",
+      "primary_county": "Honolulu",
+      "population": 9916
+    },
+    {
+      "rank": 34,
+      "name": "Waimea",
+      "primary_county": "Hawaii",
+      "population": 9904
+    },
+    {
+      "rank": 35,
+      "name": "Kaneohe Station",
+      "primary_county": "Honolulu",
+      "population": 9483
+    },
+    {
+      "rank": 36,
+      "name": "Waihee-Waiehu",
+      "primary_county": "Maui",
+      "population": 9234
+    },
+    {
+      "rank": 37,
+      "name": "Ahuimanu",
+      "primary_county": "Honolulu",
+      "population": 8969
+    },
+    {
+      "rank": 38,
+      "name": "Haiku-Pauwela",
+      "primary_county": "Maui",
+      "population": 8595
+    },
+    {
+      "rank": 39,
+      "name": "Pukalani",
+      "primary_county": "Maui",
+      "population": 8299
+    },
+    {
+      "rank": 40,
+      "name": "Lihue †",
+      "primary_county": "Kauai",
+      "population": 8004
+    },
+    {
+      "rank": 41,
+      "name": "Ewa Villages",
+      "primary_county": "Honolulu",
+      "population": 7825
+    },
+    {
+      "rank": 42,
+      "name": "Hickam Housing",
+      "primary_county": "Honolulu",
+      "population": 7581
+    },
+    {
+      "rank": 43,
+      "name": "Waikele",
+      "primary_county": "Honolulu",
+      "population": 7509
+    },
+    {
+      "rank": 44,
+      "name": "Makawao",
+      "primary_county": "Maui",
+      "population": 7297
+    },
+    {
+      "rank": 45,
+      "name": "Waikoloa Village",
+      "primary_county": "Hawaii",
+      "population": 7104
+    },
+    {
+      "rank": 46,
+      "name": "Napili-Honokowai",
+      "primary_county": "Maui",
+      "population": 7042
+    },
+    {
+      "rank": 47,
+      "name": "Kula",
+      "primary_county": "Maui",
+      "population": 6942
+    },
+    {
+      "rank": 48,
+      "name": "Waimanalo",
+      "primary_county": "Honolulu",
+      "population": 6057
+    },
+    {
+      "rank": 49,
+      "name": "Wailea",
+      "primary_county": "Maui",
+      "population": 6027
+    },
+    {
+      "rank": 50,
+      "name": "Laie",
+      "primary_county": "Honolulu",
+      "population": 5963
+    },
+    {
+      "rank": 51,
+      "name": "Wailua Homesteads",
+      "primary_county": "Kauai",
+      "population": 5863
+    },
+    {
+      "rank": 52,
+      "name": "Waipio Acres",
+      "primary_county": "Honolulu",
+      "population": 5531
+    },
+    {
+      "rank": 53,
+      "name": "East Kapolei",
+      "primary_county": "Honolulu",
+      "population": 5299
+    },
+    {
+      "rank": 54,
+      "name": "West Loch Estate",
+      "primary_county": "Honolulu",
+      "population": 5523
+    },
+    {
+      "rank": 55,
+      "name": "Kahaluu",
+      "primary_county": "Honolulu",
+      "population": 5241
+    },
+    {
+      "rank": 56,
+      "name": "Pupukea",
+      "primary_county": "Honolulu",
+      "population": 5130
+    },
+    {
+      "rank": 57,
+      "name": "Heeia",
+      "primary_county": "Honolulu",
+      "population": 5001
+    },
+    {
+      "rank": 58,
+      "name": "Kalaheo",
+      "primary_county": "Kauai",
+      "population": 4996
+    },
+    {
+      "rank": 59,
+      "name": "Hanamaulu",
+      "primary_county": "Kauai",
+      "population": 4994
+    },
+    {
+      "rank": 60,
+      "name": "Haleiwa",
+      "primary_county": "Honolulu",
+      "population": 4941
+    },
+    {
+      "rank": 61,
+      "name": "Whitmore Village",
+      "primary_county": "Honolulu",
+      "population": 4887
+    },
+    {
+      "rank": 62,
+      "name": "Hawaiian Ocean View",
+      "primary_county": "Hawaii",
+      "population": 4864
+    },
+    {
+      "rank": 63,
+      "name": "Waimanalo Beach",
+      "primary_county": "Honolulu",
+      "population": 4823
+    },
+    {
+      "rank": 64,
+      "name": "Kahaluu-Keauhou",
+      "primary_county": "Hawaii",
+      "population": 4778
+    },
+    {
+      "rank": 65,
+      "name": "Iroquois Point",
+      "primary_county": "Honolulu",
+      "population": 4549
+    },
+    {
+      "rank": 66,
+      "name": "Mountain View",
+      "primary_county": "Hawaii",
+      "population": 4215
+    },
+    {
+      "rank": 67,
+      "name": "Waialua",
+      "primary_county": "Honolulu",
+      "population": 4062
+    },
+    {
+      "rank": 68,
+      "name": "Hauula",
+      "primary_county": "Honolulu",
+      "population": 4018
+    },
+    {
+      "rank": 69,
+      "name": "Hawaiian Beaches",
+      "primary_county": "Hawaii",
+      "population": 3976
+    },
+    {
+      "rank": 70,
+      "name": "Kekaha",
+      "primary_county": "Kauai",
+      "population": 3715
+    },
+    {
+      "rank": 71,
+      "name": "Ainaloa",
+      "primary_county": "Hawaii",
+      "population": 3609
+    },
+    {
+      "rank": 72,
+      "name": "Waikapu",
+      "primary_county": "Maui",
+      "population": 3437
+    },
+    {
+      "rank": 73,
+      "name": "Hawaiian Acres",
+      "primary_county": "Hawaii",
+      "population": 3426
+    },
+    {
+      "rank": 74,
+      "name": "Kaunakakai",
+      "primary_county": "Maui",
+      "population": 3419
+    },
+    {
+      "rank": 75,
+      "name": "Puhi",
+      "primary_county": "Kauai",
+      "population": 3380
+    },
+    {
+      "rank": 76,
+      "name": "Lanai City",
+      "primary_county": "Maui",
+      "population": 3332
+    },
+    {
+      "rank": 77,
+      "name": "Captain Cook",
+      "primary_county": "Hawaii",
+      "population": 3253
+    },
+    {
+      "rank": 78,
+      "name": "Orchidlands Estates",
+      "primary_county": "Hawaii",
+      "population": 3165
+    },
+    {
+      "rank": 79,
+      "name": "Kilauea",
+      "primary_county": "Kauai",
+      "population": 3014
+    },
+    {
+      "rank": 80,
+      "name": "Holualoa",
+      "primary_county": "Hawaii",
+      "population": 2994
+    },
+    {
+      "rank": 81,
+      "name": "Kahuku",
+      "primary_county": "Honolulu",
+      "population": 2852
+    },
+    {
+      "rank": 82,
+      "name": "Honokaa",
+      "primary_county": "Hawaii",
+      "population": 2699
+    },
+    {
+      "rank": 83,
+      "name": "Hanapepe",
+      "primary_county": "Kauai",
+      "population": 2678
+    },
+    {
+      "rank": 84,
+      "name": "Lawai",
+      "primary_county": "Kauai",
+      "population": 2578
+    },
+    {
+      "rank": 85,
+      "name": "Helemano",
+      "primary_county": "Honolulu",
+      "population": 2549
+    },
+    {
+      "rank": 86,
+      "name": "Eleele",
+      "primary_county": "Kauai",
+      "population": 2515
+    },
+    {
+      "rank": 87,
+      "name": "Kurtistown",
+      "primary_county": "Hawaii",
+      "population": 2515
+    },
+    {
+      "rank": 88,
+      "name": "Paia",
+      "primary_county": "Maui",
+      "population": 2470
+    },
+    {
+      "rank": 89,
+      "name": "Honaunau-Napoopoo",
+      "primary_county": "Hawaii",
+      "population": 2416
+    },
+    {
+      "rank": 90,
+      "name": "Wheeler AFB",
+      "primary_county": "Honolulu",
+      "population": 2412
+    },
+    {
+      "rank": 91,
+      "name": "Kalaeloa",
+      "primary_county": "Honolulu",
+      "population": 2364
+    },
+    {
+      "rank": 92,
+      "name": "Wailua",
+      "primary_county": "Kauai",
+      "population": 2359
+    },
+    {
+      "rank": 93,
+      "name": "Kealakekua",
+      "primary_county": "Hawaii",
+      "population": 2307
+    },
+    {
+      "rank": 94,
+      "name": "Hawi",
+      "primary_county": "Hawaii",
+      "population": 2268
+    },
+    {
+      "rank": 95,
+      "name": "Anahola",
+      "primary_county": "Kauai",
+      "population": 2243
+    },
+    {
+      "rank": 96,
+      "name": "Koloa",
+      "primary_county": "Kauai",
+      "population": 2231
+    },
+    {
+      "rank": 97,
+      "name": "Keokea",
+      "primary_county": "Maui",
+      "population": 2199
+    },
+    {
+      "rank": 98,
+      "name": "Princeville",
+      "primary_county": "Kauai",
+      "population": 2157
+    },
+    {
+      "rank": 99,
+      "name": "Kualapuu",
+      "primary_county": "Maui",
+      "population": 2110
+    },
+    {
+      "rank": 100,
+      "name": "Waimea",
+      "primary_county": "Kauai",
+      "population": 2057
+    },
+    {
+      "rank": 101,
+      "name": "Maunawili",
+      "primary_county": "Honolulu",
+      "population": 2026
+    },
+    {
+      "rank": 102,
+      "name": "Kapaau",
+      "primary_county": "Hawaii",
+      "population": 2008
+    },
+    {
+      "rank": 103,
+      "name": "Ko Olina",
+      "primary_county": "Honolulu",
+      "population": 1999
+    },
+    {
+      "rank": 104,
+      "name": "Fern Acres",
+      "primary_county": "Hawaii",
+      "population": 1965
+    },
+    {
+      "rank": 105,
+      "name": "Pepeekeo",
+      "primary_county": "Hawaii",
+      "population": 1826
+    },
+    {
+      "rank": 106,
+      "name": "Mokuleia",
+      "primary_county": "Honolulu",
+      "population": 1816
+    },
+    {
+      "rank": 107,
+      "name": "Nanawale Estates",
+      "primary_county": "Hawaii",
+      "population": 1652
+    },
+    {
+      "rank": 108,
+      "name": "Hana",
+      "primary_county": "Maui",
+      "population": 1526
+    },
+    {
+      "rank": 109,
+      "name": "Kaaawa",
+      "primary_county": "Honolulu",
+      "population": 1421
+    },
+    {
+      "rank": 110,
+      "name": "Pahala",
+      "primary_county": "Hawaii",
+      "population": 1403
+    },
+    {
+      "rank": 111,
+      "name": "Eden Roc",
+      "primary_county": "Hawaii",
+      "population": 1386
+    },
+    {
+      "rank": 112,
+      "name": "Punaluu",
+      "primary_county": "Honolulu",
+      "population": 1374
+    },
+    {
+      "rank": 113,
+      "name": "Omao",
+      "primary_county": "Kauai",
+      "population": 1346
+    },
+    {
+      "rank": 114,
+      "name": "Kaloko",
+      "primary_county": "Hawaii",
+      "population": 1314
+    },
+    {
+      "rank": 115,
+      "name": "Poipu",
+      "primary_county": "Kauai",
+      "population": 1299
+    },
+    {
+      "rank": 116,
+      "name": "Keaau",
+      "primary_county": "Hawaii",
+      "population": 1195
+    },
+    {
+      "rank": 117,
+      "name": "Olinda",
+      "primary_county": "Maui",
+      "population": 1188
+    },
+    {
+      "rank": 118,
+      "name": "Discovery Harbour",
+      "primary_county": "Hawaii",
+      "population": 1171
+    },
+    {
+      "rank": 119,
+      "name": "Papaikou",
+      "primary_county": "Hawaii",
+      "population": 1166
+    },
+    {
+      "rank": 120,
+      "name": "Kaanapali",
+      "primary_county": "Maui",
+      "population": 1161
+    },
+    {
+      "rank": 121,
+      "name": "Fern Forest",
+      "primary_county": "Hawaii",
+      "population": 1150
+    },
+    {
+      "name": "Wainaku",
+      "primary_county": "Hawaii",
+      "population": 1147
+    },
+    {
+      "name": "Laupahoehoe",
+      "primary_county": "Hawaii",
+      "population": 1147
+    },
+    {
+      "rank": 124,
+      "name": "Leilani Estates",
+      "primary_county": "Hawaii",
+      "population": 1139
+    },
+    {
+      "rank": 125,
+      "name": "Haliimaile",
+      "primary_county": "Maui",
+      "population": 1074
+    },
+    {
+      "rank": 126,
+      "name": "Honalo",
+      "primary_county": "Hawaii",
+      "population": 996
+    },
+    {
+      "rank": 127,
+      "name": "Pahoa",
+      "primary_county": "Hawaii",
+      "population": 924
+    },
+    {
+      "rank": 128,
+      "name": "Mahinahina",
+      "primary_county": "Maui",
+      "population": 880
+    },
+    {
+      "rank": 129,
+      "name": "Naalehu",
+      "primary_county": "Hawaii",
+      "population": 811
+    },
+    {
+      "rank": 130,
+      "name": "Royal Hawaiian Estates",
+      "primary_county": "Hawaii",
+      "population": 790
+    },
+    {
+      "rank": 131,
+      "name": "Halaula",
+      "primary_county": "Hawaii",
+      "population": 773
+    },
+    {
+      "rank": 132,
+      "name": "Waikoloa Beach Resort",
+      "primary_county": "Hawaii",
+      "population": 757
+    },
+    {
+      "rank": 133,
+      "name": "Volcano",
+      "primary_county": "Hawaii",
+      "population": 736
+    },
+    {
+      "rank": 134,
+      "name": "Waikane",
+      "primary_county": "Honolulu",
+      "population": 728
+    },
+    {
+      "rank": 135,
+      "name": "Launiupoko",
+      "primary_county": "Maui",
+      "population": 688
+    },
+    {
+      "rank": 136,
+      "name": "Kaumakani",
+      "primary_county": "Kauai",
+      "population": 672
+    },
+    {
+      "rank": 137,
+      "name": "Paauilo",
+      "primary_county": "Hawaii",
+      "population": 618
+    },
+    {
+      "rank": 138,
+      "name": "Tiki Gardens",
+      "primary_county": "Hawaii",
+      "population": 555
+    },
+    {
+      "rank": 139,
+      "name": "Haena",
+      "primary_county": "Kauai",
+      "population": 550
+    },
+    {
+      "rank": 140,
+      "name": "Seaview",
+      "primary_county": "Hawaii",
+      "population": 512
+    },
+    {
+      "rank": 141,
+      "name": "Kapalua",
+      "primary_county": "Maui",
+      "population": 495
+    },
+    {
+      "rank": 142,
+      "name": "Honomu",
+      "primary_county": "Hawaii",
+      "population": 452
+    },
+    {
+      "rank": 143,
+      "name": "Hanalei",
+      "primary_county": "Kauai",
+      "population": 444
+    },
+    {
+      "rank": 144,
+      "name": "Maunaloa",
+      "primary_county": "Maui",
+      "population": 435
+    },
+    {
+      "rank": 145,
+      "name": "Paukaa",
+      "primary_county": "Hawaii",
+      "population": 434
+    },
+    {
+      "rank": 146,
+      "name": "Wainiha",
+      "primary_county": "Kauai",
+      "population": 419
+    },
+    {
+      "rank": 147,
+      "name": "Black Sands",
+      "primary_county": "Hawaii",
+      "population": 416
+    },
+    {
+      "rank": 148,
+      "name": "Ualapu'e",
+      "primary_county": "Maui",
+      "population": 393
+    },
+    {
+      "rank": 149,
+      "name": "Volcano Golf Course",
+      "primary_county": "Hawaii",
+      "population": 363
+    },
+    {
+      "rank": 150,
+      "name": "Kalihiwai",
+      "primary_county": "Kauai",
+      "population": 361
+    },
+    {
+      "rank": 151,
+      "name": "Kawela Bay",
+      "primary_county": "Honolulu",
+      "population": 325
+    },
+    {
+      "rank": 152,
+      "name": "Maalaea",
+      "primary_county": "Maui",
+      "population": 310
+    },
+    {
+      "rank": 153,
+      "name": "Pakala Village",
+      "primary_county": "Kauai",
+      "population": 286
+    },
+    {
+      "rank": 154,
+      "name": "Kukuihaele",
+      "primary_county": "Hawaii",
+      "population": 281
+    },
+    {
+      "rank": 155,
+      "name": "Puako",
+      "primary_county": "Hawaii",
+      "population": 267
+    },
+    {
+      "name": "Makaha Valley",
+      "primary_county": "Honolulu",
+      "population": 198
+    },
+    {
+      "name": "Waiohinu",
+      "primary_county": "Hawaii",
+      "population": 198
+    },
+    {
+      "rank": 158,
+      "name": "Makena",
+      "primary_county": "Maui",
+      "population": 196
+    },
+    {
+      "rank": 159,
+      "name": "Kalapana",
+      "primary_county": "Hawaii",
+      "population": 167
+    },
+    {
+      "rank": 160,
+      "name": "Kamāʻili",
+      "primary_county": "Hawaii",
+      "population": 157
+    },
+    {
+      "rank": 161,
+      "name": "Olowalu",
+      "primary_county": "Maui",
+      "population": 100
+    },
+    {
+      "rank": 162,
+      "name": "Manele",
+      "primary_county": "Maui",
+      "population": 7
+    }
+  ]
+}

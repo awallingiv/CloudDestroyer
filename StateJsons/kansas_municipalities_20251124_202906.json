@@ -1,0 +1,429 @@
+{
+  "metadata": {
+    "state": "Kansas",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_Kansas",
+    "scraped_at": "2025-11-24 20:29:06",
+    "scraper_version": "2.0_generic",
+    "description": "Kansas municipalities scraped from Wikipedia",
+    "total_municipalities": 73,
+    "statistics": {
+      "total_found": 73,
+      "with_population": 0,
+      "with_counties": 73,
+      "unique_counties": 43,
+      "population_stats": {}
+    },
+    "counties": [
+      "Allen",
+      "Atchison",
+      "Barton",
+      "Bourbon",
+      "Butler",
+      "Clay",
+      "Cloud",
+      "Cowley",
+      "Crawford",
+      "Dickinson",
+      "Douglas",
+      "Ellis",
+      "Finney",
+      "Ford",
+      "Franklin",
+      "Geary",
+      "Grant",
+      "Harvey",
+      "Johnson",
+      "JohnsonLeavenworth",
+      "JohnsonMiami",
+      "Labette",
+      "Leavenworth",
+      "Lyon",
+      "McPherson",
+      "Miami",
+      "Montgomery",
+      "Neosho",
+      "PottawatomieWabaunsee",
+      "Pratt",
+      "Reno",
+      "RileyPottawatomie",
+      "Russell",
+      "Saline",
+      "Sedgwick",
+      "Seward",
+      "Shawnee",
+      "Sherman",
+      "Sumner",
+      "SumnerSedgwick",
+      "Thomas",
+      "Wyandotte",
+      "WyandotteJohnsonLeavenworth"
+    ]
+  },
+  "municipalities": [
+    {
+      "rank": 1,
+      "name": "Wichita †",
+      "primary_county": "Sedgwick"
+    },
+    {
+      "rank": 2,
+      "name": "Overland Park",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 3,
+      "name": "Kansas City †",
+      "primary_county": "Wyandotte"
+    },
+    {
+      "rank": 4,
+      "name": "Olathe †",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 5,
+      "name": "Topeka ††",
+      "primary_county": "Shawnee"
+    },
+    {
+      "rank": 6,
+      "name": "Lawrence †",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 7,
+      "name": "Shawnee",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 8,
+      "name": "Lenexa",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 9,
+      "name": "Manhattan †",
+      "primary_county": "RileyPottawatomie"
+    },
+    {
+      "rank": 10,
+      "name": "Salina †",
+      "primary_county": "Saline"
+    },
+    {
+      "rank": 11,
+      "name": "Hutchinson †",
+      "primary_county": "Reno"
+    },
+    {
+      "rank": 12,
+      "name": "Leavenworth †",
+      "primary_county": "Leavenworth"
+    },
+    {
+      "rank": 13,
+      "name": "Leawood",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 14,
+      "name": "Dodge City †",
+      "primary_county": "Ford"
+    },
+    {
+      "rank": 15,
+      "name": "Garden City †",
+      "primary_county": "Finney"
+    },
+    {
+      "rank": 16,
+      "name": "Derby",
+      "primary_county": "Sedgwick"
+    },
+    {
+      "rank": 17,
+      "name": "Gardner",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 18,
+      "name": "Emporia †",
+      "primary_county": "Lyon"
+    },
+    {
+      "rank": 19,
+      "name": "Prairie Village",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 20,
+      "name": "Junction City †",
+      "primary_county": "Geary"
+    },
+    {
+      "rank": 21,
+      "name": "Hays †",
+      "primary_county": "Ellis"
+    },
+    {
+      "rank": 22,
+      "name": "Pittsburg",
+      "primary_county": "Crawford"
+    },
+    {
+      "rank": 23,
+      "name": "Liberal †",
+      "primary_county": "Seward"
+    },
+    {
+      "rank": 24,
+      "name": "Newton †",
+      "primary_county": "Harvey"
+    },
+    {
+      "rank": 25,
+      "name": "Andover",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 26,
+      "name": "Great Bend †",
+      "primary_county": "Barton"
+    },
+    {
+      "rank": 27,
+      "name": "McPherson †",
+      "primary_county": "McPherson"
+    },
+    {
+      "rank": 28,
+      "name": "El Dorado †",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 29,
+      "name": "Ottawa †",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 30,
+      "name": "Arkansas City",
+      "primary_county": "Cowley"
+    },
+    {
+      "rank": 31,
+      "name": "Winfield †",
+      "primary_county": "Cowley"
+    },
+    {
+      "rank": 32,
+      "name": "Haysville",
+      "primary_county": "Sedgwick"
+    },
+    {
+      "rank": 33,
+      "name": "Lansing",
+      "primary_county": "Leavenworth"
+    },
+    {
+      "rank": 34,
+      "name": "Merriam",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 35,
+      "name": "Atchison †",
+      "primary_county": "Atchison"
+    },
+    {
+      "rank": 36,
+      "name": "Mission",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 37,
+      "name": "Spring Hill",
+      "primary_county": "JohnsonMiami"
+    },
+    {
+      "rank": 38,
+      "name": "Bel Aire",
+      "primary_county": "Sedgwick"
+    },
+    {
+      "rank": 39,
+      "name": "Parsons",
+      "primary_county": "Labette"
+    },
+    {
+      "rank": 40,
+      "name": "Augusta",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 41,
+      "name": "Park City",
+      "primary_county": "Sedgwick"
+    },
+    {
+      "rank": 42,
+      "name": "Coffeyville",
+      "primary_county": "Montgomery"
+    },
+    {
+      "rank": 43,
+      "name": "Chanute",
+      "primary_county": "Neosho"
+    },
+    {
+      "rank": 44,
+      "name": "Independence †",
+      "primary_county": "Montgomery"
+    },
+    {
+      "rank": 45,
+      "name": "Basehor",
+      "primary_county": "Leavenworth"
+    },
+    {
+      "rank": 46,
+      "name": "Bonner Springs",
+      "primary_county": "WyandotteJohnsonLeavenworth"
+    },
+    {
+      "rank": 47,
+      "name": "Wellington †",
+      "primary_county": "Sumner"
+    },
+    {
+      "rank": 48,
+      "name": "Fort Scott †",
+      "primary_county": "Bourbon"
+    },
+    {
+      "rank": 49,
+      "name": "Valley Center",
+      "primary_county": "Sedgwick"
+    },
+    {
+      "rank": 50,
+      "name": "Mulvane",
+      "primary_county": "SumnerSedgwick"
+    },
+    {
+      "rank": 51,
+      "name": "Maize",
+      "primary_county": "Sedgwick"
+    },
+    {
+      "rank": 52,
+      "name": "Roeland Park",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 53,
+      "name": "Pratt †",
+      "primary_county": "Pratt"
+    },
+    {
+      "rank": 54,
+      "name": "De Soto",
+      "primary_county": "JohnsonLeavenworth"
+    },
+    {
+      "rank": 55,
+      "name": "Eudora",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 56,
+      "name": "Abilene †",
+      "primary_county": "Dickinson"
+    },
+    {
+      "rank": 57,
+      "name": "Tonganoxie",
+      "primary_county": "Leavenworth"
+    },
+    {
+      "rank": 58,
+      "name": "Paola †",
+      "primary_county": "Miami"
+    },
+    {
+      "rank": 59,
+      "name": "Goddard",
+      "primary_county": "Sedgwick"
+    },
+    {
+      "rank": 60,
+      "name": "Ulysses †",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 61,
+      "name": "Colby †",
+      "primary_county": "Thomas"
+    },
+    {
+      "rank": 62,
+      "name": "Iola †",
+      "primary_county": "Allen"
+    },
+    {
+      "rank": 63,
+      "name": "Louisburg",
+      "primary_county": "Miami"
+    },
+    {
+      "rank": 64,
+      "name": "Concordia †",
+      "primary_county": "Cloud"
+    },
+    {
+      "rank": 65,
+      "name": "Baldwin City",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 66,
+      "name": "Wamego",
+      "primary_county": "PottawatomieWabaunsee"
+    },
+    {
+      "rank": 67,
+      "name": "Edwardsville",
+      "primary_county": "Wyandotte"
+    },
+    {
+      "rank": 68,
+      "name": "Goodland †",
+      "primary_county": "Sherman"
+    },
+    {
+      "rank": 69,
+      "name": "Russell †",
+      "primary_county": "Russell"
+    },
+    {
+      "rank": 70,
+      "name": "Rose Hill",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 71,
+      "name": "Osawatomie",
+      "primary_county": "Miami"
+    },
+    {
+      "rank": 72,
+      "name": "Fairway",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 73,
+      "name": "Clay Center †",
+      "primary_county": "Clay"
+    }
+  ]
+}

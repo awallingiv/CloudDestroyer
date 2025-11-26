@@ -1,0 +1,1456 @@
+{
+  "metadata": {
+    "state": "South Carolina",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_South_Carolina",
+    "scraped_at": "2025-11-24 20:29:45",
+    "scraper_version": "2.0_generic",
+    "description": "South Carolina municipalities scraped from Wikipedia",
+    "total_municipalities": 274,
+    "statistics": {
+      "total_found": 274,
+      "with_population": 0,
+      "with_counties": 273,
+      "unique_counties": 67,
+      "population_stats": {}
+    },
+    "counties": [
+      "Abbeville",
+      "Aiken",
+      "AikenEdgefield",
+      "AikenSaluda",
+      "Allendale",
+      "Anderson",
+      "AndersonAbbeville",
+      "Bamberg",
+      "Barnwell",
+      "Beaufort",
+      "BeaufortHampton",
+      "Berkeley",
+      "BerkeleyCharleston",
+      "Calhoun",
+      "Charleston",
+      "CharlestonBerkeley",
+      "CharlestonBerkeleyDorchester",
+      "CharlestonDorchester",
+      "Cherokee",
+      "Chester",
+      "Chesterfield",
+      "Clarendon",
+      "Colleton",
+      "Darlington",
+      "Dillon",
+      "Dorchester",
+      "DorchesterBerkeleyCharleston",
+      "Edgefield",
+      "Fairfield",
+      "Florence",
+      "Georgetown",
+      "GeorgetownWilliamsburg",
+      "Greenville",
+      "GreenvilleLaurens",
+      "GreenvilleSpartanburg",
+      "Greenwood",
+      "GreenwoodAbbevilleLaurens",
+      "Hampton",
+      "Horry",
+      "Jasper",
+      "Kershaw",
+      "Lancaster",
+      "Laurens",
+      "Lee",
+      "Lexington",
+      "LexingtonRichland",
+      "LexingtonSaluda",
+      "Marion",
+      "Marlboro",
+      "McCormick",
+      "Newberry",
+      "Oconee",
+      "Orangeburg",
+      "Pickens",
+      "PickensAnderson",
+      "Richland",
+      "RichlandFairfield",
+      "RichlandLexington",
+      "Saluda",
+      "Spartanburg",
+      "SpartanburgCherokee",
+      "Sumter",
+      "Union",
+      "Williamsburg",
+      "York",
+      "YorkCherokee",
+      "—"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi"
+    },
+    {
+      "name": "Abbeville†",
+      "designation": "Council–manager",
+      "primary_county": "Abbeville"
+    },
+    {
+      "name": "Aiken†",
+      "designation": "Council–manager",
+      "primary_county": "Aiken"
+    },
+    {
+      "name": "Allendale†",
+      "designation": "Council",
+      "primary_county": "Allendale"
+    },
+    {
+      "name": "Anderson†",
+      "designation": "Council–manager",
+      "primary_county": "Anderson"
+    },
+    {
+      "name": "Andrews",
+      "designation": "Mayor–council",
+      "primary_county": "GeorgetownWilliamsburg"
+    },
+    {
+      "name": "Arcadia Lakes",
+      "designation": "Council",
+      "primary_county": "Richland"
+    },
+    {
+      "name": "Atlantic Beach",
+      "designation": "Council–manager",
+      "primary_county": "Horry"
+    },
+    {
+      "name": "Awendaw",
+      "designation": "Council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "Aynor",
+      "designation": "Mayor–council",
+      "primary_county": "Horry"
+    },
+    {
+      "name": "Bamberg†",
+      "designation": "Mayor–council",
+      "primary_county": "Bamberg"
+    },
+    {
+      "name": "Barnwell†",
+      "designation": "Council",
+      "primary_county": "Barnwell"
+    },
+    {
+      "name": "Batesburg-Leesville",
+      "designation": "Council–manager",
+      "primary_county": "LexingtonSaluda"
+    },
+    {
+      "name": "Beaufort†",
+      "designation": "Council–manager",
+      "primary_county": "Beaufort"
+    },
+    {
+      "name": "Belton",
+      "designation": "Council",
+      "primary_county": "Anderson"
+    },
+    {
+      "name": "Bennettsville†",
+      "designation": "Council",
+      "primary_county": "Marlboro"
+    },
+    {
+      "name": "Bethune",
+      "designation": "Mayor–council",
+      "primary_county": "Kershaw"
+    },
+    {
+      "name": "Bishopville†",
+      "designation": "Council",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Blacksburg",
+      "designation": "Council",
+      "primary_county": "Cherokee"
+    },
+    {
+      "name": "Blackville",
+      "designation": "Mayor–council",
+      "primary_county": "Barnwell"
+    },
+    {
+      "name": "Blenheim",
+      "designation": "Mayor–council",
+      "primary_county": "Marlboro"
+    },
+    {
+      "name": "Bluffton",
+      "designation": "Council–manager",
+      "primary_county": "Beaufort"
+    },
+    {
+      "name": "Blythewood",
+      "designation": "Mayor–council",
+      "primary_county": "RichlandFairfield"
+    },
+    {
+      "name": "Bonneau",
+      "designation": "Mayor–council",
+      "primary_county": "Berkeley"
+    },
+    {
+      "name": "Bowman",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Branchville",
+      "designation": "Council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Briarcliffe Acres",
+      "designation": "Mayor–council",
+      "primary_county": "Horry"
+    },
+    {
+      "name": "Brunson",
+      "designation": "Mayor–council",
+      "primary_county": "Hampton"
+    },
+    {
+      "name": "Burnettown",
+      "designation": "Mayor–council",
+      "primary_county": "Aiken"
+    },
+    {
+      "name": "Calhoun Falls",
+      "designation": "Council",
+      "primary_county": "Abbeville"
+    },
+    {
+      "name": "Camden†",
+      "designation": "Council–manager",
+      "primary_county": "Kershaw"
+    },
+    {
+      "name": "Cameron",
+      "designation": "Mayor–council",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Campobello",
+      "designation": "Council",
+      "primary_county": "Spartanburg"
+    },
+    {
+      "name": "Carlisle",
+      "designation": "Council",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Cayce",
+      "designation": "Council–manager",
+      "primary_county": "LexingtonRichland"
+    },
+    {
+      "name": "Central",
+      "designation": "Council",
+      "primary_county": "Pickens"
+    },
+    {
+      "name": "Central Pacolet",
+      "designation": "Mayor–council",
+      "primary_county": "Spartanburg"
+    },
+    {
+      "name": "Chapin",
+      "designation": "Mayor–council",
+      "primary_county": "Lexington"
+    },
+    {
+      "name": "Charleston†",
+      "designation": "Mayor–council",
+      "primary_county": "CharlestonBerkeley"
+    },
+    {
+      "name": "Cheraw",
+      "designation": "Mayor–council",
+      "primary_county": "Chesterfield"
+    },
+    {
+      "name": "Chesnee",
+      "designation": "Mayor–council",
+      "primary_county": "SpartanburgCherokee"
+    },
+    {
+      "name": "Chester†",
+      "designation": "Council",
+      "primary_county": "Chester"
+    },
+    {
+      "name": "Chesterfield†",
+      "designation": "Mayor–council",
+      "primary_county": "Chesterfield"
+    },
+    {
+      "name": "Clemson",
+      "designation": "Council",
+      "primary_county": "PickensAnderson"
+    },
+    {
+      "name": "Clinton",
+      "designation": "Council–manager",
+      "primary_county": "Laurens"
+    },
+    {
+      "name": "Clio",
+      "designation": "Council",
+      "primary_county": "Marlboro"
+    },
+    {
+      "name": "Clover",
+      "designation": "Council",
+      "primary_county": "York"
+    },
+    {
+      "name": "Columbia‡",
+      "designation": "Council–manager",
+      "primary_county": "RichlandLexington"
+    },
+    {
+      "name": "Conway†",
+      "designation": "Council",
+      "primary_county": "Horry"
+    },
+    {
+      "name": "Cope",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Cordova",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Cottageville",
+      "designation": "Mayor–council",
+      "primary_county": "Colleton"
+    },
+    {
+      "name": "Coward",
+      "designation": "Council",
+      "primary_county": "Florence"
+    },
+    {
+      "name": "Cowpens",
+      "designation": "Council",
+      "primary_county": "Spartanburg"
+    },
+    {
+      "name": "Cross Hill",
+      "designation": "Mayor–council",
+      "primary_county": "Laurens"
+    },
+    {
+      "name": "Darlington†",
+      "designation": "Council–manager",
+      "primary_county": "Darlington"
+    },
+    {
+      "name": "Denmark",
+      "designation": "Mayor–council",
+      "primary_county": "Bamberg"
+    },
+    {
+      "name": "Dillon†",
+      "designation": "Council–manager",
+      "primary_county": "Dillon"
+    },
+    {
+      "name": "Donalds",
+      "designation": "Mayor–council",
+      "primary_county": "Abbeville"
+    },
+    {
+      "name": "Due West",
+      "designation": "Mayor–council",
+      "primary_county": "Abbeville"
+    },
+    {
+      "name": "Duncan",
+      "designation": "Council",
+      "primary_county": "Spartanburg"
+    },
+    {
+      "name": "Easley",
+      "designation": "Mayor–council",
+      "primary_county": "PickensAnderson"
+    },
+    {
+      "name": "Eastover",
+      "designation": "Mayor–council",
+      "primary_county": "Richland"
+    },
+    {
+      "name": "Edgefield†",
+      "designation": "Mayor–council",
+      "primary_county": "Edgefield"
+    },
+    {
+      "name": "Edisto Beach",
+      "designation": "Council",
+      "primary_county": "Colleton"
+    },
+    {
+      "name": "Ehrhardt",
+      "designation": "Mayor–council",
+      "primary_county": "Bamberg"
+    },
+    {
+      "name": "Elgin",
+      "designation": "Mayor–council",
+      "primary_county": "Kershaw"
+    },
+    {
+      "name": "Elko",
+      "designation": "Mayor–council",
+      "primary_county": "Barnwell"
+    },
+    {
+      "name": "Elloree",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Estill",
+      "designation": "Council",
+      "primary_county": "Hampton"
+    },
+    {
+      "name": "Eutawville",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Fairfax",
+      "designation": "Council",
+      "primary_county": "Allendale"
+    },
+    {
+      "name": "Florence†",
+      "designation": "Council–manager",
+      "primary_county": "Florence"
+    },
+    {
+      "name": "Folly Beach",
+      "designation": "Mayor–council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "Forest Acres",
+      "designation": "Council",
+      "primary_county": "Richland"
+    },
+    {
+      "name": "Fort Lawn",
+      "designation": "Mayor–council",
+      "primary_county": "Chester"
+    },
+    {
+      "name": "Fort Mill",
+      "designation": "Council–manager",
+      "primary_county": "York"
+    },
+    {
+      "name": "Fountain Inn",
+      "designation": "Mayor–council",
+      "primary_county": "GreenvilleLaurens"
+    },
+    {
+      "name": "Furman",
+      "designation": "Council",
+      "primary_county": "Hampton"
+    },
+    {
+      "name": "Gaffney†",
+      "designation": "Council",
+      "primary_county": "Cherokee"
+    },
+    {
+      "name": "Gaston",
+      "designation": "Mayor–council",
+      "primary_county": "Lexington"
+    },
+    {
+      "name": "Georgetown†",
+      "designation": "Mayor–council",
+      "primary_county": "Georgetown"
+    },
+    {
+      "name": "Gifford",
+      "designation": "Mayor–council",
+      "primary_county": "Hampton"
+    },
+    {
+      "name": "Gilbert",
+      "designation": "Council",
+      "primary_county": "Lexington"
+    },
+    {
+      "name": "Goose Creek",
+      "designation": "Mayor–council",
+      "primary_county": "BerkeleyCharleston"
+    },
+    {
+      "name": "Govan",
+      "designation": "Mayor–council",
+      "primary_county": "Bamberg"
+    },
+    {
+      "name": "Gray Court",
+      "designation": "Mayor–council",
+      "primary_county": "Laurens"
+    },
+    {
+      "name": "Great Falls",
+      "designation": "Council",
+      "primary_county": "Chester"
+    },
+    {
+      "name": "Greeleyville",
+      "designation": "Mayor–council",
+      "primary_county": "Williamsburg"
+    },
+    {
+      "name": "Greenville†",
+      "designation": "Council–manager",
+      "primary_county": "Greenville"
+    },
+    {
+      "name": "Greenwood†",
+      "designation": "Council–manager",
+      "primary_county": "Greenwood"
+    },
+    {
+      "name": "Greer",
+      "designation": "Council",
+      "primary_county": "GreenvilleSpartanburg"
+    },
+    {
+      "name": "Hampton†",
+      "designation": "Council",
+      "primary_county": "Hampton"
+    },
+    {
+      "name": "Hanahan",
+      "designation": "Council",
+      "primary_county": "Berkeley"
+    },
+    {
+      "name": "Hardeeville",
+      "designation": "Council–manager",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Harleyville",
+      "designation": "Mayor–council",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "Hartsville",
+      "designation": "Council–manager",
+      "primary_county": "Darlington"
+    },
+    {
+      "name": "Heath Springs",
+      "designation": "Council",
+      "primary_county": "Lancaster"
+    },
+    {
+      "name": "Hemingway",
+      "designation": "Council",
+      "primary_county": "Williamsburg"
+    },
+    {
+      "name": "Hickory Grove",
+      "designation": "Mayor–council",
+      "primary_county": "York"
+    },
+    {
+      "name": "Hilda",
+      "designation": "Mayor–council",
+      "primary_county": "Barnwell"
+    },
+    {
+      "name": "Hilton Head Island",
+      "designation": "Council–manager",
+      "primary_county": "Beaufort"
+    },
+    {
+      "name": "Hodges",
+      "designation": "Mayor–council",
+      "primary_county": "Greenwood"
+    },
+    {
+      "name": "Holly Hill",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Hollywood",
+      "designation": "Mayor–council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "Honea Path",
+      "designation": "Mayor–council",
+      "primary_county": "AndersonAbbeville"
+    },
+    {
+      "name": "Inman",
+      "designation": "Council",
+      "primary_county": "Spartanburg"
+    },
+    {
+      "name": "Irmo",
+      "designation": "Council",
+      "primary_county": "LexingtonRichland"
+    },
+    {
+      "name": "Isle of Palms",
+      "designation": "Council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "Iva",
+      "designation": "Mayor–council",
+      "primary_county": "Anderson"
+    },
+    {
+      "name": "Jackson",
+      "designation": "Mayor–council",
+      "primary_county": "Aiken"
+    },
+    {
+      "name": "James Island[a]",
+      "designation": "Mayor–council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "Jamestown",
+      "designation": "Mayor–council",
+      "primary_county": "Berkeley"
+    },
+    {
+      "name": "Jefferson",
+      "designation": "Council",
+      "primary_county": "Chesterfield"
+    },
+    {
+      "name": "Jenkinsville",
+      "designation": "Mayor–council",
+      "primary_county": "Fairfield"
+    },
+    {
+      "name": "Johnsonville",
+      "designation": "Council",
+      "primary_county": "Florence"
+    },
+    {
+      "name": "Johnston",
+      "designation": "Mayor–council",
+      "primary_county": "Edgefield"
+    },
+    {
+      "name": "Jonesville",
+      "designation": "Council",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Kershaw",
+      "designation": "Council",
+      "primary_county": "Lancaster"
+    },
+    {
+      "name": "Kiawah Island",
+      "designation": "Mayor–council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "Kingstree†",
+      "designation": "Council–manager",
+      "primary_county": "Williamsburg"
+    },
+    {
+      "name": "Kline",
+      "designation": "Mayor–council",
+      "primary_county": "Barnwell"
+    },
+    {
+      "name": "Lake City",
+      "designation": "Mayor–council",
+      "primary_county": "Florence"
+    },
+    {
+      "name": "Lake View",
+      "designation": "Mayor–council",
+      "primary_county": "Dillon"
+    },
+    {
+      "name": "Lamar",
+      "designation": "Mayor–council",
+      "primary_county": "Darlington"
+    },
+    {
+      "name": "Lancaster†",
+      "designation": "Council",
+      "primary_county": "Lancaster"
+    },
+    {
+      "name": "Landrum",
+      "designation": "Council",
+      "primary_county": "Spartanburg"
+    },
+    {
+      "name": "Lane",
+      "designation": "Mayor–council",
+      "primary_county": "Williamsburg"
+    },
+    {
+      "name": "Latta",
+      "designation": "Council",
+      "primary_county": "Dillon"
+    },
+    {
+      "name": "Laurens†",
+      "designation": "Mayor–council",
+      "primary_county": "Laurens"
+    },
+    {
+      "name": "Lexington†",
+      "designation": "Council",
+      "primary_county": "Lexington"
+    },
+    {
+      "name": "Liberty",
+      "designation": "Mayor–council",
+      "primary_county": "Pickens"
+    },
+    {
+      "name": "Lincolnville",
+      "designation": "Mayor–council",
+      "primary_county": "CharlestonDorchester"
+    },
+    {
+      "name": "Little Mountain",
+      "designation": "Mayor–council",
+      "primary_county": "Newberry"
+    },
+    {
+      "name": "Livingston",
+      "designation": "Council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Lockhart",
+      "designation": "Mayor–council",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Lodge",
+      "designation": "Mayor–council",
+      "primary_county": "Colleton"
+    },
+    {
+      "name": "Loris",
+      "designation": "Council",
+      "primary_county": "Horry"
+    },
+    {
+      "name": "Lowndesville",
+      "designation": "Mayor–council",
+      "primary_county": "Abbeville"
+    },
+    {
+      "name": "Lowrys",
+      "designation": "Mayor–council",
+      "primary_county": "Chester"
+    },
+    {
+      "name": "Luray",
+      "designation": "Mayor–council",
+      "primary_county": "Hampton"
+    },
+    {
+      "name": "Lyman",
+      "designation": "Council",
+      "primary_county": "Spartanburg"
+    },
+    {
+      "name": "Lynchburg",
+      "designation": "Council",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "McBee",
+      "designation": "Council",
+      "primary_county": "Chesterfield"
+    },
+    {
+      "name": "McClellanville",
+      "designation": "Council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "McColl",
+      "designation": "Mayor–council",
+      "primary_county": "Marlboro"
+    },
+    {
+      "name": "McConnells",
+      "designation": "Council",
+      "primary_county": "York"
+    },
+    {
+      "name": "McCormick†",
+      "designation": "Mayor–council",
+      "primary_county": "McCormick"
+    },
+    {
+      "name": "Manning†",
+      "designation": "Council",
+      "primary_county": "Clarendon"
+    },
+    {
+      "name": "Marion†",
+      "designation": "Mayor–council",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Mauldin",
+      "designation": "Council",
+      "primary_county": "Greenville"
+    },
+    {
+      "name": "Mayesville",
+      "designation": "Mayor–council",
+      "primary_county": "Sumter"
+    },
+    {
+      "name": "Meggett",
+      "designation": "Mayor–council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "Moncks Corner†",
+      "designation": "Mayor–council",
+      "primary_county": "Berkeley"
+    },
+    {
+      "name": "Monetta",
+      "designation": "Mayor–council",
+      "primary_county": "AikenSaluda"
+    },
+    {
+      "name": "Mount Croghan",
+      "designation": "Council",
+      "primary_county": "Chesterfield"
+    },
+    {
+      "name": "Mount Pleasant",
+      "designation": "Council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "Mullins",
+      "designation": "Council",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Myrtle Beach",
+      "designation": "Council–manager",
+      "primary_county": "Horry"
+    },
+    {
+      "name": "Neeses",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Newberry†",
+      "designation": "Council–manager",
+      "primary_county": "Newberry"
+    },
+    {
+      "name": "New Ellenton",
+      "designation": "Council",
+      "primary_county": "Aiken"
+    },
+    {
+      "name": "Nichols",
+      "designation": "Mayor–council",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Ninety Six",
+      "designation": "Mayor–council",
+      "primary_county": "Greenwood"
+    },
+    {
+      "name": "Norris",
+      "designation": "Council",
+      "primary_county": "Pickens"
+    },
+    {
+      "name": "North",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "North Augusta",
+      "designation": "Mayor–council",
+      "primary_county": "AikenEdgefield"
+    },
+    {
+      "name": "North Charleston",
+      "designation": "Mayor–council",
+      "primary_county": "CharlestonBerkeleyDorchester"
+    },
+    {
+      "name": "North Myrtle Beach",
+      "designation": "Council–manager",
+      "primary_county": "Horry"
+    },
+    {
+      "name": "Norway",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Olanta",
+      "designation": "Mayor–council",
+      "primary_county": "Florence"
+    },
+    {
+      "name": "Olar",
+      "designation": "Mayor–council",
+      "primary_county": "Bamberg"
+    },
+    {
+      "name": "Orangeburg†",
+      "designation": "Council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Pacolet",
+      "designation": "Council",
+      "primary_county": "Spartanburg"
+    },
+    {
+      "name": "Pageland",
+      "designation": "Council",
+      "primary_county": "Chesterfield"
+    },
+    {
+      "name": "Pamplico",
+      "designation": "Council",
+      "primary_county": "Florence"
+    },
+    {
+      "name": "Parksville",
+      "designation": "Mayor–council",
+      "primary_county": "McCormick"
+    },
+    {
+      "name": "Patrick",
+      "designation": "Mayor–council",
+      "primary_county": "Chesterfield"
+    },
+    {
+      "name": "Pawleys Island",
+      "designation": "Mayor–council",
+      "primary_county": "Georgetown"
+    },
+    {
+      "name": "Paxville",
+      "designation": "Mayor–council",
+      "primary_county": "Clarendon"
+    },
+    {
+      "name": "Peak",
+      "designation": "Mayor–council",
+      "primary_county": "Newberry"
+    },
+    {
+      "name": "Pelion",
+      "designation": "Mayor–council",
+      "primary_county": "Lexington"
+    },
+    {
+      "name": "Pelzer",
+      "designation": "Mayor–council",
+      "primary_county": "Anderson"
+    },
+    {
+      "name": "Pendleton",
+      "designation": "Mayor–council",
+      "primary_county": "Anderson"
+    },
+    {
+      "name": "Perry",
+      "designation": "Mayor–council",
+      "primary_county": "Aiken"
+    },
+    {
+      "name": "Pickens†",
+      "designation": "Council",
+      "primary_county": "Pickens"
+    },
+    {
+      "name": "Pine Ridge",
+      "designation": "Council",
+      "primary_county": "Lexington"
+    },
+    {
+      "name": "Pinewood",
+      "designation": "Mayor–council",
+      "primary_county": "Sumter"
+    },
+    {
+      "name": "Plum Branch",
+      "designation": "Mayor–council",
+      "primary_county": "McCormick"
+    },
+    {
+      "name": "Pomaria",
+      "designation": "Mayor–council",
+      "primary_county": "Newberry"
+    },
+    {
+      "name": "Port Royal",
+      "designation": "Council–manager",
+      "primary_county": "Beaufort"
+    },
+    {
+      "name": "Prosperity",
+      "designation": "Mayor–council",
+      "primary_county": "Newberry"
+    },
+    {
+      "name": "Quinby",
+      "designation": "Mayor–council",
+      "primary_county": "Florence"
+    },
+    {
+      "name": "Ravenel",
+      "designation": "Mayor–council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "Reevesville",
+      "designation": "Mayor–council",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "Reidville",
+      "designation": "Mayor–council",
+      "primary_county": "Spartanburg"
+    },
+    {
+      "name": "Richburg",
+      "designation": "Mayor–council",
+      "primary_county": "Chester"
+    },
+    {
+      "name": "Ridgeland†",
+      "designation": "Council",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Ridge Spring",
+      "designation": "Mayor–council",
+      "primary_county": "Saluda"
+    },
+    {
+      "name": "Ridgeville",
+      "designation": "Mayor–council",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "Ridgeway",
+      "designation": "Council",
+      "primary_county": "Fairfield"
+    },
+    {
+      "name": "Rock Hill",
+      "designation": "Council–manager",
+      "primary_county": "York"
+    },
+    {
+      "name": "Rockville",
+      "designation": "Mayor–council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "Rowesville",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Ruby",
+      "designation": "Mayor–council",
+      "primary_county": "Chesterfield"
+    },
+    {
+      "name": "St. George†",
+      "designation": "Council",
+      "primary_county": "Dorchester"
+    },
+    {
+      "name": "St. Matthews†",
+      "designation": "Council",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "St. Stephen",
+      "designation": "Mayor–council",
+      "primary_county": "Berkeley"
+    },
+    {
+      "name": "Salem",
+      "designation": "Council",
+      "primary_county": "Oconee"
+    },
+    {
+      "name": "Salley",
+      "designation": "Council",
+      "primary_county": "Aiken"
+    },
+    {
+      "name": "Saluda†",
+      "designation": "Mayor–council",
+      "primary_county": "Saluda"
+    },
+    {
+      "name": "Santee",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Scotia",
+      "designation": "Mayor–council",
+      "primary_county": "Hampton"
+    },
+    {
+      "name": "Scranton",
+      "designation": "Mayor–council",
+      "primary_county": "Florence"
+    },
+    {
+      "name": "Seabrook Island",
+      "designation": "Mayor–council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "Sellers",
+      "designation": "Mayor–council",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Seneca",
+      "designation": "Mayor–council",
+      "primary_county": "Oconee"
+    },
+    {
+      "name": "Sharon",
+      "designation": "Mayor–council",
+      "primary_county": "York"
+    },
+    {
+      "name": "Silverstreet",
+      "designation": "Mayor–council",
+      "primary_county": "Newberry"
+    },
+    {
+      "name": "Simpsonville",
+      "designation": "Council",
+      "primary_county": "Greenville"
+    },
+    {
+      "name": "Six Mile",
+      "designation": "Council",
+      "primary_county": "Pickens"
+    },
+    {
+      "name": "Smoaks",
+      "designation": "Council",
+      "primary_county": "Colleton"
+    },
+    {
+      "name": "Smyrna",
+      "designation": "Mayor–council",
+      "primary_county": "YorkCherokee"
+    },
+    {
+      "name": "Snelling",
+      "designation": "Mayor–council",
+      "primary_county": "Barnwell"
+    },
+    {
+      "name": "Society Hill",
+      "designation": "Mayor–council",
+      "primary_county": "Darlington"
+    },
+    {
+      "name": "South Congaree",
+      "designation": "Council",
+      "primary_county": "Lexington"
+    },
+    {
+      "name": "Spartanburg†",
+      "designation": "Council–manager",
+      "primary_county": "Spartanburg"
+    },
+    {
+      "name": "Springdale",
+      "designation": "Council",
+      "primary_county": "Lexington"
+    },
+    {
+      "name": "Springfield",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Starr",
+      "designation": "Mayor–council",
+      "primary_county": "Anderson"
+    },
+    {
+      "name": "Stuckey",
+      "designation": "Council",
+      "primary_county": "Williamsburg"
+    },
+    {
+      "name": "Sullivan's Island",
+      "designation": "Council",
+      "primary_county": "Charleston"
+    },
+    {
+      "name": "Summerton",
+      "designation": "Council",
+      "primary_county": "Clarendon"
+    },
+    {
+      "name": "Summerville",
+      "designation": "Council",
+      "primary_county": "DorchesterBerkeleyCharleston"
+    },
+    {
+      "name": "Summit",
+      "designation": "Mayor–council",
+      "primary_county": "Lexington"
+    },
+    {
+      "name": "Sumter†",
+      "designation": "Council–manager",
+      "primary_county": "Sumter"
+    },
+    {
+      "name": "Surfside Beach",
+      "designation": "Council",
+      "primary_county": "Horry"
+    },
+    {
+      "name": "Swansea",
+      "designation": "Council",
+      "primary_county": "Lexington"
+    },
+    {
+      "name": "Sycamore",
+      "designation": "Council",
+      "primary_county": "Allendale"
+    },
+    {
+      "name": "Tatum",
+      "designation": "Mayor–council",
+      "primary_county": "Marlboro"
+    },
+    {
+      "name": "Tega Cay",
+      "designation": "Council–manager",
+      "primary_county": "York"
+    },
+    {
+      "name": "Timmonsville",
+      "designation": "Council",
+      "primary_county": "Florence"
+    },
+    {
+      "name": "Travelers Rest",
+      "designation": "Council",
+      "primary_county": "Greenville"
+    },
+    {
+      "name": "Trenton",
+      "designation": "Mayor–council",
+      "primary_county": "Edgefield"
+    },
+    {
+      "name": "Troy",
+      "designation": "Mayor–council",
+      "primary_county": "Greenwood"
+    },
+    {
+      "name": "Turbeville",
+      "designation": "Council",
+      "primary_county": "Clarendon"
+    },
+    {
+      "name": "Ulmer",
+      "designation": "Council",
+      "primary_county": "Allendale"
+    },
+    {
+      "name": "Union†",
+      "designation": "Mayor–council",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Vance",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Van Wyck[b]",
+      "designation": "Mayor–council",
+      "primary_county": "Lancaster"
+    },
+    {
+      "name": "Varnville",
+      "designation": "Council",
+      "primary_county": "Hampton"
+    },
+    {
+      "name": "Wagener",
+      "designation": "Council",
+      "primary_county": "Aiken"
+    },
+    {
+      "name": "Walhalla†",
+      "designation": "Council",
+      "primary_county": "Oconee"
+    },
+    {
+      "name": "Walterboro†",
+      "designation": "Council–manager",
+      "primary_county": "Colleton"
+    },
+    {
+      "name": "Ward",
+      "designation": "Mayor–council",
+      "primary_county": "Saluda"
+    },
+    {
+      "name": "Ware Shoals",
+      "designation": "Council",
+      "primary_county": "GreenwoodAbbevilleLaurens"
+    },
+    {
+      "name": "Waterloo",
+      "designation": "Mayor–council",
+      "primary_county": "Laurens"
+    },
+    {
+      "name": "Wellford",
+      "designation": "Mayor–council",
+      "primary_county": "Spartanburg"
+    },
+    {
+      "name": "West Columbia",
+      "designation": "Council",
+      "primary_county": "Lexington"
+    },
+    {
+      "name": "Westminster",
+      "designation": "Council",
+      "primary_county": "Oconee"
+    },
+    {
+      "name": "West Pelzer",
+      "designation": "Mayor–council",
+      "primary_county": "Anderson"
+    },
+    {
+      "name": "West Union",
+      "designation": "Council",
+      "primary_county": "Oconee"
+    },
+    {
+      "name": "Whitmire",
+      "designation": "Mayor–council",
+      "primary_county": "Newberry"
+    },
+    {
+      "name": "Williams",
+      "designation": "Mayor–council",
+      "primary_county": "Colleton"
+    },
+    {
+      "name": "Williamston",
+      "designation": "Mayor–council",
+      "primary_county": "Anderson"
+    },
+    {
+      "name": "Williston",
+      "designation": "Council",
+      "primary_county": "Barnwell"
+    },
+    {
+      "name": "Windsor",
+      "designation": "Mayor–council",
+      "primary_county": "Aiken"
+    },
+    {
+      "name": "Winnsboro†",
+      "designation": "Council–manager",
+      "primary_county": "Fairfield"
+    },
+    {
+      "name": "Woodford",
+      "designation": "Mayor–council",
+      "primary_county": "Orangeburg"
+    },
+    {
+      "name": "Woodruff",
+      "designation": "Council–manager",
+      "primary_county": "Spartanburg"
+    },
+    {
+      "name": "Yemassee",
+      "designation": "Council",
+      "primary_county": "BeaufortHampton"
+    },
+    {
+      "name": "York†",
+      "designation": "Council–manager",
+      "primary_county": "York"
+    },
+    {
+      "name": "Total municipalities",
+      "designation": "—",
+      "primary_county": "—"
+    },
+    {
+      "name": "South Carolina",
+      "designation": "—",
+      "primary_county": "—"
+    }
+  ]
+}

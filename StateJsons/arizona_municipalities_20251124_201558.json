@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "state": "Arizona",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Arizona",
+    "scraped_at": "2025-11-24 20:15:58",
+    "scraper_version": "2.0_generic",
+    "description": "Arizona municipalities scraped from Wikipedia",
+    "total_municipalities": 94,
+    "statistics": {
+      "total_found": 94,
+      "with_population": 0,
+      "with_counties": 93,
+      "unique_counties": 16,
+      "population_stats": {}
+    },
+    "counties": [
+      "Apache",
+      "Cochise",
+      "Coconino",
+      "Gila",
+      "Graham",
+      "Greenlee",
+      "La Paz",
+      "Maricopa",
+      "Mohave",
+      "Navajo",
+      "Pima",
+      "Pinal",
+      "Santa Cruz",
+      "Yavapai",
+      "Yuma",
+      "—"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi",
+      "designation": "km2"
+    },
+    {
+      "name": "Apache Junction",
+      "designation": "City",
+      "primary_county": "Pinal",
+      "secondary_counties": [
+        "Maricopa"
+      ]
+    },
+    {
+      "name": "Avondale",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Benson",
+      "designation": "City",
+      "primary_county": "Cochise"
+    },
+    {
+      "name": "Bisbee",
+      "designation": "City",
+      "primary_county": "Cochise"
+    },
+    {
+      "name": "Buckeye",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Bullhead City",
+      "designation": "City",
+      "primary_county": "Mohave"
+    },
+    {
+      "name": "Camp Verde",
+      "designation": "Town",
+      "primary_county": "Yavapai"
+    },
+    {
+      "name": "Carefree",
+      "designation": "Town",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Casa Grande",
+      "designation": "City",
+      "primary_county": "Pinal"
+    },
+    {
+      "name": "Cave Creek",
+      "designation": "Town",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Chandler",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Chino Valley",
+      "designation": "Town",
+      "primary_county": "Yavapai"
+    },
+    {
+      "name": "Clarkdale",
+      "designation": "Town",
+      "primary_county": "Yavapai"
+    },
+    {
+      "name": "Clifton†",
+      "designation": "Town",
+      "primary_county": "Greenlee"
+    },
+    {
+      "name": "Colorado City",
+      "designation": "Town",
+      "primary_county": "Mohave"
+    },
+    {
+      "name": "Coolidge",
+      "designation": "City",
+      "primary_county": "Pinal"
+    },
+    {
+      "name": "Cottonwood",
+      "designation": "City",
+      "primary_county": "Yavapai"
+    },
+    {
+      "name": "Dewey-Humboldt",
+      "designation": "Town",
+      "primary_county": "Yavapai"
+    },
+    {
+      "name": "Douglas",
+      "designation": "City",
+      "primary_county": "Cochise"
+    },
+    {
+      "name": "Duncan",
+      "designation": "Town",
+      "primary_county": "Greenlee"
+    },
+    {
+      "name": "Eagar",
+      "designation": "Town",
+      "primary_county": "Apache"
+    },
+    {
+      "name": "El Mirage",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Eloy",
+      "designation": "City",
+      "primary_county": "Pinal"
+    },
+    {
+      "name": "Flagstaff†",
+      "designation": "City",
+      "primary_county": "Coconino"
+    },
+    {
+      "name": "Florence†",
+      "designation": "Town",
+      "primary_county": "Pinal"
+    },
+    {
+      "name": "Fountain Hills",
+      "designation": "Town",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Fredonia",
+      "designation": "Town",
+      "primary_county": "Coconino"
+    },
+    {
+      "name": "Gila Bend",
+      "designation": "Town",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Gilbert",
+      "designation": "Town",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Glendale",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Globe†",
+      "designation": "City",
+      "primary_county": "Gila"
+    },
+    {
+      "name": "Goodyear",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Guadalupe",
+      "designation": "Town",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Hayden",
+      "designation": "Town",
+      "primary_county": "Gila",
+      "secondary_counties": [
+        "Pinal"
+      ]
+    },
+    {
+      "name": "Holbrook†",
+      "designation": "City",
+      "primary_county": "Navajo"
+    },
+    {
+      "name": "Huachuca City",
+      "designation": "Town",
+      "primary_county": "Cochise"
+    },
+    {
+      "name": "Jerome",
+      "designation": "Town",
+      "primary_county": "Yavapai"
+    },
+    {
+      "name": "Kearny",
+      "designation": "Town",
+      "primary_county": "Pinal"
+    },
+    {
+      "name": "Kingman†",
+      "designation": "City",
+      "primary_county": "Mohave"
+    },
+    {
+      "name": "Lake Havasu City",
+      "designation": "City",
+      "primary_county": "Mohave"
+    },
+    {
+      "name": "Litchfield Park",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Mammoth",
+      "designation": "Town",
+      "primary_county": "Pinal"
+    },
+    {
+      "name": "Marana",
+      "designation": "Town",
+      "primary_county": "Pima",
+      "secondary_counties": [
+        "Pinal"
+      ]
+    },
+    {
+      "name": "Maricopa",
+      "designation": "City",
+      "primary_county": "Pinal"
+    },
+    {
+      "name": "Mesa",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Miami",
+      "designation": "Town",
+      "primary_county": "Gila"
+    },
+    {
+      "name": "Nogales†",
+      "designation": "City",
+      "primary_county": "Santa Cruz"
+    },
+    {
+      "name": "Oro Valley",
+      "designation": "Town",
+      "primary_county": "Pima"
+    },
+    {
+      "name": "Page",
+      "designation": "City",
+      "primary_county": "Coconino"
+    },
+    {
+      "name": "Paradise Valley",
+      "designation": "Town",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Parker†",
+      "designation": "Town",
+      "primary_county": "La Paz"
+    },
+    {
+      "name": "Patagonia",
+      "designation": "Town",
+      "primary_county": "Santa Cruz"
+    },
+    {
+      "name": "Payson",
+      "designation": "Town",
+      "primary_county": "Gila"
+    },
+    {
+      "name": "Peoria",
+      "designation": "City",
+      "primary_county": "Maricopa",
+      "secondary_counties": [
+        "Yavapai"
+      ]
+    },
+    {
+      "name": "Phoenix‡",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Pima",
+      "designation": "Town",
+      "primary_county": "Graham"
+    },
+    {
+      "name": "Pinetop-Lakeside",
+      "designation": "Town",
+      "primary_county": "Navajo"
+    },
+    {
+      "name": "Prescott†",
+      "designation": "City",
+      "primary_county": "Yavapai"
+    },
+    {
+      "name": "Prescott Valley",
+      "designation": "Town",
+      "primary_county": "Yavapai"
+    },
+    {
+      "name": "Quartzsite",
+      "designation": "Town",
+      "primary_county": "La Paz"
+    },
+    {
+      "name": "Queen Creek",
+      "designation": "Town",
+      "primary_county": "Maricopa",
+      "secondary_counties": [
+        "Pinal"
+      ]
+    },
+    {
+      "name": "Safford†",
+      "designation": "City",
+      "primary_county": "Graham"
+    },
+    {
+      "name": "Sahuarita",
+      "designation": "Town",
+      "primary_county": "Pima"
+    },
+    {
+      "name": "San Luis",
+      "designation": "City",
+      "primary_county": "Yuma"
+    },
+    {
+      "name": "Scottsdale",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Sedona",
+      "designation": "City",
+      "primary_county": "Yavapai",
+      "secondary_counties": [
+        "Coconino"
+      ]
+    },
+    {
+      "name": "Show Low",
+      "designation": "City",
+      "primary_county": "Navajo"
+    },
+    {
+      "name": "Sierra Vista",
+      "designation": "City",
+      "primary_county": "Cochise"
+    },
+    {
+      "name": "Snowflake",
+      "designation": "Town",
+      "primary_county": "Navajo"
+    },
+    {
+      "name": "Somerton",
+      "designation": "City",
+      "primary_county": "Yuma"
+    },
+    {
+      "name": "South Tucson",
+      "designation": "City",
+      "primary_county": "Pima"
+    },
+    {
+      "name": "Springerville",
+      "designation": "Town",
+      "primary_county": "Apache"
+    },
+    {
+      "name": "St. Johns†",
+      "designation": "City",
+      "primary_county": "Apache"
+    },
+    {
+      "name": "Star Valley",
+      "designation": "Town",
+      "primary_county": "Gila"
+    },
+    {
+      "name": "Superior",
+      "designation": "Town",
+      "primary_county": "Pinal"
+    },
+    {
+      "name": "Surprise",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Taylor",
+      "designation": "Town",
+      "primary_county": "Navajo"
+    },
+    {
+      "name": "Tempe",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Thatcher",
+      "designation": "Town",
+      "primary_county": "Graham"
+    },
+    {
+      "name": "Tolleson",
+      "designation": "City",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Tombstone",
+      "designation": "City",
+      "primary_county": "Cochise"
+    },
+    {
+      "name": "Tucson†",
+      "designation": "City",
+      "primary_county": "Pima"
+    },
+    {
+      "name": "Tusayan[a]",
+      "designation": "Town",
+      "primary_county": "Coconino"
+    },
+    {
+      "name": "Wellton",
+      "designation": "Town",
+      "primary_county": "Yuma"
+    },
+    {
+      "name": "Wickenburg",
+      "designation": "Town",
+      "primary_county": "Maricopa",
+      "secondary_counties": [
+        "Yavapai"
+      ]
+    },
+    {
+      "name": "Willcox",
+      "designation": "City",
+      "primary_county": "Cochise"
+    },
+    {
+      "name": "Williams",
+      "designation": "City",
+      "primary_county": "Coconino"
+    },
+    {
+      "name": "Winkelman",
+      "designation": "Town",
+      "primary_county": "Gila",
+      "secondary_counties": [
+        "Pinal"
+      ]
+    },
+    {
+      "name": "Winslow",
+      "designation": "City",
+      "primary_county": "Navajo"
+    },
+    {
+      "name": "Youngtown",
+      "designation": "Town",
+      "primary_county": "Maricopa"
+    },
+    {
+      "name": "Yuma†",
+      "designation": "City",
+      "primary_county": "Yuma"
+    },
+    {
+      "name": "Total municipalities",
+      "designation": "—",
+      "primary_county": "—"
+    },
+    {
+      "name": "State of Arizona",
+      "designation": "—",
+      "primary_county": "—"
+    }
+  ]
+}

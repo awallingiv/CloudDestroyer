@@ -1,0 +1,3289 @@
+{
+  "metadata": {
+    "state": "Nebraska",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_Nebraska",
+    "scraped_at": "2025-11-24 20:29:12",
+    "scraper_version": "2.0_generic",
+    "description": "Nebraska municipalities scraped from Wikipedia",
+    "total_municipalities": 528,
+    "statistics": {
+      "total_found": 528,
+      "with_population": 0,
+      "with_counties": 528,
+      "unique_counties": 100,
+      "population_stats": {}
+    },
+    "counties": [
+      "Adams",
+      "Antelope",
+      "Arthur",
+      "Blaine",
+      "Boone",
+      "Box Butte",
+      "Boyd",
+      "Brown",
+      "Buffalo",
+      "BuffaloHall",
+      "Burt",
+      "Butler",
+      "Cass",
+      "Cedar",
+      "Chase",
+      "Cherry",
+      "Cheyenne",
+      "Clay",
+      "ClayAdams",
+      "Colfax",
+      "Cuming",
+      "Custer",
+      "Dakota",
+      "Dawes",
+      "Dawson",
+      "Deuel",
+      "Dixon",
+      "DixonDakotaThurston",
+      "DixonWayne",
+      "Dodge",
+      "Douglas",
+      "Dundy",
+      "Fillmore",
+      "Franklin",
+      "Frontier",
+      "Furnas",
+      "FurnasHarlan",
+      "Gage",
+      "Garden",
+      "Garfield",
+      "Gosper",
+      "Grant",
+      "Greeley",
+      "Hall",
+      "Hamilton",
+      "Harlan",
+      "Hayes",
+      "Hitchcock",
+      "HitchcockHayes",
+      "Holt",
+      "Hooker",
+      "Howard",
+      "Jefferson",
+      "Johnson",
+      "Kearney",
+      "Keith",
+      "Keya Paha",
+      "Kimball",
+      "Knox",
+      "Lancaster",
+      "Lincoln",
+      "Logan",
+      "Loup",
+      "Madison",
+      "MadisonAntelope",
+      "MadisonPlatte",
+      "Merrick",
+      "Morrill",
+      "Nance",
+      "Nemaha",
+      "Nuckolls",
+      "Otoe",
+      "Pawnee",
+      "Perkins",
+      "Phelps",
+      "Pierce",
+      "Platte",
+      "Polk",
+      "Red Willow",
+      "Richardson",
+      "Rock",
+      "Saline",
+      "Sarpy",
+      "Saunders",
+      "Scotts Bluff",
+      "Seward",
+      "Sheridan",
+      "Sherman",
+      "Sioux",
+      "Stanton",
+      "Thayer",
+      "Thomas",
+      "ThomasBlaine",
+      "Thurston",
+      "Valley",
+      "Washington",
+      "Wayne",
+      "Webster",
+      "Wheeler",
+      "York"
+    ]
+  },
+  "municipalities": [
+    {
+      "rank": 1,
+      "name": "Omaha",
+      "designation": "City",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 2,
+      "name": "Lincoln",
+      "designation": "City",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 3,
+      "name": "Bellevue",
+      "designation": "City",
+      "primary_county": "Sarpy"
+    },
+    {
+      "rank": 4,
+      "name": "Grand Island",
+      "designation": "City",
+      "primary_county": "Hall"
+    },
+    {
+      "rank": 5,
+      "name": "Kearney",
+      "designation": "City",
+      "primary_county": "Buffalo"
+    },
+    {
+      "rank": 6,
+      "name": "Fremont",
+      "designation": "City",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 7,
+      "name": "Norfolk",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "rank": 8,
+      "name": "Hastings",
+      "designation": "City",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 9,
+      "name": "Columbus",
+      "designation": "City",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 10,
+      "name": "Papillion",
+      "designation": "City",
+      "primary_county": "Sarpy"
+    },
+    {
+      "rank": 11,
+      "name": "North Platte",
+      "designation": "City",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 12,
+      "name": "La Vista",
+      "designation": "City",
+      "primary_county": "Sarpy"
+    },
+    {
+      "rank": 13,
+      "name": "Scottsbluff",
+      "designation": "City",
+      "primary_county": "Scotts Bluff"
+    },
+    {
+      "rank": 14,
+      "name": "South Sioux City",
+      "designation": "City",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 15,
+      "name": "Beatrice",
+      "designation": "City",
+      "primary_county": "Gage"
+    },
+    {
+      "rank": 16,
+      "name": "Lexington",
+      "designation": "City",
+      "primary_county": "Dawson"
+    },
+    {
+      "rank": 17,
+      "name": "Gretna",
+      "designation": "City",
+      "primary_county": "Sarpy"
+    },
+    {
+      "rank": 18,
+      "name": "Gering",
+      "designation": "City",
+      "primary_county": "Scotts Bluff"
+    },
+    {
+      "rank": 19,
+      "name": "York",
+      "designation": "City",
+      "primary_county": "York"
+    },
+    {
+      "rank": 20,
+      "name": "Alliance",
+      "designation": "City",
+      "primary_county": "Box Butte"
+    },
+    {
+      "rank": 21,
+      "name": "Blair",
+      "designation": "City",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 22,
+      "name": "Seward",
+      "designation": "City",
+      "primary_county": "Seward"
+    },
+    {
+      "rank": 23,
+      "name": "Crete",
+      "designation": "City",
+      "primary_county": "Saline"
+    },
+    {
+      "rank": 24,
+      "name": "Nebraska City",
+      "designation": "City",
+      "primary_county": "Otoe"
+    },
+    {
+      "rank": 25,
+      "name": "McCook",
+      "designation": "City",
+      "primary_county": "Red Willow"
+    },
+    {
+      "rank": 26,
+      "name": "Plattsmouth",
+      "designation": "City",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 27,
+      "name": "Schuyler",
+      "designation": "City",
+      "primary_county": "Colfax"
+    },
+    {
+      "rank": 28,
+      "name": "Sidney",
+      "designation": "City",
+      "primary_county": "Cheyenne"
+    },
+    {
+      "rank": 29,
+      "name": "Ralston",
+      "designation": "City",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 30,
+      "name": "Wayne",
+      "designation": "City",
+      "primary_county": "Wayne"
+    },
+    {
+      "rank": 31,
+      "name": "Holdrege",
+      "designation": "City",
+      "primary_county": "Phelps"
+    },
+    {
+      "rank": 32,
+      "name": "Chadron",
+      "designation": "City",
+      "primary_county": "Dawes"
+    },
+    {
+      "rank": 33,
+      "name": "Wahoo",
+      "designation": "City",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 34,
+      "name": "Aurora",
+      "designation": "City",
+      "primary_county": "Hamilton"
+    },
+    {
+      "rank": 35,
+      "name": "Ogallala",
+      "designation": "City",
+      "primary_county": "Keith"
+    },
+    {
+      "rank": 36,
+      "name": "Waverly",
+      "designation": "City",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 37,
+      "name": "Falls City",
+      "designation": "City",
+      "primary_county": "Richardson"
+    },
+    {
+      "rank": 38,
+      "name": "Cozad",
+      "designation": "City",
+      "primary_county": "Dawson"
+    },
+    {
+      "rank": 39,
+      "name": "Fairbury",
+      "designation": "City",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 40,
+      "name": "O'Neill",
+      "designation": "City",
+      "primary_county": "Holt"
+    },
+    {
+      "rank": 41,
+      "name": "Broken Bow",
+      "designation": "City",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 42,
+      "name": "Auburn",
+      "designation": "City",
+      "primary_county": "Nemaha"
+    },
+    {
+      "rank": 43,
+      "name": "West Point",
+      "designation": "City",
+      "primary_county": "Cuming"
+    },
+    {
+      "rank": 44,
+      "name": "Gothenburg",
+      "designation": "City",
+      "primary_county": "Dawson"
+    },
+    {
+      "rank": 45,
+      "name": "Ashland",
+      "designation": "City",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 46,
+      "name": "Valley",
+      "designation": "City",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 47,
+      "name": "Hickman",
+      "designation": "City",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 48,
+      "name": "Minden",
+      "designation": "City",
+      "primary_county": "Kearney"
+    },
+    {
+      "rank": 49,
+      "name": "Central City",
+      "designation": "City",
+      "primary_county": "Merrick"
+    },
+    {
+      "rank": 50,
+      "name": "David City",
+      "designation": "City",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 51,
+      "name": "Valentine",
+      "designation": "City",
+      "primary_county": "Cherry"
+    },
+    {
+      "rank": 52,
+      "name": "St. Paul",
+      "designation": "City",
+      "primary_county": "Howard"
+    },
+    {
+      "rank": 53,
+      "name": "Milford",
+      "designation": "City",
+      "primary_county": "Seward"
+    },
+    {
+      "rank": 54,
+      "name": "Kimball",
+      "designation": "City",
+      "primary_county": "Kimball"
+    },
+    {
+      "rank": 55,
+      "name": "Madison",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "rank": 56,
+      "name": "Geneva",
+      "designation": "City",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 57,
+      "name": "Ord",
+      "designation": "City",
+      "primary_county": "Valley"
+    },
+    {
+      "rank": 58,
+      "name": "Dakota City",
+      "designation": "City",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 59,
+      "name": "Syracuse",
+      "designation": "City",
+      "primary_county": "Otoe"
+    },
+    {
+      "rank": 60,
+      "name": "Imperial",
+      "designation": "City",
+      "primary_county": "Chase"
+    },
+    {
+      "rank": 61,
+      "name": "Bennington",
+      "designation": "City",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 62,
+      "name": "Wilber",
+      "designation": "City",
+      "primary_county": "Saline"
+    },
+    {
+      "rank": 63,
+      "name": "Gibbon",
+      "designation": "City",
+      "primary_county": "Buffalo"
+    },
+    {
+      "rank": 64,
+      "name": "Superior",
+      "designation": "City",
+      "primary_county": "Nuckolls"
+    },
+    {
+      "rank": 65,
+      "name": "Pierce",
+      "designation": "City",
+      "primary_county": "Pierce"
+    },
+    {
+      "rank": 66,
+      "name": "Tekamah",
+      "designation": "City",
+      "primary_county": "Burt"
+    },
+    {
+      "rank": 67,
+      "name": "Albion",
+      "designation": "City",
+      "primary_county": "Boone"
+    },
+    {
+      "rank": 68,
+      "name": "Tecumseh",
+      "designation": "City",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 69,
+      "name": "Ainsworth",
+      "designation": "City",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 70,
+      "name": "Mitchell",
+      "designation": "City",
+      "primary_county": "Scotts Bluff"
+    },
+    {
+      "rank": 71,
+      "name": "Stanton",
+      "designation": "City",
+      "primary_county": "Stanton"
+    },
+    {
+      "rank": 72,
+      "name": "Neligh",
+      "designation": "City",
+      "primary_county": "Antelope"
+    },
+    {
+      "rank": 73,
+      "name": "Springfield",
+      "designation": "City",
+      "primary_county": "Sarpy"
+    },
+    {
+      "rank": 74,
+      "name": "Wakefield",
+      "designation": "City",
+      "primary_county": "DixonWayne"
+    },
+    {
+      "rank": 75,
+      "name": "Hartington",
+      "designation": "City",
+      "primary_county": "Cedar"
+    },
+    {
+      "rank": 76,
+      "name": "Sutton",
+      "designation": "City",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 77,
+      "name": "Bridgeport",
+      "designation": "City",
+      "primary_county": "Morrill"
+    },
+    {
+      "rank": 78,
+      "name": "Gordon",
+      "designation": "City",
+      "primary_county": "Sheridan"
+    },
+    {
+      "rank": 79,
+      "name": "Yutan",
+      "designation": "City",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 80,
+      "name": "Louisville",
+      "designation": "City",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 81,
+      "name": "Hebron",
+      "designation": "City",
+      "primary_county": "Thayer"
+    },
+    {
+      "rank": 82,
+      "name": "Ravenna",
+      "designation": "City",
+      "primary_county": "Buffalo"
+    },
+    {
+      "rank": 83,
+      "name": "Oakland",
+      "designation": "City",
+      "primary_county": "Burt"
+    },
+    {
+      "rank": 84,
+      "name": "Wymore",
+      "designation": "City",
+      "primary_county": "Gage"
+    },
+    {
+      "rank": 85,
+      "name": "Arlington",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 86,
+      "name": "Atkinson",
+      "designation": "City",
+      "primary_county": "Holt"
+    },
+    {
+      "rank": 87,
+      "name": "Plainview",
+      "designation": "City",
+      "primary_county": "Pierce"
+    },
+    {
+      "rank": 88,
+      "name": "North Bend",
+      "designation": "City",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 89,
+      "name": "Sutherland",
+      "designation": "Village",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 90,
+      "name": "Wisner",
+      "designation": "City",
+      "primary_county": "Cuming"
+    },
+    {
+      "rank": 91,
+      "name": "Fullerton",
+      "designation": "City",
+      "primary_county": "Nance"
+    },
+    {
+      "rank": 92,
+      "name": "Eagle",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 93,
+      "name": "Battle Creek",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "rank": 94,
+      "name": "Wood River",
+      "designation": "City",
+      "primary_county": "Hall"
+    },
+    {
+      "rank": 95,
+      "name": "Stromsburg",
+      "designation": "City",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 96,
+      "name": "Grant",
+      "designation": "City",
+      "primary_county": "Perkins"
+    },
+    {
+      "rank": 97,
+      "name": "Bayard",
+      "designation": "City",
+      "primary_county": "Morrill"
+    },
+    {
+      "rank": 98,
+      "name": "Creighton",
+      "designation": "City",
+      "primary_county": "Knox"
+    },
+    {
+      "rank": 99,
+      "name": "Fort Calhoun",
+      "designation": "City",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 100,
+      "name": "Henderson",
+      "designation": "City",
+      "primary_county": "York"
+    },
+    {
+      "rank": 101,
+      "name": "Bennet",
+      "designation": "Village",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 102,
+      "name": "Cambridge",
+      "designation": "City",
+      "primary_county": "Furnas"
+    },
+    {
+      "rank": 103,
+      "name": "Loup City",
+      "designation": "City",
+      "primary_county": "Sherman"
+    },
+    {
+      "rank": 104,
+      "name": "Weeping Water",
+      "designation": "City",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 105,
+      "name": "Burwell",
+      "designation": "City",
+      "primary_county": "Garfield"
+    },
+    {
+      "rank": 106,
+      "name": "Pender",
+      "designation": "Village",
+      "primary_county": "Thurston"
+    },
+    {
+      "rank": 107,
+      "name": "Shelton",
+      "designation": "Village",
+      "primary_county": "BuffaloHall"
+    },
+    {
+      "rank": 108,
+      "name": "Terrytown",
+      "designation": "City",
+      "primary_county": "Scotts Bluff"
+    },
+    {
+      "rank": 109,
+      "name": "Alma",
+      "designation": "City",
+      "primary_county": "Harlan"
+    },
+    {
+      "rank": 110,
+      "name": "Tilden",
+      "designation": "City",
+      "primary_county": "MadisonAntelope"
+    },
+    {
+      "rank": 111,
+      "name": "Elm Creek",
+      "designation": "Village",
+      "primary_county": "Buffalo"
+    },
+    {
+      "rank": 112,
+      "name": "Ceresco",
+      "designation": "Village",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 113,
+      "name": "Arapahoe",
+      "designation": "City",
+      "primary_county": "Furnas"
+    },
+    {
+      "rank": 114,
+      "name": "Bloomfield",
+      "designation": "City",
+      "primary_county": "Knox"
+    },
+    {
+      "rank": 115,
+      "name": "Laurel",
+      "designation": "City",
+      "primary_county": "Cedar"
+    },
+    {
+      "rank": 116,
+      "name": "Red Cloud",
+      "designation": "City",
+      "primary_county": "Webster"
+    },
+    {
+      "rank": 117,
+      "name": "Harvard",
+      "designation": "City",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 118,
+      "name": "Friend",
+      "designation": "City",
+      "primary_county": "Saline"
+    },
+    {
+      "rank": 119,
+      "name": "Morrill",
+      "designation": "Village",
+      "primary_county": "Scotts Bluff"
+    },
+    {
+      "rank": 120,
+      "name": "Kenesaw",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 121,
+      "name": "Waterloo",
+      "designation": "Village",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 122,
+      "name": "Franklin",
+      "designation": "City",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 123,
+      "name": "Ponca",
+      "designation": "City",
+      "primary_county": "Dixon"
+    },
+    {
+      "rank": 124,
+      "name": "Winnebago",
+      "designation": "Village",
+      "primary_county": "Thurston"
+    },
+    {
+      "rank": 125,
+      "name": "Randolph",
+      "designation": "City",
+      "primary_county": "Cedar"
+    },
+    {
+      "rank": 126,
+      "name": "Osceola",
+      "designation": "City",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 127,
+      "name": "Genoa",
+      "designation": "City",
+      "primary_county": "Nance"
+    },
+    {
+      "rank": 128,
+      "name": "Humphrey",
+      "designation": "City",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 129,
+      "name": "Chappell",
+      "designation": "City",
+      "primary_county": "Deuel"
+    },
+    {
+      "rank": 130,
+      "name": "Pawnee City",
+      "designation": "City",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 131,
+      "name": "Utica",
+      "designation": "Village",
+      "primary_county": "Seward"
+    },
+    {
+      "rank": 132,
+      "name": "Crawford",
+      "designation": "City",
+      "primary_county": "Dawes"
+    },
+    {
+      "rank": 133,
+      "name": "Curtis",
+      "designation": "City",
+      "primary_county": "Frontier"
+    },
+    {
+      "rank": 134,
+      "name": "Lyons",
+      "designation": "City",
+      "primary_county": "Burt"
+    },
+    {
+      "rank": 135,
+      "name": "Doniphan",
+      "designation": "Village",
+      "primary_county": "Hall"
+    },
+    {
+      "rank": 136,
+      "name": "Scribner",
+      "designation": "City",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 137,
+      "name": "Emerson",
+      "designation": "Village",
+      "primary_county": "DixonDakotaThurston"
+    },
+    {
+      "rank": 138,
+      "name": "Cairo",
+      "designation": "Village",
+      "primary_county": "Hall"
+    },
+    {
+      "rank": 139,
+      "name": "Osmond",
+      "designation": "City",
+      "primary_county": "Pierce"
+    },
+    {
+      "rank": 140,
+      "name": "Blue Hill",
+      "designation": "City",
+      "primary_county": "Webster"
+    },
+    {
+      "rank": 141,
+      "name": "Humboldt",
+      "designation": "City",
+      "primary_county": "Richardson"
+    },
+    {
+      "rank": 142,
+      "name": "Hooper",
+      "designation": "City",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 143,
+      "name": "Rushville",
+      "designation": "City",
+      "primary_county": "Sheridan"
+    },
+    {
+      "rank": 144,
+      "name": "Oshkosh",
+      "designation": "City",
+      "primary_county": "Garden"
+    },
+    {
+      "rank": 145,
+      "name": "Benkelman",
+      "designation": "City",
+      "primary_county": "Dundy"
+    },
+    {
+      "rank": 146,
+      "name": "Hemingford",
+      "designation": "Village",
+      "primary_county": "Box Butte"
+    },
+    {
+      "rank": 147,
+      "name": "Axtell",
+      "designation": "Village",
+      "primary_county": "Kearney"
+    },
+    {
+      "rank": 148,
+      "name": "Crofton",
+      "designation": "City",
+      "primary_county": "Knox"
+    },
+    {
+      "rank": 149,
+      "name": "Juniata",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 150,
+      "name": "Shelby",
+      "designation": "Village",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 151,
+      "name": "Clay Center",
+      "designation": "City",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 152,
+      "name": "Deshler",
+      "designation": "City",
+      "primary_county": "Thayer"
+    },
+    {
+      "rank": 153,
+      "name": "Bertrand",
+      "designation": "Village",
+      "primary_county": "Phelps"
+    },
+    {
+      "rank": 154,
+      "name": "St. Edward",
+      "designation": "City",
+      "primary_county": "Boone"
+    },
+    {
+      "rank": 155,
+      "name": "Minatare",
+      "designation": "City",
+      "primary_county": "Scotts Bluff"
+    },
+    {
+      "rank": 156,
+      "name": "Elgin",
+      "designation": "City",
+      "primary_county": "Antelope"
+    },
+    {
+      "rank": 157,
+      "name": "Oxford",
+      "designation": "Village",
+      "primary_county": "FurnasHarlan"
+    },
+    {
+      "rank": 158,
+      "name": "Elmwood",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 159,
+      "name": "Walthill",
+      "designation": "Village",
+      "primary_county": "Thurston"
+    },
+    {
+      "rank": 160,
+      "name": "Firth",
+      "designation": "Village",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 161,
+      "name": "Alda",
+      "designation": "Village",
+      "primary_county": "Hall"
+    },
+    {
+      "rank": 162,
+      "name": "Newman Grove",
+      "designation": "City",
+      "primary_county": "MadisonPlatte"
+    },
+    {
+      "rank": 163,
+      "name": "Beemer",
+      "designation": "Village",
+      "primary_county": "Cuming"
+    },
+    {
+      "rank": 164,
+      "name": "Elwood",
+      "designation": "Village",
+      "primary_county": "Gosper"
+    },
+    {
+      "rank": 165,
+      "name": "Clarkson",
+      "designation": "City",
+      "primary_county": "Colfax"
+    },
+    {
+      "rank": 166,
+      "name": "Mead",
+      "designation": "Village",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 167,
+      "name": "Hershey",
+      "designation": "Village",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 168,
+      "name": "Cedar Bluffs",
+      "designation": "Village",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 169,
+      "name": "Adams",
+      "designation": "Village",
+      "primary_county": "Gage"
+    },
+    {
+      "rank": 170,
+      "name": "Greenwood",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 171,
+      "name": "Dorchester",
+      "designation": "Village",
+      "primary_county": "Saline"
+    },
+    {
+      "rank": 172,
+      "name": "Boys Town",
+      "designation": "Village",
+      "primary_county": "Douglas"
+    },
+    {
+      "rank": 173,
+      "name": "Valparaiso",
+      "designation": "Village",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 174,
+      "name": "Peru",
+      "designation": "City",
+      "primary_county": "Nemaha"
+    },
+    {
+      "rank": 175,
+      "name": "Arnold",
+      "designation": "Village",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 176,
+      "name": "Overton",
+      "designation": "Village",
+      "primary_county": "Dawson"
+    },
+    {
+      "rank": 177,
+      "name": "Fairmont",
+      "designation": "Village",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 178,
+      "name": "Wausa",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "rank": 179,
+      "name": "Dodge",
+      "designation": "Village",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 180,
+      "name": "Hay Springs",
+      "designation": "Village",
+      "primary_county": "Sheridan"
+    },
+    {
+      "rank": 181,
+      "name": "Callaway",
+      "designation": "Village",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 182,
+      "name": "Palmyra",
+      "designation": "Village",
+      "primary_county": "Otoe"
+    },
+    {
+      "rank": 183,
+      "name": "Howells",
+      "designation": "Village",
+      "primary_county": "Colfax"
+    },
+    {
+      "rank": 184,
+      "name": "Bassett",
+      "designation": "City",
+      "primary_county": "Rock"
+    },
+    {
+      "rank": 185,
+      "name": "Verdigre",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "rank": 186,
+      "name": "Beaver City",
+      "designation": "City",
+      "primary_county": "Furnas"
+    },
+    {
+      "rank": 187,
+      "name": "Wauneta",
+      "designation": "Village",
+      "primary_county": "Chase"
+    },
+    {
+      "rank": 188,
+      "name": "Exeter",
+      "designation": "Village",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 189,
+      "name": "Indianola",
+      "designation": "City",
+      "primary_county": "Red Willow"
+    },
+    {
+      "rank": 190,
+      "name": "Culbertson",
+      "designation": "Village",
+      "primary_county": "Hitchcock"
+    },
+    {
+      "rank": 191,
+      "name": "Homer",
+      "designation": "Village",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 192,
+      "name": "Coleridge",
+      "designation": "Village",
+      "primary_county": "Cedar"
+    },
+    {
+      "rank": 193,
+      "name": "Cortland",
+      "designation": "Village",
+      "primary_county": "Gage"
+    },
+    {
+      "rank": 194,
+      "name": "De Witt",
+      "designation": "Village",
+      "primary_county": "Saline"
+    },
+    {
+      "rank": 195,
+      "name": "Paxton",
+      "designation": "Village",
+      "primary_county": "Keith"
+    },
+    {
+      "rank": 196,
+      "name": "Stuart",
+      "designation": "Village",
+      "primary_county": "Holt"
+    },
+    {
+      "rank": 197,
+      "name": "Trenton",
+      "designation": "Village",
+      "primary_county": "Hitchcock"
+    },
+    {
+      "rank": 198,
+      "name": "Murray",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 199,
+      "name": "Bancroft",
+      "designation": "Village",
+      "primary_county": "Cuming"
+    },
+    {
+      "rank": 200,
+      "name": "Sargent",
+      "designation": "City",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 201,
+      "name": "McCool Junction",
+      "designation": "Village",
+      "primary_county": "York"
+    },
+    {
+      "rank": 202,
+      "name": "Cedar Creek",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 203,
+      "name": "Malcolm",
+      "designation": "Village",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 204,
+      "name": "Sterling",
+      "designation": "Village",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 205,
+      "name": "Ansley",
+      "designation": "Village",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 206,
+      "name": "Mullen",
+      "designation": "Village",
+      "primary_county": "Hooker"
+    },
+    {
+      "rank": 207,
+      "name": "Nelson",
+      "designation": "City",
+      "primary_county": "Nuckolls"
+    },
+    {
+      "rank": 208,
+      "name": "Palmer",
+      "designation": "Village",
+      "primary_county": "Merrick"
+    },
+    {
+      "rank": 209,
+      "name": "Leigh",
+      "designation": "Village",
+      "primary_county": "Colfax"
+    },
+    {
+      "rank": 210,
+      "name": "Hampton",
+      "designation": "Village",
+      "primary_county": "Hamilton"
+    },
+    {
+      "rank": 211,
+      "name": "Edgar",
+      "designation": "City",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 212,
+      "name": "Spalding",
+      "designation": "Village",
+      "primary_county": "Greeley"
+    },
+    {
+      "rank": 213,
+      "name": "Santee",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "rank": 214,
+      "name": "Giltner",
+      "designation": "Village",
+      "primary_county": "Hamilton"
+    },
+    {
+      "rank": 215,
+      "name": "Decatur",
+      "designation": "Village",
+      "primary_county": "Burt"
+    },
+    {
+      "rank": 216,
+      "name": "Bellwood",
+      "designation": "Village",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 217,
+      "name": "Greeley Center",
+      "designation": "Village",
+      "primary_county": "Greeley"
+    },
+    {
+      "rank": 218,
+      "name": "Big Springs",
+      "designation": "Village",
+      "primary_county": "Deuel"
+    },
+    {
+      "rank": 219,
+      "name": "Eustis",
+      "designation": "Village",
+      "primary_county": "Frontier"
+    },
+    {
+      "rank": 220,
+      "name": "Loomis",
+      "designation": "Village",
+      "primary_county": "Phelps"
+    },
+    {
+      "rank": 221,
+      "name": "Duncan",
+      "designation": "Village",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 222,
+      "name": "Spencer",
+      "designation": "Village",
+      "primary_county": "Boyd"
+    },
+    {
+      "rank": 223,
+      "name": "Pleasanton",
+      "designation": "Village",
+      "primary_county": "Buffalo"
+    },
+    {
+      "rank": 224,
+      "name": "Cedar Rapids",
+      "designation": "Village",
+      "primary_county": "Boone"
+    },
+    {
+      "rank": 225,
+      "name": "Ewing",
+      "designation": "Village",
+      "primary_county": "Holt"
+    },
+    {
+      "rank": 226,
+      "name": "Kennard",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 227,
+      "name": "Winside",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "rank": 228,
+      "name": "Beaver Crossing",
+      "designation": "Village",
+      "primary_county": "Seward"
+    },
+    {
+      "rank": 229,
+      "name": "Brady",
+      "designation": "Village",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 230,
+      "name": "Hildreth",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 231,
+      "name": "Inglewood",
+      "designation": "Village",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 232,
+      "name": "Niobrara",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "rank": 233,
+      "name": "Rising City",
+      "designation": "Village",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 234,
+      "name": "Plymouth",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 235,
+      "name": "Allen",
+      "designation": "Village",
+      "primary_county": "Dixon"
+    },
+    {
+      "rank": 236,
+      "name": "Orchard",
+      "designation": "Village",
+      "primary_county": "Antelope"
+    },
+    {
+      "rank": 237,
+      "name": "Brainard",
+      "designation": "Village",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 238,
+      "name": "Merna",
+      "designation": "Village",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 239,
+      "name": "Shickley",
+      "designation": "Village",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 240,
+      "name": "Polk",
+      "designation": "Village",
+      "primary_county": "Polk"
+    },
+    {
+      "rank": 241,
+      "name": "Potter",
+      "designation": "Village",
+      "primary_county": "Cheyenne"
+    },
+    {
+      "rank": 242,
+      "name": "Clarks",
+      "designation": "Village",
+      "primary_county": "Merrick"
+    },
+    {
+      "rank": 243,
+      "name": "Fairfield",
+      "designation": "City",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 244,
+      "name": "Orleans",
+      "designation": "Village",
+      "primary_county": "Harlan"
+    },
+    {
+      "rank": 245,
+      "name": "Platte Center",
+      "designation": "Village",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 246,
+      "name": "Wilcox",
+      "designation": "Village",
+      "primary_county": "Kearney"
+    },
+    {
+      "rank": 247,
+      "name": "Phillips",
+      "designation": "Village",
+      "primary_county": "Hamilton"
+    },
+    {
+      "rank": 248,
+      "name": "Clearwater",
+      "designation": "Village",
+      "primary_county": "Antelope"
+    },
+    {
+      "rank": 249,
+      "name": "Petersburg",
+      "designation": "Village",
+      "primary_county": "Boone"
+    },
+    {
+      "rank": 250,
+      "name": "Silver Creek",
+      "designation": "Village",
+      "primary_county": "Merrick"
+    },
+    {
+      "rank": 251,
+      "name": "Lodgepole",
+      "designation": "Village",
+      "primary_county": "Cheyenne"
+    },
+    {
+      "rank": 252,
+      "name": "Johnson",
+      "designation": "Village",
+      "primary_county": "Nemaha"
+    },
+    {
+      "rank": 253,
+      "name": "Brule",
+      "designation": "Village",
+      "primary_county": "Keith"
+    },
+    {
+      "rank": 254,
+      "name": "Cook",
+      "designation": "Village",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 255,
+      "name": "Davenport",
+      "designation": "Village",
+      "primary_county": "Thayer"
+    },
+    {
+      "rank": 256,
+      "name": "Stratton",
+      "designation": "Village",
+      "primary_county": "Hitchcock"
+    },
+    {
+      "rank": 257,
+      "name": "Waco",
+      "designation": "Village",
+      "primary_county": "York"
+    },
+    {
+      "rank": 258,
+      "name": "Wallace",
+      "designation": "Village",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 259,
+      "name": "Unadilla",
+      "designation": "Village",
+      "primary_county": "Otoe"
+    },
+    {
+      "rank": 260,
+      "name": "Nickerson",
+      "designation": "Village",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 261,
+      "name": "Scotia",
+      "designation": "Village",
+      "primary_county": "Greeley"
+    },
+    {
+      "rank": 262,
+      "name": "Long Pine",
+      "designation": "City",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 263,
+      "name": "Prague",
+      "designation": "Village",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 264,
+      "name": "Hadar",
+      "designation": "Village",
+      "primary_county": "Pierce"
+    },
+    {
+      "rank": 265,
+      "name": "Hallam",
+      "designation": "Village",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 266,
+      "name": "Dalton",
+      "designation": "Village",
+      "primary_county": "Cheyenne"
+    },
+    {
+      "rank": 267,
+      "name": "Monroe",
+      "designation": "Village",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 268,
+      "name": "Chambers",
+      "designation": "Village",
+      "primary_county": "Holt"
+    },
+    {
+      "rank": 269,
+      "name": "Lindsay",
+      "designation": "Village",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 270,
+      "name": "Palisade",
+      "designation": "Village",
+      "primary_county": "HitchcockHayes"
+    },
+    {
+      "rank": 271,
+      "name": "Bradshaw",
+      "designation": "Village",
+      "primary_county": "York"
+    },
+    {
+      "rank": 272,
+      "name": "Arcadia",
+      "designation": "Village",
+      "primary_county": "Valley"
+    },
+    {
+      "rank": 273,
+      "name": "Murdock",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 274,
+      "name": "Dannebrog",
+      "designation": "Village",
+      "primary_county": "Howard"
+    },
+    {
+      "rank": 275,
+      "name": "Blue Springs",
+      "designation": "City",
+      "primary_county": "Gage"
+    },
+    {
+      "rank": 276,
+      "name": "Butte",
+      "designation": "Village",
+      "primary_county": "Boyd"
+    },
+    {
+      "rank": 277,
+      "name": "Meadow Grove",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "rank": 278,
+      "name": "Bruning",
+      "designation": "Village",
+      "primary_county": "Thayer"
+    },
+    {
+      "rank": 279,
+      "name": "Hoskins",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "rank": 280,
+      "name": "Lawrence",
+      "designation": "Village",
+      "primary_county": "Nuckolls"
+    },
+    {
+      "rank": 281,
+      "name": "Oakdale",
+      "designation": "Village",
+      "primary_county": "Antelope"
+    },
+    {
+      "rank": 282,
+      "name": "Glenvil",
+      "designation": "Village",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 283,
+      "name": "Maywood",
+      "designation": "Village",
+      "primary_county": "Frontier"
+    },
+    {
+      "rank": 284,
+      "name": "Newcastle",
+      "designation": "Village",
+      "primary_county": "Dixon"
+    },
+    {
+      "rank": 285,
+      "name": "Bartley",
+      "designation": "Village",
+      "primary_county": "Red Willow"
+    },
+    {
+      "rank": 286,
+      "name": "Chapman",
+      "designation": "Village",
+      "primary_county": "Merrick"
+    },
+    {
+      "rank": 287,
+      "name": "Campbell",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 288,
+      "name": "Clatonia",
+      "designation": "Village",
+      "primary_county": "Gage"
+    },
+    {
+      "rank": 289,
+      "name": "Roseland",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 290,
+      "name": "Diller",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 291,
+      "name": "Odell",
+      "designation": "Village",
+      "primary_county": "Gage"
+    },
+    {
+      "rank": 292,
+      "name": "Lyman",
+      "designation": "Village",
+      "primary_county": "Scotts Bluff"
+    },
+    {
+      "rank": 293,
+      "name": "Weston",
+      "designation": "Village",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 294,
+      "name": "Maxwell",
+      "designation": "Village",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 295,
+      "name": "Milligan",
+      "designation": "Village",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 296,
+      "name": "North Loup",
+      "designation": "Village",
+      "primary_county": "Valley"
+    },
+    {
+      "rank": 297,
+      "name": "Herman",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 298,
+      "name": "Springview",
+      "designation": "Village",
+      "primary_county": "Keya Paha"
+    },
+    {
+      "rank": 299,
+      "name": "Stapleton",
+      "designation": "Village",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 300,
+      "name": "Sumner",
+      "designation": "Village",
+      "primary_county": "Dawson"
+    },
+    {
+      "rank": 301,
+      "name": "Pilger",
+      "designation": "Village",
+      "primary_county": "Stanton"
+    },
+    {
+      "rank": 302,
+      "name": "Riverdale",
+      "designation": "Village",
+      "primary_county": "Buffalo"
+    },
+    {
+      "rank": 303,
+      "name": "Snyder",
+      "designation": "Village",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 304,
+      "name": "Harrison",
+      "designation": "Village",
+      "primary_county": "Sioux"
+    },
+    {
+      "rank": 305,
+      "name": "Marquette",
+      "designation": "Village",
+      "primary_county": "Hamilton"
+    },
+    {
+      "rank": 306,
+      "name": "Table Rock",
+      "designation": "Village",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 307,
+      "name": "Madrid",
+      "designation": "Village",
+      "primary_county": "Perkins"
+    },
+    {
+      "rank": 308,
+      "name": "Wolbach",
+      "designation": "Village",
+      "primary_county": "Greeley"
+    },
+    {
+      "rank": 309,
+      "name": "Dwight",
+      "designation": "Village",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 310,
+      "name": "Panama",
+      "designation": "Village",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 311,
+      "name": "Staplehurst",
+      "designation": "Village",
+      "primary_county": "Seward"
+    },
+    {
+      "rank": 312,
+      "name": "Uehling",
+      "designation": "Village",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 313,
+      "name": "Hayes Center",
+      "designation": "Village",
+      "primary_county": "Hayes"
+    },
+    {
+      "rank": 314,
+      "name": "Gresham",
+      "designation": "Village",
+      "primary_county": "York"
+    },
+    {
+      "rank": 315,
+      "name": "Western",
+      "designation": "Village",
+      "primary_county": "Saline"
+    },
+    {
+      "rank": 316,
+      "name": "Litchfield",
+      "designation": "Village",
+      "primary_county": "Sherman"
+    },
+    {
+      "rank": 317,
+      "name": "Wynot",
+      "designation": "Village",
+      "primary_county": "Cedar"
+    },
+    {
+      "rank": 318,
+      "name": "Chester",
+      "designation": "Village",
+      "primary_county": "Thayer"
+    },
+    {
+      "rank": 319,
+      "name": "Thedford",
+      "designation": "Village",
+      "primary_county": "Thomas"
+    },
+    {
+      "rank": 320,
+      "name": "Roca",
+      "designation": "Village",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 321,
+      "name": "Pleasant Dale",
+      "designation": "Village",
+      "primary_county": "Seward"
+    },
+    {
+      "rank": 322,
+      "name": "Garland",
+      "designation": "Village",
+      "primary_county": "Seward"
+    },
+    {
+      "rank": 323,
+      "name": "Talmage",
+      "designation": "Village",
+      "primary_county": "Otoe"
+    },
+    {
+      "rank": 324,
+      "name": "Benedict",
+      "designation": "Village",
+      "primary_county": "York"
+    },
+    {
+      "rank": 325,
+      "name": "Craig",
+      "designation": "Village",
+      "primary_county": "Burt"
+    },
+    {
+      "rank": 326,
+      "name": "Jackson",
+      "designation": "Village",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 327,
+      "name": "Bladen",
+      "designation": "Village",
+      "primary_county": "Webster"
+    },
+    {
+      "rank": 328,
+      "name": "Holbrook",
+      "designation": "Village",
+      "primary_county": "Furnas"
+    },
+    {
+      "rank": 329,
+      "name": "Union",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 330,
+      "name": "Amherst",
+      "designation": "Village",
+      "primary_county": "Buffalo"
+    },
+    {
+      "rank": 331,
+      "name": "Guide Rock",
+      "designation": "Village",
+      "primary_county": "Webster"
+    },
+    {
+      "rank": 332,
+      "name": "Trumbull",
+      "designation": "Village",
+      "primary_county": "ClayAdams"
+    },
+    {
+      "rank": 333,
+      "name": "Elba",
+      "designation": "Village",
+      "primary_county": "Howard"
+    },
+    {
+      "rank": 334,
+      "name": "Ashton",
+      "designation": "Village",
+      "primary_county": "Sherman"
+    },
+    {
+      "rank": 335,
+      "name": "Ulysses",
+      "designation": "Village",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 336,
+      "name": "Denton",
+      "designation": "Village",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 337,
+      "name": "Gurley",
+      "designation": "Village",
+      "primary_county": "Cheyenne"
+    },
+    {
+      "rank": 338,
+      "name": "Lynch",
+      "designation": "Village",
+      "primary_county": "Boyd"
+    },
+    {
+      "rank": 339,
+      "name": "Carroll",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "rank": 340,
+      "name": "Holstein",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 341,
+      "name": "Pickrell",
+      "designation": "Village",
+      "primary_county": "Gage"
+    },
+    {
+      "rank": 342,
+      "name": "Avoca",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 343,
+      "name": "Dix",
+      "designation": "Village",
+      "primary_county": "Kimball"
+    },
+    {
+      "rank": 344,
+      "name": "Howard City (Boelus)",
+      "designation": "Village",
+      "primary_county": "Howard"
+    },
+    {
+      "rank": 345,
+      "name": "Farnam",
+      "designation": "Village",
+      "primary_county": "Dawson"
+    },
+    {
+      "rank": 346,
+      "name": "Creston",
+      "designation": "Village",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 347,
+      "name": "Funk",
+      "designation": "Village",
+      "primary_county": "Phelps"
+    },
+    {
+      "rank": 348,
+      "name": "Goehner",
+      "designation": "Village",
+      "primary_county": "Seward"
+    },
+    {
+      "rank": 349,
+      "name": "Manley",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 350,
+      "name": "Douglas",
+      "designation": "Village",
+      "primary_county": "Otoe"
+    },
+    {
+      "rank": 351,
+      "name": "Nehawka",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 352,
+      "name": "Hubbard",
+      "designation": "Village",
+      "primary_county": "Dakota"
+    },
+    {
+      "rank": 353,
+      "name": "Dunbar",
+      "designation": "Village",
+      "primary_county": "Otoe"
+    },
+    {
+      "rank": 354,
+      "name": "Bee",
+      "designation": "Village",
+      "primary_county": "Seward"
+    },
+    {
+      "rank": 355,
+      "name": "Cody",
+      "designation": "Village",
+      "primary_county": "Cherry"
+    },
+    {
+      "rank": 356,
+      "name": "Lewellen",
+      "designation": "Village",
+      "primary_county": "Garden"
+    },
+    {
+      "rank": 357,
+      "name": "Otoe",
+      "designation": "Village",
+      "primary_county": "Otoe"
+    },
+    {
+      "rank": 358,
+      "name": "Page",
+      "designation": "Village",
+      "primary_county": "Holt"
+    },
+    {
+      "rank": 359,
+      "name": "Ithaca",
+      "designation": "Village",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 360,
+      "name": "Verdon",
+      "designation": "Village",
+      "primary_county": "Richardson"
+    },
+    {
+      "rank": 361,
+      "name": "Shubert",
+      "designation": "Village",
+      "primary_county": "Richardson"
+    },
+    {
+      "rank": 362,
+      "name": "Stamford",
+      "designation": "Village",
+      "primary_county": "Harlan"
+    },
+    {
+      "rank": 363,
+      "name": "Brunswick",
+      "designation": "Village",
+      "primary_county": "Antelope"
+    },
+    {
+      "rank": 364,
+      "name": "Raymond",
+      "designation": "Village",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 365,
+      "name": "Venango",
+      "designation": "Village",
+      "primary_county": "Perkins"
+    },
+    {
+      "rank": 366,
+      "name": "Daykin",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 367,
+      "name": "Rosalie",
+      "designation": "Village",
+      "primary_county": "Thurston"
+    },
+    {
+      "rank": 368,
+      "name": "Hyannis",
+      "designation": "Village",
+      "primary_county": "Grant"
+    },
+    {
+      "rank": 369,
+      "name": "Mason City",
+      "designation": "Village",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 370,
+      "name": "Dawson",
+      "designation": "Village",
+      "primary_county": "Richardson"
+    },
+    {
+      "rank": 371,
+      "name": "Stella",
+      "designation": "Village",
+      "primary_county": "Richardson"
+    },
+    {
+      "rank": 372,
+      "name": "Rulo",
+      "designation": "Village",
+      "primary_county": "Richardson"
+    },
+    {
+      "rank": 373,
+      "name": "Brownville",
+      "designation": "Village",
+      "primary_county": "Nemaha"
+    },
+    {
+      "rank": 374,
+      "name": "Oconto",
+      "designation": "Village",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 375,
+      "name": "Alexandria",
+      "designation": "Village",
+      "primary_county": "Thayer"
+    },
+    {
+      "rank": 376,
+      "name": "Haigler",
+      "designation": "Village",
+      "primary_county": "Dundy"
+    },
+    {
+      "rank": 377,
+      "name": "Republican City",
+      "designation": "Village",
+      "primary_county": "Harlan"
+    },
+    {
+      "rank": 378,
+      "name": "Taylor",
+      "designation": "Village",
+      "primary_county": "Loup"
+    },
+    {
+      "rank": 379,
+      "name": "Farwell",
+      "designation": "Village",
+      "primary_county": "Howard"
+    },
+    {
+      "rank": 380,
+      "name": "Hordville",
+      "designation": "Village",
+      "primary_county": "Hamilton"
+    },
+    {
+      "rank": 381,
+      "name": "Sprague",
+      "designation": "Village",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 382,
+      "name": "Fordyce",
+      "designation": "Village",
+      "primary_county": "Cedar"
+    },
+    {
+      "rank": 383,
+      "name": "Washington",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 384,
+      "name": "Henry",
+      "designation": "Village",
+      "primary_county": "Scotts Bluff"
+    },
+    {
+      "rank": 385,
+      "name": "Miller",
+      "designation": "Village",
+      "primary_county": "Buffalo"
+    },
+    {
+      "rank": 386,
+      "name": "Davey",
+      "designation": "Village",
+      "primary_county": "Lancaster"
+    },
+    {
+      "rank": 387,
+      "name": "Morse Bluff",
+      "designation": "Village",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 388,
+      "name": "Upland",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 389,
+      "name": "Brock",
+      "designation": "Village",
+      "primary_county": "Nemaha"
+    },
+    {
+      "rank": 390,
+      "name": "Du Bois",
+      "designation": "Village",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 391,
+      "name": "Ohiowa",
+      "designation": "Village",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 392,
+      "name": "Filley",
+      "designation": "Village",
+      "primary_county": "Gage"
+    },
+    {
+      "rank": 393,
+      "name": "Arthur",
+      "designation": "Village",
+      "primary_county": "Arthur"
+    },
+    {
+      "rank": 394,
+      "name": "Concord",
+      "designation": "Village",
+      "primary_county": "Dixon"
+    },
+    {
+      "rank": 395,
+      "name": "Alvo",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 396,
+      "name": "Colon",
+      "designation": "Village",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 397,
+      "name": "Nemaha",
+      "designation": "Village",
+      "primary_county": "Nemaha"
+    },
+    {
+      "rank": 398,
+      "name": "Thurston",
+      "designation": "Village",
+      "primary_county": "Thurston"
+    },
+    {
+      "rank": 399,
+      "name": "Tobias",
+      "designation": "Village",
+      "primary_county": "Saline"
+    },
+    {
+      "rank": 400,
+      "name": "Belden",
+      "designation": "Village",
+      "primary_county": "Cedar"
+    },
+    {
+      "rank": 401,
+      "name": "Bushnell",
+      "designation": "Village",
+      "primary_county": "Kimball"
+    },
+    {
+      "rank": 402,
+      "name": "Leshara",
+      "designation": "Village",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 403,
+      "name": "Edison",
+      "designation": "Village",
+      "primary_county": "Furnas"
+    },
+    {
+      "rank": 404,
+      "name": "Endicott",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 405,
+      "name": "Grafton",
+      "designation": "Village",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 406,
+      "name": "Memphis",
+      "designation": "Village",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 407,
+      "name": "Bloomington",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 408,
+      "name": "Melbeta",
+      "designation": "Village",
+      "primary_county": "Scotts Bluff"
+    },
+    {
+      "rank": 409,
+      "name": "Anselmo",
+      "designation": "Village",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 410,
+      "name": "Octavia",
+      "designation": "Village",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 411,
+      "name": "Bartlett",
+      "designation": "Village",
+      "primary_county": "Wheeler"
+    },
+    {
+      "rank": 412,
+      "name": "Ruskin",
+      "designation": "Village",
+      "primary_county": "Nuckolls"
+    },
+    {
+      "rank": 413,
+      "name": "Atlanta",
+      "designation": "Village",
+      "primary_county": "Phelps"
+    },
+    {
+      "rank": 414,
+      "name": "Elsie",
+      "designation": "Village",
+      "primary_county": "Perkins"
+    },
+    {
+      "rank": 415,
+      "name": "Belgrade",
+      "designation": "Village",
+      "primary_county": "Nance"
+    },
+    {
+      "rank": 416,
+      "name": "Inman",
+      "designation": "Village",
+      "primary_county": "Holt"
+    },
+    {
+      "rank": 417,
+      "name": "Bruno",
+      "designation": "Village",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 418,
+      "name": "Jansen",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 419,
+      "name": "Broadwater",
+      "designation": "Village",
+      "primary_county": "Morrill"
+    },
+    {
+      "rank": 420,
+      "name": "Malmo",
+      "designation": "Village",
+      "primary_county": "Saunders"
+    },
+    {
+      "rank": 421,
+      "name": "Cordova",
+      "designation": "Village",
+      "primary_county": "Seward"
+    },
+    {
+      "rank": 422,
+      "name": "South Bend",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "rank": 423,
+      "name": "Hardy",
+      "designation": "Village",
+      "primary_county": "Nuckolls"
+    },
+    {
+      "rank": 424,
+      "name": "Linwood",
+      "designation": "Village",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 425,
+      "name": "Ericson",
+      "designation": "Village",
+      "primary_county": "Wheeler"
+    },
+    {
+      "rank": 426,
+      "name": "Rockville",
+      "designation": "Village",
+      "primary_county": "Sherman"
+    },
+    {
+      "rank": 427,
+      "name": "St. Helena",
+      "designation": "Village",
+      "primary_county": "Cedar"
+    },
+    {
+      "rank": 428,
+      "name": "Barneston",
+      "designation": "Village",
+      "primary_county": "Gage"
+    },
+    {
+      "rank": 429,
+      "name": "Merriman",
+      "designation": "Village",
+      "primary_county": "Cherry"
+    },
+    {
+      "rank": 430,
+      "name": "Carleton",
+      "designation": "Village",
+      "primary_county": "Thayer"
+    },
+    {
+      "rank": 431,
+      "name": "Ayr",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 432,
+      "name": "Byron",
+      "designation": "Village",
+      "primary_county": "Thayer"
+    },
+    {
+      "rank": 433,
+      "name": "Eddyville",
+      "designation": "Village",
+      "primary_county": "Dawson"
+    },
+    {
+      "rank": 434,
+      "name": "Naper",
+      "designation": "Village",
+      "primary_county": "Boyd"
+    },
+    {
+      "rank": 435,
+      "name": "Naponee",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 436,
+      "name": "Salem",
+      "designation": "Village",
+      "primary_county": "Richardson"
+    },
+    {
+      "rank": 437,
+      "name": "Dunning",
+      "designation": "Village",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 438,
+      "name": "Heartwell",
+      "designation": "Village",
+      "primary_county": "Kearney"
+    },
+    {
+      "rank": 439,
+      "name": "Rogers",
+      "designation": "Village",
+      "primary_county": "Colfax"
+    },
+    {
+      "rank": 440,
+      "name": "Dixon",
+      "designation": "Village",
+      "primary_county": "Dixon"
+    },
+    {
+      "rank": 441,
+      "name": "Martinsburg",
+      "designation": "Village",
+      "primary_county": "Dixon"
+    },
+    {
+      "rank": 442,
+      "name": "Burchard",
+      "designation": "Village",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 443,
+      "name": "Prosser",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 444,
+      "name": "Swanton",
+      "designation": "Village",
+      "primary_county": "Saline"
+    },
+    {
+      "rank": 445,
+      "name": "Wilsonville",
+      "designation": "Village",
+      "primary_county": "Furnas"
+    },
+    {
+      "rank": 446,
+      "name": "Berwyn",
+      "designation": "Village",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 447,
+      "name": "Center",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "rank": 448,
+      "name": "Danbury",
+      "designation": "Village",
+      "primary_county": "Red Willow"
+    },
+    {
+      "rank": 449,
+      "name": "Richland",
+      "designation": "Village",
+      "primary_county": "Colfax"
+    },
+    {
+      "rank": 450,
+      "name": "Comstock",
+      "designation": "Village",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 451,
+      "name": "Crookston",
+      "designation": "Village",
+      "primary_county": "Cherry"
+    },
+    {
+      "rank": 452,
+      "name": "Virginia",
+      "designation": "Village",
+      "primary_county": "Gage"
+    },
+    {
+      "rank": 453,
+      "name": "Waterbury",
+      "designation": "Village",
+      "primary_county": "Dixon"
+    },
+    {
+      "rank": 454,
+      "name": "Wellfleet",
+      "designation": "Village",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 455,
+      "name": "Kilgore",
+      "designation": "Village",
+      "primary_county": "Cherry"
+    },
+    {
+      "rank": 456,
+      "name": "Newport",
+      "designation": "Village",
+      "primary_county": "Rock"
+    },
+    {
+      "rank": 457,
+      "name": "Bristow",
+      "designation": "Village",
+      "primary_county": "Boyd"
+    },
+    {
+      "rank": 458,
+      "name": "Abie",
+      "designation": "Village",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 459,
+      "name": "McGrew",
+      "designation": "Village",
+      "primary_county": "Scotts Bluff"
+    },
+    {
+      "rank": 460,
+      "name": "Elk Creek",
+      "designation": "Village",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 461,
+      "name": "Halsey",
+      "designation": "Village",
+      "primary_county": "ThomasBlaine"
+    },
+    {
+      "rank": 462,
+      "name": "Hazard",
+      "designation": "Village",
+      "primary_county": "Sherman"
+    },
+    {
+      "rank": 463,
+      "name": "Hubbell",
+      "designation": "Village",
+      "primary_county": "Thayer"
+    },
+    {
+      "rank": 464,
+      "name": "Maskell",
+      "designation": "Village",
+      "primary_county": "Dixon"
+    },
+    {
+      "rank": 465,
+      "name": "Smithfield",
+      "designation": "Village",
+      "primary_county": "Gosper"
+    },
+    {
+      "rank": 466,
+      "name": "Whitney",
+      "designation": "Village",
+      "primary_county": "Dawes"
+    },
+    {
+      "rank": 467,
+      "name": "Lewiston",
+      "designation": "Village",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 468,
+      "name": "Garrison",
+      "designation": "Village",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 469,
+      "name": "Primrose",
+      "designation": "Village",
+      "primary_county": "Boone"
+    },
+    {
+      "rank": 470,
+      "name": "Royal",
+      "designation": "Village",
+      "primary_county": "Antelope"
+    },
+    {
+      "rank": 471,
+      "name": "Steinauer",
+      "designation": "Village",
+      "primary_county": "Pawnee"
+    },
+    {
+      "rank": 472,
+      "name": "Reynolds",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 473,
+      "name": "Belvidere",
+      "designation": "Village",
+      "primary_county": "Thayer"
+    },
+    {
+      "rank": 474,
+      "name": "Burr",
+      "designation": "Village",
+      "primary_county": "Otoe"
+    },
+    {
+      "rank": 475,
+      "name": "Riverton",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 476,
+      "name": "Harbine",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 477,
+      "name": "Oak",
+      "designation": "Village",
+      "primary_county": "Nuckolls"
+    },
+    {
+      "rank": 478,
+      "name": "Thayer",
+      "designation": "Village",
+      "primary_county": "York"
+    },
+    {
+      "rank": 479,
+      "name": "Tarnov",
+      "designation": "Village",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 480,
+      "name": "Winnetoon",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "rank": 481,
+      "name": "Elyria",
+      "designation": "Village",
+      "primary_county": "Valley"
+    },
+    {
+      "rank": 482,
+      "name": "Ong",
+      "designation": "Village",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 483,
+      "name": "Steele City",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 484,
+      "name": "Wood Lake",
+      "designation": "Village",
+      "primary_county": "Cherry"
+    },
+    {
+      "rank": 485,
+      "name": "Emmet",
+      "designation": "Village",
+      "primary_county": "Holt"
+    },
+    {
+      "rank": 486,
+      "name": "Johnstown",
+      "designation": "Village",
+      "primary_county": "Brown"
+    },
+    {
+      "rank": 487,
+      "name": "Julian",
+      "designation": "Village",
+      "primary_county": "Nemaha"
+    },
+    {
+      "rank": 488,
+      "name": "Lebanon",
+      "designation": "Village",
+      "primary_county": "Red Willow"
+    },
+    {
+      "rank": 489,
+      "name": "Crab Orchard",
+      "designation": "Village",
+      "primary_county": "Johnson"
+    },
+    {
+      "rank": 490,
+      "name": "Foster",
+      "designation": "Village",
+      "primary_county": "Pierce"
+    },
+    {
+      "rank": 491,
+      "name": "Magnet",
+      "designation": "Village",
+      "primary_county": "Cedar"
+    },
+    {
+      "rank": 492,
+      "name": "Surprise",
+      "designation": "Village",
+      "primary_county": "Butler"
+    },
+    {
+      "rank": 493,
+      "name": "Deweese",
+      "designation": "Village",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 494,
+      "name": "Verdel",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "rank": 495,
+      "name": "Clinton",
+      "designation": "Village",
+      "primary_county": "Sheridan"
+    },
+    {
+      "rank": 496,
+      "name": "McLean",
+      "designation": "Village",
+      "primary_county": "Pierce"
+    },
+    {
+      "rank": 497,
+      "name": "Saronville",
+      "designation": "Village",
+      "primary_county": "Clay"
+    },
+    {
+      "rank": 498,
+      "name": "Lorton",
+      "designation": "Village",
+      "primary_county": "Otoe"
+    },
+    {
+      "rank": 499,
+      "name": "Norman",
+      "designation": "Village",
+      "primary_county": "Kearney"
+    },
+    {
+      "rank": 500,
+      "name": "Cornlea",
+      "designation": "Village",
+      "primary_county": "Platte"
+    },
+    {
+      "rank": 501,
+      "name": "Cushing",
+      "designation": "Village",
+      "primary_county": "Howard"
+    },
+    {
+      "rank": 502,
+      "name": "Huntley",
+      "designation": "Village",
+      "primary_county": "Harlan"
+    },
+    {
+      "rank": 503,
+      "name": "Liberty",
+      "designation": "Village",
+      "primary_county": "Gage"
+    },
+    {
+      "rank": 504,
+      "name": "Stockham",
+      "designation": "Village",
+      "primary_county": "Hamilton"
+    },
+    {
+      "rank": 505,
+      "name": "Strang",
+      "designation": "Village",
+      "primary_county": "Fillmore"
+    },
+    {
+      "rank": 506,
+      "name": "Gandy",
+      "designation": "Village",
+      "primary_county": "Logan"
+    },
+    {
+      "rank": 507,
+      "name": "Cotesfield",
+      "designation": "Village",
+      "primary_county": "Howard"
+    },
+    {
+      "rank": 508,
+      "name": "Gilead",
+      "designation": "Village",
+      "primary_county": "Thayer"
+    },
+    {
+      "rank": 509,
+      "name": "Hamlet",
+      "designation": "Village",
+      "primary_county": "Hayes"
+    },
+    {
+      "rank": 510,
+      "name": "Lushton",
+      "designation": "Village",
+      "primary_county": "York"
+    },
+    {
+      "rank": 511,
+      "name": "Moorefield",
+      "designation": "Village",
+      "primary_county": "Frontier"
+    },
+    {
+      "rank": 512,
+      "name": "Lamar",
+      "designation": "Village",
+      "primary_county": "Chase"
+    },
+    {
+      "rank": 513,
+      "name": "Bazile Mills",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "rank": 514,
+      "name": "Cowles",
+      "designation": "Village",
+      "primary_county": "Webster"
+    },
+    {
+      "rank": 515,
+      "name": "Hendley",
+      "designation": "Village",
+      "primary_county": "Furnas"
+    },
+    {
+      "rank": 516,
+      "name": "Obert",
+      "designation": "Village",
+      "primary_county": "Cedar"
+    },
+    {
+      "rank": 517,
+      "name": "Ragan",
+      "designation": "Village",
+      "primary_county": "Harlan"
+    },
+    {
+      "rank": 518,
+      "name": "Stockville",
+      "designation": "Village",
+      "primary_county": "Frontier"
+    },
+    {
+      "rank": 519,
+      "name": "Nora",
+      "designation": "Village",
+      "primary_county": "Nuckolls"
+    },
+    {
+      "rank": 520,
+      "name": "Barada",
+      "designation": "Village",
+      "primary_county": "Richardson"
+    },
+    {
+      "rank": 521,
+      "name": "Winslow",
+      "designation": "Village",
+      "primary_county": "Dodge"
+    },
+    {
+      "rank": 522,
+      "name": "Nenzel",
+      "designation": "Village",
+      "primary_county": "Cherry"
+    },
+    {
+      "rank": 523,
+      "name": "Sholes",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "rank": 524,
+      "name": "Anoka",
+      "designation": "Village",
+      "primary_county": "Boyd"
+    },
+    {
+      "rank": 525,
+      "name": "Burton",
+      "designation": "Village",
+      "primary_county": "Keya Paha"
+    },
+    {
+      "rank": 526,
+      "name": "Brewster",
+      "designation": "Village",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 527,
+      "name": "Gross",
+      "designation": "Village",
+      "primary_county": "Boyd"
+    },
+    {
+      "rank": 528,
+      "name": "Monowi",
+      "designation": "Village",
+      "primary_county": "Boyd"
+    }
+  ]
+}

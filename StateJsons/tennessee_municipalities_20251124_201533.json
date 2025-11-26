@@ -1,0 +1,1864 @@
+{
+  "metadata": {
+    "state": "Tennessee",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Tennessee",
+    "scraped_at": "2025-11-24 20:15:33",
+    "scraper_version": "2.0_generic",
+    "description": "Tennessee municipalities scraped from Wikipedia",
+    "total_municipalities": 345,
+    "statistics": {
+      "total_found": 345,
+      "with_population": 0,
+      "with_counties": 345,
+      "unique_counties": 118,
+      "population_stats": {}
+    },
+    "counties": [
+      "Anderson County",
+      "Anderson CountyCampbell County",
+      "Anderson CountyMorgan CountyRoane County",
+      "Anderson CountyRoane County",
+      "Bedford County",
+      "Benton County",
+      "Bledsoe County",
+      "Blount County",
+      "Bradley County",
+      "Campbell County",
+      "Cannon County",
+      "Carroll County",
+      "Carroll CountyHenry CountyWeakley County",
+      "Carter County",
+      "Cheatham County",
+      "Chester County",
+      "Chester CountyMcNairy County",
+      "Claiborne County",
+      "Clay County",
+      "Cocke County",
+      "Coffee County",
+      "Coffee CountyFranklin County",
+      "Crockett County",
+      "Cumberland County",
+      "Davidson County",
+      "Davidson CountySumner County",
+      "DeKalb County",
+      "Decatur County",
+      "Dickson County",
+      "Dyer County",
+      "Dyer CountyObion County",
+      "Fayette County",
+      "Fentress County",
+      "Franklin County",
+      "Gibson County",
+      "Gibson CountyObion County",
+      "Giles County",
+      "Grainger County",
+      "Greene County",
+      "Grundy County",
+      "Grundy CountyMarion County",
+      "Hamblen County",
+      "Hamilton County",
+      "Hancock County",
+      "Hardeman County",
+      "Hardeman CountyChester County",
+      "Hardeman CountyFayette County",
+      "Hardin County",
+      "Hawkins County",
+      "Haywood County",
+      "Henderson County",
+      "Henderson CountyDecatur County",
+      "Henry County",
+      "Hickman County",
+      "Houston County",
+      "Houston CountyStewart County",
+      "Humphreys County",
+      "Jackson County",
+      "Jefferson County",
+      "Johnson County",
+      "Knox County",
+      "Lake County",
+      "Lauderdale County",
+      "Lawrence County",
+      "Lewis County",
+      "Lincoln County",
+      "Lincoln CountyMarshall County",
+      "Loudon County",
+      "Macon County",
+      "Madison County",
+      "Marion County",
+      "Marshall County",
+      "Maury County",
+      "Maury CountyWilliamson County",
+      "McMinn County",
+      "McNairy County",
+      "McNairy CountyChester CountyHardin County",
+      "McNairy CountyHardin County",
+      "Meigs County",
+      "Monroe County",
+      "Monroe CountyMcMinn County",
+      "Montgomery County",
+      "Moore County",
+      "Morgan County",
+      "Obion County",
+      "Overton County",
+      "Perry County",
+      "Pickett County",
+      "Polk County",
+      "Putnam County",
+      "Rhea County",
+      "Roane County",
+      "Robertson County",
+      "Robertson CountyDavidson County",
+      "Rutherford County",
+      "Scott County",
+      "Sequatchie County",
+      "Sevier County",
+      "Shelby County",
+      "Smith County",
+      "Stewart County",
+      "Sullivan County",
+      "Sullivan CountyHawkins County",
+      "Sumner County",
+      "Sumner CountyRobertson County",
+      "Tipton County",
+      "Trousdale County",
+      "Unicoi County",
+      "Union County",
+      "Van Buren County",
+      "Warren County",
+      "Washington County",
+      "Washington CountyCarter CountySullivan County",
+      "Wayne County",
+      "Weakley County",
+      "White County",
+      "Williamson County",
+      "Wilson County"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "Adams",
+      "primary_county": "Robertson County",
+      "area_sq_mi": 2.68
+    },
+    {
+      "name": "Adamsville",
+      "primary_county": "McNairy CountyHardin County",
+      "area_sq_mi": 6.91
+    },
+    {
+      "name": "Alamo",
+      "primary_county": "Crockett County",
+      "area_sq_mi": 2.2
+    },
+    {
+      "name": "Alcoa",
+      "primary_county": "Blount County",
+      "area_sq_mi": 15.66
+    },
+    {
+      "name": "Alexandria",
+      "primary_county": "DeKalb County",
+      "area_sq_mi": 2.02
+    },
+    {
+      "name": "Algood",
+      "primary_county": "Putnam County",
+      "area_sq_mi": 4.03
+    },
+    {
+      "name": "Allardt",
+      "primary_county": "Fentress County",
+      "area_sq_mi": 3.9
+    },
+    {
+      "name": "Altamont",
+      "primary_county": "Grundy County",
+      "area_sq_mi": 20.16
+    },
+    {
+      "name": "Ardmore",
+      "primary_county": "Giles County",
+      "area_sq_mi": 4.59
+    },
+    {
+      "name": "Arlington",
+      "primary_county": "Shelby County",
+      "area_sq_mi": 23.07
+    },
+    {
+      "name": "Ashland City",
+      "primary_county": "Cheatham County",
+      "area_sq_mi": 10.85
+    },
+    {
+      "name": "Athens",
+      "primary_county": "McMinn County",
+      "area_sq_mi": 13.98
+    },
+    {
+      "name": "Atoka",
+      "primary_county": "Tipton County",
+      "area_sq_mi": 12.36
+    },
+    {
+      "name": "Atwood",
+      "primary_county": "Carroll County",
+      "area_sq_mi": 1.85
+    },
+    {
+      "name": "Auburntown",
+      "primary_county": "Cannon County",
+      "area_sq_mi": 0.57
+    },
+    {
+      "name": "Baileyton",
+      "primary_county": "Greene County",
+      "area_sq_mi": 1.68
+    },
+    {
+      "name": "Baneberry",
+      "primary_county": "Jefferson County",
+      "area_sq_mi": 1.82
+    },
+    {
+      "name": "Bartlett",
+      "primary_county": "Shelby County",
+      "area_sq_mi": 26.67
+    },
+    {
+      "name": "Baxter",
+      "primary_county": "Putnam County",
+      "area_sq_mi": 3.03
+    },
+    {
+      "name": "Bean Station",
+      "primary_county": "Grainger County",
+      "area_sq_mi": 5.39
+    },
+    {
+      "name": "Beersheba Springs",
+      "primary_county": "Grundy County",
+      "area_sq_mi": 4.91
+    },
+    {
+      "name": "Bell Buckle",
+      "primary_county": "Bedford County",
+      "area_sq_mi": 0.6
+    },
+    {
+      "name": "Belle Meade",
+      "primary_county": "Davidson County",
+      "area_sq_mi": 3.08
+    },
+    {
+      "name": "Bells",
+      "primary_county": "Crockett County",
+      "area_sq_mi": 2.33
+    },
+    {
+      "name": "Benton",
+      "primary_county": "Polk County",
+      "area_sq_mi": 3.21
+    },
+    {
+      "name": "Berry Hill",
+      "primary_county": "Davidson County",
+      "area_sq_mi": 0.91
+    },
+    {
+      "name": "Bethel Springs",
+      "primary_county": "McNairy County",
+      "area_sq_mi": 2.16
+    },
+    {
+      "name": "Big Sandy",
+      "primary_county": "Benton County",
+      "area_sq_mi": 0.71
+    },
+    {
+      "name": "Blaine",
+      "primary_county": "Grainger County",
+      "area_sq_mi": 9.39
+    },
+    {
+      "name": "Bluff City",
+      "primary_county": "Sullivan County",
+      "area_sq_mi": 1.6
+    },
+    {
+      "name": "Bolivar",
+      "primary_county": "Hardeman County",
+      "area_sq_mi": 8.42
+    },
+    {
+      "name": "Braden",
+      "primary_county": "Fayette County",
+      "area_sq_mi": 3.83
+    },
+    {
+      "name": "Bradford",
+      "primary_county": "Gibson County",
+      "area_sq_mi": 1.73
+    },
+    {
+      "name": "Brentwood",
+      "primary_county": "Williamson County",
+      "area_sq_mi": 41.23
+    },
+    {
+      "name": "Brighton",
+      "primary_county": "Tipton County",
+      "area_sq_mi": 2.79
+    },
+    {
+      "name": "Bristol",
+      "primary_county": "Sullivan County",
+      "area_sq_mi": 32.44
+    },
+    {
+      "name": "Brownsville",
+      "primary_county": "Haywood County",
+      "area_sq_mi": 10.2
+    },
+    {
+      "name": "Bruceton",
+      "primary_county": "Carroll County",
+      "area_sq_mi": 1.89
+    },
+    {
+      "name": "Bulls Gap",
+      "primary_county": "Hawkins County",
+      "area_sq_mi": 1.29
+    },
+    {
+      "name": "Burlison",
+      "primary_county": "Tipton County",
+      "area_sq_mi": 1.08
+    },
+    {
+      "name": "Burns",
+      "primary_county": "Dickson County",
+      "area_sq_mi": 3.74
+    },
+    {
+      "name": "Byrdstown",
+      "primary_county": "Pickett County",
+      "area_sq_mi": 1.53
+    },
+    {
+      "name": "Calhoun",
+      "primary_county": "McMinn County",
+      "area_sq_mi": 1.15
+    },
+    {
+      "name": "Camden",
+      "primary_county": "Benton County",
+      "area_sq_mi": 5.67
+    },
+    {
+      "name": "Carthage",
+      "primary_county": "Smith County",
+      "area_sq_mi": 2.86
+    },
+    {
+      "name": "Caryville",
+      "primary_county": "Campbell County",
+      "area_sq_mi": 5.4
+    },
+    {
+      "name": "Cedar Hill",
+      "primary_county": "Robertson County",
+      "area_sq_mi": 0.69
+    },
+    {
+      "name": "Celina",
+      "primary_county": "Clay County",
+      "area_sq_mi": 1.7
+    },
+    {
+      "name": "Centertown",
+      "primary_county": "Warren County",
+      "area_sq_mi": 0.94
+    },
+    {
+      "name": "Centerville",
+      "primary_county": "Hickman County",
+      "area_sq_mi": 11.31
+    },
+    {
+      "name": "Chapel Hill",
+      "primary_county": "Marshall County",
+      "area_sq_mi": 3.24
+    },
+    {
+      "name": "Charleston",
+      "primary_county": "Bradley County",
+      "area_sq_mi": 1.06
+    },
+    {
+      "name": "Charlotte",
+      "primary_county": "Dickson County",
+      "area_sq_mi": 1.74
+    },
+    {
+      "name": "Chattanooga",
+      "primary_county": "Hamilton County",
+      "area_sq_mi": 144.55
+    },
+    {
+      "name": "Church Hill",
+      "primary_county": "Hawkins County",
+      "area_sq_mi": 9.81
+    },
+    {
+      "name": "Clarksburg",
+      "primary_county": "Carroll County",
+      "area_sq_mi": 2.02
+    },
+    {
+      "name": "Clarksville",
+      "primary_county": "Montgomery County",
+      "area_sq_mi": 98.28
+    },
+    {
+      "name": "Cleveland",
+      "primary_county": "Bradley County",
+      "area_sq_mi": 26.9
+    },
+    {
+      "name": "Clifton",
+      "primary_county": "Wayne County",
+      "area_sq_mi": 6.93
+    },
+    {
+      "name": "Clinton",
+      "primary_county": "Anderson County",
+      "area_sq_mi": 12.02
+    },
+    {
+      "name": "Coalmont",
+      "primary_county": "Grundy County",
+      "area_sq_mi": 6.08
+    },
+    {
+      "name": "Collegedale",
+      "primary_county": "Hamilton County",
+      "area_sq_mi": 9.9
+    },
+    {
+      "name": "Collierville",
+      "primary_county": "Shelby County",
+      "area_sq_mi": 29.41
+    },
+    {
+      "name": "Collinwood",
+      "primary_county": "Wayne County",
+      "area_sq_mi": 2.82
+    },
+    {
+      "name": "Columbia",
+      "primary_county": "Maury County",
+      "area_sq_mi": 31.56
+    },
+    {
+      "name": "Cookeville",
+      "primary_county": "Putnam County",
+      "area_sq_mi": 32.85
+    },
+    {
+      "name": "Coopertown",
+      "primary_county": "Robertson County",
+      "area_sq_mi": 31.49
+    },
+    {
+      "name": "Copperhill",
+      "primary_county": "Polk County",
+      "area_sq_mi": 1.91
+    },
+    {
+      "name": "Cornersville",
+      "primary_county": "Marshall County",
+      "area_sq_mi": 6.26
+    },
+    {
+      "name": "Cottage Grove",
+      "primary_county": "Henry County",
+      "area_sq_mi": 0.19
+    },
+    {
+      "name": "Covington",
+      "primary_county": "Tipton County",
+      "area_sq_mi": 11.44
+    },
+    {
+      "name": "Cowan",
+      "primary_county": "Franklin County",
+      "area_sq_mi": 2.07
+    },
+    {
+      "name": "Crab Orchard",
+      "primary_county": "Cumberland County",
+      "area_sq_mi": 11.11
+    },
+    {
+      "name": "Cross Plains",
+      "primary_county": "Robertson County",
+      "area_sq_mi": 8.49
+    },
+    {
+      "name": "Crossville",
+      "primary_county": "Cumberland County",
+      "area_sq_mi": 20.36
+    },
+    {
+      "name": "Crump",
+      "primary_county": "Hardin County",
+      "area_sq_mi": 13.36
+    },
+    {
+      "name": "Cumberland City",
+      "primary_county": "Stewart County",
+      "area_sq_mi": 5.31
+    },
+    {
+      "name": "Cumberland Gap",
+      "primary_county": "Claiborne County",
+      "area_sq_mi": 0.33
+    },
+    {
+      "name": "Dandridge",
+      "primary_county": "Jefferson County",
+      "area_sq_mi": 6.42
+    },
+    {
+      "name": "Dayton",
+      "primary_county": "Rhea County",
+      "area_sq_mi": 7.88
+    },
+    {
+      "name": "Decatur",
+      "primary_county": "Meigs County",
+      "area_sq_mi": 3.0
+    },
+    {
+      "name": "Decaturville",
+      "primary_county": "Decatur County",
+      "area_sq_mi": 1.66
+    },
+    {
+      "name": "Decherd",
+      "primary_county": "Franklin County",
+      "area_sq_mi": 4.75
+    },
+    {
+      "name": "Dickson",
+      "primary_county": "Dickson County",
+      "area_sq_mi": 20.03
+    },
+    {
+      "name": "Dover",
+      "primary_county": "Stewart County",
+      "area_sq_mi": 3.88
+    },
+    {
+      "name": "Dowelltown",
+      "primary_county": "DeKalb County",
+      "area_sq_mi": 0.79
+    },
+    {
+      "name": "Doyle",
+      "primary_county": "White County",
+      "area_sq_mi": 1.31
+    },
+    {
+      "name": "Dresden",
+      "primary_county": "Weakley County",
+      "area_sq_mi": 5.57
+    },
+    {
+      "name": "Ducktown",
+      "primary_county": "Polk County",
+      "area_sq_mi": 2.63
+    },
+    {
+      "name": "Dunlap",
+      "primary_county": "Sequatchie County",
+      "area_sq_mi": 10.74
+    },
+    {
+      "name": "Dyer",
+      "primary_county": "Gibson County",
+      "area_sq_mi": 2.28
+    },
+    {
+      "name": "Dyersburg",
+      "primary_county": "Dyer County",
+      "area_sq_mi": 17.47
+    },
+    {
+      "name": "Eagleville",
+      "primary_county": "Rutherford County",
+      "area_sq_mi": 2.31
+    },
+    {
+      "name": "East Ridge",
+      "primary_county": "Hamilton County",
+      "area_sq_mi": 8.28
+    },
+    {
+      "name": "Eastview",
+      "primary_county": "McNairy County",
+      "area_sq_mi": 4.89
+    },
+    {
+      "name": "Elizabethton",
+      "primary_county": "Carter County",
+      "area_sq_mi": 9.9
+    },
+    {
+      "name": "Elkton",
+      "primary_county": "Giles County",
+      "area_sq_mi": 2.16
+    },
+    {
+      "name": "Englewood",
+      "primary_county": "McMinn County",
+      "area_sq_mi": 1.82
+    },
+    {
+      "name": "Enville",
+      "primary_county": "Chester CountyMcNairy County",
+      "area_sq_mi": 1.45
+    },
+    {
+      "name": "Erin",
+      "primary_county": "Houston County",
+      "area_sq_mi": 4.09
+    },
+    {
+      "name": "Erwin",
+      "primary_county": "Unicoi County",
+      "area_sq_mi": 4.04
+    },
+    {
+      "name": "Estill Springs",
+      "primary_county": "Franklin County",
+      "area_sq_mi": 4.68
+    },
+    {
+      "name": "Ethridge",
+      "primary_county": "Lawrence County",
+      "area_sq_mi": 1.17
+    },
+    {
+      "name": "Etowah",
+      "primary_county": "McMinn County",
+      "area_sq_mi": 2.92
+    },
+    {
+      "name": "Fairview",
+      "primary_county": "Williamson County",
+      "area_sq_mi": 16.92
+    },
+    {
+      "name": "Farragut",
+      "primary_county": "Knox County",
+      "area_sq_mi": 16.2
+    },
+    {
+      "name": "Fayetteville",
+      "primary_county": "Lincoln County",
+      "area_sq_mi": 10.96
+    },
+    {
+      "name": "Finger",
+      "primary_county": "McNairy County",
+      "area_sq_mi": 1.53
+    },
+    {
+      "name": "Forest Hills",
+      "primary_county": "Davidson County",
+      "area_sq_mi": 9.22
+    },
+    {
+      "name": "Franklin",
+      "primary_county": "Williamson County",
+      "area_sq_mi": 41.45
+    },
+    {
+      "name": "Friendship",
+      "primary_county": "Crockett County",
+      "area_sq_mi": 1.3
+    },
+    {
+      "name": "Friendsville",
+      "primary_county": "Blount County",
+      "area_sq_mi": 3.01
+    },
+    {
+      "name": "Gadsden",
+      "primary_county": "Crockett County",
+      "area_sq_mi": 1.09
+    },
+    {
+      "name": "Gainesboro",
+      "primary_county": "Jackson County",
+      "area_sq_mi": 1.78
+    },
+    {
+      "name": "Gallatin",
+      "primary_county": "Sumner County",
+      "area_sq_mi": 31.75
+    },
+    {
+      "name": "Gallaway",
+      "primary_county": "Fayette County",
+      "area_sq_mi": 6.13
+    },
+    {
+      "name": "Garland",
+      "primary_county": "Tipton County",
+      "area_sq_mi": 0.58
+    },
+    {
+      "name": "Gates",
+      "primary_county": "Lauderdale County",
+      "area_sq_mi": 0.7
+    },
+    {
+      "name": "Gatlinburg",
+      "primary_county": "Sevier County",
+      "area_sq_mi": 10.35
+    },
+    {
+      "name": "Germantown",
+      "primary_county": "Shelby County",
+      "area_sq_mi": 20.0
+    },
+    {
+      "name": "Gibson",
+      "primary_county": "Gibson County",
+      "area_sq_mi": 0.61
+    },
+    {
+      "name": "Gilt Edge",
+      "primary_county": "Tipton County",
+      "area_sq_mi": 2.76
+    },
+    {
+      "name": "Gleason",
+      "primary_county": "Weakley County",
+      "area_sq_mi": 2.28
+    },
+    {
+      "name": "Goodlettsville",
+      "primary_county": "Davidson CountySumner County",
+      "area_sq_mi": 14.32
+    },
+    {
+      "name": "Gordonsville",
+      "primary_county": "Smith County",
+      "area_sq_mi": 7.11
+    },
+    {
+      "name": "Grand Junction",
+      "primary_county": "Hardeman CountyFayette County",
+      "area_sq_mi": 1.18
+    },
+    {
+      "name": "Graysville",
+      "primary_county": "Rhea County",
+      "area_sq_mi": 1.17
+    },
+    {
+      "name": "Greenback",
+      "primary_county": "Loudon County",
+      "area_sq_mi": 8.09
+    },
+    {
+      "name": "Greenbrier",
+      "primary_county": "Robertson County",
+      "area_sq_mi": 7.0
+    },
+    {
+      "name": "Greeneville",
+      "primary_county": "Greene County",
+      "area_sq_mi": 17.01
+    },
+    {
+      "name": "Greenfield",
+      "primary_county": "Weakley County",
+      "area_sq_mi": 3.7
+    },
+    {
+      "name": "Gruetli-Laager",
+      "primary_county": "Grundy County",
+      "area_sq_mi": 12.56
+    },
+    {
+      "name": "Guys",
+      "primary_county": "McNairy County",
+      "area_sq_mi": 11.72
+    },
+    {
+      "name": "Halls",
+      "primary_county": "Lauderdale County",
+      "area_sq_mi": 3.67
+    },
+    {
+      "name": "Harriman",
+      "primary_county": "Roane County",
+      "area_sq_mi": 10.57
+    },
+    {
+      "name": "Harrogate",
+      "primary_county": "Claiborne County",
+      "area_sq_mi": 7.63
+    },
+    {
+      "name": "Hartsville",
+      "primary_county": "Trousdale County",
+      "area_sq_mi": 116.64
+    },
+    {
+      "name": "Henderson",
+      "primary_county": "Chester County",
+      "area_sq_mi": 7.86
+    },
+    {
+      "name": "Hendersonville",
+      "primary_county": "Sumner County",
+      "area_sq_mi": 36.93
+    },
+    {
+      "name": "Henning",
+      "primary_county": "Lauderdale County",
+      "area_sq_mi": 2.39
+    },
+    {
+      "name": "Henry",
+      "primary_county": "Henry County",
+      "area_sq_mi": 1.45
+    },
+    {
+      "name": "Hickory Valley",
+      "primary_county": "Hardeman County",
+      "area_sq_mi": 0.33
+    },
+    {
+      "name": "Hohenwald",
+      "primary_county": "Lewis County",
+      "area_sq_mi": 5.35
+    },
+    {
+      "name": "Hollow Rock",
+      "primary_county": "Carroll County",
+      "area_sq_mi": 1.79
+    },
+    {
+      "name": "Hornbeak",
+      "primary_county": "Obion County",
+      "area_sq_mi": 0.7
+    },
+    {
+      "name": "Hornsby",
+      "primary_county": "Hardeman County",
+      "area_sq_mi": 1.18
+    },
+    {
+      "name": "Humboldt",
+      "primary_county": "Gibson County",
+      "area_sq_mi": 9.71
+    },
+    {
+      "name": "Huntingdon",
+      "primary_county": "Carroll County",
+      "area_sq_mi": 11.94
+    },
+    {
+      "name": "Huntland",
+      "primary_county": "Franklin County",
+      "area_sq_mi": 1.45
+    },
+    {
+      "name": "Huntsville",
+      "primary_county": "Scott County",
+      "area_sq_mi": 3.93
+    },
+    {
+      "name": "Jacksboro",
+      "primary_county": "Campbell County",
+      "area_sq_mi": 2.54
+    },
+    {
+      "name": "Jackson",
+      "primary_county": "Madison County",
+      "area_sq_mi": 53.73
+    },
+    {
+      "name": "Jamestown",
+      "primary_county": "Fentress County",
+      "area_sq_mi": 2.9
+    },
+    {
+      "name": "Jasper",
+      "primary_county": "Marion County",
+      "area_sq_mi": 9.47
+    },
+    {
+      "name": "Jefferson City",
+      "primary_county": "Jefferson County",
+      "area_sq_mi": 6.43
+    },
+    {
+      "name": "Jellico",
+      "primary_county": "Campbell County",
+      "area_sq_mi": 6.38
+    },
+    {
+      "name": "Johnson City",
+      "primary_county": "Washington CountyCarter CountySullivan County",
+      "area_sq_mi": 43.27
+    },
+    {
+      "name": "Jonesborough",
+      "primary_county": "Washington County",
+      "area_sq_mi": 5.14
+    },
+    {
+      "name": "Kenton",
+      "primary_county": "Gibson CountyObion County",
+      "area_sq_mi": 2.01
+    },
+    {
+      "name": "Kimball",
+      "primary_county": "Marion County",
+      "area_sq_mi": 4.87
+    },
+    {
+      "name": "Kingsport",
+      "primary_county": "Sullivan CountyHawkins County",
+      "area_sq_mi": 50.75
+    },
+    {
+      "name": "Kingston",
+      "primary_county": "Roane County",
+      "area_sq_mi": 7.85
+    },
+    {
+      "name": "Kingston Springs",
+      "primary_county": "Cheatham County",
+      "area_sq_mi": 9.92
+    },
+    {
+      "name": "Knoxville",
+      "primary_county": "Knox County",
+      "area_sq_mi": 104.17
+    },
+    {
+      "name": "Lafayette",
+      "primary_county": "Macon County",
+      "area_sq_mi": 4.76
+    },
+    {
+      "name": "LaFollette",
+      "primary_county": "Campbell County",
+      "area_sq_mi": 4.91
+    },
+    {
+      "name": "La Grange",
+      "primary_county": "Fayette County",
+      "area_sq_mi": 1.81
+    },
+    {
+      "name": "Lakeland",
+      "primary_county": "Shelby County",
+      "area_sq_mi": 23.89
+    },
+    {
+      "name": "Lakesite",
+      "primary_county": "Hamilton County",
+      "area_sq_mi": 1.68
+    },
+    {
+      "name": "La Vergne",
+      "primary_county": "Rutherford County",
+      "area_sq_mi": 25.22
+    },
+    {
+      "name": "Lawrenceburg",
+      "primary_county": "Lawrence County",
+      "area_sq_mi": 12.67
+    },
+    {
+      "name": "Lebanon",
+      "primary_county": "Wilson County",
+      "area_sq_mi": 38.64
+    },
+    {
+      "name": "Lenoir City",
+      "primary_county": "Loudon County",
+      "area_sq_mi": 8.51
+    },
+    {
+      "name": "Lewisburg",
+      "primary_county": "Marshall County",
+      "area_sq_mi": 13.36
+    },
+    {
+      "name": "Lexington",
+      "primary_county": "Henderson County",
+      "area_sq_mi": 12.42
+    },
+    {
+      "name": "Liberty",
+      "primary_county": "DeKalb County",
+      "area_sq_mi": 1.12
+    },
+    {
+      "name": "Linden",
+      "primary_county": "Perry County",
+      "area_sq_mi": 1.01
+    },
+    {
+      "name": "Livingston",
+      "primary_county": "Overton County",
+      "area_sq_mi": 6.47
+    },
+    {
+      "name": "Lobelville",
+      "primary_county": "Perry County",
+      "area_sq_mi": 3.92
+    },
+    {
+      "name": "Lookout Mountain",
+      "primary_county": "Hamilton County",
+      "area_sq_mi": 1.26
+    },
+    {
+      "name": "Loretto",
+      "primary_county": "Lawrence County",
+      "area_sq_mi": 3.94
+    },
+    {
+      "name": "Loudon",
+      "primary_county": "Loudon County",
+      "area_sq_mi": 14.23
+    },
+    {
+      "name": "Louisville",
+      "primary_county": "Blount County",
+      "area_sq_mi": 13.51
+    },
+    {
+      "name": "Luttrell",
+      "primary_county": "Union County",
+      "area_sq_mi": 3.92
+    },
+    {
+      "name": "Lynchburg",
+      "primary_county": "Moore County",
+      "area_sq_mi": 130.42
+    },
+    {
+      "name": "Lynnville",
+      "primary_county": "Giles County",
+      "area_sq_mi": 0.33
+    },
+    {
+      "name": "Madisonville",
+      "primary_county": "Monroe County",
+      "area_sq_mi": 6.21
+    },
+    {
+      "name": "Manchester",
+      "primary_county": "Coffee County",
+      "area_sq_mi": 14.18
+    },
+    {
+      "name": "Martin",
+      "primary_county": "Weakley County",
+      "area_sq_mi": 12.71
+    },
+    {
+      "name": "Maryville",
+      "primary_county": "Blount County",
+      "area_sq_mi": 16.8
+    },
+    {
+      "name": "Mason",
+      "primary_county": "Tipton County",
+      "area_sq_mi": 2.09
+    },
+    {
+      "name": "Maury City",
+      "primary_county": "Crockett County",
+      "area_sq_mi": 1.13
+    },
+    {
+      "name": "Maynardville",
+      "primary_county": "Union County",
+      "area_sq_mi": 5.46
+    },
+    {
+      "name": "McEwen",
+      "primary_county": "Humphreys County",
+      "area_sq_mi": 1.87
+    },
+    {
+      "name": "McKenzie",
+      "primary_county": "Carroll CountyHenry CountyWeakley County",
+      "area_sq_mi": 6.26
+    },
+    {
+      "name": "McLemoresville",
+      "primary_county": "Carroll County",
+      "area_sq_mi": 2.58
+    },
+    {
+      "name": "McMinnville",
+      "primary_county": "Warren County",
+      "area_sq_mi": 11.07
+    },
+    {
+      "name": "Medina",
+      "primary_county": "Gibson County",
+      "area_sq_mi": 3.17
+    },
+    {
+      "name": "Medon",
+      "primary_county": "Madison County",
+      "area_sq_mi": 0.98
+    },
+    {
+      "name": "Memphis",
+      "primary_county": "Shelby County",
+      "area_sq_mi": 324.0
+    },
+    {
+      "name": "Michie",
+      "primary_county": "McNairy County",
+      "area_sq_mi": 5.62
+    },
+    {
+      "name": "Middleton",
+      "primary_county": "Hardeman County",
+      "area_sq_mi": 1.92
+    },
+    {
+      "name": "Milan",
+      "primary_county": "Gibson County",
+      "area_sq_mi": 8.91
+    },
+    {
+      "name": "Milledgeville",
+      "primary_county": "McNairy CountyChester CountyHardin County",
+      "area_sq_mi": 1.61
+    },
+    {
+      "name": "Millersville",
+      "primary_county": "Sumner CountyRobertson County",
+      "area_sq_mi": 13.71
+    },
+    {
+      "name": "Millington",
+      "primary_county": "Shelby County",
+      "area_sq_mi": 31.75
+    },
+    {
+      "name": "Minor Hill",
+      "primary_county": "Giles County",
+      "area_sq_mi": 1.72
+    },
+    {
+      "name": "Mitchellville",
+      "primary_county": "Sumner County",
+      "area_sq_mi": 0.52
+    },
+    {
+      "name": "Monteagle",
+      "primary_county": "Grundy CountyMarion County",
+      "area_sq_mi": 8.59
+    },
+    {
+      "name": "Monterey",
+      "primary_county": "Putnam County",
+      "area_sq_mi": 3.06
+    },
+    {
+      "name": "Morrison",
+      "primary_county": "Warren County",
+      "area_sq_mi": 2.73
+    },
+    {
+      "name": "Morristown",
+      "primary_county": "Hamblen County",
+      "area_sq_mi": 27.95
+    },
+    {
+      "name": "Moscow",
+      "primary_county": "Fayette County",
+      "area_sq_mi": 1.25
+    },
+    {
+      "name": "Mosheim",
+      "primary_county": "Greene County",
+      "area_sq_mi": 6.13
+    },
+    {
+      "name": "Mount Carmel",
+      "primary_county": "Hawkins County",
+      "area_sq_mi": 6.94
+    },
+    {
+      "name": "Mount Juliet",
+      "primary_county": "Wilson County",
+      "area_sq_mi": 19.79
+    },
+    {
+      "name": "Mount Pleasant",
+      "primary_county": "Maury County",
+      "area_sq_mi": 12.32
+    },
+    {
+      "name": "Mountain City",
+      "primary_county": "Johnson County",
+      "area_sq_mi": 3.31
+    },
+    {
+      "name": "Munford",
+      "primary_county": "Tipton County",
+      "area_sq_mi": 8.56
+    },
+    {
+      "name": "Murfreesboro",
+      "primary_county": "Rutherford County",
+      "area_sq_mi": 55.49
+    },
+    {
+      "name": "Nashville",
+      "primary_county": "Davidson County",
+      "area_sq_mi": 525.94
+    },
+    {
+      "name": "New Hope",
+      "primary_county": "Marion County",
+      "area_sq_mi": 10.4
+    },
+    {
+      "name": "New Johnsonville",
+      "primary_county": "Humphreys County",
+      "area_sq_mi": 7.08
+    },
+    {
+      "name": "New Market",
+      "primary_county": "Jefferson County",
+      "area_sq_mi": 4.12
+    },
+    {
+      "name": "New Tazewell",
+      "primary_county": "Claiborne County",
+      "area_sq_mi": 5.13
+    },
+    {
+      "name": "Newbern",
+      "primary_county": "Dyer County",
+      "area_sq_mi": 4.88
+    },
+    {
+      "name": "Newport",
+      "primary_county": "Cocke County",
+      "area_sq_mi": 5.53
+    },
+    {
+      "name": "Niota",
+      "primary_county": "McMinn County",
+      "area_sq_mi": 2.19
+    },
+    {
+      "name": "Nolensville",
+      "primary_county": "Williamson County",
+      "area_sq_mi": 7.44
+    },
+    {
+      "name": "Normandy",
+      "primary_county": "Bedford County",
+      "area_sq_mi": 0.23
+    },
+    {
+      "name": "Norris",
+      "primary_county": "Anderson County",
+      "area_sq_mi": 7.19
+    },
+    {
+      "name": "Oak Hill",
+      "primary_county": "Davidson County",
+      "area_sq_mi": 7.96
+    },
+    {
+      "name": "Oak Ridge",
+      "primary_county": "Anderson CountyRoane County",
+      "area_sq_mi": 89.98
+    },
+    {
+      "name": "Oakdale",
+      "primary_county": "Morgan County",
+      "area_sq_mi": 0.85
+    },
+    {
+      "name": "Oakland",
+      "primary_county": "Fayette County",
+      "area_sq_mi": 10.29
+    },
+    {
+      "name": "Obion",
+      "primary_county": "Obion County",
+      "area_sq_mi": 1.51
+    },
+    {
+      "name": "Oliver Springs",
+      "primary_county": "Anderson CountyMorgan CountyRoane County",
+      "area_sq_mi": 5.56
+    },
+    {
+      "name": "Oneida",
+      "primary_county": "Scott County",
+      "area_sq_mi": 9.49
+    },
+    {
+      "name": "Orlinda",
+      "primary_county": "Robertson County",
+      "area_sq_mi": 6.7
+    },
+    {
+      "name": "Orme",
+      "primary_county": "Marion County",
+      "area_sq_mi": 4.14
+    },
+    {
+      "name": "Palmer",
+      "primary_county": "Grundy County",
+      "area_sq_mi": 4.94
+    },
+    {
+      "name": "Paris",
+      "primary_county": "Henry County",
+      "area_sq_mi": 13.03
+    },
+    {
+      "name": "Parker's Crossroads",
+      "primary_county": "Henderson County",
+      "area_sq_mi": 3.73
+    },
+    {
+      "name": "Parrottsville",
+      "primary_county": "Cocke County",
+      "area_sq_mi": 0.74
+    },
+    {
+      "name": "Parsons",
+      "primary_county": "Decatur County",
+      "area_sq_mi": 4.14
+    },
+    {
+      "name": "Pegram",
+      "primary_county": "Cheatham County",
+      "area_sq_mi": 7.72
+    },
+    {
+      "name": "Petersburg",
+      "primary_county": "Lincoln CountyMarshall County",
+      "area_sq_mi": 0.94
+    },
+    {
+      "name": "Philadelphia",
+      "primary_county": "Loudon County",
+      "area_sq_mi": 1.6
+    },
+    {
+      "name": "Pigeon Forge",
+      "primary_county": "Sevier County",
+      "area_sq_mi": 13.21
+    },
+    {
+      "name": "Pikeville",
+      "primary_county": "Bledsoe County",
+      "area_sq_mi": 2.44
+    },
+    {
+      "name": "Piperton",
+      "primary_county": "Fayette County",
+      "area_sq_mi": 27.3
+    },
+    {
+      "name": "Pittman Center",
+      "primary_county": "Sevier County",
+      "area_sq_mi": 6.07
+    },
+    {
+      "name": "Plainview",
+      "primary_county": "Union County",
+      "area_sq_mi": 6.5
+    },
+    {
+      "name": "Pleasant Hill",
+      "primary_county": "Cumberland County",
+      "area_sq_mi": 1.56
+    },
+    {
+      "name": "Pleasant View",
+      "primary_county": "Cheatham County",
+      "area_sq_mi": 12.52
+    },
+    {
+      "name": "Portland",
+      "primary_county": "Sumner County",
+      "area_sq_mi": 14.28
+    },
+    {
+      "name": "Powell's Crossroads",
+      "primary_county": "Marion County",
+      "area_sq_mi": 5.04
+    },
+    {
+      "name": "Pulaski",
+      "primary_county": "Giles County",
+      "area_sq_mi": 7.22
+    },
+    {
+      "name": "Puryear",
+      "primary_county": "Henry County",
+      "area_sq_mi": 0.92
+    },
+    {
+      "name": "Ramer",
+      "primary_county": "McNairy County",
+      "area_sq_mi": 1.71
+    },
+    {
+      "name": "Red Bank",
+      "primary_county": "Hamilton County",
+      "area_sq_mi": 6.52
+    },
+    {
+      "name": "Red Boiling Springs",
+      "primary_county": "Macon County",
+      "area_sq_mi": 1.75
+    },
+    {
+      "name": "Ridgely",
+      "primary_county": "Lake County",
+      "area_sq_mi": 1.71
+    },
+    {
+      "name": "Ridgeside",
+      "primary_county": "Hamilton County",
+      "area_sq_mi": 0.17
+    },
+    {
+      "name": "Ridgetop",
+      "primary_county": "Robertson CountyDavidson County",
+      "area_sq_mi": 2.91
+    },
+    {
+      "name": "Ripley",
+      "primary_county": "Lauderdale County",
+      "area_sq_mi": 12.85
+    },
+    {
+      "name": "Rives",
+      "primary_county": "Obion County",
+      "area_sq_mi": 0.35
+    },
+    {
+      "name": "Rockford",
+      "primary_county": "Blount County",
+      "area_sq_mi": 3.21
+    },
+    {
+      "name": "Rockwood",
+      "primary_county": "Roane County",
+      "area_sq_mi": 8.07
+    },
+    {
+      "name": "Rocky Top",
+      "primary_county": "Anderson CountyCampbell County",
+      "area_sq_mi": 1.59
+    },
+    {
+      "name": "Rogersville",
+      "primary_county": "Hawkins County",
+      "area_sq_mi": 3.4
+    },
+    {
+      "name": "Rossville",
+      "primary_county": "Fayette County",
+      "area_sq_mi": 5.06
+    },
+    {
+      "name": "Rutherford",
+      "primary_county": "Gibson County",
+      "area_sq_mi": 2.3
+    },
+    {
+      "name": "Rutledge",
+      "primary_county": "Grainger County",
+      "area_sq_mi": 4.69
+    },
+    {
+      "name": "St. Joseph",
+      "primary_county": "Lawrence County",
+      "area_sq_mi": 3.52
+    },
+    {
+      "name": "Saltillo",
+      "primary_county": "Hardin County",
+      "area_sq_mi": 0.92
+    },
+    {
+      "name": "Samburg",
+      "primary_county": "Obion County",
+      "area_sq_mi": 0.82
+    },
+    {
+      "name": "Sardis",
+      "primary_county": "Henderson County",
+      "area_sq_mi": 2.4
+    },
+    {
+      "name": "Saulsbury",
+      "primary_county": "Hardeman County",
+      "area_sq_mi": 0.36
+    },
+    {
+      "name": "Savannah",
+      "primary_county": "Hardin County",
+      "area_sq_mi": 6.52
+    },
+    {
+      "name": "Scotts Hill",
+      "primary_county": "Henderson CountyDecatur County",
+      "area_sq_mi": 3.77
+    },
+    {
+      "name": "Selmer",
+      "primary_county": "McNairy County",
+      "area_sq_mi": 9.79
+    },
+    {
+      "name": "Sevierville",
+      "primary_county": "Sevier County",
+      "area_sq_mi": 24.24
+    },
+    {
+      "name": "Sharon",
+      "primary_county": "Weakley County",
+      "area_sq_mi": 1.13
+    },
+    {
+      "name": "Shelbyville",
+      "primary_county": "Bedford County",
+      "area_sq_mi": 18.61
+    },
+    {
+      "name": "Signal Mountain",
+      "primary_county": "Hamilton County",
+      "area_sq_mi": 7.66
+    },
+    {
+      "name": "Silerton",
+      "primary_county": "Hardeman CountyChester County",
+      "area_sq_mi": 0.66
+    },
+    {
+      "name": "Slayden",
+      "primary_county": "Dickson County",
+      "area_sq_mi": 1.34
+    },
+    {
+      "name": "Smithville",
+      "primary_county": "DeKalb County",
+      "area_sq_mi": 5.91
+    },
+    {
+      "name": "Smyrna",
+      "primary_county": "Rutherford County",
+      "area_sq_mi": 29.71
+    },
+    {
+      "name": "Sneedville",
+      "primary_county": "Hancock County",
+      "area_sq_mi": 2.3
+    },
+    {
+      "name": "Soddy-Daisy",
+      "primary_county": "Hamilton County",
+      "area_sq_mi": 23.44
+    },
+    {
+      "name": "Somerville",
+      "primary_county": "Fayette County",
+      "area_sq_mi": 12.53
+    },
+    {
+      "name": "South Carthage",
+      "primary_county": "Smith County",
+      "area_sq_mi": 2.71
+    },
+    {
+      "name": "South Fulton",
+      "primary_county": "Obion County",
+      "area_sq_mi": 3.3
+    },
+    {
+      "name": "South Pittsburg",
+      "primary_county": "Marion County",
+      "area_sq_mi": 6.0
+    },
+    {
+      "name": "Sparta",
+      "primary_county": "White County",
+      "area_sq_mi": 6.74
+    },
+    {
+      "name": "Spencer",
+      "primary_county": "Van Buren County",
+      "area_sq_mi": 6.87
+    },
+    {
+      "name": "Spring City",
+      "primary_county": "Rhea County",
+      "area_sq_mi": 2.64
+    },
+    {
+      "name": "Spring Hill",
+      "primary_county": "Maury CountyWilliamson County",
+      "area_sq_mi": 27.11
+    },
+    {
+      "name": "Springfield",
+      "primary_county": "Robertson County",
+      "area_sq_mi": 13.34
+    },
+    {
+      "name": "Stanton",
+      "primary_county": "Haywood County",
+      "area_sq_mi": 0.51
+    },
+    {
+      "name": "Stantonville",
+      "primary_county": "McNairy County",
+      "area_sq_mi": 1.11
+    },
+    {
+      "name": "Sunbright",
+      "primary_county": "Morgan County",
+      "area_sq_mi": 3.78
+    },
+    {
+      "name": "Surgoinsville",
+      "primary_county": "Hawkins County",
+      "area_sq_mi": 5.61
+    },
+    {
+      "name": "Sweetwater",
+      "primary_county": "Monroe CountyMcMinn County",
+      "area_sq_mi": 8.52
+    },
+    {
+      "name": "Tazewell",
+      "primary_county": "Claiborne County",
+      "area_sq_mi": 4.43
+    },
+    {
+      "name": "Tellico Plains",
+      "primary_county": "Monroe County",
+      "area_sq_mi": 1.94
+    },
+    {
+      "name": "Tennessee Ridge",
+      "primary_county": "Houston CountyStewart County",
+      "area_sq_mi": 3.71
+    },
+    {
+      "name": "Thompson's Station",
+      "primary_county": "Williamson County",
+      "area_sq_mi": 18.76
+    },
+    {
+      "name": "Three Way",
+      "primary_county": "Madison County",
+      "area_sq_mi": 4.54
+    },
+    {
+      "name": "Tiptonville",
+      "primary_county": "Lake County",
+      "area_sq_mi": 2.05
+    },
+    {
+      "name": "Toone",
+      "primary_county": "Hardeman County",
+      "area_sq_mi": 1.05
+    },
+    {
+      "name": "Townsend",
+      "primary_county": "Blount County",
+      "area_sq_mi": 2.17
+    },
+    {
+      "name": "Tracy City",
+      "primary_county": "Grundy County",
+      "area_sq_mi": 4.91
+    },
+    {
+      "name": "Trenton",
+      "primary_county": "Gibson County",
+      "area_sq_mi": 8.2
+    },
+    {
+      "name": "Trezevant",
+      "primary_county": "Carroll County",
+      "area_sq_mi": 1.39
+    },
+    {
+      "name": "Trimble",
+      "primary_county": "Dyer CountyObion County",
+      "area_sq_mi": 0.65
+    },
+    {
+      "name": "Troy",
+      "primary_county": "Obion County",
+      "area_sq_mi": 1.49
+    },
+    {
+      "name": "Tullahoma",
+      "primary_county": "Coffee CountyFranklin County",
+      "area_sq_mi": 23.56
+    },
+    {
+      "name": "Tusculum",
+      "primary_county": "Greene County",
+      "area_sq_mi": 4.81
+    },
+    {
+      "name": "Unicoi",
+      "primary_county": "Unicoi County",
+      "area_sq_mi": 16.41
+    },
+    {
+      "name": "Union City",
+      "primary_county": "Obion County",
+      "area_sq_mi": 11.94
+    },
+    {
+      "name": "Vanleer",
+      "primary_county": "Dickson County",
+      "area_sq_mi": 0.65
+    },
+    {
+      "name": "Viola",
+      "primary_county": "Warren County",
+      "area_sq_mi": 0.17
+    },
+    {
+      "name": "Vonore",
+      "primary_county": "Monroe County",
+      "area_sq_mi": 11.93
+    },
+    {
+      "name": "Walden",
+      "primary_county": "Hamilton County",
+      "area_sq_mi": 3.58
+    },
+    {
+      "name": "Wartburg",
+      "primary_county": "Morgan County",
+      "area_sq_mi": 0.96
+    },
+    {
+      "name": "Wartrace",
+      "primary_county": "Bedford County",
+      "area_sq_mi": 0.69
+    },
+    {
+      "name": "Watauga",
+      "primary_county": "Carter County",
+      "area_sq_mi": 0.83
+    },
+    {
+      "name": "Watertown",
+      "primary_county": "Wilson County",
+      "area_sq_mi": 1.31
+    },
+    {
+      "name": "Waverly",
+      "primary_county": "Humphreys County",
+      "area_sq_mi": 8.77
+    },
+    {
+      "name": "Waynesboro",
+      "primary_county": "Wayne County",
+      "area_sq_mi": 3.75
+    },
+    {
+      "name": "Westmoreland",
+      "primary_county": "Sumner County",
+      "area_sq_mi": 3.94
+    },
+    {
+      "name": "White Bluff",
+      "primary_county": "Dickson County",
+      "area_sq_mi": 5.93
+    },
+    {
+      "name": "White House",
+      "primary_county": "Sumner CountyRobertson County",
+      "area_sq_mi": 10.99
+    },
+    {
+      "name": "White Pine",
+      "primary_county": "Jefferson County",
+      "area_sq_mi": 2.64
+    },
+    {
+      "name": "Whiteville",
+      "primary_county": "Hardeman County",
+      "area_sq_mi": 2.75
+    },
+    {
+      "name": "Whitwell",
+      "primary_county": "Marion County",
+      "area_sq_mi": 3.39
+    },
+    {
+      "name": "Williston",
+      "primary_county": "Fayette County",
+      "area_sq_mi": 1.62
+    },
+    {
+      "name": "Winchester",
+      "primary_county": "Franklin County",
+      "area_sq_mi": 11.71
+    },
+    {
+      "name": "Winfield",
+      "primary_county": "Scott County",
+      "area_sq_mi": 6.35
+    },
+    {
+      "name": "Woodbury",
+      "primary_county": "Cannon County",
+      "area_sq_mi": 2.01
+    },
+    {
+      "name": "Woodland Mills",
+      "primary_county": "Obion County",
+      "area_sq_mi": 1.23
+    },
+    {
+      "name": "Yorkville",
+      "primary_county": "Gibson County",
+      "area_sq_mi": 1.42
+    }
+  ]
+}

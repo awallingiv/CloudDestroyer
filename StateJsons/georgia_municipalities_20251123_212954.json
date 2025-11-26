@@ -1,0 +1,3041 @@
+{
+  "metadata": {
+    "state": "Georgia",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Georgia_(U.S._state)",
+    "scraped_at": "2025-11-23 21:29:54",
+    "scraper_version": "2.0_generic",
+    "description": "Georgia municipalities scraped from Wikipedia",
+    "total_municipalities": 540,
+    "statistics": {
+      "total_found": 540,
+      "with_population": 0,
+      "with_counties": 539,
+      "unique_counties": 163,
+      "population_stats": {}
+    },
+    "counties": [
+      "Appling",
+      "Atkinson",
+      "Bacon",
+      "Baker",
+      "Baldwin",
+      "Banks",
+      "Barrow",
+      "Bartow",
+      "Ben Hill",
+      "Berrien",
+      "Bibb",
+      "Bleckley",
+      "Brantley",
+      "Brooks",
+      "Bryan",
+      "Bulloch",
+      "Burke",
+      "Butts",
+      "Calhoun",
+      "Camden",
+      "Candler",
+      "Carroll",
+      "Catoosa",
+      "Charlton",
+      "Chatham",
+      "Chattahoochee",
+      "Chattooga",
+      "Cherokee",
+      "Clarke",
+      "Clay",
+      "Clayton",
+      "Clinch",
+      "Cobb",
+      "Coffee",
+      "Colquitt",
+      "Columbia",
+      "Cook",
+      "Coweta",
+      "Crawford",
+      "Crisp",
+      "Dade",
+      "Dawson",
+      "DeKalb",
+      "Decatur",
+      "Dekalb",
+      "Dodge",
+      "Dooly",
+      "Dougherty",
+      "Douglas",
+      "Early",
+      "Echols County",
+      "Effingham",
+      "Elbert",
+      "Emanuel",
+      "Evans",
+      "Fannin",
+      "Fayette",
+      "Floyd",
+      "Forsyth",
+      "Franklin",
+      "Fulton",
+      "Fulton (seat)",
+      "Gilmer",
+      "Glascock",
+      "Glynn",
+      "Gordon",
+      "Grady",
+      "Greene",
+      "Gwinnett",
+      "Habersham",
+      "Hall",
+      "Hancock",
+      "Haralson",
+      "Harris",
+      "Hart",
+      "Heard",
+      "Henry",
+      "Houston",
+      "Houston (seat)",
+      "Irwin",
+      "Jackson",
+      "Jasper",
+      "Jeff Davis",
+      "Jefferson",
+      "Jenkins",
+      "Johnson",
+      "Jones",
+      "Lamar",
+      "Lanier",
+      "Laurens",
+      "Lee",
+      "Liberty",
+      "Lincoln",
+      "Long",
+      "Lowndes",
+      "Lumpkin",
+      "Macon",
+      "Madison",
+      "Marion",
+      "McDuffie",
+      "McIntosh",
+      "Meriwether",
+      "Miller",
+      "Mitchell",
+      "Monroe",
+      "Montgomery",
+      "Morgan",
+      "Murray",
+      "Muscogee",
+      "Newton",
+      "Oconee",
+      "Oglethorpe",
+      "Paulding",
+      "Peach",
+      "Pickens",
+      "Pierce",
+      "Pike",
+      "Polk",
+      "Pulaski",
+      "Putnam",
+      "Quitman",
+      "Rabun",
+      "Randolph",
+      "Richmond",
+      "Rockdale",
+      "Schley",
+      "Screven",
+      "Seminole",
+      "Spalding",
+      "Stephens",
+      "Stewart",
+      "Sumter",
+      "Talbot",
+      "Taliaferro",
+      "Tattnall",
+      "Taylor",
+      "Telfair",
+      "Telfair (seat)",
+      "Terrell",
+      "Thomas",
+      "Tift",
+      "Toombs",
+      "Towns",
+      "Treutlen",
+      "Troup",
+      "Turner",
+      "Twiggs",
+      "Union",
+      "Upson",
+      "Walker",
+      "Walton",
+      "Ware",
+      "Warren",
+      "Washington",
+      "Wayne",
+      "Webster County",
+      "Wheeler",
+      "White",
+      "Whitfield",
+      "Wilcox",
+      "Wilkes",
+      "Wilkinson",
+      "Worth"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi",
+      "designation": "km2"
+    },
+    {
+      "name": "Abbeville †",
+      "designation": "City",
+      "primary_county": "Wilcox"
+    },
+    {
+      "name": "Acworth",
+      "designation": "City",
+      "primary_county": "Cobb"
+    },
+    {
+      "name": "Adairsville",
+      "designation": "City",
+      "primary_county": "Bartow"
+    },
+    {
+      "name": "Adel †",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Adrian",
+      "designation": "City",
+      "primary_county": "Emanuel",
+      "secondary_counties": [
+        "Johnson"
+      ]
+    },
+    {
+      "name": "Ailey",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Alamo †",
+      "designation": "City",
+      "primary_county": "Wheeler"
+    },
+    {
+      "name": "Alapaha",
+      "designation": "Town",
+      "primary_county": "Berrien"
+    },
+    {
+      "name": "Albany †",
+      "designation": "City",
+      "primary_county": "Dougherty"
+    },
+    {
+      "name": "Aldora",
+      "designation": "Town",
+      "primary_county": "Lamar"
+    },
+    {
+      "name": "Allenhurst",
+      "designation": "City",
+      "primary_county": "Liberty"
+    },
+    {
+      "name": "Allentown",
+      "designation": "Town",
+      "primary_county": "Bleckley",
+      "secondary_counties": [
+        "Laurens",
+        "Twiggs",
+        "Wilkinson"
+      ]
+    },
+    {
+      "name": "Alma †",
+      "designation": "City",
+      "primary_county": "Bacon"
+    },
+    {
+      "name": "Alpharetta",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Alston",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Alto",
+      "designation": "Town",
+      "primary_county": "Banks",
+      "secondary_counties": [
+        "Habersham"
+      ]
+    },
+    {
+      "name": "Ambrose",
+      "designation": "City",
+      "primary_county": "Coffee"
+    },
+    {
+      "name": "Americus †",
+      "designation": "City",
+      "primary_county": "Sumter"
+    },
+    {
+      "name": "Andersonville",
+      "designation": "City",
+      "primary_county": "Sumter"
+    },
+    {
+      "name": "Arabi",
+      "designation": "Town",
+      "primary_county": "Crisp"
+    },
+    {
+      "name": "Aragon",
+      "designation": "City",
+      "primary_county": "Polk"
+    },
+    {
+      "name": "Arcade",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Argyle",
+      "designation": "Town",
+      "primary_county": "Clinch"
+    },
+    {
+      "name": "Arlington",
+      "designation": "City",
+      "primary_county": "Calhoun",
+      "secondary_counties": [
+        "Early"
+      ]
+    },
+    {
+      "name": "Arnoldsville",
+      "designation": "City",
+      "primary_county": "Oglethorpe"
+    },
+    {
+      "name": "Ashburn †",
+      "designation": "City",
+      "primary_county": "Turner"
+    },
+    {
+      "name": "Athens †[b]",
+      "designation": "Consolidated city-county",
+      "primary_county": "Clarke"
+    },
+    {
+      "name": "Atlanta ‡",
+      "designation": "City",
+      "primary_county": "Fulton (seat)",
+      "secondary_counties": [
+        "DeKalb"
+      ]
+    },
+    {
+      "name": "Attapulgus",
+      "designation": "City",
+      "primary_county": "Decatur"
+    },
+    {
+      "name": "Auburn",
+      "designation": "City",
+      "primary_county": "Barrow",
+      "secondary_counties": [
+        "Gwinnett"
+      ]
+    },
+    {
+      "name": "Augusta †[c]",
+      "designation": "Consolidated city-county",
+      "primary_county": "Richmond"
+    },
+    {
+      "name": "Austell",
+      "designation": "City",
+      "primary_county": "Cobb",
+      "secondary_counties": [
+        "Douglas"
+      ]
+    },
+    {
+      "name": "Avalon",
+      "designation": "Town",
+      "primary_county": "Stephens"
+    },
+    {
+      "name": "Avera",
+      "designation": "City",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Avondale Estates",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Baconton",
+      "designation": "City",
+      "primary_county": "Mitchell"
+    },
+    {
+      "name": "Bainbridge †",
+      "designation": "City",
+      "primary_county": "Decatur"
+    },
+    {
+      "name": "Baldwin",
+      "designation": "City",
+      "primary_county": "Banks",
+      "secondary_counties": [
+        "Habersham"
+      ]
+    },
+    {
+      "name": "Ball Ground",
+      "designation": "City",
+      "primary_county": "Cherokee"
+    },
+    {
+      "name": "Barnesville †",
+      "designation": "City",
+      "primary_county": "Lamar"
+    },
+    {
+      "name": "Bartow",
+      "designation": "Town",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Barwick",
+      "designation": "City",
+      "primary_county": "Brooks",
+      "secondary_counties": [
+        "Thomas"
+      ]
+    },
+    {
+      "name": "Baxley †",
+      "designation": "City",
+      "primary_county": "Appling"
+    },
+    {
+      "name": "Bellville",
+      "designation": "City",
+      "primary_county": "Evans"
+    },
+    {
+      "name": "Berkeley Lake",
+      "designation": "City",
+      "primary_county": "Gwinnett"
+    },
+    {
+      "name": "Berlin",
+      "designation": "Town",
+      "primary_county": "Colquitt"
+    },
+    {
+      "name": "Bethlehem",
+      "designation": "Town",
+      "primary_county": "Barrow"
+    },
+    {
+      "name": "Between",
+      "designation": "Town",
+      "primary_county": "Walton"
+    },
+    {
+      "name": "Bishop",
+      "designation": "Town",
+      "primary_county": "Oconee"
+    },
+    {
+      "name": "Blackshear †",
+      "designation": "City",
+      "primary_county": "Pierce"
+    },
+    {
+      "name": "Blairsville †",
+      "designation": "City",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Blakely †",
+      "designation": "City",
+      "primary_county": "Early"
+    },
+    {
+      "name": "Bloomingdale",
+      "designation": "City",
+      "primary_county": "Chatham"
+    },
+    {
+      "name": "Blue Ridge †",
+      "designation": "City",
+      "primary_county": "Fannin"
+    },
+    {
+      "name": "Bluffton",
+      "designation": "Town",
+      "primary_county": "Clay"
+    },
+    {
+      "name": "Blythe",
+      "designation": "City",
+      "primary_county": "Burke",
+      "secondary_counties": [
+        "Richmond"
+      ]
+    },
+    {
+      "name": "Bogart",
+      "designation": "Town",
+      "primary_county": "Clarke",
+      "secondary_counties": [
+        "Oconee"
+      ]
+    },
+    {
+      "name": "Boston",
+      "designation": "City",
+      "primary_county": "Thomas"
+    },
+    {
+      "name": "Bostwick",
+      "designation": "Town",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Bowdon",
+      "designation": "City",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Bowersville",
+      "designation": "Town",
+      "primary_county": "Hart"
+    },
+    {
+      "name": "Bowman",
+      "designation": "City",
+      "primary_county": "Elbert"
+    },
+    {
+      "name": "Braselton",
+      "designation": "Town",
+      "primary_county": "Barrow",
+      "secondary_counties": [
+        "Gwinnett",
+        "Hall",
+        "Jackson"
+      ]
+    },
+    {
+      "name": "Braswell",
+      "designation": "City",
+      "primary_county": "Paulding",
+      "secondary_counties": [
+        "Polk"
+      ]
+    },
+    {
+      "name": "Bremen",
+      "designation": "City",
+      "primary_county": "Carroll",
+      "secondary_counties": [
+        "Haralson"
+      ]
+    },
+    {
+      "name": "Brinson",
+      "designation": "Town",
+      "primary_county": "Decatur"
+    },
+    {
+      "name": "Bronwood",
+      "designation": "Town",
+      "primary_county": "Terrell"
+    },
+    {
+      "name": "Brookhaven[d]",
+      "designation": "City",
+      "primary_county": "Dekalb"
+    },
+    {
+      "name": "Brooklet",
+      "designation": "City",
+      "primary_county": "Bulloch"
+    },
+    {
+      "name": "Brooks",
+      "designation": "Town",
+      "primary_county": "Fayette"
+    },
+    {
+      "name": "Broxton",
+      "designation": "City",
+      "primary_county": "Coffee"
+    },
+    {
+      "name": "Brunswick †",
+      "designation": "City",
+      "primary_county": "Glynn"
+    },
+    {
+      "name": "Buchanan †",
+      "designation": "City",
+      "primary_county": "Haralson"
+    },
+    {
+      "name": "Buckhead",
+      "designation": "Town",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Buena Vista †",
+      "designation": "City",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Buford",
+      "designation": "City",
+      "primary_county": "Gwinnett",
+      "secondary_counties": [
+        "Hall"
+      ]
+    },
+    {
+      "name": "Butler †",
+      "designation": "City",
+      "primary_county": "Taylor"
+    },
+    {
+      "name": "Byromville",
+      "designation": "Town",
+      "primary_county": "Dooly"
+    },
+    {
+      "name": "Byron",
+      "designation": "City",
+      "primary_county": "Houston",
+      "secondary_counties": [
+        "Peach"
+      ]
+    },
+    {
+      "name": "Cadwell",
+      "designation": "Town",
+      "primary_county": "Laurens"
+    },
+    {
+      "name": "Cairo †",
+      "designation": "City",
+      "primary_county": "Grady"
+    },
+    {
+      "name": "Calhoun †",
+      "designation": "City",
+      "primary_county": "Gordon"
+    },
+    {
+      "name": "Camak",
+      "designation": "Town",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Camilla †",
+      "designation": "City",
+      "primary_county": "Mitchell"
+    },
+    {
+      "name": "Canon",
+      "designation": "City",
+      "primary_county": "Franklin",
+      "secondary_counties": [
+        "Hart"
+      ]
+    },
+    {
+      "name": "Canton †",
+      "designation": "City",
+      "primary_county": "Cherokee"
+    },
+    {
+      "name": "Carl",
+      "designation": "Town",
+      "primary_county": "Barrow"
+    },
+    {
+      "name": "Carlton",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Carnesville †",
+      "designation": "City",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Carrollton †",
+      "designation": "City",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Cartersville †",
+      "designation": "City",
+      "primary_county": "Bartow"
+    },
+    {
+      "name": "Cave Spring",
+      "designation": "City",
+      "primary_county": "Floyd"
+    },
+    {
+      "name": "Cecil",
+      "designation": "Town",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Cedartown †",
+      "designation": "City",
+      "primary_county": "Polk"
+    },
+    {
+      "name": "Centerville",
+      "designation": "City",
+      "primary_county": "Houston"
+    },
+    {
+      "name": "Centralhatchee",
+      "designation": "Town",
+      "primary_county": "Heard"
+    },
+    {
+      "name": "Chamblee",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Chatsworth †",
+      "designation": "City",
+      "primary_county": "Murray"
+    },
+    {
+      "name": "Chattahoochee Hills",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Chauncey",
+      "designation": "City",
+      "primary_county": "Dodge"
+    },
+    {
+      "name": "Chester",
+      "designation": "Town",
+      "primary_county": "Dodge"
+    },
+    {
+      "name": "Chickamauga",
+      "designation": "City",
+      "primary_county": "Walker"
+    },
+    {
+      "name": "Clarkesville †",
+      "designation": "City",
+      "primary_county": "Habersham"
+    },
+    {
+      "name": "Clarkston",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Claxton †",
+      "designation": "City",
+      "primary_county": "Evans"
+    },
+    {
+      "name": "Clayton †",
+      "designation": "City",
+      "primary_county": "Rabun"
+    },
+    {
+      "name": "Clermont",
+      "designation": "Town",
+      "primary_county": "Hall"
+    },
+    {
+      "name": "Cleveland †",
+      "designation": "City",
+      "primary_county": "White"
+    },
+    {
+      "name": "Climax",
+      "designation": "City",
+      "primary_county": "Decatur"
+    },
+    {
+      "name": "Cobbtown",
+      "designation": "City",
+      "primary_county": "Tattnall"
+    },
+    {
+      "name": "Cochran †",
+      "designation": "City",
+      "primary_county": "Bleckley"
+    },
+    {
+      "name": "Cohutta",
+      "designation": "Town",
+      "primary_county": "Whitfield"
+    },
+    {
+      "name": "Colbert",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "College Park",
+      "designation": "City",
+      "primary_county": "Clayton",
+      "secondary_counties": [
+        "Fulton"
+      ]
+    },
+    {
+      "name": "Collins",
+      "designation": "City",
+      "primary_county": "Tattnall"
+    },
+    {
+      "name": "Colquitt †",
+      "designation": "City",
+      "primary_county": "Miller"
+    },
+    {
+      "name": "Columbus †",
+      "designation": "Consolidated city-county",
+      "primary_county": "Muscogee"
+    },
+    {
+      "name": "Comer",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Commerce",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Concord",
+      "designation": "Town",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Conyers †",
+      "designation": "City",
+      "primary_county": "Rockdale"
+    },
+    {
+      "name": "Coolidge",
+      "designation": "City",
+      "primary_county": "Thomas"
+    },
+    {
+      "name": "Cordele †",
+      "designation": "City",
+      "primary_county": "Crisp"
+    },
+    {
+      "name": "Cornelia",
+      "designation": "City",
+      "primary_county": "Habersham"
+    },
+    {
+      "name": "Covington †",
+      "designation": "City",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "Crawford",
+      "designation": "City",
+      "primary_county": "Oglethorpe"
+    },
+    {
+      "name": "Crawfordville †",
+      "designation": "City",
+      "primary_county": "Taliaferro"
+    },
+    {
+      "name": "Culloden",
+      "designation": "City",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Cumming †",
+      "designation": "City",
+      "primary_county": "Forsyth"
+    },
+    {
+      "name": "Cusseta †",
+      "designation": "Consolidated city-county",
+      "primary_county": "Chattahoochee"
+    },
+    {
+      "name": "Cuthbert †",
+      "designation": "City",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Dacula",
+      "designation": "City",
+      "primary_county": "Gwinnett"
+    },
+    {
+      "name": "Dahlonega †",
+      "designation": "City",
+      "primary_county": "Lumpkin"
+    },
+    {
+      "name": "Daisy",
+      "designation": "City",
+      "primary_county": "Evans"
+    },
+    {
+      "name": "Dallas †",
+      "designation": "City",
+      "primary_county": "Paulding"
+    },
+    {
+      "name": "Dalton †",
+      "designation": "City",
+      "primary_county": "Whitfield"
+    },
+    {
+      "name": "Damascus",
+      "designation": "City",
+      "primary_county": "Early"
+    },
+    {
+      "name": "Danielsville †",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Danville",
+      "designation": "Town",
+      "primary_county": "Twiggs",
+      "secondary_counties": [
+        "Wilkinson"
+      ]
+    },
+    {
+      "name": "Darien †",
+      "designation": "City",
+      "primary_county": "McIntosh"
+    },
+    {
+      "name": "Dasher",
+      "designation": "Town",
+      "primary_county": "Lowndes"
+    },
+    {
+      "name": "Davisboro",
+      "designation": "City",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Dawson †",
+      "designation": "City",
+      "primary_county": "Terrell"
+    },
+    {
+      "name": "Dawsonville †",
+      "designation": "City",
+      "primary_county": "Dawson"
+    },
+    {
+      "name": "Dearing",
+      "designation": "Town",
+      "primary_county": "McDuffie"
+    },
+    {
+      "name": "Decatur †",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Deepstep",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Demorest",
+      "designation": "City",
+      "primary_county": "Habersham"
+    },
+    {
+      "name": "Denton",
+      "designation": "City",
+      "primary_county": "Jeff Davis"
+    },
+    {
+      "name": "De Soto",
+      "designation": "City",
+      "primary_county": "Sumter"
+    },
+    {
+      "name": "Dexter",
+      "designation": "Town",
+      "primary_county": "Laurens"
+    },
+    {
+      "name": "Dillard",
+      "designation": "City",
+      "primary_county": "Rabun"
+    },
+    {
+      "name": "Doerun",
+      "designation": "City",
+      "primary_county": "Colquitt"
+    },
+    {
+      "name": "Donalsonville †",
+      "designation": "City",
+      "primary_county": "Seminole"
+    },
+    {
+      "name": "Dooling",
+      "designation": "Town",
+      "primary_county": "Dooly"
+    },
+    {
+      "name": "Doraville",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Douglas †",
+      "designation": "City",
+      "primary_county": "Coffee"
+    },
+    {
+      "name": "Douglasville †",
+      "designation": "City",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Dublin †",
+      "designation": "City",
+      "primary_county": "Laurens"
+    },
+    {
+      "name": "Dudley",
+      "designation": "City",
+      "primary_county": "Laurens"
+    },
+    {
+      "name": "Duluth",
+      "designation": "City",
+      "primary_county": "Gwinnett"
+    },
+    {
+      "name": "Dunwoody",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Du Pont",
+      "designation": "Town",
+      "primary_county": "Clinch"
+    },
+    {
+      "name": "East Dublin",
+      "designation": "City",
+      "primary_county": "Laurens"
+    },
+    {
+      "name": "East Ellijay",
+      "designation": "City",
+      "primary_county": "Gilmer"
+    },
+    {
+      "name": "Eastman †",
+      "designation": "City",
+      "primary_county": "Dodge"
+    },
+    {
+      "name": "East Point",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Eatonton †",
+      "designation": "City",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "Echols County[e]",
+      "designation": "Unified government",
+      "primary_county": "Echols County"
+    },
+    {
+      "name": "Edge Hill",
+      "designation": "City",
+      "primary_county": "Glascock"
+    },
+    {
+      "name": "Edison",
+      "designation": "City",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Elberton †",
+      "designation": "City",
+      "primary_county": "Elbert"
+    },
+    {
+      "name": "Ellaville †",
+      "designation": "City",
+      "primary_county": "Schley"
+    },
+    {
+      "name": "Ellenton",
+      "designation": "Town",
+      "primary_county": "Colquitt"
+    },
+    {
+      "name": "Ellijay †",
+      "designation": "City",
+      "primary_county": "Gilmer"
+    },
+    {
+      "name": "Emerson",
+      "designation": "City",
+      "primary_county": "Bartow"
+    },
+    {
+      "name": "Enigma",
+      "designation": "Town",
+      "primary_county": "Berrien"
+    },
+    {
+      "name": "Ephesus",
+      "designation": "City",
+      "primary_county": "Heard"
+    },
+    {
+      "name": "Eton",
+      "designation": "Town",
+      "primary_county": "Murray"
+    },
+    {
+      "name": "Euharlee",
+      "designation": "City",
+      "primary_county": "Bartow"
+    },
+    {
+      "name": "Fairburn",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Fairmount",
+      "designation": "City",
+      "primary_county": "Gordon"
+    },
+    {
+      "name": "Fargo",
+      "designation": "City",
+      "primary_county": "Clinch"
+    },
+    {
+      "name": "Fayetteville †",
+      "designation": "City",
+      "primary_county": "Fayette"
+    },
+    {
+      "name": "Fitzgerald †",
+      "designation": "City",
+      "primary_county": "Ben Hill",
+      "secondary_counties": [
+        "Irwin"
+      ]
+    },
+    {
+      "name": "Flemington",
+      "designation": "City",
+      "primary_county": "Liberty"
+    },
+    {
+      "name": "Flovilla",
+      "designation": "City",
+      "primary_county": "Butts"
+    },
+    {
+      "name": "Flowery Branch",
+      "designation": "City",
+      "primary_county": "Hall"
+    },
+    {
+      "name": "Folkston †",
+      "designation": "City",
+      "primary_county": "Charlton"
+    },
+    {
+      "name": "Forest Park",
+      "designation": "City",
+      "primary_county": "Clayton"
+    },
+    {
+      "name": "Forsyth †",
+      "designation": "City",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Fort Gaines †",
+      "designation": "City",
+      "primary_county": "Clay"
+    },
+    {
+      "name": "Fort Oglethorpe",
+      "designation": "City",
+      "primary_county": "Catoosa",
+      "secondary_counties": [
+        "Walker"
+      ]
+    },
+    {
+      "name": "Fort Valley †",
+      "designation": "City",
+      "primary_county": "Peach"
+    },
+    {
+      "name": "Franklin †",
+      "designation": "City",
+      "primary_county": "Heard"
+    },
+    {
+      "name": "Franklin Springs",
+      "designation": "City",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Funston",
+      "designation": "Town",
+      "primary_county": "Colquitt"
+    },
+    {
+      "name": "Gainesville †",
+      "designation": "City",
+      "primary_county": "Hall"
+    },
+    {
+      "name": "Garden City",
+      "designation": "City",
+      "primary_county": "Chatham"
+    },
+    {
+      "name": "Garfield",
+      "designation": "City",
+      "primary_county": "Emanuel"
+    },
+    {
+      "name": "Gay",
+      "designation": "Town",
+      "primary_county": "Meriwether"
+    },
+    {
+      "name": "Geneva",
+      "designation": "Town",
+      "primary_county": "Talbot"
+    },
+    {
+      "name": "Georgetown †",
+      "designation": "Consolidated city-county",
+      "primary_county": "Quitman"
+    },
+    {
+      "name": "Gibson †",
+      "designation": "City",
+      "primary_county": "Glascock"
+    },
+    {
+      "name": "Gillsville",
+      "designation": "City",
+      "primary_county": "Banks",
+      "secondary_counties": [
+        "Hall"
+      ]
+    },
+    {
+      "name": "Girard",
+      "designation": "Town",
+      "primary_county": "Burke"
+    },
+    {
+      "name": "Glennville",
+      "designation": "City",
+      "primary_county": "Tattnall"
+    },
+    {
+      "name": "Glenwood",
+      "designation": "City",
+      "primary_county": "Wheeler"
+    },
+    {
+      "name": "Good Hope",
+      "designation": "Town",
+      "primary_county": "Walton"
+    },
+    {
+      "name": "Gordon",
+      "designation": "City",
+      "primary_county": "Wilkinson"
+    },
+    {
+      "name": "Graham",
+      "designation": "City",
+      "primary_county": "Appling"
+    },
+    {
+      "name": "Grantville",
+      "designation": "City",
+      "primary_county": "Coweta"
+    },
+    {
+      "name": "Gray †",
+      "designation": "City",
+      "primary_county": "Jones"
+    },
+    {
+      "name": "Grayson",
+      "designation": "City",
+      "primary_county": "Gwinnett"
+    },
+    {
+      "name": "Greensboro †",
+      "designation": "City",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Greenville †",
+      "designation": "City",
+      "primary_county": "Meriwether"
+    },
+    {
+      "name": "Griffin †",
+      "designation": "City",
+      "primary_county": "Spalding"
+    },
+    {
+      "name": "Grovetown",
+      "designation": "City",
+      "primary_county": "Columbia"
+    },
+    {
+      "name": "Gumbranch",
+      "designation": "City",
+      "primary_county": "Liberty"
+    },
+    {
+      "name": "Guyton",
+      "designation": "City",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Hagan",
+      "designation": "City",
+      "primary_county": "Evans"
+    },
+    {
+      "name": "Hahira",
+      "designation": "City",
+      "primary_county": "Lowndes"
+    },
+    {
+      "name": "Hamilton †",
+      "designation": "City",
+      "primary_county": "Harris"
+    },
+    {
+      "name": "Hampton",
+      "designation": "City",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Hapeville",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Haralson",
+      "designation": "Town",
+      "primary_county": "Coweta",
+      "secondary_counties": [
+        "Meriwether"
+      ]
+    },
+    {
+      "name": "Harlem",
+      "designation": "City",
+      "primary_county": "Columbia"
+    },
+    {
+      "name": "Harrison",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Hartwell †",
+      "designation": "City",
+      "primary_county": "Hart"
+    },
+    {
+      "name": "Hawkinsville †",
+      "designation": "City",
+      "primary_county": "Pulaski"
+    },
+    {
+      "name": "Hazlehurst †",
+      "designation": "City",
+      "primary_county": "Jeff Davis"
+    },
+    {
+      "name": "Helen",
+      "designation": "City",
+      "primary_county": "White"
+    },
+    {
+      "name": "Hephzibah",
+      "designation": "City",
+      "primary_county": "Richmond"
+    },
+    {
+      "name": "Hiawassee †",
+      "designation": "Town",
+      "primary_county": "Towns"
+    },
+    {
+      "name": "Higgston",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Hiltonia",
+      "designation": "City",
+      "primary_county": "Screven"
+    },
+    {
+      "name": "Hinesville †",
+      "designation": "City",
+      "primary_county": "Liberty"
+    },
+    {
+      "name": "Hiram",
+      "designation": "City",
+      "primary_county": "Paulding"
+    },
+    {
+      "name": "Hoboken",
+      "designation": "City",
+      "primary_county": "Brantley"
+    },
+    {
+      "name": "Hogansville",
+      "designation": "City",
+      "primary_county": "Troup"
+    },
+    {
+      "name": "Holly Springs",
+      "designation": "City",
+      "primary_county": "Cherokee"
+    },
+    {
+      "name": "Homeland",
+      "designation": "City",
+      "primary_county": "Charlton"
+    },
+    {
+      "name": "Homer †",
+      "designation": "Town",
+      "primary_county": "Banks"
+    },
+    {
+      "name": "Homerville †",
+      "designation": "City",
+      "primary_county": "Clinch"
+    },
+    {
+      "name": "Hoschton",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Hull",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Ideal",
+      "designation": "City",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Ila",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Iron City",
+      "designation": "Town",
+      "primary_county": "Seminole"
+    },
+    {
+      "name": "Irwinton †",
+      "designation": "City",
+      "primary_county": "Wilkinson"
+    },
+    {
+      "name": "Ivey",
+      "designation": "Town",
+      "primary_county": "Wilkinson"
+    },
+    {
+      "name": "Jackson †",
+      "designation": "City",
+      "primary_county": "Butts"
+    },
+    {
+      "name": "Jacksonville",
+      "designation": "Town",
+      "primary_county": "Telfair"
+    },
+    {
+      "name": "Jakin",
+      "designation": "City",
+      "primary_county": "Early"
+    },
+    {
+      "name": "Jasper †",
+      "designation": "City",
+      "primary_county": "Pickens"
+    },
+    {
+      "name": "Jefferson",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Jeffersonville †",
+      "designation": "City",
+      "primary_county": "Twiggs"
+    },
+    {
+      "name": "Jenkinsburg",
+      "designation": "City",
+      "primary_county": "Butts"
+    },
+    {
+      "name": "Jersey",
+      "designation": "Town",
+      "primary_county": "Walton"
+    },
+    {
+      "name": "Jesup †",
+      "designation": "City",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Johns Creek [f]",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Jonesboro †",
+      "designation": "City",
+      "primary_county": "Clayton"
+    },
+    {
+      "name": "Junction City",
+      "designation": "Town",
+      "primary_county": "Talbot"
+    },
+    {
+      "name": "Kennesaw",
+      "designation": "City",
+      "primary_county": "Cobb"
+    },
+    {
+      "name": "Keysville",
+      "designation": "City",
+      "primary_county": "Burke",
+      "secondary_counties": [
+        "Jefferson"
+      ]
+    },
+    {
+      "name": "Kingsland",
+      "designation": "City",
+      "primary_county": "Camden"
+    },
+    {
+      "name": "Kingston",
+      "designation": "City",
+      "primary_county": "Bartow"
+    },
+    {
+      "name": "Kite",
+      "designation": "Town",
+      "primary_county": "Johnson"
+    },
+    {
+      "name": "LaFayette †",
+      "designation": "City",
+      "primary_county": "Walker"
+    },
+    {
+      "name": "LaGrange †",
+      "designation": "City",
+      "primary_county": "Troup"
+    },
+    {
+      "name": "Lake City",
+      "designation": "City",
+      "primary_county": "Clayton"
+    },
+    {
+      "name": "Lakeland †",
+      "designation": "City",
+      "primary_county": "Lanier"
+    },
+    {
+      "name": "Lake Park",
+      "designation": "City",
+      "primary_county": "Lowndes"
+    },
+    {
+      "name": "Lavonia",
+      "designation": "City",
+      "primary_county": "Franklin",
+      "secondary_counties": [
+        "Hart"
+      ]
+    },
+    {
+      "name": "Lawrenceville †",
+      "designation": "City",
+      "primary_county": "Gwinnett"
+    },
+    {
+      "name": "Leary",
+      "designation": "City",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Leesburg †",
+      "designation": "City",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Lenox",
+      "designation": "Town",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Leslie",
+      "designation": "City",
+      "primary_county": "Sumter"
+    },
+    {
+      "name": "Lexington †",
+      "designation": "City",
+      "primary_county": "Oglethorpe"
+    },
+    {
+      "name": "Lilburn",
+      "designation": "City",
+      "primary_county": "Gwinnett"
+    },
+    {
+      "name": "Lilly",
+      "designation": "City",
+      "primary_county": "Dooly"
+    },
+    {
+      "name": "Lincolnton †",
+      "designation": "City",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Lithonia",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Locust Grove",
+      "designation": "City",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Loganville",
+      "designation": "City",
+      "primary_county": "Gwinnett",
+      "secondary_counties": [
+        "Walton"
+      ]
+    },
+    {
+      "name": "Lone Oak",
+      "designation": "Town",
+      "primary_county": "Meriwether"
+    },
+    {
+      "name": "Lookout Mountain",
+      "designation": "City",
+      "primary_county": "Walker"
+    },
+    {
+      "name": "Louisville †",
+      "designation": "City",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Lovejoy",
+      "designation": "City",
+      "primary_county": "Clayton"
+    },
+    {
+      "name": "Ludowici †",
+      "designation": "City",
+      "primary_county": "Long"
+    },
+    {
+      "name": "Lula",
+      "designation": "City",
+      "primary_county": "Banks",
+      "secondary_counties": [
+        "Hall"
+      ]
+    },
+    {
+      "name": "Lumber City",
+      "designation": "City",
+      "primary_county": "Telfair"
+    },
+    {
+      "name": "Lumpkin †",
+      "designation": "City",
+      "primary_county": "Stewart"
+    },
+    {
+      "name": "Luthersville",
+      "designation": "City",
+      "primary_county": "Meriwether"
+    },
+    {
+      "name": "Lyerly",
+      "designation": "Town",
+      "primary_county": "Chattooga"
+    },
+    {
+      "name": "Lyons †",
+      "designation": "City",
+      "primary_county": "Toombs"
+    },
+    {
+      "name": "Mableton[g]",
+      "designation": "City",
+      "primary_county": "Cobb"
+    },
+    {
+      "name": "Macon †[h]",
+      "designation": "Consolidated city-county",
+      "primary_county": "Bibb"
+    },
+    {
+      "name": "Madison †",
+      "designation": "City",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Manassas",
+      "designation": "City",
+      "primary_county": "Tattnall"
+    },
+    {
+      "name": "Manchester",
+      "designation": "City",
+      "primary_county": "Meriwether",
+      "secondary_counties": [
+        "Talbot"
+      ]
+    },
+    {
+      "name": "Mansfield",
+      "designation": "City",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "Marietta †",
+      "designation": "City",
+      "primary_county": "Cobb"
+    },
+    {
+      "name": "Marshallville",
+      "designation": "City",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Martin",
+      "designation": "Town",
+      "primary_county": "Franklin",
+      "secondary_counties": [
+        "Stephens"
+      ]
+    },
+    {
+      "name": "Maxeys",
+      "designation": "Town",
+      "primary_county": "Oglethorpe"
+    },
+    {
+      "name": "Maysville",
+      "designation": "Town",
+      "primary_county": "Banks",
+      "secondary_counties": [
+        "Jackson"
+      ]
+    },
+    {
+      "name": "McCaysville",
+      "designation": "City",
+      "primary_county": "Fannin"
+    },
+    {
+      "name": "McDonough †",
+      "designation": "City",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "McIntyre",
+      "designation": "Town",
+      "primary_county": "Wilkinson"
+    },
+    {
+      "name": "McRae–Helena † [i]",
+      "designation": "City",
+      "primary_county": "Telfair (seat)",
+      "secondary_counties": [
+        "Wheeler"
+      ]
+    },
+    {
+      "name": "Meansville",
+      "designation": "City",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Meigs",
+      "designation": "City",
+      "primary_county": "Mitchell",
+      "secondary_counties": [
+        "Thomas"
+      ]
+    },
+    {
+      "name": "Menlo",
+      "designation": "City",
+      "primary_county": "Chattooga"
+    },
+    {
+      "name": "Metter †",
+      "designation": "City",
+      "primary_county": "Candler"
+    },
+    {
+      "name": "Midville",
+      "designation": "City",
+      "primary_county": "Burke"
+    },
+    {
+      "name": "Midway",
+      "designation": "City",
+      "primary_county": "Liberty"
+    },
+    {
+      "name": "Milan",
+      "designation": "City",
+      "primary_county": "Dodge",
+      "secondary_counties": [
+        "Telfair"
+      ]
+    },
+    {
+      "name": "Milledgeville †",
+      "designation": "City",
+      "primary_county": "Baldwin"
+    },
+    {
+      "name": "Millen †",
+      "designation": "City",
+      "primary_county": "Jenkins"
+    },
+    {
+      "name": "Milner",
+      "designation": "City",
+      "primary_county": "Lamar"
+    },
+    {
+      "name": "Milton",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Mitchell",
+      "designation": "Town",
+      "primary_county": "Glascock"
+    },
+    {
+      "name": "Molena",
+      "designation": "City",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Monroe †",
+      "designation": "City",
+      "primary_county": "Walton"
+    },
+    {
+      "name": "Montezuma",
+      "designation": "City",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Monticello †",
+      "designation": "City",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Montrose",
+      "designation": "Town",
+      "primary_county": "Laurens"
+    },
+    {
+      "name": "Moreland",
+      "designation": "Town",
+      "primary_county": "Coweta"
+    },
+    {
+      "name": "Morgan †",
+      "designation": "City",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Morganton",
+      "designation": "City",
+      "primary_county": "Fannin"
+    },
+    {
+      "name": "Morrow",
+      "designation": "City",
+      "primary_county": "Clayton"
+    },
+    {
+      "name": "Morven",
+      "designation": "City",
+      "primary_county": "Brooks"
+    },
+    {
+      "name": "Moultrie †",
+      "designation": "City",
+      "primary_county": "Colquitt"
+    },
+    {
+      "name": "Mountain City",
+      "designation": "Town",
+      "primary_county": "Rabun"
+    },
+    {
+      "name": "Mountain Park",
+      "designation": "City",
+      "primary_county": "Cherokee",
+      "secondary_counties": [
+        "Fulton"
+      ]
+    },
+    {
+      "name": "Mount Airy",
+      "designation": "Town",
+      "primary_county": "Habersham"
+    },
+    {
+      "name": "Mount Vernon †",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Mount Zion",
+      "designation": "City",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Nahunta †",
+      "designation": "City",
+      "primary_county": "Brantley"
+    },
+    {
+      "name": "Nashville †",
+      "designation": "City",
+      "primary_county": "Berrien"
+    },
+    {
+      "name": "Nelson",
+      "designation": "City",
+      "primary_county": "Cherokee",
+      "secondary_counties": [
+        "Pickens"
+      ]
+    },
+    {
+      "name": "Newborn",
+      "designation": "Town",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "Newington",
+      "designation": "Town",
+      "primary_county": "Screven"
+    },
+    {
+      "name": "Newnan †",
+      "designation": "City",
+      "primary_county": "Coweta"
+    },
+    {
+      "name": "Newton",
+      "designation": "City",
+      "primary_county": "Baker"
+    },
+    {
+      "name": "Nicholls",
+      "designation": "City",
+      "primary_county": "Coffee"
+    },
+    {
+      "name": "Nicholson",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Norcross",
+      "designation": "City",
+      "primary_county": "Gwinnett"
+    },
+    {
+      "name": "Norman Park",
+      "designation": "City",
+      "primary_county": "Colquitt"
+    },
+    {
+      "name": "North High Shoals",
+      "designation": "Town",
+      "primary_county": "Oconee"
+    },
+    {
+      "name": "Norwood",
+      "designation": "City",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Nunez",
+      "designation": "City",
+      "primary_county": "Emanuel"
+    },
+    {
+      "name": "Oak Park",
+      "designation": "Town",
+      "primary_county": "Emanuel"
+    },
+    {
+      "name": "Oakwood",
+      "designation": "City",
+      "primary_county": "Hall"
+    },
+    {
+      "name": "Ochlocknee",
+      "designation": "Town",
+      "primary_county": "Thomas"
+    },
+    {
+      "name": "Ocilla †",
+      "designation": "City",
+      "primary_county": "Irwin"
+    },
+    {
+      "name": "Oconee",
+      "designation": "City",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Odum",
+      "designation": "Town",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Offerman",
+      "designation": "City",
+      "primary_county": "Pierce"
+    },
+    {
+      "name": "Oglethorpe †",
+      "designation": "City",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Oliver",
+      "designation": "City",
+      "primary_county": "Screven"
+    },
+    {
+      "name": "Omega",
+      "designation": "City",
+      "primary_county": "Colquitt",
+      "secondary_counties": [
+        "Tift"
+      ]
+    },
+    {
+      "name": "Orchard Hill",
+      "designation": "Town",
+      "primary_county": "Spalding"
+    },
+    {
+      "name": "Oxford",
+      "designation": "City",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "Palmetto",
+      "designation": "City",
+      "primary_county": "Coweta",
+      "secondary_counties": [
+        "Fulton"
+      ]
+    },
+    {
+      "name": "Parrott",
+      "designation": "Town",
+      "primary_county": "Terrell"
+    },
+    {
+      "name": "Patterson",
+      "designation": "City",
+      "primary_county": "Pierce"
+    },
+    {
+      "name": "Pavo",
+      "designation": "City",
+      "primary_county": "Brooks",
+      "secondary_counties": [
+        "Thomas"
+      ]
+    },
+    {
+      "name": "Peachtree City",
+      "designation": "City",
+      "primary_county": "Fayette"
+    },
+    {
+      "name": "Peachtree Corners[j]",
+      "designation": "City",
+      "primary_county": "Gwinnett"
+    },
+    {
+      "name": "Pearson †",
+      "designation": "City",
+      "primary_county": "Atkinson"
+    },
+    {
+      "name": "Pelham",
+      "designation": "City",
+      "primary_county": "Mitchell"
+    },
+    {
+      "name": "Pembroke †",
+      "designation": "City",
+      "primary_county": "Bryan"
+    },
+    {
+      "name": "Pendergrass",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Perry †",
+      "designation": "City",
+      "primary_county": "Houston (seat)",
+      "secondary_counties": [
+        "Peach"
+      ]
+    },
+    {
+      "name": "Pinehurst",
+      "designation": "City",
+      "primary_county": "Dooly"
+    },
+    {
+      "name": "Pine Lake",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Pine Mountain",
+      "designation": "Town",
+      "primary_county": "Harris",
+      "secondary_counties": [
+        "Meriwether"
+      ]
+    },
+    {
+      "name": "Pineview",
+      "designation": "Town",
+      "primary_county": "Wilcox"
+    },
+    {
+      "name": "Pitts",
+      "designation": "City",
+      "primary_county": "Wilcox"
+    },
+    {
+      "name": "Plains",
+      "designation": "City",
+      "primary_county": "Sumter"
+    },
+    {
+      "name": "Plainville",
+      "designation": "City",
+      "primary_county": "Gordon"
+    },
+    {
+      "name": "Pooler",
+      "designation": "City",
+      "primary_county": "Chatham"
+    },
+    {
+      "name": "Portal",
+      "designation": "Town",
+      "primary_county": "Bulloch"
+    },
+    {
+      "name": "Porterdale",
+      "designation": "City",
+      "primary_county": "Newton"
+    },
+    {
+      "name": "Port Wentworth",
+      "designation": "City",
+      "primary_county": "Chatham"
+    },
+    {
+      "name": "Poulan",
+      "designation": "City",
+      "primary_county": "Worth"
+    },
+    {
+      "name": "Powder Springs",
+      "designation": "City",
+      "primary_county": "Cobb"
+    },
+    {
+      "name": "Pulaski",
+      "designation": "Town",
+      "primary_county": "Candler"
+    },
+    {
+      "name": "Quitman †",
+      "designation": "City",
+      "primary_county": "Brooks"
+    },
+    {
+      "name": "Ranger",
+      "designation": "Town",
+      "primary_county": "Gordon"
+    },
+    {
+      "name": "Ray City",
+      "designation": "City",
+      "primary_county": "Berrien"
+    },
+    {
+      "name": "Rayle",
+      "designation": "Town",
+      "primary_county": "Wilkes"
+    },
+    {
+      "name": "Rebecca",
+      "designation": "City",
+      "primary_county": "Turner"
+    },
+    {
+      "name": "Register",
+      "designation": "Town",
+      "primary_county": "Bulloch"
+    },
+    {
+      "name": "Reidsville †",
+      "designation": "City",
+      "primary_county": "Tattnall"
+    },
+    {
+      "name": "Remerton",
+      "designation": "City",
+      "primary_county": "Lowndes"
+    },
+    {
+      "name": "Rentz",
+      "designation": "Town",
+      "primary_county": "Laurens"
+    },
+    {
+      "name": "Resaca",
+      "designation": "Town",
+      "primary_county": "Gordon"
+    },
+    {
+      "name": "Rest Haven",
+      "designation": "Town",
+      "primary_county": "Gwinnett",
+      "secondary_counties": [
+        "Hall"
+      ]
+    },
+    {
+      "name": "Reynolds",
+      "designation": "Town",
+      "primary_county": "Taylor"
+    },
+    {
+      "name": "Rhine",
+      "designation": "Town",
+      "primary_county": "Dodge"
+    },
+    {
+      "name": "Riceboro",
+      "designation": "City",
+      "primary_county": "Liberty"
+    },
+    {
+      "name": "Richland",
+      "designation": "City",
+      "primary_county": "Stewart"
+    },
+    {
+      "name": "Richmond Hill",
+      "designation": "City",
+      "primary_county": "Bryan"
+    },
+    {
+      "name": "Riddleville",
+      "designation": "Town",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Rincon",
+      "designation": "Town",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Ringgold †",
+      "designation": "City",
+      "primary_county": "Catoosa"
+    },
+    {
+      "name": "Riverdale",
+      "designation": "City",
+      "primary_county": "Clayton"
+    },
+    {
+      "name": "Roberta",
+      "designation": "City",
+      "primary_county": "Crawford"
+    },
+    {
+      "name": "Rochelle",
+      "designation": "City",
+      "primary_county": "Wilcox"
+    },
+    {
+      "name": "Rockmart",
+      "designation": "City",
+      "primary_county": "Polk"
+    },
+    {
+      "name": "Rocky Ford",
+      "designation": "Town",
+      "primary_county": "Screven"
+    },
+    {
+      "name": "Rome †",
+      "designation": "City",
+      "primary_county": "Floyd"
+    },
+    {
+      "name": "Roopville",
+      "designation": "Town",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Rossville",
+      "designation": "City",
+      "primary_county": "Walker"
+    },
+    {
+      "name": "Roswell",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Royston",
+      "designation": "City",
+      "primary_county": "Franklin",
+      "secondary_counties": [
+        "Hart",
+        "Madison"
+      ]
+    },
+    {
+      "name": "Rutledge",
+      "designation": "City",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "St. Marys",
+      "designation": "City",
+      "primary_county": "Camden"
+    },
+    {
+      "name": "Sale City",
+      "designation": "Town",
+      "primary_county": "Mitchell"
+    },
+    {
+      "name": "Sandersville †",
+      "designation": "City",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Sandy Springs",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Santa Claus",
+      "designation": "City",
+      "primary_county": "Toombs"
+    },
+    {
+      "name": "Sardis",
+      "designation": "City",
+      "primary_county": "Burke"
+    },
+    {
+      "name": "Sasser",
+      "designation": "Town",
+      "primary_county": "Terrell"
+    },
+    {
+      "name": "Savannah †",
+      "designation": "City",
+      "primary_county": "Chatham"
+    },
+    {
+      "name": "Scotland",
+      "designation": "City",
+      "primary_county": "Telfair",
+      "secondary_counties": [
+        "Wheeler"
+      ]
+    },
+    {
+      "name": "Screven",
+      "designation": "City",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Senoia",
+      "designation": "City",
+      "primary_county": "Coweta"
+    },
+    {
+      "name": "Shady Dale",
+      "designation": "Town",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Sharon",
+      "designation": "City",
+      "primary_county": "Taliaferro"
+    },
+    {
+      "name": "Sharpsburg",
+      "designation": "Town",
+      "primary_county": "Coweta"
+    },
+    {
+      "name": "Shellman",
+      "designation": "City",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Shiloh",
+      "designation": "City",
+      "primary_county": "Harris"
+    },
+    {
+      "name": "Siloam",
+      "designation": "Town",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Sky Valley",
+      "designation": "City",
+      "primary_county": "Rabun"
+    },
+    {
+      "name": "Smithville",
+      "designation": "City",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Smyrna",
+      "designation": "City",
+      "primary_county": "Cobb"
+    },
+    {
+      "name": "Snellville",
+      "designation": "City",
+      "primary_county": "Gwinnett"
+    },
+    {
+      "name": "Social Circle",
+      "designation": "City",
+      "primary_county": "Newton",
+      "secondary_counties": [
+        "Walton"
+      ]
+    },
+    {
+      "name": "Soperton †",
+      "designation": "City",
+      "primary_county": "Treutlen"
+    },
+    {
+      "name": "South Fulton",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Sparks",
+      "designation": "Town",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Sparta †",
+      "designation": "City",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Springfield †",
+      "designation": "City",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Stapleton",
+      "designation": "City",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Statesboro †",
+      "designation": "City",
+      "primary_county": "Bulloch"
+    },
+    {
+      "name": "Statham",
+      "designation": "City",
+      "primary_county": "Barrow"
+    },
+    {
+      "name": "Stillmore",
+      "designation": "City",
+      "primary_county": "Emanuel"
+    },
+    {
+      "name": "Stockbridge",
+      "designation": "City",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Stone Mountain",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Stonecrest",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Sugar Hill",
+      "designation": "City",
+      "primary_county": "Gwinnett"
+    },
+    {
+      "name": "Summertown",
+      "designation": "City",
+      "primary_county": "Emanuel"
+    },
+    {
+      "name": "Summerville †",
+      "designation": "City",
+      "primary_county": "Chattooga"
+    },
+    {
+      "name": "Sumner",
+      "designation": "Town",
+      "primary_county": "Worth"
+    },
+    {
+      "name": "Sunny Side",
+      "designation": "City",
+      "primary_county": "Spalding"
+    },
+    {
+      "name": "Surrency",
+      "designation": "Town",
+      "primary_county": "Appling"
+    },
+    {
+      "name": "Suwanee",
+      "designation": "City",
+      "primary_county": "Gwinnett"
+    },
+    {
+      "name": "Swainsboro †",
+      "designation": "City",
+      "primary_county": "Emanuel"
+    },
+    {
+      "name": "Sycamore",
+      "designation": "City",
+      "primary_county": "Turner"
+    },
+    {
+      "name": "Sylvania †",
+      "designation": "City",
+      "primary_county": "Screven"
+    },
+    {
+      "name": "Sylvester †",
+      "designation": "City",
+      "primary_county": "Worth"
+    },
+    {
+      "name": "Talbotton †",
+      "designation": "City",
+      "primary_county": "Talbot"
+    },
+    {
+      "name": "Talking Rock",
+      "designation": "Town",
+      "primary_county": "Pickens"
+    },
+    {
+      "name": "Tallapoosa",
+      "designation": "City",
+      "primary_county": "Haralson"
+    },
+    {
+      "name": "Tallulah Falls",
+      "designation": "Town",
+      "primary_county": "Habersham",
+      "secondary_counties": [
+        "Rabun"
+      ]
+    },
+    {
+      "name": "Talmo",
+      "designation": "Town",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Tarrytown",
+      "designation": "Town",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Taylorsville",
+      "designation": "Town",
+      "primary_county": "Bartow",
+      "secondary_counties": [
+        "Polk"
+      ]
+    },
+    {
+      "name": "Temple",
+      "designation": "City",
+      "primary_county": "Carroll",
+      "secondary_counties": [
+        "Haralson"
+      ]
+    },
+    {
+      "name": "Tennille",
+      "designation": "City",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Thomaston †",
+      "designation": "City",
+      "primary_county": "Upson"
+    },
+    {
+      "name": "Thomasville †",
+      "designation": "City",
+      "primary_county": "Thomas"
+    },
+    {
+      "name": "Thomson †",
+      "designation": "City",
+      "primary_county": "McDuffie"
+    },
+    {
+      "name": "Thunderbolt",
+      "designation": "Town",
+      "primary_county": "Chatham"
+    },
+    {
+      "name": "Tifton †",
+      "designation": "City",
+      "primary_county": "Tift"
+    },
+    {
+      "name": "Tiger",
+      "designation": "Town",
+      "primary_county": "Rabun"
+    },
+    {
+      "name": "Tignall",
+      "designation": "Town",
+      "primary_county": "Wilkes"
+    },
+    {
+      "name": "Toccoa †",
+      "designation": "City",
+      "primary_county": "Stephens"
+    },
+    {
+      "name": "Toomsboro",
+      "designation": "Town",
+      "primary_county": "Wilkinson"
+    },
+    {
+      "name": "Trenton †",
+      "designation": "City",
+      "primary_county": "Dade"
+    },
+    {
+      "name": "Trion",
+      "designation": "Town",
+      "primary_county": "Chattooga"
+    },
+    {
+      "name": "Tucker[k]",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Tunnel Hill",
+      "designation": "City",
+      "primary_county": "Whitfield"
+    },
+    {
+      "name": "Turin",
+      "designation": "Town",
+      "primary_county": "Coweta"
+    },
+    {
+      "name": "Twin City",
+      "designation": "City",
+      "primary_county": "Emanuel"
+    },
+    {
+      "name": "Tybee Island",
+      "designation": "City",
+      "primary_county": "Chatham"
+    },
+    {
+      "name": "Tyrone",
+      "designation": "Town",
+      "primary_county": "Fayette"
+    },
+    {
+      "name": "Ty Ty",
+      "designation": "City",
+      "primary_county": "Tift"
+    },
+    {
+      "name": "Unadilla",
+      "designation": "City",
+      "primary_county": "Dooly"
+    },
+    {
+      "name": "Union City",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Union Point",
+      "designation": "City",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Uvalda",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Valdosta †",
+      "designation": "City",
+      "primary_county": "Lowndes"
+    },
+    {
+      "name": "Varnell",
+      "designation": "City",
+      "primary_county": "Whitfield"
+    },
+    {
+      "name": "Vernonburg",
+      "designation": "Town",
+      "primary_county": "Chatham"
+    },
+    {
+      "name": "Vidette",
+      "designation": "City",
+      "primary_county": "Burke"
+    },
+    {
+      "name": "Vienna †",
+      "designation": "City",
+      "primary_county": "Dooly"
+    },
+    {
+      "name": "Vidalia",
+      "designation": "City",
+      "primary_county": "Montgomery",
+      "secondary_counties": [
+        "Toombs"
+      ]
+    },
+    {
+      "name": "Villa Rica",
+      "designation": "City",
+      "primary_county": "Carroll",
+      "secondary_counties": [
+        "Douglas"
+      ]
+    },
+    {
+      "name": "Waco",
+      "designation": "City",
+      "primary_county": "Haralson"
+    },
+    {
+      "name": "Wadley",
+      "designation": "City",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Waleska",
+      "designation": "City",
+      "primary_county": "Cherokee"
+    },
+    {
+      "name": "Walnut Grove",
+      "designation": "Town",
+      "primary_county": "Walton"
+    },
+    {
+      "name": "Walthourville",
+      "designation": "City",
+      "primary_county": "Liberty"
+    },
+    {
+      "name": "Warm Springs",
+      "designation": "City",
+      "primary_county": "Meriwether"
+    },
+    {
+      "name": "Warner Robins",
+      "designation": "City",
+      "primary_county": "Houston",
+      "secondary_counties": [
+        "Peach"
+      ]
+    },
+    {
+      "name": "Warrenton †",
+      "designation": "City",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Warwick",
+      "designation": "City",
+      "primary_county": "Worth"
+    },
+    {
+      "name": "Washington †",
+      "designation": "City",
+      "primary_county": "Wilkes"
+    },
+    {
+      "name": "Watkinsville †",
+      "designation": "Town",
+      "primary_county": "Oconee"
+    },
+    {
+      "name": "Waverly Hall",
+      "designation": "Town",
+      "primary_county": "Harris"
+    },
+    {
+      "name": "Waycross †",
+      "designation": "City",
+      "primary_county": "Ware"
+    },
+    {
+      "name": "Waynesboro †",
+      "designation": "City",
+      "primary_county": "Burke"
+    },
+    {
+      "name": "Webster County[l]",
+      "designation": "Unified government",
+      "primary_county": "Webster County"
+    },
+    {
+      "name": "West Point",
+      "designation": "City",
+      "primary_county": "Harris",
+      "secondary_counties": [
+        "Troup"
+      ]
+    },
+    {
+      "name": "Whigham",
+      "designation": "City",
+      "primary_county": "Grady"
+    },
+    {
+      "name": "White",
+      "designation": "City",
+      "primary_county": "Bartow"
+    },
+    {
+      "name": "White Plains",
+      "designation": "City",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Whitesburg",
+      "designation": "Town",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Willacoochee",
+      "designation": "City",
+      "primary_county": "Atkinson"
+    },
+    {
+      "name": "Williamson",
+      "designation": "City",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Winder †",
+      "designation": "City",
+      "primary_county": "Barrow"
+    },
+    {
+      "name": "Winterville",
+      "designation": "City",
+      "primary_county": "Clarke"
+    },
+    {
+      "name": "Woodbine †",
+      "designation": "City",
+      "primary_county": "Camden"
+    },
+    {
+      "name": "Woodbury",
+      "designation": "City",
+      "primary_county": "Meriwether"
+    },
+    {
+      "name": "Woodland",
+      "designation": "City",
+      "primary_county": "Talbot"
+    },
+    {
+      "name": "Woodstock",
+      "designation": "City",
+      "primary_county": "Cherokee"
+    },
+    {
+      "name": "Woodville",
+      "designation": "City",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Woolsey",
+      "designation": "Town",
+      "primary_county": "Fayette"
+    },
+    {
+      "name": "Wrens",
+      "designation": "City",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Wrightsville †",
+      "designation": "City",
+      "primary_county": "Johnson"
+    },
+    {
+      "name": "Yatesville",
+      "designation": "Town",
+      "primary_county": "Upson"
+    },
+    {
+      "name": "Young Harris",
+      "designation": "City",
+      "primary_county": "Towns"
+    },
+    {
+      "name": "Zebulon †",
+      "designation": "City",
+      "primary_county": "Pike"
+    }
+  ]
+}

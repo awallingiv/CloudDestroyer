@@ -1,0 +1,3052 @@
+{
+  "metadata": {
+    "state": "Kentucky",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_Kentucky",
+    "scraped_at": "2025-11-24 20:29:28",
+    "scraper_version": "2.0_generic",
+    "description": "Kentucky municipalities scraped from Wikipedia",
+    "total_municipalities": 414,
+    "statistics": {
+      "total_found": 414,
+      "with_population": 414,
+      "with_counties": 414,
+      "unique_counties": 130,
+      "population_stats": {
+        "min": 19,
+        "max": 633045,
+        "average": 6075,
+        "total": 2515349
+      }
+    },
+    "counties": [
+      "Adair",
+      "Allen",
+      "Anderson",
+      "Ballard",
+      "Barren",
+      "Bath",
+      "Bell",
+      "Boone",
+      "BooneKenton",
+      "Bourbon",
+      "Boyd",
+      "Boyle",
+      "Bracken",
+      "BrackenMason",
+      "Breathitt",
+      "Breckinridge",
+      "Bullitt",
+      "Butler",
+      "Caldwell",
+      "Calloway",
+      "Campbell",
+      "Carlisle",
+      "Carroll",
+      "Carter",
+      "Casey",
+      "Christian",
+      "Clark",
+      "Clay",
+      "Clinton",
+      "Crittenden",
+      "Cumberland",
+      "Daviess",
+      "Edmonson",
+      "Elliott",
+      "Estill",
+      "Fayette",
+      "Fleming",
+      "Floyd",
+      "Franklin",
+      "Fulton",
+      "Gallatin",
+      "GallatinOwen",
+      "Garrard",
+      "Grant",
+      "GrantPendleton",
+      "Graves",
+      "Grayson",
+      "Green",
+      "Greenup",
+      "Hancock",
+      "Hardin",
+      "HardinLaRue",
+      "Harlan",
+      "Harrison",
+      "Hart",
+      "Henderson",
+      "Henry",
+      "HenryShelby",
+      "Hickman",
+      "Hopkins",
+      "HopkinsCaldwell",
+      "Jackson",
+      "Jefferson",
+      "JeffersonOldham",
+      "Jessamine",
+      "Johnson",
+      "Kenton",
+      "Knott",
+      "Knox",
+      "LaRue",
+      "Laurel",
+      "Lawrence",
+      "Lee",
+      "Leslie",
+      "Letcher",
+      "Lewis",
+      "Lincoln",
+      "Livingston",
+      "Logan",
+      "Lyon",
+      "Madison",
+      "Magoffin",
+      "Marion",
+      "Marshall",
+      "Martin",
+      "Mason",
+      "MasonRobertson",
+      "McCracken",
+      "McLean",
+      "Meade",
+      "Menifee",
+      "Mercer",
+      "Metcalfe",
+      "Monroe",
+      "Montgomery",
+      "Morgan",
+      "Muhlenberg",
+      "Nelson",
+      "Nicholas",
+      "Ohio",
+      "Oldham",
+      "Owen",
+      "Owsley",
+      "Pendleton",
+      "Perry",
+      "Pike",
+      "Powell",
+      "Pulaski",
+      "PulaskiLincoln",
+      "Robertson",
+      "Rockcastle",
+      "Rowan",
+      "Russell",
+      "Scott",
+      "Shelby",
+      "Simpson",
+      "Spencer",
+      "Taylor",
+      "Todd",
+      "Trigg",
+      "Trimble",
+      "Union",
+      "Warren",
+      "Washington",
+      "Wayne",
+      "Webster",
+      "Whitley",
+      "WhitleyKnoxLaurel",
+      "Wolfe",
+      "Woodford"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "Adairville",
+      "primary_county": "Logan",
+      "population": 837,
+      "area_sq_mi": 1.1,
+      "incorporated": "1871"
+    },
+    {
+      "name": "Albany",
+      "primary_county": "Clinton",
+      "population": 1760,
+      "area_sq_mi": 2.3,
+      "incorporated": "1838"
+    },
+    {
+      "name": "Alexandria",
+      "primary_county": "Campbell",
+      "population": 10341,
+      "area_sq_mi": 7.0,
+      "incorporated": "1856"
+    },
+    {
+      "name": "Allen",
+      "primary_county": "Floyd",
+      "population": 182,
+      "area_sq_mi": 0.2,
+      "incorporated": "1913"
+    },
+    {
+      "name": "Anchorage",
+      "primary_county": "Jefferson",
+      "population": 2500,
+      "area_sq_mi": 3.0,
+      "incorporated": "1878"
+    },
+    {
+      "name": "Arlington",
+      "primary_county": "Carlisle",
+      "population": 264,
+      "area_sq_mi": 0.4,
+      "incorporated": "1876"
+    },
+    {
+      "name": "Ashland",
+      "primary_county": "Boyd",
+      "population": 21625,
+      "area_sq_mi": 10.8,
+      "incorporated": "1856"
+    },
+    {
+      "name": "Auburn",
+      "primary_county": "Logan",
+      "population": 1589,
+      "area_sq_mi": 1.6,
+      "incorporated": "1878"
+    },
+    {
+      "name": "Audubon Park",
+      "primary_county": "Jefferson",
+      "population": 1433,
+      "area_sq_mi": 0.3,
+      "incorporated": "1941"
+    },
+    {
+      "name": "Augusta",
+      "primary_county": "Bracken",
+      "population": 1096,
+      "area_sq_mi": 1.6,
+      "incorporated": "1850"
+    },
+    {
+      "name": "Bancroft",
+      "primary_county": "Jefferson",
+      "population": 503,
+      "area_sq_mi": 0.2,
+      "incorporated": "1970"
+    },
+    {
+      "name": "Barbourmeade",
+      "primary_county": "Jefferson",
+      "population": 1216,
+      "area_sq_mi": 0.4,
+      "incorporated": "1962"
+    },
+    {
+      "name": "Barbourville",
+      "primary_county": "Knox",
+      "population": 3222,
+      "area_sq_mi": 2.7,
+      "incorporated": "1856"
+    },
+    {
+      "name": "Bardstown",
+      "primary_county": "Nelson",
+      "population": 13567,
+      "area_sq_mi": 10.6,
+      "incorporated": "1838"
+    },
+    {
+      "name": "Bardwell",
+      "primary_county": "Carlisle",
+      "population": 714,
+      "area_sq_mi": 0.9,
+      "incorporated": "1878"
+    },
+    {
+      "name": "Barlow",
+      "primary_county": "Ballard",
+      "population": 653,
+      "area_sq_mi": 0.6,
+      "incorporated": "1903"
+    },
+    {
+      "name": "Beattyville",
+      "primary_county": "Lee",
+      "population": 2176,
+      "area_sq_mi": 2.1,
+      "incorporated": "1872"
+    },
+    {
+      "name": "Beaver Dam",
+      "primary_county": "Ohio",
+      "population": 3531,
+      "area_sq_mi": 2.6,
+      "incorporated": "1873"
+    },
+    {
+      "name": "Bedford",
+      "primary_county": "Trimble",
+      "population": 526,
+      "area_sq_mi": 0.3,
+      "incorporated": "1946"
+    },
+    {
+      "name": "Beechwood",
+      "primary_county": "Jefferson",
+      "population": 1280,
+      "area_sq_mi": 0.3,
+      "incorporated": "1950"
+    },
+    {
+      "name": "Bellefonte",
+      "primary_county": "Greenup",
+      "population": 920,
+      "area_sq_mi": 0.9,
+      "incorporated": "1951"
+    },
+    {
+      "name": "Bellemeade",
+      "primary_county": "Jefferson",
+      "population": 909,
+      "area_sq_mi": 0.3,
+      "incorporated": "1956"
+    },
+    {
+      "name": "Bellevue",
+      "primary_county": "Campbell",
+      "population": 5548,
+      "area_sq_mi": 0.9,
+      "incorporated": "1870"
+    },
+    {
+      "name": "Bellewood",
+      "primary_county": "Jefferson",
+      "population": 340,
+      "area_sq_mi": 0.1,
+      "incorporated": "1950"
+    },
+    {
+      "name": "Benham",
+      "primary_county": "Harlan",
+      "population": 512,
+      "area_sq_mi": 0.2,
+      "incorporated": "1961"
+    },
+    {
+      "name": "Benton",
+      "primary_county": "Marshall",
+      "population": 4756,
+      "area_sq_mi": 4.2,
+      "incorporated": "1845"
+    },
+    {
+      "name": "Berea",
+      "primary_county": "Madison",
+      "population": 15539,
+      "area_sq_mi": 16.1,
+      "incorporated": "1890"
+    },
+    {
+      "name": "Berry",
+      "primary_county": "Harrison",
+      "population": 250,
+      "area_sq_mi": 0.3,
+      "incorporated": "1867"
+    },
+    {
+      "name": "Blackey",
+      "primary_county": "Letcher",
+      "population": 109,
+      "area_sq_mi": 0.5,
+      "incorporated": "1915"
+    },
+    {
+      "name": "Blaine",
+      "primary_county": "Lawrence",
+      "population": 66,
+      "area_sq_mi": 0.3,
+      "incorporated": "1886"
+    },
+    {
+      "name": "Blandville",
+      "primary_county": "Ballard",
+      "population": 73,
+      "area_sq_mi": 0.2,
+      "incorporated": "1845"
+    },
+    {
+      "name": "Bloomfield",
+      "primary_county": "Nelson",
+      "population": 961,
+      "area_sq_mi": 1.3,
+      "incorporated": "1819"
+    },
+    {
+      "name": "Blue Ridge Manor",
+      "primary_county": "Jefferson",
+      "population": 791,
+      "area_sq_mi": 0.2,
+      "incorporated": "1964"
+    },
+    {
+      "name": "Booneville",
+      "primary_county": "Owsley",
+      "population": 168,
+      "area_sq_mi": 0.6,
+      "incorporated": "1847"
+    },
+    {
+      "name": "Bowling Green",
+      "primary_county": "Warren",
+      "population": 72294,
+      "area_sq_mi": 38.1,
+      "incorporated": "1812"
+    },
+    {
+      "name": "Bradfordsville",
+      "primary_county": "Marion",
+      "population": 270,
+      "area_sq_mi": 0.3,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Brandenburg",
+      "primary_county": "Meade",
+      "population": 2894,
+      "area_sq_mi": 3.9,
+      "incorporated": "1872"
+    },
+    {
+      "name": "Bremen",
+      "primary_county": "Muhlenberg",
+      "population": 172,
+      "area_sq_mi": 0.2,
+      "incorporated": "1869"
+    },
+    {
+      "name": "Briarwood",
+      "primary_county": "Jefferson",
+      "population": 445,
+      "area_sq_mi": 0.1,
+      "incorporated": "1957"
+    },
+    {
+      "name": "Brodhead",
+      "primary_county": "Rockcastle",
+      "population": 1117,
+      "area_sq_mi": 1.8,
+      "incorporated": "1880"
+    },
+    {
+      "name": "Broeck Pointe",
+      "primary_county": "Jefferson",
+      "population": 245,
+      "area_sq_mi": 0.1,
+      "incorporated": "1980"
+    },
+    {
+      "name": "Bromley",
+      "primary_county": "Kenton",
+      "population": 724,
+      "area_sq_mi": 0.4,
+      "incorporated": "1890"
+    },
+    {
+      "name": "Brooksville",
+      "primary_county": "Bracken",
+      "population": 654,
+      "area_sq_mi": 0.5,
+      "incorporated": "1839"
+    },
+    {
+      "name": "Brownsboro Farm",
+      "primary_county": "Jefferson",
+      "population": 640,
+      "area_sq_mi": 0.2,
+      "incorporated": "1966"
+    },
+    {
+      "name": "Brownsboro Village",
+      "primary_county": "Jefferson",
+      "population": 308,
+      "area_sq_mi": 0.1,
+      "incorporated": "1954"
+    },
+    {
+      "name": "Brownsville",
+      "primary_county": "Edmonson",
+      "population": 875,
+      "area_sq_mi": 2.6,
+      "incorporated": "1880"
+    },
+    {
+      "name": "Buckhorn",
+      "primary_county": "Perry",
+      "population": 89,
+      "area_sq_mi": 0.4,
+      "incorporated": "1996"
+    },
+    {
+      "name": "Burgin",
+      "primary_county": "Mercer",
+      "population": 979,
+      "area_sq_mi": 1.3,
+      "incorporated": "1878"
+    },
+    {
+      "name": "Burkesville",
+      "primary_county": "Cumberland",
+      "population": 1388,
+      "area_sq_mi": 2.6,
+      "incorporated": "1846"
+    },
+    {
+      "name": "Burnside",
+      "primary_county": "Pulaski",
+      "population": 694,
+      "area_sq_mi": 8.2,
+      "incorporated": "1890"
+    },
+    {
+      "name": "Butler",
+      "primary_county": "Pendleton",
+      "population": 646,
+      "area_sq_mi": 0.2,
+      "incorporated": "1868"
+    },
+    {
+      "name": "Cadiz",
+      "primary_county": "Trigg",
+      "population": 2540,
+      "area_sq_mi": 2.9,
+      "incorporated": "1822"
+    },
+    {
+      "name": "Calhoun",
+      "primary_county": "McLean",
+      "population": 725,
+      "area_sq_mi": 0.7,
+      "incorporated": "1852"
+    },
+    {
+      "name": "California",
+      "primary_county": "Campbell",
+      "population": 83,
+      "area_sq_mi": 0.3,
+      "incorporated": "1874"
+    },
+    {
+      "name": "Calvert City",
+      "primary_county": "Marshall",
+      "population": 2514,
+      "area_sq_mi": 16.7,
+      "incorporated": "1951"
+    },
+    {
+      "name": "Camargo",
+      "primary_county": "Montgomery",
+      "population": 1020,
+      "area_sq_mi": 2.2,
+      "incorporated": "1969"
+    },
+    {
+      "name": "Cambridge",
+      "primary_county": "Jefferson",
+      "population": 162,
+      "area_sq_mi": 0.1,
+      "incorporated": "1953"
+    },
+    {
+      "name": "Campbellsburg",
+      "primary_county": "Henry",
+      "population": 836,
+      "area_sq_mi": 1.6,
+      "incorporated": "1937"
+    },
+    {
+      "name": "Campbellsville",
+      "primary_county": "Taylor",
+      "population": 11426,
+      "area_sq_mi": 5.1,
+      "incorporated": "1851"
+    },
+    {
+      "name": "Campton",
+      "primary_county": "Wolfe",
+      "population": 316,
+      "area_sq_mi": 1.0,
+      "incorporated": "1870"
+    },
+    {
+      "name": "Caneyville",
+      "primary_county": "Grayson",
+      "population": 529,
+      "area_sq_mi": 1.6,
+      "incorporated": "1880"
+    },
+    {
+      "name": "Carlisle",
+      "primary_county": "Nicholas",
+      "population": 2093,
+      "area_sq_mi": 1.3,
+      "incorporated": "1880"
+    },
+    {
+      "name": "Carrollton",
+      "primary_county": "Carroll",
+      "population": 3890,
+      "area_sq_mi": 2.0,
+      "incorporated": "1838"
+    },
+    {
+      "name": "Carrsville",
+      "primary_county": "Livingston",
+      "population": 48,
+      "area_sq_mi": 0.1,
+      "incorporated": "1979"
+    },
+    {
+      "name": "Catlettsburg",
+      "primary_county": "Boyd",
+      "population": 1780,
+      "area_sq_mi": 1.6,
+      "incorporated": "1858"
+    },
+    {
+      "name": "Cave City",
+      "primary_county": "Barren",
+      "population": 2356,
+      "area_sq_mi": 4.4,
+      "incorporated": "1866"
+    },
+    {
+      "name": "Centertown",
+      "primary_county": "Ohio",
+      "population": 416,
+      "area_sq_mi": 0.3,
+      "incorporated": "1890"
+    },
+    {
+      "name": "Central City",
+      "primary_county": "Muhlenberg",
+      "population": 5819,
+      "area_sq_mi": 5.2,
+      "incorporated": "1882"
+    },
+    {
+      "name": "Clarkson",
+      "primary_county": "Grayson",
+      "population": 933,
+      "area_sq_mi": 1.1,
+      "incorporated": "1908"
+    },
+    {
+      "name": "Clay",
+      "primary_county": "Webster",
+      "population": 1031,
+      "area_sq_mi": 0.9,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Clay City",
+      "primary_county": "Powell",
+      "population": 1193,
+      "area_sq_mi": 0.9,
+      "incorporated": "1890"
+    },
+    {
+      "name": "Clinton",
+      "primary_county": "Hickman",
+      "population": 1222,
+      "area_sq_mi": 1.6,
+      "incorporated": "1831"
+    },
+    {
+      "name": "Cloverport",
+      "primary_county": "Breckinridge",
+      "population": 1119,
+      "area_sq_mi": 1.5,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Coal Run Village",
+      "primary_county": "Pike",
+      "population": 1669,
+      "area_sq_mi": 8.6,
+      "incorporated": "1963"
+    },
+    {
+      "name": "Cold Spring",
+      "primary_county": "Campbell",
+      "population": 6219,
+      "area_sq_mi": 4.7,
+      "incorporated": "1941"
+    },
+    {
+      "name": "Coldstream",
+      "primary_county": "Jefferson",
+      "population": 1295,
+      "area_sq_mi": 0.2,
+      "incorporated": "1983"
+    },
+    {
+      "name": "Columbia",
+      "primary_county": "Adair",
+      "population": 4845,
+      "area_sq_mi": 4.9,
+      "incorporated": "1893"
+    },
+    {
+      "name": "Columbus",
+      "primary_county": "Hickman",
+      "population": 140,
+      "area_sq_mi": 0.3,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Concord",
+      "primary_county": "Lewis",
+      "population": 19,
+      "area_sq_mi": 0.1,
+      "incorporated": "1833"
+    },
+    {
+      "name": "Corbin",
+      "primary_county": "WhitleyKnoxLaurel",
+      "population": 7856,
+      "area_sq_mi": 7.9,
+      "incorporated": "1902"
+    },
+    {
+      "name": "Corinth",
+      "primary_county": "Grant",
+      "population": 226,
+      "area_sq_mi": 2.1,
+      "incorporated": "1878"
+    },
+    {
+      "name": "Corydon",
+      "primary_county": "Henderson",
+      "population": 737,
+      "area_sq_mi": 0.5,
+      "incorporated": "1868"
+    },
+    {
+      "name": "Covington",
+      "primary_county": "Kenton",
+      "population": 40961,
+      "area_sq_mi": 13.8,
+      "incorporated": "1834"
+    },
+    {
+      "name": "Crab Orchard",
+      "primary_county": "Lincoln",
+      "population": 744,
+      "area_sq_mi": 1.8,
+      "incorporated": "1849"
+    },
+    {
+      "name": "Creekside",
+      "primary_county": "Jefferson",
+      "population": 305,
+      "area_sq_mi": 0.1,
+      "incorporated": "1977"
+    },
+    {
+      "name": "Crescent Springs",
+      "primary_county": "Kenton",
+      "population": 4319,
+      "area_sq_mi": 1.5,
+      "incorporated": "1957"
+    },
+    {
+      "name": "Crestview",
+      "primary_county": "Campbell",
+      "population": 452,
+      "area_sq_mi": 0.2,
+      "incorporated": "1950"
+    },
+    {
+      "name": "Crestview Hills",
+      "primary_county": "Kenton",
+      "population": 3246,
+      "area_sq_mi": 1.9,
+      "incorporated": "1951"
+    },
+    {
+      "name": "Crestwood",
+      "primary_county": "Oldham",
+      "population": 6183,
+      "area_sq_mi": 4.1,
+      "incorporated": "1970"
+    },
+    {
+      "name": "Crittenden",
+      "primary_county": "Grant",
+      "population": 4023,
+      "area_sq_mi": 3.4,
+      "incorporated": "1839"
+    },
+    {
+      "name": "Crofton",
+      "primary_county": "Christian",
+      "population": 653,
+      "area_sq_mi": 0.6,
+      "incorporated": "1873"
+    },
+    {
+      "name": "Crossgate",
+      "primary_county": "Jefferson",
+      "population": 221,
+      "area_sq_mi": 0.1,
+      "incorporated": "1968"
+    },
+    {
+      "name": "Cumberland",
+      "primary_county": "Harlan",
+      "population": 1947,
+      "area_sq_mi": 3.1,
+      "incorporated": "1917"
+    },
+    {
+      "name": "Cynthiana",
+      "primary_county": "Harrison",
+      "population": 6333,
+      "area_sq_mi": 4.1,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Danville",
+      "primary_county": "Boyle",
+      "population": 17234,
+      "area_sq_mi": 15.9,
+      "incorporated": "1836"
+    },
+    {
+      "name": "Dawson Springs",
+      "primary_county": "HopkinsCaldwell",
+      "population": 2452,
+      "area_sq_mi": 3.8,
+      "incorporated": "1832"
+    },
+    {
+      "name": "Dayton",
+      "primary_county": "Campbell",
+      "population": 5666,
+      "area_sq_mi": 1.9,
+      "incorporated": "1867"
+    },
+    {
+      "name": "Dixon",
+      "primary_county": "Webster",
+      "population": 933,
+      "area_sq_mi": 1.0,
+      "incorporated": "1861"
+    },
+    {
+      "name": "Douglass Hills",
+      "primary_county": "Jefferson",
+      "population": 5456,
+      "area_sq_mi": 1.3,
+      "incorporated": "1973"
+    },
+    {
+      "name": "Dover",
+      "primary_county": "Mason",
+      "population": 221,
+      "area_sq_mi": 0.5,
+      "incorporated": "1856"
+    },
+    {
+      "name": "Drakesboro",
+      "primary_county": "Muhlenberg",
+      "population": 481,
+      "area_sq_mi": 0.6,
+      "incorporated": "1888"
+    },
+    {
+      "name": "Druid Hills",
+      "primary_county": "Jefferson",
+      "population": 299,
+      "area_sq_mi": 0.1,
+      "incorporated": "1950"
+    },
+    {
+      "name": "Dry Ridge",
+      "primary_county": "Grant",
+      "population": 2102,
+      "area_sq_mi": 4.6,
+      "incorporated": "1920"
+    },
+    {
+      "name": "Earlington",
+      "primary_county": "Hopkins",
+      "population": 1257,
+      "area_sq_mi": 2.5,
+      "incorporated": "1871"
+    },
+    {
+      "name": "Eddyville",
+      "primary_county": "Lyon",
+      "population": 2375,
+      "area_sq_mi": 7.8,
+      "incorporated": "1812"
+    },
+    {
+      "name": "Edgewood",
+      "primary_county": "Kenton",
+      "population": 8435,
+      "area_sq_mi": 4.2,
+      "incorporated": "1948"
+    },
+    {
+      "name": "Edmonton",
+      "primary_county": "Metcalfe",
+      "population": 1671,
+      "area_sq_mi": 3.4,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Ekron",
+      "primary_county": "Meade",
+      "population": 175,
+      "area_sq_mi": 0.1,
+      "incorporated": "1906"
+    },
+    {
+      "name": "Elizabethtown",
+      "primary_county": "Hardin",
+      "population": 31394,
+      "area_sq_mi": 25.8,
+      "incorporated": "1847"
+    },
+    {
+      "name": "Elkhorn City",
+      "primary_county": "Pike",
+      "population": 1035,
+      "area_sq_mi": 2.6,
+      "incorporated": "1912"
+    },
+    {
+      "name": "Elkton",
+      "primary_county": "Todd",
+      "population": 2056,
+      "area_sq_mi": 2.1,
+      "incorporated": "1843"
+    },
+    {
+      "name": "Elsmere",
+      "primary_county": "Kenton",
+      "population": 9159,
+      "area_sq_mi": 2.6,
+      "incorporated": "1896"
+    },
+    {
+      "name": "Eminence",
+      "primary_county": "Henry",
+      "population": 2705,
+      "area_sq_mi": 2.9,
+      "incorporated": "1851"
+    },
+    {
+      "name": "Erlanger",
+      "primary_county": "Kenton",
+      "population": 19611,
+      "area_sq_mi": 8.5,
+      "incorporated": "1897"
+    },
+    {
+      "name": "Eubank",
+      "primary_county": "PulaskiLincoln",
+      "population": 313,
+      "area_sq_mi": 0.9,
+      "incorporated": "1886"
+    },
+    {
+      "name": "Evarts",
+      "primary_county": "Harlan",
+      "population": 859,
+      "area_sq_mi": 0.5,
+      "incorporated": "1921"
+    },
+    {
+      "name": "Ewing",
+      "primary_county": "Fleming",
+      "population": 228,
+      "area_sq_mi": 0.3,
+      "incorporated": "1979"
+    },
+    {
+      "name": "Fairfield",
+      "primary_county": "Nelson",
+      "population": 118,
+      "area_sq_mi": 0.3,
+      "incorporated": "1870"
+    },
+    {
+      "name": "Fairview",
+      "primary_county": "Kenton",
+      "population": 144,
+      "area_sq_mi": 0.7,
+      "incorporated": "1957"
+    },
+    {
+      "name": "Falmouth",
+      "primary_county": "Pendleton",
+      "population": 2216,
+      "area_sq_mi": 1.1,
+      "incorporated": "1856"
+    },
+    {
+      "name": "Ferguson",
+      "primary_county": "Pulaski",
+      "population": 886,
+      "area_sq_mi": 1.8,
+      "incorporated": "1906"
+    },
+    {
+      "name": "Fincastle",
+      "primary_county": "Jefferson",
+      "population": 848,
+      "area_sq_mi": 0.2,
+      "incorporated": "1974"
+    },
+    {
+      "name": "Flatwoods",
+      "primary_county": "Greenup",
+      "population": 7325,
+      "area_sq_mi": 3.3,
+      "incorporated": "1932"
+    },
+    {
+      "name": "Fleming-Neon",
+      "primary_county": "Letcher",
+      "population": 548,
+      "area_sq_mi": 1.6,
+      "incorporated": "1977"
+    },
+    {
+      "name": "Flemingsburg",
+      "primary_county": "Fleming",
+      "population": 2953,
+      "area_sq_mi": 2.0,
+      "incorporated": "1812"
+    },
+    {
+      "name": "Florence",
+      "primary_county": "Boone",
+      "population": 31946,
+      "area_sq_mi": 10.4,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Fordsville",
+      "primary_county": "Ohio",
+      "population": 446,
+      "area_sq_mi": 0.5,
+      "incorporated": "1886"
+    },
+    {
+      "name": "Forest Hills",
+      "primary_county": "Jefferson",
+      "population": 438,
+      "area_sq_mi": 0.3,
+      "incorporated": "1959"
+    },
+    {
+      "name": "Fort Mitchell",
+      "primary_county": "Kenton",
+      "population": 8702,
+      "area_sq_mi": 3.2,
+      "incorporated": "1910"
+    },
+    {
+      "name": "Fort Thomas",
+      "primary_county": "Campbell",
+      "population": 17438,
+      "area_sq_mi": 5.7,
+      "incorporated": "1914"
+    },
+    {
+      "name": "Fort Wright",
+      "primary_county": "Kenton",
+      "population": 5851,
+      "area_sq_mi": 3.4,
+      "incorporated": "1941"
+    },
+    {
+      "name": "Fountain Run",
+      "primary_county": "Monroe",
+      "population": 216,
+      "area_sq_mi": 1.3,
+      "incorporated": "1908"
+    },
+    {
+      "name": "Fox Chase",
+      "primary_county": "Bullitt",
+      "population": 436,
+      "area_sq_mi": 0.4,
+      "incorporated": "1983"
+    },
+    {
+      "name": "Frankfort",
+      "primary_county": "Franklin",
+      "population": 28602,
+      "area_sq_mi": 14.6,
+      "incorporated": "1835"
+    },
+    {
+      "name": "Franklin",
+      "primary_county": "Simpson",
+      "population": 10176,
+      "area_sq_mi": 11.1,
+      "incorporated": "1820"
+    },
+    {
+      "name": "Fredonia",
+      "primary_county": "Caldwell",
+      "population": 372,
+      "area_sq_mi": 0.6,
+      "incorporated": "1869"
+    },
+    {
+      "name": "Frenchburg",
+      "primary_county": "Menifee",
+      "population": 601,
+      "area_sq_mi": 0.8,
+      "incorporated": "1871"
+    },
+    {
+      "name": "Fulton",
+      "primary_county": "Fulton",
+      "population": 2357,
+      "area_sq_mi": 3.0,
+      "incorporated": "1872"
+    },
+    {
+      "name": "Gamaliel",
+      "primary_county": "Monroe",
+      "population": 391,
+      "area_sq_mi": 0.6,
+      "incorporated": "1956"
+    },
+    {
+      "name": "Georgetown",
+      "primary_county": "Scott",
+      "population": 37086,
+      "area_sq_mi": 16.0,
+      "incorporated": "1784"
+    },
+    {
+      "name": "Germantown",
+      "primary_county": "BrackenMason",
+      "population": 146,
+      "area_sq_mi": 0.1,
+      "incorporated": "1795"
+    },
+    {
+      "name": "Ghent",
+      "primary_county": "Carroll",
+      "population": 363,
+      "area_sq_mi": 0.7,
+      "incorporated": "1856"
+    },
+    {
+      "name": "Glasgow",
+      "primary_county": "Barren",
+      "population": 15014,
+      "area_sq_mi": 15.5,
+      "incorporated": "1809"
+    },
+    {
+      "name": "Glencoe",
+      "primary_county": "Gallatin",
+      "population": 350,
+      "area_sq_mi": 1.8,
+      "incorporated": "1960"
+    },
+    {
+      "name": "Glenview",
+      "primary_county": "Jefferson",
+      "population": 596,
+      "area_sq_mi": 1.4,
+      "incorporated": "1985"
+    },
+    {
+      "name": "Glenview Hills",
+      "primary_county": "Jefferson",
+      "population": 377,
+      "area_sq_mi": 0.1,
+      "incorporated": "1972"
+    },
+    {
+      "name": "Glenview Manor",
+      "primary_county": "Jefferson",
+      "population": 206,
+      "area_sq_mi": 0.1,
+      "incorporated": "1965"
+    },
+    {
+      "name": "Goose Creek",
+      "primary_county": "Jefferson",
+      "population": 303,
+      "area_sq_mi": 0.1,
+      "incorporated": "1969"
+    },
+    {
+      "name": "Goshen",
+      "primary_county": "Oldham",
+      "population": 892,
+      "area_sq_mi": 0.2,
+      "incorporated": "1990"
+    },
+    {
+      "name": "Grand Rivers",
+      "primary_county": "Livingston",
+      "population": 345,
+      "area_sq_mi": 2.0,
+      "incorporated": "1890"
+    },
+    {
+      "name": "Gratz",
+      "primary_county": "Owen",
+      "population": 67,
+      "area_sq_mi": 0.4,
+      "incorporated": "1881"
+    },
+    {
+      "name": "Graymoor-Devondale",
+      "primary_county": "Jefferson",
+      "population": 2853,
+      "area_sq_mi": 0.8,
+      "incorporated": "1987"
+    },
+    {
+      "name": "Grayson",
+      "primary_county": "Carter",
+      "population": 3834,
+      "area_sq_mi": 2.9,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Green Spring",
+      "primary_county": "Jefferson",
+      "population": 711,
+      "area_sq_mi": 0.3,
+      "incorporated": "1974"
+    },
+    {
+      "name": "Greensburg",
+      "primary_county": "Green",
+      "population": 2179,
+      "area_sq_mi": 2.1,
+      "incorporated": "1795"
+    },
+    {
+      "name": "Greenup",
+      "primary_county": "Greenup",
+      "population": 1095,
+      "area_sq_mi": 1.2,
+      "incorporated": "1848"
+    },
+    {
+      "name": "Greenville",
+      "primary_county": "Muhlenberg",
+      "population": 4492,
+      "area_sq_mi": 4.7,
+      "incorporated": "1849"
+    },
+    {
+      "name": "Guthrie",
+      "primary_county": "Todd",
+      "population": 1330,
+      "area_sq_mi": 1.7,
+      "incorporated": "1876"
+    },
+    {
+      "name": "Hanson",
+      "primary_county": "Hopkins",
+      "population": 758,
+      "area_sq_mi": 2.6,
+      "incorporated": "1873"
+    },
+    {
+      "name": "Hardin",
+      "primary_county": "Marshall",
+      "population": 580,
+      "area_sq_mi": 0.7,
+      "incorporated": "1952"
+    },
+    {
+      "name": "Hardinsburg",
+      "primary_county": "Breckinridge",
+      "population": 2385,
+      "area_sq_mi": 3.5,
+      "incorporated": "1890"
+    },
+    {
+      "name": "Harlan",
+      "primary_county": "Harlan",
+      "population": 1776,
+      "area_sq_mi": 1.3,
+      "incorporated": "1884"
+    },
+    {
+      "name": "Harrodsburg",
+      "primary_county": "Mercer",
+      "population": 9064,
+      "area_sq_mi": 6.9,
+      "incorporated": "1836"
+    },
+    {
+      "name": "Hartford",
+      "primary_county": "Ohio",
+      "population": 2668,
+      "area_sq_mi": 2.7,
+      "incorporated": "1808"
+    },
+    {
+      "name": "Hawesville",
+      "primary_county": "Hancock",
+      "population": 1023,
+      "area_sq_mi": 1.3,
+      "incorporated": "1847"
+    },
+    {
+      "name": "Hazard",
+      "primary_county": "Perry",
+      "population": 5263,
+      "area_sq_mi": 5.3,
+      "incorporated": "1884"
+    },
+    {
+      "name": "Hazel",
+      "primary_county": "Calloway",
+      "population": 390,
+      "area_sq_mi": 0.4,
+      "incorporated": "1911"
+    },
+    {
+      "name": "Hebron Estates",
+      "primary_county": "Bullitt",
+      "population": 1014,
+      "area_sq_mi": 0.6,
+      "incorporated": "1984"
+    },
+    {
+      "name": "Henderson",
+      "primary_county": "Henderson",
+      "population": 27981,
+      "area_sq_mi": 17.6,
+      "incorporated": "1840"
+    },
+    {
+      "name": "Heritage Creek",
+      "primary_county": "Jefferson",
+      "population": 1209,
+      "area_sq_mi": 0.4,
+      "incorporated": "1960"
+    },
+    {
+      "name": "Hickman",
+      "primary_county": "Fulton",
+      "population": 2365,
+      "area_sq_mi": 3.6,
+      "incorporated": "1841"
+    },
+    {
+      "name": "Hickory Hill",
+      "primary_county": "Jefferson",
+      "population": 119,
+      "area_sq_mi": 0.1,
+      "incorporated": "1979"
+    },
+    {
+      "name": "Highland Heights",
+      "primary_county": "Campbell",
+      "population": 6662,
+      "area_sq_mi": 2.6,
+      "incorporated": "1927"
+    },
+    {
+      "name": "Hills and Dales",
+      "primary_county": "Jefferson",
+      "population": 146,
+      "area_sq_mi": 0.1,
+      "incorporated": "1976"
+    },
+    {
+      "name": "Hillview",
+      "primary_county": "Bullitt",
+      "population": 8622,
+      "area_sq_mi": 3.3,
+      "incorporated": "1974"
+    },
+    {
+      "name": "Hindman",
+      "primary_county": "Knott",
+      "population": 701,
+      "area_sq_mi": 3.1,
+      "incorporated": "1886"
+    },
+    {
+      "name": "Hodgenville",
+      "primary_county": "LaRue",
+      "population": 3235,
+      "area_sq_mi": 2.1,
+      "incorporated": "1839"
+    },
+    {
+      "name": "Hollow Creek",
+      "primary_county": "Jefferson",
+      "population": 799,
+      "area_sq_mi": 0.2,
+      "incorporated": "1971"
+    },
+    {
+      "name": "Hollyvilla",
+      "primary_county": "Jefferson",
+      "population": 518,
+      "area_sq_mi": 0.3,
+      "incorporated": "1958"
+    },
+    {
+      "name": "Hopkinsville",
+      "primary_county": "Christian",
+      "population": 31180,
+      "area_sq_mi": 30.8,
+      "incorporated": "1853"
+    },
+    {
+      "name": "Horse Cave",
+      "primary_county": "Hart",
+      "population": 2212,
+      "area_sq_mi": 2.7,
+      "incorporated": "1864"
+    },
+    {
+      "name": "Houston Acres",
+      "primary_county": "Jefferson",
+      "population": 492,
+      "area_sq_mi": 0.1,
+      "incorporated": "1956"
+    },
+    {
+      "name": "Hunters Hollow",
+      "primary_county": "Bullitt",
+      "population": 324,
+      "area_sq_mi": 0.1,
+      "incorporated": "1979"
+    },
+    {
+      "name": "Hurstbourne",
+      "primary_county": "Jefferson",
+      "population": 4683,
+      "area_sq_mi": 1.8,
+      "incorporated": "1982"
+    },
+    {
+      "name": "Hurstbourne Acres",
+      "primary_county": "Jefferson",
+      "population": 1957,
+      "area_sq_mi": 0.3,
+      "incorporated": "1963"
+    },
+    {
+      "name": "Hustonville",
+      "primary_county": "Lincoln",
+      "population": 387,
+      "area_sq_mi": 1.0,
+      "incorporated": "1850"
+    },
+    {
+      "name": "Hyden",
+      "primary_county": "Leslie",
+      "population": 303,
+      "area_sq_mi": 1.3,
+      "incorporated": "1882"
+    },
+    {
+      "name": "Independence",
+      "primary_county": "Kenton",
+      "population": 28676,
+      "area_sq_mi": 17.7,
+      "incorporated": "1842"
+    },
+    {
+      "name": "Indian Hills",
+      "primary_county": "Jefferson",
+      "population": 2860,
+      "area_sq_mi": 2.0,
+      "incorporated": "1999"
+    },
+    {
+      "name": "Inez",
+      "primary_county": "Martin",
+      "population": 546,
+      "area_sq_mi": 1.7,
+      "incorporated": "1942"
+    },
+    {
+      "name": "Irvine",
+      "primary_county": "Estill",
+      "population": 2360,
+      "area_sq_mi": 1.5,
+      "incorporated": "1849"
+    },
+    {
+      "name": "Irvington",
+      "primary_county": "Breckinridge",
+      "population": 1231,
+      "area_sq_mi": 0.9,
+      "incorporated": "1889"
+    },
+    {
+      "name": "Island",
+      "primary_county": "McLean",
+      "population": 429,
+      "area_sq_mi": 0.3,
+      "incorporated": "1908"
+    },
+    {
+      "name": "Jackson",
+      "primary_county": "Breathitt",
+      "population": 2237,
+      "area_sq_mi": 2.7,
+      "incorporated": "1890"
+    },
+    {
+      "name": "Jamestown",
+      "primary_county": "Russell",
+      "population": 1867,
+      "area_sq_mi": 3.0,
+      "incorporated": "1826"
+    },
+    {
+      "name": "Jeffersontown",
+      "primary_county": "Jefferson",
+      "population": 28474,
+      "area_sq_mi": 10.0,
+      "incorporated": "1797"
+    },
+    {
+      "name": "Jeffersonville",
+      "primary_county": "Montgomery",
+      "population": 1708,
+      "area_sq_mi": 2.5,
+      "incorporated": "1876"
+    },
+    {
+      "name": "Jenkins",
+      "primary_county": "Letcher",
+      "population": 1902,
+      "area_sq_mi": 7.7,
+      "incorporated": "1912"
+    },
+    {
+      "name": "Junction City",
+      "primary_county": "Boyle",
+      "population": 2268,
+      "area_sq_mi": 1.8,
+      "incorporated": "1882"
+    },
+    {
+      "name": "Keene",
+      "primary_county": "Jessamine",
+      "population": 99,
+      "incorporated": "1844"
+    },
+    {
+      "name": "Kenton Vale",
+      "primary_county": "Kenton",
+      "population": 105,
+      "area_sq_mi": 0.1,
+      "incorporated": "1949"
+    },
+    {
+      "name": "Kevil",
+      "primary_county": "Ballard",
+      "population": 595,
+      "area_sq_mi": 0.4,
+      "incorporated": "1910"
+    },
+    {
+      "name": "Kingsley",
+      "primary_county": "Jefferson",
+      "population": 397,
+      "area_sq_mi": 0.1,
+      "incorporated": "1939"
+    },
+    {
+      "name": "Kuttawa",
+      "primary_county": "Lyon",
+      "population": 629,
+      "area_sq_mi": 2.7,
+      "incorporated": "1872"
+    },
+    {
+      "name": "LaCenter",
+      "primary_county": "Ballard",
+      "population": 872,
+      "area_sq_mi": 0.6,
+      "incorporated": "?"
+    },
+    {
+      "name": "LaFayette",
+      "primary_county": "Christian",
+      "population": 177,
+      "area_sq_mi": 0.2,
+      "incorporated": "1836"
+    },
+    {
+      "name": "La Grange",
+      "primary_county": "Oldham",
+      "population": 10067,
+      "area_sq_mi": 7.1,
+      "incorporated": "1840"
+    },
+    {
+      "name": "Lakeside Park",
+      "primary_county": "Kenton",
+      "population": 2841,
+      "area_sq_mi": 0.8,
+      "incorporated": "1930"
+    },
+    {
+      "name": "Lakeview Heights",
+      "primary_county": "Rowan",
+      "population": 277,
+      "area_sq_mi": 0.1,
+      "incorporated": "1979"
+    },
+    {
+      "name": "Lancaster",
+      "primary_county": "Garrard",
+      "population": 3899,
+      "area_sq_mi": 1.9,
+      "incorporated": "1837"
+    },
+    {
+      "name": "Langdon Place",
+      "primary_county": "Jefferson",
+      "population": 870,
+      "area_sq_mi": 0.2,
+      "incorporated": "1977"
+    },
+    {
+      "name": "Lawrenceburg",
+      "primary_county": "Anderson",
+      "population": 11728,
+      "area_sq_mi": 5.9,
+      "incorporated": "1850"
+    },
+    {
+      "name": "Lebanon",
+      "primary_county": "Marion",
+      "population": 6274,
+      "area_sq_mi": 5.3,
+      "incorporated": "1815"
+    },
+    {
+      "name": "Lebanon Junction",
+      "primary_county": "Bullitt",
+      "population": 1746,
+      "area_sq_mi": 5.7,
+      "incorporated": "1895"
+    },
+    {
+      "name": "Leitchfield",
+      "primary_county": "Grayson",
+      "population": 6404,
+      "area_sq_mi": 10.9,
+      "incorporated": "1866"
+    },
+    {
+      "name": "Lewisburg",
+      "primary_county": "Logan",
+      "population": 748,
+      "area_sq_mi": 1.2,
+      "incorporated": "1878"
+    },
+    {
+      "name": "Lewisport",
+      "primary_county": "Hancock",
+      "population": 1767,
+      "area_sq_mi": 1.0,
+      "incorporated": "1882"
+    },
+    {
+      "name": "Lexington",
+      "primary_county": "Fayette",
+      "population": 322570,
+      "area_sq_mi": 285.6,
+      "incorporated": "1831"
+    },
+    {
+      "name": "Liberty",
+      "primary_county": "Casey",
+      "population": 2028,
+      "area_sq_mi": 1.9,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Lincolnshire",
+      "primary_county": "Jefferson",
+      "population": 137,
+      "area_sq_mi": 0.1,
+      "incorporated": "1953"
+    },
+    {
+      "name": "Livermore",
+      "primary_county": "McLean",
+      "population": 1230,
+      "area_sq_mi": 1.0,
+      "incorporated": "1850"
+    },
+    {
+      "name": "Livingston",
+      "primary_county": "Rockcastle",
+      "population": 166,
+      "area_sq_mi": 0.3,
+      "incorporated": "1943"
+    },
+    {
+      "name": "London",
+      "primary_county": "Laurel",
+      "population": 7572,
+      "area_sq_mi": 10.3,
+      "incorporated": "1836"
+    },
+    {
+      "name": "Loretto",
+      "primary_county": "Marion",
+      "population": 723,
+      "area_sq_mi": 3.2,
+      "incorporated": "1866"
+    },
+    {
+      "name": "Louisa",
+      "primary_county": "Lawrence",
+      "population": 2679,
+      "area_sq_mi": 1.6,
+      "incorporated": "1869"
+    },
+    {
+      "name": "Louisville",
+      "primary_county": "Jefferson",
+      "population": 633045,
+      "area_sq_mi": 342.2,
+      "incorporated": "1828"
+    },
+    {
+      "name": "Loyall",
+      "primary_county": "Harlan",
+      "population": 638,
+      "area_sq_mi": 1.4,
+      "incorporated": "1924"
+    },
+    {
+      "name": "Ludlow",
+      "primary_county": "Kenton",
+      "population": 4385,
+      "area_sq_mi": 1.2,
+      "incorporated": "1864"
+    },
+    {
+      "name": "Lynch",
+      "primary_county": "Harlan",
+      "population": 658,
+      "area_sq_mi": 0.3,
+      "incorporated": "1963"
+    },
+    {
+      "name": "Lyndon",
+      "primary_county": "Jefferson",
+      "population": 11008,
+      "area_sq_mi": 3.6,
+      "incorporated": "1965"
+    },
+    {
+      "name": "Lynnview",
+      "primary_county": "Jefferson",
+      "population": 945,
+      "area_sq_mi": 0.2,
+      "incorporated": "1954"
+    },
+    {
+      "name": "Mackville",
+      "primary_county": "Washington",
+      "population": 207,
+      "area_sq_mi": 0.4,
+      "incorporated": "1967"
+    },
+    {
+      "name": "Madisonville",
+      "primary_county": "Hopkins",
+      "population": 19542,
+      "area_sq_mi": 18.7,
+      "incorporated": "1807"
+    },
+    {
+      "name": "Manchester",
+      "primary_county": "Clay",
+      "population": 1512,
+      "area_sq_mi": 1.5,
+      "incorporated": "1844"
+    },
+    {
+      "name": "Manor Creek",
+      "primary_county": "Jefferson",
+      "population": 240,
+      "area_sq_mi": 0.1,
+      "incorporated": "1972"
+    },
+    {
+      "name": "Marion",
+      "primary_county": "Crittenden",
+      "population": 2916,
+      "area_sq_mi": 3.4,
+      "incorporated": "1851"
+    },
+    {
+      "name": "Martin",
+      "primary_county": "Floyd",
+      "population": 513,
+      "area_sq_mi": 0.7,
+      "incorporated": "1920"
+    },
+    {
+      "name": "Maryhill Estates",
+      "primary_county": "Jefferson",
+      "population": 185,
+      "area_sq_mi": 0.1,
+      "incorporated": "1963"
+    },
+    {
+      "name": "Mayfield",
+      "primary_county": "Graves",
+      "population": 10017,
+      "area_sq_mi": 10.4,
+      "incorporated": "1846"
+    },
+    {
+      "name": "Maysville",
+      "primary_county": "Mason",
+      "population": 8873,
+      "area_sq_mi": 21.4,
+      "incorporated": "1833"
+    },
+    {
+      "name": "McHenry",
+      "primary_county": "Ohio",
+      "population": 369,
+      "area_sq_mi": 0.7,
+      "incorporated": "1880"
+    },
+    {
+      "name": "McKee",
+      "primary_county": "Jackson",
+      "population": 803,
+      "area_sq_mi": 2.3,
+      "incorporated": "1882"
+    },
+    {
+      "name": "Meadow Vale",
+      "primary_county": "Jefferson",
+      "population": 730,
+      "area_sq_mi": 0.2,
+      "incorporated": "1967"
+    },
+    {
+      "name": "Meadowbrook Farm",
+      "primary_county": "Jefferson",
+      "population": 117,
+      "area_sq_mi": 0.1,
+      "incorporated": "1975"
+    },
+    {
+      "name": "Meadowview Estates",
+      "primary_county": "Jefferson",
+      "population": 178,
+      "area_sq_mi": 0.1,
+      "incorporated": "1954"
+    },
+    {
+      "name": "Melbourne",
+      "primary_county": "Campbell",
+      "population": 458,
+      "area_sq_mi": 0.8,
+      "incorporated": "1912"
+    },
+    {
+      "name": "Mentor",
+      "primary_county": "Campbell",
+      "population": 218,
+      "area_sq_mi": 0.7,
+      "incorporated": "1957"
+    },
+    {
+      "name": "Middlesboro",
+      "primary_county": "Bell",
+      "population": 9405,
+      "area_sq_mi": 7.6,
+      "incorporated": "1890"
+    },
+    {
+      "name": "Middletown",
+      "primary_county": "Jefferson",
+      "population": 9706,
+      "area_sq_mi": 5.1,
+      "incorporated": "1979"
+    },
+    {
+      "name": "Midway",
+      "primary_county": "Woodford",
+      "population": 1718,
+      "area_sq_mi": 1.1,
+      "incorporated": "1846"
+    },
+    {
+      "name": "Millersburg",
+      "primary_county": "Bourbon",
+      "population": 747,
+      "area_sq_mi": 0.4,
+      "incorporated": "1893"
+    },
+    {
+      "name": "Milton",
+      "primary_county": "Trimble",
+      "population": 590,
+      "area_sq_mi": 1.3,
+      "incorporated": "1954"
+    },
+    {
+      "name": "Mockingbird Valley",
+      "primary_county": "Jefferson",
+      "population": 175,
+      "area_sq_mi": 0.2,
+      "incorporated": "1940"
+    },
+    {
+      "name": "Monticello",
+      "primary_county": "Wayne",
+      "population": 5753,
+      "area_sq_mi": 5.9,
+      "incorporated": "1810"
+    },
+    {
+      "name": "Moorland",
+      "primary_county": "Jefferson",
+      "population": 433,
+      "area_sq_mi": 0.1,
+      "incorporated": "1959"
+    },
+    {
+      "name": "Morehead",
+      "primary_county": "Rowan",
+      "population": 7151,
+      "area_sq_mi": 9.5,
+      "incorporated": "1869"
+    },
+    {
+      "name": "Morganfield",
+      "primary_county": "Union",
+      "population": 3256,
+      "area_sq_mi": 3.0,
+      "incorporated": "1870"
+    },
+    {
+      "name": "Morgantown",
+      "primary_county": "Butler",
+      "population": 2505,
+      "area_sq_mi": 2.4,
+      "incorporated": "1813"
+    },
+    {
+      "name": "Mortons Gap",
+      "primary_county": "Hopkins",
+      "population": 728,
+      "area_sq_mi": 1.2,
+      "incorporated": "1888"
+    },
+    {
+      "name": "Mount Olivet",
+      "primary_county": "Robertson",
+      "population": 347,
+      "area_sq_mi": 0.4,
+      "incorporated": "1871"
+    },
+    {
+      "name": "Mount Sterling",
+      "primary_county": "Montgomery",
+      "population": 7558,
+      "area_sq_mi": 4.4,
+      "incorporated": "1851"
+    },
+    {
+      "name": "Mount Vernon",
+      "primary_county": "Rockcastle",
+      "population": 2453,
+      "area_sq_mi": 1.7,
+      "incorporated": "1866"
+    },
+    {
+      "name": "Mount Washington",
+      "primary_county": "Bullitt",
+      "population": 18090,
+      "area_sq_mi": 6.1,
+      "incorporated": "1954"
+    },
+    {
+      "name": "Muldraugh",
+      "primary_county": "Meade",
+      "population": 1040,
+      "area_sq_mi": 0.6,
+      "incorporated": "1952"
+    },
+    {
+      "name": "Munfordville",
+      "primary_county": "Hart",
+      "population": 1686,
+      "area_sq_mi": 2.3,
+      "incorporated": "1880"
+    },
+    {
+      "name": "Murray",
+      "primary_county": "Calloway",
+      "population": 17307,
+      "area_sq_mi": 11.3,
+      "incorporated": "1844"
+    },
+    {
+      "name": "Murray Hill",
+      "primary_county": "Jefferson",
+      "population": 565,
+      "area_sq_mi": 0.1,
+      "incorporated": "1982"
+    },
+    {
+      "name": "Nebo",
+      "primary_county": "Hopkins",
+      "population": 211,
+      "area_sq_mi": 0.3,
+      "incorporated": "1861"
+    },
+    {
+      "name": "New Castle",
+      "primary_county": "Henry",
+      "population": 884,
+      "area_sq_mi": 0.4,
+      "incorporated": "1851"
+    },
+    {
+      "name": "New Haven",
+      "primary_county": "Nelson",
+      "population": 798,
+      "area_sq_mi": 0.6,
+      "incorporated": "1839"
+    },
+    {
+      "name": "Newport",
+      "primary_county": "Campbell",
+      "population": 14150,
+      "area_sq_mi": 3.0,
+      "incorporated": "1834"
+    },
+    {
+      "name": "Nicholasville",
+      "primary_county": "Jessamine",
+      "population": 31093,
+      "area_sq_mi": 13.1,
+      "incorporated": "1837"
+    },
+    {
+      "name": "Norbourne Estates",
+      "primary_county": "Jefferson",
+      "population": 437,
+      "area_sq_mi": 0.1,
+      "incorporated": "1950"
+    },
+    {
+      "name": "North Middletown",
+      "primary_county": "Bourbon",
+      "population": 610,
+      "area_sq_mi": 0.3,
+      "incorporated": "1819"
+    },
+    {
+      "name": "Northfield",
+      "primary_county": "Jefferson",
+      "population": 991,
+      "area_sq_mi": 0.5,
+      "incorporated": "1965"
+    },
+    {
+      "name": "Nortonville",
+      "primary_county": "Hopkins",
+      "population": 977,
+      "area_sq_mi": 1.1,
+      "incorporated": "1873"
+    },
+    {
+      "name": "Norwood",
+      "primary_county": "Jefferson",
+      "population": 379,
+      "area_sq_mi": 0.1,
+      "incorporated": "1975"
+    },
+    {
+      "name": "Oak Grove",
+      "primary_county": "Christian",
+      "population": 7931,
+      "area_sq_mi": 10.8,
+      "incorporated": "1974"
+    },
+    {
+      "name": "Oakland",
+      "primary_county": "Warren",
+      "population": 198,
+      "area_sq_mi": 1.4,
+      "incorporated": "1977"
+    },
+    {
+      "name": "Old Brownsboro Place",
+      "primary_county": "Jefferson",
+      "population": 376,
+      "area_sq_mi": 0.1,
+      "incorporated": "1977"
+    },
+    {
+      "name": "Olive Hill",
+      "primary_county": "Carter",
+      "population": 1580,
+      "area_sq_mi": 1.8,
+      "incorporated": "1884"
+    },
+    {
+      "name": "Orchard Grass Hills",
+      "primary_county": "Oldham",
+      "population": 1536,
+      "area_sq_mi": 0.4,
+      "incorporated": "1979"
+    },
+    {
+      "name": "Owensboro",
+      "primary_county": "Daviess",
+      "population": 60183,
+      "area_sq_mi": 20.4,
+      "incorporated": "1850"
+    },
+    {
+      "name": "Owenton",
+      "primary_county": "Owen",
+      "population": 1682,
+      "area_sq_mi": 1.1,
+      "incorporated": "1849"
+    },
+    {
+      "name": "Owingsville",
+      "primary_county": "Bath",
+      "population": 1593,
+      "area_sq_mi": 2.4,
+      "incorporated": "1811"
+    },
+    {
+      "name": "Paducah",
+      "primary_county": "McCracken",
+      "population": 27137,
+      "area_sq_mi": 20.0,
+      "incorporated": "1838"
+    },
+    {
+      "name": "Paintsville",
+      "primary_county": "Johnson",
+      "population": 4312,
+      "area_sq_mi": 2.8,
+      "incorporated": "1843"
+    },
+    {
+      "name": "Paris",
+      "primary_county": "Bourbon",
+      "population": 10171,
+      "area_sq_mi": 6.0,
+      "incorporated": "1890"
+    },
+    {
+      "name": "Park City",
+      "primary_county": "Barren",
+      "population": 614,
+      "area_sq_mi": 1.5,
+      "incorporated": "1871"
+    },
+    {
+      "name": "Park Hills",
+      "primary_county": "Kenton",
+      "population": 3162,
+      "area_sq_mi": 0.8,
+      "incorporated": "1927"
+    },
+    {
+      "name": "Parkway Village",
+      "primary_county": "Jefferson",
+      "population": 623,
+      "area_sq_mi": 0.1,
+      "incorporated": "1940"
+    },
+    {
+      "name": "Pembroke",
+      "primary_county": "Christian",
+      "population": 865,
+      "area_sq_mi": 1.1,
+      "incorporated": "1869"
+    },
+    {
+      "name": "Perryville",
+      "primary_county": "Boyle",
+      "population": 782,
+      "area_sq_mi": 0.8,
+      "incorporated": "1867"
+    },
+    {
+      "name": "Pewee Valley",
+      "primary_county": "Oldham",
+      "population": 1588,
+      "area_sq_mi": 2.0,
+      "incorporated": "1870"
+    },
+    {
+      "name": "Pikeville",
+      "primary_county": "Pike",
+      "population": 7754,
+      "area_sq_mi": 21.1,
+      "incorporated": "1848"
+    },
+    {
+      "name": "Pineville",
+      "primary_county": "Bell",
+      "population": 1678,
+      "area_sq_mi": 1.7,
+      "incorporated": "1873"
+    },
+    {
+      "name": "Pioneer Village",
+      "primary_county": "Bullitt",
+      "population": 2671,
+      "area_sq_mi": 0.7,
+      "incorporated": "1974"
+    },
+    {
+      "name": "Pippa Passes",
+      "primary_county": "Knott",
+      "population": 468,
+      "area_sq_mi": 0.5,
+      "incorporated": "1983"
+    },
+    {
+      "name": "Plantation",
+      "primary_county": "Jefferson",
+      "population": 826,
+      "area_sq_mi": 0.2,
+      "incorporated": "1960"
+    },
+    {
+      "name": "Pleasureville",
+      "primary_county": "HenryShelby",
+      "population": 779,
+      "area_sq_mi": 0.5,
+      "incorporated": "1842"
+    },
+    {
+      "name": "Plum Springs",
+      "primary_county": "Warren",
+      "population": 497,
+      "area_sq_mi": 0.3,
+      "incorporated": "1966"
+    },
+    {
+      "name": "Powderly",
+      "primary_county": "Muhlenberg",
+      "population": 788,
+      "area_sq_mi": 1.6,
+      "incorporated": "1963"
+    },
+    {
+      "name": "Prestonsburg",
+      "primary_county": "Floyd",
+      "population": 3681,
+      "area_sq_mi": 12.9,
+      "incorporated": "1867"
+    },
+    {
+      "name": "Prestonville",
+      "primary_county": "Carroll",
+      "population": 171,
+      "area_sq_mi": 0.2,
+      "incorporated": "1867"
+    },
+    {
+      "name": "Princeton",
+      "primary_county": "Caldwell",
+      "population": 6270,
+      "area_sq_mi": 9.0,
+      "incorporated": "1854"
+    },
+    {
+      "name": "Prospect",
+      "primary_county": "JeffersonOldham",
+      "population": 4592,
+      "area_sq_mi": 3.9,
+      "incorporated": "1974"
+    },
+    {
+      "name": "Providence",
+      "primary_county": "Webster",
+      "population": 2892,
+      "area_sq_mi": 6.1,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Raceland",
+      "primary_county": "Greenup",
+      "population": 2343,
+      "area_sq_mi": 2.5,
+      "incorporated": "1915"
+    },
+    {
+      "name": "Radcliff",
+      "primary_county": "Hardin",
+      "population": 23042,
+      "area_sq_mi": 12.4,
+      "incorporated": "1956"
+    },
+    {
+      "name": "Ravenna",
+      "primary_county": "Estill",
+      "population": 568,
+      "area_sq_mi": 0.3,
+      "incorporated": "1921"
+    },
+    {
+      "name": "Raywick",
+      "primary_county": "Marion",
+      "population": 155,
+      "area_sq_mi": 0.9,
+      "incorporated": "1838"
+    },
+    {
+      "name": "Richlawn",
+      "primary_county": "Jefferson",
+      "population": 415,
+      "area_sq_mi": 0.1,
+      "incorporated": "1948"
+    },
+    {
+      "name": "Richmond",
+      "primary_county": "Madison",
+      "population": 34585,
+      "area_sq_mi": 23.1,
+      "incorporated": "1809"
+    },
+    {
+      "name": "River Bluff",
+      "primary_county": "Oldham",
+      "population": 436,
+      "area_sq_mi": 0.2,
+      "incorporated": "1980"
+    },
+    {
+      "name": "Riverwood",
+      "primary_county": "Jefferson",
+      "population": 492,
+      "area_sq_mi": 0.2,
+      "incorporated": "1969"
+    },
+    {
+      "name": "Robards",
+      "primary_county": "Henderson",
+      "population": 449,
+      "area_sq_mi": 3.0,
+      "incorporated": "1997"
+    },
+    {
+      "name": "Rochester",
+      "primary_county": "Butler",
+      "population": 114,
+      "area_sq_mi": 0.5,
+      "incorporated": "1858"
+    },
+    {
+      "name": "Rockport",
+      "primary_county": "Ohio",
+      "population": 262,
+      "area_sq_mi": 0.7,
+      "incorporated": "1870"
+    },
+    {
+      "name": "Rolling Fields",
+      "primary_county": "Jefferson",
+      "population": 720,
+      "area_sq_mi": 0.2,
+      "incorporated": "1958"
+    },
+    {
+      "name": "Rolling Hills",
+      "primary_county": "Jefferson",
+      "population": 934,
+      "area_sq_mi": 0.2,
+      "incorporated": "1966"
+    },
+    {
+      "name": "Russell",
+      "primary_county": "Greenup",
+      "population": 3744,
+      "area_sq_mi": 3.0,
+      "incorporated": "1874"
+    },
+    {
+      "name": "Russell Springs",
+      "primary_county": "Russell",
+      "population": 2715,
+      "area_sq_mi": 4.5,
+      "incorporated": "1936"
+    },
+    {
+      "name": "Russellville",
+      "primary_county": "Logan",
+      "population": 7164,
+      "area_sq_mi": 10.8,
+      "incorporated": "1840"
+    },
+    {
+      "name": "Ryland Heights",
+      "primary_county": "Kenton",
+      "population": 922,
+      "area_sq_mi": 5.3,
+      "incorporated": "1972"
+    },
+    {
+      "name": "Sacramento",
+      "primary_county": "McLean",
+      "population": 429,
+      "area_sq_mi": 0.4,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Sadieville",
+      "primary_county": "Scott",
+      "population": 320,
+      "area_sq_mi": 1.1,
+      "incorporated": "1880"
+    },
+    {
+      "name": "St. Charles",
+      "primary_county": "Hopkins",
+      "population": 273,
+      "area_sq_mi": 1.0,
+      "incorporated": "1874"
+    },
+    {
+      "name": "St. Mary",
+      "primary_county": "Marion",
+      "population": 138,
+      "incorporated": "1865"
+    },
+    {
+      "name": "St. Matthews",
+      "primary_county": "Jefferson",
+      "population": 17534,
+      "area_sq_mi": 4.3,
+      "incorporated": "1950"
+    },
+    {
+      "name": "St. Regis Park",
+      "primary_county": "Jefferson",
+      "population": 1438,
+      "area_sq_mi": 0.4,
+      "incorporated": "1953"
+    },
+    {
+      "name": "Salem",
+      "primary_county": "Livingston",
+      "population": 722,
+      "area_sq_mi": 0.9,
+      "incorporated": "1869"
+    },
+    {
+      "name": "Salt Lick",
+      "primary_county": "Bath",
+      "population": 247,
+      "area_sq_mi": 0.8,
+      "incorporated": "1888"
+    },
+    {
+      "name": "Salyersville",
+      "primary_county": "Magoffin",
+      "population": 1591,
+      "area_sq_mi": 2.5,
+      "incorporated": "1867"
+    },
+    {
+      "name": "Sanders",
+      "primary_county": "Carroll",
+      "population": 197,
+      "area_sq_mi": 0.3,
+      "incorporated": "1882"
+    },
+    {
+      "name": "Sandy Hook",
+      "primary_county": "Elliott",
+      "population": 641,
+      "area_sq_mi": 1.0,
+      "incorporated": "1888"
+    },
+    {
+      "name": "Sardis",
+      "primary_county": "MasonRobertson",
+      "population": 60,
+      "area_sq_mi": 1.0,
+      "incorporated": "1850"
+    },
+    {
+      "name": "Science Hill",
+      "primary_county": "Pulaski",
+      "population": 657,
+      "area_sq_mi": 0.6,
+      "incorporated": "1882"
+    },
+    {
+      "name": "Scottsville",
+      "primary_county": "Allen",
+      "population": 4299,
+      "area_sq_mi": 5.7,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Sebree",
+      "primary_county": "Webster",
+      "population": 1574,
+      "area_sq_mi": 2.9,
+      "incorporated": "1871"
+    },
+    {
+      "name": "Seneca Gardens",
+      "primary_county": "Jefferson",
+      "population": 674,
+      "area_sq_mi": 0.2,
+      "incorporated": "1941"
+    },
+    {
+      "name": "Sharpsburg",
+      "primary_county": "Bath",
+      "population": 365,
+      "area_sq_mi": 0.2,
+      "incorporated": "1852"
+    },
+    {
+      "name": "Shelbyville",
+      "primary_county": "Shelby",
+      "population": 17282,
+      "area_sq_mi": 8.2,
+      "incorporated": "1846"
+    },
+    {
+      "name": "Shepherdsville",
+      "primary_county": "Bullitt",
+      "population": 14201,
+      "area_sq_mi": 10.0,
+      "incorporated": "1793"
+    },
+    {
+      "name": "Shively",
+      "primary_county": "Jefferson",
+      "population": 15636,
+      "area_sq_mi": 4.6,
+      "incorporated": "1938"
+    },
+    {
+      "name": "Silver Grove",
+      "primary_county": "Campbell",
+      "population": 1154,
+      "area_sq_mi": 1.7,
+      "incorporated": "1950"
+    },
+    {
+      "name": "Simpsonville",
+      "primary_county": "Shelby",
+      "population": 2990,
+      "area_sq_mi": 2.2,
+      "incorporated": "1833"
+    },
+    {
+      "name": "Slaughters",
+      "primary_county": "Webster",
+      "population": 190,
+      "area_sq_mi": 0.2,
+      "incorporated": "1861"
+    },
+    {
+      "name": "Smithfield",
+      "primary_county": "Henry",
+      "population": 124,
+      "area_sq_mi": 0.1,
+      "incorporated": "1870"
+    },
+    {
+      "name": "Smithland",
+      "primary_county": "Livingston",
+      "population": 240,
+      "area_sq_mi": 0.5,
+      "incorporated": "1843"
+    },
+    {
+      "name": "Smiths Grove",
+      "primary_county": "Warren",
+      "population": 752,
+      "area_sq_mi": 0.8,
+      "incorporated": "1871"
+    },
+    {
+      "name": "Somerset",
+      "primary_county": "Pulaski",
+      "population": 11924,
+      "area_sq_mi": 11.3,
+      "incorporated": "1883"
+    },
+    {
+      "name": "Sonora",
+      "primary_county": "Hardin",
+      "population": 565,
+      "area_sq_mi": 1.1,
+      "incorporated": "1885"
+    },
+    {
+      "name": "South Carrollton",
+      "primary_county": "Muhlenberg",
+      "population": 141,
+      "area_sq_mi": 0.3,
+      "incorporated": "1849"
+    },
+    {
+      "name": "South Shore",
+      "primary_county": "Greenup",
+      "population": 1066,
+      "area_sq_mi": 0.9,
+      "incorporated": "1957"
+    },
+    {
+      "name": "Southgate",
+      "primary_county": "Campbell",
+      "population": 3648,
+      "area_sq_mi": 1.4,
+      "incorporated": "1907"
+    },
+    {
+      "name": "Sparta",
+      "primary_county": "GallatinOwen",
+      "population": 236,
+      "area_sq_mi": 5.9,
+      "incorporated": "1852"
+    },
+    {
+      "name": "Spring Mill",
+      "primary_county": "Jefferson",
+      "population": 294,
+      "area_sq_mi": 0.1,
+      "incorporated": "1983"
+    },
+    {
+      "name": "Spring Valley",
+      "primary_county": "Jefferson",
+      "population": 675,
+      "area_sq_mi": 0.2,
+      "incorporated": "1983"
+    },
+    {
+      "name": "Springfield",
+      "primary_county": "Washington",
+      "population": 2846,
+      "area_sq_mi": 3.7,
+      "incorporated": "1847"
+    },
+    {
+      "name": "Stamping Ground",
+      "primary_county": "Scott",
+      "population": 780,
+      "area_sq_mi": 0.4,
+      "incorporated": "1853"
+    },
+    {
+      "name": "Stanford",
+      "primary_county": "Lincoln",
+      "population": 3640,
+      "area_sq_mi": 3.1,
+      "incorporated": "1861"
+    },
+    {
+      "name": "Stanton",
+      "primary_county": "Powell",
+      "population": 3251,
+      "area_sq_mi": 2.1,
+      "incorporated": "1854"
+    },
+    {
+      "name": "Strathmoor Manor",
+      "primary_county": "Jefferson",
+      "population": 351,
+      "area_sq_mi": 0.1,
+      "incorporated": "1931"
+    },
+    {
+      "name": "Strathmoor Village",
+      "primary_county": "Jefferson",
+      "population": 684,
+      "area_sq_mi": 0.1,
+      "incorporated": "1929"
+    },
+    {
+      "name": "Sturgis",
+      "primary_county": "Union",
+      "population": 1735,
+      "area_sq_mi": 1.6,
+      "incorporated": "1890"
+    },
+    {
+      "name": "Sycamore",
+      "primary_county": "Jefferson",
+      "population": 166,
+      "area_sq_mi": 0.1,
+      "incorporated": "1979"
+    },
+    {
+      "name": "Taylor Mill",
+      "primary_county": "Kenton",
+      "population": 6873,
+      "area_sq_mi": 6.3,
+      "incorporated": "1956"
+    },
+    {
+      "name": "Taylorsville",
+      "primary_county": "Spencer",
+      "population": 1256,
+      "area_sq_mi": 0.3,
+      "incorporated": "1856"
+    },
+    {
+      "name": "Ten Broeck",
+      "primary_county": "Jefferson",
+      "population": 99,
+      "area_sq_mi": 0.2,
+      "incorporated": "1979"
+    },
+    {
+      "name": "Thornhill",
+      "primary_county": "Jefferson",
+      "population": 185,
+      "area_sq_mi": 0.1,
+      "incorporated": "1976"
+    },
+    {
+      "name": "Tompkinsville",
+      "primary_county": "Monroe",
+      "population": 2309,
+      "area_sq_mi": 3.6,
+      "incorporated": "1856"
+    },
+    {
+      "name": "Trenton",
+      "primary_county": "Todd",
+      "population": 326,
+      "area_sq_mi": 0.6,
+      "incorporated": "1868"
+    },
+    {
+      "name": "Union",
+      "primary_county": "Boone",
+      "population": 7416,
+      "area_sq_mi": 3.3,
+      "incorporated": "1962"
+    },
+    {
+      "name": "Uniontown",
+      "primary_county": "Union",
+      "population": 929,
+      "area_sq_mi": 0.9,
+      "incorporated": "1860"
+    },
+    {
+      "name": "Upton",
+      "primary_county": "HardinLaRue",
+      "population": 704,
+      "area_sq_mi": 1.4,
+      "incorporated": "1865"
+    },
+    {
+      "name": "Vanceburg",
+      "primary_county": "Lewis",
+      "population": 1428,
+      "area_sq_mi": 1.3,
+      "incorporated": "1827"
+    },
+    {
+      "name": "Versailles",
+      "primary_county": "Woodford",
+      "population": 10347,
+      "area_sq_mi": 4.4,
+      "incorporated": "1837"
+    },
+    {
+      "name": "Villa Hills",
+      "primary_county": "Kenton",
+      "population": 7310,
+      "area_sq_mi": 4.4,
+      "incorporated": "1962"
+    },
+    {
+      "name": "Vine Grove",
+      "primary_county": "Hardin",
+      "population": 6559,
+      "area_sq_mi": 4.7,
+      "incorporated": "1865"
+    },
+    {
+      "name": "Walton",
+      "primary_county": "BooneKenton",
+      "population": 5460,
+      "area_sq_mi": 4.3,
+      "incorporated": "1854"
+    },
+    {
+      "name": "Warfield",
+      "primary_county": "Martin",
+      "population": 264,
+      "area_sq_mi": 0.8,
+      "incorporated": "1982"
+    },
+    {
+      "name": "Warsaw",
+      "primary_county": "Gallatin",
+      "population": 1761,
+      "area_sq_mi": 0.7,
+      "incorporated": "1833"
+    },
+    {
+      "name": "Watterson Park",
+      "primary_county": "Jefferson",
+      "population": 1004,
+      "area_sq_mi": 1.4,
+      "incorporated": "1981"
+    },
+    {
+      "name": "Waverly",
+      "primary_county": "Union",
+      "population": 311,
+      "area_sq_mi": 0.3,
+      "incorporated": "1869"
+    },
+    {
+      "name": "Wayland",
+      "primary_county": "Floyd",
+      "population": 389,
+      "area_sq_mi": 2.6,
+      "incorporated": "1914"
+    },
+    {
+      "name": "Wellington",
+      "primary_county": "Jefferson",
+      "population": 564,
+      "area_sq_mi": 0.1,
+      "incorporated": "1946"
+    },
+    {
+      "name": "West Buechel",
+      "primary_county": "Jefferson",
+      "population": 1370,
+      "area_sq_mi": 0.6,
+      "incorporated": "1951"
+    },
+    {
+      "name": "West Liberty",
+      "primary_county": "Morgan",
+      "population": 3215,
+      "area_sq_mi": 4.4,
+      "incorporated": "1840"
+    },
+    {
+      "name": "West Point",
+      "primary_county": "Hardin",
+      "population": 952,
+      "area_sq_mi": 0.6,
+      "incorporated": "1848"
+    },
+    {
+      "name": "Westwood",
+      "primary_county": "Jefferson",
+      "population": 571,
+      "area_sq_mi": 0.1,
+      "incorporated": "1967"
+    },
+    {
+      "name": "Wheatcroft",
+      "primary_county": "Webster",
+      "population": 105,
+      "area_sq_mi": 0.3,
+      "incorporated": "1902"
+    },
+    {
+      "name": "Wheelwright",
+      "primary_county": "Floyd",
+      "population": 509,
+      "area_sq_mi": 1.8,
+      "incorporated": "1917"
+    },
+    {
+      "name": "White Plains",
+      "primary_county": "Hopkins",
+      "population": 829,
+      "area_sq_mi": 3.2,
+      "incorporated": "1888"
+    },
+    {
+      "name": "Whitesburg",
+      "primary_county": "Letcher",
+      "population": 1773,
+      "area_sq_mi": 3.2,
+      "incorporated": "1876"
+    },
+    {
+      "name": "Whitesville",
+      "primary_county": "Daviess",
+      "population": 580,
+      "area_sq_mi": 0.4,
+      "incorporated": "1867"
+    },
+    {
+      "name": "Wickliffe",
+      "primary_county": "Ballard",
+      "population": 670,
+      "area_sq_mi": 1.1,
+      "incorporated": "1882"
+    },
+    {
+      "name": "Wilder",
+      "primary_county": "Campbell",
+      "population": 3176,
+      "area_sq_mi": 3.8,
+      "incorporated": "1935"
+    },
+    {
+      "name": "Wildwood",
+      "primary_county": "Jefferson",
+      "population": 281,
+      "area_sq_mi": 0.1,
+      "incorporated": "1964"
+    },
+    {
+      "name": "Williamsburg",
+      "primary_county": "Whitley",
+      "population": 5326,
+      "area_sq_mi": 4.9,
+      "incorporated": "1851"
+    },
+    {
+      "name": "Williamstown",
+      "primary_county": "GrantPendleton",
+      "population": 3894,
+      "area_sq_mi": 17.0,
+      "incorporated": "1858"
+    },
+    {
+      "name": "Willisburg",
+      "primary_county": "Washington",
+      "population": 300,
+      "area_sq_mi": 0.7,
+      "incorporated": "1965"
+    },
+    {
+      "name": "Wilmore",
+      "primary_county": "Jessamine",
+      "population": 5999,
+      "area_sq_mi": 0.9,
+      "incorporated": "1918"
+    },
+    {
+      "name": "Winchester",
+      "primary_county": "Clark",
+      "population": 19134,
+      "area_sq_mi": 7.9,
+      "incorporated": "1793"
+    },
+    {
+      "name": "Windy Hills",
+      "primary_county": "Jefferson",
+      "population": 2427,
+      "area_sq_mi": 0.9,
+      "incorporated": "1952"
+    },
+    {
+      "name": "Wingo",
+      "primary_county": "Graves",
+      "population": 573,
+      "area_sq_mi": 1.0,
+      "incorporated": "1872"
+    },
+    {
+      "name": "Woodburn",
+      "primary_county": "Warren",
+      "population": 303,
+      "area_sq_mi": 0.4,
+      "incorporated": "1866"
+    },
+    {
+      "name": "Woodbury",
+      "primary_county": "Butler",
+      "population": 80,
+      "area_sq_mi": 0.1,
+      "incorporated": "1854"
+    },
+    {
+      "name": "Woodland Hills",
+      "primary_county": "Jefferson",
+      "population": 736,
+      "area_sq_mi": 0.2,
+      "incorporated": "1961"
+    },
+    {
+      "name": "Woodlawn",
+      "primary_county": "Campbell",
+      "population": 212,
+      "area_sq_mi": 0.1,
+      "incorporated": "1922"
+    },
+    {
+      "name": "Woodlawn Park",
+      "primary_county": "Jefferson",
+      "population": 947,
+      "area_sq_mi": 0.3,
+      "incorporated": "1955"
+    },
+    {
+      "name": "Worthington",
+      "primary_county": "Greenup",
+      "population": 1501,
+      "area_sq_mi": 1.2,
+      "incorporated": "1920"
+    },
+    {
+      "name": "Worthington Hills",
+      "primary_county": "Jefferson",
+      "population": 1563,
+      "area_sq_mi": 0.3,
+      "incorporated": "1980"
+    },
+    {
+      "name": "Worthville",
+      "primary_county": "Carroll",
+      "population": 181,
+      "area_sq_mi": 0.3,
+      "incorporated": "1878"
+    },
+    {
+      "name": "Wurtland",
+      "primary_county": "Greenup",
+      "population": 983,
+      "area_sq_mi": 1.8,
+      "incorporated": "1970"
+    }
+  ]
+}

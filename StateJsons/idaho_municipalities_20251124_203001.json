@@ -1,0 +1,1060 @@
+{
+  "metadata": {
+    "state": "Idaho",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_in_Idaho",
+    "scraped_at": "2025-11-24 20:30:01",
+    "scraper_version": "2.0_generic",
+    "description": "Idaho municipalities scraped from Wikipedia",
+    "total_municipalities": 199,
+    "statistics": {
+      "total_found": 199,
+      "with_population": 0,
+      "with_counties": 199,
+      "unique_counties": 44,
+      "population_stats": {}
+    },
+    "counties": [
+      "Ada",
+      "Adams",
+      "Bannock",
+      "Bear Lake",
+      "Benewah",
+      "Bingham",
+      "Blaine",
+      "Boise",
+      "Bonner",
+      "Bonneville",
+      "Boundary",
+      "Butte",
+      "Camas",
+      "Canyon",
+      "Caribou",
+      "Cassia",
+      "Clark",
+      "Clearwater",
+      "Custer",
+      "Elmore",
+      "Franklin",
+      "Fremont",
+      "Gem",
+      "Gooding",
+      "Idaho",
+      "Jefferson",
+      "Jerome",
+      "Kootenai",
+      "Latah",
+      "Lemhi",
+      "Lewis",
+      "Lincoln",
+      "Madison",
+      "Minidoka",
+      "Nez Perce",
+      "Oneida",
+      "Owyhee",
+      "Payette",
+      "Power",
+      "Shoshone",
+      "Teton",
+      "Twin Falls",
+      "Valley",
+      "Washington"
+    ]
+  },
+  "municipalities": [
+    {
+      "rank": 1,
+      "name": "Boise ††",
+      "primary_county": "Ada"
+    },
+    {
+      "rank": 2,
+      "name": "Meridian",
+      "primary_county": "Ada"
+    },
+    {
+      "rank": 3,
+      "name": "Nampa",
+      "primary_county": "Canyon"
+    },
+    {
+      "rank": 4,
+      "name": "Idaho Falls †",
+      "primary_county": "Bonneville"
+    },
+    {
+      "rank": 5,
+      "name": "Caldwell †",
+      "primary_county": "Canyon"
+    },
+    {
+      "rank": 6,
+      "name": "Pocatello †",
+      "primary_county": "Bannock"
+    },
+    {
+      "rank": 7,
+      "name": "Coeur d'Alene †",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 8,
+      "name": "Twin Falls †",
+      "primary_county": "Twin Falls"
+    },
+    {
+      "rank": 9,
+      "name": "Rexburg †",
+      "primary_county": "Madison"
+    },
+    {
+      "rank": 10,
+      "name": "Post Falls",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 11,
+      "name": "Lewiston †",
+      "primary_county": "Nez Perce"
+    },
+    {
+      "rank": 12,
+      "name": "Eagle",
+      "primary_county": "Ada"
+    },
+    {
+      "rank": 13,
+      "name": "Moscow †",
+      "primary_county": "Latah"
+    },
+    {
+      "rank": 14,
+      "name": "Kuna",
+      "primary_county": "Ada"
+    },
+    {
+      "rank": 15,
+      "name": "Ammon",
+      "primary_county": "Bonneville"
+    },
+    {
+      "rank": 16,
+      "name": "Mountain Home †",
+      "primary_county": "Elmore"
+    },
+    {
+      "rank": 17,
+      "name": "Chubbuck",
+      "primary_county": "Bannock"
+    },
+    {
+      "rank": 18,
+      "name": "Hayden",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 19,
+      "name": "Jerome †",
+      "primary_county": "Jerome"
+    },
+    {
+      "rank": 20,
+      "name": "Blackfoot †",
+      "primary_county": "Bingham"
+    },
+    {
+      "rank": 21,
+      "name": "Garden City",
+      "primary_county": "Ada"
+    },
+    {
+      "rank": 22,
+      "name": "Burley †",
+      "primary_county": "Cassia"
+    },
+    {
+      "rank": 23,
+      "name": "Star",
+      "primary_county": "Ada"
+    },
+    {
+      "rank": 24,
+      "name": "Middleton",
+      "primary_county": "Canyon"
+    },
+    {
+      "rank": 25,
+      "name": "Rathdrum",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 26,
+      "name": "Hailey †",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 27,
+      "name": "Sandpoint †",
+      "primary_county": "Bonner"
+    },
+    {
+      "rank": 28,
+      "name": "Payette †",
+      "primary_county": "Payette"
+    },
+    {
+      "rank": 29,
+      "name": "Emmett †",
+      "primary_county": "Gem"
+    },
+    {
+      "rank": 30,
+      "name": "Rupert †",
+      "primary_county": "Minidoka"
+    },
+    {
+      "rank": 31,
+      "name": "Fruitland",
+      "primary_county": "Payette"
+    },
+    {
+      "rank": 32,
+      "name": "Weiser †",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 33,
+      "name": "Preston †",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 34,
+      "name": "Rigby †",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 35,
+      "name": "Shelley",
+      "primary_county": "Bingham"
+    },
+    {
+      "rank": 36,
+      "name": "Kimberly",
+      "primary_county": "Twin Falls"
+    },
+    {
+      "rank": 37,
+      "name": "American Falls †",
+      "primary_county": "Power"
+    },
+    {
+      "rank": 38,
+      "name": "Buhl",
+      "primary_county": "Twin Falls"
+    },
+    {
+      "rank": 39,
+      "name": "Gooding †",
+      "primary_county": "Gooding"
+    },
+    {
+      "rank": 40,
+      "name": "Heyburn",
+      "primary_county": "Minidoka"
+    },
+    {
+      "rank": 41,
+      "name": "McCall",
+      "primary_county": "Valley"
+    },
+    {
+      "rank": 42,
+      "name": "St. Anthony †",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 43,
+      "name": "Ketchum",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 44,
+      "name": "Grangeville †",
+      "primary_county": "Idaho"
+    },
+    {
+      "rank": 45,
+      "name": "Orofino †",
+      "primary_county": "Clearwater"
+    },
+    {
+      "rank": 46,
+      "name": "Soda Springs †",
+      "primary_county": "Caribou"
+    },
+    {
+      "rank": 47,
+      "name": "Salmon †",
+      "primary_county": "Lemhi"
+    },
+    {
+      "rank": 48,
+      "name": "Wendell",
+      "primary_county": "Gooding"
+    },
+    {
+      "rank": 49,
+      "name": "Homedale",
+      "primary_county": "Owyhee"
+    },
+    {
+      "rank": 50,
+      "name": "Filer",
+      "primary_county": "Twin Falls"
+    },
+    {
+      "rank": 51,
+      "name": "Iona",
+      "primary_county": "Bonneville"
+    },
+    {
+      "rank": 52,
+      "name": "Montpelier",
+      "primary_county": "Bear Lake"
+    },
+    {
+      "rank": 53,
+      "name": "Bellevue",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 54,
+      "name": "Dalton Gardens",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 55,
+      "name": "Bonners Ferry †",
+      "primary_county": "Boundary"
+    },
+    {
+      "rank": 56,
+      "name": "St. Maries †",
+      "primary_county": "Benewah"
+    },
+    {
+      "rank": 57,
+      "name": "Spirit Lake",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 58,
+      "name": "Kellogg",
+      "primary_county": "Shoshone"
+    },
+    {
+      "rank": 59,
+      "name": "Malad City †",
+      "primary_county": "Oneida"
+    },
+    {
+      "rank": 60,
+      "name": "Victor",
+      "primary_county": "Teton"
+    },
+    {
+      "rank": 61,
+      "name": "Parma",
+      "primary_county": "Canyon"
+    },
+    {
+      "rank": 62,
+      "name": "Driggs †",
+      "primary_county": "Teton"
+    },
+    {
+      "rank": 63,
+      "name": "Sun Valley",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 64,
+      "name": "Aberdeen",
+      "primary_county": "Bingham"
+    },
+    {
+      "rank": 65,
+      "name": "Sugar City",
+      "primary_county": "Madison"
+    },
+    {
+      "rank": 66,
+      "name": "Priest River",
+      "primary_county": "Bonner"
+    },
+    {
+      "rank": 67,
+      "name": "Pinehurst",
+      "primary_county": "Shoshone"
+    },
+    {
+      "rank": 68,
+      "name": "Shoshone †",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 69,
+      "name": "Wilder",
+      "primary_county": "Canyon"
+    },
+    {
+      "rank": 70,
+      "name": "Osburn",
+      "primary_county": "Shoshone"
+    },
+    {
+      "rank": 71,
+      "name": "New Plymouth",
+      "primary_county": "Payette"
+    },
+    {
+      "rank": 72,
+      "name": "Ponderay",
+      "primary_county": "Bonner"
+    },
+    {
+      "rank": 73,
+      "name": "Glenns Ferry",
+      "primary_county": "Elmore"
+    },
+    {
+      "rank": 74,
+      "name": "Marsing",
+      "primary_county": "Owyhee"
+    },
+    {
+      "rank": 75,
+      "name": "Paul",
+      "primary_county": "Minidoka"
+    },
+    {
+      "rank": 76,
+      "name": "Lapwai",
+      "primary_county": "Nez Perce"
+    },
+    {
+      "rank": 77,
+      "name": "Ucon",
+      "primary_county": "Bonneville"
+    },
+    {
+      "rank": 78,
+      "name": "Kamiah",
+      "primary_county": "Lewis"
+    },
+    {
+      "rank": 79,
+      "name": "Hansen",
+      "primary_county": "Twin Falls"
+    },
+    {
+      "rank": 80,
+      "name": "Genesee",
+      "primary_county": "Latah"
+    },
+    {
+      "rank": 81,
+      "name": "Franklin",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 82,
+      "name": "Plummer",
+      "primary_county": "Benewah"
+    },
+    {
+      "rank": 83,
+      "name": "Cascade †",
+      "primary_county": "Valley"
+    },
+    {
+      "rank": 84,
+      "name": "Hagerman",
+      "primary_county": "Gooding"
+    },
+    {
+      "rank": 85,
+      "name": "Ashton",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 86,
+      "name": "Kootenai",
+      "primary_county": "Bonner"
+    },
+    {
+      "rank": 87,
+      "name": "Grace",
+      "primary_county": "Caribou"
+    },
+    {
+      "rank": 88,
+      "name": "Challis †",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 89,
+      "name": "Troy",
+      "primary_county": "Latah"
+    },
+    {
+      "rank": 90,
+      "name": "Arco †",
+      "primary_county": "Butte"
+    },
+    {
+      "rank": 91,
+      "name": "Council †",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 92,
+      "name": "McCammon",
+      "primary_county": "Bannock"
+    },
+    {
+      "rank": 93,
+      "name": "Cottonwood",
+      "primary_county": "Idaho"
+    },
+    {
+      "rank": 94,
+      "name": "Moyie Springs",
+      "primary_county": "Boundary"
+    },
+    {
+      "rank": 95,
+      "name": "Greenleaf",
+      "primary_county": "Canyon"
+    },
+    {
+      "rank": 96,
+      "name": "Hazelton",
+      "primary_county": "Jerome"
+    },
+    {
+      "rank": 97,
+      "name": "Inkom",
+      "primary_county": "Bannock"
+    },
+    {
+      "rank": 98,
+      "name": "Wallace †",
+      "primary_county": "Shoshone"
+    },
+    {
+      "rank": 99,
+      "name": "Teton",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 100,
+      "name": "Oakley",
+      "primary_county": "Cassia"
+    },
+    {
+      "rank": 101,
+      "name": "Potlatch",
+      "primary_county": "Latah"
+    },
+    {
+      "rank": 102,
+      "name": "Hauser",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 103,
+      "name": "Dover",
+      "primary_county": "Bonner"
+    },
+    {
+      "rank": 104,
+      "name": "Horseshoe Bend",
+      "primary_county": "Boise"
+    },
+    {
+      "rank": 105,
+      "name": "Menan",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 106,
+      "name": "Athol",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 107,
+      "name": "Carey",
+      "primary_county": "Blaine"
+    },
+    {
+      "rank": 108,
+      "name": "Smelterville",
+      "primary_county": "Shoshone"
+    },
+    {
+      "rank": 109,
+      "name": "Ririe",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 110,
+      "name": "Hayden Lake",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 111,
+      "name": "Mullan",
+      "primary_county": "Shoshone"
+    },
+    {
+      "rank": 112,
+      "name": "Juliaetta",
+      "primary_county": "Latah"
+    },
+    {
+      "rank": 113,
+      "name": "Notus",
+      "primary_county": "Canyon"
+    },
+    {
+      "rank": 114,
+      "name": "Melba",
+      "primary_county": "Canyon"
+    },
+    {
+      "rank": 115,
+      "name": "Downey",
+      "primary_county": "Bannock"
+    },
+    {
+      "rank": 116,
+      "name": "Paris †",
+      "primary_county": "Bear Lake"
+    },
+    {
+      "rank": 117,
+      "name": "Firth",
+      "primary_county": "Bingham"
+    },
+    {
+      "rank": 118,
+      "name": "New Meadows",
+      "primary_county": "Adams"
+    },
+    {
+      "rank": 119,
+      "name": "Kooskia",
+      "primary_county": "Idaho"
+    },
+    {
+      "rank": 120,
+      "name": "Clark Fork",
+      "primary_county": "Bonner"
+    },
+    {
+      "rank": 121,
+      "name": "Dubois †",
+      "primary_county": "Clark"
+    },
+    {
+      "rank": 122,
+      "name": "Weston",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 123,
+      "name": "Dayton",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 124,
+      "name": "Deary",
+      "primary_county": "Latah"
+    },
+    {
+      "rank": 125,
+      "name": "Georgetown",
+      "primary_county": "Bear Lake"
+    },
+    {
+      "rank": 126,
+      "name": "Roberts",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 127,
+      "name": "Pierce",
+      "primary_county": "Clearwater"
+    },
+    {
+      "rank": 128,
+      "name": "Idaho City †",
+      "primary_county": "Boise"
+    },
+    {
+      "rank": 129,
+      "name": "Craigmont",
+      "primary_county": "Lewis"
+    },
+    {
+      "rank": 130,
+      "name": "Nezperce †",
+      "primary_county": "Lewis"
+    },
+    {
+      "rank": 131,
+      "name": "Fairfield †",
+      "primary_county": "Camas"
+    },
+    {
+      "rank": 132,
+      "name": "Grand View",
+      "primary_county": "Owyhee"
+    },
+    {
+      "rank": 133,
+      "name": "Mackay",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 134,
+      "name": "Richfield",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 135,
+      "name": "Lewisville",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 136,
+      "name": "Clifton",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 137,
+      "name": "Culdesac",
+      "primary_county": "Nez Perce"
+    },
+    {
+      "rank": 138,
+      "name": "Weippe",
+      "primary_county": "Clearwater"
+    },
+    {
+      "rank": 139,
+      "name": "Eden",
+      "primary_county": "Jerome"
+    },
+    {
+      "rank": 140,
+      "name": "Riggins",
+      "primary_county": "Idaho"
+    },
+    {
+      "rank": 141,
+      "name": "Lava Hot Springs",
+      "primary_county": "Bannock"
+    },
+    {
+      "rank": 142,
+      "name": "Basalt",
+      "primary_county": "Bingham"
+    },
+    {
+      "rank": 143,
+      "name": "Winchester",
+      "primary_county": "Lewis"
+    },
+    {
+      "rank": 144,
+      "name": "Arimo",
+      "primary_county": "Bannock"
+    },
+    {
+      "rank": 145,
+      "name": "Declo",
+      "primary_county": "Cassia"
+    },
+    {
+      "rank": 146,
+      "name": "Newdale",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 147,
+      "name": "Cambridge",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 148,
+      "name": "Mud Lake",
+      "primary_county": "Jefferson"
+    },
+    {
+      "rank": 149,
+      "name": "Tetonia",
+      "primary_county": "Teton"
+    },
+    {
+      "rank": 150,
+      "name": "Parker",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 151,
+      "name": "Bancroft",
+      "primary_county": "Caribou"
+    },
+    {
+      "rank": 152,
+      "name": "Kendrick",
+      "primary_county": "Latah"
+    },
+    {
+      "rank": 153,
+      "name": "Dietrich",
+      "primary_county": "Lincoln"
+    },
+    {
+      "rank": 154,
+      "name": "Irwin",
+      "primary_county": "Bonneville"
+    },
+    {
+      "rank": 155,
+      "name": "Bliss",
+      "primary_county": "Gooding"
+    },
+    {
+      "rank": 156,
+      "name": "Worley",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 157,
+      "name": "Donnelly",
+      "primary_county": "Valley"
+    },
+    {
+      "rank": 158,
+      "name": "Hollister",
+      "primary_county": "Twin Falls"
+    },
+    {
+      "rank": 159,
+      "name": "Rockland",
+      "primary_county": "Power"
+    },
+    {
+      "rank": 160,
+      "name": "Albion",
+      "primary_county": "Cassia"
+    },
+    {
+      "rank": 161,
+      "name": "Harrison",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 162,
+      "name": "East Hope",
+      "primary_county": "Bonner"
+    },
+    {
+      "rank": 163,
+      "name": "Swan Valley",
+      "primary_county": "Bonneville"
+    },
+    {
+      "rank": 164,
+      "name": "Oldtown",
+      "primary_county": "Bonner"
+    },
+    {
+      "rank": 165,
+      "name": "Castleford",
+      "primary_county": "Twin Falls"
+    },
+    {
+      "rank": 166,
+      "name": "Bloomington",
+      "primary_county": "Bear Lake"
+    },
+    {
+      "rank": 167,
+      "name": "Onaway",
+      "primary_county": "Latah"
+    },
+    {
+      "rank": 168,
+      "name": "Island Park",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 169,
+      "name": "Midvale",
+      "primary_county": "Washington"
+    },
+    {
+      "rank": 170,
+      "name": "Wardner",
+      "primary_county": "Shoshone"
+    },
+    {
+      "rank": 171,
+      "name": "Bovill",
+      "primary_county": "Latah"
+    },
+    {
+      "rank": 172,
+      "name": "Stites",
+      "primary_county": "Idaho"
+    },
+    {
+      "rank": 173,
+      "name": "Malta",
+      "primary_county": "Cassia"
+    },
+    {
+      "rank": 174,
+      "name": "Peck",
+      "primary_county": "Nez Perce"
+    },
+    {
+      "rank": 175,
+      "name": "Fernan Lake Village",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 176,
+      "name": "Moore",
+      "primary_county": "Butte"
+    },
+    {
+      "rank": 177,
+      "name": "St. Charles",
+      "primary_county": "Bear Lake"
+    },
+    {
+      "rank": 178,
+      "name": "Crouch",
+      "primary_county": "Boise"
+    },
+    {
+      "rank": 179,
+      "name": "Elk River",
+      "primary_county": "Clearwater"
+    },
+    {
+      "rank": 180,
+      "name": "Ferdinand",
+      "primary_county": "Idaho"
+    },
+    {
+      "rank": 181,
+      "name": "Acequia",
+      "primary_county": "Minidoka"
+    },
+    {
+      "rank": 182,
+      "name": "Stanley",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 183,
+      "name": "Murtaugh",
+      "primary_county": "Twin Falls"
+    },
+    {
+      "rank": 184,
+      "name": "Huetter",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 185,
+      "name": "Hope",
+      "primary_county": "Bonner"
+    },
+    {
+      "rank": 186,
+      "name": "Leadore",
+      "primary_county": "Lemhi"
+    },
+    {
+      "rank": 187,
+      "name": "Minidoka",
+      "primary_county": "Minidoka"
+    },
+    {
+      "rank": 188,
+      "name": "Tensed",
+      "primary_county": "Benewah"
+    },
+    {
+      "rank": 189,
+      "name": "White Bird",
+      "primary_county": "Idaho"
+    },
+    {
+      "rank": 190,
+      "name": "Butte City",
+      "primary_county": "Butte"
+    },
+    {
+      "rank": 191,
+      "name": "Placerville",
+      "primary_county": "Boise"
+    },
+    {
+      "rank": 192,
+      "name": "Reubens",
+      "primary_county": "Lewis"
+    },
+    {
+      "rank": 193,
+      "name": "Lost River",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 194,
+      "name": "Oxford",
+      "primary_county": "Franklin"
+    },
+    {
+      "rank": 195,
+      "name": "State Line",
+      "primary_county": "Kootenai"
+    },
+    {
+      "rank": 196,
+      "name": "Spencer",
+      "primary_county": "Clark"
+    },
+    {
+      "rank": 197,
+      "name": "Drummond",
+      "primary_county": "Fremont"
+    },
+    {
+      "rank": 198,
+      "name": "Clayton",
+      "primary_county": "Custer"
+    },
+    {
+      "rank": 199,
+      "name": "Warm River",
+      "primary_county": "Fremont"
+    }
+  ]
+}

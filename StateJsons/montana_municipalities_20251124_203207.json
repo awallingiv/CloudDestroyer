@@ -1,0 +1,737 @@
+{
+  "metadata": {
+    "state": "Montana",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Montana",
+    "scraped_at": "2025-11-24 20:32:07",
+    "scraper_version": "2.0_generic",
+    "description": "Montana municipalities scraped from Wikipedia",
+    "total_municipalities": 132,
+    "statistics": {
+      "total_found": 132,
+      "with_population": 0,
+      "with_counties": 131,
+      "unique_counties": 57,
+      "population_stats": {}
+    },
+    "counties": [
+      "Beaverhead",
+      "Big Horn",
+      "Blaine",
+      "Broadwater",
+      "Carbon",
+      "Carter",
+      "Cascade",
+      "Chouteau",
+      "Custer",
+      "Daniels",
+      "Dawson",
+      "Deer Lodge",
+      "Fallon",
+      "Fergus",
+      "Flathead",
+      "Gallatin",
+      "Garfield",
+      "Glacier",
+      "Golden Valley",
+      "Granite",
+      "Hill",
+      "Jefferson",
+      "Judith Basin",
+      "Lake",
+      "Lewis and Clark",
+      "Liberty",
+      "Lincoln",
+      "Madison",
+      "McCone",
+      "Meagher",
+      "Mineral",
+      "Missoula",
+      "Musselshell",
+      "Park",
+      "Petroleum",
+      "Phillips",
+      "Pondera",
+      "Powder River",
+      "Powell",
+      "Prairie",
+      "Ravalli",
+      "Richland",
+      "Roosevelt",
+      "Rosebud",
+      "Sanders",
+      "Sheridan",
+      "Silver Bow",
+      "Stillwater",
+      "Sweet Grass",
+      "Teton",
+      "Toole",
+      "Treasure",
+      "Valley",
+      "Wheatland",
+      "Wibaux",
+      "Yellowstone",
+      "—"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi",
+      "designation": "km2"
+    },
+    {
+      "name": "Alberton",
+      "designation": "Town",
+      "primary_county": "Mineral"
+    },
+    {
+      "name": "Anaconda†",
+      "designation": "Consolidated city-county",
+      "primary_county": "Deer Lodge"
+    },
+    {
+      "name": "Bainville",
+      "designation": "Town",
+      "primary_county": "Roosevelt"
+    },
+    {
+      "name": "Baker†",
+      "designation": "City",
+      "primary_county": "Fallon"
+    },
+    {
+      "name": "Bearcreek",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "name": "Belgrade",
+      "designation": "City",
+      "primary_county": "Gallatin"
+    },
+    {
+      "name": "Belt",
+      "designation": "Town",
+      "primary_county": "Cascade"
+    },
+    {
+      "name": "Big Sandy",
+      "designation": "Town",
+      "primary_county": "Chouteau"
+    },
+    {
+      "name": "Big Timber†",
+      "designation": "City",
+      "primary_county": "Sweet Grass"
+    },
+    {
+      "name": "Billings†",
+      "designation": "City",
+      "primary_county": "Yellowstone"
+    },
+    {
+      "name": "Boulder†",
+      "designation": "Town",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Bozeman†",
+      "designation": "City",
+      "primary_county": "Gallatin"
+    },
+    {
+      "name": "Bridger",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "name": "Broadus†",
+      "designation": "Town",
+      "primary_county": "Powder River"
+    },
+    {
+      "name": "Broadview",
+      "designation": "Town",
+      "primary_county": "Yellowstone"
+    },
+    {
+      "name": "Browning",
+      "designation": "Town",
+      "primary_county": "Glacier"
+    },
+    {
+      "name": "Butte†",
+      "designation": "Consolidated city-county",
+      "primary_county": "Silver Bow"
+    },
+    {
+      "name": "Cascade",
+      "designation": "Town",
+      "primary_county": "Cascade"
+    },
+    {
+      "name": "Chester†",
+      "designation": "Town",
+      "primary_county": "Liberty"
+    },
+    {
+      "name": "Chinook†",
+      "designation": "City",
+      "primary_county": "Blaine"
+    },
+    {
+      "name": "Choteau†",
+      "designation": "City",
+      "primary_county": "Teton"
+    },
+    {
+      "name": "Circle†",
+      "designation": "Town",
+      "primary_county": "McCone"
+    },
+    {
+      "name": "Clyde Park",
+      "designation": "Town",
+      "primary_county": "Park"
+    },
+    {
+      "name": "Colstrip",
+      "designation": "City",
+      "primary_county": "Rosebud"
+    },
+    {
+      "name": "Columbia Falls",
+      "designation": "City",
+      "primary_county": "Flathead"
+    },
+    {
+      "name": "Columbus†",
+      "designation": "Town",
+      "primary_county": "Stillwater"
+    },
+    {
+      "name": "Conrad†",
+      "designation": "City",
+      "primary_county": "Pondera"
+    },
+    {
+      "name": "Culbertson",
+      "designation": "Town",
+      "primary_county": "Roosevelt"
+    },
+    {
+      "name": "Cut Bank†",
+      "designation": "City",
+      "primary_county": "Glacier"
+    },
+    {
+      "name": "Darby",
+      "designation": "Town",
+      "primary_county": "Ravalli"
+    },
+    {
+      "name": "Deer Lodge†",
+      "designation": "City",
+      "primary_county": "Powell"
+    },
+    {
+      "name": "Denton",
+      "designation": "Town",
+      "primary_county": "Fergus"
+    },
+    {
+      "name": "Dillon†",
+      "designation": "City",
+      "primary_county": "Beaverhead"
+    },
+    {
+      "name": "Dodson",
+      "designation": "Town",
+      "primary_county": "Phillips"
+    },
+    {
+      "name": "Drummond",
+      "designation": "Town",
+      "primary_county": "Granite"
+    },
+    {
+      "name": "Dutton",
+      "designation": "Town",
+      "primary_county": "Teton"
+    },
+    {
+      "name": "East Helena",
+      "designation": "City",
+      "primary_county": "Lewis and Clark"
+    },
+    {
+      "name": "Ekalaka†",
+      "designation": "Town",
+      "primary_county": "Carter"
+    },
+    {
+      "name": "Ennis",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Eureka",
+      "designation": "Town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Fairfield",
+      "designation": "Town",
+      "primary_county": "Teton"
+    },
+    {
+      "name": "Fairview",
+      "designation": "Town",
+      "primary_county": "Richland"
+    },
+    {
+      "name": "Flaxville",
+      "designation": "Town",
+      "primary_county": "Daniels"
+    },
+    {
+      "name": "Forsyth†",
+      "designation": "City",
+      "primary_county": "Rosebud"
+    },
+    {
+      "name": "Fort Benton†",
+      "designation": "City",
+      "primary_county": "Chouteau"
+    },
+    {
+      "name": "Fort Peck",
+      "designation": "Town",
+      "primary_county": "Valley"
+    },
+    {
+      "name": "Froid",
+      "designation": "Town",
+      "primary_county": "Roosevelt"
+    },
+    {
+      "name": "Fromberg",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "name": "Geraldine",
+      "designation": "Town",
+      "primary_county": "Chouteau"
+    },
+    {
+      "name": "Glasgow†",
+      "designation": "City",
+      "primary_county": "Valley"
+    },
+    {
+      "name": "Glendive†",
+      "designation": "City",
+      "primary_county": "Dawson"
+    },
+    {
+      "name": "Grass Range",
+      "designation": "Town",
+      "primary_county": "Fergus"
+    },
+    {
+      "name": "Great Falls†",
+      "designation": "City",
+      "primary_county": "Cascade"
+    },
+    {
+      "name": "Hamilton†",
+      "designation": "City",
+      "primary_county": "Ravalli"
+    },
+    {
+      "name": "Hardin†",
+      "designation": "City",
+      "primary_county": "Big Horn"
+    },
+    {
+      "name": "Harlem",
+      "designation": "City",
+      "primary_county": "Blaine"
+    },
+    {
+      "name": "Harlowton†",
+      "designation": "City",
+      "primary_county": "Wheatland"
+    },
+    {
+      "name": "Havre†",
+      "designation": "City",
+      "primary_county": "Hill"
+    },
+    {
+      "name": "Helena‡",
+      "designation": "City",
+      "primary_county": "Lewis and Clark"
+    },
+    {
+      "name": "Hingham",
+      "designation": "Town",
+      "primary_county": "Hill"
+    },
+    {
+      "name": "Hobson",
+      "designation": "City",
+      "primary_county": "Judith Basin"
+    },
+    {
+      "name": "Hot Springs",
+      "designation": "Town",
+      "primary_county": "Sanders"
+    },
+    {
+      "name": "Hysham†",
+      "designation": "Town",
+      "primary_county": "Treasure"
+    },
+    {
+      "name": "Ismay",
+      "designation": "Town",
+      "primary_county": "Custer"
+    },
+    {
+      "name": "Joliet",
+      "designation": "Town",
+      "primary_county": "Carbon"
+    },
+    {
+      "name": "Jordan†",
+      "designation": "Town",
+      "primary_county": "Garfield"
+    },
+    {
+      "name": "Judith Gap",
+      "designation": "City",
+      "primary_county": "Wheatland"
+    },
+    {
+      "name": "Kalispell†",
+      "designation": "City",
+      "primary_county": "Flathead"
+    },
+    {
+      "name": "Kevin",
+      "designation": "Town",
+      "primary_county": "Toole"
+    },
+    {
+      "name": "Laurel",
+      "designation": "City",
+      "primary_county": "Yellowstone"
+    },
+    {
+      "name": "Lavina",
+      "designation": "Town",
+      "primary_county": "Golden Valley"
+    },
+    {
+      "name": "Lewistown†",
+      "designation": "City",
+      "primary_county": "Fergus"
+    },
+    {
+      "name": "Libby†",
+      "designation": "City",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Lima",
+      "designation": "Town",
+      "primary_county": "Beaverhead"
+    },
+    {
+      "name": "Livingston†",
+      "designation": "City",
+      "primary_county": "Park"
+    },
+    {
+      "name": "Lodge Grass",
+      "designation": "Town",
+      "primary_county": "Big Horn"
+    },
+    {
+      "name": "Malta†",
+      "designation": "City",
+      "primary_county": "Phillips"
+    },
+    {
+      "name": "Manhattan",
+      "designation": "Town",
+      "primary_county": "Gallatin"
+    },
+    {
+      "name": "Medicine Lake",
+      "designation": "Town",
+      "primary_county": "Sheridan"
+    },
+    {
+      "name": "Melstone",
+      "designation": "Town",
+      "primary_county": "Musselshell"
+    },
+    {
+      "name": "Miles City†",
+      "designation": "City",
+      "primary_county": "Custer"
+    },
+    {
+      "name": "Missoula†",
+      "designation": "City",
+      "primary_county": "Missoula"
+    },
+    {
+      "name": "Moore",
+      "designation": "Town",
+      "primary_county": "Fergus"
+    },
+    {
+      "name": "Nashua",
+      "designation": "Town",
+      "primary_county": "Valley"
+    },
+    {
+      "name": "Neihart",
+      "designation": "Town",
+      "primary_county": "Cascade"
+    },
+    {
+      "name": "Opheim",
+      "designation": "Town",
+      "primary_county": "Valley"
+    },
+    {
+      "name": "Outlook",
+      "designation": "Town",
+      "primary_county": "Sheridan"
+    },
+    {
+      "name": "Philipsburg†",
+      "designation": "Town",
+      "primary_county": "Granite"
+    },
+    {
+      "name": "Pinesdale",
+      "designation": "Town",
+      "primary_county": "Ravalli"
+    },
+    {
+      "name": "Plains",
+      "designation": "Town",
+      "primary_county": "Sanders"
+    },
+    {
+      "name": "Plentywood†",
+      "designation": "City",
+      "primary_county": "Sheridan"
+    },
+    {
+      "name": "Plevna",
+      "designation": "Town",
+      "primary_county": "Fallon"
+    },
+    {
+      "name": "Polson†",
+      "designation": "City",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Poplar",
+      "designation": "City",
+      "primary_county": "Roosevelt"
+    },
+    {
+      "name": "Red Lodge†",
+      "designation": "City",
+      "primary_county": "Carbon"
+    },
+    {
+      "name": "Rexford",
+      "designation": "Town",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Richey",
+      "designation": "Town",
+      "primary_county": "Dawson"
+    },
+    {
+      "name": "Ronan",
+      "designation": "City",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Roundup†",
+      "designation": "City",
+      "primary_county": "Musselshell"
+    },
+    {
+      "name": "Ryegate†",
+      "designation": "Town",
+      "primary_county": "Golden Valley"
+    },
+    {
+      "name": "Saco",
+      "designation": "Town",
+      "primary_county": "Phillips"
+    },
+    {
+      "name": "Scobey†",
+      "designation": "City",
+      "primary_county": "Daniels"
+    },
+    {
+      "name": "Shelby†",
+      "designation": "City",
+      "primary_county": "Toole"
+    },
+    {
+      "name": "Sheridan",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Sidney†",
+      "designation": "City",
+      "primary_county": "Richland"
+    },
+    {
+      "name": "St. Ignatius",
+      "designation": "Town",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Stanford†",
+      "designation": "Town",
+      "primary_county": "Judith Basin"
+    },
+    {
+      "name": "Stevensville",
+      "designation": "Town",
+      "primary_county": "Ravalli"
+    },
+    {
+      "name": "Sunburst",
+      "designation": "Town",
+      "primary_county": "Toole"
+    },
+    {
+      "name": "Superior†",
+      "designation": "Town",
+      "primary_county": "Mineral"
+    },
+    {
+      "name": "Terry†",
+      "designation": "Town",
+      "primary_county": "Prairie"
+    },
+    {
+      "name": "Thompson Falls†",
+      "designation": "City",
+      "primary_county": "Sanders"
+    },
+    {
+      "name": "Three Forks",
+      "designation": "City",
+      "primary_county": "Gallatin"
+    },
+    {
+      "name": "Townsend†",
+      "designation": "City",
+      "primary_county": "Broadwater"
+    },
+    {
+      "name": "Troy",
+      "designation": "City",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Twin Bridges",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Valier",
+      "designation": "Town",
+      "primary_county": "Pondera"
+    },
+    {
+      "name": "Virginia City†",
+      "designation": "Town",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Walkerville",
+      "designation": "Town",
+      "primary_county": "Silver Bow"
+    },
+    {
+      "name": "West Yellowstone",
+      "designation": "Town",
+      "primary_county": "Gallatin"
+    },
+    {
+      "name": "Westby",
+      "designation": "Town",
+      "primary_county": "Sheridan"
+    },
+    {
+      "name": "White Sulphur Springs†",
+      "designation": "City",
+      "primary_county": "Meagher"
+    },
+    {
+      "name": "Whitefish",
+      "designation": "City",
+      "primary_county": "Flathead"
+    },
+    {
+      "name": "Whitehall",
+      "designation": "Town",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Wibaux†",
+      "designation": "Town",
+      "primary_county": "Wibaux"
+    },
+    {
+      "name": "Winifred",
+      "designation": "Town",
+      "primary_county": "Fergus"
+    },
+    {
+      "name": "Winnett†",
+      "designation": "Town",
+      "primary_county": "Petroleum"
+    },
+    {
+      "name": "Wolf Point†",
+      "designation": "City",
+      "primary_county": "Roosevelt"
+    },
+    {
+      "name": "Total towns",
+      "designation": "76",
+      "primary_county": "—"
+    },
+    {
+      "name": "Total cities",
+      "designation": "53",
+      "primary_county": "—"
+    },
+    {
+      "name": "Total",
+      "designation": "129",
+      "primary_county": "—"
+    }
+  ]
+}

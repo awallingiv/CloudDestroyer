@@ -1,0 +1,50 @@
+# CloudDestroyer FastAPI Web Service - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core FastAPI framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# HTTP client for webhooks and external requests
+httpx==0.25.2
+
+# Database connectivity (SQL Server)
+pyodbc==5.0.1
+
+# Optional: Rate limiting
+slowapi==0.1.9
+
+# Core Cloudflare bypass libraries
+cloudscraper>=1.2.71
+requests>=2.31.0
+requests-html>=0.10.0
+
+# Browser automation for advanced bypass
+selenium>=4.15.0
+undetected-chromedriver>=3.5.4
+playwright>=1.40.0
+
+# Stealth and fingerprinting
+fake-useragent>=1.4.0
+user-agents>=2.2.0
+tls-client>=0.2.2
+
+# HTML parsing and processing  
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+selectolax>=0.3.17
+
+# Utilities
+pydantic>=2.5.0
+tenacity>=8.2.3
+tqdm>=4.66.1
+colorama>=0.4.6
+loguru>=0.7.2
+
+# Optional advanced features
+opencv-python>=4.8.1.78  # For CAPTCHA solving
+Pillow>=10.1.0            # Image processing
+
+# Development dependencies (optional)
+# pytest==7.4.3
+# pytest-asyncio==0.21.1

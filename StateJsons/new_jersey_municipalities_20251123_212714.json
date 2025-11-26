@@ -1,0 +1,3639 @@
+{
+  "metadata": {
+    "state": "New Jersey",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_New_Jersey",
+    "scraped_at": "2025-11-23 21:27:14",
+    "scraper_version": "2.0_generic",
+    "description": "New Jersey municipalities scraped from Wikipedia",
+    "total_municipalities": 565,
+    "statistics": {
+      "total_found": 565,
+      "with_population": 564,
+      "with_counties": 564,
+      "unique_counties": 21,
+      "population_stats": {
+        "min": 7,
+        "max": 311549,
+        "average": 16469,
+        "total": 9288994
+      }
+    },
+    "counties": [
+      "Atlantic",
+      "Bergen",
+      "Burlington",
+      "Camden",
+      "Cape May",
+      "Cumberland",
+      "Essex",
+      "Gloucester",
+      "Hudson",
+      "Hunterdon",
+      "Mercer",
+      "Middlesex",
+      "Monmouth",
+      "Morris",
+      "Ocean",
+      "Passaic",
+      "Salem",
+      "Somerset",
+      "Sussex",
+      "Union",
+      "Warren"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi",
+      "designation": "km2"
+    },
+    {
+      "name": "Newark",
+      "designation": "City",
+      "primary_county": "Essex",
+      "population": 311549,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Jersey City",
+      "designation": "City",
+      "primary_county": "Hudson",
+      "population": 292449,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Paterson",
+      "designation": "City",
+      "primary_county": "Passaic",
+      "population": 159732,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Elizabeth",
+      "designation": "City",
+      "primary_county": "Union",
+      "population": 137298,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Lakewood Township",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 135158,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Edison",
+      "designation": "Township",
+      "primary_county": "Middlesex",
+      "population": 107588,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Woodbridge Township",
+      "designation": "Township",
+      "primary_county": "Middlesex",
+      "population": 103639,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Toms River",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 95438,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Hamilton Township",
+      "designation": "Township",
+      "primary_county": "Mercer",
+      "population": 92297,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Trenton",
+      "designation": "City",
+      "primary_county": "Mercer",
+      "population": 90871,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Clifton",
+      "designation": "City",
+      "primary_county": "Passaic",
+      "population": 90296,
+      "incorporated": "1923 Municipal Manager Law"
+    },
+    {
+      "name": "Cherry Hill Township",
+      "designation": "Township",
+      "primary_county": "Camden",
+      "population": 74553,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Brick Township",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 73620,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Camden",
+      "designation": "City",
+      "primary_county": "Camden",
+      "population": 71791,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Bayonne",
+      "designation": "City",
+      "primary_county": "Hudson",
+      "population": 71686,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Passaic",
+      "designation": "City",
+      "primary_county": "Passaic",
+      "population": 70537,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "East Orange",
+      "designation": "City",
+      "primary_county": "Essex",
+      "population": 69612,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Union City",
+      "designation": "City",
+      "primary_county": "Hudson",
+      "population": 68589,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Franklin Township",
+      "designation": "Township",
+      "primary_county": "Somerset",
+      "population": 68364,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Middletown",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 67106,
+      "incorporated": "Special charter (New Jersey)"
+    },
+    {
+      "name": "Old Bridge Township",
+      "designation": "Township",
+      "primary_county": "Middlesex",
+      "population": 66876,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Gloucester Township",
+      "designation": "Township",
+      "primary_county": "Camden",
+      "population": 66034,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "North Bergen",
+      "designation": "Township",
+      "primary_county": "Hudson",
+      "population": 63361,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Irvington",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 61176,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Piscataway",
+      "designation": "Township",
+      "primary_county": "Middlesex",
+      "population": 60804,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Vineland",
+      "designation": "City",
+      "primary_county": "Cumberland",
+      "population": 60780,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Hoboken",
+      "designation": "City",
+      "primary_county": "Hudson",
+      "population": 60419,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Union",
+      "designation": "Township",
+      "primary_county": "Union",
+      "population": 59728,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Jackson Township",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 58544,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Parsippany-Troy Hills",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 56162,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Perth Amboy",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "population": 55436,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "New Brunswick",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "population": 55266,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Wayne",
+      "designation": "Township",
+      "primary_county": "Passaic",
+      "population": 54838,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Plainfield",
+      "designation": "City",
+      "primary_county": "Union",
+      "population": 54586,
+      "incorporated": "Special charter (New Jersey)"
+    },
+    {
+      "name": "Howell",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 53537,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Bloomfield",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 53105,
+      "incorporated": "Special charter (New Jersey)"
+    },
+    {
+      "name": "West New York",
+      "designation": "Town",
+      "primary_county": "Hudson",
+      "population": 52912,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "East Brunswick",
+      "designation": "Township",
+      "primary_county": "Middlesex",
+      "population": 49715,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "West Orange",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 48843,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Washington Township",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 48677,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Monroe Township",
+      "designation": "Township",
+      "primary_county": "Middlesex",
+      "population": 48594,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Egg Harbor Township",
+      "designation": "Township",
+      "primary_county": "Atlantic",
+      "population": 47842,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "South Brunswick",
+      "designation": "Township",
+      "primary_county": "Middlesex",
+      "population": 47043,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Evesham",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 46826,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Hackensack",
+      "designation": "City",
+      "primary_county": "Bergen",
+      "population": 46030,
+      "incorporated": "1923 Municipal Manager Law"
+    },
+    {
+      "name": "Bridgewater Township",
+      "designation": "Township",
+      "primary_county": "Somerset",
+      "population": 45977,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Sayreville",
+      "designation": "Borough",
+      "primary_county": "Middlesex",
+      "population": 45345,
+      "incorporated": "Borough (New Jersey)"
+    },
+    {
+      "name": "Manchester Township",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 45115,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Mount Laurel",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 44633,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "North Brunswick",
+      "designation": "Township",
+      "primary_county": "Middlesex",
+      "population": 43905,
+      "incorporated": "Faulkner Act (mayor–council–administrator)"
+    },
+    {
+      "name": "Berkeley Township",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 43754,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Linden",
+      "designation": "City",
+      "primary_county": "Union",
+      "population": 43738,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Hillsborough Township",
+      "designation": "Township",
+      "primary_county": "Somerset",
+      "population": 43276,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Kearny",
+      "designation": "Town",
+      "primary_county": "Hudson",
+      "population": 41999,
+      "incorporated": "Town (New Jersey)"
+    },
+    {
+      "name": "Marlboro",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 41502,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Teaneck",
+      "designation": "Township",
+      "primary_county": "Bergen",
+      "population": 41246,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Montclair",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 40921,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Manalapan",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 40905,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Fort Lee",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 40191,
+      "incorporated": "Borough (New Jersey)"
+    },
+    {
+      "name": "Winslow Township",
+      "designation": "Township",
+      "primary_county": "Camden",
+      "population": 39907,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Atlantic City",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 38497,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Belleville",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 38222,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Galloway",
+      "designation": "Township",
+      "primary_county": "Atlantic",
+      "population": 37813,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Ewing Township",
+      "designation": "Township",
+      "primary_county": "Mercer",
+      "population": 37264,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Monroe Township",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 37117,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Pennsauken",
+      "designation": "Township",
+      "primary_county": "Camden",
+      "population": 37074,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Freehold Township",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 35369,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Fair Lawn",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 34927,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Orange",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 34447,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Lawrence Township",
+      "designation": "Township",
+      "primary_county": "Mercer",
+      "population": 33077,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Garfield",
+      "designation": "City",
+      "primary_county": "Bergen",
+      "population": 32655,
+      "incorporated": "1923 Municipal Manager Law"
+    },
+    {
+      "name": "Deptford",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 31977,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Willingboro",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 31889,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Long Branch",
+      "designation": "City",
+      "primary_county": "Monmouth",
+      "population": 31667,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Livingston",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 31330,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Voorhees",
+      "designation": "Township",
+      "primary_county": "Camden",
+      "population": 31069,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Westfield",
+      "designation": "Town",
+      "primary_county": "Union",
+      "population": 31032,
+      "incorporated": "Special charter (New Jersey)"
+    },
+    {
+      "name": "Princeton",
+      "designation": "Borough",
+      "primary_county": "Mercer",
+      "population": 30681,
+      "incorporated": "Borough (New Jersey)"
+    },
+    {
+      "name": "Nutley",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 30143,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "East Windsor",
+      "designation": "Township",
+      "primary_county": "Mercer",
+      "population": 30045,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Rahway",
+      "designation": "City",
+      "primary_county": "Union",
+      "population": 29556,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "West Windsor",
+      "designation": "Township",
+      "primary_county": "Mercer",
+      "population": 29518,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Englewood",
+      "designation": "City",
+      "primary_county": "Bergen",
+      "population": 29308,
+      "incorporated": "Special charter (New Jersey)"
+    },
+    {
+      "name": "Mount Olive",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 28886,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Lacey Township",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 28655,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Stafford Township",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 28617,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Bergenfield",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 28321,
+      "incorporated": "Borough (New Jersey)"
+    },
+    {
+      "name": "Neptune Township",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 28061,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Bernards Township",
+      "designation": "Township",
+      "primary_county": "Somerset",
+      "population": 27830,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Ocean Township",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 27672,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Millville",
+      "designation": "City",
+      "primary_county": "Cumberland",
+      "population": 27491,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Hamilton Township",
+      "designation": "Township",
+      "primary_county": "Atlantic",
+      "population": 27484,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Bridgeton",
+      "designation": "City",
+      "primary_county": "Cumberland",
+      "population": 27263,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Pemberton Township",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 26903,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Paramus",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 26698,
+      "incorporated": "Borough (New Jersey)"
+    },
+    {
+      "name": "Wall",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 26525,
+      "incorporated": "Township (New Jersey)"
+    },
+    {
+      "name": "Randolph",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 26504,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Lodi",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 26206,
+      "incorporated": "1923 Municipal Manager Law"
+    },
+    {
+      "name": "Ridgewood",
+      "designation": "Village",
+      "primary_county": "Bergen",
+      "population": 25979,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Cliffside Park",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 25693
+    },
+    {
+      "name": "Maplewood",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 25684
+    },
+    {
+      "name": "Mahwah",
+      "designation": "Township",
+      "primary_county": "Bergen",
+      "population": 25487,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Rockaway Township",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 25341,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Carteret",
+      "designation": "Borough",
+      "primary_county": "Middlesex",
+      "population": 25326
+    },
+    {
+      "name": "Scotch Plains",
+      "designation": "Township",
+      "primary_county": "Union",
+      "population": 24968,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "West Milford",
+      "designation": "Township",
+      "primary_county": "Passaic",
+      "population": 24862,
+      "incorporated": "Faulkner Act (mayor–council–administrator)"
+    },
+    {
+      "name": "Medford",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 24497,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "South Plainfield",
+      "designation": "Borough",
+      "primary_county": "Middlesex",
+      "population": 24338
+    },
+    {
+      "name": "Barnegat Township",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 24296
+    },
+    {
+      "name": "Plainsboro Township",
+      "designation": "Township",
+      "primary_county": "Middlesex",
+      "population": 24084
+    },
+    {
+      "name": "Burlington Township",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 23983
+    },
+    {
+      "name": "Cranford",
+      "designation": "Township",
+      "primary_county": "Union",
+      "population": 23847
+    },
+    {
+      "name": "Montgomery Township",
+      "designation": "Township",
+      "primary_county": "Somerset",
+      "population": 23690
+    },
+    {
+      "name": "Raritan Township",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 23447
+    },
+    {
+      "name": "Glassboro",
+      "designation": "Borough",
+      "primary_county": "Gloucester",
+      "population": 23149
+    },
+    {
+      "name": "Morris Township",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 22974
+    },
+    {
+      "name": "Roxbury",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 22950,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "North Plainfield",
+      "designation": "Borough",
+      "primary_county": "Somerset",
+      "population": 22808
+    },
+    {
+      "name": "Summit",
+      "designation": "City",
+      "primary_county": "Union",
+      "population": 22719,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Roselle",
+      "designation": "Borough",
+      "primary_county": "Union",
+      "population": 22695
+    },
+    {
+      "name": "Lyndhurst",
+      "designation": "Township",
+      "primary_county": "Bergen",
+      "population": 22519,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Hillside",
+      "designation": "Township",
+      "primary_county": "Union",
+      "population": 22456
+    },
+    {
+      "name": "Montville",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 22450,
+      "incorporated": "Special charter (New Jersey)"
+    },
+    {
+      "name": "Vernon Township",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 22358,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "West Deptford",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 22197
+    },
+    {
+      "name": "Secaucus",
+      "designation": "Town",
+      "primary_county": "Hudson",
+      "population": 22181,
+      "incorporated": "Town (New Jersey)"
+    },
+    {
+      "name": "Lower Township",
+      "designation": "Township",
+      "primary_county": "Cape May",
+      "population": 22057,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Millburn",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 21710
+    },
+    {
+      "name": "Lindenwold",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 21641
+    },
+    {
+      "name": "Elmwood Park",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 21422
+    },
+    {
+      "name": "Moorestown",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 21355,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Little Egg Harbor Township",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 20784
+    },
+    {
+      "name": "Pleasantville",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 20629,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Jefferson",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 20538
+    },
+    {
+      "name": "Middle Township",
+      "designation": "Township",
+      "primary_county": "Cape May",
+      "population": 20380
+    },
+    {
+      "name": "Palisades Park",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 20292
+    },
+    {
+      "name": "Morristown",
+      "designation": "Town",
+      "primary_county": "Morris",
+      "population": 20180,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Hazlet",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 20125
+    },
+    {
+      "name": "Maple Shade",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 19980,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Hawthorne",
+      "designation": "Borough",
+      "primary_county": "Passaic",
+      "population": 19637
+    },
+    {
+      "name": "Sparta",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 19600,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Harrison",
+      "designation": "Town",
+      "primary_county": "Hudson",
+      "population": 19450,
+      "incorporated": "Town (New Jersey)"
+    },
+    {
+      "name": "Aberdeen",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 19329,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Tinton Falls",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 19181
+    },
+    {
+      "name": "Point Pleasant",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 18941
+    },
+    {
+      "name": "Rutherford",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 18834
+    },
+    {
+      "name": "South Orange",
+      "designation": "Village",
+      "primary_county": "Essex",
+      "population": 18484,
+      "incorporated": "Village (New Jersey)"
+    },
+    {
+      "name": "Dover",
+      "designation": "Town",
+      "primary_county": "Morris",
+      "population": 18460,
+      "incorporated": "Town (New Jersey)"
+    },
+    {
+      "name": "Washington Township",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 18197
+    },
+    {
+      "name": "Delran Township",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 17882
+    },
+    {
+      "name": "Dumont",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 17863
+    },
+    {
+      "name": "Hopewell Township",
+      "designation": "Township",
+      "primary_county": "Mercer",
+      "population": 17491
+    },
+    {
+      "name": "Holmdel",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 17400
+    },
+    {
+      "name": "Weehawken",
+      "designation": "Township",
+      "primary_county": "Hudson",
+      "population": 17197,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Springfield",
+      "designation": "Township",
+      "primary_county": "Union",
+      "population": 17178
+    },
+    {
+      "name": "Denville",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 17107
+    },
+    {
+      "name": "Cinnaminson",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 17064
+    },
+    {
+      "name": "Madison",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 16937
+    },
+    {
+      "name": "New Milford",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 16923
+    },
+    {
+      "name": "Wyckoff",
+      "designation": "Township",
+      "primary_county": "Bergen",
+      "population": 16585
+    },
+    {
+      "name": "North Arlington",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 16457
+    },
+    {
+      "name": "Franklin Township",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 16380
+    },
+    {
+      "name": "Readington Township",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 16128
+    },
+    {
+      "name": "South River",
+      "designation": "Borough",
+      "primary_county": "Middlesex",
+      "population": 16118
+    },
+    {
+      "name": "Warren Township",
+      "designation": "Township",
+      "primary_county": "Somerset",
+      "population": 15923
+    },
+    {
+      "name": "Pequannock",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 15571,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Clark",
+      "designation": "Township",
+      "primary_county": "Union",
+      "population": 15544
+    },
+    {
+      "name": "Robbinsville Township",
+      "designation": "Township",
+      "primary_county": "Mercer",
+      "population": 15476,
+      "incorporated": "Faulkner Act (mayor–council)"
+    },
+    {
+      "name": "Tenafly",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 15409,
+      "incorporated": "Special charter (New Jersey)"
+    },
+    {
+      "name": "Haddon Township",
+      "designation": "Township",
+      "primary_county": "Camden",
+      "population": 15407,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Phillipsburg",
+      "designation": "Town",
+      "primary_county": "Warren",
+      "population": 15249
+    },
+    {
+      "name": "Mantua Township",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 15235
+    },
+    {
+      "name": "Asbury Park",
+      "designation": "City",
+      "primary_county": "Monmouth",
+      "population": 15188,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Highland Park",
+      "designation": "Borough",
+      "primary_county": "Middlesex",
+      "population": 15072
+    },
+    {
+      "name": "Metuchen",
+      "designation": "Borough",
+      "primary_county": "Middlesex",
+      "population": 15049
+    },
+    {
+      "name": "Fairview",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 15025
+    },
+    {
+      "name": "Branchburg",
+      "designation": "Township",
+      "primary_county": "Somerset",
+      "population": 14940
+    },
+    {
+      "name": "Ramsey",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 14798
+    },
+    {
+      "name": "Hammonton",
+      "designation": "Town",
+      "primary_county": "Atlantic",
+      "population": 14711,
+      "incorporated": "Town (New Jersey)"
+    },
+    {
+      "name": "Hanover",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 14677
+    },
+    {
+      "name": "Middlesex",
+      "designation": "Borough",
+      "primary_county": "Middlesex",
+      "population": 14636
+    },
+    {
+      "name": "Verona",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 14572,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Hopatcong",
+      "designation": "Borough",
+      "primary_county": "Sussex",
+      "population": 14362
+    },
+    {
+      "name": "Edgewater",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 14336
+    },
+    {
+      "name": "Saddle Brook",
+      "designation": "Township",
+      "primary_county": "Bergen",
+      "population": 14294
+    },
+    {
+      "name": "Collingswood",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 14186,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Roselle Park",
+      "designation": "Borough",
+      "primary_county": "Union",
+      "population": 13967
+    },
+    {
+      "name": "New Providence",
+      "designation": "Borough",
+      "primary_county": "Union",
+      "population": 13650
+    },
+    {
+      "name": "Harrison Township",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 13641
+    },
+    {
+      "name": "Eatontown",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 13597
+    },
+    {
+      "name": "Clinton Township",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 13505,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Woodland Park",
+      "designation": "Borough",
+      "primary_county": "Passaic",
+      "population": 13484,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Little Falls",
+      "designation": "Township",
+      "primary_county": "Passaic",
+      "population": 13360
+    },
+    {
+      "name": "Berkeley Heights",
+      "designation": "Township",
+      "primary_county": "Union",
+      "population": 13285
+    },
+    {
+      "name": "Ridgefield Park",
+      "designation": "Village",
+      "primary_county": "Bergen",
+      "population": 13224
+    },
+    {
+      "name": "Cedar Grove",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 12980,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Red Bank",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 12936
+    },
+    {
+      "name": "Florence Township",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 12812
+    },
+    {
+      "name": "Lumberton",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 12803
+    },
+    {
+      "name": "Oakland",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 12748
+    },
+    {
+      "name": "Pennsville Township",
+      "designation": "Township",
+      "primary_county": "Salem",
+      "population": 12684
+    },
+    {
+      "name": "Florham Park",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 12585,
+      "incorporated": "Borough (New Jersey)"
+    },
+    {
+      "name": "Woolwich Township",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 12577
+    },
+    {
+      "name": "Haddonfield",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 12550,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Upper Township",
+      "designation": "Township",
+      "primary_county": "Cape May",
+      "population": 12539
+    },
+    {
+      "name": "Freehold Borough",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 12538
+    },
+    {
+      "name": "Somerville",
+      "designation": "Borough",
+      "primary_county": "Somerset",
+      "population": 12346
+    },
+    {
+      "name": "Glen Rock",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 12133
+    },
+    {
+      "name": "Hasbrouck Heights",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 12125
+    },
+    {
+      "name": "River Edge",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 12049
+    },
+    {
+      "name": "Guttenberg",
+      "designation": "Town",
+      "primary_county": "Hudson",
+      "population": 12017,
+      "incorporated": "Town (New Jersey)"
+    },
+    {
+      "name": "Bound Brook",
+      "designation": "Borough",
+      "primary_county": "Somerset",
+      "population": 11988
+    },
+    {
+      "name": "Wallington",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 11868
+    },
+    {
+      "name": "Bordentown Township",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 11791
+    },
+    {
+      "name": "Ringwood",
+      "designation": "Borough",
+      "primary_county": "Passaic",
+      "population": 11735,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Bellmawr",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 11707
+    },
+    {
+      "name": "East Greenwich Township",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 11706
+    },
+    {
+      "name": "Ridgefield",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 11501,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Gloucester City",
+      "designation": "City",
+      "primary_county": "Camden",
+      "population": 11484,
+      "incorporated": "Special charter (New Jersey)"
+    },
+    {
+      "name": "Wanaque",
+      "designation": "Borough",
+      "primary_county": "Passaic",
+      "population": 11317
+    },
+    {
+      "name": "Westwood",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 11282
+    },
+    {
+      "name": "Ocean City",
+      "designation": "City",
+      "primary_county": "Cape May",
+      "population": 11229
+    },
+    {
+      "name": "Pompton Lakes",
+      "designation": "Borough",
+      "primary_county": "Passaic",
+      "population": 11127
+    },
+    {
+      "name": "East Hanover",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 11105,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Franklin Lakes",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 11079
+    },
+    {
+      "name": "Totowa",
+      "designation": "Borough",
+      "primary_county": "Passaic",
+      "population": 11065
+    },
+    {
+      "name": "West Caldwell",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 11012
+    },
+    {
+      "name": "Little Ferry",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 10987
+    },
+    {
+      "name": "Chatham Township",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 10983
+    },
+    {
+      "name": "Manville",
+      "designation": "Borough",
+      "primary_county": "Somerset",
+      "population": 10953
+    },
+    {
+      "name": "Lincoln Park",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 10915
+    },
+    {
+      "name": "Beachwood",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 10859
+    },
+    {
+      "name": "Wantage Township",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 10811
+    },
+    {
+      "name": "Pine Hill",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 10764
+    },
+    {
+      "name": "Somers Point",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 10469,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Waterford Township",
+      "designation": "Township",
+      "primary_county": "Camden",
+      "population": 10421
+    },
+    {
+      "name": "Millstone Township",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 10376
+    },
+    {
+      "name": "Southampton",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 10317
+    },
+    {
+      "name": "Hackettstown",
+      "designation": "Town",
+      "primary_county": "Warren",
+      "population": 10248,
+      "incorporated": "Special charter (New Jersey)"
+    },
+    {
+      "name": "Hillsdale",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 10143
+    },
+    {
+      "name": "Wood-Ridge",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 10137
+    },
+    {
+      "name": "Maywood",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 10080
+    },
+    {
+      "name": "Waldwick",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 10058
+    },
+    {
+      "name": "East Rutherford",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 10022
+    },
+    {
+      "name": "Mount Holly",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 9981,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Kinnelon",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 9966
+    },
+    {
+      "name": "Woodbury",
+      "designation": "City",
+      "primary_county": "Gloucester",
+      "population": 9963,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Colts Neck",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 9957
+    },
+    {
+      "name": "River Vale",
+      "designation": "Township",
+      "primary_county": "Bergen",
+      "population": 9909
+    },
+    {
+      "name": "Keansburg",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 9755,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Burlington City",
+      "designation": "City",
+      "primary_county": "Burlington",
+      "population": 9743
+    },
+    {
+      "name": "Matawan",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 9565
+    },
+    {
+      "name": "Chesterfield",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 9422
+    },
+    {
+      "name": "South Amboy",
+      "designation": "City",
+      "primary_county": "Middlesex",
+      "population": 9411
+    },
+    {
+      "name": "Leonia",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 9304
+    },
+    {
+      "name": "Washington Township",
+      "designation": "Township",
+      "primary_county": "Bergen",
+      "population": 9285
+    },
+    {
+      "name": "Chatham Borough",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 9212
+    },
+    {
+      "name": "Ventnor City",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 9210,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Cresskill",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 9155
+    },
+    {
+      "name": "Absecon",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 9137,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Westampton",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 9121
+    },
+    {
+      "name": "Haledon",
+      "designation": "Borough",
+      "primary_county": "Passaic",
+      "population": 9052
+    },
+    {
+      "name": "Caldwell",
+      "designation": "Borough",
+      "primary_county": "Essex",
+      "population": 9027
+    },
+    {
+      "name": "Edgewater Park",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 8930
+    },
+    {
+      "name": "North Haledon",
+      "designation": "Borough",
+      "primary_county": "Passaic",
+      "population": 8927
+    },
+    {
+      "name": "Mansfield Township",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 8897
+    },
+    {
+      "name": "Park Ridge",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 8883
+    },
+    {
+      "name": "Ocean Township",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 8835
+    },
+    {
+      "name": "Boonton Town",
+      "designation": "Town",
+      "primary_county": "Morris",
+      "population": 8815,
+      "incorporated": "Town (New Jersey)"
+    },
+    {
+      "name": "Clayton",
+      "designation": "Borough",
+      "primary_county": "Gloucester",
+      "population": 8807
+    },
+    {
+      "name": "Pitman",
+      "designation": "Borough",
+      "primary_county": "Gloucester",
+      "population": 8780
+    },
+    {
+      "name": "Bogota",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 8778
+    },
+    {
+      "name": "Pittsgrove",
+      "designation": "Township",
+      "primary_county": "Salem",
+      "population": 8777
+    },
+    {
+      "name": "Lopatcong",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 8776,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Audubon",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 8707,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Carneys Point",
+      "designation": "Township",
+      "primary_county": "Salem",
+      "population": 8637
+    },
+    {
+      "name": "Long Hill",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 8629
+    },
+    {
+      "name": "Closter",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 8594
+    },
+    {
+      "name": "West Long Branch",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 8587
+    },
+    {
+      "name": "Montvale",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 8436
+    },
+    {
+      "name": "Northfield",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 8434,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Kenilworth",
+      "designation": "Borough",
+      "primary_county": "Union",
+      "population": 8427
+    },
+    {
+      "name": "Newton",
+      "designation": "Town",
+      "primary_county": "Sussex",
+      "population": 8374,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Upper Saddle River",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 8353
+    },
+    {
+      "name": "Runnemede",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 8324
+    },
+    {
+      "name": "Bedminster",
+      "designation": "Township",
+      "primary_county": "Somerset",
+      "population": 8272
+    },
+    {
+      "name": "Oradell",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 8244
+    },
+    {
+      "name": "Spotswood",
+      "designation": "Borough",
+      "primary_county": "Middlesex",
+      "population": 8163
+    },
+    {
+      "name": "Hardyston",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 8125,
+      "incorporated": "Special charter (New Jersey)"
+    },
+    {
+      "name": "Plumsted",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 8072
+    },
+    {
+      "name": "Butler",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 8047
+    },
+    {
+      "name": "Byram Township",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 8028,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Riverside",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 8003
+    },
+    {
+      "name": "North Hanover Township",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 7963
+    },
+    {
+      "name": "Bernardsville",
+      "designation": "Borough",
+      "primary_county": "Somerset",
+      "population": 7893
+    },
+    {
+      "name": "Fairfield",
+      "designation": "Township",
+      "primary_county": "Essex",
+      "population": 7872,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Raritan",
+      "designation": "Borough",
+      "primary_county": "Somerset",
+      "population": 7835
+    },
+    {
+      "name": "Glen Ridge",
+      "designation": "Borough",
+      "primary_county": "Essex",
+      "population": 7802
+    },
+    {
+      "name": "Mansfield Township",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 7781
+    },
+    {
+      "name": "Bloomingdale",
+      "designation": "Borough",
+      "primary_county": "Passaic",
+      "population": 7777
+    },
+    {
+      "name": "Fanwood",
+      "designation": "Borough",
+      "primary_county": "Union",
+      "population": 7774
+    },
+    {
+      "name": "Brigantine",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 7716,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Chester Township",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 7713,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Upper Deerfield Township",
+      "designation": "Township",
+      "primary_county": "Cumberland",
+      "population": 7645
+    },
+    {
+      "name": "Dunellen",
+      "designation": "Borough",
+      "primary_county": "Middlesex",
+      "population": 7637
+    },
+    {
+      "name": "Haddon Heights",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 7495
+    },
+    {
+      "name": "Berlin Borough",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 7489
+    },
+    {
+      "name": "Palmyra",
+      "designation": "Borough",
+      "primary_county": "Burlington",
+      "population": 7438
+    },
+    {
+      "name": "Rumson",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 7343
+    },
+    {
+      "name": "Washington Borough",
+      "designation": "Borough",
+      "primary_county": "Warren",
+      "population": 7299,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Emerson",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 7290
+    },
+    {
+      "name": "Green Brook Township",
+      "designation": "Township",
+      "primary_county": "Somerset",
+      "population": 7281
+    },
+    {
+      "name": "Upper Freehold",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 7273
+    },
+    {
+      "name": "Wharton",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 7241
+    },
+    {
+      "name": "Keyport",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 7204
+    },
+    {
+      "name": "Barrington",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 7075
+    },
+    {
+      "name": "Milltown",
+      "designation": "Borough",
+      "primary_county": "Middlesex",
+      "population": 7037
+    },
+    {
+      "name": "Buena Vista Township",
+      "designation": "Township",
+      "primary_county": "Atlantic",
+      "population": 7033
+    },
+    {
+      "name": "Mountainside",
+      "designation": "Borough",
+      "primary_county": "Union",
+      "population": 7020
+    },
+    {
+      "name": "Midland Park",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 7014
+    },
+    {
+      "name": "Stratford",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 6981
+    },
+    {
+      "name": "Linwood",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 6971,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Allendale",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 6848
+    },
+    {
+      "name": "Tabernacle",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 6776
+    },
+    {
+      "name": "North Caldwell",
+      "designation": "Borough",
+      "primary_county": "Essex",
+      "population": 6694
+    },
+    {
+      "name": "Rockaway Borough",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 6598
+    },
+    {
+      "name": "Union Township",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 6507
+    },
+    {
+      "name": "Washington Township",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 6492
+    },
+    {
+      "name": "Shamong",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 6460
+    },
+    {
+      "name": "Watchung",
+      "designation": "Borough",
+      "primary_county": "Somerset",
+      "population": 6449
+    },
+    {
+      "name": "Carlstadt",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 6372
+    },
+    {
+      "name": "Prospect Park",
+      "designation": "Borough",
+      "primary_county": "Passaic",
+      "population": 6372
+    },
+    {
+      "name": "New Hanover Township",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 6367
+    },
+    {
+      "name": "Roseland",
+      "designation": "Borough",
+      "primary_county": "Essex",
+      "population": 6299
+    },
+    {
+      "name": "Dennis Township",
+      "designation": "Township",
+      "primary_county": "Cape May",
+      "population": 6285
+    },
+    {
+      "name": "Fair Haven",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 6269
+    },
+    {
+      "name": "Maurice River Township",
+      "designation": "Township",
+      "primary_county": "Cumberland",
+      "population": 6218
+    },
+    {
+      "name": "Paulsboro",
+      "designation": "Borough",
+      "primary_county": "Gloucester",
+      "population": 6196
+    },
+    {
+      "name": "Lebanon Township",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 6195
+    },
+    {
+      "name": "Eastampton",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 6191,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Morris Plains",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 6153
+    },
+    {
+      "name": "Oceanport",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 6150
+    },
+    {
+      "name": "Little Silver",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 6131
+    },
+    {
+      "name": "Woodcliff Lake",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 6128
+    },
+    {
+      "name": "Hainesport",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 6035
+    },
+    {
+      "name": "Mendham Township",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 6016
+    },
+    {
+      "name": "Logan Township",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 6000,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Andover Township",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 5996
+    },
+    {
+      "name": "Manasquan",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 5938
+    },
+    {
+      "name": "Mount Arlington",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 5909
+    },
+    {
+      "name": "Belmar",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 5907,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Hightstown",
+      "designation": "Borough",
+      "primary_county": "Mercer",
+      "population": 5900
+    },
+    {
+      "name": "Old Tappan",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 5888
+    },
+    {
+      "name": "Tewksbury",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 5870
+    },
+    {
+      "name": "Berlin Township",
+      "designation": "Township",
+      "primary_county": "Camden",
+      "population": 5867,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Mullica Township",
+      "designation": "Township",
+      "primary_county": "Atlantic",
+      "population": 5816
+    },
+    {
+      "name": "Rochelle Park",
+      "designation": "Township",
+      "primary_county": "Bergen",
+      "population": 5814
+    },
+    {
+      "name": "Jamesburg",
+      "designation": "Borough",
+      "primary_county": "Middlesex",
+      "population": 5783
+    },
+    {
+      "name": "Union Beach",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 5723
+    },
+    {
+      "name": "Blairstown",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 5704
+    },
+    {
+      "name": "Norwood",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 5641
+    },
+    {
+      "name": "Somerdale",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 5566
+    },
+    {
+      "name": "Fairfield Township",
+      "designation": "Township",
+      "primary_county": "Cumberland",
+      "population": 5546
+    },
+    {
+      "name": "Greenwich Township",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 5473
+    },
+    {
+      "name": "Independence Township",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 5469
+    },
+    {
+      "name": "Englewood Cliffs",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 5342
+    },
+    {
+      "name": "Clementon",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 5338
+    },
+    {
+      "name": "Allamuchy Township",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 5335,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Margate City",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 5317,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Frankford",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 5302
+    },
+    {
+      "name": "Salem",
+      "designation": "City",
+      "primary_county": "Salem",
+      "population": 5296,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Holland Township",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 5177
+    },
+    {
+      "name": "Wildwood",
+      "designation": "City",
+      "primary_county": "Cape May",
+      "population": 5157,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Brielle",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 4982
+    },
+    {
+      "name": "Demarest",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 4981
+    },
+    {
+      "name": "Mendham Borough",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 4981
+    },
+    {
+      "name": "Greenwich Township",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 4917,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Franklin Borough",
+      "designation": "Borough",
+      "primary_county": "Sussex",
+      "population": 4912
+    },
+    {
+      "name": "Hampton Township",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 4893
+    },
+    {
+      "name": "Spring Lake Heights",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 4890
+    },
+    {
+      "name": "Flemington",
+      "designation": "Borough",
+      "primary_county": "Hunterdon",
+      "population": 4876
+    },
+    {
+      "name": "South Bound Brook",
+      "designation": "Borough",
+      "primary_county": "Somerset",
+      "population": 4863
+    },
+    {
+      "name": "Penns Grove",
+      "designation": "Borough",
+      "primary_county": "Salem",
+      "population": 4837
+    },
+    {
+      "name": "Delanco",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 4824
+    },
+    {
+      "name": "Alexandria",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 4809
+    },
+    {
+      "name": "Point Pleasant Beach",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 4766
+    },
+    {
+      "name": "Northvale",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 4761
+    },
+    {
+      "name": "Harrington Park",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 4741
+    },
+    {
+      "name": "Commercial Township",
+      "designation": "Township",
+      "primary_county": "Cumberland",
+      "population": 4669
+    },
+    {
+      "name": "Mount Ephraim",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 4651,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Neptune City",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 4626
+    },
+    {
+      "name": "Highlands",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 4621,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "White",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 4606
+    },
+    {
+      "name": "Delaware Township",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 4560
+    },
+    {
+      "name": "Buena",
+      "designation": "Borough",
+      "primary_county": "Atlantic",
+      "population": 4501
+    },
+    {
+      "name": "Mountain Lakes",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 4472
+    },
+    {
+      "name": "Garwood",
+      "designation": "Borough",
+      "primary_county": "Union",
+      "population": 4454
+    },
+    {
+      "name": "Elk Township",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 4424
+    },
+    {
+      "name": "Atlantic Highlands",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 4414
+    },
+    {
+      "name": "Egg Harbor City",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 4396,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Hopewell Township",
+      "designation": "Township",
+      "primary_county": "Cumberland",
+      "population": 4391
+    },
+    {
+      "name": "Boonton Township",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 4380
+    },
+    {
+      "name": "Magnolia",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 4352
+    },
+    {
+      "name": "Bradley Beach",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 4282,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Medford Lakes",
+      "designation": "Borough",
+      "primary_county": "Burlington",
+      "population": 4264,
+      "incorporated": "1923 Municipal Manager Law"
+    },
+    {
+      "name": "Westville",
+      "designation": "Borough",
+      "primary_county": "Gloucester",
+      "population": 4264
+    },
+    {
+      "name": "Ho-Ho-Kus",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 4258
+    },
+    {
+      "name": "Shrewsbury Borough",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 4184
+    },
+    {
+      "name": "Pilesgrove",
+      "designation": "Township",
+      "primary_county": "Salem",
+      "population": 4183
+    },
+    {
+      "name": "Lambertville",
+      "designation": "City",
+      "primary_county": "Hunterdon",
+      "population": 4139,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Riverdale",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 4107
+    },
+    {
+      "name": "Mine Hill",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 4015
+    },
+    {
+      "name": "Stillwater Township",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 4004
+    },
+    {
+      "name": "Bordentown City",
+      "designation": "City",
+      "primary_county": "Burlington",
+      "population": 3993,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Oaklyn",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 3930
+    },
+    {
+      "name": "East Amwell Township",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 3917
+    },
+    {
+      "name": "Harding",
+      "designation": "Township",
+      "primary_county": "Morris",
+      "population": 3871
+    },
+    {
+      "name": "Cranbury",
+      "designation": "Township",
+      "primary_county": "Middlesex",
+      "population": 3842
+    },
+    {
+      "name": "Merchantville",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 3820
+    },
+    {
+      "name": "Kingwood",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 3802
+    },
+    {
+      "name": "Montague",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 3792
+    },
+    {
+      "name": "Bethlehem Township",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 3745
+    },
+    {
+      "name": "Woodstown",
+      "designation": "Borough",
+      "primary_county": "Salem",
+      "population": 3678
+    },
+    {
+      "name": "South Toms River",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 3643
+    },
+    {
+      "name": "Green Township",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 3627
+    },
+    {
+      "name": "North Wildwood",
+      "designation": "City",
+      "primary_county": "Cape May",
+      "population": 3621,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Tuckerton",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 3577
+    },
+    {
+      "name": "High Bridge",
+      "designation": "Borough",
+      "primary_county": "Hunterdon",
+      "population": 3546
+    },
+    {
+      "name": "Stanhope",
+      "designation": "Borough",
+      "primary_county": "Sussex",
+      "population": 3526
+    },
+    {
+      "name": "Upper Pittsgrove",
+      "designation": "Township",
+      "primary_county": "Salem",
+      "population": 3432
+    },
+    {
+      "name": "South Harrison Township",
+      "designation": "Township",
+      "primary_county": "Gloucester",
+      "population": 3395
+    },
+    {
+      "name": "Netcong",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 3375
+    },
+    {
+      "name": "Saddle River",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 3372
+    },
+    {
+      "name": "Haworth",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 3343
+    },
+    {
+      "name": "Alloway Township",
+      "designation": "Township",
+      "primary_county": "Salem",
+      "population": 3283
+    },
+    {
+      "name": "Franklin Township",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 3267
+    },
+    {
+      "name": "Hamburg",
+      "designation": "Borough",
+      "primary_county": "Sussex",
+      "population": 3266
+    },
+    {
+      "name": "Springfield",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 3245,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Pohatcong",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 3241,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Fredon Township",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 3235
+    },
+    {
+      "name": "Monmouth Beach",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 3174,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Long Beach Township",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 3153,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Deerfield Township",
+      "designation": "Township",
+      "primary_county": "Cumberland",
+      "population": 3136
+    },
+    {
+      "name": "Moonachie",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 3133
+    },
+    {
+      "name": "Wildwood Crest",
+      "designation": "Borough",
+      "primary_county": "Cape May",
+      "population": 3101,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Woodbury Heights",
+      "designation": "Borough",
+      "primary_county": "Gloucester",
+      "population": 3098
+    },
+    {
+      "name": "Lawrence Township",
+      "designation": "Township",
+      "primary_county": "Cumberland",
+      "population": 3087
+    },
+    {
+      "name": "National Park",
+      "designation": "Borough",
+      "primary_county": "Gloucester",
+      "population": 3026
+    },
+    {
+      "name": "West Amwell Township",
+      "designation": "Township",
+      "primary_county": "Hunterdon",
+      "population": 3005
+    },
+    {
+      "name": "Franklin Township",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 2968
+    },
+    {
+      "name": "Lawnside",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 2955
+    },
+    {
+      "name": "Woodlynne",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 2902
+    },
+    {
+      "name": "Knowlton Township",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 2894
+    },
+    {
+      "name": "Pennington",
+      "designation": "Borough",
+      "primary_county": "Mercer",
+      "population": 2802
+    },
+    {
+      "name": "Spring Lake",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 2789
+    },
+    {
+      "name": "Clinton Town",
+      "designation": "Town",
+      "primary_county": "Hunterdon",
+      "population": 2773,
+      "incorporated": "Town (New Jersey)"
+    },
+    {
+      "name": "Cape May",
+      "designation": "City",
+      "primary_county": "Cape May",
+      "population": 2768,
+      "incorporated": "Faulkner Act (council–manager)"
+    },
+    {
+      "name": "Riverton",
+      "designation": "Borough",
+      "primary_county": "Burlington",
+      "population": 2764
+    },
+    {
+      "name": "Swedesboro",
+      "designation": "Borough",
+      "primary_county": "Gloucester",
+      "population": 2711
+    },
+    {
+      "name": "South Hackensack",
+      "designation": "Township",
+      "primary_county": "Bergen",
+      "population": 2701
+    },
+    {
+      "name": "Liberty",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 2670
+    },
+    {
+      "name": "Lakehurst",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 2636
+    },
+    {
+      "name": "Weymouth Township",
+      "designation": "Township",
+      "primary_county": "Atlantic",
+      "population": 2614
+    },
+    {
+      "name": "East Newark",
+      "designation": "Borough",
+      "primary_county": "Hudson",
+      "population": 2594
+    },
+    {
+      "name": "Quinton Township",
+      "designation": "Township",
+      "primary_county": "Salem",
+      "population": 2580
+    },
+    {
+      "name": "Peapack and Gladstone",
+      "designation": "Borough",
+      "primary_county": "Somerset",
+      "population": 2558,
+      "incorporated": "Borough (New Jersey)"
+    },
+    {
+      "name": "Belvidere",
+      "designation": "Town",
+      "primary_county": "Warren",
+      "population": 2520,
+      "incorporated": "Town (New Jersey)"
+    },
+    {
+      "name": "Harmony Township",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 2503
+    },
+    {
+      "name": "Beverly",
+      "designation": "City",
+      "primary_county": "Burlington",
+      "population": 2499,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Helmetta",
+      "designation": "Borough",
+      "primary_county": "Middlesex",
+      "population": 2455
+    },
+    {
+      "name": "Oxford Township",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 2444
+    },
+    {
+      "name": "Seaside Heights",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 2440
+    },
+    {
+      "name": "Lafayette Township",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 2358
+    },
+    {
+      "name": "Englishtown",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 2346
+    },
+    {
+      "name": "Alpha",
+      "designation": "Borough",
+      "primary_county": "Warren",
+      "population": 2328
+    },
+    {
+      "name": "Wenonah",
+      "designation": "Borough",
+      "primary_county": "Gloucester",
+      "population": 2283
+    },
+    {
+      "name": "Ogdensburg",
+      "designation": "Borough",
+      "primary_county": "Sussex",
+      "population": 2258
+    },
+    {
+      "name": "Essex Fells",
+      "designation": "Borough",
+      "primary_county": "Essex",
+      "population": 2244
+    },
+    {
+      "name": "Frelinghuysen Township",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 2199
+    },
+    {
+      "name": "Gibbsboro",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 2189
+    },
+    {
+      "name": "Pine Beach",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 2139
+    },
+    {
+      "name": "Woodbine",
+      "designation": "Borough",
+      "primary_county": "Cape May",
+      "population": 2128
+    },
+    {
+      "name": "Sea Isle City",
+      "designation": "City",
+      "primary_county": "Cape May",
+      "population": 2104,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Sussex",
+      "designation": "Borough",
+      "primary_county": "Sussex",
+      "population": 2024
+    },
+    {
+      "name": "Laurel Springs",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 1978
+    },
+    {
+      "name": "Sandyston",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 1977
+    },
+    {
+      "name": "Avon-by-the-Sea",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 1933,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Ocean Gate",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 1932
+    },
+    {
+      "name": "Hopewell Borough",
+      "designation": "Borough",
+      "primary_county": "Mercer",
+      "population": 1918
+    },
+    {
+      "name": "Oldmans Township",
+      "designation": "Township",
+      "primary_county": "Salem",
+      "population": 1910
+    },
+    {
+      "name": "Sea Girt",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 1866
+    },
+    {
+      "name": "Hope Township",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 1835
+    },
+    {
+      "name": "Brooklawn",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 1815
+    },
+    {
+      "name": "Folsom",
+      "designation": "Borough",
+      "primary_county": "Atlantic",
+      "population": 1811
+    },
+    {
+      "name": "Lavallette",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 1787
+    },
+    {
+      "name": "Newfield",
+      "designation": "Borough",
+      "primary_county": "Gloucester",
+      "population": 1774
+    },
+    {
+      "name": "Alpine",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 1762
+    },
+    {
+      "name": "Allentown",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 1734
+    },
+    {
+      "name": "Eagleswood Township",
+      "designation": "Township",
+      "primary_county": "Ocean",
+      "population": 1722
+    },
+    {
+      "name": "Lower Alloways Creek",
+      "designation": "Township",
+      "primary_county": "Salem",
+      "population": 1717
+    },
+    {
+      "name": "Lake Como",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 1697
+    },
+    {
+      "name": "Glen Gardner",
+      "designation": "Borough",
+      "primary_county": "Hunterdon",
+      "population": 1682
+    },
+    {
+      "name": "Chester Borough",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 1681
+    },
+    {
+      "name": "Estell Manor",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 1668,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Lebanon Borough",
+      "designation": "Borough",
+      "primary_county": "Hunterdon",
+      "population": 1665
+    },
+    {
+      "name": "Island Heights",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 1650,
+      "incorporated": "Faulkner Act (small municipality)"
+    },
+    {
+      "name": "Hardwick Township",
+      "designation": "Township",
+      "primary_county": "Warren",
+      "population": 1598
+    },
+    {
+      "name": "Victory Gardens",
+      "designation": "Borough",
+      "primary_county": "Morris",
+      "population": 1582
+    },
+    {
+      "name": "Woodland Township",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 1544
+    },
+    {
+      "name": "Chesilhurst",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 1536
+    },
+    {
+      "name": "Farmingdale",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 1504
+    },
+    {
+      "name": "Mannington Township",
+      "designation": "Township",
+      "primary_county": "Salem",
+      "population": 1475
+    },
+    {
+      "name": "Sea Bright",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 1449
+    },
+    {
+      "name": "Hampton Borough",
+      "designation": "Borough",
+      "primary_county": "Hunterdon",
+      "population": 1438
+    },
+    {
+      "name": "Seaside Park",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 1436
+    },
+    {
+      "name": "Winfield",
+      "designation": "Township",
+      "primary_county": "Union",
+      "population": 1423
+    },
+    {
+      "name": "Downe Township",
+      "designation": "Township",
+      "primary_county": "Cumberland",
+      "population": 1399
+    },
+    {
+      "name": "Pemberton Borough",
+      "designation": "Borough",
+      "primary_county": "Burlington",
+      "population": 1371
+    },
+    {
+      "name": "Frenchtown",
+      "designation": "Borough",
+      "primary_county": "Hunterdon",
+      "population": 1370
+    },
+    {
+      "name": "Bass River Township",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 1355,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Elmer",
+      "designation": "Borough",
+      "primary_county": "Salem",
+      "population": 1347
+    },
+    {
+      "name": "Stow Creek Township",
+      "designation": "Township",
+      "primary_county": "Cumberland",
+      "population": 1312
+    },
+    {
+      "name": "Avalon",
+      "designation": "Borough",
+      "primary_county": "Cape May",
+      "population": 1243
+    },
+    {
+      "name": "Surf City",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 1243
+    },
+    {
+      "name": "Milford",
+      "designation": "Borough",
+      "primary_county": "Hunterdon",
+      "population": 1232
+    },
+    {
+      "name": "Port Republic",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 1101,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Ship Bottom",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 1098
+    },
+    {
+      "name": "Shrewsbury Township",
+      "designation": "Township",
+      "primary_county": "Monmouth",
+      "population": 1076
+    },
+    {
+      "name": "Beach Haven",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 1027,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "West Cape May",
+      "designation": "Borough",
+      "primary_county": "Cape May",
+      "population": 1010,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Califon",
+      "designation": "Borough",
+      "primary_county": "Hunterdon",
+      "population": 1005
+    },
+    {
+      "name": "Elsinboro",
+      "designation": "Township",
+      "primary_county": "Salem",
+      "population": 1001
+    },
+    {
+      "name": "Audubon Park",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 991
+    },
+    {
+      "name": "Bay Head",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 930
+    },
+    {
+      "name": "Hi-Nella",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 927
+    },
+    {
+      "name": "Far Hills",
+      "designation": "Borough",
+      "primary_county": "Somerset",
+      "population": 924
+    },
+    {
+      "name": "Deal",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 900,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Longport",
+      "designation": "Borough",
+      "primary_county": "Atlantic",
+      "population": 893,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Interlaken",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 828
+    },
+    {
+      "name": "Roosevelt",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 808
+    },
+    {
+      "name": "Stone Harbor",
+      "designation": "Borough",
+      "primary_county": "Cape May",
+      "population": 796
+    },
+    {
+      "name": "Bloomsbury",
+      "designation": "Borough",
+      "primary_county": "Hunterdon",
+      "population": 792
+    },
+    {
+      "name": "Branchville",
+      "designation": "Borough",
+      "primary_county": "Sussex",
+      "population": 791
+    },
+    {
+      "name": "Greenwich Township",
+      "designation": "Township",
+      "primary_county": "Cumberland",
+      "population": 771
+    },
+    {
+      "name": "Rocky Hill",
+      "designation": "Borough",
+      "primary_county": "Somerset",
+      "population": 743
+    },
+    {
+      "name": "Wrightstown",
+      "designation": "Borough",
+      "primary_county": "Burlington",
+      "population": 720
+    },
+    {
+      "name": "Washington Township",
+      "designation": "Township",
+      "primary_county": "Burlington",
+      "population": 693
+    },
+    {
+      "name": "Barnegat Light",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 640
+    },
+    {
+      "name": "Andover Borough",
+      "designation": "Borough",
+      "primary_county": "Sussex",
+      "population": 595
+    },
+    {
+      "name": "West Wildwood",
+      "designation": "Borough",
+      "primary_county": "Cape May",
+      "population": 540,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Fieldsboro",
+      "designation": "Borough",
+      "primary_county": "Burlington",
+      "population": 526
+    },
+    {
+      "name": "Stockton",
+      "designation": "Borough",
+      "primary_county": "Hunterdon",
+      "population": 495
+    },
+    {
+      "name": "Allenhurst",
+      "designation": "Borough",
+      "primary_county": "Monmouth",
+      "population": 472,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Corbin City",
+      "designation": "City",
+      "primary_county": "Atlantic",
+      "population": 471,
+      "incorporated": "City (New Jersey)"
+    },
+    {
+      "name": "Millstone Borough",
+      "designation": "Borough",
+      "primary_county": "Somerset",
+      "population": 448
+    },
+    {
+      "name": "Shiloh",
+      "designation": "Borough",
+      "primary_county": "Cumberland",
+      "population": 444
+    },
+    {
+      "name": "Rockleigh",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 407
+    },
+    {
+      "name": "Harvey Cedars",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 391,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Mantoloking",
+      "designation": "Borough",
+      "primary_county": "Ocean",
+      "population": 331
+    },
+    {
+      "name": "Cape May Point",
+      "designation": "Borough",
+      "primary_county": "Cape May",
+      "population": 305,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Loch Arbour",
+      "designation": "Village",
+      "primary_county": "Monmouth",
+      "population": 224,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Teterboro",
+      "designation": "Borough",
+      "primary_county": "Bergen",
+      "population": 61,
+      "incorporated": "1923 Municipal Manager Law"
+    },
+    {
+      "name": "Tavistock",
+      "designation": "Borough",
+      "primary_county": "Camden",
+      "population": 9,
+      "incorporated": "Walsh Act"
+    },
+    {
+      "name": "Walpack Township",
+      "designation": "Township",
+      "primary_county": "Sussex",
+      "population": 7,
+      "incorporated": "Township (New Jersey)"
+    }
+  ]
+}

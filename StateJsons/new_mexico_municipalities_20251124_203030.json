@@ -1,0 +1,601 @@
+{
+  "metadata": {
+    "state": "New Mexico",
+    "source": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_New_Mexico",
+    "scraped_at": "2025-11-24 20:30:30",
+    "scraper_version": "2.0_generic",
+    "description": "New Mexico municipalities scraped from Wikipedia",
+    "total_municipalities": 109,
+    "statistics": {
+      "total_found": 109,
+      "with_population": 0,
+      "with_counties": 108,
+      "unique_counties": 37,
+      "population_stats": {}
+    },
+    "counties": [
+      "Bernalillo",
+      "BernalilloSandoval",
+      "Catron",
+      "Chaves",
+      "Cibola",
+      "Colfax",
+      "Curry",
+      "De Baca",
+      "Doña Ana",
+      "Eddy",
+      "Grant",
+      "Guadalupe",
+      "Harding",
+      "HardingSan Miguel",
+      "Hidalgo",
+      "Lea",
+      "Lincoln",
+      "Los Alamos",
+      "Luna",
+      "McKinley",
+      "Mora",
+      "Otero",
+      "Quay",
+      "Rio Arriba",
+      "Rio Arriba Santa Fe",
+      "Roosevelt",
+      "San Juan",
+      "San Miguel",
+      "Sandoval",
+      "Santa Fe",
+      "Sierra",
+      "Socorro",
+      "Taos",
+      "Torrance",
+      "Union",
+      "Valencia",
+      "–"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi"
+    },
+    {
+      "name": "Alamogordo†",
+      "designation": "Commission–Manager §",
+      "primary_county": "Otero"
+    },
+    {
+      "name": "Albuquerque†",
+      "designation": "Mayor–Council §",
+      "primary_county": "Bernalillo"
+    },
+    {
+      "name": "Angel Fire",
+      "designation": "Mayor–Council",
+      "primary_county": "Colfax"
+    },
+    {
+      "name": "Anthony[a]",
+      "designation": "Mayor–Council",
+      "primary_county": "Doña Ana"
+    },
+    {
+      "name": "Artesia",
+      "designation": "Mayor–Council",
+      "primary_county": "Eddy"
+    },
+    {
+      "name": "Aztec†",
+      "designation": "Commission–Manager",
+      "primary_county": "San Juan"
+    },
+    {
+      "name": "Bayard",
+      "designation": "Mayor–Council",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Belen",
+      "designation": "Mayor–Council with Manager",
+      "primary_county": "Valencia"
+    },
+    {
+      "name": "Bernalillo†",
+      "designation": "Mayor–Council",
+      "primary_county": "Sandoval"
+    },
+    {
+      "name": "Bloomfield",
+      "designation": "Mayor–Council",
+      "primary_county": "San Juan"
+    },
+    {
+      "name": "Bosque Farms",
+      "designation": "Mayor–Council",
+      "primary_county": "Valencia"
+    },
+    {
+      "name": "Capitan",
+      "designation": "Mayor–Council",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Carlsbad†",
+      "designation": "Mayor–Council with Manager",
+      "primary_county": "Eddy"
+    },
+    {
+      "name": "Carrizozo†",
+      "designation": "Mayor–Council",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Causey",
+      "designation": "Mayor–Council",
+      "primary_county": "Roosevelt"
+    },
+    {
+      "name": "Chama",
+      "designation": "Mayor–Council",
+      "primary_county": "Rio Arriba"
+    },
+    {
+      "name": "Cimarron",
+      "designation": "Mayor–Council",
+      "primary_county": "Colfax"
+    },
+    {
+      "name": "Clayton†",
+      "designation": "Mayor–Council with Manager",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Cloudcroft",
+      "designation": "Mayor–Council",
+      "primary_county": "Otero"
+    },
+    {
+      "name": "Clovis†",
+      "designation": "Commission–Manager §",
+      "primary_county": "Curry"
+    },
+    {
+      "name": "Columbus",
+      "designation": "Mayor–Council",
+      "primary_county": "Luna"
+    },
+    {
+      "name": "Corona",
+      "designation": "Mayor–Council",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Corrales",
+      "designation": "Mayor–Council",
+      "primary_county": "Sandoval"
+    },
+    {
+      "name": "Cuba",
+      "designation": "Mayor–Council",
+      "primary_county": "Sandoval"
+    },
+    {
+      "name": "Deming†",
+      "designation": "Mayor–Council with Manager",
+      "primary_county": "Luna"
+    },
+    {
+      "name": "Des Moines",
+      "designation": "Mayor–Council",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Dexter",
+      "designation": "Mayor–Council",
+      "primary_county": "Chaves"
+    },
+    {
+      "name": "Dora",
+      "designation": "Mayor–Council",
+      "primary_county": "Roosevelt"
+    },
+    {
+      "name": "Eagle Nest",
+      "designation": "Mayor–Council",
+      "primary_county": "Colfax"
+    },
+    {
+      "name": "Edgewood",
+      "designation": "Commission-Manager",
+      "primary_county": "Santa Fe"
+    },
+    {
+      "name": "Elephant Butte",
+      "designation": "Mayor–Council",
+      "primary_county": "Sierra"
+    },
+    {
+      "name": "Elida",
+      "designation": "Mayor–Council",
+      "primary_county": "Roosevelt"
+    },
+    {
+      "name": "Encino",
+      "designation": "Mayor–Council",
+      "primary_county": "Torrance"
+    },
+    {
+      "name": "Española",
+      "designation": "Mayor–Council with Manager",
+      "primary_county": "Rio Arriba Santa Fe"
+    },
+    {
+      "name": "Estancia†",
+      "designation": "Mayor–Council",
+      "primary_county": "Torrance"
+    },
+    {
+      "name": "Eunice",
+      "designation": "Mayor–Council",
+      "primary_county": "Lea"
+    },
+    {
+      "name": "Farmington",
+      "designation": "Mayor–Council with Manager",
+      "primary_county": "San Juan"
+    },
+    {
+      "name": "Floyd",
+      "designation": "Mayor–Council",
+      "primary_county": "Roosevelt"
+    },
+    {
+      "name": "Folsom",
+      "designation": "Mayor–Council",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Fort Sumner†",
+      "designation": "Mayor–Council",
+      "primary_county": "De Baca"
+    },
+    {
+      "name": "Gallup†",
+      "designation": "Mayor–Council with Manager §",
+      "primary_county": "McKinley"
+    },
+    {
+      "name": "Grady",
+      "designation": "Mayor–Council",
+      "primary_county": "Curry"
+    },
+    {
+      "name": "Grants†",
+      "designation": "Mayor–Council with Manager §",
+      "primary_county": "Cibola"
+    },
+    {
+      "name": "Grenville",
+      "designation": "Mayor–Council",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Hagerman",
+      "designation": "Mayor–Council",
+      "primary_county": "Chaves"
+    },
+    {
+      "name": "Hatch",
+      "designation": "Mayor–Council",
+      "primary_county": "Doña Ana"
+    },
+    {
+      "name": "Hobbs",
+      "designation": "Commission–Manager §",
+      "primary_county": "Lea"
+    },
+    {
+      "name": "Hope",
+      "designation": "Mayor–Council",
+      "primary_county": "Eddy"
+    },
+    {
+      "name": "House",
+      "designation": "Mayor–Council",
+      "primary_county": "Quay"
+    },
+    {
+      "name": "Hurley",
+      "designation": "Mayor–Council",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Jal",
+      "designation": "Mayor–Council",
+      "primary_county": "Lea"
+    },
+    {
+      "name": "Jemez Springs",
+      "designation": "Mayor–Council",
+      "primary_county": "Sandoval"
+    },
+    {
+      "name": "Kirtland[b]",
+      "designation": "Mayor–Council",
+      "primary_county": "San Juan"
+    },
+    {
+      "name": "Lake Arthur",
+      "designation": "Mayor–Council",
+      "primary_county": "Chaves"
+    },
+    {
+      "name": "Las Cruces†",
+      "designation": "Council–Manager §",
+      "primary_county": "Doña Ana"
+    },
+    {
+      "name": "Las Vegas†",
+      "designation": "Mayor–Council with Manager §",
+      "primary_county": "San Miguel"
+    },
+    {
+      "name": "Logan",
+      "designation": "Mayor–Council",
+      "primary_county": "Quay"
+    },
+    {
+      "name": "Lordsburg†",
+      "designation": "Mayor–Council",
+      "primary_county": "Hidalgo"
+    },
+    {
+      "name": "Los Alamos",
+      "designation": "City–County(Council–Manager) §",
+      "primary_county": "Los Alamos"
+    },
+    {
+      "name": "Los Lunas†",
+      "designation": "Mayor–Council",
+      "primary_county": "Valencia"
+    },
+    {
+      "name": "Los Ranchos de Albuquerque",
+      "designation": "Mayor–Council",
+      "primary_county": "Bernalillo"
+    },
+    {
+      "name": "Loving",
+      "designation": "Mayor–Council",
+      "primary_county": "Eddy"
+    },
+    {
+      "name": "Lovington†",
+      "designation": "Commission–Manager",
+      "primary_county": "Lea"
+    },
+    {
+      "name": "Magdalena",
+      "designation": "Mayor–Council",
+      "primary_county": "Socorro"
+    },
+    {
+      "name": "Maxwell",
+      "designation": "Mayor–Council",
+      "primary_county": "Colfax"
+    },
+    {
+      "name": "Melrose",
+      "designation": "Mayor–Council",
+      "primary_county": "Curry"
+    },
+    {
+      "name": "Mesilla",
+      "designation": "Mayor–Council",
+      "primary_county": "Doña Ana"
+    },
+    {
+      "name": "Milan",
+      "designation": "Mayor–Council",
+      "primary_county": "Cibola"
+    },
+    {
+      "name": "Moriarty",
+      "designation": "Mayor–Council",
+      "primary_county": "Torrance"
+    },
+    {
+      "name": "Mosquero†",
+      "designation": "Mayor–Council",
+      "primary_county": "HardingSan Miguel"
+    },
+    {
+      "name": "Mountainair",
+      "designation": "Mayor–Council",
+      "primary_county": "Torrance"
+    },
+    {
+      "name": "Pecos",
+      "designation": "Mayor–Council",
+      "primary_county": "San Miguel"
+    },
+    {
+      "name": "Peralta[c]",
+      "designation": "Mayor–Council",
+      "primary_county": "Valencia"
+    },
+    {
+      "name": "Portales†",
+      "designation": "Mayor–Council with Manager",
+      "primary_county": "Roosevelt"
+    },
+    {
+      "name": "Questa",
+      "designation": "Mayor–Council",
+      "primary_county": "Taos"
+    },
+    {
+      "name": "Raton†",
+      "designation": "Commission–Manager",
+      "primary_county": "Colfax"
+    },
+    {
+      "name": "Red River",
+      "designation": "Mayor–Council",
+      "primary_county": "Taos"
+    },
+    {
+      "name": "Reserve†",
+      "designation": "Mayor–Council",
+      "primary_county": "Catron"
+    },
+    {
+      "name": "Rio Communities[d]",
+      "designation": "Mayor–Council",
+      "primary_county": "Valencia"
+    },
+    {
+      "name": "Rio Rancho",
+      "designation": "Mayor–Council with Manager §",
+      "primary_county": "BernalilloSandoval"
+    },
+    {
+      "name": "Roswell†",
+      "designation": "Mayor–Council with Manager",
+      "primary_county": "Chaves"
+    },
+    {
+      "name": "Roy",
+      "designation": "Mayor–Council",
+      "primary_county": "Harding"
+    },
+    {
+      "name": "Ruidoso",
+      "designation": "Mayor–Council with Manager",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "Ruidoso Downs",
+      "designation": "Mayor–Council",
+      "primary_county": "Lincoln"
+    },
+    {
+      "name": "San Jon",
+      "designation": "Mayor–Council",
+      "primary_county": "Quay"
+    },
+    {
+      "name": "San Ysidro",
+      "designation": "Mayor–Council",
+      "primary_county": "Sandoval"
+    },
+    {
+      "name": "Santa Clara",
+      "designation": "Mayor–Council",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Santa Fe‡",
+      "designation": "Mayor–Council with Manager §",
+      "primary_county": "Santa Fe"
+    },
+    {
+      "name": "Santa Rosa†",
+      "designation": "Mayor–Council",
+      "primary_county": "Guadalupe"
+    },
+    {
+      "name": "Silver City†",
+      "designation": "Mayor–Council with Manager §",
+      "primary_county": "Grant"
+    },
+    {
+      "name": "Socorro†",
+      "designation": "Mayor–Council",
+      "primary_county": "Socorro"
+    },
+    {
+      "name": "Springer",
+      "designation": "Mayor–Council",
+      "primary_county": "Colfax"
+    },
+    {
+      "name": "Sunland Park",
+      "designation": "Mayor–Council",
+      "primary_county": "Doña Ana"
+    },
+    {
+      "name": "Taos†",
+      "designation": "Mayor–Council with Manager",
+      "primary_county": "Taos"
+    },
+    {
+      "name": "Taos Ski Valley",
+      "designation": "Mayor–Council",
+      "primary_county": "Taos"
+    },
+    {
+      "name": "Tatum",
+      "designation": "Mayor–Council",
+      "primary_county": "Lea"
+    },
+    {
+      "name": "Texico",
+      "designation": "Mayor–Council",
+      "primary_county": "Curry"
+    },
+    {
+      "name": "Tijeras",
+      "designation": "Mayor–Council",
+      "primary_county": "Bernalillo"
+    },
+    {
+      "name": "Truth or Consequences†",
+      "designation": "Commission–Manager",
+      "primary_county": "Sierra"
+    },
+    {
+      "name": "Tucumcari†",
+      "designation": "Commission–Manager",
+      "primary_county": "Quay"
+    },
+    {
+      "name": "Tularosa",
+      "designation": "Mayor–Council",
+      "primary_county": "Otero"
+    },
+    {
+      "name": "Vaughn",
+      "designation": "Mayor–Council",
+      "primary_county": "Guadalupe"
+    },
+    {
+      "name": "Virden",
+      "designation": "Mayor–Council",
+      "primary_county": "Hidalgo"
+    },
+    {
+      "name": "Wagon Mound",
+      "designation": "Mayor–Council",
+      "primary_county": "Mora"
+    },
+    {
+      "name": "Willard",
+      "designation": "Mayor–Council",
+      "primary_county": "Torrance"
+    },
+    {
+      "name": "Williamsburg",
+      "designation": "Mayor–Council",
+      "primary_county": "Sierra"
+    },
+    {
+      "name": "Total municipalities",
+      "designation": "–",
+      "primary_county": "–"
+    },
+    {
+      "name": "New Mexico",
+      "designation": "–",
+      "primary_county": "–"
+    }
+  ]
+}

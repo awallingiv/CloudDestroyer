@@ -1,0 +1,6686 @@
+{
+  "metadata": {
+    "state": "Illinois",
+    "source": "https://en.wikipedia.org/wiki/List_of_municipalities_in_Illinois",
+    "scraped_at": "2025-11-23 20:32:49",
+    "scraper_version": "2.0_generic",
+    "description": "Illinois municipalities scraped from Wikipedia",
+    "total_municipalities": 1300,
+    "statistics": {
+      "total_found": 1300,
+      "with_population": 0,
+      "with_counties": 1299,
+      "unique_counties": 166,
+      "population_stats": {}
+    },
+    "counties": [
+      "Adams",
+      "Alexander",
+      "Bond",
+      "BondMadison",
+      "BondMontgomery",
+      "Boone",
+      "Brown",
+      "Bureau",
+      "Calhoun",
+      "Carroll",
+      "Cass",
+      "Champaign",
+      "Christian",
+      "ChristianShelby",
+      "Clark",
+      "ClarkCumberland",
+      "Clay",
+      "Clinton",
+      "ClintonBond",
+      "ClintonMarionWashington",
+      "ClintonSt. Clair",
+      "Coles",
+      "Cook",
+      "CookDuPage",
+      "CookDuPageKane",
+      "CookLake",
+      "CookMcHenryLakeKane",
+      "CookWill",
+      "Crawford",
+      "Cumberland",
+      "De Witt",
+      "DeKalb",
+      "DeKalbKendall",
+      "DeKalbLaSalle",
+      "Douglas",
+      "DouglasMoultrie",
+      "DouglasPiatt",
+      "DuPage",
+      "DuPageCook",
+      "DuPageKane",
+      "DuPageWill",
+      "Edgar",
+      "Edwards",
+      "EdwardsWhite",
+      "Effingham",
+      "Fayette",
+      "Ford",
+      "FordKankakee",
+      "Franklin",
+      "FranklinHamilton",
+      "Fulton",
+      "FultonKnox",
+      "Gallatin",
+      "Greene",
+      "Grundy",
+      "GrundyWill",
+      "Hamilton",
+      "Hancock",
+      "HancockHenderson",
+      "Hardin",
+      "Henderson",
+      "Henry",
+      "Iroquois",
+      "Jackson",
+      "Jasper",
+      "Jefferson",
+      "Jersey",
+      "Jo Daviess",
+      "Johnson",
+      "Kane",
+      "KaneCook",
+      "KaneDeKalb",
+      "KaneDuPage",
+      "KaneDuPageWillKendall",
+      "KaneKendall",
+      "Kankakee",
+      "KankakeeIroquois",
+      "Kendall",
+      "KendallLaSalle",
+      "Knox",
+      "LaSalle",
+      "LaSalleLivingston",
+      "Lake",
+      "LakeCook",
+      "LakeMcHenry",
+      "Lawrence",
+      "Lee",
+      "LeeDeKalb",
+      "Livingston",
+      "LivingstonGrundy",
+      "Logan",
+      "LoganMason",
+      "Macon",
+      "Macoupin",
+      "MacoupinJersey",
+      "MacoupinSangamon",
+      "Madison",
+      "MadisonSt. Clair",
+      "Marion",
+      "MarionClintonJeffersonWashington",
+      "Marshall",
+      "Mason",
+      "Massac",
+      "McDonough",
+      "McHenry",
+      "McHenryKane",
+      "McHenryLake",
+      "McLean",
+      "Menard",
+      "Mercer",
+      "Monroe",
+      "MonroeSt. Clair",
+      "Montgomery",
+      "MontgomeryBond",
+      "MontgomeryChristian",
+      "Morgan",
+      "Moultrie",
+      "Ogle",
+      "Peoria",
+      "PeoriaWoodford",
+      "Perry",
+      "Piatt",
+      "Pike",
+      "Pope",
+      "Pulaski",
+      "Putnam",
+      "Randolph",
+      "Richland",
+      "Rock Island",
+      "Rock IslandHenry",
+      "Rock IslandMercer",
+      "Saline",
+      "Sangamon",
+      "Schuyler",
+      "Scott",
+      "Shelby",
+      "ShelbyChristian",
+      "St. Clair",
+      "St. Clair County",
+      "St. ClairMadison",
+      "Stark",
+      "Stephenson",
+      "Tazewell",
+      "Union",
+      "Vermilion",
+      "Wabash",
+      "Warren",
+      "WarrenMercer",
+      "Washington",
+      "Wayne",
+      "White",
+      "WhiteWayne",
+      "Whiteside",
+      "Will",
+      "WillDuPage",
+      "WillGrundy",
+      "WillKendall",
+      "Williamson",
+      "WilliamsonFranklin",
+      "WilliamsonSaline",
+      "Winnebago",
+      "WinnebagoBoone",
+      "Woodford",
+      "WoodfordMarshall",
+      "WoodfordTazewell",
+      "—"
+    ]
+  },
+  "municipalities": [
+    {
+      "name": "sq mi",
+      "designation": "km2"
+    },
+    {
+      "name": "Abingdon",
+      "designation": "City",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Addieville",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Addison",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Adeline",
+      "designation": "Village",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Albany",
+      "designation": "Village",
+      "primary_county": "Whiteside"
+    },
+    {
+      "name": "Albers",
+      "designation": "Village",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Albion†",
+      "designation": "City",
+      "primary_county": "Edwards"
+    },
+    {
+      "name": "Aledo†",
+      "designation": "City",
+      "primary_county": "Mercer"
+    },
+    {
+      "name": "Alexis",
+      "designation": "Village",
+      "primary_county": "WarrenMercer"
+    },
+    {
+      "name": "Algonquin",
+      "designation": "Village",
+      "primary_county": "McHenryKane"
+    },
+    {
+      "name": "Alhambra",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Allendale",
+      "designation": "Village",
+      "primary_county": "Wabash"
+    },
+    {
+      "name": "Allenville",
+      "designation": "Village",
+      "primary_county": "Moultrie"
+    },
+    {
+      "name": "Allerton",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Alma",
+      "designation": "Village",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Alpha",
+      "designation": "Village",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Alsey",
+      "designation": "Village",
+      "primary_county": "Scott"
+    },
+    {
+      "name": "Alsip",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Altamont",
+      "designation": "City",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Alton",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Altona",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Alto Pass",
+      "designation": "Village",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Alvin",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Amboy",
+      "designation": "City",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Anchor",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Andalusia",
+      "designation": "Village",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Andover",
+      "designation": "Village",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Anna",
+      "designation": "City",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Annawan",
+      "designation": "Town",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Antioch",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Apple River",
+      "designation": "Village",
+      "primary_county": "Jo Daviess"
+    },
+    {
+      "name": "Arcola",
+      "designation": "City",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Arenzville",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "name": "Argenta",
+      "designation": "Village",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Arlington",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Arlington Heights",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Armington",
+      "designation": "Village",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "Aroma Park",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Arrowsmith",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Arthur",
+      "designation": "Village",
+      "primary_county": "DouglasMoultrie"
+    },
+    {
+      "name": "Ashkum",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Ashland",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "name": "Ashley",
+      "designation": "City",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Ashmore",
+      "designation": "Village",
+      "primary_county": "Coles"
+    },
+    {
+      "name": "Ashton",
+      "designation": "Village",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Assumption",
+      "designation": "City",
+      "primary_county": "Christian"
+    },
+    {
+      "name": "Astoria",
+      "designation": "Town",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Athens",
+      "designation": "City",
+      "primary_county": "Menard"
+    },
+    {
+      "name": "Atkinson",
+      "designation": "Town",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Atlanta",
+      "designation": "City",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Atwood",
+      "designation": "Village",
+      "primary_county": "DouglasPiatt"
+    },
+    {
+      "name": "Auburn",
+      "designation": "City",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Augusta",
+      "designation": "Village",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Aurora",
+      "designation": "City",
+      "primary_county": "KaneDuPageWillKendall"
+    },
+    {
+      "name": "Ava",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Aviston",
+      "designation": "Village",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Avon",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Baldwin",
+      "designation": "Village",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Banner",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Bannockburn",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Bardolph",
+      "designation": "Village",
+      "primary_county": "McDonough"
+    },
+    {
+      "name": "Barrington",
+      "designation": "Village",
+      "primary_county": "CookLake"
+    },
+    {
+      "name": "Barrington Hills",
+      "designation": "Village",
+      "primary_county": "CookMcHenryLakeKane"
+    },
+    {
+      "name": "Barry",
+      "designation": "City",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Bartelso",
+      "designation": "Village",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Bartlett",
+      "designation": "Village",
+      "primary_county": "CookDuPageKane"
+    },
+    {
+      "name": "Bartonville",
+      "designation": "Village",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Basco",
+      "designation": "Village",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Batavia",
+      "designation": "City",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Batchtown",
+      "designation": "Village",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Bath",
+      "designation": "Village",
+      "primary_county": "Mason"
+    },
+    {
+      "name": "Baylis",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Bay View Gardens",
+      "designation": "Village",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "Beach Park",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Beardstown",
+      "designation": "City",
+      "primary_county": "Cass"
+    },
+    {
+      "name": "Beaverville",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Beckemeyer",
+      "designation": "Village",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Bedford Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Beecher",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Beecher City",
+      "designation": "Village",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Belgium",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Belknap",
+      "designation": "Village",
+      "primary_county": "Johnson"
+    },
+    {
+      "name": "Belle Prairie City",
+      "designation": "Town",
+      "primary_county": "Hamilton"
+    },
+    {
+      "name": "Belle Rive",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Belleville†",
+      "designation": "City",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Bellevue",
+      "designation": "Village",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Bellflower",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Bellmont",
+      "designation": "Village",
+      "primary_county": "Wabash"
+    },
+    {
+      "name": "Bellwood",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Belvidere†",
+      "designation": "City",
+      "primary_county": "Boone"
+    },
+    {
+      "name": "Bement",
+      "designation": "Village",
+      "primary_county": "Piatt"
+    },
+    {
+      "name": "Benld",
+      "designation": "City",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Bensenville",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Benson",
+      "designation": "Village",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "Bentley",
+      "designation": "Town",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Benton†",
+      "designation": "City",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Berkeley",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Berlin",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Berwyn",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Bethalto",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Bethany",
+      "designation": "Village",
+      "primary_county": "Moultrie"
+    },
+    {
+      "name": "Biggsville",
+      "designation": "Village",
+      "primary_county": "Henderson"
+    },
+    {
+      "name": "Big Rock",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Bingham",
+      "designation": "Village",
+      "primary_county": "Fayette"
+    },
+    {
+      "name": "Bishop Hill",
+      "designation": "Village",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Bismarck",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Blandinsville",
+      "designation": "Village",
+      "primary_county": "McDonough"
+    },
+    {
+      "name": "Bloomingdale",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Bloomington†",
+      "designation": "City",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Blue Island",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Blue Mound",
+      "designation": "Village",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Bluffs",
+      "designation": "Village",
+      "primary_county": "Scott"
+    },
+    {
+      "name": "Bluford",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Bolingbrook",
+      "designation": "Village",
+      "primary_county": "WillDuPage"
+    },
+    {
+      "name": "Bondville",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Bone Gap",
+      "designation": "Village",
+      "primary_county": "Edwards"
+    },
+    {
+      "name": "Bonfield",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Bonnie",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Bourbonnais",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Bowen",
+      "designation": "Village",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Braceville",
+      "designation": "Village",
+      "primary_county": "Grundy"
+    },
+    {
+      "name": "Bradford",
+      "designation": "Village",
+      "primary_county": "Stark"
+    },
+    {
+      "name": "Bradley",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Braidwood",
+      "designation": "City",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Breese",
+      "designation": "City",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Bridgeport",
+      "designation": "City",
+      "primary_county": "Lawrence"
+    },
+    {
+      "name": "Bridgeview",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Brighton",
+      "designation": "Village",
+      "primary_county": "MacoupinJersey"
+    },
+    {
+      "name": "Brimfield",
+      "designation": "Village",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Broadlands",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Broadview",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Broadwell",
+      "designation": "Village",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Brocton",
+      "designation": "Village",
+      "primary_county": "Edgar"
+    },
+    {
+      "name": "Brookfield",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Brooklyn",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Brookport",
+      "designation": "City",
+      "primary_county": "Massac"
+    },
+    {
+      "name": "Broughton",
+      "designation": "Village",
+      "primary_county": "Hamilton"
+    },
+    {
+      "name": "Browning",
+      "designation": "Village",
+      "primary_county": "Schuyler"
+    },
+    {
+      "name": "Browns",
+      "designation": "Village",
+      "primary_county": "Edwards"
+    },
+    {
+      "name": "Brownstown",
+      "designation": "Village",
+      "primary_county": "Fayette"
+    },
+    {
+      "name": "Brussels",
+      "designation": "Village",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Bryant",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Buckingham",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Buckley",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Buckner",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Buda",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Buffalo",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Buffalo Grove",
+      "designation": "Village",
+      "primary_county": "CookLake"
+    },
+    {
+      "name": "Bull Valley",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Bulpitt",
+      "designation": "Village",
+      "primary_county": "Christian"
+    },
+    {
+      "name": "Buncombe",
+      "designation": "Village",
+      "primary_county": "Johnson"
+    },
+    {
+      "name": "Bunker Hill",
+      "designation": "City",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Burbank",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Bureau Junction",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Burlington",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Burnham",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Burnt Prairie",
+      "designation": "Village",
+      "primary_county": "White"
+    },
+    {
+      "name": "Burr Ridge",
+      "designation": "Village",
+      "primary_county": "DuPageCook"
+    },
+    {
+      "name": "Bush",
+      "designation": "Village",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Bushnell",
+      "designation": "City",
+      "primary_county": "McDonough"
+    },
+    {
+      "name": "Butler",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Byron",
+      "designation": "City",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Cabery",
+      "designation": "Village",
+      "primary_county": "FordKankakee"
+    },
+    {
+      "name": "Cahokia Heights[a]",
+      "designation": "City",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Cairo†",
+      "designation": "City",
+      "primary_county": "Alexander"
+    },
+    {
+      "name": "Caledonia",
+      "designation": "Village",
+      "primary_county": "Boone"
+    },
+    {
+      "name": "Calhoun",
+      "designation": "Village",
+      "primary_county": "Richland"
+    },
+    {
+      "name": "Calumet City",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Calumet Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Camargo",
+      "designation": "Village",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Cambria",
+      "designation": "Village",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Cambridge†",
+      "designation": "Village",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Camden",
+      "designation": "Village",
+      "primary_county": "Schuyler"
+    },
+    {
+      "name": "Campbell Hill",
+      "designation": "Village",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Camp Point",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Campton Hills",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Campus",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Canton",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Cantrall",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Capron",
+      "designation": "Village",
+      "primary_county": "Boone"
+    },
+    {
+      "name": "Carbon Cliff",
+      "designation": "Village",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Carbondale",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Carbon Hill",
+      "designation": "Village",
+      "primary_county": "Grundy"
+    },
+    {
+      "name": "Carlinville†",
+      "designation": "City",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Carlock",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Carlyle†",
+      "designation": "City",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Carmi†",
+      "designation": "City",
+      "primary_county": "White"
+    },
+    {
+      "name": "Carol Stream",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Carpentersville",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Carrier Mills",
+      "designation": "Village",
+      "primary_county": "Saline"
+    },
+    {
+      "name": "Carrollton†",
+      "designation": "City",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Carterville",
+      "designation": "City",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Carthage†",
+      "designation": "City",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Cary",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Casey",
+      "designation": "City",
+      "primary_county": "ClarkCumberland"
+    },
+    {
+      "name": "Caseyville",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Catlin",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Cave-In-Rock",
+      "designation": "Village",
+      "primary_county": "Hardin"
+    },
+    {
+      "name": "Cedar Point",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Cedarville",
+      "designation": "Village",
+      "primary_county": "Stephenson"
+    },
+    {
+      "name": "Central City",
+      "designation": "Village",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Centralia",
+      "designation": "City",
+      "primary_county": "MarionClintonJeffersonWashington"
+    },
+    {
+      "name": "Cerro Gordo",
+      "designation": "Village",
+      "primary_county": "Piatt"
+    },
+    {
+      "name": "Chadwick",
+      "designation": "Village",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Champaign",
+      "designation": "City",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Chandlerville",
+      "designation": "Village",
+      "primary_county": "Cass"
+    },
+    {
+      "name": "Channahon",
+      "designation": "Village",
+      "primary_county": "WillGrundy"
+    },
+    {
+      "name": "Chapin",
+      "designation": "Village",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Charleston†",
+      "designation": "City",
+      "primary_county": "Coles"
+    },
+    {
+      "name": "Chatham",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Chatsworth",
+      "designation": "Town",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Chebanse",
+      "designation": "Village",
+      "primary_county": "KankakeeIroquois"
+    },
+    {
+      "name": "Chenoa",
+      "designation": "City",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Cherry",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Cherry Valley",
+      "designation": "Village",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "Chester†",
+      "designation": "City",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Chesterfield",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Chicago†",
+      "designation": "City",
+      "primary_county": "CookDuPage"
+    },
+    {
+      "name": "Chicago Heights",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Chicago Ridge",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Chillicothe",
+      "designation": "City",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Chrisman",
+      "designation": "City",
+      "primary_county": "Edgar"
+    },
+    {
+      "name": "Christopher",
+      "designation": "City",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Cicero",
+      "designation": "Town",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Cisco",
+      "designation": "Village",
+      "primary_county": "Piatt"
+    },
+    {
+      "name": "Cisne",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Cissna Park",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Claremont",
+      "designation": "Village",
+      "primary_county": "Richland"
+    },
+    {
+      "name": "Clarendon Hills",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Clay City",
+      "designation": "Village",
+      "primary_county": "Clay"
+    },
+    {
+      "name": "Clayton",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Clear Lake[b]",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Cleveland",
+      "designation": "Village",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Clifton",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Clinton†",
+      "designation": "City",
+      "primary_county": "De Witt"
+    },
+    {
+      "name": "Coal City",
+      "designation": "Village",
+      "primary_county": "Grundy"
+    },
+    {
+      "name": "Coalton",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Coal Valley",
+      "designation": "Village",
+      "primary_county": "Rock IslandHenry"
+    },
+    {
+      "name": "Coatsburg",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Cobden",
+      "designation": "Village",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Coffeen",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Colchester",
+      "designation": "City",
+      "primary_county": "McDonough"
+    },
+    {
+      "name": "Coleta",
+      "designation": "Village",
+      "primary_county": "Whiteside"
+    },
+    {
+      "name": "Colfax",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Collinsville",
+      "designation": "City",
+      "primary_county": "MadisonSt. Clair"
+    },
+    {
+      "name": "Colona",
+      "designation": "City",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Colp",
+      "designation": "Village",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Columbia",
+      "designation": "City",
+      "primary_county": "MonroeSt. Clair"
+    },
+    {
+      "name": "Columbus",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Compton",
+      "designation": "Village",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Concord",
+      "designation": "Village",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Congerville",
+      "designation": "Village",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "Cooksville",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Cordova",
+      "designation": "Village",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Cornell",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Cortland",
+      "designation": "Town",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Coulterville",
+      "designation": "Village",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Country Club Hills",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Countryside",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Cowden",
+      "designation": "Village",
+      "primary_county": "Shelby"
+    },
+    {
+      "name": "Crainville",
+      "designation": "Village",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Creal Springs",
+      "designation": "City",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Crescent City",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Crest Hill",
+      "designation": "City",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Creston",
+      "designation": "Village",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Crestwood",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Crete",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Creve Coeur",
+      "designation": "Village",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "Crossville",
+      "designation": "Village",
+      "primary_county": "White"
+    },
+    {
+      "name": "Crystal Lake",
+      "designation": "City",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Cuba",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Cullom",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Curran",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Cutler",
+      "designation": "Village",
+      "primary_county": "Perry"
+    },
+    {
+      "name": "Cypress",
+      "designation": "Village",
+      "primary_county": "Johnson"
+    },
+    {
+      "name": "Dahlgren",
+      "designation": "Village",
+      "primary_county": "Hamilton"
+    },
+    {
+      "name": "Dakota",
+      "designation": "Village",
+      "primary_county": "Stephenson"
+    },
+    {
+      "name": "Dallas City",
+      "designation": "City",
+      "primary_county": "HancockHenderson"
+    },
+    {
+      "name": "Dalton City",
+      "designation": "Village",
+      "primary_county": "Moultrie"
+    },
+    {
+      "name": "Dalzell",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Damiansville",
+      "designation": "Village",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Dana",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Danforth",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Danvers",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Danville†",
+      "designation": "City",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Darien",
+      "designation": "City",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Darmstadt",
+      "designation": "Census-designated place",
+      "primary_county": "St. Clair County"
+    },
+    {
+      "name": "Davis",
+      "designation": "Village",
+      "primary_county": "Stephenson"
+    },
+    {
+      "name": "Davis Junction",
+      "designation": "Village",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Dawson",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Decatur†",
+      "designation": "City",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Deer Creek",
+      "designation": "Village",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "Deerfield",
+      "designation": "Village",
+      "primary_county": "LakeCook"
+    },
+    {
+      "name": "Deer Grove",
+      "designation": "Village",
+      "primary_county": "Whiteside"
+    },
+    {
+      "name": "Deer Park",
+      "designation": "Village",
+      "primary_county": "LakeCook"
+    },
+    {
+      "name": "DeKalb",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "De Land",
+      "designation": "Village",
+      "primary_county": "Piatt"
+    },
+    {
+      "name": "Delavan",
+      "designation": "City",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "De Pue",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "De Soto",
+      "designation": "Village",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Des Plaines",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Detroit",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "De Witt",
+      "designation": "Village",
+      "primary_county": "De Witt"
+    },
+    {
+      "name": "Diamond",
+      "designation": "Village",
+      "primary_county": "GrundyWill"
+    },
+    {
+      "name": "Dieterich",
+      "designation": "Village",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Divernon",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Dix",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Dixmoor",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Dixon†",
+      "designation": "City",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Dolton",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Dongola",
+      "designation": "Village",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Donnellson",
+      "designation": "Village",
+      "primary_county": "MontgomeryBond"
+    },
+    {
+      "name": "Donovan",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Dorchester",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Dover",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Dowell",
+      "designation": "Village",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Downers Grove",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Downs",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Du Bois",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Dunfermline",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Dunlap",
+      "designation": "Village",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Dupo",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Du Quoin",
+      "designation": "City",
+      "primary_county": "Perry"
+    },
+    {
+      "name": "Durand",
+      "designation": "Village",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "Dwight",
+      "designation": "Village",
+      "primary_county": "LivingstonGrundy"
+    },
+    {
+      "name": "Eagarville",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Earlville",
+      "designation": "City",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "East Alton",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "East Brooklyn",
+      "designation": "Village",
+      "primary_county": "Grundy"
+    },
+    {
+      "name": "East Cape Girardeau",
+      "designation": "Village",
+      "primary_county": "Alexander"
+    },
+    {
+      "name": "East Carondelet",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "East Dubuque",
+      "designation": "City",
+      "primary_county": "Jo Daviess"
+    },
+    {
+      "name": "East Dundee",
+      "designation": "Village",
+      "primary_county": "KaneCook"
+    },
+    {
+      "name": "East Galesburg",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "East Gillespie",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "East Hazel Crest",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "East Moline",
+      "designation": "City",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Easton",
+      "designation": "Village",
+      "primary_county": "Mason"
+    },
+    {
+      "name": "East Peoria",
+      "designation": "City",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "East St. Louis",
+      "designation": "City",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Eddyville",
+      "designation": "Village",
+      "primary_county": "Pope"
+    },
+    {
+      "name": "Edgewood",
+      "designation": "Village",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Edinburg",
+      "designation": "Village",
+      "primary_county": "Christian"
+    },
+    {
+      "name": "Edwardsville†",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Effingham†",
+      "designation": "City",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Elburn",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "El Dara",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Eldorado",
+      "designation": "City",
+      "primary_county": "Saline"
+    },
+    {
+      "name": "Eldred",
+      "designation": "Village",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Elgin",
+      "designation": "City",
+      "primary_county": "KaneCook"
+    },
+    {
+      "name": "Elizabeth",
+      "designation": "Village",
+      "primary_county": "Jo Daviess"
+    },
+    {
+      "name": "Elizabethtown†",
+      "designation": "Village",
+      "primary_county": "Hardin"
+    },
+    {
+      "name": "Elk Grove Village",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Elkhart",
+      "designation": "Village",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Elkville",
+      "designation": "Village",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Elliott",
+      "designation": "Village",
+      "primary_county": "Ford"
+    },
+    {
+      "name": "Ellis Grove",
+      "designation": "Village",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Ellisville",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Ellsworth",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Elmhurst",
+      "designation": "City",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Elmwood",
+      "designation": "City",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Elmwood Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "El Paso",
+      "designation": "City",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "Elsah",
+      "designation": "Village",
+      "primary_county": "Jersey"
+    },
+    {
+      "name": "Elvaston",
+      "designation": "Village",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Elwood",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Emden",
+      "designation": "Village",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Emington",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Energy",
+      "designation": "Village",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Enfield",
+      "designation": "Village",
+      "primary_county": "White"
+    },
+    {
+      "name": "Equality",
+      "designation": "Village",
+      "primary_county": "Gallatin"
+    },
+    {
+      "name": "Erie",
+      "designation": "Village",
+      "primary_county": "Whiteside"
+    },
+    {
+      "name": "Essex",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Eureka†",
+      "designation": "City",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "Evanston",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Evansville",
+      "designation": "Village",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Evergreen Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Ewing",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Exeter",
+      "designation": "Village",
+      "primary_county": "Scott"
+    },
+    {
+      "name": "Fairbury",
+      "designation": "City",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Fairfield†",
+      "designation": "City",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Fairmont City",
+      "designation": "Village",
+      "primary_county": "St. ClairMadison"
+    },
+    {
+      "name": "Fairmount",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Fairview",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Fairview Heights",
+      "designation": "City",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Farina",
+      "designation": "Village",
+      "primary_county": "Fayette"
+    },
+    {
+      "name": "Farmer City",
+      "designation": "City",
+      "primary_county": "De Witt"
+    },
+    {
+      "name": "Farmersville",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Farmington",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Fayetteville",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Ferris",
+      "designation": "Village",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Fidelity",
+      "designation": "Village",
+      "primary_county": "Jersey"
+    },
+    {
+      "name": "Fieldon",
+      "designation": "Village",
+      "primary_county": "Jersey"
+    },
+    {
+      "name": "Fillmore",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Findlay",
+      "designation": "Village",
+      "primary_county": "Shelby"
+    },
+    {
+      "name": "Fisher",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Fithian",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Flanagan",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Flat Rock",
+      "designation": "Village",
+      "primary_county": "Crawford"
+    },
+    {
+      "name": "Flora",
+      "designation": "City",
+      "primary_county": "Clay"
+    },
+    {
+      "name": "Florence",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Flossmoor",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Foosland",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Ford Heights",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Forest City",
+      "designation": "Village",
+      "primary_county": "Mason"
+    },
+    {
+      "name": "Forest Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Forest View",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Forrest",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Forreston",
+      "designation": "Village",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Forsyth",
+      "designation": "Village",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Fox Lake",
+      "designation": "Village",
+      "primary_county": "LakeMcHenry"
+    },
+    {
+      "name": "Fox River Grove",
+      "designation": "Village",
+      "primary_county": "McHenryLake"
+    },
+    {
+      "name": "Frankfort",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Franklin",
+      "designation": "Village",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Franklin Grove",
+      "designation": "Village",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Franklin Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Freeburg",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Freeman Spur",
+      "designation": "Village",
+      "primary_county": "WilliamsonFranklin"
+    },
+    {
+      "name": "Freeport†",
+      "designation": "City",
+      "primary_county": "Stephenson"
+    },
+    {
+      "name": "Fulton",
+      "designation": "City",
+      "primary_county": "Whiteside"
+    },
+    {
+      "name": "Fults",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Galatia",
+      "designation": "Village",
+      "primary_county": "Saline"
+    },
+    {
+      "name": "Galena†",
+      "designation": "City",
+      "primary_county": "Jo Daviess"
+    },
+    {
+      "name": "Galesburg†",
+      "designation": "City",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Galva",
+      "designation": "City",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Gardner",
+      "designation": "Village",
+      "primary_county": "Grundy"
+    },
+    {
+      "name": "Garrett",
+      "designation": "Village",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Gays",
+      "designation": "Village",
+      "primary_county": "Moultrie"
+    },
+    {
+      "name": "Geneseo",
+      "designation": "City",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Geneva†",
+      "designation": "City",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Genoa",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Georgetown",
+      "designation": "City",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Germantown",
+      "designation": "Village",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Germantown Hills",
+      "designation": "Village",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "German Valley",
+      "designation": "Village",
+      "primary_county": "Stephenson"
+    },
+    {
+      "name": "Gibson City",
+      "designation": "City",
+      "primary_county": "Ford"
+    },
+    {
+      "name": "Gifford",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Gilberts",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Gillespie",
+      "designation": "City",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Gilman",
+      "designation": "City",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Girard",
+      "designation": "City",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Gladstone",
+      "designation": "Village",
+      "primary_county": "Henderson"
+    },
+    {
+      "name": "Glasford",
+      "designation": "Village",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Glasgow",
+      "designation": "Village",
+      "primary_county": "Scott"
+    },
+    {
+      "name": "Glen Carbon",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Glencoe",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Glendale Heights",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Glen Ellyn",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Glenview",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Glenwood",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Godfrey",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Godley",
+      "designation": "Village",
+      "primary_county": "WillGrundy"
+    },
+    {
+      "name": "Golconda†",
+      "designation": "City",
+      "primary_county": "Pope"
+    },
+    {
+      "name": "Golden",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Golden Gate",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Golf",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Goodfield",
+      "designation": "Village",
+      "primary_county": "WoodfordTazewell"
+    },
+    {
+      "name": "Good Hope",
+      "designation": "Village",
+      "primary_county": "McDonough"
+    },
+    {
+      "name": "Goreville",
+      "designation": "Village",
+      "primary_county": "Johnson"
+    },
+    {
+      "name": "Gorham",
+      "designation": "Village",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Grafton",
+      "designation": "City",
+      "primary_county": "Jersey"
+    },
+    {
+      "name": "Grand Ridge",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Grand Tower",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Grandview",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Granite City",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Grantfork",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Grant Park",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Granville",
+      "designation": "Village",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "Grayslake",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Grayville",
+      "designation": "City",
+      "primary_county": "EdwardsWhite"
+    },
+    {
+      "name": "Greenfield",
+      "designation": "City",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Green Oaks",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Greenup",
+      "designation": "Village",
+      "primary_county": "Cumberland"
+    },
+    {
+      "name": "Green Valley",
+      "designation": "Village",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "Greenview",
+      "designation": "Village",
+      "primary_county": "Menard"
+    },
+    {
+      "name": "Greenville†",
+      "designation": "City",
+      "primary_county": "Bond"
+    },
+    {
+      "name": "Greenwood",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Gridley",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Griggsville",
+      "designation": "City",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Gulfport",
+      "designation": "Village",
+      "primary_county": "Henderson"
+    },
+    {
+      "name": "Gurnee",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Hainesville",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Hamburg",
+      "designation": "Village",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Hamel",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Hamilton",
+      "designation": "City",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Hammond",
+      "designation": "Village",
+      "primary_county": "Piatt"
+    },
+    {
+      "name": "Hampshire",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Hampton",
+      "designation": "Village",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Hanaford",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Hanna City",
+      "designation": "Village",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Hanover",
+      "designation": "Village",
+      "primary_county": "Jo Daviess"
+    },
+    {
+      "name": "Hanover Park",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Hardin†",
+      "designation": "Village",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Harmon",
+      "designation": "Village",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Harrisburg†",
+      "designation": "City",
+      "primary_county": "Saline"
+    },
+    {
+      "name": "Harristown",
+      "designation": "Village",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Hartford",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Hartsburg",
+      "designation": "Village",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Harvard",
+      "designation": "City",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Harvel",
+      "designation": "Village",
+      "primary_county": "MontgomeryChristian"
+    },
+    {
+      "name": "Harvey",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Harwood Heights",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Havana†",
+      "designation": "City",
+      "primary_county": "Mason"
+    },
+    {
+      "name": "Hawthorn Woods",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Hazel Crest",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Hebron",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Hecker",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Henderson",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Hennepin†",
+      "designation": "Village",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "Henning",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Henry",
+      "designation": "City",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "Herrick",
+      "designation": "Village",
+      "primary_county": "Shelby"
+    },
+    {
+      "name": "Herrin",
+      "designation": "City",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Herscher",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Hettick",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Heyworth",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Hickory Hills",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Hidalgo",
+      "designation": "Village",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Highland",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Highland Park",
+      "designation": "City",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Highwood",
+      "designation": "City",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Hillcrest",
+      "designation": "Village",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Hillsboro†",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Hillsdale",
+      "designation": "Village",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Hillside",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Hillview",
+      "designation": "Village",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Hinckley",
+      "designation": "Village",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Hindsboro",
+      "designation": "Village",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Hinsdale",
+      "designation": "Village",
+      "primary_county": "DuPageCook"
+    },
+    {
+      "name": "Hodgkins",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Hoffman",
+      "designation": "Village",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Hoffman Estates",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Holiday Hills",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Hollowayville",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Homer",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Homer Glen",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Hometown",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Homewood",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Hoopeston",
+      "designation": "City",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Hooppole",
+      "designation": "Village",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Hopedale",
+      "designation": "Village",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "Hopewell",
+      "designation": "Village",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "Hopkins Park",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Hoyleton",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Hudson",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Huey",
+      "designation": "Village",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Hull",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Humboldt",
+      "designation": "Village",
+      "primary_county": "Coles"
+    },
+    {
+      "name": "Hume",
+      "designation": "Village",
+      "primary_county": "Edgar"
+    },
+    {
+      "name": "Huntley",
+      "designation": "Village",
+      "primary_county": "McHenryKane"
+    },
+    {
+      "name": "Hurst",
+      "designation": "City",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Hutsonville",
+      "designation": "Village",
+      "primary_county": "Crawford"
+    },
+    {
+      "name": "Illiopolis",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Ina",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Indian Creek",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Indian Head Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Indianola",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Industry",
+      "designation": "Village",
+      "primary_county": "McDonough"
+    },
+    {
+      "name": "Inverness",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Iola",
+      "designation": "Village",
+      "primary_county": "Clay"
+    },
+    {
+      "name": "Ipava",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Iroquois",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Irving",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Irvington",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Irwin",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Island Lake",
+      "designation": "Village",
+      "primary_county": "LakeMcHenry"
+    },
+    {
+      "name": "Itasca",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Iuka",
+      "designation": "Village",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Ivesdale",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Jacksonville†",
+      "designation": "City",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Jeffersonville",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Jeisyville",
+      "designation": "Village",
+      "primary_county": "Christian"
+    },
+    {
+      "name": "Jerome",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Jerseyville†",
+      "designation": "City",
+      "primary_county": "Jersey"
+    },
+    {
+      "name": "Jewett",
+      "designation": "Village",
+      "primary_county": "Cumberland"
+    },
+    {
+      "name": "Johnsburg",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Johnsonville",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Johnston City",
+      "designation": "City",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Joliet†",
+      "designation": "City",
+      "primary_county": "WillKendall"
+    },
+    {
+      "name": "Jonesboro†",
+      "designation": "City",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Joppa",
+      "designation": "Village",
+      "primary_county": "Massac"
+    },
+    {
+      "name": "Joy",
+      "designation": "Village",
+      "primary_county": "Mercer"
+    },
+    {
+      "name": "Junction",
+      "designation": "Village",
+      "primary_county": "Gallatin"
+    },
+    {
+      "name": "Junction City",
+      "designation": "Village",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Justice",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Kampsville",
+      "designation": "Village",
+      "primary_county": "Calhoun"
+    },
+    {
+      "name": "Kane",
+      "designation": "Village",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Kaneville",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Kangley",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Kankakee†",
+      "designation": "City",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Kansas",
+      "designation": "Village",
+      "primary_county": "Edgar"
+    },
+    {
+      "name": "Kappa",
+      "designation": "Village",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "Karnak",
+      "designation": "Village",
+      "primary_county": "Pulaski"
+    },
+    {
+      "name": "Kaskaskia",
+      "designation": "Village",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Keenes",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Keensburg",
+      "designation": "Village",
+      "primary_county": "Wabash"
+    },
+    {
+      "name": "Keithsburg",
+      "designation": "City",
+      "primary_county": "Mercer"
+    },
+    {
+      "name": "Kell",
+      "designation": "Village",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Kempton",
+      "designation": "Village",
+      "primary_county": "Ford"
+    },
+    {
+      "name": "Kenilworth",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Kenney",
+      "designation": "Village",
+      "primary_county": "De Witt"
+    },
+    {
+      "name": "Kewanee",
+      "designation": "City",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Keyesport",
+      "designation": "Village",
+      "primary_county": "ClintonBond"
+    },
+    {
+      "name": "Kilbourne",
+      "designation": "Village",
+      "primary_county": "Mason"
+    },
+    {
+      "name": "Kildeer",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Kincaid",
+      "designation": "Village",
+      "primary_county": "Christian"
+    },
+    {
+      "name": "Kinderhook",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Kingston",
+      "designation": "Village",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Kingston Mines",
+      "designation": "Village",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Kinmundy",
+      "designation": "City",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Kinsman",
+      "designation": "Village",
+      "primary_county": "Grundy"
+    },
+    {
+      "name": "Kirkland",
+      "designation": "Village",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Kirkwood",
+      "designation": "Village",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Knoxville",
+      "designation": "City",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Lacon†",
+      "designation": "City",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "Ladd",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "La Fayette",
+      "designation": "Village",
+      "primary_county": "Stark"
+    },
+    {
+      "name": "La Grange",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "La Grange Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "La Harpe",
+      "designation": "City",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Lake Barrington",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Lake Bluff",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Lake Forest",
+      "designation": "City",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Lake in the Hills",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Lake Ka-Ho",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Lakemoor",
+      "designation": "Village",
+      "primary_county": "McHenryLake"
+    },
+    {
+      "name": "Lake Villa",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Lakewood",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Lake Zurich",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "La Moille",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Lanark",
+      "designation": "City",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Lansing",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "La Prairie",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "La Rose",
+      "designation": "Village",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "LaSalle",
+      "designation": "City",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Latham",
+      "designation": "Village",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Lawrenceville†",
+      "designation": "City",
+      "primary_county": "Lawrence"
+    },
+    {
+      "name": "Leaf River",
+      "designation": "Village",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Lebanon",
+      "designation": "City",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Lee",
+      "designation": "Village",
+      "primary_county": "LeeDeKalb"
+    },
+    {
+      "name": "Leland",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Leland Grove",
+      "designation": "City",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Lemont",
+      "designation": "Village",
+      "primary_county": "CookDuPage"
+    },
+    {
+      "name": "Lena",
+      "designation": "Village",
+      "primary_county": "Stephenson"
+    },
+    {
+      "name": "Lenzburg",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Leonore",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Lerna",
+      "designation": "Village",
+      "primary_county": "Coles"
+    },
+    {
+      "name": "Le Roy",
+      "designation": "City",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Lewistown†",
+      "designation": "City",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Lexington",
+      "designation": "City",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Liberty",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Libertyville",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Lily Lake",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Lima",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Limestone",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Lincoln†",
+      "designation": "City",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Lincolnshire",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Lincolnwood",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Lindenhurst",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Lisbon",
+      "designation": "Village",
+      "primary_county": "Kendall"
+    },
+    {
+      "name": "Lisle",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Litchfield",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Littleton",
+      "designation": "Village",
+      "primary_county": "Schuyler"
+    },
+    {
+      "name": "Little York",
+      "designation": "Village",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Liverpool",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Livingston",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Loami",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Lockport",
+      "designation": "City",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Loda",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Lomax",
+      "designation": "Village",
+      "primary_county": "Henderson"
+    },
+    {
+      "name": "Lombard",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "London Mills",
+      "designation": "Village",
+      "primary_county": "FultonKnox"
+    },
+    {
+      "name": "Long Creek",
+      "designation": "Village",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Long Grove",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Long Point",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Longview",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Loraine",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Lostant",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Louisville†",
+      "designation": "Village",
+      "primary_county": "Clay"
+    },
+    {
+      "name": "Loves Park",
+      "designation": "City",
+      "primary_county": "WinnebagoBoone"
+    },
+    {
+      "name": "Lovington",
+      "designation": "Village",
+      "primary_county": "Moultrie"
+    },
+    {
+      "name": "Ludlow",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Lyndon",
+      "designation": "Village",
+      "primary_county": "Whiteside"
+    },
+    {
+      "name": "Lynnville",
+      "designation": "Village",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Lynwood",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Lyons",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Macedonia",
+      "designation": "Village",
+      "primary_county": "FranklinHamilton"
+    },
+    {
+      "name": "Machesney Park",
+      "designation": "Village",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "Mackinaw",
+      "designation": "Village",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "Macomb†",
+      "designation": "City",
+      "primary_county": "McDonough"
+    },
+    {
+      "name": "Macon",
+      "designation": "City",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Madison",
+      "designation": "City",
+      "primary_county": "MadisonSt. Clair"
+    },
+    {
+      "name": "Maeystown",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Magnolia",
+      "designation": "Village",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "Mahomet",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Makanda",
+      "designation": "Village",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Malden",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Malta",
+      "designation": "Village",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Manchester",
+      "designation": "Village",
+      "primary_county": "Scott"
+    },
+    {
+      "name": "Manhattan",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Manito",
+      "designation": "Village",
+      "primary_county": "Mason"
+    },
+    {
+      "name": "Manlius",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Mansfield",
+      "designation": "Village",
+      "primary_county": "Piatt"
+    },
+    {
+      "name": "Manteno",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Maple Park",
+      "designation": "Village",
+      "primary_county": "KaneDeKalb"
+    },
+    {
+      "name": "Mapleton",
+      "designation": "Village",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Maquon",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Marengo",
+      "designation": "City",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Marietta",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Marine",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Marion†",
+      "designation": "City",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Marissa",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Mark",
+      "designation": "Village",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "Markham",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Maroa",
+      "designation": "City",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Marquette Heights",
+      "designation": "City",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "Marseilles",
+      "designation": "City",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Marshall†",
+      "designation": "City",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Martinsville",
+      "designation": "City",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "Martinton",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Maryville",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Mascoutah",
+      "designation": "City",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Mason",
+      "designation": "Town",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Mason City",
+      "designation": "City",
+      "primary_county": "Mason"
+    },
+    {
+      "name": "Matherville",
+      "designation": "Village",
+      "primary_county": "Mercer"
+    },
+    {
+      "name": "Matteson",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Mattoon",
+      "designation": "City",
+      "primary_county": "Coles"
+    },
+    {
+      "name": "Maunie",
+      "designation": "Village",
+      "primary_county": "White"
+    },
+    {
+      "name": "Maywood",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Mazon",
+      "designation": "Village",
+      "primary_county": "Grundy"
+    },
+    {
+      "name": "McClure",
+      "designation": "Village",
+      "primary_county": "Alexander"
+    },
+    {
+      "name": "McCook",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "McCullom Lake",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "McHenry",
+      "designation": "City",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "McLean",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "McLeansboro†",
+      "designation": "City",
+      "primary_county": "Hamilton"
+    },
+    {
+      "name": "McNabb",
+      "designation": "Village",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "Mechanicsburg",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Media",
+      "designation": "Village",
+      "primary_county": "Henderson"
+    },
+    {
+      "name": "Medora",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Melrose Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Melvin",
+      "designation": "Village",
+      "primary_county": "Ford"
+    },
+    {
+      "name": "Mendon",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Mendota",
+      "designation": "City",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Menominee",
+      "designation": "Village",
+      "primary_county": "Jo Daviess"
+    },
+    {
+      "name": "Meredosia",
+      "designation": "Village",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Merrionette Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Metamora",
+      "designation": "Village",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "Metcalf",
+      "designation": "Village",
+      "primary_county": "Edgar"
+    },
+    {
+      "name": "Metropolis†",
+      "designation": "City",
+      "primary_county": "Massac"
+    },
+    {
+      "name": "Mettawa",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Middletown",
+      "designation": "Village",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Midlothian",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Milan",
+      "designation": "Village",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Milford",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Millbrook",
+      "designation": "Village",
+      "primary_county": "Kendall"
+    },
+    {
+      "name": "Mill Creek",
+      "designation": "Village",
+      "primary_county": "Union"
+    },
+    {
+      "name": "Milledgeville",
+      "designation": "Village",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Millington",
+      "designation": "Village",
+      "primary_county": "KendallLaSalle"
+    },
+    {
+      "name": "Mill Shoals",
+      "designation": "Village",
+      "primary_county": "WhiteWayne"
+    },
+    {
+      "name": "Millstadt",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Milton",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Mineral",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Minier",
+      "designation": "Village",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "Minonk",
+      "designation": "City",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "Minooka",
+      "designation": "Village",
+      "primary_county": "GrundyWill"
+    },
+    {
+      "name": "Modesto",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Mokena",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Moline",
+      "designation": "City",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Momence",
+      "designation": "City",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Monee",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Monmouth†",
+      "designation": "City",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Monroe Center",
+      "designation": "Village",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Montgomery",
+      "designation": "Village",
+      "primary_county": "KaneKendall"
+    },
+    {
+      "name": "Monticello†",
+      "designation": "City",
+      "primary_county": "Piatt"
+    },
+    {
+      "name": "Montrose",
+      "designation": "Village",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Morris†",
+      "designation": "City",
+      "primary_county": "Grundy"
+    },
+    {
+      "name": "Morrison†",
+      "designation": "City",
+      "primary_county": "Whiteside"
+    },
+    {
+      "name": "Morrisonville",
+      "designation": "Village",
+      "primary_county": "Christian"
+    },
+    {
+      "name": "Morton",
+      "designation": "Village",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "Morton Grove",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Mound City",
+      "designation": "City",
+      "primary_county": "Pulaski"
+    },
+    {
+      "name": "Mounds",
+      "designation": "City",
+      "primary_county": "Pulaski"
+    },
+    {
+      "name": "Mound Station",
+      "designation": "Village",
+      "primary_county": "Brown"
+    },
+    {
+      "name": "Mount Auburn",
+      "designation": "Village",
+      "primary_county": "Christian"
+    },
+    {
+      "name": "Mount Carmel†",
+      "designation": "City",
+      "primary_county": "Wabash"
+    },
+    {
+      "name": "Mount Carroll†",
+      "designation": "City",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Mount Clare",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Mount Erie",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Mount Morris",
+      "designation": "Village",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Mount Olive",
+      "designation": "City",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Mount Prospect",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Mount Pulaski",
+      "designation": "City",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "Mount Sterling†",
+      "designation": "City",
+      "primary_county": "Brown"
+    },
+    {
+      "name": "Mount Vernon†",
+      "designation": "City",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Mount Zion",
+      "designation": "Village",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Moweaqua",
+      "designation": "Village",
+      "primary_county": "ShelbyChristian"
+    },
+    {
+      "name": "Muddy",
+      "designation": "Village",
+      "primary_county": "Saline"
+    },
+    {
+      "name": "Mulberry Grove",
+      "designation": "Village",
+      "primary_county": "Bond"
+    },
+    {
+      "name": "Muncie",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Mundelein",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Murphysboro†",
+      "designation": "City",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Murrayville",
+      "designation": "Village",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Naperville",
+      "designation": "City",
+      "primary_county": "DuPageWill"
+    },
+    {
+      "name": "Naplate",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Naples",
+      "designation": "Town",
+      "primary_county": "Scott"
+    },
+    {
+      "name": "Nashville†",
+      "designation": "City",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Nason",
+      "designation": "City",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Nauvoo",
+      "designation": "City",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Nebo",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Nelson",
+      "designation": "Village",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Neoga",
+      "designation": "City",
+      "primary_county": "Cumberland"
+    },
+    {
+      "name": "Neponset",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Newark",
+      "designation": "Village",
+      "primary_county": "Kendall"
+    },
+    {
+      "name": "New Athens",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "New Baden",
+      "designation": "Village",
+      "primary_county": "ClintonSt. Clair"
+    },
+    {
+      "name": "New Bedford",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "New Berlin",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "New Boston",
+      "designation": "City",
+      "primary_county": "Mercer"
+    },
+    {
+      "name": "New Burnside",
+      "designation": "Village",
+      "primary_county": "Johnson"
+    },
+    {
+      "name": "New Canton",
+      "designation": "Town",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "New Douglas",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "New Grand Chain",
+      "designation": "Village",
+      "primary_county": "Pulaski"
+    },
+    {
+      "name": "New Haven",
+      "designation": "Village",
+      "primary_county": "Gallatin"
+    },
+    {
+      "name": "New Holland",
+      "designation": "Village",
+      "primary_county": "Logan"
+    },
+    {
+      "name": "New Lenox",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Newman",
+      "designation": "City",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "New Milford",
+      "designation": "Village",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "New Minden",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "New Salem",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Newton†",
+      "designation": "City",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Niantic",
+      "designation": "Village",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Niles",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Nilwood",
+      "designation": "Town",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Noble",
+      "designation": "Village",
+      "primary_county": "Richland"
+    },
+    {
+      "name": "Nokomis",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Nora",
+      "designation": "Village",
+      "primary_county": "Jo Daviess"
+    },
+    {
+      "name": "Normal",
+      "designation": "Town",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Norridge",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Norris",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Norris City",
+      "designation": "Village",
+      "primary_county": "White"
+    },
+    {
+      "name": "North Aurora",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "North Barrington",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Northbrook",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "North Chicago",
+      "designation": "City",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "North City",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Northfield",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "North Henderson",
+      "designation": "Village",
+      "primary_county": "Mercer"
+    },
+    {
+      "name": "Northlake",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "North Pekin",
+      "designation": "Village",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "North Riverside",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "North Utica",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Norwood",
+      "designation": "Village",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Oak Brook",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Oakbrook Terrace",
+      "designation": "City",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Oakdale",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Oakford",
+      "designation": "Village",
+      "primary_county": "Menard"
+    },
+    {
+      "name": "Oak Forest",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Oak Grove",
+      "designation": "Village",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Oakland",
+      "designation": "City",
+      "primary_county": "Coles"
+    },
+    {
+      "name": "Oak Lawn",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Oak Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Oakwood",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Oakwood Hills",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Oblong",
+      "designation": "Village",
+      "primary_county": "Crawford"
+    },
+    {
+      "name": "Oconee",
+      "designation": "Village",
+      "primary_county": "Shelby"
+    },
+    {
+      "name": "Odell",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Odin",
+      "designation": "Village",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "O'Fallon",
+      "designation": "City",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Ogden",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Oglesby",
+      "designation": "City",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Ohio",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Ohlman",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Okawville",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Old Mill Creek",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Old Ripley",
+      "designation": "Village",
+      "primary_county": "Bond"
+    },
+    {
+      "name": "Old Shawneetown",
+      "designation": "Village",
+      "primary_county": "Gallatin"
+    },
+    {
+      "name": "Olmsted",
+      "designation": "Village",
+      "primary_county": "Pulaski"
+    },
+    {
+      "name": "Olney†",
+      "designation": "City",
+      "primary_county": "Richland"
+    },
+    {
+      "name": "Olympia Fields",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Omaha",
+      "designation": "Village",
+      "primary_county": "Gallatin"
+    },
+    {
+      "name": "Onarga",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Oneida",
+      "designation": "City",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Oquawka†",
+      "designation": "Village",
+      "primary_county": "Henderson"
+    },
+    {
+      "name": "Orangeville",
+      "designation": "Village",
+      "primary_county": "Stephenson"
+    },
+    {
+      "name": "Oreana",
+      "designation": "Village",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Oregon†",
+      "designation": "City",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Orient",
+      "designation": "City",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Orion",
+      "designation": "Village",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Orland Hills",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Orland Park",
+      "designation": "Village",
+      "primary_county": "CookWill"
+    },
+    {
+      "name": "Oswego",
+      "designation": "Village",
+      "primary_county": "Kendall"
+    },
+    {
+      "name": "Ottawa†",
+      "designation": "City",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Otterville",
+      "designation": "Town",
+      "primary_county": "Jersey"
+    },
+    {
+      "name": "Owaneco",
+      "designation": "Village",
+      "primary_county": "Christian"
+    },
+    {
+      "name": "Palatine",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Palestine",
+      "designation": "Village",
+      "primary_county": "Crawford"
+    },
+    {
+      "name": "Palmer",
+      "designation": "Village",
+      "primary_county": "Christian"
+    },
+    {
+      "name": "Palmyra",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Palos Heights",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Palos Hills",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Palos Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Pana",
+      "designation": "City",
+      "primary_county": "ChristianShelby"
+    },
+    {
+      "name": "Panama",
+      "designation": "Village",
+      "primary_county": "BondMontgomery"
+    },
+    {
+      "name": "Panola",
+      "designation": "Village",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "Papineau",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Paris†",
+      "designation": "City",
+      "primary_county": "Edgar"
+    },
+    {
+      "name": "Park City",
+      "designation": "City",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Parkersburg",
+      "designation": "Village",
+      "primary_county": "Richland"
+    },
+    {
+      "name": "Park Forest",
+      "designation": "Village",
+      "primary_county": "CookWill"
+    },
+    {
+      "name": "Park Ridge",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Patoka",
+      "designation": "Village",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Pawnee",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Paw Paw",
+      "designation": "Village",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Paxton†",
+      "designation": "City",
+      "primary_county": "Ford"
+    },
+    {
+      "name": "Payson",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Pearl",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Pearl City",
+      "designation": "Village",
+      "primary_county": "Stephenson"
+    },
+    {
+      "name": "Pecatonica",
+      "designation": "Village",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "Pekin†",
+      "designation": "City",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "Peoria†",
+      "designation": "City",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Peoria Heights",
+      "designation": "Village",
+      "primary_county": "PeoriaWoodford"
+    },
+    {
+      "name": "Peotone",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Percy",
+      "designation": "Village",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Perry",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Peru",
+      "designation": "City",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Pesotum",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Petersburg†",
+      "designation": "City",
+      "primary_county": "Menard"
+    },
+    {
+      "name": "Phillipstown",
+      "designation": "Village",
+      "primary_county": "White"
+    },
+    {
+      "name": "Philo",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Phoenix",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Pierron",
+      "designation": "Village",
+      "primary_county": "BondMadison"
+    },
+    {
+      "name": "Pinckneyville†",
+      "designation": "City",
+      "primary_county": "Perry"
+    },
+    {
+      "name": "Pingree Grove",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Piper City",
+      "designation": "Village",
+      "primary_county": "Ford"
+    },
+    {
+      "name": "Pittsburg",
+      "designation": "Village",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Pittsfield†",
+      "designation": "City",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Plainfield",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Plainville",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Plano",
+      "designation": "City",
+      "primary_county": "Kendall"
+    },
+    {
+      "name": "Plattville",
+      "designation": "Village",
+      "primary_county": "Kendall"
+    },
+    {
+      "name": "Pleasant Hill",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Pleasant Plains",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Plymouth",
+      "designation": "Village",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Pocahontas",
+      "designation": "Village",
+      "primary_county": "Bond"
+    },
+    {
+      "name": "Polo",
+      "designation": "City",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Pontiac†",
+      "designation": "City",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Pontoon Beach",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Pontoosuc",
+      "designation": "Village",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Poplar Grove",
+      "designation": "Village",
+      "primary_county": "Boone"
+    },
+    {
+      "name": "Port Barrington",
+      "designation": "Village",
+      "primary_county": "McHenryLake"
+    },
+    {
+      "name": "Port Byron",
+      "designation": "Village",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Posen",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Potomac",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Prairie City",
+      "designation": "Village",
+      "primary_county": "McDonough"
+    },
+    {
+      "name": "Prairie du Rocher",
+      "designation": "Village",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Prairie Grove",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Princeton†",
+      "designation": "City",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Princeville",
+      "designation": "Village",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "Prophetstown",
+      "designation": "City",
+      "primary_county": "Whiteside"
+    },
+    {
+      "name": "Prospect Heights",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Pulaski",
+      "designation": "Village",
+      "primary_county": "Pulaski"
+    },
+    {
+      "name": "Quincy†",
+      "designation": "City",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Radom",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Raleigh",
+      "designation": "Village",
+      "primary_county": "Saline"
+    },
+    {
+      "name": "Ramsey",
+      "designation": "Village",
+      "primary_county": "Fayette"
+    },
+    {
+      "name": "Rankin",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Ransom",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Rantoul",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Rapids City",
+      "designation": "Village",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Raritan",
+      "designation": "Village",
+      "primary_county": "Henderson"
+    },
+    {
+      "name": "Raymond",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Red Bud",
+      "designation": "City",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Reddick",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Redmon",
+      "designation": "Village",
+      "primary_county": "Edgar"
+    },
+    {
+      "name": "Reynolds",
+      "designation": "Village",
+      "primary_county": "Rock IslandMercer"
+    },
+    {
+      "name": "Richmond",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Richton Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Richview",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Ridge Farm",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Ridgway",
+      "designation": "Village",
+      "primary_county": "Gallatin"
+    },
+    {
+      "name": "Ridott",
+      "designation": "Village",
+      "primary_county": "Stephenson"
+    },
+    {
+      "name": "Ringwood",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Rio",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Ripley",
+      "designation": "Village",
+      "primary_county": "Brown"
+    },
+    {
+      "name": "Riverdale",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "River Forest",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "River Grove",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Riverside",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Riverton",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Riverwoods",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Roanoke",
+      "designation": "Village",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "Robbins",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Roberts",
+      "designation": "Village",
+      "primary_county": "Ford"
+    },
+    {
+      "name": "Robinson†",
+      "designation": "City",
+      "primary_county": "Crawford"
+    },
+    {
+      "name": "Rochelle",
+      "designation": "City",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Rochester",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Rockbridge",
+      "designation": "Village",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Rock City",
+      "designation": "Village",
+      "primary_county": "Stephenson"
+    },
+    {
+      "name": "Rockdale",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Rock Falls",
+      "designation": "City",
+      "primary_county": "Whiteside"
+    },
+    {
+      "name": "Rockford†",
+      "designation": "City",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "Rock Island†",
+      "designation": "City",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Rockton",
+      "designation": "Village",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "Rockwood",
+      "designation": "Village",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Rolling Meadows",
+      "designation": "City",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Romeoville",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Roodhouse",
+      "designation": "City",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Roscoe",
+      "designation": "Village",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "Rose Hill",
+      "designation": "Village",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Roselle",
+      "designation": "Village",
+      "primary_county": "DuPageCook"
+    },
+    {
+      "name": "Rosemont",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Roseville",
+      "designation": "Village",
+      "primary_county": "Warren"
+    },
+    {
+      "name": "Rosiclare",
+      "designation": "City",
+      "primary_county": "Hardin"
+    },
+    {
+      "name": "Rossville",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Round Lake",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Round Lake Beach",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Round Lake Heights",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Round Lake Park",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Roxana",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Royal",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Royal Lakes",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Royalton",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Ruma",
+      "designation": "Village",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Rushville†",
+      "designation": "City",
+      "primary_county": "Schuyler"
+    },
+    {
+      "name": "Russellville",
+      "designation": "Village",
+      "primary_county": "Lawrence"
+    },
+    {
+      "name": "Rutland",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Sadorus",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Sailor Springs",
+      "designation": "Village",
+      "primary_county": "Clay"
+    },
+    {
+      "name": "St. Anne",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "St. Augustine",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "St. Charles",
+      "designation": "City",
+      "primary_county": "KaneDuPage"
+    },
+    {
+      "name": "St. David",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "St. Elmo",
+      "designation": "City",
+      "primary_county": "Fayette"
+    },
+    {
+      "name": "Ste. Marie",
+      "designation": "Village",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "St. Francisville",
+      "designation": "City",
+      "primary_county": "Lawrence"
+    },
+    {
+      "name": "St. Jacob",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "St. Johns",
+      "designation": "Village",
+      "primary_county": "Perry"
+    },
+    {
+      "name": "St. Joseph",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "St. Libory",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "St. Peter",
+      "designation": "Village",
+      "primary_county": "Fayette"
+    },
+    {
+      "name": "St. Rose[c]",
+      "designation": "Village",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Salem†",
+      "designation": "City",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Sammons Point",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Sandoval",
+      "designation": "Village",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Sandwich",
+      "designation": "City",
+      "primary_county": "DeKalbKendall"
+    },
+    {
+      "name": "San Jose",
+      "designation": "Village",
+      "primary_county": "LoganMason"
+    },
+    {
+      "name": "Sauget",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Sauk Village",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Saunemin",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Savanna",
+      "designation": "City",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Savoy",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Sawyerville",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Saybrook",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Scales Mound",
+      "designation": "Village",
+      "primary_county": "Jo Daviess"
+    },
+    {
+      "name": "Schaumburg",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Schiller Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Schram City",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Sciota",
+      "designation": "Village",
+      "primary_county": "McDonough"
+    },
+    {
+      "name": "Scottville",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Seaton",
+      "designation": "Village",
+      "primary_county": "Mercer"
+    },
+    {
+      "name": "Seatonville",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Secor",
+      "designation": "Village",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "Seneca",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Sesser",
+      "designation": "City",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Shabbona",
+      "designation": "Village",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Shannon",
+      "designation": "Village",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Shawneetown†",
+      "designation": "City",
+      "primary_county": "Gallatin"
+    },
+    {
+      "name": "Sheffield",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Shelbyville†",
+      "designation": "City",
+      "primary_county": "Shelby"
+    },
+    {
+      "name": "Sheldon",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Sheridan",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Sherman",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Sherrard",
+      "designation": "Village",
+      "primary_county": "Mercer"
+    },
+    {
+      "name": "Shiloh",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Shipman",
+      "designation": "Town",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Shorewood",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Shumway",
+      "designation": "Village",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Sibley",
+      "designation": "Village",
+      "primary_county": "Ford"
+    },
+    {
+      "name": "Sidell",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Sidney",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Sigel",
+      "designation": "Town",
+      "primary_county": "Shelby"
+    },
+    {
+      "name": "Silvis",
+      "designation": "City",
+      "primary_county": "Rock Island"
+    },
+    {
+      "name": "Simpson",
+      "designation": "Village",
+      "primary_county": "Johnson"
+    },
+    {
+      "name": "Sims",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Skokie",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Sleepy Hollow",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Smithboro",
+      "designation": "Village",
+      "primary_county": "Bond"
+    },
+    {
+      "name": "Smithfield",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Smithton",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Somonauk",
+      "designation": "Village",
+      "primary_county": "DeKalbLaSalle"
+    },
+    {
+      "name": "Sorento",
+      "designation": "Village",
+      "primary_county": "Bond"
+    },
+    {
+      "name": "South Barrington",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "South Beloit",
+      "designation": "City",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "South Chicago Heights",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "South Elgin",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Southern View",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "South Holland",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "South Jacksonville",
+      "designation": "Village",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "South Pekin",
+      "designation": "Village",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "South Roxana",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "South Wilmington",
+      "designation": "Village",
+      "primary_county": "Grundy"
+    },
+    {
+      "name": "Sparland",
+      "designation": "Village",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "Sparta",
+      "designation": "City",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Spaulding",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Spillertown",
+      "designation": "Village",
+      "primary_county": "Williamson"
+    },
+    {
+      "name": "Spring Bay",
+      "designation": "Village",
+      "primary_county": "Woodford"
+    },
+    {
+      "name": "Springerton",
+      "designation": "Village",
+      "primary_county": "White"
+    },
+    {
+      "name": "Springfield‡†[d]",
+      "designation": "City",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Spring Grove",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Spring Valley",
+      "designation": "City",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Standard",
+      "designation": "Village",
+      "primary_county": "Putnam"
+    },
+    {
+      "name": "Standard City",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Stanford",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Staunton",
+      "designation": "City",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Steeleville",
+      "designation": "Village",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Steger",
+      "designation": "Village",
+      "primary_county": "CookWill"
+    },
+    {
+      "name": "Sterling",
+      "designation": "City",
+      "primary_county": "Whiteside"
+    },
+    {
+      "name": "Steward",
+      "designation": "Village",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Stewardson",
+      "designation": "Village",
+      "primary_county": "Shelby"
+    },
+    {
+      "name": "Stickney",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Stillman Valley",
+      "designation": "Village",
+      "primary_county": "Ogle"
+    },
+    {
+      "name": "Stockton",
+      "designation": "Village",
+      "primary_county": "Jo Daviess"
+    },
+    {
+      "name": "Stonefort",
+      "designation": "Village",
+      "primary_county": "WilliamsonSaline"
+    },
+    {
+      "name": "Stone Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Stonington",
+      "designation": "Village",
+      "primary_county": "Christian"
+    },
+    {
+      "name": "Stoy",
+      "designation": "Village",
+      "primary_county": "Crawford"
+    },
+    {
+      "name": "Strasburg",
+      "designation": "Village",
+      "primary_county": "Shelby"
+    },
+    {
+      "name": "Strawn",
+      "designation": "Village",
+      "primary_county": "Livingston"
+    },
+    {
+      "name": "Streamwood",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Streator",
+      "designation": "City",
+      "primary_county": "LaSalleLivingston"
+    },
+    {
+      "name": "Stronghurst",
+      "designation": "Village",
+      "primary_county": "Henderson"
+    },
+    {
+      "name": "Sublette",
+      "designation": "Village",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Sugar Grove",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Sullivan†",
+      "designation": "City",
+      "primary_county": "Moultrie"
+    },
+    {
+      "name": "Summerfield",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Summit",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Sumner",
+      "designation": "City",
+      "primary_county": "Lawrence"
+    },
+    {
+      "name": "Sun River Terrace",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "Swansea",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Sycamore†",
+      "designation": "City",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Symerton",
+      "designation": "Village",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Table Grove",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Tallula",
+      "designation": "Village",
+      "primary_county": "Menard"
+    },
+    {
+      "name": "Tamaroa",
+      "designation": "Village",
+      "primary_county": "Perry"
+    },
+    {
+      "name": "Tamms",
+      "designation": "Village",
+      "primary_county": "Alexander"
+    },
+    {
+      "name": "Tampico",
+      "designation": "Village",
+      "primary_county": "Whiteside"
+    },
+    {
+      "name": "Taylor Springs",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Taylorville†",
+      "designation": "City",
+      "primary_county": "Christian"
+    },
+    {
+      "name": "Tennessee",
+      "designation": "Village",
+      "primary_county": "McDonough"
+    },
+    {
+      "name": "Teutopolis",
+      "designation": "Village",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Thawville",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Thayer",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Thebes",
+      "designation": "Village",
+      "primary_county": "Alexander"
+    },
+    {
+      "name": "Third Lake",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Thomasboro",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Thompsonville",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Thomson",
+      "designation": "Village",
+      "primary_county": "Carroll"
+    },
+    {
+      "name": "Thornton",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Tilden",
+      "designation": "Village",
+      "primary_county": "Randolph"
+    },
+    {
+      "name": "Tilton",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Timberlane",
+      "designation": "Village",
+      "primary_county": "Boone"
+    },
+    {
+      "name": "Time",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Tinley Park",
+      "designation": "Village",
+      "primary_county": "CookWill"
+    },
+    {
+      "name": "Tiskilwa",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Toledo†",
+      "designation": "Village",
+      "primary_county": "Cumberland"
+    },
+    {
+      "name": "Tolono",
+      "designation": "Village",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Toluca",
+      "designation": "City",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "Tonica",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Topeka",
+      "designation": "Village",
+      "primary_county": "Mason"
+    },
+    {
+      "name": "Toulon†",
+      "designation": "City",
+      "primary_county": "Stark"
+    },
+    {
+      "name": "Tovey",
+      "designation": "Village",
+      "primary_county": "Christian"
+    },
+    {
+      "name": "Towanda",
+      "designation": "Village",
+      "primary_county": "McLean"
+    },
+    {
+      "name": "Tower Hill",
+      "designation": "Village",
+      "primary_county": "Shelby"
+    },
+    {
+      "name": "Tower Lakes",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Tremont",
+      "designation": "Village",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "Trenton",
+      "designation": "City",
+      "primary_county": "Clinton"
+    },
+    {
+      "name": "Trout Valley",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Troy",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Troy Grove",
+      "designation": "Village",
+      "primary_county": "LaSalle"
+    },
+    {
+      "name": "Tuscola†",
+      "designation": "City",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Ullin",
+      "designation": "Village",
+      "primary_county": "Pulaski"
+    },
+    {
+      "name": "Union",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Union Hill",
+      "designation": "Village",
+      "primary_county": "Kankakee"
+    },
+    {
+      "name": "University Park",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Urbana†",
+      "designation": "City",
+      "primary_county": "Champaign"
+    },
+    {
+      "name": "Ursa",
+      "designation": "Village",
+      "primary_county": "Adams"
+    },
+    {
+      "name": "Valier",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Valley City",
+      "designation": "Village",
+      "primary_county": "Pike"
+    },
+    {
+      "name": "Valmeyer",
+      "designation": "Village",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Vandalia†",
+      "designation": "City",
+      "primary_county": "Fayette"
+    },
+    {
+      "name": "Varna",
+      "designation": "Village",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "Venedy",
+      "designation": "Village",
+      "primary_county": "Washington"
+    },
+    {
+      "name": "Venice",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Vergennes",
+      "designation": "Village",
+      "primary_county": "Jackson"
+    },
+    {
+      "name": "Vermilion",
+      "designation": "Village",
+      "primary_county": "Edgar"
+    },
+    {
+      "name": "Vermont",
+      "designation": "Village",
+      "primary_county": "Fulton"
+    },
+    {
+      "name": "Vernon",
+      "designation": "Village",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Vernon Hills",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Verona",
+      "designation": "Village",
+      "primary_county": "Grundy"
+    },
+    {
+      "name": "Versailles",
+      "designation": "Village",
+      "primary_county": "Brown"
+    },
+    {
+      "name": "Victoria",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Vienna†",
+      "designation": "City",
+      "primary_county": "Johnson"
+    },
+    {
+      "name": "Villa Grove",
+      "designation": "City",
+      "primary_county": "Douglas"
+    },
+    {
+      "name": "Villa Park",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Viola",
+      "designation": "Village",
+      "primary_county": "Mercer"
+    },
+    {
+      "name": "Virden",
+      "designation": "City",
+      "primary_county": "MacoupinSangamon"
+    },
+    {
+      "name": "Virgil",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Virginia†",
+      "designation": "City",
+      "primary_county": "Cass"
+    },
+    {
+      "name": "Volo",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Wadsworth",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Waggoner",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Walnut",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Walnut Hill",
+      "designation": "Village",
+      "primary_county": "Marion"
+    },
+    {
+      "name": "Walshville",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Waltonville",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Wamac",
+      "designation": "City",
+      "primary_county": "ClintonMarionWashington"
+    },
+    {
+      "name": "Wapella",
+      "designation": "Village",
+      "primary_county": "De Witt"
+    },
+    {
+      "name": "Warren",
+      "designation": "Village",
+      "primary_county": "Jo Daviess"
+    },
+    {
+      "name": "Warrensburg",
+      "designation": "Village",
+      "primary_county": "Macon"
+    },
+    {
+      "name": "Warrenville",
+      "designation": "City",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Warsaw",
+      "designation": "City",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "Washburn",
+      "designation": "Village",
+      "primary_county": "WoodfordMarshall"
+    },
+    {
+      "name": "Washington",
+      "designation": "City",
+      "primary_county": "Tazewell"
+    },
+    {
+      "name": "Washington Park",
+      "designation": "Village",
+      "primary_county": "St. Clair"
+    },
+    {
+      "name": "Wataga",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Waterloo†",
+      "designation": "City",
+      "primary_county": "Monroe"
+    },
+    {
+      "name": "Waterman",
+      "designation": "Village",
+      "primary_county": "DeKalb"
+    },
+    {
+      "name": "Watseka†",
+      "designation": "City",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Watson",
+      "designation": "Village",
+      "primary_county": "Effingham"
+    },
+    {
+      "name": "Wauconda",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Waukegan†",
+      "designation": "City",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Waverly",
+      "designation": "City",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Wayne",
+      "designation": "Village",
+      "primary_county": "DuPageKane"
+    },
+    {
+      "name": "Wayne City",
+      "designation": "Village",
+      "primary_county": "Wayne"
+    },
+    {
+      "name": "Waynesville",
+      "designation": "Village",
+      "primary_county": "De Witt"
+    },
+    {
+      "name": "Weldon",
+      "designation": "Village",
+      "primary_county": "De Witt"
+    },
+    {
+      "name": "Wellington",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Wenona",
+      "designation": "City",
+      "primary_county": "Marshall"
+    },
+    {
+      "name": "Wenonah",
+      "designation": "Village",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "West Brooklyn",
+      "designation": "Village",
+      "primary_county": "Lee"
+    },
+    {
+      "name": "Westchester",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "West Chicago",
+      "designation": "City",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "West City",
+      "designation": "Village",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "West Dundee",
+      "designation": "Village",
+      "primary_county": "Kane"
+    },
+    {
+      "name": "Western Springs",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Westfield",
+      "designation": "Village",
+      "primary_county": "Clark"
+    },
+    {
+      "name": "West Frankfort",
+      "designation": "City",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Westmont",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "West Peoria",
+      "designation": "City",
+      "primary_county": "Peoria"
+    },
+    {
+      "name": "West Point",
+      "designation": "Village",
+      "primary_county": "Hancock"
+    },
+    {
+      "name": "West Salem",
+      "designation": "Village",
+      "primary_county": "Edwards"
+    },
+    {
+      "name": "Westville",
+      "designation": "Village",
+      "primary_county": "Vermilion"
+    },
+    {
+      "name": "Wheaton†",
+      "designation": "City",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Wheeler",
+      "designation": "Village",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Wheeling",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "White City",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "White Hall",
+      "designation": "City",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Williamsfield",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Williamson",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Williamsville",
+      "designation": "Village",
+      "primary_county": "Sangamon"
+    },
+    {
+      "name": "Willisville",
+      "designation": "Village",
+      "primary_county": "Perry"
+    },
+    {
+      "name": "Willowbrook",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Willow Hill",
+      "designation": "Village",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Willow Springs",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Wilmette",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Wilmington",
+      "designation": "Village",
+      "primary_county": "Greene"
+    },
+    {
+      "name": "Wilmington",
+      "designation": "City",
+      "primary_county": "Will"
+    },
+    {
+      "name": "Wilsonville",
+      "designation": "Village",
+      "primary_county": "Macoupin"
+    },
+    {
+      "name": "Winchester†",
+      "designation": "City",
+      "primary_county": "Scott"
+    },
+    {
+      "name": "Windsor",
+      "designation": "Village",
+      "primary_county": "Mercer"
+    },
+    {
+      "name": "Windsor, Shelby County, Illinois",
+      "designation": "City",
+      "primary_county": "Shelby"
+    },
+    {
+      "name": "Winfield",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Winnebago",
+      "designation": "Village",
+      "primary_county": "Winnebago"
+    },
+    {
+      "name": "Winnetka",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Winslow",
+      "designation": "Village",
+      "primary_county": "Stephenson"
+    },
+    {
+      "name": "Winthrop Harbor",
+      "designation": "Village",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Witt",
+      "designation": "City",
+      "primary_county": "Montgomery"
+    },
+    {
+      "name": "Wonder Lake",
+      "designation": "Village",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Wood Dale",
+      "designation": "City",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Woodhull",
+      "designation": "Village",
+      "primary_county": "Henry"
+    },
+    {
+      "name": "Woodland",
+      "designation": "Village",
+      "primary_county": "Iroquois"
+    },
+    {
+      "name": "Woodlawn",
+      "designation": "Village",
+      "primary_county": "Jefferson"
+    },
+    {
+      "name": "Woodridge",
+      "designation": "Village",
+      "primary_county": "DuPage"
+    },
+    {
+      "name": "Wood River",
+      "designation": "City",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Woodson",
+      "designation": "Village",
+      "primary_county": "Morgan"
+    },
+    {
+      "name": "Woodstock†",
+      "designation": "City",
+      "primary_county": "McHenry"
+    },
+    {
+      "name": "Worden",
+      "designation": "Village",
+      "primary_county": "Madison"
+    },
+    {
+      "name": "Worth",
+      "designation": "Village",
+      "primary_county": "Cook"
+    },
+    {
+      "name": "Wyanet",
+      "designation": "Village",
+      "primary_county": "Bureau"
+    },
+    {
+      "name": "Wyoming",
+      "designation": "City",
+      "primary_county": "Stark"
+    },
+    {
+      "name": "Xenia",
+      "designation": "Village",
+      "primary_county": "Clay"
+    },
+    {
+      "name": "Yale",
+      "designation": "Village",
+      "primary_county": "Jasper"
+    },
+    {
+      "name": "Yates City",
+      "designation": "Village",
+      "primary_county": "Knox"
+    },
+    {
+      "name": "Yorkville†",
+      "designation": "City",
+      "primary_county": "Kendall"
+    },
+    {
+      "name": "Zeigler",
+      "designation": "City",
+      "primary_county": "Franklin"
+    },
+    {
+      "name": "Zion",
+      "designation": "City",
+      "primary_county": "Lake"
+    },
+    {
+      "name": "Total municipalities",
+      "designation": "—",
+      "primary_county": "—"
+    },
+    {
+      "name": "Illinois",
+      "designation": "—",
+      "primary_county": "—"
+    }
+  ]
+}
