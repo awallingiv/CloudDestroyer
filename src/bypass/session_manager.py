@@ -9,11 +9,20 @@ import json
 import pickle
 import time
 import os
+import base64
+import hashlib
 from typing import Dict, Optional, Any, List
 from datetime import datetime, timedelta
 from dataclasses import dataclass, asdict
 from loguru import logger
 import threading
+
+try:
+    from cryptography.fernet import Fernet
+    HAS_CRYPTO = True
+except ImportError:
+    Fernet = None
+    HAS_CRYPTO = False
 
 
 @dataclass
@@ -34,18 +43,27 @@ class SessionData:
 class SessionManager:
     """Manages persistent sessions and cookies for Cloudflare bypass"""
     
-    def __init__(self, session_dir: str = "sessions", max_age_hours: int = 24):
+    def __init__(
+        self,
+        session_dir: str = "sessions",
+        max_age_hours: int = 24,
+        encryption_key: Optional[str] = None
+    ):
         """
         Initialize session manager
         
         Args:
             session_dir: Directory to store session files
             max_age_hours: Maximum age of sessions in hours
+            encryption_key: Optional key (or env fallback) for encrypting session blobs
         """
         self.session_dir = session_dir
         self.max_age = max_age_hours * 3600  # Convert to seconds
         self.sessions: Dict[str, SessionData] = {}
         self.lock = threading.Lock()
+        self.encryption_key = encryption_key or os.getenv("CD_SESSION_KEY")
+        self.fernet = self._build_cipher(self.encryption_key)
+        self.encryption_enabled = self.fernet is not None
         
         # Create session directory
         os.makedirs(session_dir, exist_ok=True)
@@ -53,7 +71,11 @@ class SessionManager:
         # Load existing sessions
         self._load_sessions()
         
-        logger.info(f"Session manager initialized with {len(self.sessions)} sessions")
+        enc_state = "enabled" if self.encryption_enabled else "disabled"
+        logger.info(
+            f"Session manager initialized with {len(self.sessions)} sessions "
+            f"(encryption {enc_state})"
+        )
     
     def get_session(self, domain: str) -> Optional[SessionData]:
         """
@@ -288,6 +310,36 @@ class SessionManager:
         clean_domain = domain.replace('https://', '').replace('http://', '').replace('www.', '')
         return clean_domain.split('/')[0]  # Remove path
     
+    def _build_cipher(self, key_str: Optional[str]):
+        """Initialize Fernet cipher if possible."""
+        if not key_str:
+            return None
+        
+        if not HAS_CRYPTO or Fernet is None:
+            logger.warning("Session encryption key provided but cryptography is unavailable.")
+            return None
+        
+        try:
+            normalized = self._normalize_key(key_str)
+            return Fernet(normalized)
+        except Exception as exc:
+            logger.error(f"Failed to initialize session encryption: {exc}")
+            return None
+    
+    @staticmethod
+    def _normalize_key(key_str: str) -> bytes:
+        """Normalize human-friendly key into Fernet-compatible bytes."""
+        key_str = key_str.strip()
+        try:
+            decoded = base64.urlsafe_b64decode(key_str)
+            if len(decoded) == 32:
+                return base64.urlsafe_b64encode(decoded)
+        except Exception:
+            pass
+        
+        digest = hashlib.sha256(key_str.encode()).digest()
+        return base64.urlsafe_b64encode(digest)
+    
     def _is_session_expired(self, session: SessionData) -> bool:
         """Check if session is expired"""
         return (time.time() - session.created_at) > self.max_age
@@ -296,8 +348,11 @@ class SessionManager:
         """Save session to disk"""
         try:
             filename = os.path.join(self.session_dir, f"{session_key}.pkl")
+            payload = pickle.dumps(session)
+            if self.fernet:
+                payload = self.fernet.encrypt(payload)
             with open(filename, 'wb') as f:
-                pickle.dump(session, f)
+                f.write(payload)
         except Exception as e:
             logger.error(f"Failed to save session {session_key}: {e}")
     
@@ -311,7 +366,19 @@ class SessionManager:
                     
                     try:
                         with open(filepath, 'rb') as f:
-                            session = pickle.load(f)
+                            payload = f.read()
+                        
+                        if self.fernet:
+                            try:
+                                payload = self.fernet.decrypt(payload)
+                            except Exception as decrypt_exc:
+                                logger.warning(
+                                    f"Failed to decrypt session {session_key}: {decrypt_exc}"
+                                )
+                                os.remove(filepath)
+                                continue
+                        
+                        session = pickle.loads(payload)
                         
                         # Validate session data
                         if isinstance(session, SessionData):
