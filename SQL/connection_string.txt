@@ -1,54 +1,75 @@
-# FoodFinder Database Connection Information
+# Database Connection Information
+# Two-Database Architecture: CloudDestroyer + FoodFinder
 # Server: SqlExpressDev01
-# Database: FoodFinder
-# User: SaltyUser
-# Created: November 20, 2025
+# Updated: December 2025
 
-## Connection Strings for Different Technologies:
+## ============================================================================
+## CLOUDDESTROYER DATABASE (Scraping Infrastructure)
+## ============================================================================
+
+### Python (pyodbc):
+DRIVER={ODBC Driver 17 for SQL Server};SERVER=localhost\SqlExpressDev01;DATABASE=CloudDestroyer;UID=SaltyUser;PWD=saltypass;TrustServerCertificate=yes;
 
 ### .NET / Entity Framework Core:
-Server=localhost\SqlExpressDev01;Database=FoodFinder;User Id=SaltyUser;Password=saltypass;TrustServerCertificate=true;
+Server=localhost\SqlExpressDev01;Database=CloudDestroyer;User Id=SaltyUser;Password=saltypass;TrustServerCertificate=true;
 
-### Node.js (mssql package):
-{
-  "server": "localhost\\SqlExpressDev01",
-  "database": "FoodFinder",
-  "user": "SaltyUser",
-  "password": "saltypass",
-  "options": {
-    "encrypt": false,
-    "trustServerCertificate": true
-  }
-}
+### SQLCMD:
+sqlcmd -S "localhost\SqlExpressDev01" -U "SaltyUser" -P "saltypass" -d "CloudDestroyer"
 
-### SQLCMD Command Line:
-sqlcmd -S "localhost\SqlExpressDev01" -U "SaltyUser" -P "saltypass" -d "FoodFinder"
+### Environment Variables:
+CLOUDDESTROYER_DB_SERVER=localhost\SqlExpressDev01
+CLOUDDESTROYER_DB_DATABASE=CloudDestroyer
+CLOUDDESTROYER_DB_USER=SaltyUser
+CLOUDDESTROYER_DB_PASSWORD=saltypass
 
-### JDBC (Java):
-jdbc:sqlserver://localhost\SqlExpressDev01;databaseName=FoodFinder;user=SaltyUser;password=saltypass;trustServerCertificate=true;
+## ============================================================================
+## FOODFINDER DATABASE (Restaurant App Data)
+## ============================================================================
 
 ### Python (pyodbc):
 DRIVER={ODBC Driver 17 for SQL Server};SERVER=localhost\SqlExpressDev01;DATABASE=FoodFinder;UID=SaltyUser;PWD=saltypass;TrustServerCertificate=yes;
 
-### Environment Variables (for .env files):
-DB_SERVER=localhost\SqlExpressDev01
-DB_DATABASE=FoodFinder
-DB_USER=SaltyUser
-DB_PASSWORD=saltypass
-DB_TRUST_CERT=true
+### .NET / Entity Framework Core:
+Server=localhost\SqlExpressDev01;Database=FoodFinder;User Id=SaltyUser;Password=saltypass;TrustServerCertificate=true;
 
-## Quick Access Commands:
-# Connect to database:
+### SQLCMD:
 sqlcmd -S "localhost\SqlExpressDev01" -U "SaltyUser" -P "saltypass" -d "FoodFinder"
 
-# Run test queries:
-sqlcmd -S "localhost\SqlExpressDev01" -U "SaltyUser" -P "saltypass" -d "FoodFinder" -i "08_useful_queries.sql"
+### Environment Variables:
+FOODFINDER_DB_SERVER=localhost\SqlExpressDev01
+FOODFINDER_DB_DATABASE=FoodFinder
+FOODFINDER_DB_USER=SaltyUser
+FOODFINDER_DB_PASSWORD=saltypass
 
-# Backup database:
-sqlcmd -S "localhost\SqlExpressDev01" -U "SaltyUser" -P "saltypass" -Q "BACKUP DATABASE FoodFinder TO DISK = 'C:\Backups\FoodFinder.bak'"
+## ============================================================================
+## SETUP COMMANDS
+## ============================================================================
 
-## Database Status:
-✅ Database Created: November 20, 2025
-✅ Tables: 13 tables created
-✅ Sample Data: Populated with chain configs and test data
-✅ Ready for Production Use
+# Create CloudDestroyer database:
+sqlcmd -S "localhost\SqlExpressDev01" -U "SaltyUser" -P "saltypass" -i "CloudDestroyer_Schema.sql"
+
+# Create FoodFinder database:
+sqlcmd -S "localhost\SqlExpressDev01" -U "SaltyUser" -P "saltypass" -i "FoodFinder_Schema.sql"
+
+# Setup sync procedures:
+sqlcmd -S "localhost\SqlExpressDev01" -U "SaltyUser" -P "saltypass" -d "CloudDestroyer" -i "Sync_CloudDestroyer_to_FoodFinder.sql"
+
+## ============================================================================
+## ARCHITECTURE
+## ============================================================================
+
+CloudDestroyer DB (Scraping Service)    FoodFinder DB (Consumer App)
+├── scraping_jobs                       ├── restaurants
+├── scraping_results         ────►      ├── menu_items
+├── scraping_workers                    ├── menu_categories
+├── scraping_job_history                ├── chain_configs
+├── scraping_templates                  ├── search_queries
+├── target_sites                        ├── popular_searches
+├── system_config                       ├── user_interactions
+└── health_checks                       └── app_config
+
+Sync Flow:
+1. CloudDestroyer extracts menu data → scraping_results
+2. Sync procedure (or Python worker) reads pending results
+3. Data transformed and inserted into FoodFinder tables
+4. Result marked as synced in CloudDestroyer

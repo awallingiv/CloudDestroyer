@@ -1,0 +1,195 @@
+[32m2025-12-02 09:12:09.820[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36m__init__[0m:[36m76[0m - [1mBypass orchestrator initialized[0m
+[32m2025-12-02 09:12:09.822[0m | [1mINFO    [0m | [36msrc.bypass.session_manager[0m:[36m__init__[0m:[36m56[0m - [1mSession manager initialized with 1 sessions[0m
+[32m2025-12-02 09:12:09.822[0m | [32m[1mSUCCESS [0m | [36msrc.core.cloud_destroyer[0m:[36m__init__[0m:[36m67[0m - [32m[1mCloudDestroyer initialized successfully[0m
+[32m2025-12-02 09:12:09.822[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36m__init__[0m:[36m76[0m - [1mBypass orchestrator initialized[0m
+[32m2025-12-02 09:12:09.823[0m | [1mINFO    [0m | [36msrc.bypass.session_manager[0m:[36m__init__[0m:[36m56[0m - [1mSession manager initialized with 1 sessions[0m
+INFO:api:Starting comprehensive menu discovery for: https://www.chipotle.com
+INFO:api:Tier 1: Testing direct menu paths...
+[32m2025-12-02 09:12:09.824[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.chipotle.com/menu[0m
+[32m2025-12-02 09:12:09.825[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 948619[0m
+[32m2025-12-02 09:12:10.712[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:10.715[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: none[0m
+[32m2025-12-02 09:12:10.715[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: direct[0m
+[32m2025-12-02 09:12:11.544[0m | [33m[1mWARNING [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m114[0m - [33m[1mStrategy failed: direct[0m
+[32m2025-12-02 09:12:11.545[0m | [31m[1mERROR   [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m118[0m - [31m[1mAll bypass strategies failed[0m
+ERROR:api:Orchestrator bypass error for https://www.chipotle.com/menu: Cloudflare bypass failed - all strategies exhausted
+[32m2025-12-02 09:12:11.548[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.chipotle.com/our-menu[0m
+[32m2025-12-02 09:12:11.548[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 998210[0m
+[32m2025-12-02 09:12:12.439[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:12.442[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: none[0m
+[32m2025-12-02 09:12:12.442[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: direct[0m
+[32m2025-12-02 09:12:13.321[0m | [33m[1mWARNING [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m114[0m - [33m[1mStrategy failed: direct[0m
+[32m2025-12-02 09:12:13.321[0m | [31m[1mERROR   [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m118[0m - [31m[1mAll bypass strategies failed[0m
+ERROR:api:Orchestrator bypass error for https://www.chipotle.com/our-menu: Cloudflare bypass failed - all strategies exhausted
+[32m2025-12-02 09:12:13.325[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.chipotle.com/food-menu[0m
+[32m2025-12-02 09:12:13.325[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 882663[0m
+[32m2025-12-02 09:12:14.104[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:14.107[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: none[0m
+[32m2025-12-02 09:12:14.107[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: direct[0m
+[32m2025-12-02 09:12:14.914[0m | [33m[1mWARNING [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m114[0m - [33m[1mStrategy failed: direct[0m
+[32m2025-12-02 09:12:14.914[0m | [31m[1mERROR   [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m118[0m - [31m[1mAll bypass strategies failed[0m
+ERROR:api:Orchestrator bypass error for https://www.chipotle.com/food-menu: Cloudflare bypass failed - all strategies exhausted
+[32m2025-12-02 09:12:14.918[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.chipotle.com/menus[0m
+[32m2025-12-02 09:12:14.919[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 149407[0m
+[32m2025-12-02 09:12:15.686[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:15.689[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: none[0m
+[32m2025-12-02 09:12:15.689[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: direct[0m
+[32m2025-12-02 09:12:16.462[0m | [33m[1mWARNING [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m114[0m - [33m[1mStrategy failed: direct[0m
+[32m2025-12-02 09:12:16.462[0m | [31m[1mERROR   [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m118[0m - [31m[1mAll bypass strategies failed[0m
+ERROR:api:Orchestrator bypass error for https://www.chipotle.com/menus: Cloudflare bypass failed - all strategies exhausted
+[32m2025-12-02 09:12:16.466[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.chipotle.com/dining[0m
+[32m2025-12-02 09:12:16.466[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 487524[0m
+[32m2025-12-02 09:12:17.240[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:17.243[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: none[0m
+[32m2025-12-02 09:12:17.244[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: direct[0m
+[32m2025-12-02 09:12:18.098[0m | [33m[1mWARNING [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m114[0m - [33m[1mStrategy failed: direct[0m
+[32m2025-12-02 09:12:18.098[0m | [31m[1mERROR   [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m118[0m - [31m[1mAll bypass strategies failed[0m
+ERROR:api:Orchestrator bypass error for https://www.chipotle.com/dining: Cloudflare bypass failed - all strategies exhausted
+INFO:api:Tier 2: Extended path discovery...
+[32m2025-12-02 09:12:18.102[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.chipotle.com/order[0m
+[32m2025-12-02 09:12:18.103[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 268549[0m
+[32m2025-12-02 09:12:19.051[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:19.054[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: none[0m
+[32m2025-12-02 09:12:19.054[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: direct[0m
+[32m2025-12-02 09:12:19.821[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:19.822[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m110[0m - [32m[1mBypass successful with strategy: direct[0m
+INFO:api:Bypass successful for https://www.chipotle.com/order using strategy: direct
+INFO:api:Challenge detected: none
+INFO:api:EARLY EXIT: Good menu page found in Tier 2: https://www.chipotle.com/order (score: 19)
+INFO:api:Found menu page: https://www.chipotle.com/order (score: 19)
+[32m2025-12-02 09:12:19.884[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.chipotle.com/order[0m
+[32m2025-12-02 09:12:19.884[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 782191[0m
+[32m2025-12-02 09:12:20.693[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:20.697[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: none[0m
+[32m2025-12-02 09:12:20.697[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: direct[0m
+[32m2025-12-02 09:12:21.537[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:21.538[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m110[0m - [32m[1mBypass successful with strategy: direct[0m
+INFO:api:Bypass successful for https://www.chipotle.com/order using strategy: direct
+INFO:api:Challenge detected: none
+INFO:api:High-scoring menu page found (score: 19), attempting direct extraction
+INFO:api:Attempting enhanced JavaScript extraction with navigation for: https://www.chipotle.com/order
+[32m2025-12-02 09:12:21.539[0m | [1mINFO    [0m | [36msrc.core.cloud_destroyer[0m:[36m_make_request[0m:[36m110[0m - [1mMaking GET request to www.chipotle.com[0m
+[32m2025-12-02 09:12:21.539[0m | [1mINFO    [0m | [36msrc.core.cloud_destroyer[0m:[36m_make_request[0m:[36m124[0m - [1mPerforming full Cloudflare bypass[0m
+[32m2025-12-02 09:12:21.539[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.chipotle.com/order[0m
+[32m2025-12-02 09:12:21.539[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 252894[0m
+[32m2025-12-02 09:12:22.343[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:22.346[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: none[0m
+[32m2025-12-02 09:12:22.347[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: direct[0m
+[32m2025-12-02 09:12:23.107[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:23.107[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m110[0m - [32m[1mBypass successful with strategy: direct[0m
+INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\Administrator\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+INFO:api:Direct extraction successful with 2 items
+WARNING:api:Direct extraction failed: 'RestaurantMenuScraper' object has no attribute '_format_extraction_result', falling back to API discovery
+INFO:api:Starting dynamic API discovery for: https://www.chipotle.com/order
+[32m2025-12-02 09:12:47.353[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.chipotle.com/order[0m
+[32m2025-12-02 09:12:47.354[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 195299[0m
+[32m2025-12-02 09:12:48.159[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:48.162[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: none[0m
+[32m2025-12-02 09:12:48.162[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: direct[0m
+[32m2025-12-02 09:12:48.955[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:48.955[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m110[0m - [32m[1mBypass successful with strategy: direct[0m
+INFO:api:Bypass successful for https://www.chipotle.com/order using strategy: direct
+INFO:api:Challenge detected: none
+INFO:api:No API endpoints found, attempting direct JavaScript extraction with navigation
+INFO:api:Attempting enhanced JavaScript extraction with navigation for: https://www.chipotle.com/order
+[32m2025-12-02 09:12:48.960[0m | [1mINFO    [0m | [36msrc.core.cloud_destroyer[0m:[36m_make_request[0m:[36m110[0m - [1mMaking GET request to www.chipotle.com[0m
+[32m2025-12-02 09:12:48.960[0m | [1mINFO    [0m | [36msrc.core.cloud_destroyer[0m:[36m_make_request[0m:[36m124[0m - [1mPerforming full Cloudflare bypass[0m
+[32m2025-12-02 09:12:48.960[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.chipotle.com/order[0m
+[32m2025-12-02 09:12:48.960[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 396136[0m
+[32m2025-12-02 09:12:49.740[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:49.743[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: none[0m
+[32m2025-12-02 09:12:49.743[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: direct[0m
+[32m2025-12-02 09:12:50.501[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:12:50.502[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m110[0m - [32m[1mBypass successful with strategy: direct[0m
+INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\Administrator\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+INFO:api:Testing 1 discovered API endpoints
+INFO:api:Processing direct JavaScript extraction result
+INFO:api:Direct extraction successful with 2 items
+INFO:api:Detected Angular/Ionic SPA, trying specialized extraction...
+INFO:api:Starting Angular SPA extraction for: https://www.chipotle.com/order
+[32m2025-12-02 09:13:13.601[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.chipotle.com/order[0m
+[32m2025-12-02 09:13:13.601[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 403041[0m
+[32m2025-12-02 09:13:14.384[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:13:14.387[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: none[0m
+[32m2025-12-02 09:13:14.387[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: direct[0m
+[32m2025-12-02 09:13:15.142[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m109[0m - [34m[1mNo Cloudflare headers detected[0m
+[32m2025-12-02 09:13:15.142[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m110[0m - [32m[1mBypass successful with strategy: direct[0m
+INFO:api:Bypass successful for https://www.chipotle.com/order using strategy: direct
+INFO:api:Challenge detected: none
+INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\Administrator\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+INFO:api:Angular SPA status: {'framework': 'generic_spa', 'ready': True}
+INFO:api:Found state data in: window.localStorage
+INFO:api:Category navigation result: 0 items from 0 categories
+INFO:api:Angular SPA extraction complete: 0 items, 0 categories
+INFO:api:Raw HTML saved for debugging: debug_html/menu_extraction_ce24ec67_20251202_091334.html
+================================================================================
+CHIPOTLE MENU SCRAPING TEST - PRODUCTION
+================================================================================
+Started: 2025-12-02 09:12:09.547427
+
+Target: https://www.chipotle.com
+Restaurant: Chipotle
+
+Step 1: Creating scraping job in CloudDestroyer database...
++ Job created: job_id=5
+
+Step 2: Initializing RestaurantMenuScraper...
++ Scraper initialized (with CloudDestroyer bypass enabled)
+
+Step 3: Extracting menu (this may take 1-3 minutes)...
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
++ Menu extraction completed in 84.94 seconds
+
+Step 4: Extraction Results
+--------------------------------------------------------------------------------
+Success: True
+Menu URL: https://www.chipotle.com/order
+Site Type: N/A
+Extraction Method: N/A
+Confidence Score: 0.33000000000000007
+
+Categories Found: 0
+
+Menu Items Found: 2
+Items with Prices: 2
+
+Sample Menu Items:
+  1. [Menu Item] From 6 to 200 people Starting at * / person - $$8.25
+  2. [Menu Item] Starting at * / person - $$8.25
+
+Step 5: Storing results in CloudDestroyer database...
++ Results stored successfully
+  - Job ID: 5
+  - Status: completed
+  - Items: 2
+  - Categories: 0
+  - Items with prices: 2
+
+Step 6: Syncing to FoodFinder database...
++ Restaurant record created/updated: chipotle_www_chipotle_com
++ Menu data imported to FoodFinder
+
+================================================================================
+SCRAPING TEST COMPLETE
+================================================================================
+Restaurant: Chipotle
+URL: https://www.chipotle.com
+Duration: 84.94 seconds
+Status: SUCCESS
+Categories: 0
+Menu Items: 2
+Items with Prices: 2 (100.0%)
+Confidence: 0.33
+Method: N/A
+Completed: 2025-12-02 09:13:35.317423
+================================================================================
+
++ Detailed results saved to: chipotle_menu_results_20251202_091335.json
+Exception ignored while calling deallocator <function Chrome.__del__ at 0x0000025A4CDF78A0>:
+Traceback (most recent call last):
+  File "C:\Python314\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Python314\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid

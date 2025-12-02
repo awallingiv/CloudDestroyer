@@ -1,0 +1,159 @@
+[32m2025-12-02 08:49:59.114[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36m__init__[0m:[36m76[0m - [1mBypass orchestrator initialized[0m
+[32m2025-12-02 08:49:59.115[0m | [1mINFO    [0m | [36msrc.bypass.session_manager[0m:[36m__init__[0m:[36m56[0m - [1mSession manager initialized with 1 sessions[0m
+[32m2025-12-02 08:49:59.115[0m | [32m[1mSUCCESS [0m | [36msrc.core.cloud_destroyer[0m:[36m__init__[0m:[36m67[0m - [32m[1mCloudDestroyer initialized successfully[0m
+[32m2025-12-02 08:49:59.115[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36m__init__[0m:[36m76[0m - [1mBypass orchestrator initialized[0m
+[32m2025-12-02 08:49:59.117[0m | [1mINFO    [0m | [36msrc.bypass.session_manager[0m:[36m__init__[0m:[36m56[0m - [1mSession manager initialized with 1 sessions[0m
+INFO:api:Starting comprehensive menu discovery for: https://www.bubbas33.com
+INFO:api:Tier 1: Testing direct menu paths...
+[32m2025-12-02 08:49:59.118[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.bubbas33.com/menu[0m
+[32m2025-12-02 08:49:59.118[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 614209[0m
+[32m2025-12-02 08:49:59.975[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: access_denied[0m
+[32m2025-12-02 08:49:59.976[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: cloudscraper[0m
+[32m2025-12-02 08:50:00.037[0m | [1mINFO    [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_initialize_scraper[0m:[36m61[0m - [1mCloudscraper initialized successfully[0m
+[32m2025-12-02 08:50:00.037[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_random_delay[0m:[36m141[0m - [34m[1mWaiting 1.31 seconds...[0m
+[32m2025-12-02 08:50:01.348[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_rotate_user_agent[0m:[36m155[0m - [34m[1mRotated User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...[0m
+[32m2025-12-02 08:50:01.348[0m | [1mINFO    [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_make_request[0m:[36m118[0m - [1mMaking GET request to https://www.bubbas33.com/menu[0m
+[32m2025-12-02 08:50:02.160[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_make_request[0m:[36m128[0m - [32m[1mRequest successful: 200[0m
+[32m2025-12-02 08:50:02.176[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36m_analyze_content[0m:[36m167[0m - [34m[1mFound Cloudflare indicator: cloudflare[0m
+[32m2025-12-02 08:50:02.177[0m | [1mINFO    [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m128[0m - [1mDetected Cloudflare challenge: js_challenge[0m
+[32m2025-12-02 08:50:02.177[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m110[0m - [32m[1mBypass successful with strategy: cloudscraper[0m
+INFO:api:Bypass successful for https://www.bubbas33.com/menu using strategy: cloudscraper
+INFO:api:Challenge detected: access_denied
+INFO:api:Attempt 1: https://www.bubbas33.com/menu scored 8 (3060ms)
+INFO:api:EARLY EXIT: Good menu page found: https://www.bubbas33.com/menu (score: 8)
+INFO:api:\u2705 Menu discovery successful: https://www.bubbas33.com -> https://www.bubbas33.com/menu
+INFO:api:   Method: direct_path, Attempts: 1
+INFO:api:Found menu page: https://www.bubbas33.com/menu (score: 8)
+[32m2025-12-02 08:50:02.188[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.bubbas33.com/menu[0m
+[32m2025-12-02 08:50:02.188[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 186983[0m
+[32m2025-12-02 08:50:03.006[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: access_denied[0m
+[32m2025-12-02 08:50:03.006[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: cloudscraper[0m
+[32m2025-12-02 08:50:03.006[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_random_delay[0m:[36m141[0m - [34m[1mWaiting 2.88 seconds...[0m
+[32m2025-12-02 08:50:05.883[0m | [1mINFO    [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_make_request[0m:[36m118[0m - [1mMaking GET request to https://www.bubbas33.com/menu[0m
+[32m2025-12-02 08:50:05.932[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_make_request[0m:[36m128[0m - [32m[1mRequest successful: 200[0m
+[32m2025-12-02 08:50:05.944[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36m_analyze_content[0m:[36m167[0m - [34m[1mFound Cloudflare indicator: cloudflare[0m
+[32m2025-12-02 08:50:05.944[0m | [1mINFO    [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m128[0m - [1mDetected Cloudflare challenge: js_challenge[0m
+[32m2025-12-02 08:50:05.944[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m110[0m - [32m[1mBypass successful with strategy: cloudscraper[0m
+INFO:api:Bypass successful for https://www.bubbas33.com/menu using strategy: cloudscraper
+INFO:api:Challenge detected: access_denied
+INFO:api:High-scoring menu page found (score: 8), attempting direct extraction
+INFO:api:Attempting enhanced JavaScript extraction with navigation for: https://www.bubbas33.com/menu
+[32m2025-12-02 08:50:05.945[0m | [1mINFO    [0m | [36msrc.core.cloud_destroyer[0m:[36m_make_request[0m:[36m110[0m - [1mMaking GET request to www.bubbas33.com[0m
+[32m2025-12-02 08:50:05.947[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.session_manager[0m:[36mget_session[0m:[36m87[0m - [34m[1mRetrieved session for www.bubbas33.com[0m
+[32m2025-12-02 08:50:05.947[0m | [1mINFO    [0m | [36msrc.core.cloud_destroyer[0m:[36m_make_request[0m:[36m116[0m - [1mUsing existing session for bypass[0m
+[32m2025-12-02 08:50:06.771[0m | [33m[1mWARNING [0m | [36msrc.core.cloud_destroyer[0m:[36m_try_with_existing_session[0m:[36m180[0m - [33m[1mExisting session bypass failed[0m
+[32m2025-12-02 08:50:06.773[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.session_manager[0m:[36mupdate_session[0m:[36m176[0m - [34m[1mUpdated session for www.bubbas33.com (success: False)[0m
+[32m2025-12-02 08:50:06.776[0m | [1mINFO    [0m | [36msrc.core.cloud_destroyer[0m:[36m_make_request[0m:[36m124[0m - [1mPerforming full Cloudflare bypass[0m
+[32m2025-12-02 08:50:06.776[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.bubbas33.com/menu[0m
+[32m2025-12-02 08:50:06.776[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 537876[0m
+[32m2025-12-02 08:50:07.556[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: access_denied[0m
+[32m2025-12-02 08:50:07.556[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: cloudscraper[0m
+[32m2025-12-02 08:50:07.609[0m | [1mINFO    [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_initialize_scraper[0m:[36m61[0m - [1mCloudscraper initialized successfully[0m
+[32m2025-12-02 08:50:07.609[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_random_delay[0m:[36m141[0m - [34m[1mWaiting 2.60 seconds...[0m
+[32m2025-12-02 08:50:10.206[0m | [1mINFO    [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_make_request[0m:[36m118[0m - [1mMaking GET request to https://www.bubbas33.com/menu[0m
+[32m2025-12-02 08:50:11.007[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_make_request[0m:[36m128[0m - [32m[1mRequest successful: 200[0m
+[32m2025-12-02 08:50:11.019[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36m_analyze_content[0m:[36m167[0m - [34m[1mFound Cloudflare indicator: cloudflare[0m
+[32m2025-12-02 08:50:11.019[0m | [1mINFO    [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m128[0m - [1mDetected Cloudflare challenge: js_challenge[0m
+[32m2025-12-02 08:50:11.020[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m110[0m - [32m[1mBypass successful with strategy: cloudscraper[0m
+[32m2025-12-02 08:50:11.022[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.session_manager[0m:[36mcreate_session[0m:[36m129[0m - [32m[1mCreated new session for www.bubbas33.com[0m
+[32m2025-12-02 08:50:11.022[0m | [32m[1mSUCCESS [0m | [36msrc.core.cloud_destroyer[0m:[36m_save_successful_session[0m:[36m220[0m - [32m[1mSession saved for www.bubbas33.com[0m
+INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\Administrator\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+INFO:api:No items on main page, trying navigation...
+INFO:api:No items on order page, trying category navigation...
+INFO:api:Category extraction called from URL: https://www.bubbas33.com/menu
+INFO:api:Already on menu page, waiting for full load...
+INFO:api:Waiting for page elements to load...
+WARNING:api:Wait for elements failed: Message: 
+, proceeding anyway
+INFO:api:JavaScript returned 0 categories from https://www.bubbas33.com/menu
+INFO:api:Found 0 potential category buttons
+INFO:api:Successfully extracted from 0 categories, total items: 0
+INFO:api:Bubba's 33 detected - adding known OLO endpoint
+INFO:api:Found 1 OLO API endpoints
+INFO:api:Starting dynamic API discovery for: https://www.bubbas33.com/menu
+[32m2025-12-02 08:50:47.074[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.bubbas33.com/menu[0m
+[32m2025-12-02 08:50:47.075[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 643812[0m
+[32m2025-12-02 08:50:48.035[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: access_denied[0m
+[32m2025-12-02 08:50:48.035[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: cloudscraper[0m
+[32m2025-12-02 08:50:48.035[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_random_delay[0m:[36m141[0m - [34m[1mWaiting 1.30 seconds...[0m
+[32m2025-12-02 08:50:49.339[0m | [1mINFO    [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_make_request[0m:[36m118[0m - [1mMaking GET request to https://www.bubbas33.com/menu[0m
+[32m2025-12-02 08:50:49.389[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_make_request[0m:[36m128[0m - [32m[1mRequest successful: 200[0m
+[32m2025-12-02 08:50:49.402[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36m_analyze_content[0m:[36m167[0m - [34m[1mFound Cloudflare indicator: cloudflare[0m
+[32m2025-12-02 08:50:49.402[0m | [1mINFO    [0m | [36msrc.bypass.detectors.challenge_detector[0m:[36mdetect_challenge[0m:[36m128[0m - [1mDetected Cloudflare challenge: js_challenge[0m
+[32m2025-12-02 08:50:49.403[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m110[0m - [32m[1mBypass successful with strategy: cloudscraper[0m
+INFO:api:Bypass successful for https://www.bubbas33.com/menu using strategy: cloudscraper
+INFO:api:Challenge detected: access_denied
+INFO:api:Testing 1 discovered API endpoints
+INFO:api:Testing OLO API endpoint 1: https://www.bubbas33.com/api/olo/restaurants/236820/menu
+[32m2025-12-02 08:50:49.404[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m89[0m - [1mStarting Cloudflare bypass for: https://www.bubbas33.com/api/olo/restaurants/236820/menu[0m
+[32m2025-12-02 08:50:49.404[0m | [1mINFO    [0m | [36msrc.stealth.fingerprint_manager[0m:[36m_generate_chrome_fingerprint[0m:[36m155[0m - [1mGenerated fingerprint with seed: 768111[0m
+[32m2025-12-02 08:50:50.260[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m96[0m - [1mInitial challenge detection: access_denied[0m
+[32m2025-12-02 08:50:50.260[0m | [1mINFO    [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m103[0m - [1mAttempting bypass with strategy: cloudscraper[0m
+[32m2025-12-02 08:50:50.261[0m | [34m[1mDEBUG   [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_random_delay[0m:[36m141[0m - [34m[1mWaiting 1.19 seconds...[0m
+[32m2025-12-02 08:50:51.456[0m | [1mINFO    [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_make_request[0m:[36m118[0m - [1mMaking GET request to https://www.bubbas33.com/api/olo/restaurants/236820/menu[0m
+[32m2025-12-02 08:50:51.825[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.strategies.cloudscraper_method[0m:[36m_make_request[0m:[36m128[0m - [32m[1mRequest successful: 200[0m
+[32m2025-12-02 08:50:52.104[0m | [32m[1mSUCCESS [0m | [36msrc.bypass.bypass_orchestrator[0m:[36mbypass_cloudflare[0m:[36m110[0m - [32m[1mBypass successful with strategy: cloudscraper[0m
+INFO:api:Bypass successful for https://www.bubbas33.com/api/olo/restaurants/236820/menu using strategy: cloudscraper
+INFO:api:Challenge detected: access_denied
+INFO:api:Successfully parsed JSON from API endpoint: https://www.bubbas33.com/api/olo/restaurants/236820/menu
+INFO:api:Attempting OLO-specific menu extraction...
+INFO:api:Found OLO categories under key 'categories' with 13 categories
+INFO:api:OLO extraction complete: 102 items in 13 categories (no prices from API)
+INFO:api:OLO extraction successful: 102 items in 13 categories
+INFO:api:OLO returned no prices, attempting DOM price enrichment...
+INFO:api:Attempting to enrich 102 OLO items with DOM prices...
+INFO:undetected_chromedriver.patcher:patching driver executable C:\Users\Administrator\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+INFO:api:DOM price extraction found 0 price entries
+WARNING:api:No prices found in DOM
+INFO:api:EARLY EXIT: Valid OLO data found, skipping remaining extraction methods
+Traceback (most recent call last):
+  File "c:\Dev\CloudDestroyer\test_bubbas_production.py", line 96, in test_bubbas_menu_scrape
+    for i, cat in enumerate(categories[:5], 1):
+                            ~~~~~~~~~~^^^^
+KeyError: slice(None, 5, None)
+================================================================================
+BUBBA'S 33 MENU SCRAPING TEST - PRODUCTION
+================================================================================
+Started: 2025-12-02 08:49:59.026667
+
+Target: https://www.bubbas33.com
+Restaurant: Bubba's 33
+
+Step 1: Creating scraping job in CloudDestroyer database...
++ Job created: job_id=4
+
+Step 2: Initializing RestaurantMenuScraper...
++ Scraper initialized (with CloudDestroyer bypass enabled)
+
+Step 3: Extracting menu (this may take 1-3 minutes)...
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
++ Menu extraction completed in 78.90 seconds
+
+Step 4: Extraction Results
+--------------------------------------------------------------------------------
+Success: True
+Menu URL: https://www.bubbas33.com/api/olo/restaurants/236820/menu
+Site Type: N/A
+Extraction Method: N/A
+Confidence Score: 0.77
+
+Categories Found: 13
+
+- Menu extraction failed after 78.90 seconds
+Error: slice(None, 5, None)
++ Job marked as failed in database
+Exception ignored while calling deallocator <function Chrome.__del__ at 0x00000227588378A0>:
+Traceback (most recent call last):
+  File "C:\Python314\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Python314\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid
+Exception ignored while calling deallocator <function Chrome.__del__ at 0x00000227588378A0>:
+Traceback (most recent call last):
+  File "C:\Python314\Lib\site-packages\undetected_chromedriver\__init__.py", line 843, in __del__
+    self.quit()
+  File "C:\Python314\Lib\site-packages\undetected_chromedriver\__init__.py", line 798, in quit
+    time.sleep(0.1)
+OSError: [WinError 6] The handle is invalid

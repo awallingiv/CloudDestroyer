@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "restaurant_name": "Mexican Food - Restaurant & Catering - Chipotle Mexican Grill",
+  "website_url": "https://www.chipotle.com",
+  "menu_url": "https://www.chipotle.com/order",
+  "items_found": 2,
+  "categories_found": 0,
+  "processing_time_seconds": 84.794145,
+  "confidence_score": 0.33000000000000007,
+  "menu_data": {
+    "success": true,
+    "items": [
+      {
+        "category": "Menu Item",
+        "description": "From 6 to 200 people Starting at $8.25* / person",
+        "name": "From 6 to 200 people Starting at * / person",
+        "price": "$8.25",
+        "source": "text-fallback"
+      },
+      {
+        "category": "Menu Item",
+        "description": "Starting at $8.25* / person",
+        "name": "Starting at * / person",
+        "price": "$8.25",
+        "source": "text-fallback"
+      }
+    ],
+    "total_items": 2,
+    "extraction_method": "javascript_multi_step_navigation"
+  },
+  "error_message": null
+}

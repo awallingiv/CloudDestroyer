@@ -1,0 +1,969 @@
+{
+  "success": true,
+  "restaurant_name": "Bubba's 33",
+  "website_url": "https://www.bubbas33.com",
+  "menu_url": "https://www.bubbas33.com/api/olo/restaurants/236820/menu",
+  "items_found": 102,
+  "categories_found": 13,
+  "processing_time_seconds": 78.483801,
+  "confidence_score": 0.77,
+  "menu_data": {
+    "items": [
+      {
+        "name": "Big O’ Rings",
+        "price": "",
+        "description": "Sliced fresh, hand-battered and fried. Served with Bubba sauce (add 250/380 cal).",
+        "category": "Appetizers",
+        "available": true,
+        "olo_product_id": "72800896"
+      },
+      {
+        "name": "Garlic Knots",
+        "price": "",
+        "description": "Scratch-made pizza dough, baked, with garlic butter & Parmesan. Served with marinara (add 50 cal) and cheese sauce (add 190 cal).",
+        "category": "Appetizers",
+        "available": true,
+        "olo_product_id": "72800889"
+      },
+      {
+        "name": "Layered Cheese Fries",
+        "price": "",
+        "description": "Crispy seasoned fries, queso, melted cheese, bacon & green onions. Dip ‘em in ranch. Add Chili for $1.",
+        "category": "Appetizers",
+        "available": true,
+        "olo_product_id": "72800888"
+      },
+      {
+        "name": "Crispy Fried Pickles",
+        "price": "",
+        "description": "Made to order! Dill pickle chips breaded and golden-fried.\r\nServed with scratch-made ranch (add 350 cal).",
+        "category": "Appetizers",
+        "available": true,
+        "olo_product_id": "72800897"
+      },
+      {
+        "name": "Crooked Fried Cheese",
+        "price": "",
+        "description": "Deep fried mozzarella cheese sticks. Served with our scratch-made marinara (add 50 cal).",
+        "category": "Appetizers",
+        "available": true,
+        "olo_product_id": "72800890"
+      },
+      {
+        "name": "Shotgun Shrimp",
+        "price": "",
+        "description": "Our scratch-made spicy, creamy sauce on lightly hand-breaded shrimp topped with green onions.",
+        "category": "Appetizers",
+        "available": true,
+        "olo_product_id": "72800891"
+      },
+      {
+        "name": "Chorizo Queso Dip",
+        "price": "",
+        "description": "Melted cheeses, scratch-made chorizo, pico de gallo, jalapeño sauce, fresh tortilla chips and a side of salsa.",
+        "category": "Appetizers",
+        "available": true,
+        "olo_product_id": "72800892"
+      },
+      {
+        "name": "Poblano Spinach Dip",
+        "price": "",
+        "description": "Scratch-made creamy spinach dip with roasted poblanos,\r\ntopped with Parmesan, jack cheese and sour cream.\r\nServed with tortilla chips, garlic focaccia bread and a side of salsa.",
+        "category": "Appetizers",
+        "available": true,
+        "olo_product_id": "72800893"
+      },
+      {
+        "name": "Bubba's Nachos",
+        "price": "",
+        "description": "Tortilla chips with chicken, chorizo, queso, melted cheeses, jalapeño sauce, sour cream, pico de gallo and jalapeños.\r\nAdd guacamole for $.99",
+        "category": "Appetizers",
+        "available": true,
+        "olo_product_id": "72800894"
+      },
+      {
+        "name": "Combo Appetizer",
+        "price": "",
+        "description": "Our Boneless Wings, Crooked Fried Cheese, and Crispy Fried Pickles, served with scratch-made marinara and ranch.",
+        "category": "Appetizers",
+        "available": true,
+        "olo_product_id": "72800895"
+      },
+      {
+        "name": "Bubba's Famous Traditional Wings",
+        "price": "",
+        "description": "Served with celery and choice of Ranch or Bleu Cheese dressing, and your choice of sauce or dry seasoning. Available as 6 or 12 Wings.\r\n\r\nParty-sized wing platters are available in the Wing Platters section.",
+        "category": "Wings",
+        "available": true,
+        "olo_product_id": "72800885"
+      },
+      {
+        "name": "Bubba's Famous Traditional Wing Platter",
+        "price": "",
+        "description": "Served with celery and choice of Ranch or Bleu Cheese dressing, and your choice of sauce or dry seasoning. Available in 25 or 50 wings.",
+        "category": "Wings",
+        "available": true,
+        "olo_product_id": "72800887"
+      },
+      {
+        "name": "Bubba's Famous Boneless Wings",
+        "price": "",
+        "description": "Served with celery and choice of Ranch or Bleu Cheese dressing, and your choice of sauce or dry seasoning. \r\n\r\nParty-sized wing platters are available in the Wing Platters section.",
+        "category": "Wings",
+        "available": true,
+        "olo_product_id": "72800886"
+      },
+      {
+        "name": "Bubba's Famous Boneless Wing Platter",
+        "price": "",
+        "description": "Served with celery and choice of Ranch or Bleu Cheese dressing, and your choice of sauce or dry seasoning. Available in 25 or 50 wings.",
+        "category": "Wings",
+        "available": true,
+        "olo_product_id": "72800884"
+      },
+      {
+        "name": "The Dickie V",
+        "price": "",
+        "description": "Italian sausage, cherry peppers, fresh basil, grated Parmesan and a garlic buttered crust. It’s awesome, baby!",
+        "category": "Pizzas",
+        "available": true,
+        "olo_product_id": "72800909"
+      },
+      {
+        "name": "Build Your Own",
+        "price": "",
+        "description": "Our special blend of cheeses with scratch-made tomato sauce.",
+        "category": "Pizzas",
+        "available": true,
+        "olo_product_id": "72800910"
+      },
+      {
+        "name": "Pepperoni",
+        "price": "",
+        "description": "Loads of pepperoni with blend of cheeses and scratch-made tomato sauce.",
+        "category": "Pizzas",
+        "available": true,
+        "olo_product_id": "72800911"
+      },
+      {
+        "name": "Fresh Veggie",
+        "price": "",
+        "description": "Red and green peppers, red onion, tomatoes, mushrooms , black olives and scratch-made tomato sauce.",
+        "category": "Pizzas",
+        "available": true,
+        "olo_product_id": "72800913"
+      },
+      {
+        "name": "Meaty Meaty",
+        "price": "",
+        "description": "Bacon, homemade Italian sausage, pepperoni and scratch-made tomato sauce.",
+        "category": "Pizzas",
+        "available": true,
+        "olo_product_id": "72800914"
+      },
+      {
+        "name": "BBQ Chicken Pizza",
+        "price": "",
+        "description": "Our blend of cheeses, pepper jack, chicken, red onions, banana peppers and scratch-made honey chipotle BBQ sauce.",
+        "category": "Pizzas",
+        "available": true,
+        "olo_product_id": "72800915"
+      },
+      {
+        "name": "Hawaiian",
+        "price": "",
+        "description": "Canadian bacon, bacon and pineapple with scratch-made tomato sauce.",
+        "category": "Pizzas",
+        "available": true,
+        "olo_product_id": "72800916"
+      },
+      {
+        "name": "Buffalo Classic",
+        "price": "",
+        "description": "Our blend of cheeses, choice of fried or grilled chicken, buffalo ranch, crumbled bleu cheese and drizzled with hot sauce.",
+        "category": "Pizzas",
+        "available": true,
+        "olo_product_id": "72800917"
+      },
+      {
+        "name": "33 Deluxe",
+        "price": "",
+        "description": "Pepperoni, Italian sausage, red and green peppers, \r\nred onion, mushrooms, black olives and scratch-made tomato sauce.",
+        "category": "Pizzas",
+        "available": true,
+        "olo_product_id": "72800918"
+      },
+      {
+        "name": "Albuquerque Turkey",
+        "price": "",
+        "description": "Ranch sauce, turkey, bacon, New Mexico green chiles, cheddar cheese and sour cream lime drizzle.",
+        "category": "Pizzas",
+        "available": true,
+        "olo_product_id": "72800919"
+      },
+      {
+        "name": "Super Stromboli",
+        "price": "",
+        "description": "Pepperoni, salami, Italian sausage, Canadian bacon, cheese blend and pizza sauce baked in pizza dough with sides of marinara and ranch",
+        "category": "Pizzas",
+        "available": true,
+        "olo_product_id": "72800920"
+      },
+      {
+        "name": "Patriot Burger*",
+        "price": "",
+        "description": "Our half pound Angus beef burger with BBQ sauce, cheddar cheese, mayo, pickles, lettuce, tomato and a hand battered onion ring. \r\n\r\nServed juicy medium-well on a toasted bun with your choice of seasoned fries or fire fries, and a pickle spear. Substitute onion rings or a side salad for fries for $1.99. Lettuce instead of bun is available on request.\r\n\r\n$1 from every Patriot Burger sold will be donated to Homes For Our Troops",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "72800964"
+      },
+      {
+        "name": "Classic Cheeseburger*",
+        "price": "",
+        "description": "Angus beef patty with Bubba sauce, American cheese, lettuce, tomato and onion. Available with single or double patty.\r\n\r\nServed juicy medium-well on a toasted bun with your choice of seasoned fries or fire fries, and a pickle spear. Substitute onion rings or a side salad for fries for $1.99. Lettuce instead of bun is available on request.",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "72800961"
+      },
+      {
+        "name": "Wild Shroomin' Burger*",
+        "price": "",
+        "description": "Angus beef patty with sautéed mushrooms, roasted garlic mayo, jack cheese, lettuce, tomato and onion.\r\n\r\nServed juicy medium-well on a toasted bun with your choice of seasoned fries or fire fries, and a pickle spear. Substitute onion rings or a side salad for fries for $1.99. Lettuce instead of bun is available on request.",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "72800963"
+      },
+      {
+        "name": "Spicy Habanero Burger*",
+        "price": "",
+        "description": "Angus beef patty topped with Habañero Heat sauce, charred jalapeño and onion blend, fried jalapeño cream cheese, Bubba sauce, lettuce and tomato.\r\n\r\nServed juicy medium-well on a toasted bun with your choice of seasoned fries or fire fries, and a pickle spear. Substitute onion rings or a side salad for fries for $1.99. Lettuce instead of bun is available on request.",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "72800962"
+      },
+      {
+        "name": "Blackened Bleu Burger*",
+        "price": "",
+        "description": "Angus beef patty with Cajun spiced and topped with creamy bleu cheese sauce, bacon, lettuce, tomato and onion.\r\n\r\nServed juicy medium-well on a toasted bun with your choice of seasoned or fire fries and a pickle spear. Substitute onion rings or a side salad for fries for $1.99. Lettuce instead of bun is available on request.",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "72800965"
+      },
+      {
+        "name": "South of the Border Burger*",
+        "price": "",
+        "description": "Angus beef patty with our queso, made-from-scratch spicy chorizo sausage, lettuce, tomato and onion.\r\n\r\nServed juicy medium-well on a toasted bun with your choice of seasoned fries or fire fries, and a pickle spear. Substitute onion rings or a side salad for fries for $1.99. Lettuce instead of bun is available on request.",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "72800966"
+      },
+      {
+        "name": "Bacon Guacamole Burger*",
+        "price": "",
+        "description": "Two Bubba’s signature beef and bacon grind patties (half pound total weight) pressed and stacked. Topped with Bacon, guacamole, pepper jack cheese, lettuce, tomato and onion.\r\n\r\nServed juicy medium-well on a toasted bun with your choice of seasoned fries or fire fries, and a pickle spear. Substitute onion rings or a side salad for fries for $1.99. Lettuce instead of bun is available on request.",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "72800967"
+      },
+      {
+        "name": "Bubba's Bacon Cheeseburger*",
+        "price": "",
+        "description": "Two Bubba’s signature beef and bacon grind patties (half pound total weight) pressed and stacked. Topped with Bubba sauce, American cheese, bacon,\r\nlettuce, tomato and onion.\r\n\r\nServed juicy medium-well on a toasted bun with your choice of seasoned fries or fire fries, and a pickle spear. Substitute onion rings or a side salad for fries for $1.99. Lettuce instead of bun is available on request.",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "72800968"
+      },
+      {
+        "name": "Sunshine Burger*",
+        "price": "",
+        "description": "Two Bubba’s signature beef and bacon grind patties (half pound total weight) pressed and stacked. Topped with American cheese, fried egg, bacon, lettuce, tomato and onion.\r\n\r\nServed juicy medium-well on a toasted bun with your choice of seasoned fries or fire fries, and a pickle spear. Substitute onion rings or a side salad for fries for $1.99. Lettuce instead of bun is available on request.",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "72800969"
+      },
+      {
+        "name": "Fire-Roasted Green Chile Burger*",
+        "price": "",
+        "description": "Two Bubba’s signature beef and bacon grind patties (half pound total weight) pressed and stacked. Topped with with roasted red & green chilies, pickles, onion and American cheese.\r\n\r\nServed juicy medium-well on a toasted bun with your choice of seasoned fries or fire fries, and a pickle spear. Substitute onion rings or a side salad for fries for $1.99. Lettuce instead of bun is available on request.",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "72800970"
+      },
+      {
+        "name": "Black Bean Veggie Burger",
+        "price": "",
+        "description": "Black bean and quinoa patty with Bubba sauce, American cheese, avocado, lettuce, tomato and onion. \r\nSpicy substitute American cheese with fried jalapeño cream cheese | Add $1 (add 350 cal).\r\n\r\nServed juicy medium-well on a toasted bun with your choice of seasoned fries or fire fries, and a pickle spear. Substitute onion rings or a side salad for fries for $1.99. Lettuce instead of bun is available on request.",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "72800971"
+      },
+      {
+        "name": "Bubba's Smash Burger",
+        "price": "",
+        "description": "Two smashed 4oz. patties topped with sweet and tangy secret sauce, pickles, and American cheese.\r\n\r\nServed juicy medium-well on a toasted bun with your choice of tater tots, seasoned fries or fire fries, and a pickle spear. Substitute onion rings or a side salad for fries for $1.99. Lettuce instead of bun is available on request.",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "86474375"
+      },
+      {
+        "name": "6 Pack Cheeseburgers",
+        "price": "",
+        "description": "",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "95529649"
+      },
+      {
+        "name": "6 Pack Bacon Cheeseburgers",
+        "price": "",
+        "description": "",
+        "category": "Burgers",
+        "available": true,
+        "olo_product_id": "95529657"
+      },
+      {
+        "name": "Chicken Parmesan Sandwich",
+        "price": "",
+        "description": "Breaded and golden-fried chicken breast with melted mozzarella and provolone, marinara, dill pickles, and garlic mayo on a hoagie roll.\r\n\r\nServed with our Seasoned Fries. Select ‘Substitute Fries’ below to see other options",
+        "category": "Handhelds",
+        "available": true,
+        "olo_product_id": "72800951"
+      },
+      {
+        "name": "Fried Chicken Sandwich",
+        "price": "",
+        "description": "Fried chicken breast tossed in your choice of scratch-made wing sauce or dry seasonings. Served with lettuce, tomato and onion on a toasted bun. Choice of ranch (add 230 cal) or bleu cheese dressing (add 220 cal)\r\n\r\nServed with our Seasoned Fries. Select ‘Substitute Fries’ below to see other options",
+        "category": "Handhelds",
+        "available": true,
+        "olo_product_id": "76492334"
+      },
+      {
+        "name": "Chicken Bacon Avocado Sandwich",
+        "price": "",
+        "description": "Marinated and grilled chicken breast with pepper jack cheese, Bubba's smoked bacon, avocado, lettuce, tomato and onion on focaccia bread.\r\n\r\nServed with our Seasoned Fries. Select ‘Substitute Fries’ below to see other options",
+        "category": "Handhelds",
+        "available": true,
+        "olo_product_id": "72800953"
+      },
+      {
+        "name": "Shotgun Shrimp Po'Boy",
+        "price": "",
+        "description": "Bubba's signature fried shrimp tossed in a spicy cream sauce served on a toasted fresh-baked hoagie roll with lettuce, tomato and green onions.\r\n\r\nServed with our Seasoned Fries. Select ‘Substitute Fries’ below to see other options",
+        "category": "Handhelds",
+        "available": true,
+        "olo_product_id": "72800955"
+      },
+      {
+        "name": "Fried Fish Sandwich",
+        "price": "",
+        "description": "Alaskan cod golden fried in Samuel Adams® Boston Lager breading and served on a toasted, fresh-baked hoagie roll with dill pickles, lettuce, tomato, onion and tartar sauce.\r\n\r\nServed with our Seasoned Fries. Select ‘Substitute Fries’ below to see other options",
+        "category": "Handhelds",
+        "available": true,
+        "olo_product_id": "72800956"
+      },
+      {
+        "name": "Pork Tenderloin Sandwich",
+        "price": "",
+        "description": "Golden-fried or grilled fresh pork loin with lettuce, tomato and onion on focaccia bread.\r\n\r\nServed with our Seasoned Fries. Select ‘Substitute Fries’ below to see other options",
+        "category": "Handhelds",
+        "available": true,
+        "olo_product_id": "72800957"
+      },
+      {
+        "name": "Philly Cheese Steak*",
+        "price": "",
+        "description": "Shaved sirloin with green peppers, sautéed mushrooms, caramelized onions and melted cheese on a toasted, fresh-baked hoagie roll.\r\n\r\nServed with our Seasoned Fries. Select ‘Substitute Fries’ below to see other options",
+        "category": "Handhelds",
+        "available": true,
+        "olo_product_id": "72800959"
+      },
+      {
+        "name": "Monte Cristo",
+        "price": "",
+        "description": "Roasted turkey, ham, American and jack cheese, on wheat bread, dipped in tempura batter and deep fried.  Served with raspberry preserves.\r\n\r\nServed with our Seasoned Fries. Select ‘Substitute Fries’ below to see other options.",
+        "category": "Handhelds",
+        "available": true,
+        "olo_product_id": "72800960"
+      },
+      {
+        "name": "Grilled Shrimp Tacos",
+        "price": "",
+        "description": "Two flour tortillas filled with grilled shrimp topped with \r\njalapeño sauce, shredded cabbage and carrots, garlic aioli, and pico de gallo. Add guacamole for 99¢\r\n\r\nServed with our Seasoned Fries. Select ‘Substitute Fries’ below to see other options.",
+        "category": "Handhelds",
+        "available": true,
+        "olo_product_id": "86474364"
+      },
+      {
+        "name": "Fried Fish Tacos",
+        "price": "",
+        "description": "Two flour tortillas filled with golden-fried Atlantic Cod topped with roasted red pepper crema, shredded cabbage and carrots, garlic aioli, and pico de gallo. Add guacamole for 99¢ \r\n\r\nServed with our Seasoned Fries. Select ‘Substitute Fries’ below to see other options.",
+        "category": "Handhelds",
+        "available": true,
+        "olo_product_id": "86474370"
+      },
+      {
+        "name": "Bubba's Lasagna",
+        "price": "",
+        "description": "Layers of pasta, Italian sausage, Ricotta cheese and Bolognese sauce topped with tomato sauce, mozzarella, provolone and grated Parmesan cheese.",
+        "category": "Bubba's Dinners",
+        "available": true,
+        "olo_product_id": "72800935"
+      },
+      {
+        "name": "Chicken Tender Dinner",
+        "price": "",
+        "description": "Hand-breaded and golden-fried, served with BBQ, \r\nranch or honey mustard (add 140-320 cal). Choose 2 sides.",
+        "category": "Bubba's Dinners",
+        "available": true,
+        "olo_product_id": "72800937"
+      },
+      {
+        "name": "California Chicken Dinner",
+        "price": "",
+        "description": "Grilled chicken breast topped with avocado, pico de gallo, \r\njack cheese and scratch-made honey lime sauce. \r\nServed over garden rice. Choose 1 side.",
+        "category": "Bubba's Dinners",
+        "available": true,
+        "olo_product_id": "72800938"
+      },
+      {
+        "name": "Signature Ribeye* 14oz",
+        "price": "",
+        "description": "Hand-cut in-house, seasoned with an espresso rub, seared \r\nand finished on the grill with a coffee glaze. Choose 2 sides.",
+        "category": "Bubba's Dinners",
+        "available": true,
+        "olo_product_id": "72800936"
+      },
+      {
+        "name": "Grilled Ribeye* 12oz",
+        "price": "",
+        "description": "Juicy, flavorful steak hand-cut in-house. Choose 2 sides.",
+        "category": "Bubba's Dinners",
+        "available": true,
+        "olo_product_id": "72800939"
+      },
+      {
+        "name": "Grilled Ribeye* 14oz",
+        "price": "",
+        "description": "Juicy, flavorful steak hand-cut in-house. Choose 2 sides.",
+        "category": "Bubba's Dinners",
+        "available": true,
+        "olo_product_id": "72800940"
+      },
+      {
+        "name": "Fish & Chips",
+        "price": "",
+        "description": "Atlantic Cod golden-fried in Samuel Adams® \r\nBoston Lager batter. Served with tartar sauce (add 360 cal), \r\nseasoned fries and coleslaw",
+        "category": "Bubba's Dinners",
+        "available": true,
+        "olo_product_id": "72800941"
+      },
+      {
+        "name": "Seasoned Salmon",
+        "price": "",
+        "description": "Chili seasoned and topped with sweet honey lime sauce. Served over garden rice. Choose 1 side.",
+        "category": "Bubba's Dinners",
+        "available": true,
+        "olo_product_id": "72800943"
+      },
+      {
+        "name": "Crunchy Fried Shrimp",
+        "price": "",
+        "description": "Hand-breaded and golden-fried, served with \r\ncocktail sauce (add 50 cal), seasoned fries and coleslaw",
+        "category": "Bubba's Dinners",
+        "available": true,
+        "olo_product_id": "72800944"
+      },
+      {
+        "name": "Chicken Tenders & Fried Shrimp Combo",
+        "price": "",
+        "description": "Hearty-sized platter of hand-breaded chicken tenders and crunchy fried shrimp. Choose 2 sides.",
+        "category": "Bubba's Dinners",
+        "available": true,
+        "olo_product_id": "72800945"
+      },
+      {
+        "name": "Southern Fried Chicken",
+        "price": "",
+        "description": "Boneless chicken breast, hand-breaded, \r\ngolden-fried and covered with our scratch-made cream gravy. \r\nServed with garlic mashed potatoes. Choose 1 side.",
+        "category": "Bubba's Dinners",
+        "available": true,
+        "olo_product_id": "72800946"
+      },
+      {
+        "name": "Herb Roasted Chicken",
+        "price": "",
+        "description": "Oven-roasted half-chicken seasoned with a blend\r\nof herbs and spices. Served with scratch-made\r\nChimichurri and garlic mashed potatoes. Choose 1 side",
+        "category": "Bubba's Dinners",
+        "available": true,
+        "olo_product_id": "72800947"
+      },
+      {
+        "name": "Bubba's Lasagna",
+        "price": "",
+        "description": "Layered pasta with Italian sausage, ricotta cheese, Bolognese, mozzarella, provolone and Parmesan cheese. \r\nServed with scratch-made garlic focaccia bread (add 128 cal).",
+        "category": "Signature Pastas",
+        "available": true,
+        "olo_product_id": "72800906"
+      },
+      {
+        "name": "Chicken & Bacon Mac n’ Cheese",
+        "price": "",
+        "description": "Grilled chicken and bacon tossed with our blend of five cheeses, then topped with Parmesan cheese and breadcrumbs. \r\nServed with scratch-made garlic focaccia bread (add 128 cal).",
+        "category": "Signature Pastas",
+        "available": true,
+        "olo_product_id": "72800907"
+      },
+      {
+        "name": "Creamy Chipotle Pasta",
+        "price": "",
+        "description": "Grilled chicken, sautéed shrimp, roasted peppers, onions and mushrooms tossed in our spicy chipotle cream sauce, then topped with cilantro and parmesan cheese.\r\nServed with garlic focaccia bread.",
+        "category": "Signature Pastas",
+        "available": true,
+        "olo_product_id": "72800908"
+      },
+      {
+        "name": "The Big Salad",
+        "price": "",
+        "description": "Fresh salad greens topped with egg, tomato,\r\ncheddar and jack cheeses, red onion and potato straws",
+        "category": "Salads",
+        "available": true,
+        "olo_product_id": "72800900"
+      },
+      {
+        "name": "Side Salad",
+        "price": "",
+        "description": "Fresh salad greens topped with egg, tomato, Cheddar cheese, red onion and potato straws.",
+        "category": "Salads",
+        "available": true,
+        "olo_product_id": "72800898"
+      },
+      {
+        "name": "The Big Salad",
+        "price": "",
+        "description": "Fresh salad greens topped with egg, tomato,\r\ncheddar and jack cheeses, red onion and potato straws",
+        "category": "Salads",
+        "available": true,
+        "olo_product_id": "72800901"
+      },
+      {
+        "name": "Grilled Chicken Salad",
+        "price": "",
+        "description": "Grilled chicken on top of fresh greens with egg, tomato,\r\ncheddar and jack cheeses, red onion and potato straws",
+        "category": "Salads",
+        "available": true,
+        "olo_product_id": "72800902"
+      },
+      {
+        "name": "Strawberry Quinoa Salad",
+        "price": "",
+        "description": "Spring mix and quinoa topped with tomatoes, candied \r\npecans, strawberries, dried cranberries and goat cheese \r\nwith balsamic vinaigrette served on the side.\r\nWith Seasoned Salmon | Add $4 (add 240 cal).",
+        "category": "Salads",
+        "available": true,
+        "olo_product_id": "72800903"
+      },
+      {
+        "name": "Crispy Chicken Salad",
+        "price": "",
+        "description": "Fried chicken tenders on greens, egg, tomato,\r\ncheddar and jack cheeses, red onion and potato straws.",
+        "category": "Salads",
+        "available": true,
+        "olo_product_id": "72800904"
+      },
+      {
+        "name": "Salmon Salad",
+        "price": "",
+        "description": "Seasoned salmon on top of fresh salad greens\r\nwith egg, tomato, cheddar and jack cheeses,\r\nred onion and potato straws.",
+        "category": "Salads",
+        "available": true,
+        "olo_product_id": "72800905"
+      },
+      {
+        "name": "Mac N'Cheese",
+        "price": "",
+        "description": "",
+        "category": "Sides & Extras",
+        "available": true,
+        "olo_product_id": "72800973"
+      },
+      {
+        "name": "Garlic Mashed Potatoes & Gravy",
+        "price": "",
+        "description": "",
+        "category": "Sides & Extras",
+        "available": true,
+        "olo_product_id": "72800975"
+      },
+      {
+        "name": "Cup of Chili",
+        "price": "",
+        "description": "",
+        "category": "Sides & Extras",
+        "available": true,
+        "olo_product_id": "72800972"
+      },
+      {
+        "name": "Steamed Broccoli",
+        "price": "",
+        "description": "",
+        "category": "Sides & Extras",
+        "available": true,
+        "olo_product_id": "72800974"
+      },
+      {
+        "name": "Side Salad",
+        "price": "",
+        "description": "Fresh salad greens topped with egg, tomato, Cheddar cheese, red onion and potato straws.",
+        "category": "Sides & Extras",
+        "available": true,
+        "olo_product_id": "72800976"
+      },
+      {
+        "name": "Seasoned Fries",
+        "price": "",
+        "description": "",
+        "category": "Sides & Extras",
+        "available": true,
+        "olo_product_id": "72800977"
+      },
+      {
+        "name": "Fire Fries",
+        "price": "",
+        "description": "",
+        "category": "Sides & Extras",
+        "available": true,
+        "olo_product_id": "72800978"
+      },
+      {
+        "name": "Tater tots",
+        "price": "",
+        "description": "",
+        "category": "Sides & Extras",
+        "available": true,
+        "olo_product_id": "72800979"
+      },
+      {
+        "name": "Cole Slaw",
+        "price": "",
+        "description": "",
+        "category": "Sides & Extras",
+        "available": true,
+        "olo_product_id": "72800980"
+      },
+      {
+        "name": "Garden Rice",
+        "price": "",
+        "description": "",
+        "category": "Sides & Extras",
+        "available": true,
+        "olo_product_id": "72800981"
+      },
+      {
+        "name": "Shrimp Sidekick",
+        "price": "",
+        "description": "",
+        "category": "Sides & Extras",
+        "available": true,
+        "olo_product_id": "72800982"
+      },
+      {
+        "name": "Extra Garlic Toast",
+        "price": "",
+        "description": "",
+        "category": "Sides & Extras",
+        "available": true,
+        "olo_product_id": "72800983"
+      },
+      {
+        "name": "All-American Hot Dog",
+        "price": "",
+        "description": "All-beef hot dog served with seasoned fries (add 380 cal).",
+        "category": "Kids Meals",
+        "available": true,
+        "olo_product_id": "72800985"
+      },
+      {
+        "name": "Mac N'Cheese",
+        "price": "",
+        "description": "Twisted pasta with homemade cheese sauce.",
+        "category": "Kids Meals",
+        "available": true,
+        "olo_product_id": "72800987"
+      },
+      {
+        "name": "Grilled Cheese",
+        "price": "",
+        "description": "American cheese toasted and served with seasoned fries (add 380 cal).",
+        "category": "Kids Meals",
+        "available": true,
+        "olo_product_id": "72800986"
+      },
+      {
+        "name": "Mini Chicken Tenders",
+        "price": "",
+        "description": "Hand-breaded chicken served with seasoned fries (add 380 cal).",
+        "category": "Kids Meals",
+        "available": true,
+        "olo_product_id": "72800988"
+      },
+      {
+        "name": "Lil' Cheeseburger",
+        "price": "",
+        "description": "Beef patty with American cheese served with seasoned fries (add 380 cal).",
+        "category": "Kids Meals",
+        "available": true,
+        "olo_product_id": "72800989"
+      },
+      {
+        "name": "Lil' Pizza",
+        "price": "",
+        "description": "Hand-tossed",
+        "category": "Kids Meals",
+        "available": true,
+        "olo_product_id": "72800990"
+      },
+      {
+        "name": "Soft Drinks",
+        "price": "",
+        "description": "",
+        "category": "Beverages",
+        "available": true,
+        "olo_product_id": "72800997"
+      },
+      {
+        "name": "Iced Tea (Sweet or Unsweet)",
+        "price": "",
+        "description": "",
+        "category": "Beverages",
+        "available": true,
+        "olo_product_id": "72800994"
+      },
+      {
+        "name": "Flavored Lemonade",
+        "price": "",
+        "description": "•\tWild Strawberry Lemonade\r\n•\tBubba's Blue Lemonade\r\n•\tJammin' Blackberry Lemonade\r\n•\tMango Madness Lemonade",
+        "category": "Beverages",
+        "available": true,
+        "olo_product_id": "72800995"
+      },
+      {
+        "name": "Hot Drinks",
+        "price": "",
+        "description": "",
+        "category": "Beverages",
+        "available": true,
+        "olo_product_id": "72800996"
+      },
+      {
+        "name": "Water",
+        "price": "",
+        "description": "",
+        "category": "Beverages",
+        "available": true,
+        "olo_product_id": "72800998"
+      },
+      {
+        "name": "Slow Brewed Iced Tea by the gallon",
+        "price": "",
+        "description": "",
+        "category": "Beverages",
+        "available": true,
+        "olo_product_id": "72800999"
+      },
+      {
+        "name": "Lemonade by the gallon",
+        "price": "",
+        "description": "• Minute Maid Lemonade\r\n• Wild Strawberry Lemonade\r\n• Bubba's Blue Lemonade\r\n• Jammin' Blackberry Lemonade\r\n• Mango Madness Lemonade",
+        "category": "Beverages",
+        "available": true,
+        "olo_product_id": "72801000"
+      },
+      {
+        "name": "Red Bull Energy Drinks",
+        "price": "",
+        "description": "",
+        "category": "Beverages",
+        "available": true,
+        "olo_product_id": "72801001"
+      },
+      {
+        "name": "Chocolate Chip Cookie Sundae",
+        "price": "",
+        "description": "Warm, gooey, made-from-scratch chocolate chip cookie topped with vanilla ice cream, chocolate sauce and whipped cream.",
+        "category": "Desserts",
+        "available": true,
+        "olo_product_id": "72800991"
+      },
+      {
+        "name": "Bubba's Cheesecake",
+        "price": "",
+        "description": "NY-style cheesecake with choice of topping and served with whipped cream Fresh strawberries and strawberry glaze or Turtle with chocolate fudge, caramel and candied pecans.",
+        "category": "Desserts",
+        "available": true,
+        "olo_product_id": "72800993"
+      },
+      {
+        "name": "Oreo® Brownie Sundae",
+        "price": "",
+        "description": "Rich chocolate brownie baked fresh with Oreo® cookie pieces and topped with vanilla ice cream, chocolate sauce and whipped cream.",
+        "category": "Desserts",
+        "available": true,
+        "olo_product_id": "72800992"
+      },
+      {
+        "name": "6 Pack Cheeseburgers",
+        "price": "",
+        "description": "",
+        "category": "Family Feasts TO-GO",
+        "available": true,
+        "olo_product_id": "94514596"
+      },
+      {
+        "name": "6 Pack Bacon Cheeseburgers",
+        "price": "",
+        "description": "",
+        "category": "Family Feasts TO-GO",
+        "available": true,
+        "olo_product_id": "94514601"
+      }
+    ],
+    "categories": {
+      "Appetizers": [
+        "Big O’ Rings",
+        "Garlic Knots",
+        "Layered Cheese Fries",
+        "Crispy Fried Pickles",
+        "Crooked Fried Cheese",
+        "Shotgun Shrimp",
+        "Chorizo Queso Dip",
+        "Poblano Spinach Dip",
+        "Bubba's Nachos",
+        "Combo Appetizer"
+      ],
+      "Wings": [
+        "Bubba's Famous Traditional Wings",
+        "Bubba's Famous Traditional Wing Platter",
+        "Bubba's Famous Boneless Wings",
+        "Bubba's Famous Boneless Wing Platter"
+      ],
+      "Pizzas": [
+        "The Dickie V",
+        "Build Your Own",
+        "Pepperoni",
+        "Fresh Veggie",
+        "Meaty Meaty",
+        "BBQ Chicken Pizza",
+        "Hawaiian",
+        "Buffalo Classic",
+        "33 Deluxe",
+        "Albuquerque Turkey",
+        "Super Stromboli"
+      ],
+      "Burgers": [
+        "Patriot Burger*",
+        "Classic Cheeseburger*",
+        "Wild Shroomin' Burger*",
+        "Spicy Habanero Burger*",
+        "Blackened Bleu Burger*",
+        "South of the Border Burger*",
+        "Bacon Guacamole Burger*",
+        "Bubba's Bacon Cheeseburger*",
+        "Sunshine Burger*",
+        "Fire-Roasted Green Chile Burger*",
+        "Black Bean Veggie Burger",
+        "Bubba's Smash Burger",
+        "6 Pack Cheeseburgers",
+        "6 Pack Bacon Cheeseburgers"
+      ],
+      "Handhelds": [
+        "Chicken Parmesan Sandwich",
+        "Fried Chicken Sandwich",
+        "Chicken Bacon Avocado Sandwich",
+        "Shotgun Shrimp Po'Boy",
+        "Fried Fish Sandwich",
+        "Pork Tenderloin Sandwich",
+        "Philly Cheese Steak*",
+        "Monte Cristo",
+        "Grilled Shrimp Tacos",
+        "Fried Fish Tacos"
+      ],
+      "Bubba's Dinners": [
+        "Bubba's Lasagna",
+        "Chicken Tender Dinner",
+        "California Chicken Dinner",
+        "Signature Ribeye* 14oz",
+        "Grilled Ribeye* 12oz",
+        "Grilled Ribeye* 14oz",
+        "Fish & Chips",
+        "Seasoned Salmon",
+        "Crunchy Fried Shrimp",
+        "Chicken Tenders & Fried Shrimp Combo",
+        "Southern Fried Chicken",
+        "Herb Roasted Chicken"
+      ],
+      "Signature Pastas": [
+        "Bubba's Lasagna",
+        "Chicken & Bacon Mac n’ Cheese",
+        "Creamy Chipotle Pasta"
+      ],
+      "Salads": [
+        "The Big Salad",
+        "Side Salad",
+        "The Big Salad",
+        "Grilled Chicken Salad",
+        "Strawberry Quinoa Salad",
+        "Crispy Chicken Salad",
+        "Salmon Salad"
+      ],
+      "Sides & Extras": [
+        "Mac N'Cheese",
+        "Garlic Mashed Potatoes & Gravy",
+        "Cup of Chili",
+        "Steamed Broccoli",
+        "Side Salad",
+        "Seasoned Fries",
+        "Fire Fries",
+        "Tater tots",
+        "Cole Slaw",
+        "Garden Rice",
+        "Shrimp Sidekick",
+        "Extra Garlic Toast"
+      ],
+      "Kids Meals": [
+        "All-American Hot Dog",
+        "Mac N'Cheese",
+        "Grilled Cheese",
+        "Mini Chicken Tenders",
+        "Lil' Cheeseburger",
+        "Lil' Pizza"
+      ],
+      "Beverages": [
+        "Soft Drinks",
+        "Iced Tea (Sweet or Unsweet)",
+        "Flavored Lemonade",
+        "Hot Drinks",
+        "Water",
+        "Slow Brewed Iced Tea by the gallon",
+        "Lemonade by the gallon",
+        "Red Bull Energy Drinks"
+      ],
+      "Desserts": [
+        "Chocolate Chip Cookie Sundae",
+        "Bubba's Cheesecake",
+        "Oreo® Brownie Sundae"
+      ],
+      "Family Feasts TO-GO": [
+        "6 Pack Cheeseburgers",
+        "6 Pack Bacon Cheeseburgers"
+      ]
+    },
+    "_extraction_info": {
+      "source": "olo_api",
+      "total_items": 102,
+      "total_categories": 13,
+      "items_with_prices": 0,
+      "price_note": "OLO dynamic pricing - prices not in API (require store location)",
+      "price_status": "unavailable"
+    }
+  },
+  "error_message": null
+}

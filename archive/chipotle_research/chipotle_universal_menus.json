@@ -1,0 +1,297 @@
+{
+  "entrees": [
+    {
+      "itemId": "CMG-6"
+    },
+    {
+      "itemId": "CMG-3"
+    },
+    {
+      "itemId": "CMG-4"
+    },
+    {
+      "itemId": "CMG-5"
+    },
+    {
+      "itemId": "CMG-15"
+    },
+    {
+      "itemId": "CMG-1"
+    },
+    {
+      "itemId": "CMG-2"
+    },
+    {
+      "itemId": "CMG-3002"
+    },
+    {
+      "itemId": "CMG-3004"
+    },
+    {
+      "itemId": "CMG-3005"
+    },
+    {
+      "itemId": "CMG-3006"
+    },
+    {
+      "itemId": "CMG-3017"
+    },
+    {
+      "itemId": "CMG-3003"
+    },
+    {
+      "itemId": "CMG-3007"
+    },
+    {
+      "itemId": "CMG-303"
+    },
+    {
+      "itemId": "CMG-304"
+    },
+    {
+      "itemId": "CMG-305"
+    },
+    {
+      "itemId": "CMG-315"
+    },
+    {
+      "itemId": "CMG-301"
+    },
+    {
+      "itemId": "CMG-302"
+    },
+    {
+      "itemId": "CMG-306"
+    },
+    {
+      "itemId": "CMG-1203"
+    },
+    {
+      "itemId": "CMG-1204"
+    },
+    {
+      "itemId": "CMG-1205"
+    },
+    {
+      "itemId": "CMG-205"
+    },
+    {
+      "itemId": "CMG-1216"
+    },
+    {
+      "itemId": "CMG-215"
+    },
+    {
+      "itemId": "CMG-1201"
+    },
+    {
+      "itemId": "CMG-1202"
+    },
+    {
+      "itemId": "CMG-1206"
+    },
+    {
+      "itemId": "CMG-201"
+    },
+    {
+      "itemId": "CMG-202"
+    },
+    {
+      "itemId": "CMG-203"
+    },
+    {
+      "itemId": "CMG-204"
+    },
+    {
+      "itemId": "CMG-206"
+    },
+    {
+      "itemId": "CMG-1301"
+    },
+    {
+      "itemId": "CMG-401"
+    },
+    {
+      "itemId": "CMG-402"
+    },
+    {
+      "itemId": "CMG-428"
+    },
+    {
+      "itemId": "CMG-407"
+    },
+    {
+      "itemId": "CMG-403"
+    },
+    {
+      "itemId": "CMG-404"
+    },
+    {
+      "itemId": "CMG-405"
+    },
+    {
+      "itemId": "CMG-117"
+    },
+    {
+      "itemId": "CMG-101"
+    },
+    {
+      "itemId": "CMG-102"
+    },
+    {
+      "itemId": "CMG-103"
+    },
+    {
+      "itemId": "CMG-104"
+    },
+    {
+      "itemId": "CMG-105"
+    },
+    {
+      "itemId": "CMG-106"
+    },
+    {
+      "itemId": "CMG-3104"
+    },
+    {
+      "itemId": "CMG-3105"
+    },
+    {
+      "itemId": "CMG-3106"
+    },
+    {
+      "itemId": "CMG-3116"
+    },
+    {
+      "itemId": "CMG-3101"
+    },
+    {
+      "itemId": "CMG-3102"
+    },
+    {
+      "itemId": "CMG-3103"
+    },
+    {
+      "itemId": "CMG-3107"
+    }
+  ],
+  "sides": [
+    {
+      "itemId": "CMG-5365"
+    },
+    {
+      "itemId": "CMG-1032"
+    },
+    {
+      "itemId": "CMG-1033"
+    },
+    {
+      "itemId": "CMG-5367"
+    },
+    {
+      "itemId": "CMG-5369"
+    },
+    {
+      "itemId": "CMG-5370"
+    },
+    {
+      "itemId": "CMG-1006"
+    },
+    {
+      "itemId": "CMG-1007"
+    },
+    {
+      "itemId": "CMG-1008"
+    },
+    {
+      "itemId": "CMG-5371"
+    },
+    {
+      "itemId": "CMG-5372"
+    },
+    {
+      "itemId": "CMG-1005"
+    },
+    {
+      "itemId": "CMG-1002"
+    },
+    {
+      "itemId": "CMG-1016"
+    },
+    {
+      "itemId": "CMG-5362"
+    },
+    {
+      "itemId": "CMG-5363"
+    },
+    {
+      "itemId": "CMG-4025"
+    },
+    {
+      "itemId": "CMG-1030"
+    },
+    {
+      "itemId": "CMG-1031"
+    },
+    {
+      "itemId": "CMG-1052"
+    },
+    {
+      "itemId": "CMG-1025"
+    },
+    {
+      "itemId": "CMG-1009"
+    },
+    {
+      "itemId": "CMG-1051"
+    },
+    {
+      "itemId": "CMG-5398"
+    },
+    {
+      "itemId": "CMG-1047"
+    },
+    {
+      "itemId": "CMG-5399"
+    },
+    {
+      "itemId": "CMG-1048"
+    },
+    {
+      "itemId": "CMG-5400"
+    },
+    {
+      "itemId": "CMG-1049"
+    },
+    {
+      "itemId": "CMG-5500"
+    },
+    {
+      "itemId": "CMG-1050"
+    },
+    {
+      "itemId": "CMG-1003"
+    },
+    {
+      "itemId": "CMG-5364"
+    },
+    {
+      "itemId": "CMG-1015"
+    },
+    {
+      "itemId": "CMG-5366"
+    },
+    {
+      "itemId": "CMG-5411"
+    }
+  ],
+  "drinks": [
+    {
+      "itemId": "CMG-2001"
+    },
+    {
+      "itemId": "CMG-2002"
+    }
+  ],
+  "nonFoodItems": []
+}

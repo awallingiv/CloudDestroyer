@@ -1,0 +1,3640 @@
+[
+  {
+    "item_id": "CMG-15",
+    "name": "CMG-15",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "210",
+    "sort_order": 0,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1115-honey-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-8",
+    "name": "CMG-8",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "250",
+    "sort_order": 1,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6608-carne-asada/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-14",
+    "name": "CMG-14",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "200",
+    "sort_order": 2,
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/CMG-5166-Chicken-al-Pastor/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-10",
+    "name": "CMG-10",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "360",
+    "sort_order": 3,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-112-brisket/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1",
+    "name": "CMG-1",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "180",
+    "sort_order": 4,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6601-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-13",
+    "name": "CMG-13",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "250",
+    "sort_order": 5,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5165--garlic-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-11",
+    "name": "CMG-11",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "210",
+    "sort_order": 6,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5163-pollo-asado/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-12",
+    "name": "CMG-12",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "220",
+    "sort_order": 7,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5164-pb-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2",
+    "name": "CMG-2",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "150",
+    "sort_order": 8,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6602-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-4",
+    "name": "CMG-4",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "170",
+    "sort_order": 9,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6604-barbacoa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3",
+    "name": "CMG-3",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "210",
+    "sort_order": 10,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6603-carnitas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-7",
+    "name": "CMG-7",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "300",
+    "sort_order": 11,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6606-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5",
+    "name": "CMG-5",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "150",
+    "sort_order": 12,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6605-sofritas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-6",
+    "name": "CMG-6",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "",
+    "calories": "0",
+    "sort_order": 13,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1025-large-side-of-guac/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-117",
+    "name": "CMG-117",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "210",
+    "sort_order": 0,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1115-honey-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-108",
+    "name": "CMG-108",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "250",
+    "sort_order": 1,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6608-carne-asada/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-116",
+    "name": "CMG-116",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "200",
+    "sort_order": 2,
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/CMG-5166-Chicken-al-Pastor/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-112",
+    "name": "CMG-112",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "360",
+    "sort_order": 3,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-112-brisket/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-101",
+    "name": "CMG-101",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "180",
+    "sort_order": 4,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6601-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-115",
+    "name": "CMG-115",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "250",
+    "sort_order": 5,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5165--garlic-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-113",
+    "name": "CMG-113",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "210",
+    "sort_order": 6,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5163-pollo-asado/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-114",
+    "name": "CMG-114",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "220",
+    "sort_order": 7,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5164-pb-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-102",
+    "name": "CMG-102",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "150",
+    "sort_order": 8,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6602-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-104",
+    "name": "CMG-104",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "170",
+    "sort_order": 9,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6604-barbacoa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-103",
+    "name": "CMG-103",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "210",
+    "sort_order": 10,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6603-carnitas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-107",
+    "name": "CMG-107",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "300",
+    "sort_order": 11,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6606-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-105",
+    "name": "CMG-105",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "150",
+    "sort_order": 12,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6605-sofritas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-106",
+    "name": "CMG-106",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "",
+    "calories": "0",
+    "sort_order": 13,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1025-large-side-of-guac/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5362",
+    "name": "CMG-5362",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "540",
+    "sort_order": 0,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5362-chili-lime-chips/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5363",
+    "name": "CMG-5363",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "820",
+    "sort_order": 1,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5363-large-chili-lime-chips/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5364",
+    "name": "CMG-5364",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "770",
+    "sort_order": 2,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5364-chili-lime-chips-guacamole/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5366",
+    "name": "CMG-5366",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "1280",
+    "sort_order": 3,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5366-large-chili-lime-chips-guacamole/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5365",
+    "name": "CMG-5365",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "780",
+    "sort_order": 4,
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5365-chili-lime-chips-queso/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5367",
+    "name": "CMG-5367",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "1300",
+    "sort_order": 5,
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5367-large-chili-lime-chips-queso-blanco/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5369",
+    "name": "CMG-5369",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "565",
+    "sort_order": 6,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5369-chili-lime-chips-fresh-tomato-salsa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5370",
+    "name": "CMG-5370",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "555",
+    "sort_order": 7,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5370-chili-lime-chips-tomatillo-green-chili-salsa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5371",
+    "name": "CMG-5371",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "570",
+    "sort_order": 8,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5371-chili-lime-chips-tomatillo-red-chili-salsa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5372",
+    "name": "CMG-5372",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "620",
+    "sort_order": 9,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5372-chili-lime-chips-roasted-chili-corn-salsa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5373",
+    "name": "CMG-5373",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "140",
+    "sort_order": 10,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5362-chili-lime-chips/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1013",
+    "name": "CMG-1013",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "770",
+    "sort_order": 11,
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1032-queso-blanco/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1014",
+    "name": "CMG-1014",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "1270",
+    "sort_order": 12,
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1032-queso-blanco/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1032",
+    "name": "CMG-1032",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "780",
+    "sort_order": 13,
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1032-queso-blanco/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1033",
+    "name": "CMG-1033",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "1290",
+    "sort_order": 14,
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1033-large-chips-large-queso-blanco/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1006",
+    "name": "CMG-1006",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "555",
+    "sort_order": 15,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1006-chips-and-tomatillo-green-chili-salsa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-4025",
+    "name": "CMG-4025",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "320",
+    "sort_order": 16,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "glut",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5501-flour-tortilla-burrito-size/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5354",
+    "name": "CMG-5354",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "220",
+    "sort_order": 17,
+    "dietary_tags": [
+      "vege",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5353--chipotle-honey-vinaigrette/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1008",
+    "name": "CMG-1008",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "620",
+    "sort_order": 18,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1008-chips-roasted-chili-corn-salsa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1007",
+    "name": "CMG-1007",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "570",
+    "sort_order": 19,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1007-chips-tomatillo-red-chili-salsa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1005",
+    "name": "CMG-1005",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "565",
+    "sort_order": 20,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1005-chips-and-salsa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1002",
+    "name": "CMG-1002",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "540",
+    "sort_order": 21,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1002-chips/web-desktop/chips.png"
+  },
+  {
+    "item_id": "CMG-1030",
+    "name": "CMG-1030",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "240",
+    "sort_order": 22,
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1029-queso-blanco/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1031",
+    "name": "CMG-1031",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "480",
+    "sort_order": 23,
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1031-large-side-of-queso-blanco/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5398",
+    "name": "CMG-5398",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "40",
+    "sort_order": 24,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5201-fresh-tomato-salsa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5500",
+    "name": "CMG-5500",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "90",
+    "sort_order": 25,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5204-tomatillo-red-chili-salsa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5400",
+    "name": "CMG-5400",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "45",
+    "sort_order": 26,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5203-tomatillo-green-chili-salsa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5399",
+    "name": "CMG-5399",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "120",
+    "sort_order": 27,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5202-roasted-chili-corn-salsa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1011",
+    "name": "CMG-1011",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": null,
+    "sort_order": 28,
+    "dietary_tags": [],
+    "thumbnail_url": ""
+  },
+  {
+    "item_id": "CMG-1009",
+    "name": "CMG-1009",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "230",
+    "sort_order": 29,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1009-guacamole/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1025",
+    "name": "CMG-1025",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "460",
+    "sort_order": 30,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1025-large-side-of-guac/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1003",
+    "name": "CMG-1003",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "770",
+    "sort_order": 31,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1003-chips-and-guac/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1016",
+    "name": "CMG-1016",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "810",
+    "sort_order": 32,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/CMG-1016-Side-Large-Chips/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1015",
+    "name": "CMG-1015",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "1270",
+    "sort_order": 33,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1015-large-chips---large-guacamole/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-9004",
+    "name": "CMG-9004",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "320",
+    "sort_order": 34,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "glut"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-9004-churros/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-9005",
+    "name": "CMG-9005",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "350",
+    "sort_order": 35,
+    "dietary_tags": [
+      "dair",
+      "soy"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-9005-chocolate-crema/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-9006",
+    "name": "CMG-9006",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "420",
+    "sort_order": 36,
+    "dietary_tags": [
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-9006-caramel-crema/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1410",
+    "name": "CMG-1410",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "190",
+    "sort_order": 37,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1407-grilled-street-corn/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1411",
+    "name": "CMG-1411",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "730",
+    "sort_order": 38,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1411-chips-and-grilled-street-corn/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1413",
+    "name": "CMG-1413",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "380",
+    "sort_order": 39,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1413-large-side-of-grilled-street-corn/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1414",
+    "name": "CMG-1414",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "1190",
+    "sort_order": 40,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1414-large-chips-large-grilled-street-corn/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5358",
+    "name": "CMG-5358",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "110",
+    "sort_order": 41,
+    "dietary_tags": [
+      "vege",
+      "keto",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5358-adobo-ranch/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5411",
+    "name": "CMG-5411",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "",
+    "calories": "190",
+    "sort_order": 42,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5411-red-chimichurri/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2019",
+    "name": "CMG-2019",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "230",
+    "sort_order": 1,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-ftn-watermelon-limeade/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2020",
+    "name": "CMG-2020",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "330",
+    "sort_order": 2,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-ftn-watermelon-limeade/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2010",
+    "name": "CMG-2010",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "170",
+    "sort_order": 3,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-ftn-organic-lemonade/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2011",
+    "name": "CMG-2011",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "250",
+    "sort_order": 4,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-ftn-organic-lemonade/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2014",
+    "name": "CMG-2014",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "150",
+    "sort_order": 5,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-ftn-hibiscus-lemonade/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2015",
+    "name": "CMG-2015",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "210",
+    "sort_order": 6,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-ftn-hibiscus-lemonade/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2012",
+    "name": "CMG-2012",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "190",
+    "sort_order": 7,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-ftn-mandarin-agua-fresca/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2013",
+    "name": "CMG-2013",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "280",
+    "sort_order": 8,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-ftn-mandarin-agua-fresca/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2017",
+    "name": "CMG-2017",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "200",
+    "sort_order": 9,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-ftn-berry-agua-fresca/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2018",
+    "name": "CMG-2018",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "290",
+    "sort_order": 10,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-ftn-berry-agua-fresca/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2001",
+    "name": "CMG-2001",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "250",
+    "sort_order": 11,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/CMG-1019-Small-Drink/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2002",
+    "name": "CMG-2002",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "300",
+    "sort_order": 12,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1018-large-drink/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2810",
+    "name": "CMG-2810",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "150",
+    "sort_order": 13,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2810-mexican-coca-cola/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2839",
+    "name": "CMG-2839",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "160",
+    "sort_order": 14,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2839-mexican-sprite/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2808",
+    "name": "CMG-2808",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 15,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2808-topo-chico-sparkling-water/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2867",
+    "name": "CMG-2867",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 16,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2425-diet-coke/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2849",
+    "name": "CMG-2849",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 17,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2849-coke-zero/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2378",
+    "name": "CMG-2378",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 18,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2378-san-pellegrino-aranciata/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2816",
+    "name": "CMG-2816",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 19,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/CMG-2816-San-Pellegrino-Limonata/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2805",
+    "name": "CMG-2805",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 20,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2805-san-pellegrino-sparkling-water/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2880",
+    "name": "CMG-2880",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "35",
+    "sort_order": 21,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2880-tepache-grapefruit-lime/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2881",
+    "name": "CMG-2881",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "50",
+    "sort_order": 22,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2881-tepache-tropical/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2884",
+    "name": "CMG-2884",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "25",
+    "sort_order": 23,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2884-poppi-strawberry-lemon/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2883",
+    "name": "CMG-2883",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "20",
+    "sort_order": 24,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2883-poppi-orange/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2052",
+    "name": "CMG-2052",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "160",
+    "sort_order": 25,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2052-grapefruit-izze/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2051",
+    "name": "CMG-2051",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "170",
+    "sort_order": 26,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2051-blackberry-izze/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2877",
+    "name": "CMG-2877",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "10",
+    "sort_order": 27,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2877-lemon-perfect-original/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2838",
+    "name": "CMG-2838",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "140",
+    "sort_order": 28,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2838-tractor-organic-lemonade/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2101",
+    "name": "CMG-2101",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "240",
+    "sort_order": 29,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2101-nantuckets-nectar-pressed-apple-juice/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2103",
+    "name": "CMG-2103",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "260",
+    "sort_order": 30,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2103-peach-orange-juice/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2879",
+    "name": "CMG-2879",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 31,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2879-open-water-sparkling/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2878",
+    "name": "CMG-2878",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 32,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2878-order-water-still/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2021",
+    "name": "CMG-2021",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "140",
+    "sort_order": 33,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2021-jarritos-mango/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2022",
+    "name": "CMG-2022",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "140",
+    "sort_order": 34,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2022-jarritos-guava/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2023",
+    "name": "CMG-2023",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "140",
+    "sort_order": 35,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2023-jarritos-grapefruit/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2809",
+    "name": "CMG-2809",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 36,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2809-topo-chico-sparkling-lime/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2826",
+    "name": "CMG-2826",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "120",
+    "sort_order": 37,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2826-huberts-strawberry-lemonade/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2054",
+    "name": "CMG-2054",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "160",
+    "sort_order": 38,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2054-clementine-izze/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2837",
+    "name": "CMG-2837",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "30",
+    "sort_order": 39,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2837-tractor-organic-black-tea/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2813",
+    "name": "CMG-2813",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "100",
+    "sort_order": 40,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2813-honest-half-tea-half-lemonade/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2811",
+    "name": "CMG-2811",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "70",
+    "sort_order": 41,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2811-honest-honey-green-tea/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2829",
+    "name": "CMG-2829",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 42,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2829-lipton-sweetened-tea/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2828",
+    "name": "CMG-2828",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 43,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2828-lipton-unsweetened-tea/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2827",
+    "name": "CMG-2827",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 44,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2827-starbucks-cold-brew/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2201",
+    "name": "CMG-2201",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 45,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2201-bottled-water/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2843",
+    "name": "CMG-2843",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 46,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2843-arrowhead/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2844",
+    "name": "CMG-2844",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 47,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2844-deer-park/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2846",
+    "name": "CMG-2846",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 48,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2846-ozarka/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2848",
+    "name": "CMG-2848",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 49,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2848-zephyrhills/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2845",
+    "name": "CMG-2845",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 50,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2845-ice-mountain/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2847",
+    "name": "CMG-2847",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 51,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2847-poland-spring/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2830",
+    "name": "CMG-2830",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 52,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2830-smart-water/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2102",
+    "name": "CMG-2102",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "280",
+    "sort_order": 53,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2102-pineapple-banana-orange-juice/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2104",
+    "name": "CMG-2104",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "240",
+    "sort_order": 54,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2104-pomegranate-cherry-juice/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2818",
+    "name": "CMG-2818",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": null,
+    "sort_order": 55,
+    "dietary_tags": [],
+    "thumbnail_url": ""
+  },
+  {
+    "item_id": "CMG-2807",
+    "name": "CMG-2807",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "120",
+    "sort_order": 56,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2807-san-pellegrino-blood-orange/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2381",
+    "name": "CMG-2381",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 57,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2381-dash-water-lemon/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2382",
+    "name": "CMG-2382",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 58,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2382-dash-water-peach/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2383",
+    "name": "CMG-2383",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 59,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2383-dash-water-raspberry/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2855",
+    "name": "CMG-2855",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 60,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2427-innocent-orange/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2856",
+    "name": "CMG-2856",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 61,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2428-innocent-apple/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2857",
+    "name": "CMG-2857",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 62,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2429-innocent-raspberry/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2858",
+    "name": "CMG-2858",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 63,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2430-princes-gate-still-water/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2859",
+    "name": "CMG-2859",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 64,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2431-princes-gate-sparkling-water/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2385",
+    "name": "CMG-2385",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 65,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2385-charitea-black/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2398",
+    "name": "CMG-2398",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 66,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2398-charitea-red/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2400",
+    "name": "CMG-2400",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 67,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2400-charitea-mate/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2420",
+    "name": "CMG-2420",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 68,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2420-lemonaid-lime-citron-vert/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2421",
+    "name": "CMG-2421",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 69,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2421-lemonaid-passion-fruit/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2423",
+    "name": "CMG-2423",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 70,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2423-lemonaid-ginger/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2435",
+    "name": "CMG-2435",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "0",
+    "sort_order": 71,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2435-corona/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2815",
+    "name": "CMG-2815",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": null,
+    "sort_order": 72,
+    "dietary_tags": [],
+    "thumbnail_url": ""
+  },
+  {
+    "item_id": "CMG-2801",
+    "name": "CMG-2801",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "15",
+    "sort_order": 73,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2801-spindrift-grapefruit/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2817",
+    "name": "CMG-2817",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": null,
+    "sort_order": 74,
+    "dietary_tags": [],
+    "thumbnail_url": ""
+  },
+  {
+    "item_id": "CMG-2802",
+    "name": "CMG-2802",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": null,
+    "sort_order": 75,
+    "dietary_tags": [],
+    "thumbnail_url": ""
+  },
+  {
+    "item_id": "CMG-2820",
+    "name": "CMG-2820",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "140",
+    "sort_order": 76,
+    "dietary_tags": [
+      "vege"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2820-moonshine-original-sweet-tea/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2819",
+    "name": "CMG-2819",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "140",
+    "sort_order": 77,
+    "dietary_tags": [
+      "vege"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2819-moonshine-sweet-tea-mint-honey/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2351",
+    "name": "CMG-2351",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "120",
+    "sort_order": 78,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2351-san-pellegrino-sparkling-blood-orange/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2352",
+    "name": "CMG-2352",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "110",
+    "sort_order": 79,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2352-san-pellegrino-lemon/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2353",
+    "name": "CMG-2353",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "130",
+    "sort_order": 80,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2353-san-pellegrino-orange/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2833",
+    "name": "CMG-2833",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "150",
+    "sort_order": 81,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2833-kiju-organic-lemonade/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2832",
+    "name": "CMG-2832",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "170",
+    "sort_order": 82,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2832-kiju-organic-orange-mango-juice/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2831",
+    "name": "CMG-2831",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "70",
+    "sort_order": 83,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2831-kiju-organic-green-iced-tea-w-pomegranate/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2834",
+    "name": "CMG-2834",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "130",
+    "sort_order": 84,
+    "dietary_tags": [
+      "vege",
+      "pale",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2842-lactancia-milk/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2835",
+    "name": "CMG-2835",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "160",
+    "sort_order": 85,
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2841-lactancia-chocolate-milk/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-2153",
+    "name": "CMG-2153",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "",
+    "calories": "90",
+    "sort_order": 86,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-2153-kiju-apple-juice/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3017",
+    "name": "CMG-3017",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "100",
+    "sort_order": 0,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1115-honey-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3010",
+    "name": "CMG-3010",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "130",
+    "sort_order": 1,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6608-carne-asada/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3016",
+    "name": "CMG-3016",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "100",
+    "sort_order": 2,
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/CMG-5166-Chicken-al-Pastor/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3012",
+    "name": "CMG-3012",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "180",
+    "sort_order": 3,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-112-brisket/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3002",
+    "name": "CMG-3002",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "90",
+    "sort_order": 4,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6601-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3015",
+    "name": "CMG-3015",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "120",
+    "sort_order": 5,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5165--garlic-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3013",
+    "name": "CMG-3013",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "100",
+    "sort_order": 6,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5163-pollo-asado/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3014",
+    "name": "CMG-3014",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "110",
+    "sort_order": 7,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5164-pb-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3003",
+    "name": "CMG-3003",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "70",
+    "sort_order": 8,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6602-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3005",
+    "name": "CMG-3005",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "80",
+    "sort_order": 9,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6604-barbacoa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3004",
+    "name": "CMG-3004",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "110",
+    "sort_order": 10,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6603-carnitas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3008",
+    "name": "CMG-3008",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "150",
+    "sort_order": 11,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6606-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3006",
+    "name": "CMG-3006",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "70",
+    "sort_order": 12,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6605-sofritas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1409",
+    "name": "CMG-1409",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "95",
+    "sort_order": 13,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1413-large-side-of-grilled-street-corn/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3011",
+    "name": "CMG-3011",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "120",
+    "sort_order": 14,
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1031-large-side-of-queso-blanco/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3007",
+    "name": "CMG-3007",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "",
+    "calories": "110",
+    "sort_order": 15,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1025-large-side-of-guac/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3116",
+    "name": "CMG-3116",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "100",
+    "sort_order": 0,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1115-honey-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3109",
+    "name": "CMG-3109",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "30",
+    "sort_order": 1,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6608-carne-asada/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3114",
+    "name": "CMG-3114",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "100",
+    "sort_order": 2,
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/CMG-5166-Chicken-al-Pastor/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3110",
+    "name": "CMG-3110",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "45",
+    "sort_order": 3,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-112-brisket/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3102",
+    "name": "CMG-3102",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "90",
+    "sort_order": 4,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6601-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3113",
+    "name": "CMG-3113",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "120",
+    "sort_order": 5,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5165--garlic-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3111",
+    "name": "CMG-3111",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "100",
+    "sort_order": 6,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5163-pollo-asado/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3112",
+    "name": "CMG-3112",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "110",
+    "sort_order": 7,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5164-pb-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3103",
+    "name": "CMG-3103",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "70",
+    "sort_order": 8,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6602-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3105",
+    "name": "CMG-3105",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "80",
+    "sort_order": 9,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6604-barbacoa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3104",
+    "name": "CMG-3104",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "110",
+    "sort_order": 10,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6603-carnitas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3108",
+    "name": "CMG-3108",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "40",
+    "sort_order": 11,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6606-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3107",
+    "name": "CMG-3107",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "110",
+    "sort_order": 12,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1025-large-side-of-guac/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1412",
+    "name": "CMG-1412",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "95",
+    "sort_order": 13,
+    "dietary_tags": [],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1413-large-side-of-grilled-street-corn/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3106",
+    "name": "CMG-3106",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "70",
+    "sort_order": 14,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6605-sofritas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-3101",
+    "name": "CMG-3101",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "",
+    "calories": "110",
+    "sort_order": 15,
+    "dietary_tags": [
+      "vege",
+      "keto",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5252-monterey-jack-cheese/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1216",
+    "name": "CMG-1216",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "70",
+    "sort_order": 0,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1115-honey-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1209",
+    "name": "CMG-1209",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "83",
+    "sort_order": 1,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6608-carne-asada/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1215",
+    "name": "CMG-1215",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "70",
+    "sort_order": 2,
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/CMG-5166-Chicken-al-Pastor/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1211",
+    "name": "CMG-1211",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "120",
+    "sort_order": 3,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-112-brisket/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1201",
+    "name": "CMG-1201",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "60",
+    "sort_order": 4,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6601-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1214",
+    "name": "CMG-1214",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "80",
+    "sort_order": 5,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5165--garlic-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1212",
+    "name": "CMG-1212",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "70",
+    "sort_order": 6,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5163-pollo-asado/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1213",
+    "name": "CMG-1213",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "73",
+    "sort_order": 7,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5164-pb-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1202",
+    "name": "CMG-1202",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "50",
+    "sort_order": 8,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6602-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1204",
+    "name": "CMG-1204",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "56",
+    "sort_order": 9,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6604-barbacoa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1203",
+    "name": "CMG-1203",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "70",
+    "sort_order": 10,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6603-carnitas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1208",
+    "name": "CMG-1208",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "300",
+    "sort_order": 11,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6606-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1205",
+    "name": "CMG-1205",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "50",
+    "sort_order": 12,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6605-sofritas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-1206",
+    "name": "CMG-1206",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "0",
+    "sort_order": 13,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1025-large-side-of-guac/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-428",
+    "name": "CMG-428",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "210",
+    "sort_order": 0,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1115-honey-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-409",
+    "name": "CMG-409",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "250",
+    "sort_order": 1,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6608-carne-asada/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-425",
+    "name": "CMG-425",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "200",
+    "sort_order": 2,
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/CMG-5166-Chicken-al-Pastor/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-410",
+    "name": "CMG-410",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "360",
+    "sort_order": 3,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-112-brisket/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-401",
+    "name": "CMG-401",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "180",
+    "sort_order": 4,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6601-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-422",
+    "name": "CMG-422",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "250",
+    "sort_order": 5,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5165--garlic-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-412",
+    "name": "CMG-412",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "210",
+    "sort_order": 6,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5163-pollo-asado/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-413",
+    "name": "CMG-413",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "220",
+    "sort_order": 7,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5164-pb-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-402",
+    "name": "CMG-402",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "150",
+    "sort_order": 8,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6602-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-404",
+    "name": "CMG-404",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "170",
+    "sort_order": 9,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6604-barbacoa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-403",
+    "name": "CMG-403",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "210",
+    "sort_order": 10,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6603-carnitas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-406",
+    "name": "CMG-406",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "300",
+    "sort_order": 11,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6606-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-405",
+    "name": "CMG-405",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "150",
+    "sort_order": 12,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6605-sofritas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-407",
+    "name": "CMG-407",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "",
+    "calories": "0",
+    "sort_order": 13,
+    "dietary_tags": [
+      "vege",
+      "keto",
+      "dair"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5252-monterey-jack-cheese/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-315",
+    "name": "CMG-315",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "210",
+    "sort_order": 0,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1115-honey-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-308",
+    "name": "CMG-308",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "250",
+    "sort_order": 1,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6608-carne-asada/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-314",
+    "name": "CMG-314",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "200",
+    "sort_order": 2,
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/CMG-5166-Chicken-al-Pastor/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-310",
+    "name": "CMG-310",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "360",
+    "sort_order": 3,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-112-brisket/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-301",
+    "name": "CMG-301",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "180",
+    "sort_order": 4,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6601-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-313",
+    "name": "CMG-313",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "250",
+    "sort_order": 5,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5165--garlic-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-311",
+    "name": "CMG-311",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "210",
+    "sort_order": 6,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5163-pollo-asado/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-312",
+    "name": "CMG-312",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "220",
+    "sort_order": 7,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5164-pb-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-302",
+    "name": "CMG-302",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "150",
+    "sort_order": 8,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6602-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-304",
+    "name": "CMG-304",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "170",
+    "sort_order": 9,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6604-barbacoa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-303",
+    "name": "CMG-303",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "210",
+    "sort_order": 10,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6603-carnitas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-307",
+    "name": "CMG-307",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "300",
+    "sort_order": 11,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6606-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-305",
+    "name": "CMG-305",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "150",
+    "sort_order": 12,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6605-sofritas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-306",
+    "name": "CMG-306",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "",
+    "calories": "0",
+    "sort_order": 13,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1025-large-side-of-guac/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-215",
+    "name": "CMG-215",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "210",
+    "sort_order": 0,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1115-honey-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-208",
+    "name": "CMG-208",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "250",
+    "sort_order": 1,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6608-carne-asada/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-214",
+    "name": "CMG-214",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "200",
+    "sort_order": 2,
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/CMG-5166-Chicken-al-Pastor/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-210",
+    "name": "CMG-210",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "360",
+    "sort_order": 3,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-112-brisket/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-201",
+    "name": "CMG-201",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "180",
+    "sort_order": 4,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6601-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-213",
+    "name": "CMG-213",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "250",
+    "sort_order": 5,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5165--garlic-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-211",
+    "name": "CMG-211",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "210",
+    "sort_order": 6,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5163-pollo-asado/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-212",
+    "name": "CMG-212",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "220",
+    "sort_order": 7,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-5164-pb-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-202",
+    "name": "CMG-202",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "150",
+    "sort_order": 8,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6602-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-204",
+    "name": "CMG-204",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "170",
+    "sort_order": 9,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6604-barbacoa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-203",
+    "name": "CMG-203",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "210",
+    "sort_order": 10,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6603-carnitas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-207",
+    "name": "CMG-207",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "300",
+    "sort_order": 11,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6606-chorizo/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-205",
+    "name": "CMG-205",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "150",
+    "sort_order": 12,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6605-sofritas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-206",
+    "name": "CMG-206",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "",
+    "calories": "0",
+    "sort_order": 13,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1025-large-side-of-guac/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5389",
+    "name": "CMG-5389",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "",
+    "calories": "1250",
+    "sort_order": 0,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-1115-honey-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5388",
+    "name": "CMG-5388",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "",
+    "calories": "1700",
+    "sort_order": 1,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6608-carne-asada/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5374",
+    "name": "CMG-5374",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "",
+    "calories": "1080",
+    "sort_order": 2,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6601-chicken/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5384",
+    "name": "CMG-5384",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "",
+    "calories": "900",
+    "sort_order": 3,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6602-steak/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5386",
+    "name": "CMG-5386",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "",
+    "calories": "1020",
+    "sort_order": 4,
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6604-barbacoa/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5387",
+    "name": "CMG-5387",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "",
+    "calories": "1260",
+    "sort_order": 5,
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6603-carnitas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5385",
+    "name": "CMG-5385",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "",
+    "calories": "900",
+    "sort_order": 6,
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/cmg-6605-sofritas/web-desktop/order.png"
+  },
+  {
+    "item_id": "CMG-5390",
+    "name": "CMG-5390",
+    "category": "2 Large Chips & 3 Large Sides",
+    "category_type": "BYOChips",
+    "description": "",
+    "calories": "1620",
+    "sort_order": 0,
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ],
+    "thumbnail_url": "https://www.chipotle.com/content/dam/chipotle/menu/menu-items/CMG-1016-Side-Large-Chips/web-desktop/order.png"
+  }
+]

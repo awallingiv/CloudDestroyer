@@ -1,0 +1,3543 @@
+[
+  {
+    "item_id": "CMG-308",
+    "name": "Wholesome Bowl with Carne Asada",
+    "category": "Lifestyle",
+    "description": "Supergreens Lettuce Blend, Carne Asada, Fajita Veggies, Fresh Tomato Salsa, and Guacamole",
+    "price": 0,
+    "calories": "550",
+    "dietary_tags": [
+      "WHOLE30® | PALEO | KETO"
+    ],
+    "ingredients": "Supergreens Lettuce Blend, Carne Asada, Fajita Veggies, Fresh Tomato Salsa, and Guacamole"
+  },
+  {
+    "item_id": "CMG-5374",
+    "name": "Build-Your-Own Chicken",
+    "category": "BuildYourOwn",
+    "description": "BuildYourOwn",
+    "price": 0,
+    "calories": "520 - 1220",
+    "dietary_tags": [
+      "Serves 4-6 people"
+    ],
+    "ingredients": "Chicken, White Rice, Black Beans, Cheese, Taco Lettuce, Fresh Tomato Salsa, Tomatillo-Red Chili Salsa, Sour Cream, and Guacamole. Includes 2 large bag of chips and 8 taco-sized flour tortillas."
+  },
+  {
+    "item_id": "CMG-101",
+    "name": "Balanced Macros Bowl",
+    "category": "Lifestyle",
+    "description": "Light Rice, Black Beans, Chicken, Fajita Veggies, Fresh Tomato Salsa, Guacamole, and Extra Romaine Lettuce.",
+    "price": 0,
+    "calories": "700",
+    "dietary_tags": [
+      "33g FAT  |  45g PROTEIN |  61g CARBS"
+    ],
+    "ingredients": "Light Rice, Black Beans, Chicken, Fajita Veggies, Fresh Tomato Salsa, Guacamole, and Extra Romaine Lettuce."
+  },
+  {
+    "item_id": "CMG-301",
+    "name": "Wholesome Bowl",
+    "category": "Lifestyle",
+    "description": "Salad Blend, Chicken, Fajita Veggies, Fresh Tomato Salsa, and Guac. The Wholesome Bowl is Paleo, Whole30®, Grain Free, Gluten Free, and Keto.",
+    "price": 0,
+    "calories": "470",
+    "dietary_tags": [
+      "WHOLE30® | PALEO | KETO"
+    ],
+    "ingredients": "Salad Blend, Chicken, Fajita Veggies, Fresh Tomato Salsa, and Guac. The Wholesome Bowl is Paleo, Whole30®, Grain Free, Gluten Free, and Keto."
+  },
+  {
+    "item_id": "CMG-5384",
+    "name": "Build-Your-Own Steak",
+    "category": "BuildYourOwn",
+    "description": "BuildYourOwn",
+    "price": 0,
+    "calories": "490 - 1190",
+    "dietary_tags": [
+      "Serves 4-6 people"
+    ],
+    "ingredients": "Steak, White Rice, Black Beans, Cheese, Taco Lettuce, Fresh Tomato Salsa, Tomatillo-Red Chili Salsa, Sour Cream, and Guacamole. Includes 2 large bag of chips and 8 taco-sized flour tortillas."
+  },
+  {
+    "item_id": "CMG-303",
+    "name": "Wholesome Bowl with Carnitas",
+    "category": "Lifestyle",
+    "description": "Salad Blend, Carnitas, Fajita Veggies, Fresh Tomato Salsa, and Guacamole",
+    "price": 0,
+    "calories": "490",
+    "dietary_tags": [
+      "Whole30® | Paleo | Keto"
+    ],
+    "ingredients": "Salad Blend, Carnitas, Fajita Veggies, Fresh Tomato Salsa, and Guacamole"
+  },
+  {
+    "item_id": "CMG-301",
+    "name": "Keto Salad Bowl",
+    "category": "Lifestyle",
+    "description": "Salad Blend, Chicken, Fresh Tomato Salsa, Tomatillo-Red Chili Salsa, Sour Cream, and Cheese. It's Keto, Grain Free, and Gluten Free so you can make it work for you every time.",
+    "price": 0,
+    "calories": "470",
+    "dietary_tags": [
+      "40G Protein | 24G Dietary Fiber"
+    ],
+    "ingredients": "Salad Blend, Chicken, Fresh Tomato Salsa, Tomatillo-Red Chili Salsa, Sour Cream, and Cheese. It's Keto, Grain Free, and Gluten Free so you can make it work for you every time."
+  },
+  {
+    "item_id": "CMG-5385",
+    "name": "Build-Your-Own Sofritas",
+    "category": "BuildYourOwn",
+    "description": "BuildYourOwn",
+    "price": 0,
+    "calories": "490 - 1190",
+    "dietary_tags": [
+      "Serves 4-6 people"
+    ],
+    "ingredients": "Sofritas, White Rice, Black Beans, Cheese, Taco Lettuce, Fresh Tomato Salsa, Tomatillo-Red Chili Salsa, Sour Cream, and Guacamole. Includes 2 large bag of chips and 8 taco-sized flour tortillas."
+  },
+  {
+    "item_id": "CMG-101",
+    "name": "High Protein Bowl",
+    "category": "Lifestyle",
+    "description": "White Rice, Black Beans, Double Chicken, Red Chili Salsa, Cheese, and Shredded Romaine Lettuce",
+    "price": 0,
+    "calories": "850",
+    "dietary_tags": [
+      "82g of Protein"
+    ],
+    "ingredients": "White Rice, Black Beans, Double Chicken, Red Chili Salsa, Cheese, and Shredded Romaine Lettuce"
+  },
+  {
+    "item_id": "CMG-5390",
+    "name": "2 Large Chips & 3 Large Sides",
+    "category": "BuildYourOwn",
+    "description": "BuildYourOwn",
+    "price": 0,
+    "calories": "430 - 440",
+    "dietary_tags": [
+      "Serves 4-6 people"
+    ],
+    "ingredients": "2 Large Chips, Large Queso Blanco, Large Guacamole, and Fresh Tomato Salsa."
+  },
+  {
+    "item_id": "CMG-106",
+    "name": "Veggie Full Bowl",
+    "category": "Lifestyle",
+    "description": "White Rice, Black Beans, Fajita Veggies, Fresh Tomato Salsa, Roasted Chili-Corn Salsa, and Guacamole",
+    "price": 0,
+    "calories": "700",
+    "dietary_tags": [
+      "Vegan & Vegetarian"
+    ],
+    "ingredients": "White Rice, Black Beans, Fajita Veggies, Fresh Tomato Salsa, Roasted Chili-Corn Salsa, and Guacamole"
+  },
+  {
+    "item_id": "CMG-305",
+    "name": "Plant Powered Bowl",
+    "category": "Lifestyle",
+    "description": "Salad Blend, White Rice, Sofritas, Fajita Veggies, Fresh Tomato Salsa, Roasted Chili-Corn Salsa, and Guacamole",
+    "price": 0,
+    "calories": "730",
+    "dietary_tags": [
+      "Vegan & Vegetarian"
+    ],
+    "ingredients": "Salad Blend, White Rice, Sofritas, Fajita Veggies, Fresh Tomato Salsa, Roasted Chili-Corn Salsa, and Guacamole"
+  },
+  {
+    "item_id": "CMG-301",
+    "name": "Go Half Veggie Bowl",
+    "category": "Lifestyle",
+    "description": "½ Chicken, ½ Sofritas, Lettuce White Rice, Fajita Veggies, Fresh Tomato Salsa, Roasted Chili-Corn Salsa, and Sour Cream",
+    "price": 0,
+    "calories": "630",
+    "dietary_tags": [
+      "Chicken & Veggie"
+    ],
+    "ingredients": "½ Chicken, ½ Sofritas, Lettuce White Rice, Fajita Veggies, Fresh Tomato Salsa, Roasted Chili-Corn Salsa, and Sour Cream"
+  },
+  {
+    "item_id": "CMG-15",
+    "name": "Guacamole Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-8",
+    "name": "Carne Asada Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "250",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-14",
+    "name": "Fajita Veggies Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "200",
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-10",
+    "name": "Brisket Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "360",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-1",
+    "name": "Chicken Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "180",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-13",
+    "name": "Pollo Asado Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "250",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-11",
+    "name": "Smoked Brisket Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-12",
+    "name": "Plant-Based Chorizo Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "220",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-2",
+    "name": "Steak Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-4",
+    "name": "Carnitas Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "170",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-3",
+    "name": "Barbacoa Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-7",
+    "name": "Chorizo Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "300",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-5",
+    "name": "Sofritas Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-6",
+    "name": "Veggie Burrito",
+    "category": "Burrito",
+    "category_type": "Burrito",
+    "description": "Your choice of freshly grilled meat or sofritas wrapped in a warm flour tortilla with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-117",
+    "name": "CMG-117",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-108",
+    "name": "CMG-108",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "250",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-116",
+    "name": "CMG-116",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "200",
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-112",
+    "name": "CMG-112",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "360",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-101",
+    "name": "CMG-101",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "180",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-115",
+    "name": "CMG-115",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "250",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-113",
+    "name": "CMG-113",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-114",
+    "name": "CMG-114",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "220",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-102",
+    "name": "CMG-102",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-104",
+    "name": "CMG-104",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "170",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-103",
+    "name": "CMG-103",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-107",
+    "name": "CMG-107",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "300",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-105",
+    "name": "CMG-105",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-106",
+    "name": "CMG-106",
+    "category": "Burrito Bowl",
+    "category_type": "Bowl",
+    "description": "Your choice of freshly grilled meat or sofritas served in a delicious bowl with rice, beans, or fajita veggies, and topped with guac, salsa, queso blanco, sour cream or cheese.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-5362",
+    "name": "CMG-5362",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "540",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-5363",
+    "name": "CMG-5363",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "820",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-5364",
+    "name": "CMG-5364",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "770",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-5366",
+    "name": "CMG-5366",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "1280",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-5365",
+    "name": "CMG-5365",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "780",
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-5367",
+    "name": "CMG-5367",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "1300",
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-5369",
+    "name": "CMG-5369",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "565",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-5370",
+    "name": "CMG-5370",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "555",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-5371",
+    "name": "CMG-5371",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "570",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-5372",
+    "name": "CMG-5372",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "620",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-5373",
+    "name": "CMG-5373",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "140",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-1013",
+    "name": "CMG-1013",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "770",
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-1014",
+    "name": "CMG-1014",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "1270",
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-1032",
+    "name": "CMG-1032",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "780",
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-1033",
+    "name": "CMG-1033",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "1290",
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-1006",
+    "name": "CMG-1006",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "555",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-4025",
+    "name": "CMG-4025",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "320",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "glut",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-5354",
+    "name": "CMG-5354",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "220",
+    "dietary_tags": [
+      "vege",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-1008",
+    "name": "CMG-1008",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "620",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-1007",
+    "name": "CMG-1007",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "570",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-1005",
+    "name": "CMG-1005",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "565",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-1002",
+    "name": "CMG-1002",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "540",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-1030",
+    "name": "CMG-1030",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "240",
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-1031",
+    "name": "CMG-1031",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "480",
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-5398",
+    "name": "CMG-5398",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "40",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-5500",
+    "name": "CMG-5500",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "90",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-5400",
+    "name": "CMG-5400",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "45",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-5399",
+    "name": "CMG-5399",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "120",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-1011",
+    "name": "CMG-1011",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": null,
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-1009",
+    "name": "CMG-1009",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "230",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-1025",
+    "name": "CMG-1025",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "460",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-1003",
+    "name": "CMG-1003",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "770",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-1016",
+    "name": "CMG-1016",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "810",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-1015",
+    "name": "CMG-1015",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "1270",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-9004",
+    "name": "CMG-9004",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "320",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "glut"
+    ]
+  },
+  {
+    "item_id": "CMG-9005",
+    "name": "CMG-9005",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "350",
+    "dietary_tags": [
+      "dair",
+      "soy"
+    ]
+  },
+  {
+    "item_id": "CMG-9006",
+    "name": "CMG-9006",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "420",
+    "dietary_tags": [
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-1410",
+    "name": "CMG-1410",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "190",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-1411",
+    "name": "CMG-1411",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "730",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-1413",
+    "name": "CMG-1413",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "380",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-1414",
+    "name": "CMG-1414",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "1190",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-5358",
+    "name": "CMG-5358",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "110",
+    "dietary_tags": [
+      "vege",
+      "keto",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-5411",
+    "name": "CMG-5411",
+    "category": "Chips & Sides",
+    "category_type": "default",
+    "description": "Everything else you need to round out your meal.",
+    "price": null,
+    "calories": "190",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-2019",
+    "name": "CMG-2019",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "230",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2020",
+    "name": "CMG-2020",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "330",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2010",
+    "name": "CMG-2010",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "170",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2011",
+    "name": "CMG-2011",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "250",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2014",
+    "name": "CMG-2014",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2015",
+    "name": "CMG-2015",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2012",
+    "name": "CMG-2012",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "190",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2013",
+    "name": "CMG-2013",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "280",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2017",
+    "name": "CMG-2017",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "200",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2018",
+    "name": "CMG-2018",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "290",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2001",
+    "name": "CMG-2001",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "250",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2002",
+    "name": "CMG-2002",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "300",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2810",
+    "name": "CMG-2810",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2839",
+    "name": "CMG-2839",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "160",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2808",
+    "name": "CMG-2808",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2867",
+    "name": "CMG-2867",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2849",
+    "name": "CMG-2849",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2378",
+    "name": "CMG-2378",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2816",
+    "name": "CMG-2816",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2805",
+    "name": "CMG-2805",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2880",
+    "name": "CMG-2880",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "35",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2881",
+    "name": "CMG-2881",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "50",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2884",
+    "name": "CMG-2884",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "25",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2883",
+    "name": "CMG-2883",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "20",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2052",
+    "name": "CMG-2052",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "160",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2051",
+    "name": "CMG-2051",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "170",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2877",
+    "name": "CMG-2877",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "10",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2838",
+    "name": "CMG-2838",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "140",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2101",
+    "name": "CMG-2101",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "240",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2103",
+    "name": "CMG-2103",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "260",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2879",
+    "name": "CMG-2879",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2878",
+    "name": "CMG-2878",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2021",
+    "name": "CMG-2021",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "140",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2022",
+    "name": "CMG-2022",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "140",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2023",
+    "name": "CMG-2023",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "140",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2809",
+    "name": "CMG-2809",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2826",
+    "name": "CMG-2826",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "120",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2054",
+    "name": "CMG-2054",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "160",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2837",
+    "name": "CMG-2837",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "30",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2813",
+    "name": "CMG-2813",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "100",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2811",
+    "name": "CMG-2811",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "70",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2829",
+    "name": "CMG-2829",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2828",
+    "name": "CMG-2828",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2827",
+    "name": "CMG-2827",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2201",
+    "name": "CMG-2201",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2843",
+    "name": "CMG-2843",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2844",
+    "name": "CMG-2844",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2846",
+    "name": "CMG-2846",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2848",
+    "name": "CMG-2848",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2845",
+    "name": "CMG-2845",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2847",
+    "name": "CMG-2847",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2830",
+    "name": "CMG-2830",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2102",
+    "name": "CMG-2102",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "280",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2104",
+    "name": "CMG-2104",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "240",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2818",
+    "name": "CMG-2818",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": null,
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2807",
+    "name": "CMG-2807",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "120",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2381",
+    "name": "CMG-2381",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2382",
+    "name": "CMG-2382",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2383",
+    "name": "CMG-2383",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2855",
+    "name": "CMG-2855",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2856",
+    "name": "CMG-2856",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2857",
+    "name": "CMG-2857",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2858",
+    "name": "CMG-2858",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2859",
+    "name": "CMG-2859",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2385",
+    "name": "CMG-2385",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2398",
+    "name": "CMG-2398",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2400",
+    "name": "CMG-2400",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2420",
+    "name": "CMG-2420",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2421",
+    "name": "CMG-2421",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2423",
+    "name": "CMG-2423",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2435",
+    "name": "CMG-2435",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2815",
+    "name": "CMG-2815",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": null,
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2801",
+    "name": "CMG-2801",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "15",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2817",
+    "name": "CMG-2817",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": null,
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2802",
+    "name": "CMG-2802",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": null,
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-2820",
+    "name": "CMG-2820",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "140",
+    "dietary_tags": [
+      "vege"
+    ]
+  },
+  {
+    "item_id": "CMG-2819",
+    "name": "CMG-2819",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "140",
+    "dietary_tags": [
+      "vege"
+    ]
+  },
+  {
+    "item_id": "CMG-2351",
+    "name": "CMG-2351",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "120",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2352",
+    "name": "CMG-2352",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "110",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2353",
+    "name": "CMG-2353",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "130",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-2833",
+    "name": "CMG-2833",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2832",
+    "name": "CMG-2832",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "170",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2831",
+    "name": "CMG-2831",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "70",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-2834",
+    "name": "CMG-2834",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "130",
+    "dietary_tags": [
+      "vege",
+      "pale",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-2835",
+    "name": "CMG-2835",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "160",
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-2153",
+    "name": "CMG-2153",
+    "category": "Drinks",
+    "category_type": "default",
+    "description": "Choose from a variety of sodas, ice teas, and lemonades.",
+    "price": null,
+    "calories": "90",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  },
+  {
+    "item_id": "CMG-3017",
+    "name": "CMG-3017",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "100",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3010",
+    "name": "CMG-3010",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "130",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3016",
+    "name": "CMG-3016",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "100",
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-3012",
+    "name": "CMG-3012",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "180",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-3002",
+    "name": "CMG-3002",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "90",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3015",
+    "name": "CMG-3015",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "120",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3013",
+    "name": "CMG-3013",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "100",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3014",
+    "name": "CMG-3014",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "110",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-3003",
+    "name": "CMG-3003",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "70",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-3005",
+    "name": "CMG-3005",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "80",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-3004",
+    "name": "CMG-3004",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "110",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3008",
+    "name": "CMG-3008",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-3006",
+    "name": "CMG-3006",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "70",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-1409",
+    "name": "CMG-1409",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "95",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-3011",
+    "name": "CMG-3011",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "120",
+    "dietary_tags": [
+      "vege",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-3007",
+    "name": "CMG-3007",
+    "category": "Kid's Build Your Own",
+    "category_type": "KidsBYO",
+    "description": "Your choice of meat, guacamole or queso, and two toppings to go with a pair of crispy corn or soft flour Tortillas.Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "110",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3116",
+    "name": "CMG-3116",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "100",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3109",
+    "name": "CMG-3109",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "30",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3114",
+    "name": "CMG-3114",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "100",
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-3110",
+    "name": "CMG-3110",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "45",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-3102",
+    "name": "CMG-3102",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "90",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3113",
+    "name": "CMG-3113",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "120",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3111",
+    "name": "CMG-3111",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "100",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3112",
+    "name": "CMG-3112",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "110",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-3103",
+    "name": "CMG-3103",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "70",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-3105",
+    "name": "CMG-3105",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "80",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-3104",
+    "name": "CMG-3104",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "110",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-3108",
+    "name": "CMG-3108",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "40",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-3107",
+    "name": "CMG-3107",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "110",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-1412",
+    "name": "CMG-1412",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "95",
+    "dietary_tags": []
+  },
+  {
+    "item_id": "CMG-3106",
+    "name": "CMG-3106",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "70",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-3101",
+    "name": "CMG-3101",
+    "category": "Kid's Quesadilla",
+    "category_type": "KidsQuesadilla",
+    "description": "With a side of rice and beans. Includes fruit or kid's chips and organic juice or milk.",
+    "price": null,
+    "calories": "110",
+    "dietary_tags": [
+      "vege",
+      "keto",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-1216",
+    "name": "CMG-1216",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "70",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-1209",
+    "name": "CMG-1209",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "83",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-1215",
+    "name": "CMG-1215",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "70",
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-1211",
+    "name": "CMG-1211",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "120",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-1201",
+    "name": "CMG-1201",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "60",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-1214",
+    "name": "CMG-1214",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "80",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-1212",
+    "name": "CMG-1212",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "70",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-1213",
+    "name": "CMG-1213",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "73",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-1202",
+    "name": "CMG-1202",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "50",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-1204",
+    "name": "CMG-1204",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "56",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-1203",
+    "name": "CMG-1203",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "70",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-1208",
+    "name": "CMG-1208",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "300",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-1205",
+    "name": "CMG-1205",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "50",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-1206",
+    "name": "CMG-1206",
+    "category": "One Taco",
+    "category_type": "Tacos",
+    "description": "Taco",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-428",
+    "name": "CMG-428",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-409",
+    "name": "CMG-409",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "250",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-425",
+    "name": "CMG-425",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "200",
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-410",
+    "name": "CMG-410",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "360",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-401",
+    "name": "CMG-401",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "180",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-422",
+    "name": "CMG-422",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "250",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-412",
+    "name": "CMG-412",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-413",
+    "name": "CMG-413",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "220",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-402",
+    "name": "CMG-402",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-404",
+    "name": "CMG-404",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "170",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-403",
+    "name": "CMG-403",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-406",
+    "name": "CMG-406",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "300",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-405",
+    "name": "CMG-405",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-407",
+    "name": "CMG-407",
+    "category": "Quesadilla",
+    "category_type": "Quesadilla",
+    "description": "Cheese in a Flour Tortilla with your choice of meat, sofritas or fajita veggies and three included sides.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "keto",
+      "dair"
+    ]
+  },
+  {
+    "item_id": "CMG-315",
+    "name": "CMG-315",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-308",
+    "name": "CMG-308",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "250",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-314",
+    "name": "CMG-314",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "200",
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-310",
+    "name": "CMG-310",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "360",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-301",
+    "name": "CMG-301",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "180",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-313",
+    "name": "CMG-313",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "250",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-311",
+    "name": "CMG-311",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-312",
+    "name": "CMG-312",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "220",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-302",
+    "name": "CMG-302",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-304",
+    "name": "CMG-304",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "170",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-303",
+    "name": "CMG-303",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-307",
+    "name": "CMG-307",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "300",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-305",
+    "name": "CMG-305",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-306",
+    "name": "CMG-306",
+    "category": "Salad",
+    "category_type": "Salad",
+    "description": "Your choice of meat or sofritas served with our fresh supergreens lettuce blend made of Romaine, Baby Kale, and Baby Spinach. Add beans, queso blanco, salsa, guacamole, sour cream or cheese and top it off with our signature Chipotle-Honey Vinaigrette.",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-215",
+    "name": "CMG-215",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-208",
+    "name": "CMG-208",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "250",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-214",
+    "name": "CMG-214",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "200",
+    "dietary_tags": [
+      "pale",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-210",
+    "name": "CMG-210",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "360",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-201",
+    "name": "CMG-201",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "180",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-213",
+    "name": "CMG-213",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "250",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-211",
+    "name": "CMG-211",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-212",
+    "name": "CMG-212",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "220",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-202",
+    "name": "CMG-202",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-204",
+    "name": "CMG-204",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "170",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-203",
+    "name": "CMG-203",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "210",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-207",
+    "name": "CMG-207",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "300",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-205",
+    "name": "CMG-205",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "150",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-206",
+    "name": "CMG-206",
+    "category": "Three Tacos",
+    "category_type": "Tacos",
+    "description": "Tacos",
+    "price": null,
+    "calories": "0",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-5389",
+    "name": "CMG-5389",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "Build your own bowls and tacos for a small group with your choice of meat or sofritas. Build-Your-Own meals include tortilla chips, 8 flour tortillas, rice, beans, 3 dips, and guac or queso. Top things off with even more salsas and dips.",
+    "price": null,
+    "calories": "1250",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-5388",
+    "name": "CMG-5388",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "Build your own bowls and tacos for a small group with your choice of meat or sofritas. Build-Your-Own meals include tortilla chips, 8 flour tortillas, rice, beans, 3 dips, and guac or queso. Top things off with even more salsas and dips.",
+    "price": null,
+    "calories": "1700",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-5374",
+    "name": "CMG-5374",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "Build your own bowls and tacos for a small group with your choice of meat or sofritas. Build-Your-Own meals include tortilla chips, 8 flour tortillas, rice, beans, 3 dips, and guac or queso. Top things off with even more salsas and dips.",
+    "price": null,
+    "calories": "1080",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-5384",
+    "name": "CMG-5384",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "Build your own bowls and tacos for a small group with your choice of meat or sofritas. Build-Your-Own meals include tortilla chips, 8 flour tortillas, rice, beans, 3 dips, and guac or queso. Top things off with even more salsas and dips.",
+    "price": null,
+    "calories": "900",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-5386",
+    "name": "CMG-5386",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "Build your own bowls and tacos for a small group with your choice of meat or sofritas. Build-Your-Own meals include tortilla chips, 8 flour tortillas, rice, beans, 3 dips, and guac or queso. Top things off with even more salsas and dips.",
+    "price": null,
+    "calories": "1020",
+    "dietary_tags": [
+      "pale",
+      "keto"
+    ]
+  },
+  {
+    "item_id": "CMG-5387",
+    "name": "CMG-5387",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "Build your own bowls and tacos for a small group with your choice of meat or sofritas. Build-Your-Own meals include tortilla chips, 8 flour tortillas, rice, beans, 3 dips, and guac or queso. Top things off with even more salsas and dips.",
+    "price": null,
+    "calories": "1260",
+    "dietary_tags": [
+      "pale",
+      "keto",
+      "wh30"
+    ]
+  },
+  {
+    "item_id": "CMG-5385",
+    "name": "CMG-5385",
+    "category": "Build-Your-Own",
+    "category_type": "BYOProtein",
+    "description": "Build your own bowls and tacos for a small group with your choice of meat or sofritas. Build-Your-Own meals include tortilla chips, 8 flour tortillas, rice, beans, 3 dips, and guac or queso. Top things off with even more salsas and dips.",
+    "price": null,
+    "calories": "900",
+    "dietary_tags": [
+      "vege",
+      "vega",
+      "soy",
+      "sulp"
+    ]
+  },
+  {
+    "item_id": "CMG-5390",
+    "name": "CMG-5390",
+    "category": "2 Large Chips & 3 Large Sides",
+    "category_type": "BYOChips",
+    "description": "2 Large Chips, Large Queso Blanco, Large Guacamole, and one Large Salsa of your choice.",
+    "price": null,
+    "calories": "1620",
+    "dietary_tags": [
+      "vege",
+      "vega"
+    ]
+  }
+]
