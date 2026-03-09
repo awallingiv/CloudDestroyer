@@ -17,13 +17,6 @@ from datetime import datetime, timedelta
 from typing import Dict, List, Optional, Any, Union
 from contextlib import asynccontextmanager
 
-try:
-    import pyodbc
-    PYODBC_AVAILABLE = True
-except ImportError:
-    PYODBC_AVAILABLE = False
-    print("⚠️ pyodbc not available - database features disabled")
-
 from fastapi import (
     FastAPI, HTTPException, Depends, BackgroundTasks, Request, 
     Query, Path, Body, Header, status
@@ -65,14 +58,6 @@ except ImportError:
 # =============================================================================
 
 class Config:
-    # Database connection
-    DB_CONNECTION_STRING = (
-        "DRIVER={ODBC Driver 17 for SQL Server};"
-        "SERVER=.;"
-        "DATABASE=FoodFinder;"
-        "Trusted_Connection=yes;"
-    )
-    
     # API Configuration
     API_TITLE = "CloudDestroyer Web Service"
     API_VERSION = "1.0.0"
@@ -84,7 +69,6 @@ class Config:
     - **Restaurant Menu Extraction**: Extract menus from protected sites
     - **Texas Municipalities Scraping**: Enhanced Wikipedia scraping
     - **Job Management**: Async scraping job processing
-    - **Database Integration**: Full SQL Server integration
     - **Rate Limiting**: Built-in protection against abuse
     - **Authentication**: API key-based security
     - **Health Monitoring**: System health and metrics
@@ -143,7 +127,6 @@ class HealthResponse(BaseModel):
     status: str = "healthy"
     version: str = Config.API_VERSION
     timestamp: datetime = Field(default_factory=datetime.now)
-    database_connected: bool = False
     clouddestroyer_available: bool = False
     municipalities_scraper_available: bool = False
     beautifulsoup_available: bool = False
@@ -218,99 +201,14 @@ class MunicipalitiesResponse(BaseResponse):
     statistics: Optional[Dict[str, Any]] = None
 
 # =============================================================================
-# DATABASE MANAGER
-# =============================================================================
-
-class DatabaseManager:
-    """Database connection manager"""
-    
-    def __init__(self, connection_string: str):
-        self.connection_string = connection_string
-        self.connected = False
-        if PYODBC_AVAILABLE:
-            self.connected = self._test_connection()
-    
-    def _test_connection(self) -> bool:
-        """Test database connection"""
-        try:
-            with pyodbc.connect(self.connection_string) as conn:
-                cursor = conn.cursor()
-                cursor.execute("SELECT 1")
-                print("✅ Database connection successful")
-                return True
-        except Exception as e:
-            print(f"❌ Database connection failed: {e}")
-            return False
-    
-    def execute_query(self, query: str, params: tuple = None) -> List[Dict]:
-        """Execute query safely"""
-        if not self.connected:
-            return []
-        
-        try:
-            with pyodbc.connect(self.connection_string) as conn:
-                cursor = conn.cursor()
-                
-                if params:
-                    cursor.execute(query, params)
-                else:
-                    cursor.execute(query)
-                
-                # Get column names
-                columns = [column[0] for column in cursor.description] if cursor.description else []
-                
-                # Fetch results
-                rows = cursor.fetchall()
-                
-                # Convert to dict format
-                results = []
-                for row in rows:
-                    row_dict = {}
-                    for i, value in enumerate(row):
-                        if i < len(columns):
-                            # Handle datetime objects
-                            if hasattr(value, 'isoformat'):
-                                value = value.isoformat()
-                            row_dict[columns[i]] = value
-                    results.append(row_dict)
-                
-                return results
-                
-        except Exception as e:
-            print(f"Database query failed: {e}")
-            return []
-    
-    def get_job_stats(self) -> Dict[str, int]:
-        """Get job statistics from database"""
-        if not self.connected:
-            return {}
-        
-        try:
-            stats = self.execute_query("""
-                SELECT 
-                    COUNT(*) as total_jobs,
-                    SUM(CASE WHEN status = 'completed' THEN 1 ELSE 0 END) as completed_jobs,
-                    SUM(CASE WHEN status = 'failed' THEN 1 ELSE 0 END) as failed_jobs,
-                    SUM(CASE WHEN status = 'pending' THEN 1 ELSE 0 END) as pending_jobs
-                FROM universal_scraping_jobs
-            """)
-            
-            return stats[0] if stats else {}
-            
-        except Exception as e:
-            print(f"Failed to get job stats: {e}")
-            return {}
-
-# =============================================================================
 # JOB MANAGER
 # =============================================================================
 
 class JobManager:
     """In-memory job manager for background processing"""
     
-    def __init__(self, db_manager: DatabaseManager = None):
+    def __init__(self):
         self.active_jobs: Dict[str, Dict] = {}
-        self.db_manager = db_manager
         self.job_queue = asyncio.Queue()
         self.processing_jobs = set()
     
@@ -547,7 +445,6 @@ async def optional_api_key(credentials: HTTPAuthorizationCredentials = Depends(s
 # GLOBAL VARIABLES
 # =============================================================================
 
-db_manager = None
 job_manager = None
 start_time = time.time()
 
@@ -558,16 +455,13 @@ start_time = time.time()
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Application lifespan management"""
-    global db_manager, job_manager
+    global job_manager
     
     # Startup
     print("🚀 Starting CloudDestroyer FastAPI service...")
     
-    # Initialize database
-    db_manager = DatabaseManager(Config.DB_CONNECTION_STRING)
-    
     # Initialize job manager
-    job_manager = JobManager(db_manager)
+    job_manager = JobManager()
     
     # Start background job processor
     asyncio.create_task(job_manager.process_jobs())
@@ -613,8 +507,7 @@ async def root():
             "scraping": "/scrape",
             "jobs": "/jobs", 
             "menu_extraction": "/extract/menu",
-            "municipalities": "/scrape/municipalities",
-            "database": "/database/restaurants"
+            "municipalities": "/scrape/municipalities"
         },
         "authentication": {
             "method": "Bearer token",
@@ -635,10 +528,6 @@ async def health_check(api_key: str = Depends(optional_api_key)):
         features.append("Texas Municipalities Scraper")
     if BEAUTIFULSOUP_AVAILABLE:
         features.append("HTML Parsing")
-    if db_manager and db_manager.connected:
-        features.append("SQL Server Database")
-    if PYODBC_AVAILABLE:
-        features.append("Database Connectivity")
     
     # Test CloudDestroyer availability
     cd_available = CLOUDDESTROYER_AVAILABLE
@@ -651,7 +540,6 @@ async def health_check(api_key: str = Depends(optional_api_key)):
             print(f"CloudDestroyer test failed: {e}")
     
     return HealthResponse(
-        database_connected=db_manager.connected if db_manager else False,
         clouddestroyer_available=cd_available,
         municipalities_scraper_available=MUNICIPALITIES_AVAILABLE,
         beautifulsoup_available=BEAUTIFULSOUP_AVAILABLE,
@@ -670,19 +558,10 @@ async def get_metrics(api_key: str = Depends(verify_api_key)):
         "features_available": {
             "clouddestroyer": CLOUDDESTROYER_AVAILABLE,
             "municipalities": MUNICIPALITIES_AVAILABLE,
-            "beautifulsoup": BEAUTIFULSOUP_AVAILABLE,
-            "database": db_manager.connected if db_manager else False
+            "beautifulsoup": BEAUTIFULSOUP_AVAILABLE
         }
     }
-    
-    # Get database job statistics
-    if db_manager and db_manager.connected:
-        try:
-            job_stats = db_manager.get_job_stats()
-            metrics.update(job_stats)
-        except Exception as e:
-            print(f"Failed to get job stats: {e}")
-    
+
     return metrics
 
 # =============================================================================
@@ -1078,68 +957,6 @@ async def scrape_municipalities(
     except Exception as e:
         print(f"❌ Municipalities scraping failed: {e}")
         raise HTTPException(status_code=500, detail=str(e))
-
-# =============================================================================
-# DATABASE ENDPOINTS
-# =============================================================================
-
-@app.get("/database/restaurants")
-async def get_restaurants(
-    limit: int = Query(20, ge=1, le=100),
-    api_key: str = Depends(verify_api_key)
-):
-    """Get restaurants from database - requires authentication"""
-    
-    if not db_manager or not db_manager.connected:
-        raise HTTPException(status_code=503, detail="Database not available")
-    
-    try:
-        restaurants = db_manager.execute_query(
-            f"SELECT TOP ({limit}) * FROM restaurants ORDER BY restaurant_id DESC"
-        )
-        
-        return {
-            "success": True,
-            "count": len(restaurants),
-            "restaurants": restaurants,
-            "note": "This endpoint requires active SQL Server connection"
-        }
-        
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
-
-@app.get("/database/jobs")
-async def get_database_jobs(
-    limit: int = Query(10, ge=1, le=50),
-    api_key: str = Depends(verify_api_key)
-):
-    """Get scraping jobs from database - requires authentication"""
-    
-    if not db_manager or not db_manager.connected:
-        return {
-            "success": False, 
-            "message": "Database not available", 
-            "jobs": [],
-            "note": "Database connection required for this endpoint"
-        }
-    
-    try:
-        jobs = db_manager.execute_query(
-            f"SELECT TOP ({limit}) * FROM universal_scraping_jobs ORDER BY created_at DESC"
-        )
-        
-        return {
-            "success": True,
-            "count": len(jobs),
-            "jobs": jobs
-        }
-        
-    except Exception as e:
-        return {
-            "success": False, 
-            "message": f"Database error: {str(e)}", 
-            "jobs": []
-        }
 
 # =============================================================================
 # WEBHOOK & UTILITY ENDPOINTS

@@ -8,9 +8,6 @@ uvicorn[standard]==0.24.0
 # HTTP client for webhooks and external requests
 httpx==0.25.2
 
-# Database connectivity (SQL Server)
-pyodbc==5.0.1
-
 # Optional: Rate limiting
 slowapi==0.1.9
 
