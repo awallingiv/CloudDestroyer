@@ -101,29 +101,6 @@
 			"group": "build"
 		},
 		{
-			"label": "Import California ZIP Codes",
-			"type": "shell",
-			"command": "python",
-			"args": [
-				"import_zipcodes_to_sql.py"
-			],
-			"isBackground": false,
-			"problemMatcher": [],
-			"group": "build"
-		},
-		{
-			"label": "Import California ZIP Codes",
-			"type": "shell",
-			"command": "python",
-			"args": [
-				"import_zipcodes_to_sql.py",
-				"California"
-			],
-			"isBackground": false,
-			"problemMatcher": [],
-			"group": "build"
-		},
-		{
 			"label": "Regenerate California ZIP Codes",
 			"type": "shell",
 			"command": "python",
