@@ -13,9 +13,14 @@ import asyncio
 import json
 import time
 import uuid
+import socket
+import ipaddress
+from collections import defaultdict, deque
+from functools import lru_cache
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional, Any, Union
 from contextlib import asynccontextmanager
+import urllib.parse
 
 try:
     import pyodbc
@@ -37,6 +42,7 @@ import httpx
 # CloudDestroyer imports
 import sys
 import os
+from pathlib import Path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
 
 try:
@@ -63,6 +69,45 @@ except ImportError:
 # =============================================================================
 # CONFIGURATION
 # =============================================================================
+
+def _load_api_keys() -> Dict[str, Dict[str, Any]]:
+    """
+    Load API keys from environment or disk. Expected formats:
+    - Env var CD_API_KEYS containing JSON mapping of key -> metadata.
+    - File pointed to by CD_API_KEYS_FILE containing same JSON structure.
+    Falls back to baked-in demo keys for local development.
+    """
+    env_var = "CD_API_KEYS"
+    file_var = "CD_API_KEYS_FILE"
+    default_keys = {
+        "demo_key_123": {
+            "label": "Demo API Key",
+            "scopes": ["public", "scrape"],
+            "status": "active",
+            "rate_limit": {"per_minute": 30, "per_day": 1000}
+        }
+    }
+    
+    keys_blob = os.getenv(env_var)
+    if keys_blob:
+        try:
+            loaded = json.loads(keys_blob)
+            if isinstance(loaded, dict):
+                return loaded
+        except json.JSONDecodeError:
+            print("⚠️ Failed to parse CD_API_KEYS env JSON; falling back to defaults")
+    
+    file_path = os.getenv(file_var)
+    if file_path:
+        try:
+            data = json.loads(Path(file_path).read_text())
+            if isinstance(data, dict):
+                return data
+        except Exception as exc:
+            print(f"⚠️ Failed to load API keys from {file_path}: {exc}")
+    
+    return default_keys
+
 
 class Config:
     # Database connection
@@ -115,18 +160,198 @@ class Config:
     """
     
     # Security
-    VALID_API_KEYS = {
-        "cd_api_key_prod": "Production API Key",
-        "cd_api_key_dev": "Development API Key", 
-        "cd_api_key_test": "Testing API Key",
-        "demo_key_123": "Demo API Key"  # For testing
+    API_KEYS: Dict[str, Dict[str, Any]] = _load_api_keys()
+    API_KEY_META_CACHE: Dict[str, Dict[str, Any]] = {}
+    API_KEY_ENV = "CD_API_KEYS"
+    API_KEY_FILE_ENV = "CD_API_KEYS_FILE"
+    DEFAULT_RATE_LIMITS = {
+        "per_minute": int(os.getenv("CD_RATE_LIMIT_PER_MIN", "60")),
+        "per_day": int(os.getenv("CD_RATE_LIMIT_PER_DAY", "2000"))
     }
+    ALLOWED_TARGETS = {
+        host.strip().lower()
+        for host in os.getenv("CD_ALLOWED_HOSTS", "").split(",")
+        if host.strip()
+    }
+    DENIED_TARGETS = {
+        host.strip().lower()
+        for host in os.getenv("CD_DENIED_HOSTS", "").split(",")
+        if host.strip()
+    }
+    BLOCK_PRIVATE_NETWORKS = os.getenv("CD_BLOCK_PRIVATE_NETWORKS", "1") != "0"
+    ALLOWED_SCHEMES = {"http", "https"}
+    JOB_QUEUE_MAXSIZE = int(os.getenv("CD_JOB_QUEUE_MAXSIZE", "25"))
+    JOB_MAX_CONCURRENCY = int(os.getenv("CD_JOB_MAX_CONCURRENCY", "5"))
     
     # CloudDestroyer settings
     DESTROYER_HEADLESS = True
     DESTROYER_SESSION_PERSISTENCE = True
     DESTROYER_MAX_RETRIES = 3
     DESTROYER_TIMEOUT = 60
+    
+    @classmethod
+    def refresh_api_keys(cls):
+        """Reload API keys from configured sources."""
+        cls.API_KEYS = _load_api_keys()
+        cls.API_KEY_META_CACHE.clear()
+    
+    @classmethod
+    def get_api_key_metadata(cls, key: str) -> Optional[Dict[str, Any]]:
+        """Return metadata for an API key if active."""
+        if key in cls.API_KEY_META_CACHE:
+            return cls.API_KEY_META_CACHE[key]
+        
+        meta = cls.API_KEYS.get(key)
+        if not meta:
+            return None
+        
+        if meta.get("status", "active") != "active":
+            return None
+        
+        cls.API_KEY_META_CACHE[key] = meta
+        return meta
+    
+    @classmethod
+    def host_is_allowed(cls, host: str) -> bool:
+        host = host.lower()
+        if cls.DENIED_TARGETS and _host_matches_any(host, cls.DENIED_TARGETS):
+            return False
+        if cls.ALLOWED_TARGETS:
+            return _host_matches_any(host, cls.ALLOWED_TARGETS)
+        return True
+
+
+def _host_matches_any(host: str, patterns: set) -> bool:
+    host = host.lower()
+    for pattern in patterns:
+        pattern = pattern.lower()
+        if pattern.startswith("*."):
+            suffix = pattern[1:]
+            if host.endswith(suffix) or host == suffix.lstrip("."):
+                return True
+        elif host == pattern or host.endswith(f".{pattern}"):
+            return True
+    return False
+
+
+@lru_cache(maxsize=512)
+def _resolve_host_ips(host: str) -> List[ipaddress._BaseAddress]:
+    """Resolve host to IPs with simple caching."""
+    try:
+        addr_info = socket.getaddrinfo(host, None)
+    except socket.gaierror:
+        return []
+    
+    ips = []
+    for info in addr_info:
+        ip_str = info[4][0]
+        try:
+            ips.append(ipaddress.ip_address(ip_str))
+        except ValueError:
+            continue
+    return ips
+
+
+def _ip_is_restricted(ip_obj: ipaddress._BaseAddress) -> bool:
+    return any([
+        ip_obj.is_private,
+        ip_obj.is_loopback,
+        ip_obj.is_link_local,
+        ip_obj.is_reserved,
+        ip_obj.is_multicast,
+        ip_obj.is_unspecified
+    ])
+
+
+def enforce_outbound_policy(target_url: str):
+    """Validate outbound target against allow/deny lists and network policy."""
+    parsed = urllib.parse.urlparse(target_url)
+    
+    if parsed.scheme.lower() not in Config.ALLOWED_SCHEMES:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Only http/https targets are permitted."
+        )
+    
+    host = (parsed.hostname or "").lower()
+    if not host:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Invalid target URL."
+        )
+    
+    if not Config.host_is_allowed(host):
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Target host is not permitted for this service."
+        )
+    
+    if Config.BLOCK_PRIVATE_NETWORKS:
+        ips = _resolve_host_ips(host)
+        if not ips:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Unable to resolve target host."
+            )
+        if any(_ip_is_restricted(ip) for ip in ips):
+            raise HTTPException(
+                status_code=status.HTTP_403_FORBIDDEN,
+                detail="Target resolves to a restricted network."
+            )
+
+
+class RateLimiter:
+    """Simple in-memory rate limiter keyed by API token."""
+    
+    def __init__(self, default_limits: Dict[str, int]):
+        self.default_per_minute = default_limits.get("per_minute", 60)
+        self.default_per_day = default_limits.get("per_day", 2000)
+        self.history: Dict[str, Dict[str, deque]] = defaultdict(
+            lambda: {"minute": deque(), "day": deque()}
+        )
+        self.lock = asyncio.Lock()
+    
+    async def assert_within_limits(self, api_key: str, metadata: Dict[str, Any]):
+        limits = metadata.get("rate_limit", {})
+        per_minute = limits.get("per_minute", self.default_per_minute)
+        per_day = limits.get("per_day", self.default_per_day)
+        now = time.time()
+        
+        async with self.lock:
+            bucket = self.history[api_key]
+            self._prune(bucket["minute"], now - 60)
+            self._prune(bucket["day"], now - 86400)
+            
+            if len(bucket["minute"]) >= per_minute:
+                raise HTTPException(
+                    status_code=status.HTTP_429_TOO_MANY_REQUESTS,
+                    detail="Per-minute rate limit exceeded for this API key."
+                )
+            
+            if len(bucket["day"]) >= per_day:
+                raise HTTPException(
+                    status_code=status.HTTP_429_TOO_MANY_REQUESTS,
+                    detail="Daily rate limit exceeded for this API key."
+                )
+            
+            bucket["minute"].append(now)
+            bucket["day"].append(now)
+    
+    def _prune(self, window: deque, threshold: float):
+        while window and window[0] < threshold:
+            window.popleft()
+    
+    def snapshot(self) -> Dict[str, Dict[str, int]]:
+        """Return lightweight usage stats per key."""
+        snapshot = {}
+        now = time.time()
+        for key, bucket in self.history.items():
+            minute = deque(bucket["minute"])
+            day = deque(bucket["day"])
+            self._prune(minute, now - 60)
+            self._prune(day, now - 86400)
+            snapshot[key] = {"minute": len(minute), "day": len(day)}
+        return snapshot
 
 # =============================================================================
 # PYDANTIC MODELS
@@ -305,17 +530,34 @@ class DatabaseManager:
 # JOB MANAGER
 # =============================================================================
 
+class JobQueueAtCapacity(Exception):
+    """Raised when job submissions exceed queue capacity."""
+
+
 class JobManager:
     """In-memory job manager for background processing"""
     
-    def __init__(self, db_manager: DatabaseManager = None):
+    def __init__(
+        self,
+        db_manager: DatabaseManager = None,
+        max_concurrency: int = 5,
+        max_queue_size: int = 25
+    ):
         self.active_jobs: Dict[str, Dict] = {}
         self.db_manager = db_manager
-        self.job_queue = asyncio.Queue()
+        self.job_queue = asyncio.Queue(maxsize=max_queue_size)
         self.processing_jobs = set()
+        self.worker_semaphore = asyncio.Semaphore(max_concurrency)
+        self.max_queue_size = max_queue_size
+        self.max_concurrency = max_concurrency
     
-    def create_job(self, job_type: str, target_url: str, **kwargs) -> str:
+    async def create_job(self, job_type: str, target_url: str, **kwargs) -> str:
         """Create new job"""
+        if self.job_queue.full():
+            raise JobQueueAtCapacity(
+                f"Job queue at capacity ({self.max_queue_size}). Please retry later."
+            )
+        
         job_id = str(uuid.uuid4())
         
         job_data = {
@@ -333,14 +575,9 @@ class JobManager:
         self.active_jobs[job_id] = job_data
         print(f"📋 Created job {job_id} ({job_type})")
         
-        # Queue for background processing
-        asyncio.create_task(self._queue_job(job_data))
+        await self.job_queue.put(job_data)
         
         return job_id
-    
-    async def _queue_job(self, job_data: Dict):
-        """Queue job for processing"""
-        await self.job_queue.put(job_data)
     
     def get_job_status(self, job_id: str) -> Optional[Dict]:
         """Get job status"""
@@ -360,6 +597,8 @@ class JobManager:
                 # Get job from queue
                 job_data = await self.job_queue.get()
                 
+                await self.worker_semaphore.acquire()
+                
                 # Process job in background
                 asyncio.create_task(self._process_single_job(job_data))
                 
@@ -372,6 +611,8 @@ class JobManager:
         job_id = job_data["job_id"]
         
         if job_id in self.processing_jobs:
+            self.worker_semaphore.release()
+            self.job_queue.task_done()
             return
         
         self.processing_jobs.add(job_id)
@@ -420,11 +661,16 @@ class JobManager:
             
             # Clean up after delay
             asyncio.create_task(self._cleanup_job(job_id))
+            
+            self.worker_semaphore.release()
+            self.job_queue.task_done()
     
     async def _process_scrape_job(self, job_data: Dict) -> Dict:
         """Process generic scraping job"""
         if not CLOUDDESTROYER_AVAILABLE:
             raise Exception("CloudDestroyer not available")
+        
+        enforce_outbound_policy(job_data["target_url"])
         
         destroyer = CloudDestroyer(
             headless=Config.DESTROYER_HEADLESS,
@@ -529,18 +775,23 @@ async def verify_api_key(credentials: HTTPAuthorizationCredentials = Depends(sec
             detail="API key required. Include 'Authorization: Bearer your_api_key' header."
         )
     
-    if credentials.credentials not in Config.VALID_API_KEYS:
+    metadata = Config.get_api_key_metadata(credentials.credentials)
+    if not metadata:
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail="Invalid API key"
         )
-    return Config.VALID_API_KEYS[credentials.credentials]
+    
+    await rate_limiter.assert_within_limits(credentials.credentials, metadata)
+    return metadata
 
 # Optional auth for public endpoints
 async def optional_api_key(credentials: HTTPAuthorizationCredentials = Depends(security)):
     """Optional API key verification"""
-    if credentials and credentials.credentials in Config.VALID_API_KEYS:
-        return Config.VALID_API_KEYS[credentials.credentials]
+    if credentials:
+        metadata = Config.get_api_key_metadata(credentials.credentials)
+        if metadata:
+            return metadata
     return None
 
 # =============================================================================
@@ -550,6 +801,7 @@ async def optional_api_key(credentials: HTTPAuthorizationCredentials = Depends(s
 db_manager = None
 job_manager = None
 start_time = time.time()
+rate_limiter = RateLimiter(Config.DEFAULT_RATE_LIMITS)
 
 # =============================================================================
 # FASTAPI APP SETUP
@@ -567,7 +819,11 @@ async def lifespan(app: FastAPI):
     db_manager = DatabaseManager(Config.DB_CONNECTION_STRING)
     
     # Initialize job manager
-    job_manager = JobManager(db_manager)
+    job_manager = JobManager(
+        db_manager,
+        max_concurrency=Config.JOB_MAX_CONCURRENCY,
+        max_queue_size=Config.JOB_QUEUE_MAXSIZE
+    )
     
     # Start background job processor
     asyncio.create_task(job_manager.process_jobs())
@@ -672,7 +928,8 @@ async def get_metrics(api_key: str = Depends(verify_api_key)):
             "municipalities": MUNICIPALITIES_AVAILABLE,
             "beautifulsoup": BEAUTIFULSOUP_AVAILABLE,
             "database": db_manager.connected if db_manager else False
-        }
+        },
+        "rate_limit_usage": rate_limiter.snapshot()
     }
     
     # Get database job statistics
@@ -701,6 +958,8 @@ async def scrape_url(
             status_code=503, 
             detail="CloudDestroyer not available. Please check service configuration."
         )
+    
+    enforce_outbound_policy(scrape_req.url)
     
     start_time = time.time()
     
@@ -773,6 +1032,8 @@ async def test_cloudflare_bypass(
     if not CLOUDDESTROYER_AVAILABLE:
         raise HTTPException(status_code=503, detail="CloudDestroyer not available")
     
+    enforce_outbound_policy(url)
+    
     destroyer = CloudDestroyer()
     
     try:
@@ -840,13 +1101,21 @@ async def create_job(
 ):
     """Create background scraping job - requires authentication"""
     
-    job_id = job_manager.create_job(
-        job_type=job_req.job_type,
-        target_url=job_req.target_url,
-        priority=job_req.priority,
-        parameters=job_req.parameters or {},
-        callback_url=job_req.callback_url
-    )
+    enforce_outbound_policy(job_req.target_url)
+    
+    try:
+        job_id = await job_manager.create_job(
+            job_type=job_req.job_type,
+            target_url=job_req.target_url,
+            priority=job_req.priority,
+            parameters=job_req.parameters or {},
+            callback_url=job_req.callback_url
+        )
+    except JobQueueAtCapacity as exc:
+        raise HTTPException(
+            status_code=status.HTTP_429_TOO_MANY_REQUESTS,
+            detail=str(exc)
+        )
     
     return {
         "job_id": job_id,
@@ -905,6 +1174,8 @@ async def extract_menu(
     
     if not CLOUDDESTROYER_AVAILABLE:
         raise HTTPException(status_code=503, detail="CloudDestroyer not available")
+    
+    enforce_outbound_policy(menu_req.restaurant_url)
     
     try:
         print(f"🍽️ Extracting menu from: {menu_req.restaurant_url}")

@@ -16,6 +16,7 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 from .detectors.challenge_detector import ChallengeDetector, ChallengeType
 from .strategies.cloudscraper_method import CloudscraperMethod
 from .strategies.selenium_stealth import SeleniumStealth
+from .strategies.playwright_stealth import PlaywrightStealth, PLAYWRIGHT_AVAILABLE
 from ..stealth.fingerprint_manager import FingerprintManager
 
 
@@ -60,6 +61,7 @@ class BypassOrchestrator:
         # Strategy instances
         self.cloudscraper = None
         self.selenium_stealth = None
+        self.playwright_stealth = None
         
         # Success tracking
         self.attempt_history: List[BypassAttempt] = []
@@ -208,6 +210,10 @@ class BypassOrchestrator:
                 response = self._cloudscraper_request(url, fingerprint, **kwargs)
             elif strategy == BypassStrategy.SELENIUM_STEALTH:
                 response = self._selenium_request(url, fingerprint, **kwargs)
+            elif strategy == BypassStrategy.PLAYWRIGHT_STEALTH:
+                response = self._playwright_request(url, fingerprint, **kwargs)
+            elif strategy == BypassStrategy.FULL_ESCALATION:
+                response = self._full_escalation_request(url, challenge_type, fingerprint, **kwargs)
             else:
                 raise ValueError(f"Unsupported strategy: {strategy}")
             
@@ -286,6 +292,49 @@ class BypassOrchestrator:
         
         response = self.selenium_stealth.get(url)
         return response
+    
+    def _playwright_request(self, url: str, fingerprint: Dict, **kwargs) -> Any:
+        """Request using Playwright stealth method"""
+        if not PLAYWRIGHT_AVAILABLE:
+            raise RuntimeError("Playwright strategy unavailable - install playwright to enable it.")
+        
+        if not self.playwright_stealth:
+            self.playwright_stealth = PlaywrightStealth(
+                headless=kwargs.get('headless', True),
+                timeout=self.strategy_timeout
+            )
+        
+        response = self.playwright_stealth.get(url)
+        return response
+    
+    def _full_escalation_request(
+        self,
+        url: str,
+        challenge_type: ChallengeType,
+        fingerprint: Dict,
+        **kwargs
+    ) -> Any:
+        """Run a chain of increasingly heavy strategies."""
+        strategies = [
+            self._cloudscraper_request,
+            self._selenium_request,
+            self._playwright_request
+        ]
+        
+        last_exception = None
+        for handler in strategies:
+            try:
+                response = handler(url, fingerprint, **kwargs)
+                if self._verify_bypass_success(response, challenge_type):
+                    return response
+            except Exception as exc:
+                last_exception = exc
+                logger.debug(f"Escalation sub-strategy failed: {exc}")
+                continue
+        
+        if last_exception:
+            raise last_exception
+        raise RuntimeError("Full escalation failed without response")
     
     def _verify_bypass_success(self, response: Any, original_challenge: ChallengeType) -> bool:
         """
@@ -411,6 +460,9 @@ class BypassOrchestrator:
             if self.selenium_stealth:
                 self.selenium_stealth.close()
                 self.selenium_stealth = None
+            if self.playwright_stealth:
+                self.playwright_stealth.close()
+                self.playwright_stealth = None
                 
             logger.info("Bypass orchestrator cleaned up")
             
